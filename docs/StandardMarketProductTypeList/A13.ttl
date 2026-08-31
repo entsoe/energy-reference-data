@@ -1,0 +1,10 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A13> a skos:Concept ;
+    dcterms:identifier "A13" ;
+    skos:definition "The market product type is static. E.g. used in the Frequency Containment Reserve (FCR) market for entities that have difficulties to comply with dynamic requirements, such as activation/deactivation performance and dynamic stability. "@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Static product" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+

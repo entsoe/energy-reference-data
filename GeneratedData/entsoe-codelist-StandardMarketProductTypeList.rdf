@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardMarketProductTypeList</skos:prefLabel>
     <dcterms:identifier>ET0008</dcterms:identifier>
     <skos:definition xml:lang="en">The identification of the type of a product on a market view</skos:definition>
@@ -84,5 +84,40 @@
     <dcterms:identifier>A11</dcterms:identifier>
     <skos:prefLabel>Fast activation product</skos:prefLabel>
     <skos:definition xml:lang="en">The fast activation product shall be considered as a fall-back solution for situations where coordination with all parties is no longer possible due to insufficient time and the regular product could not be properly applied.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList/A12">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <dcterms:identifier>A12</dcterms:identifier>
+    <skos:prefLabel>Remedial Action Cost Sharing Polluter Pays</skos:prefLabel>
+    <skos:definition xml:lang="en">Cost sharing of coordinated remedial action measures (redispatch and countertrading) under the polluter pays principle.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList/A13">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <dcterms:identifier>A13</dcterms:identifier>
+    <skos:prefLabel>Static product</skos:prefLabel>
+    <skos:definition xml:lang="en">The market product type is static. E.g. used in the Frequency Containment Reserve (FCR) market for entities that have difficulties to comply with dynamic requirements, such as activation/deactivation performance and dynamic stability. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList/A14">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <dcterms:identifier>A14</dcterms:identifier>
+    <skos:prefLabel>Dynamic product</skos:prefLabel>
+    <skos:definition xml:lang="en">The market product type is dynamic. E.g. used in the Frequency Containment Reserve (FCR) market for entities that can provide continuous response and comply with dynamic requirements.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList/A15">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <dcterms:identifier>A15</dcterms:identifier>
+    <skos:prefLabel>RedispatchA15)</skos:prefLabel>
+    <skos:definition xml:lang="en">Indicates the redispatch product.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardMarketProductTypeList/A16">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardMarketProductTypeList"/>
+    <dcterms:identifier>A16</dcterms:identifier>
+    <skos:prefLabel>Capacity Steering</skos:prefLabel>
+    <skos:definition xml:lang="en">Indicates the capacity steering product.</skos:definition>
   </skos:Concept>
 </rdf:RDF>

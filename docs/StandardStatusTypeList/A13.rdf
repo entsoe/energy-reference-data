@@ -4,6 +4,6 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardStatusTypeList"/>
     <dcterms:identifier>A13</dcterms:identifier>
     <skos:prefLabel>Withdrawn</skos:prefLabel>
-    <skos:definition xml:lang="en">The information has been withdrawn by the submitter.</skos:definition>
+    <skos:definition xml:lang="en">The information or action has been withdrawn by the submitter.</skos:definition>
   </skos:Concept>
 </rdf:RDF>
