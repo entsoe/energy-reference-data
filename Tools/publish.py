@@ -383,7 +383,7 @@ data_to_publish = [
 
 files_to_keep = {
     "CNAME",
-    "github-mark-white.svg"
+    "github-mark-white.svg",
     ".nojekyll"
 }
 
