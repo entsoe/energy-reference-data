@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardGridAgreementTypeList">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
+    <skos:prefLabel>StandardGridAgreementTypeList</skos:prefLabel>
+    <dcterms:identifier>
+        </dcterms:identifier>
+    <skos:definition xml:lang="en">Contract dirctly</skos:definition>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardGridAgreementTypeList/E01">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <dcterms:identifier>E01</dcterms:identifier>
+    <skos:prefLabel>Grid usage contract directly between Grid Access Provider and Customer</skos:prefLabel>
+    <skos:definition xml:lang="en">The grid usage contract is a contract directly between the grid access provider and the customer.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardGridAgreementTypeList/E02">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <dcterms:identifier>E02</dcterms:identifier>
+    <skos:prefLabel>Grid usage contract  directly between Energy Supplier and Grid Access Provider</skos:prefLabel>
+    <skos:definition xml:lang="en">The grid usage contract is a contract directly between the energy supplier and the grid access provider.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardGridAgreementTypeList/E03">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <dcterms:identifier>E03</dcterms:identifier>
+    <skos:prefLabel>Grid usage contract  between Grid Access Provider and Customer through Energy Supplier</skos:prefLabel>
+    <skos:definition xml:lang="en">The grid usage contract is a contract between the grid access provider and customer through the energy supplier.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardGridAgreementTypeList/E04">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardGridAgreementTypeList"/>
+    <dcterms:identifier>E04</dcterms:identifier>
+    <skos:prefLabel>No grid usage contract</skos:prefLabel>
+    <skos:definition xml:lang="en">There is no grid usage contract that must be signed by the customer.</skos:definition>
+  </skos:Concept>
+</rdf:RDF>

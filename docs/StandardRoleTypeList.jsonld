@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A12",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A20",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -9,90 +9,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A12",
-            "@skos:prefLabel": "Energy supplier",
+            "@dcterms:identifier": "A20",
+            "@skos:prefLabel": "Party connected to grid",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A22",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A22",
-            "@skos:prefLabel": "Profile maintenance party",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A19",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A19",
-            "@skos:prefLabel": "Meter administrator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A36",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A36",
-            "@skos:prefLabel": "Capacity Coordinator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party, acting on behalf of the SOs involved, responsible for establishing a coordinated Offered Capacity and/or NTC and/or ATC between several Scheduling Areas."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A16",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A16",
-            "@skos:prefLabel": "Coordination centre operator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList",
-            "@type": [
-                "@skos:ConceptScheme",
-                "@dcat:Dataset"
-            ],
-            "@dcterms:modified": "2023-12-14",
-            "@dcat:version": "91",
-            "@skos:prefLabel": "StandardRoleTypeList",
-            "@dcterms:identifier": "ET0005",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Identification of the role played by a party."
             }
         },
         {
@@ -112,7 +33,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A58",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/WK",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -120,15 +41,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A58",
-            "@skos:prefLabel": "Metered data administrator",
+            "@dcterms:identifier": "WK",
+            "@skos:prefLabel": "Value added network provider",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A party responsible for storing and distributing validated measured data."
+                "@value": "A party that provides interconnectivity services in an electronic data interchange environment."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A52",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A34",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -136,27 +57,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A52",
-            "@skos:prefLabel": "Resource aggregator",
+            "@dcterms:identifier": "A34",
+            "@skos:prefLabel": "Reserve Allocator",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A party that aggregates resources for usage by a service provider for energy market services."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A35",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A35",
-            "@skos:prefLabel": "MOL Responsible",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that Informs the market of reserve requirements, receives tenders against the requirements and in compliance with the prequalification criteria, determines what tenders meet requirements and assigns tenders."
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that informs the market of reserve requirements, receives tenders against the requirements and in compliance with the prequalification criteria, determines what tenders meet requirements and assigns tenders."
             }
         },
         {
@@ -176,102 +81,6 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A39",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A39",
-            "@skos:prefLabel": "Data provider",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that is responsible for providing information to a central authority."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A50",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A50",
-            "@skos:prefLabel": "Distribution System Operator (DSO)",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Distribution System Operator (DSO) is responsible for transport of electricity on high-voltage (optionally), medium-voltage and low-voltage distribution systems. This is a market participant and not a role in Harmonised Role Model."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A18",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A18",
-            "@skos:prefLabel": "Grid operator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A28",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A28",
-            "@skos:prefLabel": "Scheduling coordinator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A23",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A23",
-            "@skos:prefLabel": "Meter operator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A56",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A56",
-            "@skos:prefLabel": "Flexibility service provider",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that offers flexibility services based on acquired (aggregated) resources. "
-            }
-        },
-        {
             "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A21",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -282,22 +91,6 @@
             },
             "@dcterms:identifier": "A21",
             "@skos:prefLabel": "Producer",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A15",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A15",
-            "@skos:prefLabel": "Control block operator",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
@@ -320,7 +113,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A01",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A24",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -328,75 +121,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A01",
-            "@skos:prefLabel": "Trade responsible party",
+            "@dcterms:identifier": "A24",
+            "@skos:prefLabel": "Metered data collector",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A09",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A09",
-            "@skos:prefLabel": "Metered data aggregator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A40",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A40",
-            "@skos:prefLabel": "Local Issuing Office (LIO)",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that is responsible for operating a Local Issuing Office (LIO)."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A04",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A04",
-            "@skos:prefLabel": "System operator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A47",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A47",
-            "@skos:prefLabel": "Energy trader",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that is selling or buying energy."
             }
         },
         {
@@ -416,7 +145,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A38",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A56",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -424,15 +153,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A38",
-            "@skos:prefLabel": "Reconciliation Responsible",
+            "@dcterms:identifier": "A56",
+            "@skos:prefLabel": "Flexibility service provider",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A party that is responsible for reconciling, within a metering grid area, the volumes used in the imbalance settlement process for profiled metering points and the actual metered quantities."
+                "@value": "A party that offers flexibility services based on acquired (aggregated) resources. "
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A03",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A23",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -440,168 +169,8 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A03",
-            "@skos:prefLabel": "Combined power exchange (not to be used)",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "This role is no longer in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A07",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A07",
-            "@skos:prefLabel": "Transmission capacity allocator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A33",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A33",
-            "@skos:prefLabel": "Information receiver",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party, not necessarily a market participant, which receives information about the market."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A29",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A29",
-            "@skos:prefLabel": "Capacity Trader",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A43",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A43",
-            "@skos:prefLabel": "Weather analyser",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that analyses the current and forecast weather situation and establishes a prognosis of its impact on the renewable energy environment as well as the overall load."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A13",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A13",
-            "@skos:prefLabel": "Consumer",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A41",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A41",
-            "@skos:prefLabel": "Central Issuing Office (CIO)",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party that is responsible for operating a Central Issuing Office (CIO)."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A25",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A25",
-            "@skos:prefLabel": "Metered data responsible",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A20",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A20",
-            "@skos:prefLabel": "Party connected to grid",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A54",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A54",
-            "@skos:prefLabel": "Settlement responsible",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party responsible for settling the costs."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A30",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A30",
-            "@skos:prefLabel": "Interconnection Trade Responsible",
+            "@dcterms:identifier": "A23",
+            "@skos:prefLabel": "Meter operator",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
@@ -624,70 +193,6 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A02",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A02",
-            "@skos:prefLabel": "Consumption responsible party",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A51",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A51",
-            "@skos:prefLabel": "Resource Capacity Mechanism Operator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Resource capacity mechanism operator is the party responsible to operate the resource capacity mechanism in a member state. It can either be the TSO or an independent party."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A24",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A24",
-            "@skos:prefLabel": "Metered data collector",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A34",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A34",
-            "@skos:prefLabel": "Reserve Allocator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that informs the market of reserve requirements, receives tenders against the requirements and in compliance with the prequalification criteria, determines what tenders meet requirements and assigns tenders."
-            }
-        },
-        {
             "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A17",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -698,6 +203,341 @@
             },
             "@dcterms:identifier": "A17",
             "@skos:prefLabel": "Grid access provider",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A10",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A10",
+            "@skos:prefLabel": "Billing agent",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A33",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A33",
+            "@skos:prefLabel": "Information receiver",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party, not necessarily a market participant, which receives information about the market."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A14",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A14",
+            "@skos:prefLabel": "Control area operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A09",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A09",
+            "@skos:prefLabel": "Metered data aggregator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A06",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A06",
+            "@skos:prefLabel": "Production responsible party",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A38",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A38",
+            "@skos:prefLabel": "Reconciliation Responsible",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is responsible for reconciling, within a metering grid area, the volumes used in the imbalance settlement process for profiled metering points and the actual metered quantities."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A18",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A18",
+            "@skos:prefLabel": "Grid operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A39",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A39",
+            "@skos:prefLabel": "Data provider",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is responsible for providing information to a central authority."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList",
+            "@type": [
+                "@skos:ConceptScheme",
+                "@dcat:Dataset"
+            ],
+            "@dcterms:modified": "2026-06-04",
+            "@dcat:version": "95",
+            "@skos:prefLabel": "StandardRoleTypeList",
+            "@dcterms:identifier": "ET0005",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Identification of the role played by a party."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A45",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A45",
+            "@skos:prefLabel": "Energy Service Company (ESCO)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party offering energy-related services to the Party Connected to Grid, but not directly active in the energy value chain or the physical infrastructure itself. The ESCO may provide insight services as well as energy management services."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A42",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A42",
+            "@skos:prefLabel": "EIC Participant",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that participates in the EIC environment."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A29",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A29",
+            "@skos:prefLabel": "Capacity Trader",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A22",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A22",
+            "@skos:prefLabel": "Profile maintenance party",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A13",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A13",
+            "@skos:prefLabel": "Consumer",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A60",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A60",
+            "@skos:prefLabel": "Data Provider",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that has a mandate to provide information to other parties in the energy market."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A27",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A27",
+            "@skos:prefLabel": "Resource Provider",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A36",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A36",
+            "@skos:prefLabel": "Capacity Coordinator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party, acting on behalf of the SOs involved, responsible for establishing a coordinated Offered Capacity and/or NTC and/or ATC between several Scheduling Areas."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A28",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A28",
+            "@skos:prefLabel": "Scheduling coordinator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A52",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A52",
+            "@skos:prefLabel": "Resource aggregator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that aggregates resources for usage by a service provider for energy market services."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A41",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A41",
+            "@skos:prefLabel": "Central Issuing Office (CIO)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is responsible for operating a Central Issuing Office (CIO)."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A16",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A16",
+            "@skos:prefLabel": "Coordination centre operator",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
@@ -720,7 +560,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A14",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A19",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -728,15 +568,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A14",
-            "@skos:prefLabel": "Control area operator",
+            "@dcterms:identifier": "A19",
+            "@skos:prefLabel": "Meter administrator",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A27",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A40",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -744,15 +584,79 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A27",
-            "@skos:prefLabel": "Resource Provider",
+            "@dcterms:identifier": "A40",
+            "@skos:prefLabel": "Local Issuing Office (LIO)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is responsible for operating a Local Issuing Office (LIO)."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A03",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A03",
+            "@skos:prefLabel": "Combined power exchange (not to be used)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "This role is no longer in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A51",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A51",
+            "@skos:prefLabel": "Resource Capacity Mechanism Operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Resource capacity mechanism operator is the party responsible to operate the resource capacity mechanism in a member state. It can either be the TSO or an independent party."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A47",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A47",
+            "@skos:prefLabel": "Energy trader",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is selling or buying energy."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A12",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A12",
+            "@skos:prefLabel": "Energy supplier",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A11",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A07",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -760,11 +664,75 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A11",
-            "@skos:prefLabel": "Market operator",
+            "@dcterms:identifier": "A07",
+            "@skos:prefLabel": "Transmission capacity allocator",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A43",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A43",
+            "@skos:prefLabel": "Weather analyser",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that analyses the current and forecast weather situation and establishes a prognosis of its impact on the renewable energy environment as well as the overall load."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A15",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A15",
+            "@skos:prefLabel": "Control block operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A48",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A48",
+            "@skos:prefLabel": "LFC Operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party that is responsible for the Load Frequency Control of its LFC Area or LFC Block."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A32",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A32",
+            "@skos:prefLabel": "Market information aggregator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that collects information from different sources and assembles  it to provide a summary of the market."
             }
         },
         {
@@ -800,7 +768,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A49",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A02",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -808,15 +776,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A49",
-            "@skos:prefLabel": "Transmission System Operator (TSO)",
+            "@dcterms:identifier": "A02",
+            "@skos:prefLabel": "Consumption responsible party",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The Transmission System Operator (TSO) is responsible for the transport of electricity on the extra high-voltage and high-voltage interconnected system. This is a market participant and not a role in Harmonised Role Model."
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A48",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A25",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -824,15 +792,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A48",
-            "@skos:prefLabel": "LFC Operator",
+            "@dcterms:identifier": "A25",
+            "@skos:prefLabel": "Metered data responsible",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A party that is responsible for the Load Frequency Control of its LFC Area or LFC Block."
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A42",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A11",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -840,43 +808,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A42",
-            "@skos:prefLabel": "EIC Participant",
+            "@dcterms:identifier": "A11",
+            "@skos:prefLabel": "Market operator",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A party that participates in the EIC environment."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A32",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A32",
-            "@skos:prefLabel": "Market information aggregator",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that collects information from different sources and assembles  it to provide a summary of the market."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A45",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
-            },
-            "@dcterms:identifier": "A45",
-            "@skos:prefLabel": "Energy Service Company (ESCO)",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A party offering energy-related services to the Party Connected to Grid, but not directly active in the energy value chain or the physical infrastructure itself. The ESCO may provide insight services as well as energy management services."
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
@@ -896,6 +832,38 @@
             }
         },
         {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A35",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A35",
+            "@skos:prefLabel": "MOL Responsible",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document. \nA party that Informs the market of reserve requirements, receives tenders against the requirements and in compliance with the prequalification criteria, determines what tenders meet requirements and assigns tenders."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A54",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A54",
+            "@skos:prefLabel": "Settlement responsible",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A party responsible for settling the costs."
+            }
+        },
+        {
             "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A55",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -912,7 +880,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A06",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A30",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -920,15 +888,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A06",
-            "@skos:prefLabel": "Production responsible party",
+            "@dcterms:identifier": "A30",
+            "@skos:prefLabel": "Interconnection Trade Responsible",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A10",
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A58",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
@@ -936,11 +904,43 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
             },
-            "@dcterms:identifier": "A10",
-            "@skos:prefLabel": "Billing agent",
+            "@dcterms:identifier": "A58",
+            "@skos:prefLabel": "Metered data administrator",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+                "@value": "A party responsible for storing and distributing validated measured data."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A49",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A49",
+            "@skos:prefLabel": "Transmission System Operator (TSO)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The Transmission System Operator (TSO) is responsible for the transport of electricity on the extra high-voltage and high-voltage interconnected system. This is a market participant and not a role in Harmonised Role Model."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A50",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A50",
+            "@skos:prefLabel": "Distribution System Operator (DSO)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Distribution System Operator (DSO) is responsible for transport of electricity on high-voltage (optionally), medium-voltage and low-voltage distribution systems. This is a market participant and not a role in Harmonised Role Model."
             }
         },
         {
@@ -957,6 +957,38 @@
             "@skos:definition": {
                 "@language": "en",
                 "@value": "A party responsible for the mapping of the costs between areas and parties."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A01",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A01",
+            "@skos:prefLabel": "Trade responsible party",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardRoleTypeList/A04",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardRoleTypeList"
+            },
+            "@dcterms:identifier": "A04",
+            "@skos:prefLabel": "System operator",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Refer to role model definitions in the ENTSO-E Harmonised Role Model Document."
             }
         }
     ],

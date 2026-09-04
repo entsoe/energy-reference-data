@@ -1,6 +1,54 @@
 {
     "@graph": [
         {
+            "@id": "http://energy.referencedata.eu/StandardEicTypeList/Y",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@dcterms:identifier": "Y",
+            "@skos:prefLabel": "Area or Domain",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "An EIC code to identify areas or domains."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardEicTypeList/T",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@dcterms:identifier": "T",
+            "@skos:prefLabel": "Tieline",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "An EIC code to identify tielines."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardEicTypeList/Z",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
+            },
+            "@dcterms:identifier": "Z",
+            "@skos:prefLabel": "Measurement point",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "An EIC code to identify measurement points."
+            }
+        },
+        {
             "@id": "http://energy.referencedata.eu/StandardEicTypeList/W",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -33,19 +81,18 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardEicTypeList/Y",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@dcterms:identifier": "Y",
-            "@skos:prefLabel": "Area or Domain",
+            "@id": "http://energy.referencedata.eu/StandardEicTypeList",
+            "@type": [
+                "@skos:ConceptScheme",
+                "@dcat:Dataset"
+            ],
+            "@dcterms:modified": "2026-06-04",
+            "@dcat:version": "95",
+            "@skos:prefLabel": "StandardEicTypeList",
+            "@dcterms:identifier": "ET0028",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "An EIC code to identify areas or domains."
+                "@value": "The coded identification of the type of an EIC code."
             }
         },
         {
@@ -78,53 +125,6 @@
             "@skos:definition": {
                 "@language": "en",
                 "@value": "An EIC code to identify locations."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardEicTypeList/Z",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@dcterms:identifier": "Z",
-            "@skos:prefLabel": "Measurement point",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "An EIC code to identify measurement points."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardEicTypeList",
-            "@type": [
-                "@skos:ConceptScheme",
-                "@dcat:Dataset"
-            ],
-            "@dcterms:modified": "2023-12-14",
-            "@dcat:version": "91",
-            "@skos:prefLabel": "StandardEicTypeList",
-            "@dcterms:identifier": "ET0028",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The coded identification of the type of an EIC code."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardEicTypeList/T",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardEicTypeList"
-            },
-            "@dcterms:identifier": "T",
-            "@skos:prefLabel": "Tieline",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "An EIC code to identify tielines."
             }
         }
     ],

@@ -1,0 +1,27 @@
+{
+    "@id": "http://energy.referencedata.eu/StandardReasonCodeTypeList/B72",
+    "@type": "@skos:Concept",
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/StandardReasonCodeTypeList"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/StandardReasonCodeTypeList"
+    },
+    "@dcterms:identifier": "B72",
+    "@skos:prefLabel": "In execution of a contract with the customer (Execution of contract)",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract."
+    },
+    "@context": {
+        "@cim": "http://iec.ch/TC57/2013/CIM-schema-cim16#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@dc": "http://purl.org/dc/elements/1.1/",
+        "@dcterms": "http://purl.org/dc/terms/",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@ecl": "urn:entsoe.eu:wgedi:codelists",
+        "@xs": "http://www.w3.org/2001/XMLSchema"
+    }
+}
