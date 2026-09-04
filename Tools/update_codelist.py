@@ -107,7 +107,7 @@ def read_codelist_metadata(zip_path: Path, preview_mode=False):
                     print("\nSTOP: Incoming Code List is older than the repository version.")
                     return
 
-            except (TypeError, ValueError):
+            except (TypeError, ValueError) as exc:
                 raise ValueError(
                     "Could not compare incoming and repository Code List versions."
                 ) from exc
