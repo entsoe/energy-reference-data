@@ -366,8 +366,8 @@ concept_table_row_html_template = """
 """
 
 
-
-data_to_publish = [
+def main():
+  data_to_publish = [
     "../GeneratedData/PowerFlowSettings.rdf",
     "../GeneratedData/BaseVoltage.rdf",
     "../GeneratedData/entsoe-codelist-StandardEicTypeList.rdf",
@@ -381,20 +381,20 @@ data_to_publish = [
     "../GeneratedData/allocated-eic.rdf"
 ]
 
-files_to_keep = {
+  files_to_keep = {
     "CNAME",
     "github-mark-white.svg",
     ".nojekyll"
-}
+  }
 
-# TODO - add a conf file for data to be published
-# TODO - add status to ConceptScheme and Concept so that official and unofficial lists can be differentiated
+  # TODO - add a conf file for data to be published
+  # TODO - add status to ConceptScheme and Concept so that official and unofficial lists can be differentiated
 
-# Clean
-clean_directory(publication_base_path, files_to_keep)
-# Generate new content
-frontpage_rows = ""
-for item in data_to_publish:
+  # Clean
+  clean_directory(publication_base_path, files_to_keep)
+  # Generate new content
+  frontpage_rows = ""
+  for item in data_to_publish:
     # Parse XML and find relevant elements
     parser = etree.XMLParser(remove_blank_text=True)
     data = etree.parse(item, parser=parser)
@@ -449,7 +449,10 @@ for item in data_to_publish:
     print(f"Generating index fo {publication_base_path}/{relative_path}")
     Path(publication_base_path).joinpath(relative_path).joinpath("index.html").write_text(concept_scheme_html_template.format(concept_rows=concept_rows, identifier=concept_scheme_metadata["prefLabel"]))
 
-print(f"Generating frontpage to {publication_base_path}")
-Path(publication_base_path).joinpath("index.html").write_text(frontpage_html_template.format(frontpage_rows))
-print("Done")
+  print(f"Generating frontpage to {publication_base_path}")
+  Path(publication_base_path).joinpath("index.html").write_text(frontpage_html_template.format(frontpage_rows))
+  print("Done")
+
+if __name__ == "__main__":
+  main()
 
