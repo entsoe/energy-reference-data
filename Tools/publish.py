@@ -4,7 +4,11 @@ from rdflib import Graph
 from os import path
 
 publication_base_path = r"../docs"
-def publish_item(data, name, relative_path="", base_path=publication_base_path):
+
+def publish_item(data, name, relative_path="", base_path=None):
+    if base_path is None:
+        base_path = publication_base_path
+
     # Define all folder and path names
     item_path = Path(base_path).joinpath(Path(relative_path)).joinpath(Path(name))
     print(f"Publishing {item_path}")
@@ -18,17 +22,27 @@ def publish_item(data, name, relative_path="", base_path=publication_base_path):
     item_path.mkdir(parents=True, exist_ok=True)
 
     # Write index.html
-    item_index_path.write_text(redirect_html_template.format(identifier=name))
+    item_index_path.write_text(
+      redirect_html_template.format(identifier=name),
+      encoding="utf-8"
+    )
 
     # Write .rdf data
-    Path(f"{item_file_path}.rdf").write_bytes(etree.tostring(data, pretty_print=True))
+    Path(f"{item_file_path}.rdf").write_bytes(
+        etree.tostring(data, pretty_print=True)
+    )
 
     # Generate .jsonld data based on .rdf
-    convert_rdfxml_to_jsonld(f"{item_file_path}.rdf", f"{item_file_path}.jsonld")
+    convert_rdfxml_to_jsonld(
+        f"{item_file_path}.rdf",
+        f"{item_file_path}.jsonld"
+    )
 
     # Generate .ttl data based on .rdf
-    convert_rdfxml_to_turtle(f"{item_file_path}.rdf", f"{item_file_path}.ttl")
-
+    convert_rdfxml_to_turtle(
+        f"{item_file_path}.rdf",
+        f"{item_file_path}.ttl"
+    )
 
 def clean_directory(path: str, excluded_files: set):
     path = Path(path)
@@ -56,7 +70,7 @@ def convert_rdfxml_to_jsonld(source_path, destination_path):
     data = graph.serialize(format='json-ld', indent=4, context=context, sort_keys=False, use_native_types=True)
 
     # Write JSON-LD data to a file
-    Path(destination_path).write_text(data)
+    Path(destination_path).write_text(data, encoding="utf-8")
 
 def convert_rdfxml_to_turtle(source_path, destination_path):
     # Parse to graph
@@ -67,7 +81,7 @@ def convert_rdfxml_to_turtle(source_path, destination_path):
     data = graph.serialize(format='turtle')
 
     # Write JSON-LD data to a file
-    Path(destination_path).write_text(data)
+    Path(destination_path).write_text(data, encoding="utf-8")
 
 
 
@@ -365,6 +379,68 @@ concept_table_row_html_template = """
 </tr>
 """
 
+collection_table_row_html_template = """
+<tr>
+    <td><a href="{url}">{label}</a></td>
+    <td>{url}</td>
+</tr>
+"""
+
+collection_html_template = """
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{identifier} Reference Collection</title>
+  </head>
+  <body>
+    <h1>{identifier}</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Property</th>
+          <th>URI</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {member_rows}
+      </tbody>
+    </table>
+  </body>
+</html>
+"""
+
+
+def get_dataset_metadata(data):
+    dataset = data.find("{*}ConceptScheme")
+
+    if dataset is None:
+        dataset = data.find("{*}Dataset")
+
+    if dataset is None:
+        raise ValueError("No ConceptScheme or Dataset found.")
+
+    metadata = {
+        child.tag.split("}")[1]: child.text
+        for child in dataset.getchildren()
+        if child.text is not None
+    }
+
+    if "prefLabel" not in metadata and "title" in metadata:
+        metadata["prefLabel"] = metadata["title"]
+
+    if "definition" not in metadata and "description" in metadata:
+        metadata["definition"] = metadata["description"]
+
+    if "modified" not in metadata and "issued" in metadata:
+        metadata["modified"] = metadata["issued"]
+
+    if not metadata.get("version"):
+        metadata["version"] = "1"
+
+    return dataset, metadata
 
 def main():
   data_to_publish = [
@@ -394,27 +470,81 @@ def main():
   clean_directory(publication_base_path, files_to_keep)
   # Generate new content
   frontpage_rows = ""
+
   for item in data_to_publish:
     # Parse XML and find relevant elements
     parser = etree.XMLParser(remove_blank_text=True)
     data = etree.parse(item, parser=parser)
-    concept_scheme = data.find("{*}ConceptScheme")
-    concepts = data.iterfind("{*}Concept")
 
-    # Extract metadata from ConceptScheme
-    concept_scheme_metadata = {child.tag.split("}")[1]: child.text for child in concept_scheme.getchildren() if child.text != None}
-    if not concept_scheme_metadata.get("version"):
-        concept_scheme_metadata["version"] = "1"
-    frontpage_rows += table_row_html_template.format(**concept_scheme_metadata)
+    concept_scheme, concept_scheme_metadata = get_dataset_metadata(data)
+    concepts = list(data.iterfind("{*}Concept"))
+
+    publication_name = (
+        "PropertyReference"
+        if Path(item).name == "PropertyReference.rdf"
+        else concept_scheme_metadata["prefLabel"]
+    )
+
+    if not concept_scheme_metadata.get("definition"):
+      concept_scheme_metadata["definition"] = ""
+
+    if not concept_scheme_metadata.get("modified"):
+      concept_scheme_metadata["modified"] = ""
+
+    if not concept_scheme_metadata.get("identifier"):
+      concept_scheme_metadata["identifier"] = ""
+
+    frontpage_rows += table_row_html_template.format(
+      **concept_scheme_metadata
+    )
 
     # Publish ConceptScheme
-    publish_item(data, concept_scheme_metadata["prefLabel"])
+    publish_item(
+      data,
+      publication_name
+    )
 
     # Publish Concepts
     concept_rows = ""
+    relative_path = publication_name
+
+    collection = data.find("{*}Collection")
+
+    if collection is not None and not concepts:
+      member_rows = ""
+
+      for member in collection.findall("{*}hadMember"):
+        member_url = member.attrib.get(
+          "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource",
+          ""
+      )
+
+        if not member_url:
+          continue
+
+        member_label = member_url.split("#")[-1].split("/")[-1]
+
+        member_rows += collection_table_row_html_template.format(
+          url=member_url,
+          label=member_label
+        )
+
+      print(f"Generating collection index for {publication_base_path}/{relative_path}")
+
+      Path(publication_base_path).joinpath(
+        relative_path
+      ).joinpath(
+        "index.html"
+      ).write_text(
+          collection_html_template.format(
+            member_rows=member_rows,
+            identifier=concept_scheme_metadata["prefLabel"]
+          ),
+          encoding="utf-8"
+      )
+
     for concept in concepts:
         name = concept.attrib.values()[0].split("/")[-1]
-        relative_path = concept_scheme_metadata["prefLabel"]
 
         # Wrap concept in RDF root element
         rdf_root = etree.Element('{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF', nsmap=concept.nsmap)
@@ -446,11 +576,24 @@ def main():
         concept_rows += concept_table_row_html_template.format(**concept_metadata)
 
     # Publish Concept Index
-    print(f"Generating index fo {publication_base_path}/{relative_path}")
-    Path(publication_base_path).joinpath(relative_path).joinpath("index.html").write_text(concept_scheme_html_template.format(concept_rows=concept_rows, identifier=concept_scheme_metadata["prefLabel"]))
-
+    if concepts:
+      print(f"Generating index for {publication_base_path}/{relative_path}")
+      Path(publication_base_path).joinpath(relative_path).joinpath(
+        "index.html"
+      ).write_text(
+          concept_scheme_html_template.format(
+            concept_rows=concept_rows,
+            identifier=concept_scheme_metadata["prefLabel"]
+        ),
+        encoding="utf-8"
+      )
   print(f"Generating frontpage to {publication_base_path}")
-  Path(publication_base_path).joinpath("index.html").write_text(frontpage_html_template.format(frontpage_rows))
+  Path(publication_base_path).joinpath(
+      "index.html"
+  ).write_text(
+      frontpage_html_template.format(frontpage_rows),
+      encoding="utf-8"
+  )
   print("Done")
 
 if __name__ == "__main__":
