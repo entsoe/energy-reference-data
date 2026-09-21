@@ -73,8 +73,8 @@
     <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
     <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
     <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
-    <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
-    <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
+    <cim:PowerFlowSettings.activePowerTolerance>0.5</cim:PowerFlowSettings.activePowerTolerance>
+    <cim:PowerFlowSettings.reactivePowerTolerance>0.5</cim:PowerFlowSettings.reactivePowerTolerance>
     <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
     <cim:PowerFlowSettings.voltageAngleLimit>10</cim:PowerFlowSettings.voltageAngleLimit>
     <cim:PowerFlowSettings.impedanceThreshold>1e-05</cim:PowerFlowSettings.impedanceThreshold>

@@ -7,7 +7,7 @@
     cim:IdentifiedObject.description "CGM Process - Relaxed settings with controls on transformers and shunts disabled. To be used when creating a CGM and CGM creation fails with Default settings" ;
     cim:IdentifiedObject.mRID "0722a865-678e-4539-99a3-460e42d87b39" ;
     cim:IdentifiedObject.name "CGM Creation Relaxed 1" ;
-    cim:PowerFlowSettings.activePowerTolerance "0.1" ;
+    cim:PowerFlowSettings.activePowerTolerance "0.5" ;
     cim:PowerFlowSettings.algorithmKind cim:PowerFlowAlgorithmKind.fullNewtonRaphson ;
     cim:PowerFlowSettings.flatStart "true" ;
     cim:PowerFlowSettings.impedanceThreshold "1e-05" ;
@@ -15,7 +15,7 @@
     cim:PowerFlowSettings.loadVoltageDependency "false" ;
     cim:PowerFlowSettings.maxIterationsInnerLoop "30" ;
     cim:PowerFlowSettings.maxIterationsOuterLoop "15" ;
-    cim:PowerFlowSettings.reactivePowerTolerance "0.1" ;
+    cim:PowerFlowSettings.reactivePowerTolerance "0.5" ;
     cim:PowerFlowSettings.respectActivePowerLimits "true" ;
     cim:PowerFlowSettings.respectReactivePowerLimits "true" ;
     cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly ;

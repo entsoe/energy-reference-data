@@ -14,8 +14,8 @@
                 "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
             },
             "@cim:PowerFlowSettings.flatStart": "true",
-            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.activePowerTolerance": "0.5",
+            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.5",
             "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
             "@cim:PowerFlowSettings.voltageAngleLimit": "10",
             "@cim:PowerFlowSettings.impedanceThreshold": "1e-05",

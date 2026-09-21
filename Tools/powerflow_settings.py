@@ -64,7 +64,7 @@ def rename_and_append_key(data, original_key, new_key, original_value=None, new_
         description = pandas.DataFrame(data.query(f"KEY == '{original_key}'"))
 
     description["KEY"] = new_key
-    data = data.append(description, ignore_index=True)
+    data = pandas.concat([data, description], ignore_index=True)
     return data
 
 def add_key_and_value(data, type, key, value, id=None):
@@ -78,7 +78,7 @@ def add_key_and_value(data, type, key, value, id=None):
     filter["KEY"] = key
     filter["VALUE"] = value
 
-    data = data.append(filter, ignore_index=True)
+    data = pandas.concat([data, filter], ignore_index=True)
     return data
 
 
