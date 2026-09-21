@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000002855",
     "@skos:prefLabel": "DUGE    G2      HYDRO",
-    "@skos:altLabel": "NO-DUGE____G2___",
+    "@skos:altLabel": "NO-DUGEG2",
     "@cim:IdentifiedObject.mRID": "50WGI00000002855",
     "@cim:IdentifiedObject.name": "DUGE    G2      HYDRO",
     "@cim:Names.name": [
-        "NO-DUGE____G2___",
+        "NO-DUGEG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

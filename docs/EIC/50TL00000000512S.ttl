@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000512S" ;
-    cim:IdentifiedObject.name "M 132 Mosjøen-Alverk1 Kabel TVII" ;
+    cim:IdentifiedObject.name "N 132 Mosjøen-Alverk1 Kabel TVII" ;
     cim:Names.name "Internal Line",
-        "NO-MOSJOENALTVII" ;
+        "NO-132MOSJO_TVII" ;
     dcterms:identifier "urn:eic:50TL00000000512S" ;
-    skos:altLabel "NO-MOSJOENALTVII" ;
+    skos:altLabel "NO-132MOSJO_TVII" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Mosjøen-Alverk1 Kabel TVII" ;
+    skos:prefLabel "N 132 Mosjøen-Alverk1 Kabel TVII" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

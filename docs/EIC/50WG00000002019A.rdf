@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000002019A</dcterms:identifier>
     <skos:prefLabel>VAMMA   G6      HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-VAMMA___G6___</skos:altLabel>
+    <skos:altLabel>NO-VAMMAG6</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000002019A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>VAMMA   G6      HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-VAMMA___G6___</cim:Names.name>
+    <cim:Names.name>NO-VAMMAG6</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

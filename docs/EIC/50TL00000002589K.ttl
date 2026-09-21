@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002589K" ;
     cim:IdentifiedObject.name "S 420 Brenntangen Nord-Tegneby" ;
     cim:Names.name "Internal Line",
-        "NO-BRENNTANGENNO" ;
+        "NO-420BRENNGNEBY" ;
     dcterms:identifier "urn:eic:50TL00000002589K" ;
-    skos:altLabel "NO-BRENNTANGENNO" ;
+    skos:altLabel "NO-420BRENNGNEBY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 420 Brenntangen Nord-Tegneby" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

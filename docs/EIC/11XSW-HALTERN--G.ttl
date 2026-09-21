@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSW-HALTERN--G" ;
     cim:IdentifiedObject.name "Stadtwerke Haltern am See GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE127134116",
-        "SW-HALTERN" ;
+    cim:Names.name "DE127134116",
+        "SW-HALTERN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSW-HALTERN--G" ;
     schema1:vatID "DE127134116" ;
     skos:altLabel "SW-HALTERN" ;

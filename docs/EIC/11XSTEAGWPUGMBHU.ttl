@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11XSTEAGWPUGMBHU> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11XSTEAGWPUGMBHU" ;
+    cim:IdentifiedObject.name "Iqony Windpark Ullersdorf GmbH & Co. KG" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE293205512",
+        "STEAGWPU" ;
+    dcterms:identifier "urn:eic:11XSTEAGWPUGMBHU" ;
+    schema1:vatID "DE293205512" ;
+    skos:altLabel "STEAGWPU" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Iqony Windpark Ullersdorf GmbH & Co. KG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

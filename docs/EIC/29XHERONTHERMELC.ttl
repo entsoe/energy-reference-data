@@ -7,23 +7,24 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-05" ;
+    cim:DateAndOrTime.date "2024-01-17" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "HERON SINGLE MEMBER S.A. ENERGY SERVICES  Independent Power Producer and Electricity Supplier. " ;
+    cim:IdentifiedObject.description """HERON SOCIETE ANONYME ENERGY SERVICES 
+Independent Power Producer and Electricity Supplier.""" ;
     cim:IdentifiedObject.mRID "29XHERONTHERMELC" ;
-    cim:IdentifiedObject.name "HERON SINGLE MEMBER S.A. ENERGY SERVICES" ;
+    cim:IdentifiedObject.name "HERON SOCIETE ANONYME ENERGY SERVICES" ;
     cim:Names.name "A0003851E.GR",
         "Balance Responsible Party",
         "EL099810593",
         "HERON_ENERGY_SA",
         "Producer",
-        "Production Responsible party",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:29XHERONTHERMELC" ;
     schema1:vatID "EL099810593" ;
     skos:altLabel "HERON_ENERGY_SA" ;
-    skos:definition "HERON SINGLE MEMBER S.A. ENERGY SERVICES  Independent Power Producer and Electricity Supplier. "@en ;
+    skos:definition """HERON SOCIETE ANONYME ENERGY SERVICES 
+Independent Power Producer and Electricity Supplier."""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HERON SINGLE MEMBER S.A. ENERGY SERVICES" ;
+    skos:prefLabel "HERON SOCIETE ANONYME ENERGY SERVICES" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

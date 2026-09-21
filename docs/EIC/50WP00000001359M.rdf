@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001359M</dcterms:identifier>
-    <skos:prefLabel>&#216;ie-Smelteverk</skos:prefLabel>
-    <skos:altLabel>NO-OIE-SMELTEVER</skos:altLabel>
+    <skos:prefLabel>Kleven</skos:prefLabel>
+    <skos:altLabel>NO-KLEVEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001359M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>&#216;ie-Smelteverk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-OIE-SMELTEVER</cim:Names.name>
+    <cim:IdentifiedObject.name>Kleven</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-KLEVEN</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

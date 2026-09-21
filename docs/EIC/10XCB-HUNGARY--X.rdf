@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:10XCB-HUNGARY--X</dcterms:identifier>
     <skos:prefLabel>MAVIR - Control Block Operator Hungary</skos:prefLabel>
     <skos:altLabel>CB-HUNGARY</skos:altLabel>
-    <skos:definition xml:lang="en">Control Block</skos:definition>
     <cim:IdentifiedObject.mRID>10XCB-HUNGARY--X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MAVIR - Control Block Operator Hungary</cim:IdentifiedObject.name>
     <cim:Names.name>CB-HUNGARY</cim:Names.name>
     <cim:Names.name>HU12550753</cim:Names.name>
-    <cim:IdentifiedObject.description>Control Block</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-02-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Control Block</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-21</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HU12550753</schema:vatID>
   </skos:Concept>

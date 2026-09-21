@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XSWSCHKEUD---F</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Schkeuditz GmbH</skos:prefLabel>
     <skos:altLabel>SWSCHKEUDITZ</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWSCHKEUD---F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Schkeuditz GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWSCHKEUDITZ</cim:Names.name>
-    <cim:Names.name>23712000104</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE157382630</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2006-01-19</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>23712000104</schema:vatID>
+    <schema:vatID>DE157382630</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

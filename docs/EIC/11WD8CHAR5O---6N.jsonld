@@ -16,7 +16,10 @@
     "@skos:altLabel": "CHA-_BL_6",
     "@cim:IdentifiedObject.mRID": "11WD8CHAR5O---6N",
     "@cim:IdentifiedObject.name": "Charlottenburg 6",
-    "@cim:Names.name": "CHA-_BL_6",
+    "@cim:Names.name": [
+        "CHA-_BL_6",
+        "Generation"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

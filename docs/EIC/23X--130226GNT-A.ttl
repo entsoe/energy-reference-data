@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "23X--130226GNT-A" ;
     cim:IdentifiedObject.name "Green Network Trading UK plc" ;
-    cim:Names.name "GB153544123",
+    cim:Names.name "Balance Responsible Party",
+        "GB153544123",
         "GREEN_NETWORK_T",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--130226GNT-A" ;
     schema1:vatID "GB153544123" ;
     skos:altLabel "GREEN_NETWORK_T" ;

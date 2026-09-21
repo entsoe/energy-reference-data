@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002148D",
-    "@skos:prefLabel": "M 66 Soknedal-Støren",
-    "@skos:altLabel": "NO-SOKNEDALSTORE",
+    "@skos:prefLabel": "N 66 Soknedal-Støren",
+    "@skos:altLabel": "NO-66SOKNEDALSTO",
     "@cim:IdentifiedObject.mRID": "50TL00000002148D",
-    "@cim:IdentifiedObject.name": "M 66 Soknedal-Støren",
+    "@cim:IdentifiedObject.name": "N 66 Soknedal-Støren",
     "@cim:Names.name": [
-        "NO-SOKNEDALSTORE",
+        "NO-66SOKNEDALSTO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

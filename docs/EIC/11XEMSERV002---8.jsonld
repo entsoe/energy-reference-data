@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XEMSERV002---8",
-    "@skos:prefLabel": "em.serv GmbH",
+    "@skos:prefLabel": "Scholt Energy Deutschland GmbH",
     "@skos:altLabel": "EMSERV",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XEMSERV002---8",
-    "@cim:IdentifiedObject.name": "em.serv GmbH",
+    "@cim:IdentifiedObject.name": "Scholt Energy Deutschland GmbH",
     "@cim:Names.name": [
         "EMSERV",
         "DE268629584",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-04-06",
+    "@cim:DateAndOrTime.date": "2025-04-11",
     "@schema:vatID": "DE268629584",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

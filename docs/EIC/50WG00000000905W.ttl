@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000905W" ;
-    cim:IdentifiedObject.name "KVILLDALG101 HYDRO" ;
+    cim:IdentifiedObject.name "VEKA    G101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KVILLDALG101_" ;
+        "NO-VEKAG101" ;
     dcterms:identifier "urn:eic:50WG00000000905W" ;
-    skos:altLabel "NO-KVILLDALG101_" ;
+    skos:altLabel "NO-VEKAG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KVILLDALG101 HYDRO" ;
+    skos:prefLabel "VEKA    G101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

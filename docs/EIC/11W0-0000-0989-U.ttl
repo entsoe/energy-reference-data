@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11W0-0000-0989-U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11W0-0000-0989-U" ;
+    cim:IdentifiedObject.name "GT HKW Nossener Brücke Gas" ;
+    cim:Names.name "GT_HKW_NB_G",
+        "Load" ;
+    dcterms:identifier "urn:eic:11W0-0000-0989-U" ;
+    skos:altLabel "GT_HKW_NB_G" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GT HKW Nossener Brücke Gas" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

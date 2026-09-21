@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000020750" ;
     cim:IdentifiedObject.name "VINKELF G2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-VINKELF_G2___" ;
+        "NO-VINKELFG2" ;
     dcterms:identifier "urn:eic:50WG000000020750" ;
-    skos:altLabel "NO-VINKELF_G2___" ;
+    skos:altLabel "NO-VINKELFG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VINKELF G2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

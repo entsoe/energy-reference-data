@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002111M",
     "@skos:prefLabel": "OIE     G119 HYDRO",
-    "@skos:altLabel": "NO-OIE_____G119_",
+    "@skos:altLabel": "NO-OIEG119",
     "@cim:IdentifiedObject.mRID": "50WG00000002111M",
     "@cim:IdentifiedObject.name": "OIE     G119 HYDRO",
     "@cim:Names.name": [
-        "NO-OIE_____G119_",
+        "NO-OIEG119",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

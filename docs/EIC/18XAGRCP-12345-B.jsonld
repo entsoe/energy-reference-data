@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAGRCP-12345-B",
     "@skos:prefLabel": "AGRO-CÍTRICA DE PICASSENT,C.V.",
     "@skos:altLabel": "AGRCP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAGRCP-12345-B",
     "@cim:IdentifiedObject.name": "AGRO-CÍTRICA DE PICASSENT,C.V.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF46026621",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-06-08",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF46026621",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

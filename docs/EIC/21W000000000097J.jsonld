@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W000000000097J",
-    "@skos:prefLabel": "Epe KGE",
-    "@skos:altLabel": "UGS-EPE-KGE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "System Operator"
-    },
+    "@skos:prefLabel": "UGS Epe MET",
+    "@skos:altLabel": "UGS-EPE-MET",
     "@cim:IdentifiedObject.mRID": "21W000000000097J",
-    "@cim:IdentifiedObject.name": "Epe KGE",
+    "@cim:IdentifiedObject.name": "UGS Epe MET",
     "@cim:Names.name": [
-        "UGS-EPE-KGE",
-        "System Operator"
+        "UGS-EPE-MET",
+        "Gas Storage Facility"
     ],
-    "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-23",
+    "@cim:DateAndOrTime.date": "2025-09-03",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000547A" ;
-    cim:IdentifiedObject.name "S Norzink  66  T2 Industri" ;
+    cim:IdentifiedObject.name "S Norzink1 66  T2 Industri" ;
     cim:Names.name "Load",
-        "NO-NORZINK66T2NC" ;
+        "NO-NORZINK166T2" ;
     dcterms:identifier "urn:eic:50WC00000000547A" ;
-    skos:altLabel "NO-NORZINK66T2NC" ;
+    skos:altLabel "NO-NORZINK166T2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Norzink  66  T2 Industri" ;
+    skos:prefLabel "S Norzink1 66  T2 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

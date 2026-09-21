@@ -12,6 +12,8 @@
     <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-04-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Endpoint</cim:Names.name>
+    <cim:Names.name>IT-system</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

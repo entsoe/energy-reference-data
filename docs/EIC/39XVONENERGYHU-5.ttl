@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XVONENERGYHU-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XVONENERGYHU-5" ;
+    cim:IdentifiedObject.name "Von Energy Trading KFT" ;
+    cim:Names.name "HU24751195",
+        "Trade Responsible Party",
+        "VONENERGY" ;
+    dcterms:identifier "urn:eic:39XVONENERGYHU-5" ;
+    schema1:vatID "HU24751195" ;
+    skos:altLabel "VONENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Von Energy Trading KFT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

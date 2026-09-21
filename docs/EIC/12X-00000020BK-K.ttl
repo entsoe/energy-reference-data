@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020BK-K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020BK-K" ;
+    cim:IdentifiedObject.name "Vaikoon AG" ;
+    cim:Names.name "CHE-318.570.988",
+        "Information Provider",
+        "VAIKOON-AG-IP" ;
+    dcterms:identifier "urn:eic:12X-00000020BK-K" ;
+    schema1:vatID "CHE-318.570.988" ;
+    skos:altLabel "VAIKOON-AG-IP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Vaikoon AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

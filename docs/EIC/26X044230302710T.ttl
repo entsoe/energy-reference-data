@@ -7,12 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-17" ;
+    cim:DateAndOrTime.date "2024-07-30" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X044230302710T" ;
     cim:IdentifiedObject.name "BANCO ENERGIA FORNITURE S.R.L." ;
-    cim:Names.name "A0017395Z.IT",
-        "IT-BANCOENERGIAF",
+    cim:Names.name "IT-BANCOENERGIAF",
         "IT04423030271",
         "Market Operator" ;
     dcterms:identifier "urn:eic:26X044230302710T" ;

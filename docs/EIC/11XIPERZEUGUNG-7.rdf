@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XIPERZEUGUNG-7</dcterms:identifier>
     <skos:prefLabel>IntelligentPower GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>IPERZEUGUNG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XIPERZEUGUNG-7</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>IntelligentPower GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>IPERZEUGUNG</cim:Names.name>
     <cim:Names.name>DE813679886</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-02-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE813679886</schema:vatID>

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000063068",
     "@skos:prefLabel": "S Sogndal  T1 Transformator",
-    "@skos:altLabel": "NO-SOGNDAL_T1",
+    "@skos:altLabel": "NO-SOGNDALT1",
     "@cim:IdentifiedObject.mRID": "50TT000000063068",
     "@cim:IdentifiedObject.name": "S Sogndal  T1 Transformator",
     "@cim:Names.name": [
-        "NO-SOGNDAL_T1",
+        "NO-SOGNDALT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

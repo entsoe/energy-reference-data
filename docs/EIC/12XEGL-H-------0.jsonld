@@ -23,10 +23,10 @@
     "@cim:Names.name": [
         "AXPO-SOLUTION-ST",
         "CHE105779348",
-        "Trade Responsible Party",
-        "System Operator",
         "Balance Responsible Party",
-        "Energy Supplier"
+        "Energy Supplier",
+        "System Operator",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "System Operator Balance Supplier",
     "@cim:Document.docStatus": "A05",

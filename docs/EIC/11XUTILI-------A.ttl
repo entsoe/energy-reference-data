@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUTILI-------A" ;
     cim:IdentifiedObject.name "UtilityNorth A/S" ;
-    cim:Names.name "Balance Group",
-        "DK32764088",
-        "UTILI-A" ;
+    cim:Names.name "DK32764088",
+        "UTILI-A",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUTILI-------A" ;
     schema1:vatID "DK32764088" ;
     skos:altLabel "UTILI-A" ;

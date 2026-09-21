@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006514N",
-    "@skos:prefLabel": "Grudziądz Węgrowo-TD3",
+    "@skos:prefLabel": "400/220kV Grudziadz TD3",
     "@skos:altLabel": "GRU-TD3",
     "@cim:IdentifiedObject.mRID": "19T110000006514N",
-    "@cim:IdentifiedObject.name": "Grudziądz Węgrowo-TD3",
+    "@cim:IdentifiedObject.name": "400/220kV Grudziadz TD3",
     "@cim:Names.name": [
         "GRU-TD3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

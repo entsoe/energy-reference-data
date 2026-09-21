@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001566H" ;
     cim:IdentifiedObject.name "Stordalen" ;
-    cim:Names.name "NO-STORDALEN_PL",
+    cim:Names.name "NO-STORDALEN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001566H" ;
-    skos:altLabel "NO-STORDALEN_PL" ;
+    skos:altLabel "NO-STORDALEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stordalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

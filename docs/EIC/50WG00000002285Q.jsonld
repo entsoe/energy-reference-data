@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002285Q",
-    "@skos:prefLabel": "MOSJOEN G101 HYDRO",
-    "@skos:altLabel": "NO-MOSJOEN_G101_",
+    "@skos:prefLabel": "KVASSTEIG101 HYDRO",
+    "@skos:altLabel": "NO-KVASSTEIG101",
     "@cim:IdentifiedObject.mRID": "50WG00000002285Q",
-    "@cim:IdentifiedObject.name": "MOSJOEN G101 HYDRO",
+    "@cim:IdentifiedObject.name": "KVASSTEIG101 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSJOEN_G101_",
+        "NO-KVASSTEIG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

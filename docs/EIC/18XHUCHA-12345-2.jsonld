@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XHUCHA-12345-2",
     "@skos:prefLabel": "LA HUCHA TENERIFE GL",
     "@skos:altLabel": "HUCHA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XHUCHA-12345-2",
     "@cim:IdentifiedObject.name": "LA HUCHA TENERIFE GL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB38497244",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB38497244",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

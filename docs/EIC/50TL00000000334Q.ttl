@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000334Q" ;
     cim:IdentifiedObject.name "N 132 Hinnøy-T_Gråheia" ;
     cim:Names.name "Internal Line",
-        "NO-HINNOYTGRAHEI" ;
+        "NO-132HINNOYT_GR" ;
     dcterms:identifier "urn:eic:50TL00000000334Q" ;
-    skos:altLabel "NO-HINNOYTGRAHEI" ;
+    skos:altLabel "NO-132HINNOYT_GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Hinnøy-T_Gråheia" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWKONSTANZ--J",
     "@skos:prefLabel": "Stadtwerke Konstanz GmbH",
     "@skos:altLabel": "SWKONSTANZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWKONSTANZ--J",
     "@cim:IdentifiedObject.name": "Stadtwerke Konstanz GmbH",
     "@cim:Names.name": [
         "SWKONSTANZ",
         "DE212144696",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "DE212144696",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

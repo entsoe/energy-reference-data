@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_TOTAL_DE",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Responsible Party, Trade Responsible Party"
+        "@value": "Balance Responsible Party, Trade Responsible Party\nUpdate Status"
     },
     "@cim:IdentifiedObject.mRID": "17X100A100R0172T",
     "@cim:IdentifiedObject.name": "Total Direct Energie SA",
@@ -26,10 +26,10 @@
         "Balance Responsible Party",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party, Trade Responsible Party",
+    "@cim:IdentifiedObject.description": "Balance Responsible Party, Trade Responsible Party\nUpdate Status",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-12",
+    "@cim:DateAndOrTime.date": "2025-06-11",
     "@schema:vatID": "FR55442395448",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001059Y",
     "@skos:prefLabel": "Fjellet",
-    "@skos:altLabel": "NO-FJELLET_PL",
+    "@skos:altLabel": "NO-FJELLET",
     "@cim:IdentifiedObject.mRID": "50WP00000001059Y",
     "@cim:IdentifiedObject.name": "Fjellet",
     "@cim:Names.name": [
-        "NO-FJELLET_PL",
+        "NO-FJELLET",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XHYPERENERGY-6" ;
     cim:IdentifiedObject.name "HYPER ENERGY AG" ;
-    cim:Names.name "DE298087332",
-        "HYPERENERGY",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE298087332",
+        "HYPERENERGY" ;
     dcterms:identifier "urn:eic:11XHYPERENERGY-6" ;
     schema1:vatID "DE298087332" ;
     skos:altLabel "HYPERENERGY" ;

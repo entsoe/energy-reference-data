@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002855P" ;
     cim:IdentifiedObject.name "S 66 Refsdal-Hugla" ;
     cim:Names.name "Internal Line",
-        "NO-REFSDALHUGLA" ;
+        "NO-22REFSDALHUGL" ;
     dcterms:identifier "urn:eic:50TL00000002855P" ;
-    skos:altLabel "NO-REFSDALHUGLA" ;
+    skos:altLabel "NO-22REFSDALHUGL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Refsdal-Hugla" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

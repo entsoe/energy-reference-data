@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W000AG-GSTK16I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Statkraft Markets GmBH
+Derendorfer Alle 2A
+40547
+Duesseldorf 
+Germany
+Lenka Vesela
+Lenka.vesela@statkraft.com
+flexuk@statkraft.com
+""" ;
+    cim:IdentifiedObject.mRID "48W000AG-GSTK16I" ;
+    cim:IdentifiedObject.name "AG-GSTK16" ;
+    cim:Names.name "AG-GSTK16",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W000AG-GSTK16I" ;
+    skos:altLabel "AG-GSTK16" ;
+    skos:definition """Statkraft Markets GmBH
+Derendorfer Alle 2A
+40547
+Duesseldorf 
+Germany
+Lenka Vesela
+Lenka.vesela@statkraft.com
+flexuk@statkraft.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AG-GSTK16" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

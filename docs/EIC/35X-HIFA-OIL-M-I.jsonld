@@ -19,14 +19,14 @@
     "@cim:Names.name": [
         "HIFAOIL",
         "03136981",
-        "Production Responsible party",
-        "Trade Responsible Party",
-        "Producer",
-        "Imbalance Settlement Responsible",
         "Balance Responsible Party",
+        "Capacity Trader",
         "Energy Supplier",
-        "Balancing Service Provider",
-        "Capacity Trader"
+        "Imbalance Settlement Responsible",
+        "Producer",
+        "Production Responsible Party",
+        "Trade Responsible Party",
+        "Balancing Service Provider"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

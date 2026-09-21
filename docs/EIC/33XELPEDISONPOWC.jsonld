@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:33XELPEDISONPOWC",
-    "@skos:prefLabel": "ELPEDISON POWER GENERATION DOOEL",
-    "@skos:altLabel": "ELPEDISON_SKOPJE",
+    "@skos:prefLabel": "ENERWAVE DOOEL Skopje",
+    "@skos:altLabel": "ENERWAVE_SKOPJE",
     "@cim:IdentifiedObject.mRID": "33XELPEDISONPOWC",
-    "@cim:IdentifiedObject.name": "ELPEDISON POWER GENERATION DOOEL",
+    "@cim:IdentifiedObject.name": "ENERWAVE DOOEL Skopje",
     "@cim:Names.name": [
-        "ELPEDISON_SKOPJE",
+        "ENERWAVE_SKOPJE",
         "4080021601401",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-03-24",
+    "@cim:DateAndOrTime.date": "2026-02-06",
     "@schema:vatID": "4080021601401",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

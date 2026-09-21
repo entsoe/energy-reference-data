@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XEBLD--------N</dcterms:identifier>
     <skos:prefLabel>EBLD Schweiz Strom GmbH</skos:prefLabel>
     <skos:altLabel>EBLD</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XEBLD--------N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EBLD Schweiz Strom GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EBLD</cim:Names.name>
     <cim:Names.name>DE268638180</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-04-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE268638180</schema:vatID>

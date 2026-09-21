@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "17W100P100P1342C" ;
     cim:IdentifiedObject.name "GROUPE 07 DE LA CENTRALE HYDRAULIQUE DE BEAUCHASTEL" ;
-    cim:Names.name "FR_HY-BXCHA-G7" ;
+    cim:Names.name "FR_HY-BXCHA-G7",
+        "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P1342C" ;
     skos:altLabel "FR_HY-BXCHA-G7" ;
     skos:definition "Generation Unit"@en ;

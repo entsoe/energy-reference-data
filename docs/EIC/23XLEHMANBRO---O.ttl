@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XLEHMANBRO---O" ;
     cim:IdentifiedObject.name "Lehman Brothers Commodity Services ( Europe)" ;
-    cim:Names.name "LEHMANBROS",
-        "Valid EIC Function needed" ;
+    cim:Names.name "02538254",
+        "LEHMANBROS",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XLEHMANBRO---O" ;
+    schema1:vatID "02538254" ;
     skos:altLabel "LEHMANBROS" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WCI0000003106V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50WCI0000003106V" ;
+    cim:IdentifiedObject.name "S Timenes  110 T1 Forbruk" ;
+    cim:Names.name "Load",
+        "NO-TIMENES110T1" ;
+    dcterms:identifier "urn:eic:50WCI0000003106V" ;
+    skos:altLabel "NO-TIMENES110T1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Timenes  110 T1 Forbruk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

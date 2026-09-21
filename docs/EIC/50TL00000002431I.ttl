@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002431I" ;
     cim:IdentifiedObject.name "S Kristian 300 BH1" ;
     cim:Names.name "Internal Line",
-        "NO-KRISTIAN300B1" ;
+        "NO-KRISTIAN300BH" ;
     dcterms:identifier "urn:eic:50TL00000002431I" ;
-    skos:altLabel "NO-KRISTIAN300B1" ;
+    skos:altLabel "NO-KRISTIAN300BH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Kristian 300 BH1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

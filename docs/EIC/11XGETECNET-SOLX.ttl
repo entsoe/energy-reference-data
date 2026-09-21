@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGETECNET-SOLX" ;
     cim:IdentifiedObject.name "GETEC net GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE221916337",
-        "GETEC_SOL" ;
+    cim:Names.name "DE221916337",
+        "GETEC_SOL",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGETECNET-SOLX" ;
     schema1:vatID "DE221916337" ;
     skos:altLabel "GETEC_SOL" ;

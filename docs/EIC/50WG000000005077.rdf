@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000005077</dcterms:identifier>
-    <skos:prefLabel>GAUSBU  G       HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-GAUSBU__G____</skos:altLabel>
+    <skos:prefLabel>GAUSBU  G1      HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-GAUSBUG1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000005077</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GAUSBU  G       HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-GAUSBU__G____</cim:Names.name>
+    <cim:IdentifiedObject.name>GAUSBU  G1      HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-GAUSBUG1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

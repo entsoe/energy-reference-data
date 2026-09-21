@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260205-HK-E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "VAT and Company Registration number confirmed through Certificate of Registration Bronnoysundregistrene: NO976894677MVA and 976894677 " ;
+    cim:IdentifiedObject.mRID "23X--260205-HK-E" ;
+    cim:IdentifiedObject.name "Hafslund Kraft AS " ;
+    cim:Names.name "A0022364S.SE",
+        "Balance Responsible Party",
+        "HAFSLUND_KRAFT",
+        "NO976894677MVA",
+        "Producer" ;
+    dcterms:identifier "urn:eic:23X--260205-HK-E" ;
+    schema1:vatID "NO976894677MVA" ;
+    skos:altLabel "HAFSLUND_KRAFT" ;
+    skos:definition "VAT and Company Registration number confirmed through Certificate of Registration Bronnoysundregistrene: NO976894677MVA and 976894677 "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Hafslund Kraft AS " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

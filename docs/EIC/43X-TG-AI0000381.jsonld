@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "SIA Aiveks",
     "@cim:Names.name": [
         "LV-TGAI24",
-        "40003529534",
+        "LV40003529534",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-10-28",
-    "@schema:vatID": "40003529534",
+    "@cim:DateAndOrTime.date": "2024-05-08",
+    "@schema:vatID": "LV40003529534",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

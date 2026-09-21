@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000413U",
-    "@skos:prefLabel": "ΜOTOR OIL",
+    "@skos:prefLabel": "MOTOR OIL",
     "@skos:altLabel": "MOTOR-OIL-GR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection With The Final Consumer"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000413U",
-    "@cim:IdentifiedObject.name": "ΜOTOR OIL",
+    "@cim:IdentifiedObject.name": "MOTOR OIL",
     "@cim:Names.name": [
         "MOTOR-OIL-GR",
-        "Valid EIC Function needed"
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection With The Final Consumer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

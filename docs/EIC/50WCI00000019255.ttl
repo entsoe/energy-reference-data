@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WCI00000019255" ;
-    cim:IdentifiedObject.name "M Sømna    66  RT1 Forbruk" ;
+    cim:IdentifiedObject.name "N Sømna    66  RT1 Forbruk" ;
     cim:Names.name "Load",
         "NO-SOMNA66" ;
     dcterms:identifier "urn:eic:50WCI00000019255" ;
     skos:altLabel "NO-SOMNA66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Sømna    66  RT1 Forbruk" ;
+    skos:prefLabel "N Sømna    66  RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

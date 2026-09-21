@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XZERE-123456-V</dcterms:identifier>
     <skos:prefLabel>ZEREP CARBONICAS Y AGUAS S.A</skos:prefLabel>
     <skos:altLabel>ZERE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XZERE-123456-V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ZEREP CARBONICAS Y AGUAS S.A</cim:IdentifiedObject.name>
     <cim:Names.name>ZERE</cim:Names.name>
     <cim:Names.name>ESA24293110</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-11-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA24293110</schema:vatID>

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "45T0000000001786" ;
     cim:IdentifiedObject.name "150kV Foulum Mosbæk" ;
-    cim:Names.name "FOU_150I_MOSV" ;
+    cim:Names.name "FOU_150I_MOSV",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:45T0000000001786" ;
     skos:altLabel "FOU_150I_MOSV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

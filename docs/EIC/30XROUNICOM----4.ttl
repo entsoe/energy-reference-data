@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROUNICOM----4" ;
     cim:IdentifiedObject.name "SC UNICOM HOLDING SA" ;
-    cim:Names.name "UNICOM",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "RO3507700",
+        "UNICOM" ;
     dcterms:identifier "urn:eic:30XROUNICOM----4" ;
+    schema1:vatID "RO3507700" ;
     skos:altLabel "UNICOM" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

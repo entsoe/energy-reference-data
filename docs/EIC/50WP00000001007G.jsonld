@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001007G",
     "@skos:prefLabel": "Ingstad",
-    "@skos:altLabel": "NO-INGSTAD_PL",
+    "@skos:altLabel": "NO-INGSTAD",
     "@cim:IdentifiedObject.mRID": "50WP00000001007G",
     "@cim:IdentifiedObject.name": "Ingstad",
     "@cim:Names.name": [
-        "NO-INGSTAD_PL",
+        "NO-INGSTAD",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-01-09" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XCNR-REGEL---D" ;
     cim:IdentifiedObject.name "Compagnie Nationale du Rhone" ;
-    cim:Names.name "Balance Group",
-        "CH-CNR-REGEL",
+    cim:Names.name "CH-CNR-REGEL",
+        "Capacity Trader",
         "FR59957520901" ;
     dcterms:identifier "urn:eic:12XCNR-REGEL---D" ;
     schema1:vatID "FR59957520901" ;

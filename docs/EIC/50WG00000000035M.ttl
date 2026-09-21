@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000000035M" ;
     cim:IdentifiedObject.name "ARNA    G108 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ARNA____G108_" ;
+        "NO-ARNAG108" ;
     dcterms:identifier "urn:eic:50WG00000000035M" ;
-    skos:altLabel "NO-ARNA____G108_" ;
+    skos:altLabel "NO-ARNAG108" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ARNA    G108 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

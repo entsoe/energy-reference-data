@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Produce Of Paper, Produce Of Heat And Electricity (Vyroba Papiera, Vyroba Tepla A Elektrickej Energie)" ;
     cim:IdentifiedObject.mRID "24XMONDIBPSCP--Z" ;
     cim:IdentifiedObject.name "Mondi Business paper SCP, a.s." ;
     cim:Names.name "MONDIBPSCPAS",
+        "Producer",
         "SK2020431116",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XMONDIBPSCP--Z" ;
     schema1:vatID "SK2020431116" ;
     skos:altLabel "MONDIBPSCPAS" ;

@@ -7,15 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-10-09" ;
+    cim:DateAndOrTime.date "2024-07-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X9300001151800" ;
     cim:IdentifiedObject.name "LLC \"GS-TRADING\"" ;
-    cim:Names.name "428531120319",
+    cim:Names.name "428531120310",
         "GS-TRADINGLLC",
+        "Network User",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:56X9300001151800" ;
-    schema1:vatID "428531120319" ;
+    schema1:vatID "428531120310" ;
     skos:altLabel "GS-TRADINGLLC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "LLC \"GS-TRADING\"" ;

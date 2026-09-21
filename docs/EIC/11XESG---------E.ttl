@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XESG---------E" ;
     cim:IdentifiedObject.name "Energie Service Gesellschaft mbH" ;
-    cim:Names.name "Balance Group",
-        "DE324729916",
-        "ESG" ;
+    cim:Names.name "DE324729916",
+        "ESG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XESG---------E" ;
     schema1:vatID "DE324729916" ;
     skos:altLabel "ESG" ;

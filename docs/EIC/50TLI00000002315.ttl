@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000002315" ;
     cim:IdentifiedObject.name "N 132 Finnfjordbotn-T_Sørreisa1" ;
     cim:Names.name "Internal Line",
-        "NO-FINNFTSORRE1" ;
+        "NO-132FINNFEISA1" ;
     dcterms:identifier "urn:eic:50TLI00000002315" ;
-    skos:altLabel "NO-FINNFTSORRE1" ;
+    skos:altLabel "NO-132FINNFEISA1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Finnfjordbotn-T_Sørreisa1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

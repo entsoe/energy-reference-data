@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000024546" ;
-    cim:IdentifiedObject.name "N Melkøya 100 Kabel" ;
+    cim:IdentifiedObject.name "N Melkøya  100 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-MELKOYA100K" ;
+        "NO-MELKOYA100_K" ;
     dcterms:identifier "urn:eic:50TL000000024546" ;
-    skos:altLabel "NO-MELKOYA100K" ;
+    skos:altLabel "NO-MELKOYA100_K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Melkøya 100 Kabel" ;
+    skos:prefLabel "N Melkøya  100 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

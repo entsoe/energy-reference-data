@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X0-0000-0613-3",
-    "@skos:prefLabel": "Pure Energy BRP",
+    "@skos:prefLabel": "pure.energy GmbH",
     "@skos:altLabel": "PURE_TRADING",
     "@cim:IdentifiedObject.mRID": "11X0-0000-0613-3",
-    "@cim:IdentifiedObject.name": "Pure Energy BRP",
+    "@cim:IdentifiedObject.name": "pure.energy GmbH",
     "@cim:Names.name": [
         "PURE_TRADING",
         "DE319952173",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-08-23",
+    "@cim:DateAndOrTime.date": "2025-08-27",
     "@schema:vatID": "DE319952173",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

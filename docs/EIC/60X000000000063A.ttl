@@ -13,7 +13,9 @@
     cim:IdentifiedObject.mRID "60X000000000063A" ;
     cim:IdentifiedObject.name "SC ENERGAZ BUSINESS&PARTNERS SRL" ;
     cim:Names.name "ENERGAZ31",
-        "RO35690043" ;
+        "Network User",
+        "RO35690043",
+        "Resource Provider" ;
     dcterms:identifier "urn:eic:60X000000000063A" ;
     schema1:vatID "RO35690043" ;
     skos:altLabel "ENERGAZ31" ;

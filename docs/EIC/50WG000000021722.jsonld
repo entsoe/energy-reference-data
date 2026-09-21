@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000021722",
     "@skos:prefLabel": "ANA-SIRAG101 HYDRO",
-    "@skos:altLabel": "NO-ANA-SIRAG101_",
+    "@skos:altLabel": "NO-ANA_SIRAG101",
     "@cim:IdentifiedObject.mRID": "50WG000000021722",
     "@cim:IdentifiedObject.name": "ANA-SIRAG101 HYDRO",
     "@cim:Names.name": [
-        "NO-ANA-SIRAG101_",
+        "NO-ANA_SIRAG101",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

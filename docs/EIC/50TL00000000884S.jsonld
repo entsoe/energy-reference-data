@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000884S",
-    "@skos:prefLabel": "M 22Langvatn-Reinforsen",
-    "@skos:altLabel": "NO-LANGVATNREINF",
+    "@skos:prefLabel": "N 22Langvatn-Reinforsen",
+    "@skos:altLabel": "NO-22LANGVATNREI",
     "@cim:IdentifiedObject.mRID": "50TL00000000884S",
-    "@cim:IdentifiedObject.name": "M 22Langvatn-Reinforsen",
+    "@cim:IdentifiedObject.name": "N 22Langvatn-Reinforsen",
     "@cim:Names.name": [
-        "NO-LANGVATNREINF",
+        "NO-22LANGVATNREI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

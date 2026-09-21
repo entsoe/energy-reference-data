@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006699M" ;
-    cim:IdentifiedObject.name "Ołtarzew-Janów" ;
+    cim:IdentifiedObject.name "220kV Janow-Oltarzew" ;
     cim:Names.name "1010",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006699M" ;
     skos:altLabel "1010" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ołtarzew-Janów" ;
+    skos:prefLabel "220kV Janow-Oltarzew" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

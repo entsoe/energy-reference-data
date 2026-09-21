@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-05-17" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "63Z2183181399744" ;
-    cim:IdentifiedObject.name "SERENE ATLANTIQUE " ;
-    cim:Names.name "FRG_ATLANTIQUE" ;
+    cim:IdentifiedObject.name "SERENE ATLANTIQUE" ;
+    cim:Names.name "Connection Point",
+        "FRG_ATLANTIQUE" ;
     dcterms:identifier "urn:eic:63Z2183181399744" ;
     skos:altLabel "FRG_ATLANTIQUE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SERENE ATLANTIQUE " ;
+    skos:prefLabel "SERENE ATLANTIQUE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

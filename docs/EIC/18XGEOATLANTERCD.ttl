@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-16" ;
+    cim:DateAndOrTime.date "2026-06-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XGEOATLANTERCD" ;
-    cim:IdentifiedObject.name "GeoAtlanter, S.L." ;
+    cim:IdentifiedObject.name "GEOATLANTER, S.L." ;
     cim:Names.name "ESB85021426",
         "GAC",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESB85021426" ;
     skos:altLabel "GAC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GeoAtlanter, S.L." ;
+    skos:prefLabel "GEOATLANTER, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

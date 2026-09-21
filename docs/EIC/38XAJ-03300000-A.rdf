@@ -4,20 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:38XAJ-03300000-A</dcterms:identifier>
-    <skos:prefLabel>ANNE SOOJUS AS</skos:prefLabel>
-    <skos:altLabel>ANNE_SOOJUS</skos:altLabel>
+    <skos:prefLabel>Gren Tartu AS</skos:prefLabel>
+    <skos:altLabel>EE_GREN_TARTU</skos:altLabel>
     <skos:definition xml:lang="en">Grid Operator, Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>38XAJ-03300000-A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ANNE SOOJUS AS</cim:IdentifiedObject.name>
-    <cim:Names.name>ANNE_SOOJUS</cim:Names.name>
-    <cim:Names.name>EE100271810</cim:Names.name>
+    <cim:IdentifiedObject.name>Gren Tartu AS</cim:IdentifiedObject.name>
+    <cim:Names.name>EE_GREN_TARTU</cim:Names.name>
+    <cim:Names.name>10641763</cim:Names.name>
     <cim:IdentifiedObject.description>Grid Operator, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-02-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-12-04</cim:DateAndOrTime.date>
     <cim:Names.name>Grid Operator</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>EE100271810</schema:vatID>
+    <schema:vatID>10641763</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

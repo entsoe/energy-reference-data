@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004493U",
     "@skos:prefLabel": "N Alta tra T2 Transformator",
-    "@skos:altLabel": "NO-ALTATRA_T2",
+    "@skos:altLabel": "NO-ALTATRAT2",
     "@cim:IdentifiedObject.mRID": "50TT00000004493U",
     "@cim:IdentifiedObject.name": "N Alta tra T2 Transformator",
     "@cim:Names.name": [
-        "NO-ALTATRA_T2",
+        "NO-ALTATRAT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

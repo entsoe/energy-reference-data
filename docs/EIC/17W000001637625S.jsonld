@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W000001637625S",
-    "@skos:prefLabel": "AFD7_Barban_Saucats_302993",
+    "@skos:prefLabel": "BESS_AFD7_BARBAN_SAUCATS",
     "@skos:altLabel": "FR_AFD7_BARBAN",
     "@cim:IdentifiedObject.mRID": "17W000001637625S",
-    "@cim:IdentifiedObject.name": "AFD7_Barban_Saucats_302993",
+    "@cim:IdentifiedObject.name": "BESS_AFD7_BARBAN_SAUCATS",
     "@cim:Names.name": [
         "FR_AFD7_BARBAN",
-        "Storage Plant",
-        "Production Unit"
+        "Production Unit",
+        "Storage Plant"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-06",
+    "@cim:DateAndOrTime.date": "2024-03-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

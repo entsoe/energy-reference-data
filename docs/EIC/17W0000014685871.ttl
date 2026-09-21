@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-15" ;
+    cim:DateAndOrTime.date "2026-01-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie" ;
+    cim:IdentifiedObject.description "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie. Name change" ;
     cim:IdentifiedObject.mRID "17W0000014685871" ;
-    cim:IdentifiedObject.name "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN" ;
-    cim:Names.name "FR_TERF_CGRN",
+    cim:IdentifiedObject.name "COGENERATION NORMANDIE (AMFARD)" ;
+    cim:Names.name "FR_T-AMFAR-P",
         "Production Unit" ;
     dcterms:identifier "urn:eic:17W0000014685871" ;
-    skos:altLabel "FR_TERF_CGRN" ;
-    skos:definition "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie"@en ;
+    skos:altLabel "FR_T-AMFAR-P" ;
+    skos:definition "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie. Name change"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN" ;
+    skos:prefLabel "COGENERATION NORMANDIE (AMFARD)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

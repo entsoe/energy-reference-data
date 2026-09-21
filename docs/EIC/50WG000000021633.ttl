@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG000000021633" ;
     cim:IdentifiedObject.name "ANA-SIRAG110 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ANA-SIRAG110_" ;
+        "NO-ANA_SIRAG110" ;
     dcterms:identifier "urn:eic:50WG000000021633" ;
-    skos:altLabel "NO-ANA-SIRAG110_" ;
+    skos:altLabel "NO-ANA_SIRAG110" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ANA-SIRAG110 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

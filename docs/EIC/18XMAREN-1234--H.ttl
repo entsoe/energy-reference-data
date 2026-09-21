@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-10-17" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XMAREN-1234--H" ;
     cim:IdentifiedObject.name "MARE NOSTRUM OIL MANAGEMENT, S.L.U." ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XMAREN-1234--H" ;
     schema1:vatID "ESB85920403" ;
     skos:altLabel "MAREN" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MARE NOSTRUM OIL MANAGEMENT, S.L.U." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001266X",
-    "@skos:prefLabel": "Sørfjord",
+    "@skos:prefLabel": "Sørfjor1",
     "@skos:altLabel": "NO-SORFJORD",
     "@cim:IdentifiedObject.mRID": "50A000000001266X",
-    "@cim:IdentifiedObject.name": "Sørfjord",
+    "@cim:IdentifiedObject.name": "Sørfjor1",
     "@cim:Names.name": [
         "NO-SORFJORD",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

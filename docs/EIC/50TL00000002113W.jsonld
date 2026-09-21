@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002113W",
-    "@skos:prefLabel": "S 66 Sengjaneset-Kvitur22",
-    "@skos:altLabel": "NO-SENGJANKVITUR",
+    "@skos:prefLabel": "S 66 Sengjaneset-Norzink1",
+    "@skos:altLabel": "NO-66SENGJAZINK1",
     "@cim:IdentifiedObject.mRID": "50TL00000002113W",
-    "@cim:IdentifiedObject.name": "S 66 Sengjaneset-Kvitur22",
+    "@cim:IdentifiedObject.name": "S 66 Sengjaneset-Norzink1",
     "@cim:Names.name": [
-        "NO-SENGJANKVITUR",
+        "NO-66SENGJAZINK1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

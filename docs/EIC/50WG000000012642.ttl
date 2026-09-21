@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000012642" ;
     cim:IdentifiedObject.name "ORKDAL  G120 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ORKDAL__G120_" ;
+        "NO-ORKDALG120" ;
     dcterms:identifier "urn:eic:50WG000000012642" ;
-    skos:altLabel "NO-ORKDAL__G120_" ;
+    skos:altLabel "NO-ORKDALG120" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ORKDAL  G120 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

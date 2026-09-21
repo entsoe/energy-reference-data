@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC000000008428" ;
-    cim:IdentifiedObject.name "S Bø       22  L1 Forbruk" ;
+    cim:IdentifiedObject.name "N Bø       22  L1 Forbruk" ;
     cim:Names.name "Load",
         "NO-BO22" ;
     dcterms:identifier "urn:eic:50WC000000008428" ;
     skos:altLabel "NO-BO22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Bø       22  L1 Forbruk" ;
+    skos:prefLabel "N Bø       22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XPIRON-12345-N",
-    "@skos:prefLabel": "Arcillas y Feldespatos Río Pirón, S.A",
+    "@skos:prefLabel": "EUROARCE MINERIA SA",
     "@skos:altLabel": "PIRON",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPIRON-12345-N",
-    "@cim:IdentifiedObject.name": "Arcillas y Feldespatos Río Pirón, S.A",
+    "@cim:IdentifiedObject.name": "EUROARCE MINERIA SA",
     "@cim:Names.name": [
         "PIRON",
         "ESA80233968",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-05-20",
     "@schema:vatID": "ESA80233968",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

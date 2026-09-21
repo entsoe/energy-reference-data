@@ -14,18 +14,23 @@
     "@dcterms:identifier": "urn:eic:42X-CINQUE-SRO-0",
     "@skos:prefLabel": "Cinque s.r.o.",
     "@skos:altLabel": "CINQUE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "SK2121993874 was corrected due to not correct EIC code it will be deactivated. "
+    },
     "@cim:IdentifiedObject.mRID": "42X-CINQUE-SRO-0",
     "@cim:IdentifiedObject.name": "Cinque s.r.o.",
     "@cim:Names.name": [
         "CINQUE",
-        "SK2121993874",
-        "Trade Responsible Party",
-        "Network User"
+        "212",
+        "Network User",
+        "Trade Responsible Party"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "SK2121993874 was corrected due to not correct EIC code it will be deactivated. ",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-23",
-    "@schema:vatID": "SK2121993874",
+    "@cim:DateAndOrTime.date": "2024-02-05",
+    "@schema:vatID": "212",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

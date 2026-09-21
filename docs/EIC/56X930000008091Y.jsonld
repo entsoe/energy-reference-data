@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000008091Y",
-    "@skos:prefLabel": "Limited Liability Company ERU Management Services",
+    "@skos:prefLabel": "ERU Management Services Limited Liability Company ",
     "@skos:altLabel": "ERU_MANAGEMENT",
     "@cim:IdentifiedObject.mRID": "56X930000008091Y",
-    "@cim:IdentifiedObject.name": "Limited Liability Company ERU Management Services",
+    "@cim:IdentifiedObject.name": "ERU Management Services Limited Liability Company ",
     "@cim:Names.name": [
         "ERU_MANAGEMENT",
         "364815186",
@@ -24,7 +24,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-04",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "364815186",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002121J",
-    "@skos:prefLabel": "OIE     G122 HYDRO",
-    "@skos:altLabel": "NO-OIE_____G122_",
+    "@skos:prefLabel": "KVINESDAG122 HYDRO",
+    "@skos:altLabel": "NO-KVINESDAG122",
     "@cim:IdentifiedObject.mRID": "50WG00000002121J",
-    "@cim:IdentifiedObject.name": "OIE     G122 HYDRO",
+    "@cim:IdentifiedObject.name": "KVINESDAG122 HYDRO",
     "@cim:Names.name": [
-        "NO-OIE_____G122_",
+        "NO-KVINESDAG122",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

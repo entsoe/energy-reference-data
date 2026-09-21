@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000054077",
     "@skos:prefLabel": "S Nes ECO  T5 Transformator",
-    "@skos:altLabel": "NO-NES_OEK_T5",
+    "@skos:altLabel": "NO-NES_OEKT5",
     "@cim:IdentifiedObject.mRID": "50TT000000054077",
     "@cim:IdentifiedObject.name": "S Nes ECO  T5 Transformator",
     "@cim:Names.name": [
-        "NO-NES_OEK_T5",
+        "NO-NES_OEKT5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

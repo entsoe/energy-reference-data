@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "LUZIRA DMCC",
     "@cim:Names.name": [
         "BUGOLOBI",
+        "n / a",
         "Interconnection Trade Responsible"
     ],
     "@cim:IdentifiedObject.description": "A VAT number is not available for this company, so we are providing the Legal Entity Identifier (LEI) company registration number which is 984500O3EFBA8613AA78.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-01-16",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

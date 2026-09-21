@@ -6,13 +6,15 @@
     <dcterms:identifier>urn:eic:17X000000982428Z</dcterms:identifier>
     <skos:prefLabel>GreenYellow Energy Supply and Services France</skos:prefLabel>
     <skos:altLabel>FR_GYESSFR</skos:altLabel>
+    <skos:definition xml:lang="en">Update status</skos:definition>
     <cim:IdentifiedObject.mRID>17X000000982428Z</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GreenYellow Energy Supply and Services France</cim:IdentifiedObject.name>
     <cim:Names.name>FR_GYESSFR</cim:Names.name>
     <cim:Names.name>FR67853869840</cim:Names.name>
+    <cim:IdentifiedObject.description>Update status</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-12-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-11</cim:DateAndOrTime.date>
     <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FR67853869840</schema:vatID>

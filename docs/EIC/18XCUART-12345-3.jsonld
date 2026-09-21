@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCUART-12345-3",
     "@skos:prefLabel": "CUARTE S.L.",
     "@skos:altLabel": "CUART",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCUART-12345-3",
     "@cim:IdentifiedObject.name": "CUARTE S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB50132984",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB50132984",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

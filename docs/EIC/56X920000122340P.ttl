@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/56X920000122340P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Volodymyr Ivakhiv, +380678902565" ;
+    cim:IdentifiedObject.mRID "56X920000122340P" ;
+    cim:IdentifiedObject.name "LIMITED LIABILITY COMPANY \"VITAGRO ENERGY\"" ;
+    cim:Names.name "443184022187",
+        "Network User",
+        "Production Responsible Party",
+        "VITAGRO_ENERGY" ;
+    dcterms:identifier "urn:eic:56X920000122340P" ;
+    schema1:vatID "443184022187" ;
+    skos:altLabel "VITAGRO_ENERGY" ;
+    skos:definition "Volodymyr Ivakhiv, +380678902565"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LIMITED LIABILITY COMPANY \"VITAGRO ENERGY\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

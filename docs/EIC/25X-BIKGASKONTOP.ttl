@@ -7,9 +7,9 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-09-19" ;
+    cim:DateAndOrTime.date "2024-06-10" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
+    cim:IdentifiedObject.description "Consumption Responsible Party; Update missing EIC function in CIO Tool " ;
     cim:IdentifiedObject.mRID "25X-BIKGASKONTOP" ;
     cim:IdentifiedObject.name "BGK Gas GmbH" ;
     cim:Names.name "ATU66836506",
@@ -18,7 +18,7 @@
     dcterms:identifier "urn:eic:25X-BIKGASKONTOP" ;
     schema1:vatID "ATU66836506" ;
     skos:altLabel "EH" ;
-    skos:definition "Consumption Responsible Party"@en ;
+    skos:definition "Consumption Responsible Party; Update missing EIC function in CIO Tool "@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BGK Gas GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

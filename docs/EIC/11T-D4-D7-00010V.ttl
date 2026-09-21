@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11T-D4-D7-00010V" ;
     cim:IdentifiedObject.name "AMP-TNG/380/Herbertingen-Tiengen/rt-Tiengen N  / Tiengen Nord" ;
-    cim:Names.name "TIENGNN" ;
+    cim:Names.name "Internal Tie-Line",
+        "TIENGNN" ;
     dcterms:identifier "urn:eic:11T-D4-D7-00010V" ;
     skos:altLabel "TIENGNN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

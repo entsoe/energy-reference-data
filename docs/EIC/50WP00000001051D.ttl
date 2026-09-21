@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001051D" ;
     cim:IdentifiedObject.name "Rolls-Roys" ;
-    cim:Names.name "NO-ROLLS-ROYS_PL",
+    cim:Names.name "NO-ROLLS_ROYS",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001051D" ;
-    skos:altLabel "NO-ROLLS-ROYS_PL" ;
+    skos:altLabel "NO-ROLLS_ROYS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Rolls-Roys" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

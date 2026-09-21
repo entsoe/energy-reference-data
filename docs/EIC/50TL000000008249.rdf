@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL000000008249</dcterms:identifier>
     <skos:prefLabel>S 22 Brulandsfoss-Mo SFE</skos:prefLabel>
-    <skos:altLabel>NO-BRULANDSMOSFE</skos:altLabel>
+    <skos:altLabel>NO-22BRULANDSMO</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL000000008249</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S 22 Brulandsfoss-Mo SFE</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-BRULANDSMOSFE</cim:Names.name>
+    <cim:Names.name>NO-22BRULANDSMO</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

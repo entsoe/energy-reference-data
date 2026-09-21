@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000066482" ;
-    cim:IdentifiedObject.name "Tarnów-T1" ;
+    cim:IdentifiedObject.name "400/110kV Tarnow TR1" ;
     cim:Names.name "TAW-T1",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T1100000066482" ;
     skos:altLabel "TAW-T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tarnów-T1" ;
+    skos:prefLabel "400/110kV Tarnow TR1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

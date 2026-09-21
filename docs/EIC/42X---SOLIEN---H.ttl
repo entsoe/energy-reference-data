@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-01" ;
+    cim:DateAndOrTime.date "2024-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Platform Operator" ;
     cim:IdentifiedObject.mRID "42X---SOLIEN---H" ;
     cim:IdentifiedObject.name "Solien, s.r.o." ;
-    cim:Names.name "Platform Operator",
+    cim:Names.name "Information Provider",
         "SK2023866658",
         "SOLIEN_SRO" ;
     dcterms:identifier "urn:eic:42X---SOLIEN---H" ;

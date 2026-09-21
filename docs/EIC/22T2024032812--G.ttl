@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22T2024032812--G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22T2024032812--G" ;
+    cim:IdentifiedObject.name "DI 150 429 HEZE MASSE LI" ;
+    cim:Names.name "BE429_HEZE_MASSE",
+        "Internal Line" ;
+    dcterms:identifier "urn:eic:22T2024032812--G" ;
+    skos:altLabel "BE429_HEZE_MASSE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DI 150 429 HEZE MASSE LI" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

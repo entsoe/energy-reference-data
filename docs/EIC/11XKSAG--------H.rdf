@@ -6,17 +6,17 @@
     <dcterms:identifier>urn:eic:11XKSAG--------H</dcterms:identifier>
     <skos:prefLabel>DONG Energy Markets GmbH</skos:prefLabel>
     <skos:altLabel>KSAG</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
+    <skos:definition xml:lang="en">EIC code VAT number DE246284916</skos:definition>
     <cim:IdentifiedObject.mRID>11XKSAG--------H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>DONG Energy Markets GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>KSAG</cim:Names.name>
-    <cim:Names.name>DE246284916</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Names.name>246284916</cim:Names.name>
+    <cim:IdentifiedObject.description>EIC code VAT number DE246284916</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-11</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-26</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE246284916</schema:vatID>
+    <schema:vatID>246284916</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

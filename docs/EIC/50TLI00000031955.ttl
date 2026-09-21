@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000031955" ;
     cim:IdentifiedObject.name "S Øvre Årdal 132 T7 X" ;
     cim:Names.name "Internal Line",
-        "NO-OVREARD132T7X" ;
+        "NO-OVREARD132T7" ;
     dcterms:identifier "urn:eic:50TLI00000031955" ;
-    skos:altLabel "NO-OVREARD132T7X" ;
+    skos:altLabel "NO-OVREARD132T7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Øvre Årdal 132 T7 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

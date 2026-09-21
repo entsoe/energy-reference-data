@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001508V</dcterms:identifier>
     <skos:prefLabel>Kambe Minikraft</skos:prefLabel>
-    <skos:altLabel>NO-KAMBE-MINIKRA</skos:altLabel>
+    <skos:altLabel>NO-KAMBEMINIKRAF</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001508V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Kambe Minikraft</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-KAMBE-MINIKRA</cim:Names.name>
+    <cim:Names.name>NO-KAMBEMINIKRAF</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

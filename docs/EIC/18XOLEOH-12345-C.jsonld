@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XOLEOH-12345-C",
     "@skos:prefLabel": "OLEOHIDRAULICA FERRUZ S.A",
     "@skos:altLabel": "OLEOH",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XOLEOH-12345-C",
     "@cim:IdentifiedObject.name": "OLEOHIDRAULICA FERRUZ S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA50036037",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA50036037",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

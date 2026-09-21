@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000889I" ;
-    cim:IdentifiedObject.name "M 22 Leiosen-Forsland" ;
+    cim:IdentifiedObject.name "N 22 Leiosen-Forsland" ;
     cim:Names.name "Internal Line",
-        "NO-LEIROSENFORSL" ;
+        "NO-22LEIROSENFOR" ;
     dcterms:identifier "urn:eic:50TL00000000889I" ;
-    skos:altLabel "NO-LEIROSENFORSL" ;
+    skos:altLabel "NO-22LEIROSENFOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Leiosen-Forsland" ;
+    skos:prefLabel "N 22 Leiosen-Forsland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

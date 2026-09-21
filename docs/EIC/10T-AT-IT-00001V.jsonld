@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10T-AT-IT-00001V",
-    "@skos:prefLabel": "Lienz-Soverzene",
-    "@skos:altLabel": "L_LIENZ-SOVERZEN",
+    "@skos:prefLabel": "Auronzo-Lienz",
+    "@skos:altLabel": "L_LIENZ-AURONZO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Tieline"
     },
     "@cim:IdentifiedObject.mRID": "10T-AT-IT-00001V",
-    "@cim:IdentifiedObject.name": "Lienz-Soverzene",
+    "@cim:IdentifiedObject.name": "Auronzo-Lienz",
     "@cim:Names.name": [
-        "L_LIENZ-SOVERZEN",
+        "L_LIENZ-AURONZO",
         "Tieline"
     ],
     "@cim:IdentifiedObject.description": "Tieline",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-06-01",
+    "@cim:DateAndOrTime.date": "2024-01-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

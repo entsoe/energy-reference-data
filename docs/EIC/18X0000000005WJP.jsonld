@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X0000000005WJP",
-    "@skos:prefLabel": "MOCAN RENOVABLES ",
+    "@skos:prefLabel": "MOCAN RENOVABLES, S.L.",
     "@skos:altLabel": "BARTO",
     "@cim:IdentifiedObject.mRID": "18X0000000005WJP",
-    "@cim:IdentifiedObject.name": "MOCAN RENOVABLES ",
+    "@cim:IdentifiedObject.name": "MOCAN RENOVABLES, S.L.",
     "@cim:Names.name": [
         "BARTO",
         "ESB38921912",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-09-06",
+    "@cim:DateAndOrTime.date": "2026-05-20",
     "@schema:vatID": "ESB38921912",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

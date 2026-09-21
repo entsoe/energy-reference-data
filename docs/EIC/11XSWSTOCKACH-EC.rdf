@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWSTOCKACH-EC</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Stockach GmbH</skos:prefLabel>
     <skos:altLabel>SWSTOCKACH</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWSTOCKACH-EC</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Stockach GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWSTOCKACH</cim:Names.name>
     <cim:Names.name>DE211493846</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2009-07-29</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-06-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE211493846</schema:vatID>
   </skos:Concept>

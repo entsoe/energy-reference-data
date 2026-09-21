@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "S.C. CONEF S.A.",
     "@cim:Names.name": [
         "CONEFSA",
-        "Valid EIC Function needed"
+        "RO1555107",
+        "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-03",
+    "@schema:vatID": "RO1555107",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

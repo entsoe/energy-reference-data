@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005856F",
-    "@skos:prefLabel": "M Svean    T3 Transformator",
-    "@skos:altLabel": "NO-SVEAN___T3",
+    "@skos:prefLabel": "N Svean    T3 Transformator",
+    "@skos:altLabel": "NO-SVEANT3",
     "@cim:IdentifiedObject.mRID": "50TT00000005856F",
-    "@cim:IdentifiedObject.name": "M Svean    T3 Transformator",
+    "@cim:IdentifiedObject.name": "N Svean    T3 Transformator",
     "@cim:Names.name": [
-        "NO-SVEAN___T3",
+        "NO-SVEANT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

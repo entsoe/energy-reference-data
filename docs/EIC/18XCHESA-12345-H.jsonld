@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCHESA-12345-H",
     "@skos:prefLabel": "CHESTE AGRARIA COOP.V.",
     "@skos:altLabel": "CHESA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCHESA-12345-H",
     "@cim:IdentifiedObject.name": "CHESTE AGRARIA COOP.V.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF96127949",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-02-28",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF96127949",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

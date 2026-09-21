@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:22W20231026----X</dcterms:identifier>
-    <skos:prefLabel>Seraing ST</skos:prefLabel>
-    <skos:altLabel>BE_GU_SERAING_ST</skos:altLabel>
+    <skos:prefLabel>LUMINUS  SERAING ST2</skos:prefLabel>
+    <skos:altLabel>BE_GU_SERAINGST2</skos:altLabel>
     <cim:IdentifiedObject.mRID>22W20231026----X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Seraing ST</cim:IdentifiedObject.name>
-    <cim:Names.name>BE_GU_SERAING_ST</cim:Names.name>
+    <cim:IdentifiedObject.name>LUMINUS  SERAING ST2</cim:IdentifiedObject.name>
+    <cim:Names.name>BE_GU_SERAINGST2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-02</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

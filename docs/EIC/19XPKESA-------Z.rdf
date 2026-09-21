@@ -4,18 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XPKESA-------Z</dcterms:identifier>
-    <skos:prefLabel>POLUDNIOWY KONCERN ENERGETYCZNY Spolka Akcyjna</skos:prefLabel>
+    <skos:prefLabel>TAURON WYTWARZANIE SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
     <skos:altLabel>PKE_SA</skos:altLabel>
     <skos:definition xml:lang="en">Energy Generation &amp; Trading.</skos:definition>
     <cim:IdentifiedObject.mRID>19XPKESA-------Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>POLUDNIOWY KONCERN ENERGETYCZNY Spolka Akcyjna</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>TAURON WYTWARZANIE SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
     <cim:Names.name>PKE_SA</cim:Names.name>
+    <cim:Names.name>A0001926A.PL</cim:Names.name>
     <cim:Names.name>PL6321792812</cim:Names.name>
     <cim:IdentifiedObject.description>Energy Generation &amp; Trading.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-03-13</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-14</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6321792812</schema:vatID>
   </skos:Concept>

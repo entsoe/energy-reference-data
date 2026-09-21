@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-12-05" ;
+    cim:DateAndOrTime.date "2025-04-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45W000000000205O" ;
-    cim:IdentifiedObject.name "Better Energy Vedde P/S" ;
-    cim:Names.name "DK_BE_VEDDE",
+    cim:IdentifiedObject.name "Andel Energy Vedde P/S" ;
+    cim:Names.name "DK_ANDEL_VEDDE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:45W000000000205O" ;
-    skos:altLabel "DK_BE_VEDDE" ;
+    skos:altLabel "DK_ANDEL_VEDDE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Better Energy Vedde P/S" ;
+    skos:prefLabel "Andel Energy Vedde P/S" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

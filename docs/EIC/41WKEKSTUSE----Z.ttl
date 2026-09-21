@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WKEKSTUSE----Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """UAB “AE Saulės vatas”
+KĖKŠTŲ SE TP
+302820498
+LT100015723715""" ;
+    cim:IdentifiedObject.mRID "41WKEKSTUSE----Z" ;
+    cim:IdentifiedObject.name "KĖKŠTŲ SE TP UAB “AE Saulės vatas”" ;
+    cim:Names.name "KEKSTUSE",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:41WKEKSTUSE----Z" ;
+    skos:altLabel "KEKSTUSE" ;
+    skos:definition """UAB “AE Saulės vatas”
+KĖKŠTŲ SE TP
+302820498
+LT100015723715"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KĖKŠTŲ SE TP UAB “AE Saulės vatas”" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-09-26" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL000000024821" ;
-    cim:IdentifiedObject.name "M Nyhamna 132 IN1 X" ;
+    cim:IdentifiedObject.name "N Nyhamna  132 IN1 X" ;
     cim:Names.name "Internal Line",
         "NO-NYHAMNA132IN1" ;
     dcterms:identifier "urn:eic:50TL000000024821" ;
     skos:altLabel "NO-NYHAMNA132IN1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Nyhamna 132 IN1 X" ;
+    skos:prefLabel "N Nyhamna  132 IN1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

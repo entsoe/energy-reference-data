@@ -11,7 +11,8 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WHYLAUEI-123-6" ;
     cim:IdentifiedObject.name "LA UNIÓN ELECTRO INDUSTRIAL, S.L.U." ;
-    cim:Names.name "HYLAUEI" ;
+    cim:Names.name "HYLAUEI",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18WHYLAUEI-123-6" ;
     skos:altLabel "HYLAUEI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

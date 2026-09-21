@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000316C",
-    "@skos:prefLabel": "Finstad E",
-    "@skos:altLabel": "NO-FINSTAD_",
+    "@skos:prefLabel": "Stange",
+    "@skos:altLabel": "NO-STANGE",
     "@cim:IdentifiedObject.mRID": "50A000000000316C",
-    "@cim:IdentifiedObject.name": "Finstad E",
+    "@cim:IdentifiedObject.name": "Stange",
     "@cim:Names.name": [
-        "NO-FINSTAD_",
+        "NO-STANGE",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-11" ;
+    cim:DateAndOrTime.date "2026-07-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XBTB-NETZ03019" ;
-    cim:IdentifiedObject.name "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin" ;
+    cim:IdentifiedObject.name "BTB Energie GmbH" ;
     cim:Names.name "BTB_BERLIN",
         "Balance Responsible Party",
         "DE136561825" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE136561825" ;
     skos:altLabel "BTB_BERLIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin" ;
+    skos:prefLabel "BTB Energie GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

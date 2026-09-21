@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004795E" ;
     cim:IdentifiedObject.name "S Førre    RT1 Transformator" ;
-    cim:Names.name "NO-FORRE___RT1",
+    cim:Names.name "NO-FORRERT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004795E" ;
-    skos:altLabel "NO-FORRE___RT1" ;
+    skos:altLabel "NO-FORRERT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Førre    RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

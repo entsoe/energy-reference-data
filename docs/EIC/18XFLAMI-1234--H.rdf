@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XFLAMI-1234--H</dcterms:identifier>
     <skos:prefLabel>FLAMINGO EUROMATIC 100. S.L.</skos:prefLabel>
     <skos:altLabel>FLAMI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XFLAMI-1234--H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FLAMINGO EUROMATIC 100. S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>FLAMI</cim:Names.name>
     <cim:Names.name>ESB04386454</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB04386454</schema:vatID>

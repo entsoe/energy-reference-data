@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/30XROAHURAEG---6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "30XROAHURAEG---6" ;
+    cim:IdentifiedObject.name "AHURA ENERGY SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
+        "Energy Trader",
+        "RO38079290",
+        "RO_AHURAENERGY" ;
+    dcterms:identifier "urn:eic:30XROAHURAEG---6" ;
+    schema1:vatID "RO38079290" ;
+    skos:altLabel "RO_AHURAENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AHURA ENERGY SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

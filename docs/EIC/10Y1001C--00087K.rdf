@@ -6,11 +6,9 @@
     <dcterms:identifier>urn:eic:10Y1001C--00087K</dcterms:identifier>
     <skos:prefLabel>Border domain REE-TERRE Western Europe</skos:prefLabel>
     <skos:altLabel>REE-TERRE</skos:altLabel>
-    <skos:definition xml:lang="en">VP requires new EIC codes between TSO areas and TERRE Western Europe area for VP-TERRE processes. https://entsoe.zendesk.com/agent/tickets/9336455</skos:definition>
     <cim:IdentifiedObject.mRID>10Y1001C--00087K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Border domain REE-TERRE Western Europe</cim:IdentifiedObject.name>
     <cim:Names.name>REE-TERRE</cim:Names.name>
-    <cim:IdentifiedObject.description>VP requires new EIC codes between TSO areas and TERRE Western Europe area for VP-TERRE processes. https://entsoe.zendesk.com/agent/tickets/9336455</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-04-06</cim:DateAndOrTime.date>

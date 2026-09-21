@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000456X",
-    "@skos:prefLabel": "Hafsl.ko",
-    "@skos:altLabel": "NO-HAFSL_KO",
+    "@skos:prefLabel": "Hafslund",
+    "@skos:altLabel": "NO-HAFSLUND",
     "@cim:IdentifiedObject.mRID": "50A000000000456X",
-    "@cim:IdentifiedObject.name": "Hafsl.ko",
+    "@cim:IdentifiedObject.name": "Hafslund",
     "@cim:Names.name": [
-        "NO-HAFSL_KO",
+        "NO-HAFSLUND",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

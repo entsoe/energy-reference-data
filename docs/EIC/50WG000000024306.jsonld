@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000024306",
     "@skos:prefLabel": "SELBU   G101 HYDRO",
-    "@skos:altLabel": "NO-SELBU___G101_",
+    "@skos:altLabel": "NO-SELBUG101",
     "@cim:IdentifiedObject.mRID": "50WG000000024306",
     "@cim:IdentifiedObject.name": "SELBU   G101 HYDRO",
     "@cim:Names.name": [
-        "NO-SELBU___G101_",
+        "NO-SELBUG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

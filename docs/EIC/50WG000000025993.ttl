@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000025993" ;
     cim:IdentifiedObject.name "LEIVDAL G124 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LEIVDAL_G124_" ;
+        "NO-LEIVDALG124" ;
     dcterms:identifier "urn:eic:50WG000000025993" ;
-    skos:altLabel "NO-LEIVDAL_G124_" ;
+    skos:altLabel "NO-LEIVDALG124" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "LEIVDAL G124 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

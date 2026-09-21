@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y000000000078W",
     "@skos:prefLabel": "Virtual Trading Point Finland",
     "@skos:altLabel": "VTP-FI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Virtual Trading Point Finland"
-    },
     "@cim:IdentifiedObject.mRID": "21Y000000000078W",
     "@cim:IdentifiedObject.name": "Virtual Trading Point Finland",
     "@cim:Names.name": [
         "VTP-FI",
-        "Valid EIC Function needed"
+        "Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Virtual Trading Point Finland",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

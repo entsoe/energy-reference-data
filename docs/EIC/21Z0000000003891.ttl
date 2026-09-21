@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-26" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Entry/Exit Point From A Storage Between Storengy And  Grtgaz" ;
     cim:IdentifiedObject.mRID "21Z0000000003891" ;
     cim:IdentifiedObject.name "SERENE SUD/SUD_ATLANTIQUE (FR)" ;
-    cim:Names.name "SERENE_SUD",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "SERENE_SUD" ;
     dcterms:identifier "urn:eic:21Z0000000003891" ;
     skos:altLabel "SERENE_SUD" ;
-    skos:definition "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SERENE SUD/SUD_ATLANTIQUE (FR)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

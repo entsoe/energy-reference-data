@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53ZPL00001090135</dcterms:identifier>
-    <skos:prefLabel>OSD EWE ENERGIA</skos:prefLabel>
-    <skos:altLabel>109013_OSD-EWE</skos:altLabel>
+    <skos:prefLabel>Punkt Wyj&#347;cia do ELENGER DYSTRYBUCJA</skos:prefLabel>
+    <skos:altLabel>109013_OSD-ELE</skos:altLabel>
     <cim:IdentifiedObject.mRID>53ZPL00001090135</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>OSD EWE ENERGIA</cim:IdentifiedObject.name>
-    <cim:Names.name>109013_OSD-EWE</cim:Names.name>
+    <cim:IdentifiedObject.name>Punkt Wyj&#347;cia do ELENGER DYSTRYBUCJA</cim:IdentifiedObject.name>
+    <cim:Names.name>109013_OSD-ELE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-02-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-10-15</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

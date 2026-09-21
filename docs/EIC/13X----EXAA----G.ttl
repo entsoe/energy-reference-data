@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Austrian Energy Exchange" ;
     cim:IdentifiedObject.mRID "13X----EXAA----G" ;
     cim:IdentifiedObject.name "EXAA Abwicklungsstelle für Energieprodukte AG" ;
     cim:Names.name "ATU52153208",
         "EXAA",
-        "Valid EIC Function needed" ;
+        "Market Area Operator" ;
     dcterms:identifier "urn:eic:13X----EXAA----G" ;
     schema1:vatID "ATU52153208" ;
     skos:altLabel "EXAA" ;

@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/18X000000000PHJR",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:18X000000000PHJR",
+    "@skos:prefLabel": "DON MADRID 2019 SL",
+    "@skos:altLabel": "ES-DONMADRID2019",
+    "@cim:IdentifiedObject.mRID": "18X000000000PHJR",
+    "@cim:IdentifiedObject.name": "DON MADRID 2019 SL",
+    "@cim:Names.name": [
+        "ES-DONMADRID2019",
+        "ESB09700469",
+        "Consumption Responsible Party",
+        "Market Operator"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-10-29",
+    "@schema:vatID": "ESB09700469",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

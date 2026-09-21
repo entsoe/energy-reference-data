@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/15X-LUMENTRADE-O">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:15X-LUMENTRADE-O</dcterms:identifier>
+    <skos:prefLabel>Lumen Trade Kft.</skos:prefLabel>
+    <skos:altLabel>LUMENTR</skos:altLabel>
+    <skos:definition xml:lang="en">Hello, please check again the VAT number, it should be correct now. Thank you, Krisztina</skos:definition>
+    <cim:IdentifiedObject.mRID>15X-LUMENTRADE-O</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Lumen Trade Kft.</cim:IdentifiedObject.name>
+    <cim:Names.name>LUMENTR</cim:Names.name>
+    <cim:Names.name>HU32854530</cim:Names.name>
+    <cim:IdentifiedObject.description>Hello, please check again the VAT number, it should be correct now. Thank you, Krisztina</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-11-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>HU32854530</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

@@ -4,24 +4,24 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000FENI6</dcterms:identifier>
-    <skos:prefLabel>Edison Next Poland Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>EDISON_NEXT</skos:altLabel>
+    <skos:prefLabel>Dalkia Polska Industry sp. z o.o.</skos:prefLabel>
+    <skos:altLabel>DALKIA_POLSKA_IN</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000FENI6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Edison Next Poland Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>EDISON_NEXT</cim:Names.name>
+    <cim:IdentifiedObject.name>Dalkia Polska Industry sp. z o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>DALKIA_POLSKA_IN</cim:Names.name>
     <cim:Names.name>A0009644A.PL</cim:Names.name>
     <cim:Names.name>PL5471838076</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-24</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
-    <cim:Names.name>Metered Data Responsible</cim:Names.name>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
-    <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-04-07</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
-    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5471838076</schema:vatID>
   </skos:Concept>

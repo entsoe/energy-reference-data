@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPRPER-12345-1",
     "@skos:prefLabel": "PEREGRIN S.L.",
     "@skos:altLabel": "PRPER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPRPER-12345-1",
     "@cim:IdentifiedObject.name": "PEREGRIN S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB30018915",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB30018915",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

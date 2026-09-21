@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPAYUELOS0000L",
     "@skos:prefLabel": "Comunidad de Regates de Los Payuelos",
     "@skos:altLabel": "PAYUE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPAYUELOS0000L",
     "@cim:IdentifiedObject.name": "Comunidad de Regates de Los Payuelos",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG24379869",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-01-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG24379869",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Gas Transmission Operator" ;
     cim:IdentifiedObject.mRID "21V000000000003V" ;
     cim:IdentifiedObject.name "GAZ-SYSTEM ISO" ;
-    cim:Names.name "GS-ISO",
-        "Valid EIC Function needed" ;
+    cim:Names.name "GAZ-SYSTEM_ISO",
+        "Location" ;
     dcterms:identifier "urn:eic:21V000000000003V" ;
-    skos:altLabel "GS-ISO" ;
-    skos:definition "Gas Transmission Operator"@en ;
+    skos:altLabel "GAZ-SYSTEM_ISO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GAZ-SYSTEM ISO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

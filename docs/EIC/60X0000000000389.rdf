@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:60X0000000000389</dcterms:identifier>
-    <skos:prefLabel>SC PREMIER ENERGY SRL</skos:prefLabel>
-    <skos:altLabel>PREMIER-ENERGY</skos:altLabel>
+    <skos:prefLabel>NEOGAS GRID SA</skos:prefLabel>
+    <skos:altLabel>NGG</skos:altLabel>
     <cim:IdentifiedObject.mRID>60X0000000000389</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SC PREMIER ENERGY SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>PREMIER-ENERGY</cim:Names.name>
+    <cim:IdentifiedObject.name>NEOGAS GRID SA</cim:IdentifiedObject.name>
+    <cim:Names.name>NGG</cim:Names.name>
     <cim:Names.name>RO20914495</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-02-02</cim:DateAndOrTime.date>
-    <cim:Names.name>Resource Provider</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-17</cim:DateAndOrTime.date>
     <cim:Names.name>Distribution System Operator</cim:Names.name>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Resource Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>RO20914495</schema:vatID>
   </skos:Concept>

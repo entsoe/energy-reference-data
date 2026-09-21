@@ -12,23 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XSLOVENSKE-PLF",
-    "@skos:prefLabel": "Slovenske elektrarne, a.s. Spółka Akcyjna Oddział w Polsce",
-    "@skos:altLabel": "SLOVENSKEELEKTRA",
+    "@skos:prefLabel": "SLOVENSKÉ ELEKTRÁRNE, A.S., SPÓŁKA AKCYJNA ­ ODDZIAŁ W POLSCE",
+    "@skos:altLabel": "SEASWARSZAWA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "19XSLOVENSKE-PLF",
-    "@cim:IdentifiedObject.name": "Slovenske elektrarne, a.s. Spółka Akcyjna Oddział w Polsce",
+    "@cim:IdentifiedObject.name": "SLOVENSKÉ ELEKTRÁRNE, A.S., SPÓŁKA AKCYJNA ­ ODDZIAŁ W POLSCE",
     "@cim:Names.name": [
-        "SLOVENSKEELEKTRA",
+        "SEASWARSZAWA",
+        "A00009272.SK",
         "PL1070014723",
-        "Trade Responsible Party"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-08-25",
+    "@cim:DateAndOrTime.date": "2024-02-24",
     "@schema:vatID": "PL1070014723",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

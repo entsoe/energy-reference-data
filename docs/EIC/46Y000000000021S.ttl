@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46Y000000000021S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """The EIC code represents an Aggregated Area defined by the TSO and used as a Technical Profile within the MARI and PICASSO balancing platforms.
+The area is a virtual aggregation of several bidding zones and is used for modelling operational constraints and capacity limitations, in particular to limit flow variations over HVDC interconnections.
+""" ;
+    cim:IdentifiedObject.mRID "46Y000000000021S" ;
+    cim:IdentifiedObject.name "SE_SE4A_TP" ;
+    cim:Names.name "SE_SE4A_TP",
+        "Scheduling Area" ;
+    dcterms:identifier "urn:eic:46Y000000000021S" ;
+    skos:altLabel "SE_SE4A_TP" ;
+    skos:definition """The EIC code represents an Aggregated Area defined by the TSO and used as a Technical Profile within the MARI and PICASSO balancing platforms.
+The area is a virtual aggregation of several bidding zones and is used for modelling operational constraints and capacity limitations, in particular to limit flow variations over HVDC interconnections.
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SE_SE4A_TP" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

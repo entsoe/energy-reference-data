@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000063741" ;
-    cim:IdentifiedObject.name "Łomża Systemowa-Ełk Bis 1" ;
+    cim:IdentifiedObject.name "400kV Elk Bis-Lomza Systemowa 1" ;
     cim:Names.name "E701",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T0000000063741" ;
     skos:altLabel "E701" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Łomża Systemowa-Ełk Bis 1" ;
+    skos:prefLabel "400kV Elk Bis-Lomza Systemowa 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

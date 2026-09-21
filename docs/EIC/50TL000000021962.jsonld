@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000021962",
-    "@skos:prefLabel": "M 66 T_Øyan-Bjugn",
-    "@skos:altLabel": "NO-TOYANBJUGN",
+    "@skos:prefLabel": "N 66 T_Øyan-Bjugn",
+    "@skos:altLabel": "NO-66T_OYANBJUGN",
     "@cim:IdentifiedObject.mRID": "50TL000000021962",
-    "@cim:IdentifiedObject.name": "M 66 T_Øyan-Bjugn",
+    "@cim:IdentifiedObject.name": "N 66 T_Øyan-Bjugn",
     "@cim:Names.name": [
-        "NO-TOYANBJUGN",
+        "NO-66T_OYANBJUGN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

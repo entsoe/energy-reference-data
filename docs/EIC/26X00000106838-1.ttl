@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-08-29" ;
+    cim:DateAndOrTime.date "2026-03-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Market Operator" ;
     cim:IdentifiedObject.mRID "26X00000106838-1" ;
-    cim:IdentifiedObject.name "TRASTEEL SA" ;
+    cim:IdentifiedObject.name "Trasteel International SA" ;
     cim:Names.name "CHE114985697",
         "IT-TRASTEEL_SASO",
         "Market Operator" ;
@@ -20,6 +20,6 @@
     skos:altLabel "IT-TRASTEEL_SASO" ;
     skos:definition "Market Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TRASTEEL SA" ;
+    skos:prefLabel "Trasteel International SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

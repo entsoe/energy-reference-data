@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11TD400000546-1D" ;
     cim:IdentifiedObject.name "Hoheneck-Pkt_Rommelsbach_rt" ;
-    cim:Names.name "L-D4-D4-HO-RB_RT" ;
+    cim:Names.name "L-D4-D4-HO-RB_RT",
+        "Tieline" ;
     dcterms:identifier "urn:eic:11TD400000546-1D" ;
     skos:altLabel "L-D4-D4-HO-RB_RT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

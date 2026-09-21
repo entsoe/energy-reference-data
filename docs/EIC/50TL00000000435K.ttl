@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000000435K" ;
     cim:IdentifiedObject.name "N 132 Kvænangen-Nordreisa-2" ;
     cim:Names.name "Internal Line",
-        "NO-KVANANGENNOR2" ;
+        "NO-132KVANANGENN" ;
     dcterms:identifier "urn:eic:50TL00000000435K" ;
-    skos:altLabel "NO-KVANANGENNOR2" ;
+    skos:altLabel "NO-132KVANANGENN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Kvænangen-Nordreisa-2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

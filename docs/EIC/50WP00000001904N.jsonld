@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001904N",
     "@skos:prefLabel": "Kupe kraftverk",
-    "@skos:altLabel": "NO-KUPE_KRAFTVER",
+    "@skos:altLabel": "NO-KUPEKRAFTVERK",
     "@cim:IdentifiedObject.mRID": "50WP00000001904N",
     "@cim:IdentifiedObject.name": "Kupe kraftverk",
     "@cim:Names.name": [
-        "NO-KUPE_KRAFTVER",
+        "NO-KUPEKRAFTVERK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XNFRG-123456-7",
     "@skos:prefLabel": "Novafrigsa",
     "@skos:altLabel": "NFRG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNFRG-123456-7",
     "@cim:IdentifiedObject.name": "Novafrigsa",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA27199140",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA27199140",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000989E" ;
     cim:IdentifiedObject.name "S 300 ÅnaSira-Kjelland1" ;
     cim:Names.name "Internal Line",
-        "NO-ANASIRAKJELLA" ;
+        "NO-300ANA_SIRAKJ" ;
     dcterms:identifier "urn:eic:50TL00000000989E" ;
-    skos:altLabel "NO-ANASIRAKJELLA" ;
+    skos:altLabel "NO-300ANA_SIRAKJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 ÅnaSira-Kjelland1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

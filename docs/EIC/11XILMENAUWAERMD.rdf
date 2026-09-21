@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XILMENAUWAERMD</dcterms:identifier>
     <skos:prefLabel>Ilmenauer W&#228;rmeversorgung GmbH</skos:prefLabel>
     <skos:altLabel>ILMENAUERWAERME</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XILMENAUWAERMD</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Ilmenauer W&#228;rmeversorgung GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>ILMENAUERWAERME</cim:Names.name>
     <cim:Names.name>DE150930890</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE150930890</schema:vatID>

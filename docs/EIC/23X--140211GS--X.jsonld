@@ -12,23 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--140211GS--X",
-    "@skos:prefLabel": "GDF SUEZ E&P DEUTSCHLAND GMBH",
-    "@skos:altLabel": "GDF_EP_DE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
+    "@skos:prefLabel": "Neptune Energy Deutschland GmbH",
+    "@skos:altLabel": "NEPTUNE_ENERGY_D",
     "@cim:IdentifiedObject.mRID": "23X--140211GS--X",
-    "@cim:IdentifiedObject.name": "GDF SUEZ E&P DEUTSCHLAND GMBH",
+    "@cim:IdentifiedObject.name": "Neptune Energy Deutschland GmbH",
     "@cim:Names.name": [
-        "GDF_EP_DE",
+        "NEPTUNE_ENERGY_D",
         "DE811127999",
+        "Balance Responsible Party",
+        "Producer",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-02-11",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@schema:vatID": "DE811127999",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

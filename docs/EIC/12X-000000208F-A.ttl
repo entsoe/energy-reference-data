@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-03-30" ;
+    cim:DateAndOrTime.date "2026-07-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-000000208F-A" ;
-    cim:IdentifiedObject.name "dispoGas AG" ;
-    cim:Names.name "CHE317412631",
+    cim:IdentifiedObject.name "Volue AG" ;
+    cim:Names.name "CHE-105.221.922",
         "DISPOGAS-SA---ST",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:12X-000000208F-A" ;
-    schema1:vatID "CHE317412631" ;
+    schema1:vatID "CHE-105.221.922" ;
     skos:altLabel "DISPOGAS-SA---ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "dispoGas AG" ;
+    skos:prefLabel "Volue AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

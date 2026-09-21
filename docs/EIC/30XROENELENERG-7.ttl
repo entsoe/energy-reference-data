@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-30" ;
+    cim:DateAndOrTime.date "2024-04-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "30XROENELENERG-7" ;
-    cim:IdentifiedObject.name "ENEL ENERGIE" ;
+    cim:IdentifiedObject.name "PPC ENERGIE" ;
     cim:Names.name "Energy Supplier",
         "RO22000460",
         "RO_ENELENERGIE" ;
@@ -18,6 +18,6 @@
     schema1:vatID "RO22000460" ;
     skos:altLabel "RO_ENELENERGIE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENEL ENERGIE" ;
+    skos:prefLabel "PPC ENERGIE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

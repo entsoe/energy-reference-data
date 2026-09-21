@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000646" ;
     cim:IdentifiedObject.name "Nitrogen Removal Plants (PL)" ;
-    cim:Names.name "NITROG_REMOV_PL",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "NITROG_REMOV_PL" ;
     dcterms:identifier "urn:eic:21Y0000000000646" ;
     skos:altLabel "NITROG_REMOV_PL" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Nitrogen Removal Plants (PL)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

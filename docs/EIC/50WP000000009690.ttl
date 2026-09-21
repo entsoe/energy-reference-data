@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000009690" ;
-    cim:IdentifiedObject.name "Muredalen" ;
-    cim:Names.name "NO-MUREDALEN_PL",
+    cim:IdentifiedObject.name "Hattebergsdalen" ;
+    cim:Names.name "NO-HATTEBERGSDAL",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000009690" ;
-    skos:altLabel "NO-MUREDALEN_PL" ;
+    skos:altLabel "NO-HATTEBERGSDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Muredalen" ;
+    skos:prefLabel "Hattebergsdalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

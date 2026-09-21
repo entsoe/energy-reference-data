@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XKWK-EON-WW--6" ;
     cim:IdentifiedObject.name "Westfalen Weser Netz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE126229505",
-        "EWA-KWK" ;
+    cim:Names.name "DE126229505",
+        "EWA-KWK",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XKWK-EON-WW--6" ;
     schema1:vatID "DE126229505" ;
     skos:altLabel "EWA-KWK" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Westfalen Weser Netz GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

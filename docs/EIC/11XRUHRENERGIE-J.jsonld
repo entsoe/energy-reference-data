@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XRUHRENERGIE-J",
     "@skos:prefLabel": "RuhrEnergie GmbH, EVR",
     "@skos:altLabel": "RUHRENERGIE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance responsible party"
-    },
     "@cim:IdentifiedObject.mRID": "11XRUHRENERGIE-J",
     "@cim:IdentifiedObject.name": "RuhrEnergie GmbH, EVR",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE192205305",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance responsible party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-06-25",
     "@schema:vatID": "DE192205305",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

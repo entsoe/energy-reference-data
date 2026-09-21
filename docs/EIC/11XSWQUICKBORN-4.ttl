@@ -7,9 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-12-19" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:DateAndOrTime.date "2024-04-26" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description """Dear Laima, can you deactivate the 11XSWQUICKBORN-4? 
+
+I didn't working with the EIC-Tracking. 
+
+The new Party Code ist 11XSTWQ-HANDEL-Y (already approved).
+Kind Regards Christina """ ;
     cim:IdentifiedObject.mRID "11XSWQUICKBORN-4" ;
     cim:IdentifiedObject.name "Stadtwerke Quickborn GmbH" ;
     cim:Names.name "Balance Responsible Party",
@@ -18,7 +23,12 @@
     dcterms:identifier "urn:eic:11XSWQUICKBORN-4" ;
     schema1:vatID "DE244526745" ;
     skos:altLabel "SWQ" ;
-    skos:definition "Balance Responsible Party"@en ;
+    skos:definition """Dear Laima, can you deactivate the 11XSWQUICKBORN-4? 
+
+I didn't working with the EIC-Tracking. 
+
+The new Party Code ist 11XSTWQ-HANDEL-Y (already approved).
+Kind Regards Christina """@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Quickborn GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

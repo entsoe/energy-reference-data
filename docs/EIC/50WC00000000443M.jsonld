@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000443M",
-    "@skos:prefLabel": "M Landbruk 22  L1 Forbruk",
-    "@skos:altLabel": "NO-LANDBRUK22",
+    "@skos:prefLabel": "N Marka    22  L1 Forbruk",
+    "@skos:altLabel": "NO-MARKA22",
     "@cim:IdentifiedObject.mRID": "50WC00000000443M",
-    "@cim:IdentifiedObject.name": "M Landbruk 22  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Marka    22  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-LANDBRUK22",
+        "NO-MARKA22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

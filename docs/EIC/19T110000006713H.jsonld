@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006713H",
-    "@skos:prefLabel": "Kozienice-Puławy 1",
+    "@skos:prefLabel": "220kV Kozienice-Pulawy 1",
     "@skos:altLabel": "2005",
     "@cim:IdentifiedObject.mRID": "19T110000006713H",
-    "@cim:IdentifiedObject.name": "Kozienice-Puławy 1",
+    "@cim:IdentifiedObject.name": "220kV Kozienice-Pulawy 1",
     "@cim:Names.name": [
         "2005",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

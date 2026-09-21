@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XHEXAKON-----T",
     "@skos:prefLabel": "Hexa.Kon GmbH",
     "@skos:altLabel": "HEXA_KON",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XHEXAKON-----T",
     "@cim:IdentifiedObject.name": "Hexa.Kon GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE219262561",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-02-22",
+    "@cim:DateAndOrTime.date": "2025-11-26",
     "@schema:vatID": "DE219262561",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

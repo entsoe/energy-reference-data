@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001123Z",
-    "@skos:prefLabel": "S OltedalK 50  Forbruk",
-    "@skos:altLabel": "NO-OLTEDAL_KOB50",
+    "@skos:prefLabel": "S OltedalK 50  T1 Forbruk",
+    "@skos:altLabel": "NO-OLTEDALK50T1",
     "@cim:IdentifiedObject.mRID": "50WC00000001123Z",
-    "@cim:IdentifiedObject.name": "S OltedalK 50  Forbruk",
+    "@cim:IdentifiedObject.name": "S OltedalK 50  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-OLTEDAL_KOB50",
+        "NO-OLTEDALK50T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

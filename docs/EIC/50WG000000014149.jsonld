@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000014149",
     "@skos:prefLabel": "SAGEFOSSG1      HYDRO",
-    "@skos:altLabel": "NO-SAGEFOSSG1___",
+    "@skos:altLabel": "NO-SAGEFOSSG1",
     "@cim:IdentifiedObject.mRID": "50WG000000014149",
     "@cim:IdentifiedObject.name": "SAGEFOSSG1      HYDRO",
     "@cim:Names.name": [
-        "NO-SAGEFOSSG1___",
+        "NO-SAGEFOSSG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

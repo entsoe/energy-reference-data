@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T000000000989K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "System Operator" ;
+    cim:IdentifiedObject.mRID "49T000000000989K" ;
+    cim:IdentifiedObject.name "Hollandse Kust West Beta - Hollandse Kust West Landstation 220kV Rood" ;
+    cim:Names.name "HWB-HWL220-R",
+        "Internal Line" ;
+    dcterms:identifier "urn:eic:49T000000000989K" ;
+    skos:altLabel "HWB-HWL220-R" ;
+    skos:definition "System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Hollandse Kust West Beta - Hollandse Kust West Landstation 220kV Rood" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

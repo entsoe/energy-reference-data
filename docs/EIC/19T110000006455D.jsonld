@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006455D",
-    "@skos:prefLabel": "220 kV Piła Krzewina – Bydgoszcz t.1",
+    "@skos:prefLabel": "220kV Bydgoszcz Zachod-Pila Krzewina 1",
     "@skos:altLabel": "213",
     "@cim:IdentifiedObject.mRID": "19T110000006455D",
-    "@cim:IdentifiedObject.name": "220 kV Piła Krzewina – Bydgoszcz t.1",
+    "@cim:IdentifiedObject.name": "220kV Bydgoszcz Zachod-Pila Krzewina 1",
     "@cim:Names.name": [
         "213",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001477G" ;
     cim:IdentifiedObject.name "Veka" ;
-    cim:Names.name "NO-VEKA_PL",
+    cim:Names.name "NO-VEKA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001477G" ;
-    skos:altLabel "NO-VEKA_PL" ;
+    skos:altLabel "NO-VEKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Veka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

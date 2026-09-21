@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001236M" ;
-    cim:IdentifiedObject.name "S Ballerud 47  Forbruk" ;
+    cim:IdentifiedObject.name "S Ballerud 47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BALLERUD47" ;
+        "NO-BALLERUD47T1" ;
     dcterms:identifier "urn:eic:50WC00000001236M" ;
-    skos:altLabel "NO-BALLERUD47" ;
+    skos:altLabel "NO-BALLERUD47T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Ballerud 47  Forbruk" ;
+    skos:prefLabel "S Ballerud 47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

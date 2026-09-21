@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-10-16" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTWDAG-HBK019" ;
     cim:IdentifiedObject.name "Stadtwerke Düsseldorf AG" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE811365006",
         "SWDUESSELDORF" ;
     dcterms:identifier "urn:eic:11XSTWDAG-HBK019" ;
     schema1:vatID "DE811365006" ;
     skos:altLabel "SWDUESSELDORF" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Düsseldorf AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -4,15 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL00000ECNS0X</dcterms:identifier>
-    <skos:prefLabel>Polenergia Elektrociep&#322;ownia Nowa Sarzyna Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>ENS</skos:altLabel>
+    <skos:prefLabel>Axpo Elektrociep&#322;ownia Nowa Sarzyna Sp. z o.o.</skos:prefLabel>
+    <skos:altLabel>EC_NOWA_SARZYNA</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL00000ECNS0X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Polenergia Elektrociep&#322;ownia Nowa Sarzyna Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>ENS</cim:Names.name>
+    <cim:IdentifiedObject.name>Axpo Elektrociep&#322;ownia Nowa Sarzyna Sp. z o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>EC_NOWA_SARZYNA</cim:Names.name>
+    <cim:Names.name>A0005282M.PL</cim:Names.name>
     <cim:Names.name>PL8161033894</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-12-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-17</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8161033894</schema:vatID>

@@ -4,16 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10T-BG-GR-00001B</dcterms:identifier>
-    <skos:prefLabel>Blagoevgrad-Thessaloniki</skos:prefLabel>
-    <skos:altLabel>L_BLAGOE-THESSAL</skos:altLabel>
-    <skos:definition xml:lang="en">Tieline</skos:definition>
+    <skos:prefLabel>Blagoevgrad-Lagadas</skos:prefLabel>
+    <skos:altLabel>L_BLAGOE-LAGADAS</skos:altLabel>
     <cim:IdentifiedObject.mRID>10T-BG-GR-00001B</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Blagoevgrad-Thessaloniki</cim:IdentifiedObject.name>
-    <cim:Names.name>L_BLAGOE-THESSAL</cim:Names.name>
-    <cim:IdentifiedObject.description>Tieline</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>Blagoevgrad-Lagadas</cim:IdentifiedObject.name>
+    <cim:Names.name>L_BLAGOE-LAGADAS</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-04-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-20</cim:DateAndOrTime.date>
     <cim:Names.name>Tieline</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

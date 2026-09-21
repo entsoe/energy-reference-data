@@ -7,18 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-10" ;
+    cim:DateAndOrTime.date "2026-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Capacity Trader" ;
     cim:IdentifiedObject.mRID "52X000000000094M" ;
-    cim:IdentifiedObject.name "AOT Energy Netherlands BV" ;
-    cim:Names.name "AOTENBV",
-        "NL864185704B01" ;
+    cim:IdentifiedObject.name "Westgass Netherlands B.V." ;
+    cim:Names.name "Capacity Trader",
+        "NL864185704B01",
+        "WESTGASSNL" ;
     dcterms:identifier "urn:eic:52X000000000094M" ;
     schema1:vatID "NL864185704B01" ;
-    skos:altLabel "AOTENBV" ;
+    skos:altLabel "WESTGASSNL" ;
     skos:definition "Capacity Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AOT Energy Netherlands BV" ;
+    skos:prefLabel "Westgass Netherlands B.V." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

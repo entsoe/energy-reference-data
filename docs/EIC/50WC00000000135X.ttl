@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000000135X" ;
     cim:IdentifiedObject.name "S Årdalsta 132 T1 Industri" ;
     cim:Names.name "Load",
-        "NO-ARDALS132T1NC" ;
+        "NO-ARDALSTA132T1" ;
     dcterms:identifier "urn:eic:50WC00000000135X" ;
-    skos:altLabel "NO-ARDALS132T1NC" ;
+    skos:altLabel "NO-ARDALSTA132T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Årdalsta 132 T1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

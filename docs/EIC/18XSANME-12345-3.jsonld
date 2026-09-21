@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSANME-12345-3",
     "@skos:prefLabel": "SANMEL, S.L.",
     "@skos:altLabel": "SANME",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSANME-12345-3",
     "@cim:IdentifiedObject.name": "SANMEL, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB10126092",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB10126092",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

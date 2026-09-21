@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGEPER-12345-F",
     "@skos:prefLabel": "GEPERS SA",
     "@skos:altLabel": "GEPER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGEPER-12345-F",
     "@cim:IdentifiedObject.name": "GEPERS SA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES08805301",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES08805301",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

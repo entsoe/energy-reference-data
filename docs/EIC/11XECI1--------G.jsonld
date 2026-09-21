@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XECI1--------G",
     "@skos:prefLabel": "Akzo Nobel Industrial Chemicals GmbH",
     "@skos:altLabel": "ECI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XECI1--------G",
     "@cim:IdentifiedObject.name": "Akzo Nobel Industrial Chemicals GmbH",
     "@cim:Names.name": [
         "ECI",
         "DE125498871",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-02-19",
+    "@cim:DateAndOrTime.date": "2024-11-20",
     "@schema:vatID": "DE125498871",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

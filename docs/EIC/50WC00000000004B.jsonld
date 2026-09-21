@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000004B",
-    "@skos:prefLabel": "S Vagle    50  Forbruk",
-    "@skos:altLabel": "NO-VAGLE50",
+    "@skos:prefLabel": "S Vagle    50  T1 Forbruk",
+    "@skos:altLabel": "NO-VAGLE50T1",
     "@cim:IdentifiedObject.mRID": "50WC00000000004B",
-    "@cim:IdentifiedObject.name": "S Vagle    50  Forbruk",
+    "@cim:IdentifiedObject.name": "S Vagle    50  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-VAGLE50",
+        "NO-VAGLE50T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

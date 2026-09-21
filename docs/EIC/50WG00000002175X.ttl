@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000002175X" ;
     cim:IdentifiedObject.name "AROY    G2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-AROY____G2___" ;
+        "NO-AROYG2" ;
     dcterms:identifier "urn:eic:50WG00000002175X" ;
-    skos:altLabel "NO-AROY____G2___" ;
+    skos:altLabel "NO-AROYG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "AROY    G2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

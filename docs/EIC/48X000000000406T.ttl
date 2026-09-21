@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000406T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Party Code " ;
+    cim:IdentifiedObject.mRID "48X000000000406T" ;
+    cim:IdentifiedObject.name "Benbrack Wind Farm Limited" ;
+    cim:Names.name "BENBRACK",
+        "Balance Responsible Party",
+        "GB115073645",
+        "Party Connected To Grid",
+        "Producer" ;
+    dcterms:identifier "urn:eic:48X000000000406T" ;
+    schema1:vatID "GB115073645" ;
+    skos:altLabel "BENBRACK" ;
+    skos:definition "Party Code "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Benbrack Wind Farm Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

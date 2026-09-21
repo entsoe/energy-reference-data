@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL00000003654U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL00000003654U" ;
+    cim:IdentifiedObject.name "S 22 Storøy-Bø-hk" ;
+    cim:Names.name "Internal Line",
+        "NO-22STOY_BO_H_1" ;
+    dcterms:identifier "urn:eic:50TL00000003654U" ;
+    skos:altLabel "NO-22STOY_BO_H_1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S 22 Storøy-Bø-hk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

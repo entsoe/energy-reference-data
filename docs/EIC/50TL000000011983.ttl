@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000011983" ;
-    cim:IdentifiedObject.name "M 420 Nyhamna-Havnes Res" ;
+    cim:IdentifiedObject.name "N 420 Nyhamna-Havnes Res" ;
     cim:Names.name "Internal Line",
-        "NO-NYHAMNAHAVNER" ;
+        "NO-420NYHAMESRES" ;
     dcterms:identifier "urn:eic:50TL000000011983" ;
-    skos:altLabel "NO-NYHAMNAHAVNER" ;
+    skos:altLabel "NO-420NYHAMESRES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Nyhamna-Havnes Res" ;
+    skos:prefLabel "N 420 Nyhamna-Havnes Res" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

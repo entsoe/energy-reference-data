@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:31X-0170-P-000-P",
-    "@skos:prefLabel": "MODERATOR d.o.o.",
-    "@skos:altLabel": "HR-MODERATOR",
+    "@skos:prefLabel": "RST-Pellet Udbina d.o.o.",
+    "@skos:altLabel": "HR-RST-PE-UDBINA",
     "@cim:IdentifiedObject.mRID": "31X-0170-P-000-P",
-    "@cim:IdentifiedObject.name": "MODERATOR d.o.o.",
+    "@cim:IdentifiedObject.name": "RST-Pellet Udbina d.o.o.",
     "@cim:Names.name": [
-        "HR-MODERATOR",
+        "HR-RST-PE-UDBINA",
         "10160841858",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-05-23",
+    "@cim:DateAndOrTime.date": "2025-06-23",
     "@schema:vatID": "10160841858",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

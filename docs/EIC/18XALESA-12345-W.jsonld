@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALESA-12345-W",
     "@skos:prefLabel": "ALESAN S.A.",
     "@skos:altLabel": "ALESA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALESA-12345-W",
     "@cim:IdentifiedObject.name": "ALESAN S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA31016678",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA31016678",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

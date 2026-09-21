@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31W-0185-P-000-L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31W-0185-P-000-L" ;
+    cim:IdentifiedObject.name "VJETROELEKTRANA OPOR 110kV" ;
+    cim:Names.name "HR-VE-OPOR",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:31W-0185-P-000-L" ;
+    skos:altLabel "HR-VE-OPOR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VJETROELEKTRANA OPOR 110kV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

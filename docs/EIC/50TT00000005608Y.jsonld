@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005608Y",
     "@skos:prefLabel": "S Sagene   T2 Transformator",
-    "@skos:altLabel": "NO-SAGENE__T2",
+    "@skos:altLabel": "NO-SAGENET2",
     "@cim:IdentifiedObject.mRID": "50TT00000005608Y",
     "@cim:IdentifiedObject.name": "S Sagene   T2 Transformator",
     "@cim:Names.name": [
-        "NO-SAGENE__T2",
+        "NO-SAGENET2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

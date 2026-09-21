@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Z1001A1001A24H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Accounting Point for new V443 Dobzeń - Dětmarovice" ;
+    cim:IdentifiedObject.mRID "10Z1001A1001A24H" ;
+    cim:IdentifiedObject.name "Dobrzeń-Dětmarovice Accounting Point" ;
+    cim:Names.name "Accounting Point",
+        "M_DBN-DET" ;
+    dcterms:identifier "urn:eic:10Z1001A1001A24H" ;
+    skos:altLabel "M_DBN-DET" ;
+    skos:definition "Accounting Point for new V443 Dobzeń - Dětmarovice"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dobrzeń-Dětmarovice Accounting Point" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

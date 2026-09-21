@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-T-ECOBALTVIS> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-T-ECOBALTVIS" ;
+    cim:IdentifiedObject.name "Eco Baltia vide SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-ECOB",
+        "LV40003309841" ;
+    dcterms:identifier "urn:eic:43X-T-ECOBALTVIS" ;
+    schema1:vatID "LV40003309841" ;
+    skos:altLabel "LV-ECOB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Eco Baltia vide SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

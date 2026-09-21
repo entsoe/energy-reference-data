@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002735Z",
-    "@skos:prefLabel": "S 22 Lidal-Lidal Kraftverk",
-    "@skos:altLabel": "NO-LIDALLIDALKRA",
+    "@skos:prefLabel": "N 22 Lidal-Lidal Kraftverk",
+    "@skos:altLabel": "NO-22LIDALLIDAL",
     "@cim:IdentifiedObject.mRID": "50TL00000002735Z",
-    "@cim:IdentifiedObject.name": "S 22 Lidal-Lidal Kraftverk",
+    "@cim:IdentifiedObject.name": "N 22 Lidal-Lidal Kraftverk",
     "@cim:Names.name": [
-        "NO-LIDALLIDALKRA",
+        "NO-22LIDALLIDAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

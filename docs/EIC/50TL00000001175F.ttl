@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001175F" ;
-    cim:IdentifiedObject.name "M 420 Fræna-Nyhamna" ;
+    cim:IdentifiedObject.name "N 420 Fræna-Nyhamna" ;
     cim:Names.name "Internal Line",
-        "NO-FRAENANYHAMNA" ;
+        "NO-420FRAENANYHA" ;
     dcterms:identifier "urn:eic:50TL00000001175F" ;
-    skos:altLabel "NO-FRAENANYHAMNA" ;
+    skos:altLabel "NO-420FRAENANYHA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Fræna-Nyhamna" ;
+    skos:prefLabel "N 420 Fræna-Nyhamna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

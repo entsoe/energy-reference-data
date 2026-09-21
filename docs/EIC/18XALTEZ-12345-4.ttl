@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-06-11" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XALTEZ-12345-4" ;
     cim:IdentifiedObject.name "2021 ALIMENTALTEZA SA" ;
     cim:Names.name "ALTEZ",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XALTEZ-12345-4" ;
     schema1:vatID "ESA38521894" ;
     skos:altLabel "ALTEZ" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "2021 ALIMENTALTEZA SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

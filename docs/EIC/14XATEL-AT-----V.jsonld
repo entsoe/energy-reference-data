@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Atel Austria GmbH",
     "@cim:Names.name": [
         "ATEL-AUSTRIA",
-        "Balance Group"
+        "ATU56646669",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-02",
+    "@cim:DateAndOrTime.date": "2024-11-14",
+    "@schema:vatID": "ATU56646669",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

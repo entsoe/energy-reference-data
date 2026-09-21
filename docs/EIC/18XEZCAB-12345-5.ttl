@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XEZCAB-12345-5" ;
     cim:IdentifiedObject.name "ANAIZ EZCABA, S.L." ;
-    cim:Names.name "Consumption Responsible Party",
-        "ESB31977044",
-        "EZCAB" ;
+    cim:Names.name "ESB31977044",
+        "EZCAB",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:18XEZCAB-12345-5" ;
     schema1:vatID "ESB31977044" ;
     skos:altLabel "EZCAB" ;

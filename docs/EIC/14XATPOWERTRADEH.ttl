@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-08-02" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XATPOWERTRADEH" ;
     cim:IdentifiedObject.name "VERBUND AG" ;
-    cim:Names.name "Balance Group",
-        "POWERTRADE" ;
+    cim:Names.name "POWERTRADE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:14XATPOWERTRADEH" ;
     skos:altLabel "POWERTRADE" ;
     skos:definition "Balance Group"@en ;

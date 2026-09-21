@@ -7,16 +7,30 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-10-02" ;
+    cim:DateAndOrTime.date "2024-08-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "The W Station code" ;
+    cim:IdentifiedObject.description """The W Station code
+New Contact Information 07/08/2024
+C/O Gresham House Asset Management Ltd, 5 New Street Square, London EC4A 3TW
+Oliver Guy
+og@arenko.group
+
+
+""" ;
     cim:IdentifiedObject.mRID "48WSTN0000ARNKBW" ;
     cim:IdentifiedObject.name "Bloxwich" ;
     cim:Names.name "ARNKB",
         "Production Unit" ;
     dcterms:identifier "urn:eic:48WSTN0000ARNKBW" ;
     skos:altLabel "ARNKB" ;
-    skos:definition "The W Station code"@en ;
+    skos:definition """The W Station code
+New Contact Information 07/08/2024
+C/O Gresham House Asset Management Ltd, 5 New Street Square, London EC4A 3TW
+Oliver Guy
+og@arenko.group
+
+
+"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Bloxwich" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

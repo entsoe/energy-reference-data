@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000492",
     "@skos:prefLabel": "Greater Belfast Exit Point",
     "@skos:altLabel": "GREATERBELFAST",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "The Greater Belfast Exit Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000492",
     "@cim:IdentifiedObject.name": "Greater Belfast Exit Point",
     "@cim:Names.name": [
         "GREATERBELFAST",
-        "Valid EIC Function needed"
+        "Distribution Network Area"
     ],
-    "@cim:IdentifiedObject.description": "The Greater Belfast Exit Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

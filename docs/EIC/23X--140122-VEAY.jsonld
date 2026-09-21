@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "VEA_S",
         "SE556565687201",
-        "Balance Group"
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-22",
+    "@cim:DateAndOrTime.date": "2024-12-12",
     "@schema:vatID": "SE556565687201",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

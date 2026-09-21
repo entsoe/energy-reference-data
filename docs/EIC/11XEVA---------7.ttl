@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-09" ;
+    cim:DateAndOrTime.date "2024-11-27" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEVA---------7" ;
     cim:IdentifiedObject.name "Elektrizitätsgenossenschaft Vogling & Angrenzer eG" ;
-    cim:Names.name "DE131565637",
-        "EVA",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE131565637",
+        "EVA" ;
     dcterms:identifier "urn:eic:11XEVA---------7" ;
     schema1:vatID "DE131565637" ;
     skos:altLabel "EVA" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Elektrizitätsgenossenschaft Vogling & Angrenzer eG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

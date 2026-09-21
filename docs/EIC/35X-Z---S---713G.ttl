@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-Z---S---713G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-Z---S---713G" ;
+    cim:IdentifiedObject.name "ZUPA SOLAR doo" ;
+    cim:Names.name "03474283",
+        "Balance Responsible Party",
+        "Producer",
+        "Production Responsible Party",
+        "ZUPA_SOLAR" ;
+    dcterms:identifier "urn:eic:35X-Z---S---713G" ;
+    schema1:vatID "03474283" ;
+    skos:altLabel "ZUPA_SOLAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ZUPA SOLAR doo" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

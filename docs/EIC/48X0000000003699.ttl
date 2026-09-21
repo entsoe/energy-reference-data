@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X0000000003699> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """128 City Road
+London
+EC1V 2NX
+UK
+Karl Bach
+karl@axle.energy
++44 7864543243
+""" ;
+    cim:IdentifiedObject.mRID "48X0000000003699" ;
+    cim:IdentifiedObject.name "Axle Energy Limited" ;
+    cim:Names.name "AXLE",
+        "Balancing Service Provider",
+        "GB441984865" ;
+    dcterms:identifier "urn:eic:48X0000000003699" ;
+    schema1:vatID "GB441984865" ;
+    skos:altLabel "AXLE" ;
+    skos:definition """128 City Road
+London
+EC1V 2NX
+UK
+Karl Bach
+karl@axle.energy
++44 7864543243
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Axle Energy Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

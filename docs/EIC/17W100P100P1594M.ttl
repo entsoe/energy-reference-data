@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-01" ;
+    cim:DateAndOrTime.date "2024-12-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Generation unit" ;
     cim:IdentifiedObject.mRID "17W100P100P1594M" ;
-    cim:IdentifiedObject.name "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE GENISSIAT" ;
+    cim:IdentifiedObject.name "GENISSIAT G1" ;
     cim:Names.name "FR_HY-GENIS-G1",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P1594M" ;
     skos:altLabel "FR_HY-GENIS-G1" ;
     skos:definition "Generation unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE GENISSIAT" ;
+    skos:prefLabel "GENISSIAT G1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

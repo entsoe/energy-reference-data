@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-01" ;
+    cim:DateAndOrTime.date "2024-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000437G" ;
     cim:IdentifiedObject.name "VIPE LARISSA" ;
     cim:Names.name "Connection Point",
+        "Metering Point",
         "VIPE-LARISSA-GR" ;
     dcterms:identifier "urn:eic:21Z000000000437G" ;
     skos:altLabel "VIPE-LARISSA-GR" ;

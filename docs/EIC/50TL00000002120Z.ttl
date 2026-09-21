@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-09-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002120Z" ;
     cim:IdentifiedObject.name "S 66 Sjusjøen-Tyria" ;
     cim:Names.name "Internal Line",
-        "NO-SJUSJOENTYRIA" ;
+        "NO-22SJUSJOENTYR" ;
     dcterms:identifier "urn:eic:50TL00000002120Z" ;
-    skos:altLabel "NO-SJUSJOENTYRIA" ;
+    skos:altLabel "NO-22SJUSJOENTYR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Sjusjøen-Tyria" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

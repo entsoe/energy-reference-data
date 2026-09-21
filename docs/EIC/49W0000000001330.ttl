@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "49W0000000001330" ;
     cim:IdentifiedObject.name "Rijnmond Power Holding 11X" ;
-    cim:Names.name "PU_RPH_11X" ;
+    cim:Names.name "PU_RPH_11X",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:49W0000000001330" ;
     skos:altLabel "PU_RPH_11X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

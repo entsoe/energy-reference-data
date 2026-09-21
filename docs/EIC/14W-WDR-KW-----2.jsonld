@@ -16,7 +16,10 @@
     "@skos:altLabel": "WDR-KW",
     "@cim:IdentifiedObject.mRID": "14W-WDR-KW-----2",
     "@cim:IdentifiedObject.name": "DKW Dürnrohr-KW",
-    "@cim:Names.name": "WDR-KW",
+    "@cim:Names.name": [
+        "WDR-KW",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

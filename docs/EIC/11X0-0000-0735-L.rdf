@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X0-0000-0735-L</dcterms:identifier>
-    <skos:prefLabel>Deutsche Edelstahlwerke Specialty Steel GmbH &amp; Co. KG</skos:prefLabel>
+    <skos:prefLabel>Deutsche Edelstahlwerke Siegen/Hagen GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>DEW</skos:altLabel>
     <cim:IdentifiedObject.mRID>11X0-0000-0735-L</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Deutsche Edelstahlwerke Specialty Steel GmbH &amp; Co. KG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Deutsche Edelstahlwerke Siegen/Hagen GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>DEW</cim:Names.name>
     <cim:Names.name>DE308764143</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-03-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-20</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE308764143</schema:vatID>

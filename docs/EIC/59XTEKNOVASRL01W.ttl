@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XTEKNOVASRL01W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XTEKNOVASRL01W" ;
+    cim:IdentifiedObject.name "TEKNOVA S.R.L." ;
+    cim:Names.name "Balance Responsible Party",
+        "IT06447320653",
+        "TEKNOVASRL" ;
+    dcterms:identifier "urn:eic:59XTEKNOVASRL01W" ;
+    schema1:vatID "IT06447320653" ;
+    skos:altLabel "TEKNOVASRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TEKNOVA S.R.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

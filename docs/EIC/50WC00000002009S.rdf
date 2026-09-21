@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000002009S</dcterms:identifier>
-    <skos:prefLabel>Noble-Clean</skos:prefLabel>
-    <skos:altLabel>NO-NOBLE-CLEAN</skos:altLabel>
+    <skos:prefLabel>N Hungeren 2   L1  Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-HUNGERN2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000002009S</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Noble-Clean</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-NOBLE-CLEAN</cim:Names.name>
+    <cim:IdentifiedObject.name>N Hungeren 2   L1  Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-HUNGERN2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46WPU0000000191C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46WPU0000000191C" ;
+    cim:IdentifiedObject.name "66932 Deje, Dejefors kraftstation, Bruksvägen 10, Sweden" ;
+    cim:Names.name "66932_DEJE_DEJEF",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:46WPU0000000191C" ;
+    skos:altLabel "66932_DEJE_DEJEF" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "66932 Deje, Dejefors kraftstation, Bruksvägen 10, Sweden" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

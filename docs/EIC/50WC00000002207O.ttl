@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002207O" ;
-    cim:IdentifiedObject.name "S Mågeli   66  L1 Forbruk" ;
+    cim:IdentifiedObject.name "S Mågeli   22  L1 Forbruk" ;
     cim:Names.name "Load",
         "NO-MAGELI66" ;
     dcterms:identifier "urn:eic:50WC00000002207O" ;
     skos:altLabel "NO-MAGELI66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Mågeli   66  L1 Forbruk" ;
+    skos:prefLabel "S Mågeli   22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

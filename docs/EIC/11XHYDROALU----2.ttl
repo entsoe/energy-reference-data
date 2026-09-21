@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHYDROALU----2" ;
     cim:IdentifiedObject.name "Hydro Aluminium Deutschland GmbH, Hydro Energy" ;
-    cim:Names.name "Balance Group",
-        "DE811145164",
-        "HYDROALUMINIUM" ;
+    cim:Names.name "DE811145164",
+        "HYDROALUMINIUM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHYDROALU----2" ;
     schema1:vatID "DE811145164" ;
     skos:altLabel "HYDROALUMINIUM" ;

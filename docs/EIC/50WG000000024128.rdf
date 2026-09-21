@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000024128</dcterms:identifier>
-    <skos:prefLabel>HUNGERN G101 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-HUNGERN_G101_</skos:altLabel>
+    <skos:prefLabel>HUNGERENG101 HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-HUNGERENG101</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000024128</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>HUNGERN G101 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-HUNGERN_G101_</cim:Names.name>
+    <cim:IdentifiedObject.name>HUNGERENG101 HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-HUNGERENG101</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

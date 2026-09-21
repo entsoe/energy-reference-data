@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000170G",
     "@skos:prefLabel": "BOGNA   G1      HYDRO",
-    "@skos:altLabel": "NO-BOGNA___G1___",
+    "@skos:altLabel": "NO-BOGNAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000000170G",
     "@cim:IdentifiedObject.name": "BOGNA   G1      HYDRO",
     "@cim:Names.name": [
-        "NO-BOGNA___G1___",
+        "NO-BOGNAG1",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XDESEL-12345-1",
     "@skos:prefLabel": "COMERCIAL DE DESARROLLOS ELECTRONICOS, S.A.",
     "@skos:altLabel": "DESEL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDESEL-12345-1",
     "@cim:IdentifiedObject.name": "COMERCIAL DE DESARROLLOS ELECTRONICOS, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA48140875",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA48140875",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

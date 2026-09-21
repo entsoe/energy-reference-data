@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XPEAR-12345-1D",
     "@skos:prefLabel": "ENERGÍAS ESPECIALES DE PEÑA ARMADA, S.A.",
     "@skos:altLabel": "PEAR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPEAR-12345-1D",
     "@cim:IdentifiedObject.name": "ENERGÍAS ESPECIALES DE PEÑA ARMADA, S.A.",
     "@cim:Names.name": [
         "PEAR",
         "ESA82899311",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-06-29",
     "@schema:vatID": "ESA82899311",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

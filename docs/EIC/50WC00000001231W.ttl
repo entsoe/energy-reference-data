@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001231W" ;
-    cim:IdentifiedObject.name "S Sandvika 47  Forbruk" ;
+    cim:IdentifiedObject.name "S Sandvik  47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SANDV_VE47" ;
+        "NO-SANDVIK47T1" ;
     dcterms:identifier "urn:eic:50WC00000001231W" ;
-    skos:altLabel "NO-SANDV_VE47" ;
+    skos:altLabel "NO-SANDVIK47T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Sandvika 47  Forbruk" ;
+    skos:prefLabel "S Sandvik  47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

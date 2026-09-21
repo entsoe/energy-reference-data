@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000064684",
-    "@skos:prefLabel": "Gdańsk Przyjaźń - Pelplin tor 2",
+    "@skos:prefLabel": "400kV Gdansk Przyjazn-Pelplin 2",
     "@skos:altLabel": "N408",
     "@cim:IdentifiedObject.mRID": "19T1100000064684",
-    "@cim:IdentifiedObject.name": "Gdańsk Przyjaźń - Pelplin tor 2",
+    "@cim:IdentifiedObject.name": "400kV Gdansk Przyjazn-Pelplin 2",
     "@cim:Names.name": [
         "N408",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-09",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

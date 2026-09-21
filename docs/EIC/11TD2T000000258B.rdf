@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11TD2T000000258B</dcterms:identifier>
-    <skos:prefLabel>TTG/220-110/Altheim/Trafo 411</skos:prefLabel>
+    <skos:prefLabel>TTG/380-110/ALTHEIM/TRAFO 411</skos:prefLabel>
     <skos:altLabel>T-D2-D2-14150697</skos:altLabel>
     <cim:IdentifiedObject.mRID>11TD2T000000258B</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TTG/220-110/Altheim/Trafo 411</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>TTG/380-110/ALTHEIM/TRAFO 411</cim:IdentifiedObject.name>
     <cim:Names.name>T-D2-D2-14150697</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-12-22</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

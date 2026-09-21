@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000000168I" ;
-    cim:IdentifiedObject.name "S Bergelok 11  Forbruk" ;
+    cim:IdentifiedObject.name "S Bergeløk 11  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BERGELOKKA11" ;
+        "NO-BERGELOK11T1" ;
     dcterms:identifier "urn:eic:50WC00000000168I" ;
-    skos:altLabel "NO-BERGELOKKA11" ;
+    skos:altLabel "NO-BERGELOK11T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Bergelok 11  Forbruk" ;
+    skos:prefLabel "S Bergeløk 11  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

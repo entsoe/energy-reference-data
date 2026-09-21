@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC000000014819",
     "@skos:prefLabel": "S Biri     66  T1 Forbruk",
-    "@skos:altLabel": "NO-BIRI66",
+    "@skos:altLabel": "NO-BIRI66T1",
     "@cim:IdentifiedObject.mRID": "50WC000000014819",
     "@cim:IdentifiedObject.name": "S Biri     66  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-BIRI66",
+        "NO-BIRI66T1",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

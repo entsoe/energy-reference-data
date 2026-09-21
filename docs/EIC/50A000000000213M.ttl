@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000000213M" ;
-    cim:IdentifiedObject.name "Dalsfoss" ;
+    cim:IdentifiedObject.name "Dalsfos Øst" ;
     cim:Names.name "NO-DALSFOSS",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000000213M" ;
     skos:altLabel "NO-DALSFOSS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Dalsfoss" ;
+    skos:prefLabel "Dalsfos Øst" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

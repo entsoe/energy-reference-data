@@ -4,19 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:15X-MOLTRADING-F</dcterms:identifier>
-    <skos:prefLabel>MOL Magyar Olaj- &#233;s G&#225;zipari Nyrt.</skos:prefLabel>
+    <skos:prefLabel>MOL Downstream Zrt.</skos:prefLabel>
     <skos:altLabel>MOLTR-BC</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>15X-MOLTRADING-F</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>MOL Magyar Olaj- &#233;s G&#225;zipari Nyrt.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>MOL Downstream Zrt.</cim:IdentifiedObject.name>
     <cim:Names.name>MOLTR-BC</cim:Names.name>
-    <cim:Names.name>HU10625790</cim:Names.name>
+    <cim:Names.name>32980183-4-44</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-03-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-07-01</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>HU10625790</schema:vatID>
+    <schema:vatID>32980183-4-44</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

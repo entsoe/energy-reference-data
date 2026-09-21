@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGESTI-12345-O",
     "@skos:prefLabel": "GESTINER INGENIEROS, S.L.",
     "@skos:altLabel": "GESTI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGESTI-12345-O",
     "@cim:IdentifiedObject.name": "GESTINER INGENIEROS, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB82410549",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB82410549",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

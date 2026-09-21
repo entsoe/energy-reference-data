@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/57X58UT7K7Z037P5",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:57X58UT7K7Z037P5",
+    "@skos:prefLabel": "MET Asia Energy Pte. Ltd.",
+    "@skos:altLabel": "METAE",
+    "@cim:IdentifiedObject.mRID": "57X58UT7K7Z037P5",
+    "@cim:IdentifiedObject.name": "MET Asia Energy Pte. Ltd.",
+    "@cim:Names.name": [
+        "METAE",
+        "A0022819U.BE",
+        "202339660E",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-09-25",
+    "@schema:vatID": "202339660E",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

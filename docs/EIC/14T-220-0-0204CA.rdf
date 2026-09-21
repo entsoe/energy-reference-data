@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:14T-220-0-0204CA</dcterms:identifier>
     <skos:prefLabel>220kV line Sattledt-Ernsthofen</skos:prefLabel>
-    <skos:altLabel>204C</skos:altLabel>
+    <skos:altLabel>0204D</skos:altLabel>
     <cim:IdentifiedObject.mRID>14T-220-0-0204CA</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>220kV line Sattledt-Ernsthofen</cim:IdentifiedObject.name>
-    <cim:Names.name>204C</cim:Names.name>
+    <cim:Names.name>0204D</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-07-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

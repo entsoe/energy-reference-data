@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-11-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWBSA-------5" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Sooden-Allendorf" ;
     cim:Names.name "BSA",
-        "Balance Group",
+        "Balance Responsible Party",
         "DE113056468" ;
     dcterms:identifier "urn:eic:11XSWBSA-------5" ;
     schema1:vatID "DE113056468" ;
     skos:altLabel "BSA" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Bad Sooden-Allendorf" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

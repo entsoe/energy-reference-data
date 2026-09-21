@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Gas Transmission" ;
     cim:IdentifiedObject.mRID "27YG-RTN-TSO-CZW" ;
     cim:IdentifiedObject.name "RWE Transgas NET, s.r.o" ;
-    cim:Names.name "G-RTN-TSO-CZ",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Distribution Network Area",
+        "G-RTN-TSO-CZ" ;
     dcterms:identifier "urn:eic:27YG-RTN-TSO-CZW" ;
     skos:altLabel "G-RTN-TSO-CZ" ;
     skos:definition "Gas Transmission"@en ;

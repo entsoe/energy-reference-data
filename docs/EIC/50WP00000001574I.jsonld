@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001574I",
     "@skos:prefLabel": "Vågen-SFE",
-    "@skos:altLabel": "NO-VAGEN-SFE_PL",
+    "@skos:altLabel": "NO-VAAGEN_SFE",
     "@cim:IdentifiedObject.mRID": "50WP00000001574I",
     "@cim:IdentifiedObject.name": "Vågen-SFE",
     "@cim:Names.name": [
-        "NO-VAGEN-SFE_PL",
+        "NO-VAAGEN_SFE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

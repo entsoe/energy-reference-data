@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TT00000005860O</dcterms:identifier>
-    <skos:prefLabel>N Svelgen  T5 Transformator</skos:prefLabel>
-    <skos:altLabel>NO-SVELGEN_T5</skos:altLabel>
+    <skos:prefLabel>N Svelgen  T1 Transformator</skos:prefLabel>
+    <skos:altLabel>NO-SVELGENT1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TT00000005860O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>N Svelgen  T5 Transformator</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SVELGEN_T5</cim:Names.name>
+    <cim:IdentifiedObject.name>N Svelgen  T1 Transformator</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-SVELGENT1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

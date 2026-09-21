@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003171D",
-    "@skos:prefLabel": "S 13 Hydro Høyanger-Makkoren",
-    "@skos:altLabel": "NO-HYDROHOYMAKKO",
+    "@skos:prefLabel": "N 13 Hydro Høyanger-Makkoren",
+    "@skos:altLabel": "NO-12HYDRO_KOREN",
     "@cim:IdentifiedObject.mRID": "50TL00000003171D",
-    "@cim:IdentifiedObject.name": "S 13 Hydro Høyanger-Makkoren",
+    "@cim:IdentifiedObject.name": "N 13 Hydro Høyanger-Makkoren",
     "@cim:Names.name": [
-        "NO-HYDROHOYMAKKO",
+        "NO-12HYDRO_KOREN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

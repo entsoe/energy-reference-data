@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001167V" ;
     cim:IdentifiedObject.name "Frøvik" ;
-    cim:Names.name "NO-FROVIK_PL",
+    cim:Names.name "NO-FROEVIK",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001167V" ;
-    skos:altLabel "NO-FROVIK_PL" ;
+    skos:altLabel "NO-FROEVIK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Frøvik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

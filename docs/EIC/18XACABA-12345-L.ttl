@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-02-19" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XACABA-12345-L" ;
     cim:IdentifiedObject.name "ACABADOS BAÑERES S.A." ;
     cim:Names.name "ACABA",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XACABA-12345-L" ;
     schema1:vatID "ESA03040060" ;
     skos:altLabel "ACABA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ACABADOS BAÑERES S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

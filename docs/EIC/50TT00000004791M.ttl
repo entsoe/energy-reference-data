@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004791M" ;
     cim:IdentifiedObject.name "S Follum   T1 Transformator" ;
-    cim:Names.name "NO-FOLLUM__T1",
+    cim:Names.name "NO-FOLLUMT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004791M" ;
-    skos:altLabel "NO-FOLLUM__T1" ;
+    skos:altLabel "NO-FOLLUMT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Follum   T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

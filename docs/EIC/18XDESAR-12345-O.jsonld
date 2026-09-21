@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XDESAR-12345-O",
     "@skos:prefLabel": "UNIVERSAL DE DESARROLLOS ELECTRONICOS, S.A.",
     "@skos:altLabel": "DESAR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDESAR-12345-O",
     "@cim:IdentifiedObject.name": "UNIVERSAL DE DESARROLLOS ELECTRONICOS, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA08768335",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA08768335",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

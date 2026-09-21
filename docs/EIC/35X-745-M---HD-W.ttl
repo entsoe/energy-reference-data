@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-745-M---HD-W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-745-M---HD-W" ;
+    cim:IdentifiedObject.name "MWP DOO" ;
+    cim:Names.name " 03538486",
+        "Balance Responsible Party",
+        "MWP",
+        "Producer",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:35X-745-M---HD-W" ;
+    schema1:vatID " 03538486" ;
+    skos:altLabel "MWP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MWP DOO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

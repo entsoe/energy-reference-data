@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-06-01" ;
+    cim:DateAndOrTime.date "2024-01-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Tieline" ;
     cim:IdentifiedObject.mRID "10T-AT-IT-00001V" ;
-    cim:IdentifiedObject.name "Lienz-Soverzene" ;
-    cim:Names.name "L_LIENZ-SOVERZEN",
+    cim:IdentifiedObject.name "Auronzo-Lienz" ;
+    cim:Names.name "L_LIENZ-AURONZO",
         "Tieline" ;
     dcterms:identifier "urn:eic:10T-AT-IT-00001V" ;
-    skos:altLabel "L_LIENZ-SOVERZEN" ;
+    skos:altLabel "L_LIENZ-AURONZO" ;
     skos:definition "Tieline"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Lienz-Soverzene" ;
+    skos:prefLabel "Auronzo-Lienz" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

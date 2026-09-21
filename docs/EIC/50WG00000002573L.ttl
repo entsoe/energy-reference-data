@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-08-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002573L" ;
-    cim:IdentifiedObject.name "EVANGER G131 HYDRO" ;
+    cim:IdentifiedObject.name "ESPEELVIG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-EVANGER_G131_" ;
+        "NO-ESPEELVIG1" ;
     dcterms:identifier "urn:eic:50WG00000002573L" ;
-    skos:altLabel "NO-EVANGER_G131_" ;
+    skos:altLabel "NO-ESPEELVIG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EVANGER G131 HYDRO" ;
+    skos:prefLabel "ESPEELVIG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

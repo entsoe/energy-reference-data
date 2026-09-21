@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006408A",
-    "@skos:prefLabel": "Kopanina-Katowice",
+    "@skos:prefLabel": "220kV Katowice-Kopanina",
     "@skos:altLabel": "3311",
     "@cim:IdentifiedObject.mRID": "19T000000006408A",
-    "@cim:IdentifiedObject.name": "Kopanina-Katowice",
+    "@cim:IdentifiedObject.name": "220kV Katowice-Kopanina",
     "@cim:Names.name": [
         "3311",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

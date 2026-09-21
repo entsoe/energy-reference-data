@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-04" ;
+    cim:DateAndOrTime.date "2025-10-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "52X000000000001I" ;
-    cim:IdentifiedObject.name "Scholt Energy Control B.V" ;
+    cim:IdentifiedObject.name "Scholt Energy B.V" ;
     cim:Names.name "NL814224581B01",
         "SCHOLT",
         "Trade Responsible Party" ;
@@ -20,6 +20,6 @@
     skos:altLabel "SCHOLT" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Scholt Energy Control B.V" ;
+    skos:prefLabel "Scholt Energy B.V" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

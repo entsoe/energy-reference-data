@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XKARSTADT-W--9",
-    "@skos:prefLabel": "GALERIA Karstadt Kaufhof GmbH",
+    "@skos:prefLabel": "GALERIA S.à r.l. & Co. KG",
     "@skos:altLabel": "KARSTADT_W",
     "@cim:IdentifiedObject.mRID": "11XKARSTADT-W--9",
-    "@cim:IdentifiedObject.name": "GALERIA Karstadt Kaufhof GmbH",
+    "@cim:IdentifiedObject.name": "GALERIA S.à r.l. & Co. KG",
     "@cim:Names.name": [
         "KARSTADT_W",
-        "DE811167998",
+        "DE450492886",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-01-06",
-    "@schema:vatID": "DE811167998",
+    "@cim:DateAndOrTime.date": "2025-11-20",
+    "@schema:vatID": "DE450492886",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

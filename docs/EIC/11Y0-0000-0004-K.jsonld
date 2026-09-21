@@ -16,7 +16,10 @@
     "@skos:altLabel": "VORTEX-TRADE",
     "@cim:IdentifiedObject.mRID": "11Y0-0000-0004-K",
     "@cim:IdentifiedObject.name": "vortex energy - Obrot Sp. z o.o.",
-    "@cim:Names.name": "VORTEX-TRADE",
+    "@cim:Names.name": [
+        "VORTEX-TRADE",
+        "Balance Group"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

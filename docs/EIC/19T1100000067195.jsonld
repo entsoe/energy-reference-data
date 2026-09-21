@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067195",
-    "@skos:prefLabel": "Chełm-Mokre",
+    "@skos:prefLabel": "220kV Chelm-Mokre",
     "@skos:altLabel": "2202",
     "@cim:IdentifiedObject.mRID": "19T1100000067195",
-    "@cim:IdentifiedObject.name": "Chełm-Mokre",
+    "@cim:IdentifiedObject.name": "220kV Chelm-Mokre",
     "@cim:Names.name": [
         "2202",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

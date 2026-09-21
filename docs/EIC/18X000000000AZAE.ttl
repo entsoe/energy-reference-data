@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-08-07" ;
+    cim:DateAndOrTime.date "2024-10-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000AZAE" ;
-    cim:IdentifiedObject.name "MONEGROS SOLAR SA" ;
-    cim:Names.name "ESA99234601",
+    cim:IdentifiedObject.name "MONEGROS SOLAR" ;
+    cim:Names.name "Consumer",
+        "ESA99234601",
         "MONEG",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000AZAE" ;
     schema1:vatID "ESA99234601" ;
     skos:altLabel "MONEG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MONEGROS SOLAR SA" ;
+    skos:prefLabel "MONEGROS SOLAR" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

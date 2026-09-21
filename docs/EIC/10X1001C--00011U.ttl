@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "10X1001C--00011U" ;
     cim:IdentifiedObject.name "European platform for imbalance netting" ;
     cim:Names.name "INPLATFORM",
+        "N/A",
         "Platform Operator" ;
     dcterms:identifier "urn:eic:10X1001C--00011U" ;
+    schema1:vatID "N/A" ;
     skos:altLabel "INPLATFORM" ;
     skos:definition "n/a – IN platform will not issue or receive any invoices. Implementation of EB GL articles 22 & 22.1."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

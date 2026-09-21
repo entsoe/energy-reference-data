@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18X000000000D7AC</dcterms:identifier>
-    <skos:prefLabel>Enerkore S. Coop. Peque&#241;a</skos:prefLabel>
+    <skos:prefLabel>ENERKORE SL</skos:prefLabel>
     <skos:altLabel>EKORE</skos:altLabel>
     <cim:IdentifiedObject.mRID>18X000000000D7AC</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Enerkore S. Coop. Peque&#241;a</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENERKORE SL</cim:IdentifiedObject.name>
     <cim:Names.name>EKORE</cim:Names.name>
-    <cim:Names.name>ESF95936282</cim:Names.name>
+    <cim:Names.name>ESB95936282</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-12-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-08-12</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>ESF95936282</schema:vatID>
+    <schema:vatID>ESB95936282</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001884N",
-    "@skos:prefLabel": "S 66 Kaggefoss-Solberg",
-    "@skos:altLabel": "NO-KAGGEFOSSSOLB",
+    "@skos:prefLabel": "S 50 Kaggefoss-Solberg",
+    "@skos:altLabel": "NO-50KAGGEFOSSSO",
     "@cim:IdentifiedObject.mRID": "50TL00000001884N",
-    "@cim:IdentifiedObject.name": "S 66 Kaggefoss-Solberg",
+    "@cim:IdentifiedObject.name": "S 50 Kaggefoss-Solberg",
     "@cim:Names.name": [
-        "NO-KAGGEFOSSSOLB",
+        "NO-50KAGGEFOSSSO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

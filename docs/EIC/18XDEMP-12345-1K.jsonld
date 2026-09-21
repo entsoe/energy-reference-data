@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XDEMP-12345-1K",
-    "@skos:prefLabel": "Desarrollos Eólicos Manchegos el Pinar, S.L.U.",
+    "@skos:prefLabel": "DESARROLLOS EÓLICOS MANCHEGOS EL PINAR, S.L.U.",
     "@skos:altLabel": "DEMP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDEMP-12345-1K",
-    "@cim:IdentifiedObject.name": "Desarrollos Eólicos Manchegos el Pinar, S.L.U.",
+    "@cim:IdentifiedObject.name": "DESARROLLOS EÓLICOS MANCHEGOS EL PINAR, S.L.U.",
     "@cim:Names.name": [
         "DEMP",
         "ESB02310183",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-03-22",
     "@schema:vatID": "ESB02310183",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

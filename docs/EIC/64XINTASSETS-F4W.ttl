@@ -14,8 +14,10 @@
     cim:IdentifiedObject.name "S.R.L. \"Intra Assets\"" ;
     cim:Names.name "Balance Responsible Party",
         "INTASSETS_F",
+        "N/A",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:64XINTASSETS-F4W" ;
+    schema1:vatID "N/A" ;
     skos:altLabel "INTASSETS_F" ;
     skos:definition "S.R.L. ''Intra Assets'' has no EU VAT code. Registration number (IDNO) - 1011600028241 Licence - AC nr. 001495; issued by ANRE on 03/12/2020."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

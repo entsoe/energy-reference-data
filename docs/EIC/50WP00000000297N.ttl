@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000297N" ;
-    cim:IdentifiedObject.name "Hunsfos" ;
-    cim:Names.name "NO-HUNSFOS",
+    cim:IdentifiedObject.name "Hunsfoss Vest" ;
+    cim:Names.name "NO-HUNSF_VE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000297N" ;
-    skos:altLabel "NO-HUNSFOS" ;
+    skos:altLabel "NO-HUNSF_VE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hunsfos" ;
+    skos:prefLabel "Hunsfoss Vest" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

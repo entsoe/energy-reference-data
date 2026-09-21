@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000277Z" ;
-    cim:IdentifiedObject.name "DOKKA_TRG101 HYDRO" ;
+    cim:IdentifiedObject.name "TORPA   G101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-DOKKA_TRG101_" ;
+        "NO-TORPAG101" ;
     dcterms:identifier "urn:eic:50WG00000000277Z" ;
-    skos:altLabel "NO-DOKKA_TRG101_" ;
+    skos:altLabel "NO-TORPAG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DOKKA_TRG101 HYDRO" ;
+    skos:prefLabel "TORPA   G101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

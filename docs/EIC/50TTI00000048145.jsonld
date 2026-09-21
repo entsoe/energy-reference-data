@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TTI00000048145",
     "@skos:prefLabel": "S Fosse    T1 Transformator",
-    "@skos:altLabel": "NO-FOSSE___T1",
+    "@skos:altLabel": "NO-FOSSET1",
     "@cim:IdentifiedObject.mRID": "50TTI00000048145",
     "@cim:IdentifiedObject.name": "S Fosse    T1 Transformator",
     "@cim:Names.name": [
-        "NO-FOSSE___T1",
+        "NO-FOSSET1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

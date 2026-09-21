@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000515M",
-    "@skos:prefLabel": "M 132 Mosjøen-Alverk2 Kabel S XI",
-    "@skos:altLabel": "NO-MOSJOENAL2SXI",
+    "@skos:prefLabel": "N 132 Mosjøen-Alverk2 Kabel S XI",
+    "@skos:altLabel": "NO-132MOSJO2_SXI",
     "@cim:IdentifiedObject.mRID": "50TL00000000515M",
-    "@cim:IdentifiedObject.name": "M 132 Mosjøen-Alverk2 Kabel S XI",
+    "@cim:IdentifiedObject.name": "N 132 Mosjøen-Alverk2 Kabel S XI",
     "@cim:Names.name": [
-        "NO-MOSJOENAL2SXI",
+        "NO-132MOSJO2_SXI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

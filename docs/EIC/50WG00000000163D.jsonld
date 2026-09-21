@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000163D",
-    "@skos:prefLabel": "BLAFALLIG142 HYDRO",
-    "@skos:altLabel": "NO-BLAFALLIG142_",
+    "@skos:prefLabel": "HATTEBERG2      HYDRO",
+    "@skos:altLabel": "NO-HATTEBERG2",
     "@cim:IdentifiedObject.mRID": "50WG00000000163D",
-    "@cim:IdentifiedObject.name": "BLAFALLIG142 HYDRO",
+    "@cim:IdentifiedObject.name": "HATTEBERG2      HYDRO",
     "@cim:Names.name": [
-        "NO-BLAFALLIG142_",
+        "NO-HATTEBERG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

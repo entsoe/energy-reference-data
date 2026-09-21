@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000025065",
     "@skos:prefLabel": "GRYTENDAG1      HYDRO",
-    "@skos:altLabel": "NO-GRYTENDAG1___",
+    "@skos:altLabel": "NO-GRYTENDAG1",
     "@cim:IdentifiedObject.mRID": "50WGI00000025065",
     "@cim:IdentifiedObject.name": "GRYTENDAG1      HYDRO",
     "@cim:Names.name": [
-        "NO-GRYTENDAG1___",
+        "NO-GRYTENDAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

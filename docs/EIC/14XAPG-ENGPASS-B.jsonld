@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "APG-ENGPASS",
         "ATU46061602",
-        "Balance Group"
+        "Grid Operator",
+        "System Operator"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-09-04",
+    "@cim:DateAndOrTime.date": "2024-11-14",
     "@schema:vatID": "ATU46061602",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

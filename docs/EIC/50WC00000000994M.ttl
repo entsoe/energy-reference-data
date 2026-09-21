@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000994M" ;
     cim:IdentifiedObject.name "S Haraldru 47  2-91 Forbruk" ;
     cim:Names.name "Load",
-        "NO-HARALDR472-91" ;
+        "NO-HARALDRUD472" ;
     dcterms:identifier "urn:eic:50WC00000000994M" ;
-    skos:altLabel "NO-HARALDR472-91" ;
+    skos:altLabel "NO-HARALDRUD472" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Haraldru 47  2-91 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

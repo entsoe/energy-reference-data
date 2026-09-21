@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "59XGASPLUSITA00Z" ;
     cim:IdentifiedObject.name "GAS PLUS ITALIANA S.r.l." ;
     cim:Names.name "GASPLUSITA",
-        "IT04086420967",
-        "Producer" ;
+        "Producer",
+        "it04086420967" ;
     dcterms:identifier "urn:eic:59XGASPLUSITA00Z" ;
-    schema1:vatID "IT04086420967" ;
+    schema1:vatID "it04086420967" ;
     skos:altLabel "GASPLUSITA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GAS PLUS ITALIANA S.r.l." ;

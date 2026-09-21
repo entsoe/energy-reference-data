@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001799E",
-    "@skos:prefLabel": "S 66 Grov-Øyravatn",
-    "@skos:altLabel": "NO-GROVOYRAVATN",
+    "@skos:prefLabel": "N 66 Grov-Øyravatn",
+    "@skos:altLabel": "NO-66GROVOYRAVAT",
     "@cim:IdentifiedObject.mRID": "50TL00000001799E",
-    "@cim:IdentifiedObject.name": "S 66 Grov-Øyravatn",
+    "@cim:IdentifiedObject.name": "N 66 Grov-Øyravatn",
     "@cim:Names.name": [
-        "NO-GROVOYRAVATN",
+        "NO-66GROVOYRAVAT",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

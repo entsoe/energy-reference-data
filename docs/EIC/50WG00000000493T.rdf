@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000000493T</dcterms:identifier>
-    <skos:prefLabel>FYGLE   G102 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-FYGLE___G102_</skos:altLabel>
+    <skos:prefLabel>SOLBJORNG102 HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-SOLBJORNG102</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000000493T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>FYGLE   G102 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-FYGLE___G102_</cim:Names.name>
+    <cim:IdentifiedObject.name>SOLBJORNG102 HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-SOLBJORNG102</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-24</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-KW-KOR--M2-4" ;
     cim:IdentifiedObject.name "KW Korneuburg M2" ;
-    cim:Names.name "KOR-M4" ;
+    cim:Names.name "Generation Unit",
+        "KOR-M4" ;
     dcterms:identifier "urn:eic:14W-KW-KOR--M2-4" ;
     skos:altLabel "KOR-M4" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

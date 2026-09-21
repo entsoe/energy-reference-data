@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XEWE-LIL-EXT-Y" ;
     cim:IdentifiedObject.name "EWE Vertrieb GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE207614424",
-        "EWE-AG-LIL-EXT" ;
+    cim:Names.name "DE207614424",
+        "EWE-AG-LIL-EXT",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEWE-LIL-EXT-Y" ;
     schema1:vatID "DE207614424" ;
     skos:altLabel "EWE-AG-LIL-EXT" ;

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Identification Of The Peg Nord B Subterminal In France" ;
     cim:IdentifiedObject.mRID "21Y000000000001U" ;
     cim:IdentifiedObject.name "Point Exchange Gas - NORD B" ;
-    cim:Names.name "PEGNORDB",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Bidding Zone",
+        "PEGNORDB" ;
     dcterms:identifier "urn:eic:21Y000000000001U" ;
     skos:altLabel "PEGNORDB" ;
     skos:definition "Identification Of The Peg Nord B Subterminal In France"@en ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000167J",
-    "@skos:prefLabel": "M 132 Bø-Kjelbotn",
-    "@skos:altLabel": "NO-BOKJELBOTN",
+    "@skos:prefLabel": "N 132 Bø-Kjelbotn",
+    "@skos:altLabel": "NO-132BOKJELBOTN",
     "@cim:IdentifiedObject.mRID": "50TL00000000167J",
-    "@cim:IdentifiedObject.name": "M 132 Bø-Kjelbotn",
+    "@cim:IdentifiedObject.name": "N 132 Bø-Kjelbotn",
     "@cim:Names.name": [
-        "NO-BOKJELBOTN",
+        "NO-132BOKJELBOTN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

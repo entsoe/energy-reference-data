@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XWISAGENERGIEG</dcterms:identifier>
     <skos:prefLabel>WISAG Energieversorgungs GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>WISAG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XWISAGENERGIEG</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>WISAG Energieversorgungs GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>WISAG</cim:Names.name>
     <cim:Names.name>DE284634010</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-17</cim:DateAndOrTime.date>
-    <cim:Names.name>balance group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE284634010</schema:vatID>
   </skos:Concept>

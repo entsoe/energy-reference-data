@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-HAIMHA-DBA-8" ;
     cim:IdentifiedObject.name "E-Werke Haniel Haimhausen OHG" ;
-    cim:Names.name "Balance Group",
-        "DE203048277",
-        "HAIMHAUSEN-DBA" ;
+    cim:Names.name "DE203048277",
+        "HAIMHAUSEN-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-HAIMHA-DBA-8" ;
     schema1:vatID "DE203048277" ;
     skos:altLabel "HAIMHAUSEN-DBA" ;

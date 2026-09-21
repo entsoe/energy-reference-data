@@ -4,18 +4,21 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000BMGRY</dcterms:identifier>
-    <skos:prefLabel>BM Group sp. z o.o. Sp. k.</skos:prefLabel>
-    <skos:altLabel>BM_GROUP</skos:altLabel>
+    <skos:prefLabel>INEON Olszowiak Sp. k.</skos:prefLabel>
+    <skos:altLabel>INEON</skos:altLabel>
     <skos:definition xml:lang="en">Network User</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000BMGRY</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>BM Group sp. z o.o. Sp. k.</cim:IdentifiedObject.name>
-    <cim:Names.name>BM_GROUP</cim:Names.name>
+    <cim:IdentifiedObject.name>INEON Olszowiak Sp. k.</cim:IdentifiedObject.name>
+    <cim:Names.name>INEON</cim:Names.name>
+    <cim:Names.name>A00136767.PL</cim:Names.name>
     <cim:Names.name>PL6222782756</cim:Names.name>
     <cim:IdentifiedObject.description>Network User</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6222782756</schema:vatID>
   </skos:Concept>

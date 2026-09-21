@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000031860" ;
-    cim:IdentifiedObject.name "S 420 Kvilldal Pol12 X" ;
+    cim:IdentifiedObject.name "S Kvilldal 420 En1 X" ;
     cim:Names.name "Internal Line",
-        "NO-KVILLDAL420PO" ;
+        "NO-KVILLDAL420EN" ;
     dcterms:identifier "urn:eic:50TL000000031860" ;
-    skos:altLabel "NO-KVILLDAL420PO" ;
+    skos:altLabel "NO-KVILLDAL420EN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 420 Kvilldal Pol12 X" ;
+    skos:prefLabel "S Kvilldal 420 En1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

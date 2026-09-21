@@ -16,20 +16,20 @@
     "@skos:altLabel": "MFGKSK",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Network User"
+        "@value": "VAT code SK2120175706 duplicated - hence deactivated"
     },
     "@cim:IdentifiedObject.mRID": "42X--MFGK--SK--E",
     "@cim:IdentifiedObject.name": "MFGK Slovakia s.r.o.",
     "@cim:Names.name": [
         "MFGKSK",
-        "SK2120175706",
-        "Network User"
+        "2120175706",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Network User",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "VAT code SK2120175706 duplicated - hence deactivated",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-28",
-    "@schema:vatID": "SK2120175706",
+    "@cim:DateAndOrTime.date": "2024-10-21",
+    "@schema:vatID": "2120175706",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

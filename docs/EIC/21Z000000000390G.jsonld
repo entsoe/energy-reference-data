@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000390G",
     "@skos:prefLabel": "SEDIANE B/NORD_B (FR)",
     "@skos:altLabel": "SEDIANE_B",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000390G",
     "@cim:IdentifiedObject.name": "SEDIANE B/NORD_B (FR)",
     "@cim:Names.name": [
         "SEDIANE_B",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

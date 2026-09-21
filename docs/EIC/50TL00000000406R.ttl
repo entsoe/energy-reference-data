@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000406R" ;
     cim:IdentifiedObject.name "N 132 Kilbotn-T_Gråheia" ;
     cim:Names.name "Internal Line",
-        "NO-KILBOTNTGRAHE" ;
+        "NO-132KILBOTNT_G" ;
     dcterms:identifier "urn:eic:50TL00000000406R" ;
-    skos:altLabel "NO-KILBOTNTGRAHE" ;
+    skos:altLabel "NO-132KILBOTNT_G" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Kilbotn-T_Gråheia" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

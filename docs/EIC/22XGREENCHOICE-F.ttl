@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-06-23" ;
+    cim:DateAndOrTime.date "2024-08-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Supplier" ;
     cim:IdentifiedObject.mRID "22XGREENCHOICE-F" ;
-    cim:IdentifiedObject.name "GROENE ENERGIE ADMINISTRATIE" ;
+    cim:IdentifiedObject.name "Greenchoice B.V. " ;
     cim:Names.name "BE_GEA",
+        "Balance Responsible Party",
         "Energy Supplier",
         "NL811517512B01" ;
     dcterms:identifier "urn:eic:22XGREENCHOICE-F" ;
     schema1:vatID "NL811517512B01" ;
     skos:altLabel "BE_GEA" ;
-    skos:definition "Balance Supplier"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROENE ENERGIE ADMINISTRATIE" ;
+    skos:prefLabel "Greenchoice B.V. " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

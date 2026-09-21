@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-09-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021881" ;
-    cim:IdentifiedObject.name "N 66 Svanelvmo-Lysbotn" ;
+    cim:IdentifiedObject.name "N 22 Svanelvmo-Lysbotn" ;
     cim:Names.name "Internal Line",
-        "NO-SVANELVMOLYSB" ;
+        "NO-22SVANELVMOLY" ;
     dcterms:identifier "urn:eic:50TL000000021881" ;
-    skos:altLabel "NO-SVANELVMOLYSB" ;
+    skos:altLabel "NO-22SVANELVMOLY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Svanelvmo-Lysbotn" ;
+    skos:prefLabel "N 22 Svanelvmo-Lysbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

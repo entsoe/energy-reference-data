@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000001886J" ;
-    cim:IdentifiedObject.name "N 66 Kanstadbotn-Niingen" ;
+    cim:IdentifiedObject.name "N 66 Tjeldsund-Kanstadbotn" ;
     cim:Names.name "Internal Line",
-        "NO-KANSTADBOTNNI" ;
+        "NO-66TJELDSUNDKA" ;
     dcterms:identifier "urn:eic:50TL00000001886J" ;
-    skos:altLabel "NO-KANSTADBOTNNI" ;
+    skos:altLabel "NO-66TJELDSUNDKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Kanstadbotn-Niingen" ;
+    skos:prefLabel "N 66 Tjeldsund-Kanstadbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

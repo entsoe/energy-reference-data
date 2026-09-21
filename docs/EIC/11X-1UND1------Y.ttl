@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-11" ;
+    cim:DateAndOrTime.date "2025-11-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11X-1UND1------Y" ;
-    cim:IdentifiedObject.name "1&1 Energy GmbH" ;
+    cim:IdentifiedObject.name "NEO Energy DE GmbH" ;
     cim:Names.name "1UND1",
         "Balance Responsible Party",
-        "DE304439118" ;
+        "DE455964968" ;
     dcterms:identifier "urn:eic:11X-1UND1------Y" ;
-    schema1:vatID "DE304439118" ;
+    schema1:vatID "DE455964968" ;
     skos:altLabel "1UND1" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "1&1 Energy GmbH" ;
+    skos:prefLabel "NEO Energy DE GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

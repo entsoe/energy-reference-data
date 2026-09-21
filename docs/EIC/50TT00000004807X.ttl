@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004807X" ;
     cim:IdentifiedObject.name "S Fortun   T6 Transformator" ;
-    cim:Names.name "NO-FORTUN__T6",
+    cim:Names.name "NO-FORTUNT6",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004807X" ;
-    skos:altLabel "NO-FORTUN__T6" ;
+    skos:altLabel "NO-FORTUNT6" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Fortun   T6 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

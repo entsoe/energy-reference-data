@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XEVR-NETZ----K</dcterms:identifier>
     <skos:prefLabel>Energieversorgung R&#252;sselsheim GmbH</skos:prefLabel>
     <skos:altLabel>EVR_NETZ</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEVR-NETZ----K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Energieversorgung R&#252;sselsheim GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EVR_NETZ</cim:Names.name>
-    <cim:Names.name>DE220280597</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE220280572</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-04-09</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE220280597</schema:vatID>
+    <schema:vatID>DE220280572</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

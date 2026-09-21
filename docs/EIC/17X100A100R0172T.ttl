@@ -7,9 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-12" ;
+    cim:DateAndOrTime.date "2025-06-11" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party, Trade Responsible Party" ;
+    cim:IdentifiedObject.description """Balance Responsible Party, Trade Responsible Party
+Update Status""" ;
     cim:IdentifiedObject.mRID "17X100A100R0172T" ;
     cim:IdentifiedObject.name "Total Direct Energie SA" ;
     cim:Names.name "Balance Responsible Party",
@@ -19,7 +20,8 @@
     dcterms:identifier "urn:eic:17X100A100R0172T" ;
     schema1:vatID "FR55442395448" ;
     skos:altLabel "FR_TOTAL_DE" ;
-    skos:definition "Balance Responsible Party, Trade Responsible Party"@en ;
+    skos:definition """Balance Responsible Party, Trade Responsible Party
+Update Status"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Total Direct Energie SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

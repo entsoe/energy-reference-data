@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-06-16" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-0000001913-Z" ;
     cim:IdentifiedObject.name "Sol Value Sagl" ;
-    cim:Names.name "Balance Group",
-        "CHE434908313",
+    cim:Names.name "CHE434908313",
+        "Capacity Trader",
         "SOL-VALUE-SA-ST" ;
     dcterms:identifier "urn:eic:12X-0000001913-Z" ;
     schema1:vatID "CHE434908313" ;

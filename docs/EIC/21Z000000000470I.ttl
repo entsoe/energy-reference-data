@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Interconnection Point" ;
     cim:IdentifiedObject.mRID "21Z000000000470I" ;
     cim:IdentifiedObject.name "Isaccea 2_3 UA-RO border" ;
     cim:Names.name "VPM06",
-        "Valid EIC Function needed" ;
+        "Virtual Interconnection Points" ;
     dcterms:identifier "urn:eic:21Z000000000470I" ;
     skos:altLabel "VPM06" ;
-    skos:definition "Virtual Interconnection Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Isaccea 2_3 UA-RO border" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22T2024032810--O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22T2024032810--O" ;
+    cim:IdentifiedObject.name "DI 150 37 LANGERODEN LI" ;
+    cim:Names.name "BE37_LANGE_RODEN",
+        "Internal Line" ;
+    dcterms:identifier "urn:eic:22T2024032810--O" ;
+    skos:altLabel "BE37_LANGE_RODEN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DI 150 37 LANGERODEN LI" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

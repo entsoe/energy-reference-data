@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001951Y" ;
-    cim:IdentifiedObject.name "M 66 Liabø-Bele" ;
+    cim:IdentifiedObject.name "N 66 Liabø-Bele" ;
     cim:Names.name "Internal Line",
-        "NO-LIABOBELE" ;
+        "NO-66LIABOBELE" ;
     dcterms:identifier "urn:eic:50TL00000001951Y" ;
-    skos:altLabel "NO-LIABOBELE" ;
+    skos:altLabel "NO-66LIABOBELE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Liabø-Bele" ;
+    skos:prefLabel "N 66 Liabø-Bele" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

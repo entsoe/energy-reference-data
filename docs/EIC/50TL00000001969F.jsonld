@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001969F",
-    "@skos:prefLabel": "M 66 Løkaunet-Svean",
-    "@skos:altLabel": "NO-LOKAUNETSVEAN",
+    "@skos:prefLabel": "N 66 Løkaunet-Svean",
+    "@skos:altLabel": "NO-66LOKAUNETSVE",
     "@cim:IdentifiedObject.mRID": "50TL00000001969F",
-    "@cim:IdentifiedObject.name": "M 66 Løkaunet-Svean",
+    "@cim:IdentifiedObject.name": "N 66 Løkaunet-Svean",
     "@cim:Names.name": [
-        "NO-LOKAUNETSVEAN",
+        "NO-66LOKAUNETSVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

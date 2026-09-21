@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XEONHANSE-RES5</dcterms:identifier>
-    <skos:prefLabel>Schleswig-Holstein Netz AG</skos:prefLabel>
+    <skos:prefLabel>Schleswig-Holstein Netz GmbH</skos:prefLabel>
     <skos:altLabel>EONHANSE-RES</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XEONHANSE-RES5</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Schleswig-Holstein Netz AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Schleswig-Holstein Netz GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EONHANSE-RES</cim:Names.name>
-    <cim:Names.name>DE267393355</cim:Names.name>
+    <cim:Names.name>DE366371470</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-07-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-16</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE267393355</schema:vatID>
+    <schema:vatID>DE366371470</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

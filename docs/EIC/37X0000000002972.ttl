@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000002972> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.mRID "37X0000000002972" ;
+    cim:IdentifiedObject.name "Stadtwerke Buchholz i.d.N." ;
+    cim:Names.name "Balance Responsible Party",
+        "DE151919593",
+        "STADTWERKE_BUCHH" ;
+    dcterms:identifier "urn:eic:37X0000000002972" ;
+    schema1:vatID "DE151919593" ;
+    skos:altLabel "STADTWERKE_BUCHH" ;
+    skos:definition "Balance Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Stadtwerke Buchholz i.d.N." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

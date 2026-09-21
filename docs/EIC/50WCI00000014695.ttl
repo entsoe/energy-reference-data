@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WCI00000014695" ;
-    cim:IdentifiedObject.name "M Bø Rauma 22  L1 Forbruk" ;
+    cim:IdentifiedObject.name "N Bø Rauma 22  L1 Forbruk" ;
     cim:Names.name "Load",
         "NO-BO_RAUMA22" ;
     dcterms:identifier "urn:eic:50WCI00000014695" ;
     skos:altLabel "NO-BO_RAUMA22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Bø Rauma 22  L1 Forbruk" ;
+    skos:prefLabel "N Bø Rauma 22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

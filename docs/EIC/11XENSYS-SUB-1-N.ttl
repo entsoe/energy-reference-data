@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENSYS-SUB-1-N" ;
     cim:IdentifiedObject.name "Ensys AG" ;
-    cim:Names.name "Balance Group",
-        "DE202192243",
-        "ENSYS-SUB-1" ;
+    cim:Names.name "DE202192243",
+        "ENSYS-SUB-1",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENSYS-SUB-1-N" ;
     schema1:vatID "DE202192243" ;
     skos:altLabel "ENSYS-SUB-1" ;

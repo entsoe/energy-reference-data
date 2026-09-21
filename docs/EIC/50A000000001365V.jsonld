@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50A000000001365V",
     "@skos:prefLabel": "T_Aukland",
-    "@skos:altLabel": "NO-T_AUKLAN",
+    "@skos:altLabel": "NO-T_AUGLAN",
     "@cim:IdentifiedObject.mRID": "50A000000001365V",
     "@cim:IdentifiedObject.name": "T_Aukland",
     "@cim:Names.name": [
-        "NO-T_AUKLAN",
+        "NO-T_AUGLAN",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-24" ;
+    cim:DateAndOrTime.date "2026-04-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000FENI6" ;
-    cim:IdentifiedObject.name "Edison Next Poland Sp. z o.o." ;
+    cim:IdentifiedObject.name "Dalkia Polska Industry sp. z o.o." ;
     cim:Names.name "A0009644A.PL",
         "Consumer",
+        "DALKIA_POLSKA_IN",
         "Distribution System Operator",
-        "EDISON_NEXT",
         "Energy Supplier",
         "Grid Access Provider",
         "Meter Administrator",
@@ -24,8 +24,8 @@
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000FENI6" ;
     schema1:vatID "PL5471838076" ;
-    skos:altLabel "EDISON_NEXT" ;
+    skos:altLabel "DALKIA_POLSKA_IN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Edison Next Poland Sp. z o.o." ;
+    skos:prefLabel "Dalkia Polska Industry sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-09-06" ;
+    cim:DateAndOrTime.date "2025-09-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "54X-I-GL01-MEC-P" ;
     cim:IdentifiedObject.name "GLOBAL TECHNICAL MECHANICS" ;
-    cim:Names.name "Balance Responsible Party",
-        "GTM_SHK_ENERGY",
+    cim:Names.name "GTM_SHK_ENERGY",
         "L71529026M",
+        "Producer",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:54X-I-GL01-MEC-P" ;
     schema1:vatID "L71529026M" ;

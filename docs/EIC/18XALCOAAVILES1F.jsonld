@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALCOAAVILES1F",
     "@skos:prefLabel": "ALCOA INESPAL AVILES SL",
     "@skos:altLabel": "ALCAV",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALCOAAVILES1F",
     "@cim:IdentifiedObject.name": "ALCOA INESPAL AVILES SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB86848066",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB86848066",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

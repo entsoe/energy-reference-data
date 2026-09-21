@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WCI0000003265B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "50WCI0000003265B" ;
+    cim:IdentifiedObject.name "S Årskog k 125 L1 Industri" ;
+    cim:Names.name "Load",
+        "NO-ARS_KOMP125L1" ;
+    dcterms:identifier "urn:eic:50WCI0000003265B" ;
+    skos:altLabel "NO-ARS_KOMP125L1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Årskog k 125 L1 Industri" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

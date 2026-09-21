@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "19T110000006703K" ;
     cim:IdentifiedObject.name "Miłosna-Mory" ;
-    cim:Names.name "1101" ;
+    cim:Names.name "1101",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006703K" ;
     skos:altLabel "1101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

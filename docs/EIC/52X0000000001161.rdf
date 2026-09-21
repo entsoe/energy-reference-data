@@ -1,0 +1,24 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/52X0000000001161">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:52X0000000001161</dcterms:identifier>
+    <skos:prefLabel>UNIPEC UK CO LIMITED</skos:prefLabel>
+    <skos:altLabel>UNIPECUKCOLIM</skos:altLabel>
+    <skos:definition xml:lang="en">Trade Responsible Party,LNG System Operator (LSO),Capacity Trader</skos:definition>
+    <cim:IdentifiedObject.mRID>52X0000000001161</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>UNIPEC UK CO LIMITED</cim:IdentifiedObject.name>
+    <cim:Names.name>UNIPECUKCOLIM</cim:Names.name>
+    <cim:Names.name>NL827733045B01</cim:Names.name>
+    <cim:IdentifiedObject.description>Trade Responsible Party,LNG System Operator (LSO),Capacity Trader</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-10-24</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>LNG System Operator</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NL827733045B01</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

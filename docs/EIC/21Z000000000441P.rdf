@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000441P</dcterms:identifier>
-    <skos:prefLabel>ALOUMINION II</skos:prefLabel>
-    <skos:altLabel>ALOUMINION-II-GR</skos:altLabel>
+    <skos:prefLabel>ALOYMINION II</skos:prefLabel>
+    <skos:altLabel>ALOYMINION-II-GR</skos:altLabel>
     <cim:IdentifiedObject.mRID>21Z000000000441P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ALOUMINION II</cim:IdentifiedObject.name>
-    <cim:Names.name>ALOUMINION-II-GR</cim:Names.name>
+    <cim:IdentifiedObject.name>ALOYMINION II</cim:IdentifiedObject.name>
+    <cim:Names.name>ALOYMINION-II-GR</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-02</cim:DateAndOrTime.date>
-    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

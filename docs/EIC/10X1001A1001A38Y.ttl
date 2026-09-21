@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-02-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator" ;
     cim:IdentifiedObject.mRID "10X1001A1001A38Y" ;
     cim:IdentifiedObject.name "STATNETT SF" ;
-    cim:Names.name "7080000923168",
+    cim:Names.name "NO962986633",
         "STATNETT_SF",
         "System Operator" ;
     dcterms:identifier "urn:eic:10X1001A1001A38Y" ;
-    schema1:vatID "7080000923168" ;
+    schema1:vatID "NO962986633" ;
     skos:altLabel "STATNETT_SF" ;
     skos:definition "Transmission System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

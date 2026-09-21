@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000046341" ;
-    cim:IdentifiedObject.name "M Brattset RT3 Transformator" ;
+    cim:IdentifiedObject.name "N Brattset RT3 Transformator" ;
     cim:Names.name "NO-BRATTSETRT3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000046341" ;
     skos:altLabel "NO-BRATTSETRT3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Brattset RT3 Transformator" ;
+    skos:prefLabel "N Brattset RT3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

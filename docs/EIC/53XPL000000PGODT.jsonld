@@ -12,12 +12,13 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000PGODT",
-    "@skos:prefLabel": "PGNiG Obrót Detaliczny Spółka z ograniczoną odpowiedzialnością",
-    "@skos:altLabel": "PGNIG-OD",
+    "@skos:prefLabel": "myORLEN spółka z ograniczoną odpowiedzialnością",
+    "@skos:altLabel": "MYORLEN",
     "@cim:IdentifiedObject.mRID": "53XPL000000PGODT",
-    "@cim:IdentifiedObject.name": "PGNiG Obrót Detaliczny Spółka z ograniczoną odpowiedzialnością",
+    "@cim:IdentifiedObject.name": "myORLEN spółka z ograniczoną odpowiedzialnością",
     "@cim:Names.name": [
-        "PGNIG-OD",
+        "MYORLEN",
+        "A0001891F.PL",
         "PL5272706082",
         "Network User",
         "Party Connected To Grid",
@@ -25,7 +26,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-02-26",
+    "@cim:DateAndOrTime.date": "2026-03-26",
     "@schema:vatID": "PL5272706082",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

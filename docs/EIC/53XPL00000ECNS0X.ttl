@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-12-13" ;
+    cim:DateAndOrTime.date "2026-03-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL00000ECNS0X" ;
-    cim:IdentifiedObject.name "Polenergia Elektrociepłownia Nowa Sarzyna Sp. z o.o." ;
-    cim:Names.name "Consumer",
-        "ENS",
+    cim:IdentifiedObject.name "Axpo Elektrociepłownia Nowa Sarzyna Sp. z o.o." ;
+    cim:Names.name "A0005282M.PL",
+        "Consumer",
+        "EC_NOWA_SARZYNA",
         "PL8161033894" ;
     dcterms:identifier "urn:eic:53XPL00000ECNS0X" ;
     schema1:vatID "PL8161033894" ;
-    skos:altLabel "ENS" ;
+    skos:altLabel "EC_NOWA_SARZYNA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Polenergia Elektrociepłownia Nowa Sarzyna Sp. z o.o." ;
+    skos:prefLabel "Axpo Elektrociepłownia Nowa Sarzyna Sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

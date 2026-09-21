@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000641H",
-    "@skos:prefLabel": "S 132 Skei-Sunde",
-    "@skos:altLabel": "NO-SKEISUNDE",
+    "@skos:prefLabel": "N 132 Skei-Sunde",
+    "@skos:altLabel": "NO-132SKEISUNDE",
     "@cim:IdentifiedObject.mRID": "50TL00000000641H",
-    "@cim:IdentifiedObject.name": "S 132 Skei-Sunde",
+    "@cim:IdentifiedObject.name": "N 132 Skei-Sunde",
     "@cim:Names.name": [
-        "NO-SKEISUNDE",
+        "NO-132SKEISUNDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

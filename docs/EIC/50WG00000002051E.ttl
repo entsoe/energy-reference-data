@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002051E" ;
     cim:IdentifiedObject.name "VERDAL  G112 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-VERDAL__G112_" ;
+        "NO-VERDALG112" ;
     dcterms:identifier "urn:eic:50WG00000002051E" ;
-    skos:altLabel "NO-VERDAL__G112_" ;
+    skos:altLabel "NO-VERDALG112" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VERDAL  G112 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

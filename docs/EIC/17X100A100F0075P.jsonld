@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17X100A100F0075P",
-    "@skos:prefLabel": "TOTAL RAFFINAGE FRANCE",
+    "@skos:prefLabel": "TotalEnergies Raffinage France",
     "@skos:altLabel": "FR_TRF",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Consumer, Producer"
+        "@value": "Consumer, Producer - Name change - TVA OK VIES"
     },
     "@cim:IdentifiedObject.mRID": "17X100A100F0075P",
-    "@cim:IdentifiedObject.name": "TOTAL RAFFINAGE FRANCE",
+    "@cim:IdentifiedObject.name": "TotalEnergies Raffinage France",
     "@cim:Names.name": [
         "FR_TRF",
         "FR08529221749",
         "Consumer",
         "Producer"
     ],
-    "@cim:IdentifiedObject.description": "Consumer, Producer",
+    "@cim:IdentifiedObject.description": "Consumer, Producer - Name change - TVA OK VIES",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-15",
+    "@cim:DateAndOrTime.date": "2026-01-19",
     "@schema:vatID": "FR08529221749",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -22,6 +22,7 @@
     "@cim:IdentifiedObject.name": "S.R.L. \"Navitas Energy\"",
     "@cim:Names.name": [
         "NAVITASEN_F",
+        "N/A",
         "Balance Responsible Party",
         "Trade Responsible Party"
     ],
@@ -29,6 +30,7 @@
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-02-09",
+    "@schema:vatID": "N/A",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

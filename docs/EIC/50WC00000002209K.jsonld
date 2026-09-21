@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000002209K",
     "@skos:prefLabel": "S N01-HVS1 110 T11 Forbruk",
-    "@skos:altLabel": "NO-N01-HV1110T11",
+    "@skos:altLabel": "NO-N01_HVS11110T",
     "@cim:IdentifiedObject.mRID": "50WC00000002209K",
     "@cim:IdentifiedObject.name": "S N01-HVS1 110 T11 Forbruk",
     "@cim:Names.name": [
-        "NO-N01-HV1110T11",
+        "NO-N01_HVS11110T",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>11XMORAVIAENERG6</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MORAVIA ENERGO, a.s.</cim:IdentifiedObject.name>
     <cim:Names.name>MORAVIA_ENERGO</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-06-05</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

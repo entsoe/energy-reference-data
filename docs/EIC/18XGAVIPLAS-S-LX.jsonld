@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGAVIPLAS-S-LX",
     "@skos:prefLabel": "GAVIPLAS, S.L.",
     "@skos:altLabel": "GAVIP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGAVIPLAS-S-LX",
     "@cim:IdentifiedObject.name": "GAVIPLAS, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB46162400",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB46162400",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

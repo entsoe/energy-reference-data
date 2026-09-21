@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003074B",
-    "@skos:prefLabel": "N 132 Kleppstad-T_Fygle",
-    "@skos:altLabel": "NO-KLEPPSTADTFYG",
+    "@skos:prefLabel": "N 132 Kleppstad-BP_Fygle(om/Gimsøy)",
+    "@skos:altLabel": "NO-132KLEPPYGLE2",
     "@cim:IdentifiedObject.mRID": "50TL00000003074B",
-    "@cim:IdentifiedObject.name": "N 132 Kleppstad-T_Fygle",
+    "@cim:IdentifiedObject.name": "N 132 Kleppstad-BP_Fygle(om/Gimsøy)",
     "@cim:Names.name": [
-        "NO-KLEPPSTADTFYG",
+        "NO-132KLEPPYGLE2",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

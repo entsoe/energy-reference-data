@@ -16,7 +16,10 @@
     "@skos:altLabel": "HYLAUEI",
     "@cim:IdentifiedObject.mRID": "18WHYLAUEI-123-6",
     "@cim:IdentifiedObject.name": "LA UNIÓN ELECTRO INDUSTRIAL, S.L.U.",
-    "@cim:Names.name": "HYLAUEI",
+    "@cim:Names.name": [
+        "HYLAUEI",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-07-22",

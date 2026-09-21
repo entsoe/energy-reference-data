@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Energiehandel Und Lieferung An Kunden" ;
     cim:IdentifiedObject.mRID "11XREMUGREEN---I" ;
     cim:IdentifiedObject.name "Remu Energy Trade" ;
-    cim:Names.name "DE218677956",
-        "REMUGREEN",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE218677956",
+        "REMUGREEN" ;
     dcterms:identifier "urn:eic:11XREMUGREEN---I" ;
     schema1:vatID "DE218677956" ;
     skos:altLabel "REMUGREEN" ;

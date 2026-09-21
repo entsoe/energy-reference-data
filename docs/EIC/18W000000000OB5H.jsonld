@@ -16,7 +16,10 @@
     "@skos:altLabel": "1087VP3",
     "@cim:IdentifiedObject.mRID": "18W000000000OB5H",
     "@cim:IdentifiedObject.name": "UP Venta Inter",
-    "@cim:Names.name": "1087VP3",
+    "@cim:Names.name": [
+        "1087VP3",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-11-27",

@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:46TAC0000000149K",
-    "@skos:prefLabel": "Moliden-Hjälta-Stackbo",
-    "@skos:altLabel": "MOLIDEN--STACKB",
+    "@skos:prefLabel": "Moliden-Hjälta-Grönviken",
+    "@skos:altLabel": "MOLIDEN--GRONVIK",
     "@skos:definition": {
         "@language": "en",
         "@value": "Internal Line"
     },
     "@cim:IdentifiedObject.mRID": "46TAC0000000149K",
-    "@cim:IdentifiedObject.name": "Moliden-Hjälta-Stackbo",
+    "@cim:IdentifiedObject.name": "Moliden-Hjälta-Grönviken",
     "@cim:Names.name": [
-        "MOLIDEN--STACKB",
+        "MOLIDEN--GRONVIK",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "Internal Line",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-01",
+    "@cim:DateAndOrTime.date": "2025-09-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

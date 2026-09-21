@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000065583" ;
-    cim:IdentifiedObject.name "Lubocza-A4" ;
+    cim:IdentifiedObject.name "220/110kV Lubocza AT4" ;
     cim:Names.name "LUA-A4",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T1100000065583" ;
     skos:altLabel "LUA-A4" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Lubocza-A4" ;
+    skos:prefLabel "220/110kV Lubocza AT4" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-01" ;
+    cim:DateAndOrTime.date "2025-09-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Internal Line" ;
     cim:IdentifiedObject.mRID "46TAC0000000149K" ;
-    cim:IdentifiedObject.name "Moliden-Hjälta-Stackbo" ;
+    cim:IdentifiedObject.name "Moliden-Hjälta-Grönviken" ;
     cim:Names.name "Internal Line",
-        "MOLIDEN--STACKB" ;
+        "MOLIDEN--GRONVIK" ;
     dcterms:identifier "urn:eic:46TAC0000000149K" ;
-    skos:altLabel "MOLIDEN--STACKB" ;
+    skos:altLabel "MOLIDEN--GRONVIK" ;
     skos:definition "Internal Line"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Moliden-Hjälta-Stackbo" ;
+    skos:prefLabel "Moliden-Hjälta-Grönviken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

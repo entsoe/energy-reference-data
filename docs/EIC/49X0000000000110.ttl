@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-07-19" ;
+    cim:DateAndOrTime.date "2025-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Party Connected To Grid" ;
     cim:IdentifiedObject.mRID "49X0000000000110" ;
-    cim:IdentifiedObject.name "Scholt Energy Trading B.V." ;
+    cim:IdentifiedObject.name "Scholt Energy Sourcing B.V." ;
     cim:Names.name "NL822579200B01",
         "Party Connected To Grid",
         "SCHOLT_BV" ;
@@ -20,6 +20,6 @@
     skos:altLabel "SCHOLT_BV" ;
     skos:definition "Party Connected To Grid"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Scholt Energy Trading B.V." ;
+    skos:prefLabel "Scholt Energy Sourcing B.V." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

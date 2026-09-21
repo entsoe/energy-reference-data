@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002933V" ;
-    cim:IdentifiedObject.name "M 66 T_Øyan-Åfjord" ;
+    cim:IdentifiedObject.name "N 66 T_Øyan-Åfjord" ;
     cim:Names.name "Internal Line",
-        "NO-TOYANAFJORD" ;
+        "NO-66T_OYAN_AFJO" ;
     dcterms:identifier "urn:eic:50TL00000002933V" ;
-    skos:altLabel "NO-TOYANAFJORD" ;
+    skos:altLabel "NO-66T_OYAN_AFJO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 T_Øyan-Åfjord" ;
+    skos:prefLabel "N 66 T_Øyan-Åfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

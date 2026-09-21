@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-07-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001400K" ;
-    cim:IdentifiedObject.name "ROYKAS  G102 HYDRO" ;
+    cim:IdentifiedObject.name "JORDA   G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ROYKAS__G102_" ;
+        "NO-JORDAG1" ;
     dcterms:identifier "urn:eic:50WG00000001400K" ;
-    skos:altLabel "NO-ROYKAS__G102_" ;
+    skos:altLabel "NO-JORDAG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ROYKAS  G102 HYDRO" ;
+    skos:prefLabel "JORDA   G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

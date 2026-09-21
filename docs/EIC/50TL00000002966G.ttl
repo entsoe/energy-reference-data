@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002966G" ;
-    cim:IdentifiedObject.name "M 132 Haugen-Ørsta" ;
+    cim:IdentifiedObject.name "N 132 Haugen-Ørsta" ;
     cim:Names.name "Internal Line",
-        "NO-HAUGENORSTA" ;
+        "NO-132HAUGENORST" ;
     dcterms:identifier "urn:eic:50TL00000002966G" ;
-    skos:altLabel "NO-HAUGENORSTA" ;
+    skos:altLabel "NO-132HAUGENORST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Haugen-Ørsta" ;
+    skos:prefLabel "N 132 Haugen-Ørsta" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

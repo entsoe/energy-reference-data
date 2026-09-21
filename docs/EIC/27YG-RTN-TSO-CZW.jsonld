@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "RWE Transgas NET, s.r.o",
     "@cim:Names.name": [
         "G-RTN-TSO-CZ",
-        "Valid EIC Function needed"
+        "Distribution Network Area"
     ],
     "@cim:IdentifiedObject.description": "Gas Transmission",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

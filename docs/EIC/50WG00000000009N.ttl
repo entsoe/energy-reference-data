@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000000009N" ;
     cim:IdentifiedObject.name "ADAMSELVG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ADAMSELVG1___" ;
+        "NO-ADAMSELVG1" ;
     dcterms:identifier "urn:eic:50WG00000000009N" ;
-    skos:altLabel "NO-ADAMSELVG1___" ;
+    skos:altLabel "NO-ADAMSELVG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ADAMSELVG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

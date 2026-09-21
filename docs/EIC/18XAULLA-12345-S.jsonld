@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XAULLA-12345-S",
-    "@skos:prefLabel": "Energías Especiales del Alto Ulla, S.A.",
+    "@skos:prefLabel": "ENERGIAS ESPECIALES DEL ALTO ULLA, S.L.",
     "@skos:altLabel": "AULLA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAULLA-12345-S",
-    "@cim:IdentifiedObject.name": "Energías Especiales del Alto Ulla, S.A.",
+    "@cim:IdentifiedObject.name": "ENERGIAS ESPECIALES DEL ALTO ULLA, S.L.",
     "@cim:Names.name": [
         "AULLA",
         "ESA83195438",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-01-25",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@schema:vatID": "ESA83195438",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

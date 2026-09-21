@@ -12,24 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001008P",
-    "@skos:prefLabel": "GRTgaz Deutschland GmbH",
-    "@skos:altLabel": "GDFGT",
+    "@skos:prefLabel": "NaTran Deutschland GmbH",
+    "@skos:altLabel": "NATRAN_D",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Responsible Party"
+        "@value": "Name change for the company 6 Feb 2025 GRTgaz Deutschland GmbH.  Old Display name GRTD"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001008P",
-    "@cim:IdentifiedObject.name": "GRTgaz Deutschland GmbH",
+    "@cim:IdentifiedObject.name": "NaTran Deutschland GmbH",
     "@cim:Names.name": [
-        "GDFGT",
-        "DE813922225",
-        "Balance Responsible Party"
+        "NATRAN_D",
+        "DE282304925",
+        "Balance Responsible Party",
+        "System Operator"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
+    "@cim:IdentifiedObject.description": "Name change for the company 6 Feb 2025 GRTgaz Deutschland GmbH.  Old Display name GRTD",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-04-02",
-    "@schema:vatID": "DE813922225",
+    "@cim:DateAndOrTime.date": "2025-02-06",
+    "@schema:vatID": "DE282304925",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

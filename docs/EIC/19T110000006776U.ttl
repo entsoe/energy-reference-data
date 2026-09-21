@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006776U" ;
-    cim:IdentifiedObject.name "Włocławek Azoty-Olsztyn I" ;
+    cim:IdentifiedObject.name "220kV Olsztyn-Wloclawek Azoty" ;
     cim:Names.name "6002",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006776U" ;
     skos:altLabel "6002" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Włocławek Azoty-Olsztyn I" ;
+    skos:prefLabel "220kV Olsztyn-Wloclawek Azoty" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

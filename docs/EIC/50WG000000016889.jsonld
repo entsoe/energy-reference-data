@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000016889",
-    "@skos:prefLabel": "STOKKELAG127 HYDRO",
-    "@skos:altLabel": "NO-STOKKELAG127_",
+    "@skos:prefLabel": "OLTEDAL G127 HYDRO",
+    "@skos:altLabel": "NO-OLTEDALG127",
     "@cim:IdentifiedObject.mRID": "50WG000000016889",
-    "@cim:IdentifiedObject.name": "STOKKELAG127 HYDRO",
+    "@cim:IdentifiedObject.name": "OLTEDAL G127 HYDRO",
     "@cim:Names.name": [
-        "NO-STOKKELAG127_",
+        "NO-OLTEDALG127",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-08-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

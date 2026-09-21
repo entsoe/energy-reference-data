@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19T1100000067608</dcterms:identifier>
-    <skos:prefLabel>&#321;o&#347;nice-Siersza</skos:prefLabel>
+    <skos:prefLabel>220kV Siersza-Losnice</skos:prefLabel>
     <skos:altLabel>3402</skos:altLabel>
     <cim:IdentifiedObject.mRID>19T1100000067608</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>&#321;o&#347;nice-Siersza</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>220kV Siersza-Losnice</cim:IdentifiedObject.name>
     <cim:Names.name>3402</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-11-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-20</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

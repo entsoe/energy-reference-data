@@ -14,8 +14,10 @@
     cim:IdentifiedObject.name "Yamal Trade Pte. Ltd." ;
     cim:Names.name "A00136925.BE",
         "Trade Responsible Party",
-        "YAMAL_TRADE" ;
+        "YAMAL_TRADE",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--180412-YT-G" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "YAMAL_TRADE" ;
     skos:definition "Company is registered in Singapore. Company registration number and the national tax number is the same: 201304475C Written confirmation from ACRA (Accounting and Corporate Regulatory Authority) received."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

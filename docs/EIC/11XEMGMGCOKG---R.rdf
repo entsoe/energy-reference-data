@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XEMGMGCOKG---R</dcterms:identifier>
     <skos:prefLabel>ExxonMobil Gas Marketing Deutschland GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>EMGMGCOKG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XEMGMGCOKG---R</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ExxonMobil Gas Marketing Deutschland GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>EMGMGCOKG</cim:Names.name>
     <cim:Names.name>DE232838695</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-08-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-01-10</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE232838695</schema:vatID>

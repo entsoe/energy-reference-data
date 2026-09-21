@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XELEZA-12345-L</dcterms:identifier>
     <skos:prefLabel>ELECTROJUEGOS ZARAGOZA, S.L.</skos:prefLabel>
     <skos:altLabel>ELEZA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XELEZA-12345-L</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ELECTROJUEGOS ZARAGOZA, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>ELEZA</cim:Names.name>
     <cim:Names.name>ES50183755</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-05-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ES50183755</schema:vatID>

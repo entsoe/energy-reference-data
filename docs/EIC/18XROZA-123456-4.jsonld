@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XROZA-123456-4",
     "@skos:prefLabel": "Pizarras Rozadais SL",
     "@skos:altLabel": "ROZA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XROZA-123456-4",
     "@cim:IdentifiedObject.name": "Pizarras Rozadais SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB32007460",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-07-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB32007460",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

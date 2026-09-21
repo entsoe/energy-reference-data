@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-29" ;
+    cim:DateAndOrTime.date "2024-01-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "25Z-TIGAS-----1A" ;
-    cim:IdentifiedObject.name "TIGAS-Erdgas Tirol GmbH" ;
+    cim:IdentifiedObject.name "TIGAS-Wärme Tirol GmbH" ;
     cim:Names.name "BRENNER-AT-IT",
         "Connection Point" ;
     dcterms:identifier "urn:eic:25Z-TIGAS-----1A" ;
     skos:altLabel "BRENNER-AT-IT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TIGAS-Erdgas Tirol GmbH" ;
+    skos:prefLabel "TIGAS-Wärme Tirol GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

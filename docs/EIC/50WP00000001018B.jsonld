@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001018B",
     "@skos:prefLabel": "Fagerdalen",
-    "@skos:altLabel": "NO-FAGERDALEN_PL",
+    "@skos:altLabel": "NO-FAGERDALEN",
     "@cim:IdentifiedObject.mRID": "50WP00000001018B",
     "@cim:IdentifiedObject.name": "Fagerdalen",
     "@cim:Names.name": [
-        "NO-FAGERDALEN_PL",
+        "NO-FAGERDALEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

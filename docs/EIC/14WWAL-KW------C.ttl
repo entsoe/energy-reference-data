@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/14WWAL-KW------C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "14WWAL-KW------C" ;
+    cim:IdentifiedObject.name "Salzburg AG - KW Wald" ;
+    cim:Names.name "Production Unit",
+        "WALD_KW" ;
+    dcterms:identifier "urn:eic:14WWAL-KW------C" ;
+    skos:altLabel "WALD_KW" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Salzburg AG - KW Wald" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

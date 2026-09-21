@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11T0-0000-0987-4",
-    "@skos:prefLabel": "APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Simbach",
+    "@skos:prefLabel": "APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Simbach",
     "@skos:altLabel": "L_SPALSI-234--SI",
     "@cim:IdentifiedObject.mRID": "11T0-0000-0987-4",
-    "@cim:IdentifiedObject.name": "APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Simbach",
+    "@cim:IdentifiedObject.name": "APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Simbach",
     "@cim:Names.name": [
         "L_SPALSI-234--SI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-26",
+    "@cim:DateAndOrTime.date": "2025-06-27",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

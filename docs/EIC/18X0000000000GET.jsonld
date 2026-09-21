@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000000GET",
     "@skos:prefLabel": "GENERAL DE POLIMEROS S.L",
     "@skos:altLabel": "GENEP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000000GET",
     "@cim:IdentifiedObject.name": "GENERAL DE POLIMEROS S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB70313226",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-07-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB70313226",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

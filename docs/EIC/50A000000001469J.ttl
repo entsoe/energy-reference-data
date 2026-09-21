@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000001469J" ;
-    cim:IdentifiedObject.name "T_Sundsbarm" ;
-    cim:Names.name "NO-T_SUNDSB",
+    cim:IdentifiedObject.name "T_Flatin" ;
+    cim:Names.name "NO-T_FLATIN",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000001469J" ;
-    skos:altLabel "NO-T_SUNDSB" ;
+    skos:altLabel "NO-T_FLATIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "T_Sundsbarm" ;
+    skos:prefLabel "T_Flatin" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

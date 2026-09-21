@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001316O",
-    "@skos:prefLabel": "M Fjæremsf 66  T3 Forbruk",
+    "@skos:prefLabel": "N Fjæremsf 66  T3 Forbruk",
     "@skos:altLabel": "NO-FJAREMSF66",
     "@cim:IdentifiedObject.mRID": "50WC00000001316O",
-    "@cim:IdentifiedObject.name": "M Fjæremsf 66  T3 Forbruk",
+    "@cim:IdentifiedObject.name": "N Fjæremsf 66  T3 Forbruk",
     "@cim:Names.name": [
         "NO-FJAREMSF66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

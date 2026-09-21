@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-06" ;
+    cim:DateAndOrTime.date "2026-01-05" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Resource Object" ;
     cim:IdentifiedObject.mRID "21W000000000095N" ;
-    cim:IdentifiedObject.name "VGS Edison Stoccaggio" ;
-    cim:Names.name "EDISON-VIRT-STOR",
-        "Resource Object" ;
+    cim:IdentifiedObject.name "STOGIT (HUB 2)" ;
+    cim:Names.name "Gas Storage Facility",
+        "SSO_FACILITY" ;
     dcterms:identifier "urn:eic:21W000000000095N" ;
-    skos:altLabel "EDISON-VIRT-STOR" ;
-    skos:definition "Resource Object"@en ;
+    skos:altLabel "SSO_FACILITY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VGS Edison Stoccaggio" ;
+    skos:prefLabel "STOGIT (HUB 2)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

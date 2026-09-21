@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/64XENERGYGASSF4C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "License  A MMI NR.005707" ;
+    cim:IdentifiedObject.mRID "64XENERGYGASSF4C" ;
+    cim:IdentifiedObject.name "Energygas Solution SRL" ;
+    cim:Names.name "0510626",
+        "Balance Responsible Party",
+        "ENERGYGASS_F",
+        "Energy Trader" ;
+    dcterms:identifier "urn:eic:64XENERGYGASSF4C" ;
+    schema1:vatID "0510626" ;
+    skos:altLabel "ENERGYGASS_F" ;
+    skos:definition "License  A MMI NR.005707"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energygas Solution SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

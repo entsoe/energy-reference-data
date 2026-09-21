@@ -22,13 +22,15 @@
     "@cim:IdentifiedObject.name": "S.R.L. \"AIK Energy\"",
     "@cim:Names.name": [
         "AIKENERGY_MD",
-        "Trade Responsible Party",
-        "Balance Responsible Party"
+        "n / a",
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "According to the Solicitation Letter nr.06 / 05.11.2019 based on ANRE license nr. AC001414 from 24.10.2019.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-11-14",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001606V" ;
     cim:IdentifiedObject.name "Naaden O.J." ;
-    cim:Names.name "NO-NAADEN-O-J-_P",
+    cim:Names.name "NO-NAADENOJ",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001606V" ;
-    skos:altLabel "NO-NAADEN-O-J-_P" ;
+    skos:altLabel "NO-NAADENOJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Naaden O.J." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

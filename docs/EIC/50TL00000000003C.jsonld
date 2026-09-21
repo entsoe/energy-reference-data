@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000003C",
-    "@skos:prefLabel": "M 10 Saudebotn-Tafjord3",
-    "@skos:altLabel": "NO-SAUDEBOTNTAFJ",
+    "@skos:prefLabel": "N 22 Tafjord7-Tafjord",
+    "@skos:altLabel": "NO-22TAFJORD7TAF",
     "@cim:IdentifiedObject.mRID": "50TL00000000003C",
-    "@cim:IdentifiedObject.name": "M 10 Saudebotn-Tafjord3",
+    "@cim:IdentifiedObject.name": "N 22 Tafjord7-Tafjord",
     "@cim:Names.name": [
-        "NO-SAUDEBOTNTAFJ",
+        "NO-22TAFJORD7TAF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

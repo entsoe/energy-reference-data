@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002328B",
-    "@skos:prefLabel": "N Alta tra 22 Kr1 X",
-    "@skos:altLabel": "NO-ALTATRA22KR1X",
+    "@skos:prefLabel": "N Alta tra 22  Kr1 X",
+    "@skos:altLabel": "NO-ALTATRA22KR1",
     "@cim:IdentifiedObject.mRID": "50TL00000002328B",
-    "@cim:IdentifiedObject.name": "N Alta tra 22 Kr1 X",
+    "@cim:IdentifiedObject.name": "N Alta tra 22  Kr1 X",
     "@cim:Names.name": [
-        "NO-ALTATRA22KR1X",
+        "NO-ALTATRA22KR1",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

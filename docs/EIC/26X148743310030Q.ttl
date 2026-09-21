@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-03-09" ;
+    cim:DateAndOrTime.date "2025-04-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X148743310030Q" ;
-    cim:IdentifiedObject.name "SINERGIA SRL" ;
-    cim:Names.name "IT-SINERGIASRLSR",
+    cim:IdentifiedObject.name "MOOREN" ;
+    cim:Names.name "A0015164A.IT",
+        "IT-MOORENSRL",
         "IT14874331003",
         "Market Operator" ;
     dcterms:identifier "urn:eic:26X148743310030Q" ;
     schema1:vatID "IT14874331003" ;
-    skos:altLabel "IT-SINERGIASRLSR" ;
+    skos:altLabel "IT-MOORENSRL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SINERGIA SRL" ;
+    skos:prefLabel "MOOREN" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

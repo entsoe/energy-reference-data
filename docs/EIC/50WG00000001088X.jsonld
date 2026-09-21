@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001088X",
     "@skos:prefLabel": "MAGELI  G1      HYDRO",
-    "@skos:altLabel": "NO-MAGELI__G1___",
+    "@skos:altLabel": "NO-MAGELIG1",
     "@cim:IdentifiedObject.mRID": "50WG00000001088X",
     "@cim:IdentifiedObject.name": "MAGELI  G1      HYDRO",
     "@cim:Names.name": [
-        "NO-MAGELI__G1___",
+        "NO-MAGELIG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

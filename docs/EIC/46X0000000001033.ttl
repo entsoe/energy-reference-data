@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X0000000001033> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X0000000001033" ;
+    cim:IdentifiedObject.name "Jönköping Energi AB" ;
+    cim:Names.name "Energy Supplier",
+        "JONKOPING_ENERGI",
+        "SE556015335401" ;
+    dcterms:identifier "urn:eic:46X0000000001033" ;
+    schema1:vatID "SE556015335401" ;
+    skos:altLabel "JONKOPING_ENERGI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Jönköping Energi AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

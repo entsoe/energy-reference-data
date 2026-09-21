@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "ZATAS",
         "SK2020106748",
-        "Valid EIC Function needed"
+        "Producer",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Function Missing",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-21",
     "@schema:vatID": "SK2020106748",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

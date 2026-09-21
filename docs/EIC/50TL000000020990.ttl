@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000020990" ;
-    cim:IdentifiedObject.name "M 66 Saltbotn-T_Rørvik" ;
+    cim:IdentifiedObject.name "N 66 Saltbotn-T_Salbotn" ;
     cim:Names.name "Internal Line",
-        "NO-SALTBOTNTRORV" ;
+        "NO-66SALTBOTNT_S" ;
     dcterms:identifier "urn:eic:50TL000000020990" ;
-    skos:altLabel "NO-SALTBOTNTRORV" ;
+    skos:altLabel "NO-66SALTBOTNT_S" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Saltbotn-T_Rørvik" ;
+    skos:prefLabel "N 66 Saltbotn-T_Salbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

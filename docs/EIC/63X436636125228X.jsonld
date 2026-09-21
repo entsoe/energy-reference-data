@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/63X436636125228X",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:63X436636125228X",
+    "@skos:prefLabel": "GREEN ENERGY GROUP SAS",
+    "@skos:altLabel": "FRG_GREENENERGYG",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Green Energy Group, expert en rénovation énergétique pour les professionnels depuis 1999, s’engage pleinement dans la transition énergétique conformément aux objectifs gouvernementaux visant à réduire les émissions de gaz à effet de serre et à promouvoir les énergies renouvelables."
+    },
+    "@cim:IdentifiedObject.mRID": "63X436636125228X",
+    "@cim:IdentifiedObject.name": "GREEN ENERGY GROUP SAS",
+    "@cim:Names.name": [
+        "FRG_GREENENERGYG",
+        "FR0Q422180067",
+        "Market Area Operator"
+    ],
+    "@cim:IdentifiedObject.description": "Green Energy Group, expert en rénovation énergétique pour les professionnels depuis 1999, s’engage pleinement dans la transition énergétique conformément aux objectifs gouvernementaux visant à réduire les émissions de gaz à effet de serre et à promouvoir les énergies renouvelables.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-03-26",
+    "@schema:vatID": "FR0Q422180067",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

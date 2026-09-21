@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0928-6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0928-6" ;
+    cim:IdentifiedObject.name "Grüne Energie Osterby GmbH" ;
+    cim:Names.name "DE456229061",
+        "Energy Supplier",
+        "GEOSTERBY" ;
+    dcterms:identifier "urn:eic:11X0-0000-0928-6" ;
+    schema1:vatID "DE456229061" ;
+    skos:altLabel "GEOSTERBY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Grüne Energie Osterby GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

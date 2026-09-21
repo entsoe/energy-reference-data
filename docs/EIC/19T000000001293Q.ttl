@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000001293Q" ;
-    cim:IdentifiedObject.name "Łomża Systemowa-Ostrołęka 1" ;
+    cim:IdentifiedObject.name "400kV Ostroleka-Lomza Systemowa 1" ;
     cim:Names.name "E010",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000001293Q" ;
     skos:altLabel "E010" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Łomża Systemowa-Ostrołęka 1" ;
+    skos:prefLabel "400kV Ostroleka-Lomza Systemowa 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVITPLASTICSLC",
     "@skos:prefLabel": "VIT PLASTIC, S.L.",
     "@skos:altLabel": "VITPL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVITPLASTICSLC",
     "@cim:IdentifiedObject.name": "VIT PLASTIC, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB96447883",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-09-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB96447883",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

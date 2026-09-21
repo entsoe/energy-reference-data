@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000912Z",
     "@skos:prefLabel": "KVITNES G104 HYDRO",
-    "@skos:altLabel": "NO-KVITNES_G104_",
+    "@skos:altLabel": "NO-KVITNESG104",
     "@cim:IdentifiedObject.mRID": "50WG00000000912Z",
     "@cim:IdentifiedObject.name": "KVITNES G104 HYDRO",
     "@cim:Names.name": [
-        "NO-KVITNES_G104_",
+        "NO-KVITNESG104",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

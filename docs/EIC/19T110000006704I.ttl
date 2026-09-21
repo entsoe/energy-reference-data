@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006704I" ;
-    cim:IdentifiedObject.name "Mory-Piaseczno" ;
+    cim:IdentifiedObject.name "220kV Mory-Piaseczno" ;
     cim:Names.name "1103",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006704I" ;
     skos:altLabel "1103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Mory-Piaseczno" ;
+    skos:prefLabel "220kV Mory-Piaseczno" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

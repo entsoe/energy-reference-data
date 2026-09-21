@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001177B" ;
     cim:IdentifiedObject.name "S 420 Grenland-Rød" ;
     cim:Names.name "Internal Line",
-        "NO-GRENLANDROD" ;
+        "NO-420GRENLANDRO" ;
     dcterms:identifier "urn:eic:50TL00000001177B" ;
-    skos:altLabel "NO-GRENLANDROD" ;
+    skos:altLabel "NO-420GRENLANDRO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 420 Grenland-Rød" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000013525",
-    "@skos:prefLabel": "ROD     G128 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G128_",
+    "@skos:prefLabel": "FINNDOLAG128 HYDRO",
+    "@skos:altLabel": "NO-FINNDOLAG128",
     "@cim:IdentifiedObject.mRID": "50WG000000013525",
-    "@cim:IdentifiedObject.name": "ROD     G128 HYDRO",
+    "@cim:IdentifiedObject.name": "FINNDOLAG128 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G128_",
+        "NO-FINNDOLAG128",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

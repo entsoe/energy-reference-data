@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XBERLA-VB----3</dcterms:identifier>
     <skos:prefLabel>BerLa GmbH</skos:prefLabel>
     <skos:altLabel>BERLA</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XBERLA-VB----3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>BerLa GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>BERLA</cim:Names.name>
     <cim:Names.name>DE270253964</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-03-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE270253964</schema:vatID>

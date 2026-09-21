@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL000000039020> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL000000039020" ;
+    cim:IdentifiedObject.name "N 22 Eid-Stårheim" ;
+    cim:Names.name "Internal Line",
+        "NO-22EIDSTARHEIM" ;
+    dcterms:identifier "urn:eic:50TL000000039020" ;
+    skos:altLabel "NO-22EIDSTARHEIM" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "N 22 Eid-Stårheim" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

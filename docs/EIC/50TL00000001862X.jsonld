@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001862X",
-    "@skos:prefLabel": "S 66 Holtane-T_Holtane",
-    "@skos:altLabel": "NO-HOLTANETHOLTA",
+    "@skos:prefLabel": "S 66 Holtane-T_Haugenholt",
+    "@skos:altLabel": "NO-66HOLTANET_HA",
     "@cim:IdentifiedObject.mRID": "50TL00000001862X",
-    "@cim:IdentifiedObject.name": "S 66 Holtane-T_Holtane",
+    "@cim:IdentifiedObject.name": "S 66 Holtane-T_Haugenholt",
     "@cim:Names.name": [
-        "NO-HOLTANETHOLTA",
+        "NO-66HOLTANET_HA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

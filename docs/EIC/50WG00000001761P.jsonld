@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001761P",
-    "@skos:prefLabel": "SUNDSFJ G105 HYDRO",
-    "@skos:altLabel": "NO-SUNDSFJ_G105_",
+    "@skos:prefLabel": "LYSVATN G105 HYDRO",
+    "@skos:altLabel": "NO-LYSVATNG105",
     "@cim:IdentifiedObject.mRID": "50WG00000001761P",
-    "@cim:IdentifiedObject.name": "SUNDSFJ G105 HYDRO",
+    "@cim:IdentifiedObject.name": "LYSVATN G105 HYDRO",
     "@cim:Names.name": [
-        "NO-SUNDSFJ_G105_",
+        "NO-LYSVATNG105",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

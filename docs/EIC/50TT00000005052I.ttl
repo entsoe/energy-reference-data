@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005052I" ;
-    cim:IdentifiedObject.name "S Hydro 3  T35 Transformator" ;
-    cim:Names.name "NO-HYDRO_3_T35",
+    cim:IdentifiedObject.name "S Herøya 3 T35 Transformator" ;
+    cim:Names.name "NO-HEROYA_3T35",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005052I" ;
-    skos:altLabel "NO-HYDRO_3_T35" ;
+    skos:altLabel "NO-HEROYA_3T35" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hydro 3  T35 Transformator" ;
+    skos:prefLabel "S Herøya 3 T35 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

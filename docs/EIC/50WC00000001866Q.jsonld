@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001866Q",
-    "@skos:prefLabel": "M Nedre Rø 2   LARM Last",
+    "@skos:prefLabel": "N Nedre Rø 2   L1  Forbruk",
     "@skos:altLabel": "NO-NEDREROS2",
     "@cim:IdentifiedObject.mRID": "50WC00000001866Q",
-    "@cim:IdentifiedObject.name": "M Nedre Rø 2   LARM Last",
+    "@cim:IdentifiedObject.name": "N Nedre Rø 2   L1  Forbruk",
     "@cim:Names.name": [
         "NO-NEDREROS2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

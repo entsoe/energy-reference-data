@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260326--M-F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "VAT confirmed through VIES: LT100008742511" ;
+    cim:IdentifiedObject.mRID "23X--260326--M-F" ;
+    cim:IdentifiedObject.name "UAB \"Menergija\"" ;
+    cim:Names.name "LT100008742511",
+        "MENERGIJA",
+        "Producer" ;
+    dcterms:identifier "urn:eic:23X--260326--M-F" ;
+    schema1:vatID "LT100008742511" ;
+    skos:altLabel "MENERGIJA" ;
+    skos:definition "VAT confirmed through VIES: LT100008742511"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UAB \"Menergija\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

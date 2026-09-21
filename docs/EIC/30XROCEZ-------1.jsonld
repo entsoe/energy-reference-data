@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:30XROCEZ-------1",
-    "@skos:prefLabel": "CEZ ROMANIA SRL",
-    "@skos:altLabel": "RO_CEZ",
+    "@skos:prefLabel": "EVRYO POWER SA",
+    "@skos:altLabel": "RO_EVRYO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "30XROCEZ-------1",
-    "@cim:IdentifiedObject.name": "CEZ ROMANIA SRL",
+    "@cim:IdentifiedObject.name": "EVRYO POWER SA",
     "@cim:Names.name": [
-        "RO_CEZ",
+        "RO_EVRYO",
         "RO18196091",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-10-26",
+    "@cim:DateAndOrTime.date": "2024-08-27",
     "@schema:vatID": "RO18196091",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

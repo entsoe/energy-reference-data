@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001863H",
     "@skos:prefLabel": "TEGNEBY G114 HYDRO",
-    "@skos:altLabel": "NO-TEGNEBY_G114_",
+    "@skos:altLabel": "NO-TEGNEBYG114",
     "@cim:IdentifiedObject.mRID": "50WG00000001863H",
     "@cim:IdentifiedObject.name": "TEGNEBY G114 HYDRO",
     "@cim:Names.name": [
-        "NO-TEGNEBY_G114_",
+        "NO-TEGNEBYG114",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Consumer - Production Of Ferroalloy (Sk: Vyroba Ferozliatin)" ;
     cim:IdentifiedObject.mRID "24XOFZ---------T" ;
     cim:IdentifiedObject.name "OFZ, a.s. Istebne" ;
-    cim:Names.name "OFZ",
+    cim:Names.name "Consumer",
+        "Energy Supplier",
+        "OFZ",
         "SK2020131476",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XOFZ---------T" ;
     schema1:vatID "SK2020131476" ;
     skos:altLabel "OFZ" ;

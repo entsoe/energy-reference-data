@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000062606",
-    "@skos:prefLabel": "S Lærdal   T2 Transformator",
-    "@skos:altLabel": "NO-LARDAL__T2",
+    "@skos:prefLabel": "S Lærdal   T3 Transformator",
+    "@skos:altLabel": "NO-LARDALT3",
     "@cim:IdentifiedObject.mRID": "50TT000000062606",
-    "@cim:IdentifiedObject.name": "S Lærdal   T2 Transformator",
+    "@cim:IdentifiedObject.name": "S Lærdal   T3 Transformator",
     "@cim:Names.name": [
-        "NO-LARDAL__T2",
+        "NO-LARDALT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-04-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000418F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000418F" ;
+    cim:IdentifiedObject.name "Monsson Energy AB" ;
+    cim:Names.name "Balance Responsible Party",
+        "MONSSON_EAB",
+        "SE559068120001" ;
+    dcterms:identifier "urn:eic:46X000000000418F" ;
+    schema1:vatID "SE559068120001" ;
+    skos:altLabel "MONSSON_EAB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Monsson Energy AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-04" ;
+    cim:DateAndOrTime.date "2024-01-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45X000000000164Z" ;
     cim:IdentifiedObject.name "GRM Commodities A/S" ;
-    cim:Names.name "44320193",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
+        "DK44320193",
         "GRM_COMMODITIES" ;
     dcterms:identifier "urn:eic:45X000000000164Z" ;
-    schema1:vatID "44320193" ;
+    schema1:vatID "DK44320193" ;
     skos:altLabel "GRM_COMMODITIES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GRM Commodities A/S" ;

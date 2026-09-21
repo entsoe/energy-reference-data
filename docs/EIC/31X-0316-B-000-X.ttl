@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0316-B-000-X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0316-B-000-X" ;
+    cim:IdentifiedObject.name "NGEN smart energy systems d.o.o. " ;
+    cim:Names.name "Balancing Service Provider",
+        "HR-NGEN-SMART",
+        "HR58540789123" ;
+    dcterms:identifier "urn:eic:31X-0316-B-000-X" ;
+    schema1:vatID "HR58540789123" ;
+    skos:altLabel "HR-NGEN-SMART" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NGEN smart energy systems d.o.o. " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

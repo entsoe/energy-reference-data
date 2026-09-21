@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002162K" ;
     cim:IdentifiedObject.name "S Haugsnes 100 L1 Industri" ;
     cim:Names.name "Load",
-        "NO-HAUGSN100L1NC" ;
+        "NO-HAUGSNES100L1" ;
     dcterms:identifier "urn:eic:50WC00000002162K" ;
-    skos:altLabel "NO-HAUGSN100L1NC" ;
+    skos:altLabel "NO-HAUGSNES100L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Haugsnes 100 L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

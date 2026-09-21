@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-07" ;
+    cim:DateAndOrTime.date "2024-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "27T-TLI-V449---C" ;
-    cim:IdentifiedObject.name "V449" ;
-    cim:Names.name "Tieline",
-        "V449" ;
+    cim:IdentifiedObject.name "V449 Albrechtice - Dětmarovice" ;
+    cim:Names.name "ALB-DET-V449",
+        "Tieline" ;
     dcterms:identifier "urn:eic:27T-TLI-V449---C" ;
-    skos:altLabel "V449" ;
+    skos:altLabel "ALB-DET-V449" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "V449" ;
+    skos:prefLabel "V449 Albrechtice - Dětmarovice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

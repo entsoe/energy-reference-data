@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000517I" ;
-    cim:IdentifiedObject.name "S 132 Moskog-Skei" ;
+    cim:IdentifiedObject.name "N 132 Moskog-Skei" ;
     cim:Names.name "Internal Line",
-        "NO-MOSKOGSKEI" ;
+        "NO-132MOSKOGSKEI" ;
     dcterms:identifier "urn:eic:50TL00000000517I" ;
-    skos:altLabel "NO-MOSKOGSKEI" ;
+    skos:altLabel "NO-132MOSKOGSKEI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Moskog-Skei" ;
+    skos:prefLabel "N 132 Moskog-Skei" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

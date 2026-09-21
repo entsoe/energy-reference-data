@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240911-NK-8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company Registration number: 186442084 confirmed by the official exceprt of Registru Centras" ;
+    cim:IdentifiedObject.mRID "23X--240911-NK-8" ;
+    cim:IdentifiedObject.name "UAB \"Nemenčinės komunalininkas\"" ;
+    cim:Names.name "Consumer",
+        "LT864420811",
+        "NEMENCINES_KOMUN" ;
+    dcterms:identifier "urn:eic:23X--240911-NK-8" ;
+    schema1:vatID "LT864420811" ;
+    skos:altLabel "NEMENCINES_KOMUN" ;
+    skos:definition "Company Registration number: 186442084 confirmed by the official exceprt of Registru Centras"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UAB \"Nemenčinės komunalininkas\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

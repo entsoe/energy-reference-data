@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000383E",
-    "@skos:prefLabel": "N Guolas   22  Forbruk",
+    "@skos:prefLabel": "N Guolas   22  NTK2 Forbruk",
     "@skos:altLabel": "NO-GUOLAS22",
     "@cim:IdentifiedObject.mRID": "50WC00000000383E",
-    "@cim:IdentifiedObject.name": "N Guolas   22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Guolas   22  NTK2 Forbruk",
     "@cim:Names.name": [
         "NO-GUOLAS22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

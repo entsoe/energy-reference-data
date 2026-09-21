@@ -1,0 +1,22 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19W1111000000506> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19W1111000000506" ;
+    cim:IdentifiedObject.name "MAGAZYN ENERGII ELEKTRYCZNEJ TRZEBINIA" ;
+    cim:Names.name "Generation Unit",
+        "MEE_TRZEBINIA",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:19W1111000000506" ;
+    skos:altLabel "MEE_TRZEBINIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MAGAZYN ENERGII ELEKTRYCZNEJ TRZEBINIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

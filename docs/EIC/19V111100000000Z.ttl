@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19V111100000000Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19V111100000000Z" ;
+    cim:IdentifiedObject.name "ECP4 systemu VP dla SP" ;
+    cim:Names.name "ECP4_VP_SP",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:19V111100000000Z" ;
+    skos:altLabel "ECP4_VP_SP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ECP4 systemu VP dla SP" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020D2-T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020D2-T" ;
+    cim:IdentifiedObject.name "Co4 Aktiengesellschaft" ;
+    cim:Names.name "CHE-212.636.803",
+        "CO4-AG-DP",
+        "Capacity Trader",
+        "Data Access Provider" ;
+    dcterms:identifier "urn:eic:12X-00000020D2-T" ;
+    schema1:vatID "CHE-212.636.803" ;
+    skos:altLabel "CO4-AG-DP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Co4 Aktiengesellschaft" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

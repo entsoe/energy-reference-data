@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-06-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001616C" ;
     cim:IdentifiedObject.name "S K-H      47  23 Industri" ;
     cim:Names.name "Load",
-        "NO-K-H4723NC" ;
+        "NO-K_H4723NC" ;
     dcterms:identifier "urn:eic:50WC00000001616C" ;
-    skos:altLabel "NO-K-H4723NC" ;
+    skos:altLabel "NO-K_H4723NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S K-H      47  23 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

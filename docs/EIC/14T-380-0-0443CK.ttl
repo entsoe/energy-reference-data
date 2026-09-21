@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14T-380-0-0443CK" ;
     cim:IdentifiedObject.name "380kV line Bisam.-Sarasdorf" ;
-    cim:Names.name "443C" ;
+    cim:Names.name "443C",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:14T-380-0-0443CK" ;
     skos:altLabel "443C" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

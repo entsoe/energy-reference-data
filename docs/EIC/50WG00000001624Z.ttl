@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001624Z" ;
-    cim:IdentifiedObject.name "MOSKOG  G159 HYDRO" ;
+    cim:IdentifiedObject.name "SKEI    G159 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G159_" ;
+        "NO-SKEIG159" ;
     dcterms:identifier "urn:eic:50WG00000001624Z" ;
-    skos:altLabel "NO-MOSKOG__G159_" ;
+    skos:altLabel "NO-SKEIG159" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G159 HYDRO" ;
+    skos:prefLabel "SKEI    G159 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XWIND-LINE---6",
     "@skos:prefLabel": "Wind Line",
     "@skos:altLabel": "WIND-LINE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance responsible party"
-    },
     "@cim:IdentifiedObject.mRID": "11XWIND-LINE---6",
     "@cim:IdentifiedObject.name": "Wind Line",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE250105311",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance responsible party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-06-12",
     "@schema:vatID": "DE250105311",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000002629K</dcterms:identifier>
     <skos:prefLabel>ROMOYRI G1      HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-ROMOYRI_G1___</skos:altLabel>
+    <skos:altLabel>NO-ROMOYRIG1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000002629K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ROMOYRI G1      HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-ROMOYRI_G1___</cim:Names.name>
+    <cim:Names.name>NO-ROMOYRIG1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27XSUNUP-ENDIS-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27XSUNUP-ENDIS-5" ;
+    cim:IdentifiedObject.name "Sunup Energies Distribution s.r.o." ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ17604206",
+        "SUNUP-ENDIS" ;
+    dcterms:identifier "urn:eic:27XSUNUP-ENDIS-5" ;
+    schema1:vatID "CZ17604206" ;
+    skos:altLabel "SUNUP-ENDIS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sunup Energies Distribution s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

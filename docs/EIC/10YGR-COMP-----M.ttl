@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10YGR-COMP-----M" ;
     cim:IdentifiedObject.name "Comp. Control area Greece" ;
     cim:Names.name "COMP-HTSO-AREA",
-        "Valid EIC Function needed" ;
+        "Control Area" ;
     dcterms:identifier "urn:eic:10YGR-COMP-----M" ;
     skos:altLabel "COMP-HTSO-AREA" ;
     skos:definition "Fictitious Area"@en ;

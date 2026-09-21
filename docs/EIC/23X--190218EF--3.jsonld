@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Eurener Fund of Audentia Capital Sicav II Plc.",
     "@cim:Names.name": [
         "EURENER_FUND",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "- No VAT available - Sub-fund of a Audentia Capital Sicav II Plc. - Tax Identification Number: 997650821",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-02-18",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

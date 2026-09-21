@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XVE-BUHEATVK-I",
-    "@skos:prefLabel": "Vattenfall Wärme Berlin Aktiengesellschaft",
+    "@skos:prefLabel": "BEW Berliner Energie und Wärme AG",
     "@skos:altLabel": "WAERME_BERLIN",
     "@cim:IdentifiedObject.mRID": "11XVE-BUHEATVK-I",
-    "@cim:IdentifiedObject.name": "Vattenfall Wärme Berlin Aktiengesellschaft",
+    "@cim:IdentifiedObject.name": "BEW Berliner Energie und Wärme AG",
     "@cim:Names.name": [
         "WAERME_BERLIN",
         "DE813571807",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-21",
+    "@cim:DateAndOrTime.date": "2024-05-21",
     "@schema:vatID": "DE813571807",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

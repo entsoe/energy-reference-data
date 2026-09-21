@@ -1,0 +1,41 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000374G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """FUSE ENERGY, LEVEL39
+ONE CANADA SQUARE
+CANARY WHARF
+LONDON
+E14 5AB
+Arnaud Luboinski
+Arnaud@fuseenergy.com
++44 7805 087192
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000374G" ;
+    cim:IdentifiedObject.name "Fuse Energy Supply Limited" ;
+    cim:Names.name "FUSEENERGY",
+        "GB409035712",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000374G" ;
+    schema1:vatID "GB409035712" ;
+    skos:altLabel "FUSEENERGY" ;
+    skos:definition """FUSE ENERGY, LEVEL39
+ONE CANADA SQUARE
+CANARY WHARF
+LONDON
+E14 5AB
+Arnaud Luboinski
+Arnaud@fuseenergy.com
++44 7805 087192
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Fuse Energy Supply Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

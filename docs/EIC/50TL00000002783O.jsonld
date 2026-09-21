@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002783O",
-    "@skos:prefLabel": "M 22 Alvestad-Sandøy Vindkraft",
-    "@skos:altLabel": "NO-ALVESTADSANDO",
+    "@skos:prefLabel": "N 22 Alvestad-Sandøy Vindkraft",
+    "@skos:altLabel": "NO-22ALVESTADSAN",
     "@cim:IdentifiedObject.mRID": "50TL00000002783O",
-    "@cim:IdentifiedObject.name": "M 22 Alvestad-Sandøy Vindkraft",
+    "@cim:IdentifiedObject.name": "N 22 Alvestad-Sandøy Vindkraft",
     "@cim:Names.name": [
-        "NO-ALVESTADSANDO",
+        "NO-22ALVESTADSAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

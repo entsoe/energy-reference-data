@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0782-A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0782-A" ;
+    cim:IdentifiedObject.name "Borkum Riffgrund 3 GmbH & Co. oHG" ;
+    cim:Names.name "BORKUM3",
+        "DE348217894",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:11X0-0000-0782-A" ;
+    schema1:vatID "DE348217894" ;
+    skos:altLabel "BORKUM3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Borkum Riffgrund 3 GmbH & Co. oHG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

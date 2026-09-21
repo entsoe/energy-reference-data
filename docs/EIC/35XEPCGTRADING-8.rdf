@@ -4,22 +4,22 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:35XEPCGTRADING-8</dcterms:identifier>
-    <skos:prefLabel>TRADING-EPCG</skos:prefLabel>
+    <skos:prefLabel>Elektroprivreda Crne Gore AD Nik&#353;i&#263;</skos:prefLabel>
     <skos:altLabel>EPCGTRADING</skos:altLabel>
     <skos:definition xml:lang="en">Epcg Functional Entity For Electricity Supply And Trading.</skos:definition>
     <cim:IdentifiedObject.mRID>35XEPCGTRADING-8</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TRADING-EPCG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Elektroprivreda Crne Gore AD Nik&#353;i&#263;</cim:IdentifiedObject.name>
     <cim:Names.name>EPCGTRADING</cim:Names.name>
-    <cim:Names.name>02002230</cim:Names.name>
+    <cim:Names.name>  02002230</cim:Names.name>
     <cim:IdentifiedObject.description>Epcg Functional Entity For Electricity Supply And Trading.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
-    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
-    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-01-17</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>02002230</schema:vatID>
+    <schema:vatID>  02002230</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

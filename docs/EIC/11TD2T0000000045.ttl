@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-22" ;
+    cim:DateAndOrTime.date "2024-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11TD2T0000000045" ;
-    cim:IdentifiedObject.name "TTG/380-110/Alfstedt/Trafo 411" ;
+    cim:IdentifiedObject.name "TTG/380-110/Alfstedt/Trafo 413" ;
     cim:Names.name "T-D2-D2-11991974",
         "Transformer" ;
     dcterms:identifier "urn:eic:11TD2T0000000045" ;
     skos:altLabel "T-D2-D2-11991974" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TTG/380-110/Alfstedt/Trafo 411" ;
+    skos:prefLabel "TTG/380-110/Alfstedt/Trafo 413" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

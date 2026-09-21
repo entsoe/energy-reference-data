@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-16" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006455D" ;
-    cim:IdentifiedObject.name "220 kV Piła Krzewina – Bydgoszcz t.1" ;
+    cim:IdentifiedObject.name "220kV Bydgoszcz Zachod-Pila Krzewina 1" ;
     cim:Names.name "213",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006455D" ;
     skos:altLabel "213" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "220 kV Piła Krzewina – Bydgoszcz t.1" ;
+    skos:prefLabel "220kV Bydgoszcz Zachod-Pila Krzewina 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

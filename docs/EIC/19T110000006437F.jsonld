@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006437F",
-    "@skos:prefLabel": "Mikułowa-Pasikurowice",
+    "@skos:prefLabel": "400kV Mikulowa-Pasikurowice",
     "@skos:altLabel": "H013",
     "@cim:IdentifiedObject.mRID": "19T110000006437F",
-    "@cim:IdentifiedObject.name": "Mikułowa-Pasikurowice",
+    "@cim:IdentifiedObject.name": "400kV Mikulowa-Pasikurowice",
     "@cim:Names.name": [
         "H013",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-25",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

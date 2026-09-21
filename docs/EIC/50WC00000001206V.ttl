@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001206V" ;
-    cim:IdentifiedObject.name "S Husnes   24  Industri" ;
+    cim:IdentifiedObject.name "S Husnes   24  T6 Industri" ;
     cim:Names.name "Load",
-        "NO-HUSNES24NC" ;
+        "NO-HUSNES24T6" ;
     dcterms:identifier "urn:eic:50WC00000001206V" ;
-    skos:altLabel "NO-HUSNES24NC" ;
+    skos:altLabel "NO-HUSNES24T6" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Husnes   24  Industri" ;
+    skos:prefLabel "S Husnes   24  T6 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

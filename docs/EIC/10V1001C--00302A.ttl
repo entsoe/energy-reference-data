@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID" ;
+    cim:IdentifiedObject.description "EIC IT-system for Core Day-Ahead NEMO integration environment" ;
     cim:IdentifiedObject.mRID "10V1001C--00302A" ;
-    cim:IdentifiedObject.name "Core CC tool ID test environment" ;
-    cim:Names.name "CORE_ID_TEST",
+    cim:IdentifiedObject.name "Core CC tool DA test environment" ;
+    cim:Names.name "CORE_NEMO_TEST",
         "IT-system" ;
     dcterms:identifier "urn:eic:10V1001C--00302A" ;
-    skos:altLabel "CORE_ID_TEST" ;
-    skos:definition "In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID"@en ;
+    skos:altLabel "CORE_NEMO_TEST" ;
+    skos:definition "EIC IT-system for Core Day-Ahead NEMO integration environment"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Core CC tool ID test environment" ;
+    skos:prefLabel "Core CC tool DA test environment" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

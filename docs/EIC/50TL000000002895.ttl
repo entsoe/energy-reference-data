@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000002895" ;
-    cim:IdentifiedObject.name "S 132 Grov-Angedalen" ;
+    cim:IdentifiedObject.name "N 132 Grov-Angedalen" ;
     cim:Names.name "Internal Line",
-        "NO-GROVANGEDALEN" ;
+        "NO-132GROVANGEDA" ;
     dcterms:identifier "urn:eic:50TL000000002895" ;
-    skos:altLabel "NO-GROVANGEDALEN" ;
+    skos:altLabel "NO-132GROVANGEDA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Grov-Angedalen" ;
+    skos:prefLabel "N 132 Grov-Angedalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

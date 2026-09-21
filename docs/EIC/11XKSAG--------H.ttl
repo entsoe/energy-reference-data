@@ -7,18 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-11" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
+    cim:DateAndOrTime.date "2024-11-26" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "EIC code VAT number DE246284916" ;
     cim:IdentifiedObject.mRID "11XKSAG--------H" ;
     cim:IdentifiedObject.name "DONG Energy Markets GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE246284916",
+    cim:Names.name "246284916",
+        "Balance Responsible Party",
         "KSAG" ;
     dcterms:identifier "urn:eic:11XKSAG--------H" ;
-    schema1:vatID "DE246284916" ;
+    schema1:vatID "246284916" ;
     skos:altLabel "KSAG" ;
-    skos:definition "balance group"@en ;
+    skos:definition "EIC code VAT number DE246284916"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "DONG Energy Markets GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

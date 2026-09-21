@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000026166",
-    "@skos:prefLabel": "M Alsten 132 GR1 Kabel",
+    "@skos:prefLabel": "N Alsten   132 GR1 Kabel",
     "@skos:altLabel": "NO-ALSTEN132GR1",
     "@cim:IdentifiedObject.mRID": "50TL000000026166",
-    "@cim:IdentifiedObject.name": "M Alsten 132 GR1 Kabel",
+    "@cim:IdentifiedObject.name": "N Alsten   132 GR1 Kabel",
     "@cim:Names.name": [
         "NO-ALSTEN132GR1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

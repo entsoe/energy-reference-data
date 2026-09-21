@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001798G" ;
     cim:IdentifiedObject.name "S 66 Gravfoss-Solberg" ;
     cim:Names.name "Internal Line",
-        "NO-GRAVFOSSSOLBE" ;
+        "NO-66GRAVFOSSSOL" ;
     dcterms:identifier "urn:eic:50TL00000001798G" ;
-    skos:altLabel "NO-GRAVFOSSSOLBE" ;
+    skos:altLabel "NO-66GRAVFOSSSOL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Gravfoss-Solberg" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

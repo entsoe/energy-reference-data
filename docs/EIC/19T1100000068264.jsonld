@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000068264",
-    "@skos:prefLabel": "220 kV Ząbkowice-Nysa",
+    "@skos:prefLabel": "220kV Nysa-Zabkowice",
     "@skos:altLabel": "212_PL",
     "@cim:IdentifiedObject.mRID": "19T1100000068264",
-    "@cim:IdentifiedObject.name": "220 kV Ząbkowice-Nysa",
+    "@cim:IdentifiedObject.name": "220kV Nysa-Zabkowice",
     "@cim:Names.name": [
         "212_PL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-15",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

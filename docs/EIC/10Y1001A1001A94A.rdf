@@ -4,19 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10Y1001A1001A94A</dcterms:identifier>
-    <skos:prefLabel>Synchronous area of Baltic states</skos:prefLabel>
+    <skos:prefLabel>Baltic Area</skos:prefLabel>
     <skos:altLabel>SYN_BALTICS</skos:altLabel>
-    <skos:definition xml:lang="en">Synchronous Area</skos:definition>
     <cim:IdentifiedObject.mRID>10Y1001A1001A94A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Synchronous area of Baltic states</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Baltic Area</cim:IdentifiedObject.name>
     <cim:Names.name>SYN_BALTICS</cim:Names.name>
-    <cim:IdentifiedObject.description>Synchronous Area</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-19</cim:DateAndOrTime.date>
     <cim:Names.name>LFC Area</cim:Names.name>
     <cim:Names.name>LFC Block</cim:Names.name>
-    <cim:Names.name>Synchronous Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

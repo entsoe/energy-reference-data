@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Trading And Supply" ;
     cim:IdentifiedObject.mRID "29XHELPETROLEUMV" ;
     cim:IdentifiedObject.name "HELLENIC PETROLEUM S.A." ;
-    cim:Names.name "EL094049864",
-        "HELPE",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "EL094049864",
+        "HELPE" ;
     dcterms:identifier "urn:eic:29XHELPETROLEUMV" ;
     schema1:vatID "EL094049864" ;
     skos:altLabel "HELPE" ;

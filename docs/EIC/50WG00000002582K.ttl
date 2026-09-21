@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002582K" ;
-    cim:IdentifiedObject.name "HOVATN G101 HYDRO" ;
+    cim:IdentifiedObject.name "SORANI  G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HOVATN_G101_" ;
+        "NO-SORANIG1" ;
     dcterms:identifier "urn:eic:50WG00000002582K" ;
-    skos:altLabel "NO-HOVATN_G101_" ;
+    skos:altLabel "NO-SORANIG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HOVATN G101 HYDRO" ;
+    skos:prefLabel "SORANI  G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

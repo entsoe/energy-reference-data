@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X0000000003927> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X0000000003927" ;
+    cim:IdentifiedObject.name "Borås Energi och Miljö AB" ;
+    cim:Names.name "BEM_AB",
+        "Energy Service Company",
+        "SE556527559001" ;
+    dcterms:identifier "urn:eic:46X0000000003927" ;
+    schema1:vatID "SE556527559001" ;
+    skos:altLabel "BEM_AB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Borås Energi och Miljö AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

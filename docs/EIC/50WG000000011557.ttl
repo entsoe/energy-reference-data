@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000011557" ;
-    cim:IdentifiedObject.name "NES_OEK G104 HYDRO" ;
+    cim:IdentifiedObject.name "GROSLANDG104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NES_OEK_G104_" ;
+        "NO-GROSLANDG104" ;
     dcterms:identifier "urn:eic:50WG000000011557" ;
-    skos:altLabel "NO-NES_OEK_G104_" ;
+    skos:altLabel "NO-GROSLANDG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NES_OEK G104 HYDRO" ;
+    skos:prefLabel "GROSLANDG104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

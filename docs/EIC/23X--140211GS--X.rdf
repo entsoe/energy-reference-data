@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23X--140211GS--X</dcterms:identifier>
-    <skos:prefLabel>GDF SUEZ E&amp;P DEUTSCHLAND GMBH</skos:prefLabel>
-    <skos:altLabel>GDF_EP_DE</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
+    <skos:prefLabel>Neptune Energy Deutschland GmbH</skos:prefLabel>
+    <skos:altLabel>NEPTUNE_ENERGY_D</skos:altLabel>
     <cim:IdentifiedObject.mRID>23X--140211GS--X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GDF SUEZ E&amp;P DEUTSCHLAND GMBH</cim:IdentifiedObject.name>
-    <cim:Names.name>GDF_EP_DE</cim:Names.name>
+    <cim:IdentifiedObject.name>Neptune Energy Deutschland GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>NEPTUNE_ENERGY_D</cim:Names.name>
     <cim:Names.name>DE811127999</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-02-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-17</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811127999</schema:vatID>

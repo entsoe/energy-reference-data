@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000013725",
     "@skos:prefLabel": "ROD     G125 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G125_",
+    "@skos:altLabel": "NO-RODG125",
     "@cim:IdentifiedObject.mRID": "50WGI00000013725",
     "@cim:IdentifiedObject.name": "ROD     G125 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G125_",
+        "NO-RODG125",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -10,12 +10,18 @@
     <cim:IdentifiedObject.mRID>19XROKITASA-PCC1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PCC Rokita Spolka Akcyjna</cim:IdentifiedObject.name>
     <cim:Names.name>PCC_ROKITA_SA</cim:Names.name>
+    <cim:Names.name>A0008311Q.PL</cim:Names.name>
     <cim:Names.name>PL9170000015</cim:Names.name>
     <cim:IdentifiedObject.description>Chemical Production.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-03-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-08</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL9170000015</schema:vatID>
   </skos:Concept>

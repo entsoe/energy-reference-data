@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000956F",
     "@skos:prefLabel": "LEIVDAL G101 HYDRO",
-    "@skos:altLabel": "NO-LEIVDAL_G101_",
+    "@skos:altLabel": "NO-LEIVDALG101",
     "@cim:IdentifiedObject.mRID": "50WG00000000956F",
     "@cim:IdentifiedObject.name": "LEIVDAL G101 HYDRO",
     "@cim:Names.name": [
-        "NO-LEIVDAL_G101_",
+        "NO-LEIVDALG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

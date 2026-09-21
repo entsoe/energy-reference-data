@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003134J",
-    "@skos:prefLabel": "M 420 Namsos-Hofstad",
-    "@skos:altLabel": "NO-NAMSOSHOFSTAD",
+    "@skos:prefLabel": "N 420 Namsos-Hofstad",
+    "@skos:altLabel": "NO-420NAMSOSHOFS",
     "@cim:IdentifiedObject.mRID": "50TL00000003134J",
-    "@cim:IdentifiedObject.name": "M 420 Namsos-Hofstad",
+    "@cim:IdentifiedObject.name": "N 420 Namsos-Hofstad",
     "@cim:Names.name": [
-        "NO-NAMSOSHOFSTAD",
+        "NO-420NAMSOSHOFS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

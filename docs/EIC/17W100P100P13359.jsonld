@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P13359",
-    "@skos:prefLabel": "GROUPE 06 DE LA CENTRALE HYDRAULIQUE DE BEAUCAIRE",
+    "@skos:prefLabel": "BEAUCAIRE G6",
     "@skos:altLabel": "FR_HY-BXCAI-G6",
     "@skos:definition": {
         "@language": "en",
         "@value": "Generation Unit"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P13359",
-    "@cim:IdentifiedObject.name": "GROUPE 06 DE LA CENTRALE HYDRAULIQUE DE BEAUCAIRE",
+    "@cim:IdentifiedObject.name": "BEAUCAIRE G6",
     "@cim:Names.name": [
         "FR_HY-BXCAI-G6",
         "Generation Unit"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-01",
+    "@cim:DateAndOrTime.date": "2024-12-31",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

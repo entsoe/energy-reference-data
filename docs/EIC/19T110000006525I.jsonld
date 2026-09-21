@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006525I",
-    "@skos:prefLabel": "Joachimów-TD1",
+    "@skos:prefLabel": "400/220kV Joachimow TD1",
     "@skos:altLabel": "JOA-TD1",
     "@cim:IdentifiedObject.mRID": "19T110000006525I",
-    "@cim:IdentifiedObject.name": "Joachimów-TD1",
+    "@cim:IdentifiedObject.name": "400/220kV Joachimow TD1",
     "@cim:Names.name": [
         "JOA-TD1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

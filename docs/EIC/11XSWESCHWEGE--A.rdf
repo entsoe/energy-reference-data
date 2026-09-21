@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XSWESCHWEGE--A</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Eschwege GmbH</skos:prefLabel>
     <skos:altLabel>SW_ESCHWEGE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWESCHWEGE--A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Eschwege GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SW_ESCHWEGE</cim:Names.name>
     <cim:Names.name>DE219098160</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-03-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-06</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE219098160</schema:vatID>

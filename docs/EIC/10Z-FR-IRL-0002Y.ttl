@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Z-FR-IRL-0002Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Measuring point of CELTIC at La Martyre" ;
+    cim:IdentifiedObject.mRID "10Z-FR-IRL-0002Y" ;
+    cim:IdentifiedObject.name "CELTIC La Martyre" ;
+    cim:Names.name "Accounting Point",
+        "M_KRA-MARTY_FR" ;
+    dcterms:identifier "urn:eic:10Z-FR-IRL-0002Y" ;
+    skos:altLabel "M_KRA-MARTY_FR" ;
+    skos:definition "Measuring point of CELTIC at La Martyre"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CELTIC La Martyre" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

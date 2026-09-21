@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005921U" ;
     cim:IdentifiedObject.name "S Tjodan   T1 Transformator" ;
-    cim:Names.name "NO-TJODAN__T1",
+    cim:Names.name "NO-TJODANT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005921U" ;
-    skos:altLabel "NO-TJODAN__T1" ;
+    skos:altLabel "NO-TJODANT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Tjodan   T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

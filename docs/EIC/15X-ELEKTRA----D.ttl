@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "15X-ELEKTRA----D" ;
     cim:IdentifiedObject.name "Elektra Energia Kft." ;
-    cim:Names.name "ELEKTRA-BC",
-        "HU13294425",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "ELEKTRA-BC",
+        "HU13294425" ;
     dcterms:identifier "urn:eic:15X-ELEKTRA----D" ;
     schema1:vatID "HU13294425" ;
     skos:altLabel "ELEKTRA-BC" ;

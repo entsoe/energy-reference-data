@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSWHEILIGENSTI",
     "@skos:prefLabel": "Stadtwerke Heilbad Heiligenstadt GmbH",
     "@skos:altLabel": "SWHEILIGENST",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWHEILIGENSTI",
     "@cim:IdentifiedObject.name": "Stadtwerke Heilbad Heiligenstadt GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE159566006",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-12",
+    "@cim:DateAndOrTime.date": "2026-06-03",
     "@schema:vatID": "DE159566006",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

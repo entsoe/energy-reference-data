@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X1100000000456> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X1100000000456" ;
+    cim:IdentifiedObject.name "AGENCJA ROZWOJU REGIONALNEGO SPÓŁKA AKCYJNA" ;
+    cim:Names.name "ARR_SA",
+        "Information Provider",
+        "PL5470168981" ;
+    dcterms:identifier "urn:eic:19X1100000000456" ;
+    schema1:vatID "PL5470168981" ;
+    skos:altLabel "ARR_SA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AGENCJA ROZWOJU REGIONALNEGO SPÓŁKA AKCYJNA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

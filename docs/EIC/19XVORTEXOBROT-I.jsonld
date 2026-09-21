@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XVORTEXOBROT-I",
-    "@skos:prefLabel": "VORTEX ENERGY - OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI",
-    "@skos:altLabel": "VORTEX-OBROT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Faks: +48914843111"
-    },
+    "@skos:prefLabel": "ZENERA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "ZENERA",
     "@cim:IdentifiedObject.mRID": "19XVORTEXOBROT-I",
-    "@cim:IdentifiedObject.name": "VORTEX ENERGY - OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI",
+    "@cim:IdentifiedObject.name": "ZENERA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "VORTEX-OBROT",
+        "ZENERA",
         "PL8513207816",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Resource Aggregator"
     ],
-    "@cim:IdentifiedObject.description": "Faks: +48914843111",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-06-01",
+    "@cim:DateAndOrTime.date": "2025-11-25",
     "@schema:vatID": "PL8513207816",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

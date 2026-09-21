@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001757U",
-    "@skos:prefLabel": "M 66 Follafoss-T_Brattingfoss",
-    "@skos:altLabel": "NO-FOLLAFOSSTBRA",
+    "@skos:prefLabel": "N 66 Follafoss-T_Brattingfoss",
+    "@skos:altLabel": "NO-66FOLLAFOSST",
     "@cim:IdentifiedObject.mRID": "50TL00000001757U",
-    "@cim:IdentifiedObject.name": "M 66 Follafoss-T_Brattingfoss",
+    "@cim:IdentifiedObject.name": "N 66 Follafoss-T_Brattingfoss",
     "@cim:Names.name": [
-        "NO-FOLLAFOSSTBRA",
+        "NO-66FOLLAFOSST",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

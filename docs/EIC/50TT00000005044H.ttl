@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005044H" ;
-    cim:IdentifiedObject.name "M Hustad   T03 Transformator" ;
-    cim:Names.name "NO-HUSTAD__T03",
+    cim:IdentifiedObject.name "N Hustad   T03 Transformator" ;
+    cim:Names.name "NO-HUSTADT03",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005044H" ;
-    skos:altLabel "NO-HUSTAD__T03" ;
+    skos:altLabel "NO-HUSTADT03" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Hustad   T03 Transformator" ;
+    skos:prefLabel "N Hustad   T03 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,34 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000LEGCB-1D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """First Floor River Court The Old Mill Office, Mill Lane, Godalming, Surrey, United Kingdom, GU7 1EZ
+Alex Calver
+alex@constantineenergystorage.com
+mike@constantineenergystorage.com
+Battery storage
+""" ;
+    cim:IdentifiedObject.mRID "48W00000LEGCB-1D" ;
+    cim:IdentifiedObject.name "LEGACY" ;
+    cim:Names.name "Generation Unit",
+        "LEGCB-1",
+        "Storage Plant" ;
+    dcterms:identifier "urn:eic:48W00000LEGCB-1D" ;
+    skos:altLabel "LEGCB-1" ;
+    skos:definition """First Floor River Court The Old Mill Office, Mill Lane, Godalming, Surrey, United Kingdom, GU7 1EZ
+Alex Calver
+alex@constantineenergystorage.com
+mike@constantineenergystorage.com
+Battery storage
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LEGACY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

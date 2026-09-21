@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000000299J",
-    "@skos:prefLabel": "Morzyczyn-Dunowo",
+    "@skos:prefLabel": "400kV Dunowo-Morzyczyn",
     "@skos:altLabel": "418",
     "@cim:IdentifiedObject.mRID": "19T000000000299J",
-    "@cim:IdentifiedObject.name": "Morzyczyn-Dunowo",
+    "@cim:IdentifiedObject.name": "400kV Dunowo-Morzyczyn",
     "@cim:Names.name": [
         "418",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

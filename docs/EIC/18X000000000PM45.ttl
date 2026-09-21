@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PM45> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PM45" ;
+    cim:IdentifiedObject.name "ADD UP ENERGY SL" ;
+    cim:Names.name "ES-ADDUP",
+        "ESB88874623",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PM45" ;
+    schema1:vatID "ESB88874623" ;
+    skos:altLabel "ES-ADDUP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ADD UP ENERGY SL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

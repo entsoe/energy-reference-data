@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "In-Country Inter-Tso Ip" ;
     cim:IdentifiedObject.mRID "21Y---A001A007-U" ;
     cim:IdentifiedObject.name "MIDI (Dordogne/Hérault)" ;
-    cim:Names.name "MIDI-FR",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Border Area",
+        "MIDI-FR" ;
     dcterms:identifier "urn:eic:21Y---A001A007-U" ;
     skos:altLabel "MIDI-FR" ;
     skos:definition "In-Country Inter-Tso Ip"@en ;

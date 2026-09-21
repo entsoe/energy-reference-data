@@ -10,14 +10,13 @@
     <cim:IdentifiedObject.mRID>12X-0000001959-1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AOT Energy Switzerland AG</cim:IdentifiedObject.name>
     <cim:Names.name>AOT-ENERGY-ST</cim:Names.name>
-    <cim:Names.name>CHE116300543</cim:Names.name>
+    <cim:Names.name>CHE-102.285.624</cim:Names.name>
     <cim:IdentifiedObject.description>Network User, Transmission Capacity Allocator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-04-11</cim:DateAndOrTime.date>
-    <cim:Names.name>Network User</cim:Names.name>
-    <cim:Names.name>Transmission Capacity Allocator</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>CHE116300543</schema:vatID>
+    <schema:vatID>CHE-102.285.624</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

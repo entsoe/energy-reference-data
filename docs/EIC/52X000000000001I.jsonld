@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:52X000000000001I",
-    "@skos:prefLabel": "Scholt Energy Control B.V",
+    "@skos:prefLabel": "Scholt Energy B.V",
     "@skos:altLabel": "SCHOLT",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "52X000000000001I",
-    "@cim:IdentifiedObject.name": "Scholt Energy Control B.V",
+    "@cim:IdentifiedObject.name": "Scholt Energy B.V",
     "@cim:Names.name": [
         "SCHOLT",
         "NL814224581B01",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-04",
+    "@cim:DateAndOrTime.date": "2025-10-20",
     "@schema:vatID": "NL814224581B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001245L" ;
     cim:IdentifiedObject.name "S Blommenh 47  T2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BLOMMENHO47T2" ;
+        "NO-BLOMMENHM47T2" ;
     dcterms:identifier "urn:eic:50WC00000001245L" ;
-    skos:altLabel "NO-BLOMMENHO47T2" ;
+    skos:altLabel "NO-BLOMMENHM47T2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Blommenh 47  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

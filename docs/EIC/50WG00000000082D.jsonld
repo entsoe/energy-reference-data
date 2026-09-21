@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000082D",
     "@skos:prefLabel": "BAGN    G1      HYDRO",
-    "@skos:altLabel": "NO-BAGN____G1___",
+    "@skos:altLabel": "NO-BAGNG1",
     "@cim:IdentifiedObject.mRID": "50WG00000000082D",
     "@cim:IdentifiedObject.name": "BAGN    G1      HYDRO",
     "@cim:Names.name": [
-        "NO-BAGN____G1___",
+        "NO-BAGNG1",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

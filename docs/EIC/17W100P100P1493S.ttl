@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-01" ;
+    cim:DateAndOrTime.date "2024-12-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "17W100P100P1493S" ;
-    cim:IdentifiedObject.name "GROUPE 05 DE LA CENTRALE HYDRAULIQUE DE CHATEAUNEUF-DU-RHONE" ;
+    cim:IdentifiedObject.name "CHATEAUNEUF-DU-RHONE G5" ;
     cim:Names.name "FR_HY-C-RHO-G5",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P1493S" ;
     skos:altLabel "FR_HY-C-RHO-G5" ;
     skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROUPE 05 DE LA CENTRALE HYDRAULIQUE DE CHATEAUNEUF-DU-RHONE" ;
+    skos:prefLabel "CHATEAUNEUF-DU-RHONE G5" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

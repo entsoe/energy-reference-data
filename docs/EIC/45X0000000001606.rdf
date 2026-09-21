@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45X0000000001606</dcterms:identifier>
-    <skos:prefLabel>WinBel Energy ApS</skos:prefLabel>
+    <skos:prefLabel>Arcane Energy ApS</skos:prefLabel>
     <skos:altLabel>WINBEL</skos:altLabel>
     <cim:IdentifiedObject.mRID>45X0000000001606</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>WinBel Energy ApS</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Arcane Energy ApS</cim:IdentifiedObject.name>
     <cim:Names.name>WINBEL</cim:Names.name>
     <cim:Names.name>44283042</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-09-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-18</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>44283042</schema:vatID>

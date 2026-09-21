@@ -20,7 +20,10 @@
     },
     "@cim:IdentifiedObject.mRID": "21Z0000000004782",
     "@cim:IdentifiedObject.name": "Deutschneudorf_NEW-HSK1",
-    "@cim:Names.name": "DND-NEW_HSK-1",
+    "@cim:Names.name": [
+        "DND-NEW_HSK-1",
+        "Connection Point"
+    ],
     "@cim:IdentifiedObject.description": "Connection Point",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",

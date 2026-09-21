@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10VL8XTA41L9P26Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "10VL8XTA41L9P26Y" ;
+    cim:IdentifiedObject.name "Core CC tool ID acceptance environment" ;
+    cim:Names.name "CORE_ID_ACCEPT",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:10VL8XTA41L9P26Y" ;
+    skos:altLabel "CORE_ID_ACCEPT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Core CC tool ID acceptance environment" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

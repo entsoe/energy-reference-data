@@ -1,0 +1,36 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/67Y-VISKOL-2003T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """VISKOL 2003 DOO deals in energy and natural gas trade.
+
+VISKOL 2003 DOO is a member of the Central European Gas Hub – CEGH  located in Vienna, Austria.
+
+VISKOL 2003 DOO deals with international trade in natural gas and other energy products in Europe.
+""" ;
+    cim:IdentifiedObject.mRID "67Y-VISKOL-2003T" ;
+    cim:IdentifiedObject.name "VISKOL DOO NOVI SAD SRBIJA" ;
+    cim:Names.name "Bidding Zone",
+        "ITC",
+        "Local Market Area",
+        "Market Area",
+        "VISKOL2003" ;
+    dcterms:identifier "urn:eic:67Y-VISKOL-2003T" ;
+    skos:altLabel "VISKOL2003" ;
+    skos:definition """VISKOL 2003 DOO deals in energy and natural gas trade.
+
+VISKOL 2003 DOO is a member of the Central European Gas Hub – CEGH  located in Vienna, Austria.
+
+VISKOL 2003 DOO deals with international trade in natural gas and other energy products in Europe.
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VISKOL DOO NOVI SAD SRBIJA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

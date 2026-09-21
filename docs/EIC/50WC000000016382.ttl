@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000016382" ;
     cim:IdentifiedObject.name "S St.Halva 47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-ST_HALVAR47T1" ;
+        "NO-ST_HALVAD47T1" ;
     dcterms:identifier "urn:eic:50WC000000016382" ;
-    skos:altLabel "NO-ST_HALVAR47T1" ;
+    skos:altLabel "NO-ST_HALVAD47T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S St.Halva 47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

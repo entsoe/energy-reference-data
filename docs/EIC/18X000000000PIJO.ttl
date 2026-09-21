@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PIJO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PIJO" ;
+    cim:IdentifiedObject.name "ASSOCIACIÓ COMUNITAT ENERGETICA POLIGON AGRO-REUS" ;
+    cim:Names.name "ES-ACEPAR",
+        "ESG09832114",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PIJO" ;
+    schema1:vatID "ESG09832114" ;
+    skos:altLabel "ES-ACEPAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ASSOCIACIÓ COMUNITAT ENERGETICA POLIGON AGRO-REUS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

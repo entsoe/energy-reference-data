@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000003376",
     "@skos:prefLabel": "EVANGER G119 HYDRO",
-    "@skos:altLabel": "NO-EVANGER_G119_",
+    "@skos:altLabel": "NO-EVANGERG119",
     "@cim:IdentifiedObject.mRID": "50WG000000003376",
     "@cim:IdentifiedObject.name": "EVANGER G119 HYDRO",
     "@cim:Names.name": [
-        "NO-EVANGER_G119_",
+        "NO-EVANGERG119",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHEIDELBERG--S" ;
     cim:IdentifiedObject.name "Heidelberger Energie GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE207705677",
-        "HEIDELBERG" ;
+    cim:Names.name "DE207705677",
+        "HEIDELBERG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHEIDELBERG--S" ;
     schema1:vatID "DE207705677" ;
     skos:altLabel "HEIDELBERG" ;

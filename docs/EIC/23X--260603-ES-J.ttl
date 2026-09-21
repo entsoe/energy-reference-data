@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260603-ES-J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330676570
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade: 812146886""" ;
+    cim:IdentifiedObject.mRID "23X--260603-ES-J" ;
+    cim:IdentifiedObject.name "Eris Solar shpk" ;
+    cim:Names.name "330676570",
+        "ERIS_SOLAR_XK",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:23X--260603-ES-J" ;
+    schema1:vatID "330676570" ;
+    skos:altLabel "ERIS_SOLAR_XK" ;
+    skos:definition """National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330676570
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade: 812146886"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Eris Solar shpk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

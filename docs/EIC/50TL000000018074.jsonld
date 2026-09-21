@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000018074",
-    "@skos:prefLabel": "M 66 Håheim-Gursken",
-    "@skos:altLabel": "NO-HAHEIMGURSKEN",
+    "@skos:prefLabel": "N 66 Djupvik-Gursken",
+    "@skos:altLabel": "NO-66DJUPVIKGURS",
     "@cim:IdentifiedObject.mRID": "50TL000000018074",
-    "@cim:IdentifiedObject.name": "M 66 Håheim-Gursken",
+    "@cim:IdentifiedObject.name": "N 66 Djupvik-Gursken",
     "@cim:Names.name": [
-        "NO-HAHEIMGURSKEN",
+        "NO-66DJUPVIKGURS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

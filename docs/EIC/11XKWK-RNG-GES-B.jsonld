@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XKWK-RNG-GES-B",
-    "@skos:prefLabel": "Rheinische NETZGesellschaft mbH",
+    "@skos:prefLabel": "RheinNetz GmbH",
     "@skos:altLabel": "RNG",
     "@cim:IdentifiedObject.mRID": "11XKWK-RNG-GES-B",
-    "@cim:IdentifiedObject.name": "Rheinische NETZGesellschaft mbH",
+    "@cim:IdentifiedObject.name": "RheinNetz GmbH",
     "@cim:Names.name": [
         "RNG",
         "DE814567481",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-21",
+    "@cim:DateAndOrTime.date": "2026-02-25",
     "@schema:vatID": "DE814567481",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002947K",
-    "@skos:prefLabel": "M 66 Ranheim-Universitetet",
-    "@skos:altLabel": "NO-RANHEIMUNIVER",
+    "@skos:prefLabel": "N 66 Ranheim-Universitetet",
+    "@skos:altLabel": "NO-66RANHEIMUNIV",
     "@cim:IdentifiedObject.mRID": "50TL00000002947K",
-    "@cim:IdentifiedObject.name": "M 66 Ranheim-Universitetet",
+    "@cim:IdentifiedObject.name": "N 66 Ranheim-Universitetet",
     "@cim:Names.name": [
-        "NO-RANHEIMUNIVER",
+        "NO-66RANHEIMUNIV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

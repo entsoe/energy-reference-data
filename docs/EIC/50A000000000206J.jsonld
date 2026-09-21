@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000206J",
-    "@skos:prefLabel": "Dalane",
-    "@skos:altLabel": "NO-DALANE",
+    "@skos:prefLabel": "Sandbekk",
+    "@skos:altLabel": "NO-SANDBEKK",
     "@cim:IdentifiedObject.mRID": "50A000000000206J",
-    "@cim:IdentifiedObject.name": "Dalane",
+    "@cim:IdentifiedObject.name": "Sandbekk",
     "@cim:Names.name": [
-        "NO-DALANE",
+        "NO-SANDBEKK",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

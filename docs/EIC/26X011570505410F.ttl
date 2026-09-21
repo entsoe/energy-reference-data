@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26X011570505410F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26X011570505410F" ;
+    cim:IdentifiedObject.name "COLACEM SPA" ;
+    cim:Names.name "Consumer",
+        "IT-COLACEMSPASPA",
+        "IT01157050541",
+        "Network User",
+        "Producer" ;
+    dcterms:identifier "urn:eic:26X011570505410F" ;
+    schema1:vatID "IT01157050541" ;
+    skos:altLabel "IT-COLACEMSPASPA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "COLACEM SPA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

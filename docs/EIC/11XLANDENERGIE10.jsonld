@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XLANDENERGIE10",
     "@skos:prefLabel": "Maschinenringe Deutschland GmbH",
     "@skos:altLabel": "BMR_1",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XLANDENERGIE10",
     "@cim:IdentifiedObject.name": "Maschinenringe Deutschland GmbH",
     "@cim:Names.name": [
         "BMR_1",
         "DE185445580",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-06-11",
+    "@cim:DateAndOrTime.date": "2024-12-12",
     "@schema:vatID": "DE185445580",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

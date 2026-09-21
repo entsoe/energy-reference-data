@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001579S" ;
-    cim:IdentifiedObject.name "S 50 Slettebø-Hetland" ;
+    cim:IdentifiedObject.name "S 50 T_Slettebø-Hetland" ;
     cim:Names.name "Internal Line",
-        "NO-SLETTEBOHETLA" ;
+        "NO-50T_SLETTEBOH" ;
     dcterms:identifier "urn:eic:50TL00000001579S" ;
-    skos:altLabel "NO-SLETTEBOHETLA" ;
+    skos:altLabel "NO-50T_SLETTEBOH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 50 Slettebø-Hetland" ;
+    skos:prefLabel "S 50 T_Slettebø-Hetland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

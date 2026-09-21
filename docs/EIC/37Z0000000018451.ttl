@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000018451" ;
     cim:IdentifiedObject.name "ONTRAS-SWRAG Krummendorf" ;
-    cim:Names.name "37Z0000000018451" ;
+    cim:Names.name "37Z0000000018451",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000018451" ;
     skos:altLabel "37Z0000000018451" ;
     skos:definition "Connection Point"@en ;

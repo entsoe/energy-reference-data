@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-04-26" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "18XTGEDM-12345-Z" ;
     cim:IdentifiedObject.name "GAS ENERGIA DISTRIBUCION MURCIA, S.A." ;
     cim:Names.name "ESA30595417",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XTGEDM-12345-Z" ;
     schema1:vatID "ESA30595417" ;
     skos:altLabel "TGEDM" ;
-    skos:definition "Transmission Capacity Allocator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GAS ENERGIA DISTRIBUCION MURCIA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

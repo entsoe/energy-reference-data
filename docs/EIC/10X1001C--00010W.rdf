@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>10X1001C--00010W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Common platform for aFRR</cim:IdentifiedObject.name>
     <cim:Names.name>AFRR_PLATFORM</cim:Names.name>
+    <cim:Names.name>N/A</cim:Names.name>
     <cim:IdentifiedObject.description>PICASSO is a new System pursuant to SOGL Art. 125 and 126  PICASSO is a new System pursuant to SOGL Art. 125 and 126 The platform has simmular tasks like other common platforms (e.g MFRR_Platform (10X1001C--00009H) or INPLATFORM (10X1001C--00011U)) The other common plattforms didn&#8217;t need a VAT code in their related informations. Please change tne Vat Code to &#8220;n/a&#8221;</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2021-02-11</cim:DateAndOrTime.date>
     <cim:Names.name>Platform Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>N/A</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

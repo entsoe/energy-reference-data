@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSKNDBA-----B9" ;
     cim:IdentifiedObject.name "Stromkontor Netzgesellschaft mbH" ;
-    cim:Names.name "Balance Group",
-        "DE266325057",
-        "SKN-DBA" ;
+    cim:Names.name "DE266325057",
+        "SKN-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSKNDBA-----B9" ;
     schema1:vatID "DE266325057" ;
     skos:altLabel "SKN-DBA" ;

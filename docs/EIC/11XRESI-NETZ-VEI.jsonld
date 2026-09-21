@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "TenneT TSO GmbH",
     "@cim:Names.name": [
         "NETZ-VELTH-RESI",
-        "DE815073514",
-        "Balance Group"
+        "815073514",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-24",
-    "@schema:vatID": "DE815073514",
+    "@cim:DateAndOrTime.date": "2024-05-07",
+    "@schema:vatID": "815073514",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

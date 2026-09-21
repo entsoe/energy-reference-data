@@ -7,21 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-02" ;
+    cim:DateAndOrTime.date "2026-06-08" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party, Producer, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "29XTHESSALPOWERA" ;
-    cim:IdentifiedObject.name "ELPEDISON ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:IdentifiedObject.name "ENERWAVE SOCIETE ANONYME" ;
+    cim:Names.name "A0002988W.GR",
+        "Balance Responsible Party",
         "EL999717970",
-        "ELPEDISON",
-        "Producer",
-        "Trade Responsible Party" ;
+        "ENERWAVE",
+        "Energy Supplier",
+        "Energy Trader",
+        "Producer" ;
     dcterms:identifier "urn:eic:29XTHESSALPOWERA" ;
     schema1:vatID "EL999717970" ;
-    skos:altLabel "ELPEDISON" ;
-    skos:definition "Balance Responsible Party, Producer, Trade Responsible Party"@en ;
+    skos:altLabel "ENERWAVE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ELPEDISON ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ" ;
+    skos:prefLabel "ENERWAVE SOCIETE ANONYME" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

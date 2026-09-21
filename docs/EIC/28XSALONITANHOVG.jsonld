@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:28XSALONITANHOVG",
-    "@skos:prefLabel": "SALONIT ANHOVO,d.d.",
+    "@skos:prefLabel": "Alpacem Cement d.d.",
     "@skos:altLabel": "SALONITANHOVO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumer"
-    },
     "@cim:IdentifiedObject.mRID": "28XSALONITANHOVG",
-    "@cim:IdentifiedObject.name": "SALONIT ANHOVO,d.d.",
+    "@cim:IdentifiedObject.name": "Alpacem Cement d.d.",
     "@cim:Names.name": [
         "SALONITANHOVO",
         "SI71263187",
         "Consumer"
     ],
-    "@cim:IdentifiedObject.description": "Consumer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-06-08",
+    "@cim:DateAndOrTime.date": "2024-09-16",
     "@schema:vatID": "SI71263187",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

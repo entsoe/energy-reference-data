@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000343B",
-    "@skos:prefLabel": "EVANGER G115 HYDRO",
-    "@skos:altLabel": "NO-EVANGER_G115_",
+    "@skos:prefLabel": "OVRE_ALSG115 HYDRO",
+    "@skos:altLabel": "NO-OVRE_ALSG115",
     "@cim:IdentifiedObject.mRID": "50WG00000000343B",
-    "@cim:IdentifiedObject.name": "EVANGER G115 HYDRO",
+    "@cim:IdentifiedObject.name": "OVRE_ALSG115 HYDRO",
     "@cim:Names.name": [
-        "NO-EVANGER_G115_",
+        "NO-OVRE_ALSG115",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

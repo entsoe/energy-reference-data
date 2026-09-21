@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002896B",
-    "@skos:prefLabel": "S 66 Tysingvatn-Tysseelva",
-    "@skos:altLabel": "NO-TYSINGVATNTYS",
+    "@skos:prefLabel": "S 22 Tysingvatn-Tysseelva",
+    "@skos:altLabel": "NO-22TYSINGEELVA",
     "@cim:IdentifiedObject.mRID": "50TL00000002896B",
-    "@cim:IdentifiedObject.name": "S 66 Tysingvatn-Tysseelva",
+    "@cim:IdentifiedObject.name": "S 22 Tysingvatn-Tysseelva",
     "@cim:Names.name": [
-        "NO-TYSINGVATNTYS",
+        "NO-22TYSINGEELVA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

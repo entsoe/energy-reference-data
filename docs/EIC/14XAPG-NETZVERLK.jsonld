@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Austrian Power Grid AG",
     "@cim:Names.name": [
         "APG-NETZVERLUSTE",
-        "Valid EIC Function needed"
+        "ATU46061602",
+        "Grid Operator"
     ],
     "@cim:IdentifiedObject.description": "Balance Group; Grid Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2025-05-22",
+    "@schema:vatID": "ATU46061602",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

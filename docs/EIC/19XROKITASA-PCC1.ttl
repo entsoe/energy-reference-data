@@ -7,14 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-03-13" ;
+    cim:DateAndOrTime.date "2026-04-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Chemical Production." ;
     cim:IdentifiedObject.mRID "19XROKITASA-PCC1" ;
     cim:IdentifiedObject.name "PCC Rokita Spolka Akcyjna" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "A0008311Q.PL",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
         "PCC_ROKITA_SA",
-        "PL9170000015" ;
+        "PL9170000015",
+        "System Operator" ;
     dcterms:identifier "urn:eic:19XROKITASA-PCC1" ;
     schema1:vatID "PL9170000015" ;
     skos:altLabel "PCC_ROKITA_SA" ;

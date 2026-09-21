@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-14" ;
+    cim:DateAndOrTime.date "2025-11-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "59X0000000000543" ;
-    cim:IdentifiedObject.name "UNOGAS ENERGIA SPA" ;
+    cim:IdentifiedObject.name "UNOENERGY SPA" ;
     cim:Names.name "Balance Responsible Party",
         "IT01368720080",
-        "UNOGAS" ;
+        "UNOENERGYSPA" ;
     dcterms:identifier "urn:eic:59X0000000000543" ;
     schema1:vatID "IT01368720080" ;
-    skos:altLabel "UNOGAS" ;
+    skos:altLabel "UNOENERGYSPA" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "UNOGAS ENERGIA SPA" ;
+    skos:prefLabel "UNOENERGY SPA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

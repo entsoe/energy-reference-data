@@ -16,7 +16,10 @@
     "@skos:altLabel": "THE-KO",
     "@cim:IdentifiedObject.mRID": "14W-KW-THE-KO--3",
     "@cim:IdentifiedObject.name": "Theiß Kombi",
-    "@cim:Names.name": "THE-KO",
+    "@cim:Names.name": [
+        "THE-KO",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

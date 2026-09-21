@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002511K",
-    "@skos:prefLabel": "S Solberg1 66 S21 X",
+    "@skos:prefLabel": "S Solberg1 66  S21 X",
     "@skos:altLabel": "NO-SOLBERG166S21",
     "@cim:IdentifiedObject.mRID": "50TL00000002511K",
-    "@cim:IdentifiedObject.name": "S Solberg1 66 S21 X",
+    "@cim:IdentifiedObject.name": "S Solberg1 66  S21 X",
     "@cim:Names.name": [
         "NO-SOLBERG166S21",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

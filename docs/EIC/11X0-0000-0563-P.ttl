@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-25" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11X0-0000-0563-P" ;
     cim:IdentifiedObject.name "RWE Generation SE" ;
     cim:Names.name "Balance Responsible Party",
         "DE114216469",
-        "RWE-GENERATION" ;
+        "RWEG-KAPRES-GERK" ;
     dcterms:identifier "urn:eic:11X0-0000-0563-P" ;
     schema1:vatID "DE114216469" ;
-    skos:altLabel "RWE-GENERATION" ;
+    skos:altLabel "RWEG-KAPRES-GERK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "RWE Generation SE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

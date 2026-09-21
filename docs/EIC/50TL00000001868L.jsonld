@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001868L",
-    "@skos:prefLabel": "M 66 Høylandet-Fiskumfoss",
-    "@skos:altLabel": "NO-HOYLANDETFISK",
+    "@skos:prefLabel": "N 66 Høylandet-Fiskumfoss",
+    "@skos:altLabel": "NO-66HOYLANDETFI",
     "@cim:IdentifiedObject.mRID": "50TL00000001868L",
-    "@cim:IdentifiedObject.name": "M 66 Høylandet-Fiskumfoss",
+    "@cim:IdentifiedObject.name": "N 66 Høylandet-Fiskumfoss",
     "@cim:Names.name": [
-        "NO-HOYLANDETFISK",
+        "NO-66HOYLANDETFI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

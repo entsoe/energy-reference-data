@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-02" ;
+    cim:DateAndOrTime.date "2024-09-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "28Y000000000013T" ;
-    cim:IdentifiedObject.name "ZDS Salonit Anhovo" ;
+    cim:IdentifiedObject.name "ZDS-Alpacem-Cement " ;
     cim:Names.name "Distribution Network Area",
         "ZDS_SAL_ANHOVO" ;
     dcterms:identifier "urn:eic:28Y000000000013T" ;
     skos:altLabel "ZDS_SAL_ANHOVO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ZDS Salonit Anhovo" ;
+    skos:prefLabel "ZDS-Alpacem-Cement " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

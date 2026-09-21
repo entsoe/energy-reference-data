@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006399M" ;
-    cim:IdentifiedObject.name "Skawina-Tarnów" ;
+    cim:IdentifiedObject.name "400kV Skawina-Tarnow" ;
     cim:Names.name "G008",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006399M" ;
     skos:altLabel "G008" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Skawina-Tarnów" ;
+    skos:prefLabel "400kV Skawina-Tarnow" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XENERGIXITALI9> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XENERGIXITALI9" ;
+    cim:IdentifiedObject.name "ENERGIE PER L'ITALIA NETWORK" ;
+    cim:Names.name "Balance Responsible Party",
+        "ENERGIXITALIANET",
+        "IT05806350657" ;
+    dcterms:identifier "urn:eic:59XENERGIXITALI9" ;
+    schema1:vatID "IT05806350657" ;
+    skos:altLabel "ENERGIXITALIANET" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENERGIE PER L'ITALIA NETWORK" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

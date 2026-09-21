@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-01-16" ;
+    cim:DateAndOrTime.date "2025-03-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000P1BH" ;
-    cim:IdentifiedObject.name "YOU ARE ENERGU, S.L." ;
+    cim:IdentifiedObject.name "YOU ARE ENERGY, S.L." ;
     cim:Names.name "ES-YOUAREENERGY",
         "ESB10938785",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESB10938785" ;
     skos:altLabel "ES-YOUAREENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "YOU ARE ENERGU, S.L." ;
+    skos:prefLabel "YOU ARE ENERGY, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

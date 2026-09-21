@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-11-09" ;
+    cim:DateAndOrTime.date "2024-03-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19X110000000001Q" ;
     cim:IdentifiedObject.name "ENGIE ZIELONA ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ " ;
     cim:Names.name "Balance Responsible Party",
         "ENGIE_ZIELONA",
+        "Energy Supplier",
         "PL8522434090",
         "Producer" ;
     dcterms:identifier "urn:eic:19X110000000001Q" ;

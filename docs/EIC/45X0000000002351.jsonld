@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/45X0000000002351",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:45X0000000002351",
+    "@skos:prefLabel": "Checkwatt AB",
+    "@skos:altLabel": "CHECKWATT_DK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Need a new EIC for their Danish business"
+    },
+    "@cim:IdentifiedObject.mRID": "45X0000000002351",
+    "@cim:IdentifiedObject.name": "Checkwatt AB",
+    "@cim:Names.name": [
+        "CHECKWATT_DK",
+        "13311625",
+        "Balance Responsible Party",
+        "Balancing Service Provider"
+    ],
+    "@cim:IdentifiedObject.description": "Need a new EIC for their Danish business",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-12-03",
+    "@schema:vatID": "13311625",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WCI0000003125R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50WCI0000003125R" ;
+    cim:IdentifiedObject.name "S Borrega2 10. 10L3B Forbruk" ;
+    cim:Names.name "Load",
+        "NO-BORREGA210L3B" ;
+    dcterms:identifier "urn:eic:50WCI0000003125R" ;
+    skos:altLabel "NO-BORREGA210L3B" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Borrega2 10. 10L3B Forbruk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-20" ;
+    cim:DateAndOrTime.date "2025-12-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000GRUTH" ;
-    cim:IdentifiedObject.name "GREENX UTILITY Sp. z o.o." ;
-    cim:Names.name "Balance Responsible Party",
-        "GREENX_UTILITY",
-        "PL7792517632" ;
+    cim:IdentifiedObject.name "CFP ENERGY POLAND SPOŁKA Z ORGANICZONĄ  ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "A0018563B.PL",
+        "CFP_ENERGY_POL",
+        "PL7792517632",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000GRUTH" ;
     schema1:vatID "PL7792517632" ;
-    skos:altLabel "GREENX_UTILITY" ;
+    skos:altLabel "CFP_ENERGY_POL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GREENX UTILITY Sp. z o.o." ;
+    skos:prefLabel "CFP ENERGY POLAND SPOŁKA Z ORGANICZONĄ  ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

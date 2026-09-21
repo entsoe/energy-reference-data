@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:31X-0149-T-000-K",
-    "@skos:prefLabel": "ENNA Opskrba d.o.o.",
-    "@skos:altLabel": "HR-ENNA-OPSKRBA",
+    "@skos:prefLabel": "ENNA Next d.o.o.",
+    "@skos:altLabel": "HR-ENNA-NEXT",
     "@cim:IdentifiedObject.mRID": "31X-0149-T-000-K",
-    "@cim:IdentifiedObject.name": "ENNA Opskrba d.o.o.",
+    "@cim:IdentifiedObject.name": "ENNA Next d.o.o.",
     "@cim:Names.name": [
-        "HR-ENNA-OPSKRBA",
+        "HR-ENNA-NEXT",
         "HR61700516273",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-28",
+    "@cim:DateAndOrTime.date": "2024-09-26",
     "@schema:vatID": "HR61700516273",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

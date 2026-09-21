@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001002Q" ;
     cim:IdentifiedObject.name "Ø-Åvella" ;
-    cim:Names.name "NO-O-AVELLA_PL",
+    cim:Names.name "NO-OE_AAVELLA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001002Q" ;
-    skos:altLabel "NO-O-AVELLA_PL" ;
+    skos:altLabel "NO-OE_AAVELLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Ø-Åvella" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

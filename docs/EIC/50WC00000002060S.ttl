@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002060S" ;
-    cim:IdentifiedObject.name "M Paulinel 66  T3 Forbruk" ;
+    cim:IdentifiedObject.name "N Paulinel 66  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-PAULINELU66T3" ;
+        "NO-PAULINELD66T3" ;
     dcterms:identifier "urn:eic:50WC00000002060S" ;
-    skos:altLabel "NO-PAULINELU66T3" ;
+    skos:altLabel "NO-PAULINELD66T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Paulinel 66  T3 Forbruk" ;
+    skos:prefLabel "N Paulinel 66  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

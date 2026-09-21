@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000642G" ;
-    cim:IdentifiedObject.name "S Hydro_2  11  Industri" ;
+    cim:IdentifiedObject.name "S Herøya 2 11  LY1 Industri" ;
     cim:Names.name "Load",
-        "NO-HYDRO_211NC" ;
+        "NO-HEROYA211LY1" ;
     dcterms:identifier "urn:eic:50WC00000000642G" ;
-    skos:altLabel "NO-HYDRO_211NC" ;
+    skos:altLabel "NO-HEROYA211LY1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hydro_2  11  Industri" ;
+    skos:prefLabel "S Herøya 2 11  LY1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

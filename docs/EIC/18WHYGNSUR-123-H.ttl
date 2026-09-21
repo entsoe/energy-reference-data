@@ -11,7 +11,8 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WHYGNSUR-123-H" ;
     cim:IdentifiedObject.name "GAS NATURAL SUR SDG" ;
-    cim:Names.name "HYGNSUR" ;
+    cim:Names.name "HYGNSUR",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18WHYGNSUR-123-H" ;
     skos:altLabel "HYGNSUR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

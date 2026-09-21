@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001629P",
     "@skos:prefLabel": "MOSKOG  G158 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G158_",
+    "@skos:altLabel": "NO-MOSKOGG158",
     "@cim:IdentifiedObject.mRID": "50WG00000001629P",
     "@cim:IdentifiedObject.name": "MOSKOG  G158 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G158_",
+        "NO-MOSKOGG158",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

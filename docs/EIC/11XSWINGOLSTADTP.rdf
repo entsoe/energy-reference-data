@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XSWINGOLSTADTP</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Ingolstadt Energie GmbH</skos:prefLabel>
     <skos:altLabel>SWINGOLSTADT</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWINGOLSTADTP</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Ingolstadt Energie GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWINGOLSTADT</cim:Names.name>
-    <cim:Names.name>DE813578833</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE256219032</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE813578833</schema:vatID>
+    <schema:vatID>DE256219032</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

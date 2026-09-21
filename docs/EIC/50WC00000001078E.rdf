@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000001078E</dcterms:identifier>
-    <skos:prefLabel>N B&#229;tsfjor 22  AY Forbruk</skos:prefLabel>
-    <skos:altLabel>NO-BATSFJORD22AY</skos:altLabel>
+    <skos:prefLabel>N B&#229;tsfjor 22  Pb Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-BATSFJOR22PB</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000001078E</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>N B&#229;tsfjor 22  AY Forbruk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-BATSFJORD22AY</cim:Names.name>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.name>N B&#229;tsfjor 22  Pb Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-BATSFJOR22PB</cim:Names.name>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-16</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

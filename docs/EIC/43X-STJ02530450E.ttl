@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02530450E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02530450E" ;
+    cim:IdentifiedObject.name "DANPRO SIA" ;
+    cim:Names.name "LV50003795181",
+        "Producer",
+        "Production Responsible Party",
+        "STJ02530450E" ;
+    dcterms:identifier "urn:eic:43X-STJ02530450E" ;
+    schema1:vatID "LV50003795181" ;
+    skos:altLabel "STJ02530450E" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DANPRO SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

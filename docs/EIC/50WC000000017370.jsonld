@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000017370",
-    "@skos:prefLabel": "S Åna-Sira 2   LARM Last",
-    "@skos:altLabel": "NO-ANA-SIRA2",
+    "@skos:prefLabel": "S Åna-Sira 2   L1  Forbruk",
+    "@skos:altLabel": "NO-ANA_SIRA2",
     "@cim:IdentifiedObject.mRID": "50WC000000017370",
-    "@cim:IdentifiedObject.name": "S Åna-Sira 2   LARM Last",
+    "@cim:IdentifiedObject.name": "S Åna-Sira 2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-ANA-SIRA2",
+        "NO-ANA_SIRA2",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

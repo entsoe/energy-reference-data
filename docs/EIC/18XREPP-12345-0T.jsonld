@@ -12,20 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XREPP-12345-0T",
-    "@skos:prefLabel": "REPSOL PETRÓLEO, S.A.",
+    "@skos:prefLabel": "REPSOL FUELS, S.A.U.",
     "@skos:altLabel": "REPP",
     "@cim:IdentifiedObject.mRID": "18XREPP-12345-0T",
-    "@cim:IdentifiedObject.name": "REPSOL PETRÓLEO, S.A.",
+    "@cim:IdentifiedObject.name": "REPSOL FUELS, S.A.U.",
     "@cim:Names.name": [
         "REPP",
         "ESA28047223",
-        "Producer",
-        "Production Responsible party",
-        "Consumption Responsible Party"
+        "Consumption Responsible Party",
+        "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-12-04",
+    "@cim:DateAndOrTime.date": "2026-03-03",
     "@schema:vatID": "ESA28047223",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

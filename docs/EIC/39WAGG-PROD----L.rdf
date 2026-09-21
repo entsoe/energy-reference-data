@@ -11,10 +11,10 @@
     <cim:IdentifiedObject.name>Hazai termel&#233;s &#246;sszesen</cim:IdentifiedObject.name>
     <cim:Names.name>39WAGG-PROD</cim:Names.name>
     <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-11</cim:DateAndOrTime.date>
-    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Valid EIC function needed</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLDA-1234567-U",
     "@skos:prefLabel": "LAMINADOS DE ALLER",
     "@skos:altLabel": "LDA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLDA-1234567-U",
     "@cim:IdentifiedObject.name": "LAMINADOS DE ALLER",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA74156753",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-07-25",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA74156753",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000002972L",
     "@skos:prefLabel": "S 132 Bolvik-Rafnes",
-    "@skos:altLabel": "NO-BOLVIKRAFNES",
+    "@skos:altLabel": "NO-132BOLVIKRAFN",
     "@cim:IdentifiedObject.mRID": "50TL00000002972L",
     "@cim:IdentifiedObject.name": "S 132 Bolvik-Rafnes",
     "@cim:Names.name": [
-        "NO-BOLVIKRAFNES",
+        "NO-132BOLVIKRAFN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

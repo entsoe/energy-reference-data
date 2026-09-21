@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53XPL000000JAROF> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53XPL000000JAROF" ;
+    cim:IdentifiedObject.name "JARO S.A." ;
+    cim:Names.name "Consumer",
+        "JARO_SA",
+        "PL8840010393" ;
+    dcterms:identifier "urn:eic:53XPL000000JAROF" ;
+    schema1:vatID "PL8840010393" ;
+    skos:altLabel "JARO_SA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "JARO S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

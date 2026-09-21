@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-28" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Metering Point" ;
     cim:IdentifiedObject.mRID "59Z000000000400J" ;
     cim:IdentifiedObject.name "GARAGUSO" ;
-    cim:Names.name "IT_GAR00009550D",
-        "Metering Point" ;
+    cim:Names.name "Accounting Point",
+        "IT_GAR00009550D" ;
     dcterms:identifier "urn:eic:59Z000000000400J" ;
     skos:altLabel "IT_GAR00009550D" ;
     skos:definition "Metering Point"@en ;

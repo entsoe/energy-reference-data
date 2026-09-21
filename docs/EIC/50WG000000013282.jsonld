@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000013282",
     "@skos:prefLabel": "REKVATN G3      HYDRO",
-    "@skos:altLabel": "NO-REKVATN_G3___",
+    "@skos:altLabel": "NO-REKVATNG3",
     "@cim:IdentifiedObject.mRID": "50WG000000013282",
     "@cim:IdentifiedObject.name": "REKVATN G3      HYDRO",
     "@cim:Names.name": [
-        "NO-REKVATN_G3___",
+        "NO-REKVATNG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

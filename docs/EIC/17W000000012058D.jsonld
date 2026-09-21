@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/17W000000012058D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:17W000000012058D",
+    "@skos:prefLabel": "Montahut",
+    "@skos:altLabel": "FR_LA_MTAHU-P",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "MTAHUH-CENTRALE HYDRAULIQUE DE MONTAHUT-6;RTE-MTAHUH6-MTAHU0000000000869;HYDLQ"
+    },
+    "@cim:IdentifiedObject.mRID": "17W000000012058D",
+    "@cim:IdentifiedObject.name": "Montahut",
+    "@cim:Names.name": [
+        "FR_LA_MTAHU-P",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "MTAHUH-CENTRALE HYDRAULIQUE DE MONTAHUT-6;RTE-MTAHUH6-MTAHU0000000000869;HYDLQ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-06-10",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

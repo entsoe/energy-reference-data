@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Market Area, Market Balance Area" ;
     cim:IdentifiedObject.mRID "21Y000000000121K" ;
     cim:IdentifiedObject.name "Oude Statenzijl H Area" ;
-    cim:Names.name "OUDE_STATENZIJL" ;
+    cim:Names.name "Market Area",
+        "OUDE_STATENZIJL" ;
     dcterms:identifier "urn:eic:21Y000000000121K" ;
     skos:altLabel "OUDE_STATENZIJL" ;
     skos:definition "Market Area, Market Balance Area"@en ;

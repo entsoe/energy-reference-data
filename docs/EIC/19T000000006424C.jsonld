@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006424C",
-    "@skos:prefLabel": "Kozienice-Stanisławów",
+    "@skos:prefLabel": "400kV Kozienice-Stanislawow",
     "@skos:altLabel": "420",
     "@cim:IdentifiedObject.mRID": "19T000000006424C",
-    "@cim:IdentifiedObject.name": "Kozienice-Stanisławów",
+    "@cim:IdentifiedObject.name": "400kV Kozienice-Stanislawow",
     "@cim:Names.name": [
         "420",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

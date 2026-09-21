@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002061Q",
-    "@skos:prefLabel": "M Ranheim  66  L1 Forbruk",
-    "@skos:altLabel": "NO-RANHEIM66",
+    "@skos:prefLabel": "N Ranheim  12  L1 Forbruk",
+    "@skos:altLabel": "NO-RANHEIM121",
     "@cim:IdentifiedObject.mRID": "50WC00000002061Q",
-    "@cim:IdentifiedObject.name": "M Ranheim  66  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Ranheim  12  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-RANHEIM66",
+        "NO-RANHEIM121",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

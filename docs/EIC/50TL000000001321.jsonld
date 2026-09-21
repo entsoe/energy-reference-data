@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000001321",
-    "@skos:prefLabel": "M 132 Aura-Osbu",
-    "@skos:altLabel": "NO-AURAOSBU",
+    "@skos:prefLabel": "N 132 Aura-Osbu",
+    "@skos:altLabel": "NO-132AURAOSBU",
     "@cim:IdentifiedObject.mRID": "50TL000000001321",
-    "@cim:IdentifiedObject.name": "M 132 Aura-Osbu",
+    "@cim:IdentifiedObject.name": "N 132 Aura-Osbu",
     "@cim:Names.name": [
-        "NO-AURAOSBU",
+        "NO-132AURAOSBU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

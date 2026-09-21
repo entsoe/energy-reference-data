@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTORAENSO-2-F" ;
     cim:IdentifiedObject.name "Stora Enso Uetersen GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813284866",
-        "SE_UETERSEN" ;
+    cim:Names.name "DE813284866",
+        "SE_UETERSEN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSTORAENSO-2-F" ;
     schema1:vatID "DE813284866" ;
     skos:altLabel "SE_UETERSEN" ;

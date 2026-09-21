@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-08-15" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000001000D" ;
     cim:IdentifiedObject.name "S 300 Bærheim-Stokkeland2" ;
     cim:Names.name "Internal Line",
-        "NO-BARHSTOKKELA2" ;
+        "NO-300BARHELAND2" ;
     dcterms:identifier "urn:eic:50TL00000001000D" ;
-    skos:altLabel "NO-BARHSTOKKELA2" ;
+    skos:altLabel "NO-300BARHELAND2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Bærheim-Stokkeland2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

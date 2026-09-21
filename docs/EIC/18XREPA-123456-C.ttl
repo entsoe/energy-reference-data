@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-03-21" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XREPA-123456-C" ;
     cim:IdentifiedObject.name "Comunidad de Regantes del Canal del Páramo" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XREPA-123456-C" ;
     schema1:vatID "ESG24009730" ;
     skos:altLabel "REPA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Comunidad de Regantes del Canal del Páramo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

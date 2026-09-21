@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W000000000095N",
-    "@skos:prefLabel": "VGS Edison Stoccaggio",
-    "@skos:altLabel": "EDISON-VIRT-STOR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Resource Object"
-    },
+    "@skos:prefLabel": "STOGIT (HUB 2)",
+    "@skos:altLabel": "SSO_FACILITY",
     "@cim:IdentifiedObject.mRID": "21W000000000095N",
-    "@cim:IdentifiedObject.name": "VGS Edison Stoccaggio",
+    "@cim:IdentifiedObject.name": "STOGIT (HUB 2)",
     "@cim:Names.name": [
-        "EDISON-VIRT-STOR",
-        "Resource Object"
+        "SSO_FACILITY",
+        "Gas Storage Facility"
     ],
-    "@cim:IdentifiedObject.description": "Resource Object",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-06",
+    "@cim:DateAndOrTime.date": "2026-01-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

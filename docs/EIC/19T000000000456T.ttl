@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000456T" ;
-    cim:IdentifiedObject.name "Ostrołęka-Olsztyn" ;
+    cim:IdentifiedObject.name "220kV Olsztyn-Ostroleka" ;
     cim:Names.name "221",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000456T" ;
     skos:altLabel "221" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ostrołęka-Olsztyn" ;
+    skos:prefLabel "220kV Olsztyn-Ostroleka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

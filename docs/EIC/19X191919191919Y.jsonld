@@ -12,23 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19X191919191919Y",
-    "@skos:prefLabel": "GREENVOLT POWER TRADING SP.Z O.O.",
-    "@skos:altLabel": "GVPT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Dodatkowy tel.: 601714181"
-    },
+    "@skos:prefLabel": "ENTRIX POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "ENTRIX_PL",
     "@cim:IdentifiedObject.mRID": "19X191919191919Y",
-    "@cim:IdentifiedObject.name": "GREENVOLT POWER TRADING SP.Z O.O.",
+    "@cim:IdentifiedObject.name": "ENTRIX POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "GVPT",
+        "ENTRIX_PL",
+        "A0020732I.PL",
         "PL5213983839",
-        "Energy Supplier"
+        "Balance Responsible Party",
+        "Energy Trader"
     ],
-    "@cim:IdentifiedObject.description": "Dodatkowy tel.: 601714181",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-27",
+    "@cim:DateAndOrTime.date": "2026-04-08",
     "@schema:vatID": "PL5213983839",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

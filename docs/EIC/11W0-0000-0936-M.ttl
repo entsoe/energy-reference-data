@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11W0-0000-0936-M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11W0-0000-0936-M" ;
+    cim:IdentifiedObject.name "Altbach_HKW3" ;
+    cim:Names.name "D4_AL1KW_HKW3",
+        "Generation" ;
+    dcterms:identifier "urn:eic:11W0-0000-0936-M" ;
+    skos:altLabel "D4_AL1KW_HKW3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Altbach_HKW3" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

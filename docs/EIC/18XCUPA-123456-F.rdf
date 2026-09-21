@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCUPA-123456-F</dcterms:identifier>
     <skos:prefLabel>Cupire Padesa SL</skos:prefLabel>
     <skos:altLabel>CUPA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCUPA-123456-F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Cupire Padesa SL</cim:IdentifiedObject.name>
     <cim:Names.name>CUPA</cim:Names.name>
     <cim:Names.name>ESB32001588</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-03-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB32001588</schema:vatID>

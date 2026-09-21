@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/16XPWPLS-------J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "16XPWPLS-------J" ;
+    cim:IdentifiedObject.name "POWER PLUS II - COMERCIALIZACAO DE ENERGIA, LDA " ;
+    cim:Names.name "PT516248197",
+        "PWPLS",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:16XPWPLS-------J" ;
+    schema1:vatID "PT516248197" ;
+    skos:altLabel "PWPLS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "POWER PLUS II - COMERCIALIZACAO DE ENERGIA, LDA " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

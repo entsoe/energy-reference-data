@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:18XEEP-1234567-I</dcterms:identifier>
     <skos:prefLabel>ENDESA ENERGIA, PORTUGAL</skos:prefLabel>
     <skos:altLabel>ENDP</skos:altLabel>
-    <skos:definition xml:lang="en">Function Missing</skos:definition>
     <cim:IdentifiedObject.mRID>18XEEP-1234567-I</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ENDESA ENERGIA, PORTUGAL</cim:IdentifiedObject.name>
     <cim:Names.name>ENDP</cim:Names.name>
     <cim:Names.name>PT980245974</cim:Names.name>
-    <cim:IdentifiedObject.description>Function Missing</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PT980245974</schema:vatID>
   </skos:Concept>

@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point To Storage" ;
     cim:IdentifiedObject.mRID "21Z0000000004002" ;
     cim:IdentifiedObject.name "Empelde" ;
-    cim:Names.name "EMPLELDE",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "EMPELDE" ;
     dcterms:identifier "urn:eic:21Z0000000004002" ;
-    skos:altLabel "EMPLELDE" ;
-    skos:definition "Connection Point To Storage"@en ;
+    skos:altLabel "EMPELDE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Empelde" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

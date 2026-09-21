@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0260-G-000-D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0260-G-000-D" ;
+    cim:IdentifiedObject.name "MACEL PLIN d.o.o." ;
+    cim:Names.name "Energy Supplier",
+        "HR-MACEL",
+        "HR36043571166" ;
+    dcterms:identifier "urn:eic:31X-0260-G-000-D" ;
+    schema1:vatID "HR36043571166" ;
+    skos:altLabel "HR-MACEL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MACEL PLIN d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

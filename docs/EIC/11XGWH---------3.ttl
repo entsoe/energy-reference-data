@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-11-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XGWH---------3" ;
     cim:IdentifiedObject.name "Gemeindewerke Hermaringen GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE145617713",
         "GWH" ;
     dcterms:identifier "urn:eic:11XGWH---------3" ;
     schema1:vatID "DE145617713" ;
     skos:altLabel "GWH" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Gemeindewerke Hermaringen GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

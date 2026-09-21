@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000000303N" ;
-    cim:IdentifiedObject.name "EIDS_SFEG1      HYDRO" ;
+    cim:IdentifiedObject.name "BERGSELIG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-EIDS_SFEG1___" ;
+        "NO-BERGSELIG1" ;
     dcterms:identifier "urn:eic:50WG00000000303N" ;
-    skos:altLabel "NO-EIDS_SFEG1___" ;
+    skos:altLabel "NO-BERGSELIG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EIDS_SFEG1      HYDRO" ;
+    skos:prefLabel "BERGSELIG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

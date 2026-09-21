@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000002964> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Storage System Operator" ;
+    cim:IdentifiedObject.mRID "37X0000000002964" ;
+    cim:IdentifiedObject.name "SEFE Storage GmbH" ;
+    cim:Names.name "DE332959170",
+        "SEFE_STORAGE_GMB",
+        "Storage System Operator" ;
+    dcterms:identifier "urn:eic:37X0000000002964" ;
+    schema1:vatID "DE332959170" ;
+    skos:altLabel "SEFE_STORAGE_GMB" ;
+    skos:definition "Storage System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SEFE Storage GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

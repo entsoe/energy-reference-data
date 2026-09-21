@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000007641" ;
     cim:IdentifiedObject.name "N 132 Ullsfjord-Lyngen" ;
     cim:Names.name "Internal Line",
-        "NO-ULLSFJORDLYNG" ;
+        "NO-132ULLSFJORDL" ;
     dcterms:identifier "urn:eic:50TL000000007641" ;
-    skos:altLabel "NO-ULLSFJORDLYNG" ;
+    skos:altLabel "NO-132ULLSFJORDL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Ullsfjord-Lyngen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000049956",
-    "@skos:prefLabel": "S Hjelmela T1 Transformator",
-    "@skos:altLabel": "NO-HJELMELAT1",
+    "@skos:prefLabel": "S Hjelm.Kr T3 Transformator",
+    "@skos:altLabel": "NO-HJELM_KRT3",
     "@cim:IdentifiedObject.mRID": "50TT000000049956",
-    "@cim:IdentifiedObject.name": "S Hjelmela T1 Transformator",
+    "@cim:IdentifiedObject.name": "S Hjelm.Kr T3 Transformator",
     "@cim:Names.name": [
-        "NO-HJELMELAT1",
+        "NO-HJELM_KRT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-09-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

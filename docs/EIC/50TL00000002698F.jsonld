@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002698F",
-    "@skos:prefLabel": "S 22 Degnepollen-Mehuken",
-    "@skos:altLabel": "NO-DEGNEPOLLENME",
+    "@skos:prefLabel": "N 22 Deknepollen-Mehuken",
+    "@skos:altLabel": "NO-22DEKNEPOLLEN",
     "@cim:IdentifiedObject.mRID": "50TL00000002698F",
-    "@cim:IdentifiedObject.name": "S 22 Degnepollen-Mehuken",
+    "@cim:IdentifiedObject.name": "N 22 Deknepollen-Mehuken",
     "@cim:Names.name": [
-        "NO-DEGNEPOLLENME",
+        "NO-22DEKNEPOLLEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

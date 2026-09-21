@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCASTORENERGY2" ;
     cim:IdentifiedObject.name "CASTOR ENERGY AS" ;
-    cim:Names.name "Balance Group",
-        "CASTORENERGY",
-        "N999213863" ;
+    cim:Names.name "CASTORENERGY",
+        "N999213863",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCASTORENERGY2" ;
     schema1:vatID "N999213863" ;
     skos:altLabel "CASTORENERGY" ;

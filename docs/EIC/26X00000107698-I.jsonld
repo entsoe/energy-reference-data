@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X00000107698-I",
-    "@skos:prefLabel": "RENANTIS ENERGY TRADING SRL",
-    "@skos:altLabel": "IT-RENANTISENERG",
+    "@skos:prefLabel": "NADARA ENERGY TRADING SRL",
+    "@skos:altLabel": "IT-NADARAENERGYT",
     "@cim:IdentifiedObject.mRID": "26X00000107698-I",
-    "@cim:IdentifiedObject.name": "RENANTIS ENERGY TRADING SRL",
+    "@cim:IdentifiedObject.name": "NADARA ENERGY TRADING SRL",
     "@cim:Names.name": [
-        "IT-RENANTISENERG",
+        "IT-NADARAENERGYT",
         "IT07958400967",
         "Capacity Trader",
         "Grid Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-06",
+    "@cim:DateAndOrTime.date": "2025-08-12",
     "@schema:vatID": "IT07958400967",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

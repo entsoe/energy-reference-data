@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0470-Z" ;
     cim:IdentifiedObject.name "DEVG Deutsche Energie Versorgung GmbH & Co. KG" ;
-    cim:Names.name "DE319345674",
+    cim:Names.name "Balance Responsible Party",
+        "DE319345674",
         "DEVG" ;
     dcterms:identifier "urn:eic:11X0-0000-0470-Z" ;
     schema1:vatID "DE319345674" ;

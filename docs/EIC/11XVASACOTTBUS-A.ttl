@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVASACOTTBUS-A" ;
     cim:IdentifiedObject.name "VASA Kraftwerke GmbH & Co. Cottbus KG" ;
-    cim:Names.name "Balance Group",
-        "DE163026303",
-        "VASA-COTTBUS" ;
+    cim:Names.name "DE163026303",
+        "VASA-COTTBUS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVASACOTTBUS-A" ;
     schema1:vatID "DE163026303" ;
     skos:altLabel "VASA-COTTBUS" ;

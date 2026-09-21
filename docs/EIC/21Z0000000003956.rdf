@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z0000000003956</dcterms:identifier>
-    <skos:prefLabel>Lisburn Exit Point</skos:prefLabel>
+    <skos:prefLabel>Lisburn Offtake Point</skos:prefLabel>
     <skos:altLabel>LISBURN-NI</skos:altLabel>
-    <skos:definition xml:lang="en">The Point At Which Gas Can Flow Out Of The Gni (Uk)</skos:definition>
     <cim:IdentifiedObject.mRID>21Z0000000003956</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Lisburn Exit Point</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Lisburn Offtake Point</cim:IdentifiedObject.name>
     <cim:Names.name>LISBURN-NI</cim:Names.name>
-    <cim:IdentifiedObject.description>The Point At Which Gas Can Flow Out Of The Gni (Uk)</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-08-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

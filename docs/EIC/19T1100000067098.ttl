@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000067098" ;
-    cim:IdentifiedObject.name "Puławy-Rożki" ;
+    cim:IdentifiedObject.name "220kV Pulawy-Rozki" ;
     cim:Names.name "2001",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000067098" ;
     skos:altLabel "2001" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Puławy-Rożki" ;
+    skos:prefLabel "220kV Pulawy-Rozki" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-07-29" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XRCTG-123456-6" ;
     cim:IdentifiedObject.name "R Cable y Telecomunicaciones Galicia, S.A." ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XRCTG-123456-6" ;
     schema1:vatID "ESA15474281" ;
     skos:altLabel "RCTG" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "R Cable y Telecomunicaciones Galicia, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

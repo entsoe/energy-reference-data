@@ -23,11 +23,11 @@
     "@cim:Names.name": [
         "VARYOK",
         "CY10320390I",
-        "Trade Responsible Party",
-        "Interconnection Trade Responsible",
         "Balance Responsible Party",
         "Capacity Trader",
-        "Energy Supplier"
+        "Energy Supplier",
+        "Interconnection Trade Responsible",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group,Balance Responsible Party,Balance Supplier,Capacty Trader,Interconnection Trade Responsible,Trade Responsible Party",
     "@cim:Document.docStatus": "A05",

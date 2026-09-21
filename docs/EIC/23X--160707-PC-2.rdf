@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>23X--160707-PC-2</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Panima Capital SPC - Panima 1</cim:IdentifiedObject.name>
     <cim:Names.name>PANIMA_CAPITAL</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Capacity Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-07-07</cim:DateAndOrTime.date>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

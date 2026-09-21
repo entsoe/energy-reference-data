@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020EQ-R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020EQ-R" ;
+    cim:IdentifiedObject.name "Voltaic Trading AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "CHE-348.527.655",
+        "VOLTAIC-BRP" ;
+    dcterms:identifier "urn:eic:12X-00000020EQ-R" ;
+    schema1:vatID "CHE-348.527.655" ;
+    skos:altLabel "VOLTAIC-BRP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Voltaic Trading AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

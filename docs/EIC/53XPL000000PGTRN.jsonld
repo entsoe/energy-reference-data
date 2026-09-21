@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000PGTRN",
-    "@skos:prefLabel": "PGNiG TERMIKA SPÓŁKA AKCYJNA",
+    "@skos:prefLabel": "ORLEN TERMIKA SPÓŁKA AKCYJNA",
     "@skos:altLabel": "TERMIKA",
     "@cim:IdentifiedObject.mRID": "53XPL000000PGTRN",
-    "@cim:IdentifiedObject.name": "PGNiG TERMIKA SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "ORLEN TERMIKA SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
         "TERMIKA",
         "PL5250000630",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-09-20",
+    "@cim:DateAndOrTime.date": "2025-01-27",
     "@schema:vatID": "PL5250000630",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

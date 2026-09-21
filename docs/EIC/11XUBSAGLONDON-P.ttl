@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUBSAGLONDON-P" ;
     cim:IdentifiedObject.name "UBS AG London Branch" ;
-    cim:Names.name "Balance Group",
-        "GB447151456",
-        "UBS-AG-LONDON" ;
+    cim:Names.name "GB447151456",
+        "UBS-AG-LONDON",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUBSAGLONDON-P" ;
     schema1:vatID "GB447151456" ;
     skos:altLabel "UBS-AG-LONDON" ;

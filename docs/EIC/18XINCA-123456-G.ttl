@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-11-21" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XINCA-123456-G" ;
     cim:IdentifiedObject.name "Grupo Incarve Suministros y Servicios Agrupación de Interés Económico" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XINCA-123456-G" ;
     schema1:vatID "ESV24664435" ;
     skos:altLabel "INCA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Grupo Incarve Suministros y Servicios Agrupación de Interés Económico" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

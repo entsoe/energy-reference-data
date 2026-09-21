@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-04-28" ;
+    cim:DateAndOrTime.date "2025-08-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-0000002097-U" ;
     cim:IdentifiedObject.name "EP Commodities AG" ;
-    cim:Names.name "CHE224274163",
+    cim:Names.name "CHE224741163",
         "Capacity Trader",
         "INT-INVEST----ST" ;
     dcterms:identifier "urn:eic:12X-0000002097-U" ;
-    schema1:vatID "CHE224274163" ;
+    schema1:vatID "CHE224741163" ;
     skos:altLabel "INT-INVEST----ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EP Commodities AG" ;

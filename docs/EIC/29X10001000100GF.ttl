@@ -7,8 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-01-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-02-09" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "The company's main function is RES Aggregator." ;
     cim:IdentifiedObject.mRID "29X10001000100GF" ;
     cim:IdentifiedObject.name "EUNICE AGGREGATION ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ" ;
@@ -17,7 +17,7 @@
         "Balance Responsible Party",
         "EL801386868",
         "Grid Access Provider",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:29X10001000100GF" ;
     schema1:vatID "EL801386868" ;
     skos:altLabel "29XEUAGGREGATION" ;

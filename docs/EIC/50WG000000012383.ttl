@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000012383" ;
-    cim:IdentifiedObject.name "ORKDAL  G105 HYDRO" ;
+    cim:IdentifiedObject.name "GRANA   G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ORKDAL__G105_" ;
+        "NO-GRANAG105" ;
     dcterms:identifier "urn:eic:50WG000000012383" ;
-    skos:altLabel "NO-ORKDAL__G105_" ;
+    skos:altLabel "NO-GRANAG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ORKDAL  G105 HYDRO" ;
+    skos:prefLabel "GRANA   G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

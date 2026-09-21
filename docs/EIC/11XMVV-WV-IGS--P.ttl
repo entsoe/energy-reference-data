@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XMVV-WV-IGS--P" ;
     cim:IdentifiedObject.name "MVV Energie AG" ;
-    cim:Names.name "Balance Group",
-        "DE811244542",
-        "MVV-IGS" ;
+    cim:Names.name "DE811244542",
+        "MVV-IGS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMVV-WV-IGS--P" ;
     schema1:vatID "DE811244542" ;
     skos:altLabel "MVV-IGS" ;

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000001637605K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Update status" ;
+    cim:IdentifiedObject.mRID "17X000001637605K" ;
+    cim:IdentifiedObject.name "AFD7" ;
+    cim:Names.name "FR20851930180",
+        "FR_AFD7",
+        "Storage System Operator" ;
+    dcterms:identifier "urn:eic:17X000001637605K" ;
+    schema1:vatID "FR20851930180" ;
+    skos:altLabel "FR_AFD7" ;
+    skos:definition "Update status"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AFD7" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

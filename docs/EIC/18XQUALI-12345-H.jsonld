@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XQUALI-12345-H",
     "@skos:prefLabel": "QUALITY CORN S.A",
     "@skos:altLabel": "QUALI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XQUALI-12345-H",
     "@cim:IdentifiedObject.name": "QUALITY CORN S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB22367254",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-06-02",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB22367254",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

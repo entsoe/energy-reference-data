@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:33XPOWERENERGYSA</dcterms:identifier>
-    <skos:prefLabel>INFITIVE POWER DOOEL</skos:prefLabel>
-    <skos:altLabel>INFITIVE_POWER</skos:altLabel>
+    <skos:prefLabel>INFINITIVE POWER DOOEL</skos:prefLabel>
+    <skos:altLabel>INFINITIVE_POWER</skos:altLabel>
     <cim:IdentifiedObject.mRID>33XPOWERENERGYSA</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>INFITIVE POWER DOOEL</cim:IdentifiedObject.name>
-    <cim:Names.name>INFITIVE_POWER</cim:Names.name>
+    <cim:IdentifiedObject.name>INFINITIVE POWER DOOEL</cim:IdentifiedObject.name>
+    <cim:Names.name>INFINITIVE_POWER</cim:Names.name>
     <cim:Names.name>4038013507890</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-13</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>4038013507890</schema:vatID>

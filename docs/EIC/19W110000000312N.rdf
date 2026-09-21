@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:19W110000000312N</dcterms:identifier>
     <skos:prefLabel>PV Zwartowo</skos:prefLabel>
     <skos:altLabel>ZWA_1P03</skos:altLabel>
-    <skos:definition xml:lang="en">W najbli&#380;szym czasie uruchomiona zostanie farma fotowoltaiczna PV Zwartowo, kt&#243;ra jest przy&#322;&#261;czona do sieci OSP, a jej moc wynosi 145 MW. Rozumiem, &#380;e ze wzgl&#281;du na moc musi zosta&#263; nadany kod EIC w celu publikacji MWE na ENTSO.  </skos:definition>
     <cim:IdentifiedObject.mRID>19W110000000312N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PV Zwartowo</cim:IdentifiedObject.name>
     <cim:Names.name>ZWA_1P03</cim:Names.name>
-    <cim:IdentifiedObject.description>W najbli&#380;szym czasie uruchomiona zostanie farma fotowoltaiczna PV Zwartowo, kt&#243;ra jest przy&#322;&#261;czona do sieci OSP, a jej moc wynosi 145 MW. Rozumiem, &#380;e ze wzgl&#281;du na moc musi zosta&#263; nadany kod EIC w celu publikacji MWE na ENTSO.  </cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-16</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Unit</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-12-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

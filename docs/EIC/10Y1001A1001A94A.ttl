@@ -7,19 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-28" ;
+    cim:DateAndOrTime.date "2026-02-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Synchronous Area" ;
     cim:IdentifiedObject.mRID "10Y1001A1001A94A" ;
-    cim:IdentifiedObject.name "Synchronous area of Baltic states" ;
+    cim:IdentifiedObject.name "Baltic Area" ;
     cim:Names.name "LFC Area",
         "LFC Block",
-        "SYN_BALTICS",
-        "Synchronous Area" ;
+        "SYN_BALTICS" ;
     dcterms:identifier "urn:eic:10Y1001A1001A94A" ;
     skos:altLabel "SYN_BALTICS" ;
-    skos:definition "Synchronous Area"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Synchronous area of Baltic states" ;
+    skos:prefLabel "Baltic Area" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

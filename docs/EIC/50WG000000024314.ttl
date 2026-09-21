@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000024314" ;
-    cim:IdentifiedObject.name "STOLS_KRG1      HYDRO" ;
+    cim:IdentifiedObject.name "STOLSDELG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STOLS_KRG1___" ;
+        "NO-STOLSDELG1" ;
     dcterms:identifier "urn:eic:50WG000000024314" ;
-    skos:altLabel "NO-STOLS_KRG1___" ;
+    skos:altLabel "NO-STOLSDELG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STOLS_KRG1      HYDRO" ;
+    skos:prefLabel "STOLSDELG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

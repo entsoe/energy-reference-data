@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000002570R" ;
     cim:IdentifiedObject.name "ARNESELVG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ARNESELVG1___" ;
+        "NO-ARNESELVG1" ;
     dcterms:identifier "urn:eic:50WG00000002570R" ;
-    skos:altLabel "NO-ARNESELVG1___" ;
+    skos:altLabel "NO-ARNESELVG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ARNESELVG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

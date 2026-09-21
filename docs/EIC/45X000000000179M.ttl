@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000179M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000179M" ;
+    cim:IdentifiedObject.name "Dafnis Aps" ;
+    cim:Names.name "43844679",
+        "Balance Responsible Party",
+        "DAFNIS" ;
+    dcterms:identifier "urn:eic:45X000000000179M" ;
+    schema1:vatID "43844679" ;
+    skos:altLabel "DAFNIS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dafnis Aps" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

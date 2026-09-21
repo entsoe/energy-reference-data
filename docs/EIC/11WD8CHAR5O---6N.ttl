@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11WD8CHAR5O---6N" ;
     cim:IdentifiedObject.name "Charlottenburg 6" ;
-    cim:Names.name "CHA-_BL_6" ;
+    cim:Names.name "CHA-_BL_6",
+        "Generation" ;
     dcterms:identifier "urn:eic:11WD8CHAR5O---6N" ;
     skos:altLabel "CHA-_BL_6" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

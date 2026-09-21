@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000065656" ;
-    cim:IdentifiedObject.name "Miłosna-A5" ;
+    cim:IdentifiedObject.name "400/110kV Milosna AT5" ;
     cim:Names.name "MIL-A5",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T1100000065656" ;
     skos:altLabel "MIL-A5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Miłosna-A5" ;
+    skos:prefLabel "400/110kV Milosna AT5" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

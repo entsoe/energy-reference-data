@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50AI00000000608O" ;
-    cim:IdentifiedObject.name "Hydro 1" ;
-    cim:Names.name "NO-HYDRO_1",
+    cim:IdentifiedObject.name "Herøya 1" ;
+    cim:Names.name "NO-HEROYA_1",
         "Substation" ;
     dcterms:identifier "urn:eic:50AI00000000608O" ;
-    skos:altLabel "NO-HYDRO_1" ;
+    skos:altLabel "NO-HEROYA_1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hydro 1" ;
+    skos:prefLabel "Herøya 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

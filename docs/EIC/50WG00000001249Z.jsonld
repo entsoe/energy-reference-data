@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001249Z",
-    "@skos:prefLabel": "ORKDAL  G132 HYDRO",
-    "@skos:altLabel": "NO-ORKDAL__G132_",
+    "@skos:prefLabel": "SVORKMO G132 HYDRO",
+    "@skos:altLabel": "NO-SVORKMOG132",
     "@cim:IdentifiedObject.mRID": "50WG00000001249Z",
-    "@cim:IdentifiedObject.name": "ORKDAL  G132 HYDRO",
+    "@cim:IdentifiedObject.name": "SVORKMO G132 HYDRO",
     "@cim:Names.name": [
-        "NO-ORKDAL__G132_",
+        "NO-SVORKMOG132",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

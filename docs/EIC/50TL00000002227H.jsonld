@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002227H",
-    "@skos:prefLabel": "M 66 T_Linnvasselv-Tunnsjø",
-    "@skos:altLabel": "NO-TLINNVASSTUNN",
+    "@skos:prefLabel": "N 66 T_Linnvasselv-Tunnsjø",
+    "@skos:altLabel": "NO-66T_LINNNNSJO",
     "@cim:IdentifiedObject.mRID": "50TL00000002227H",
-    "@cim:IdentifiedObject.name": "M 66 T_Linnvasselv-Tunnsjø",
+    "@cim:IdentifiedObject.name": "N 66 T_Linnvasselv-Tunnsjø",
     "@cim:Names.name": [
-        "NO-TLINNVASSTUNN",
+        "NO-66T_LINNNNSJO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

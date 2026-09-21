@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000005271" ;
-    cim:IdentifiedObject.name "GLOMFJORG101 HYDRO" ;
+    cim:IdentifiedObject.name "GLOMFJORG102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GLOMFJORG101_" ;
+        "NO-GLOMFJORG102" ;
     dcterms:identifier "urn:eic:50WG000000005271" ;
-    skos:altLabel "NO-GLOMFJORG101_" ;
+    skos:altLabel "NO-GLOMFJORG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GLOMFJORG101 HYDRO" ;
+    skos:prefLabel "GLOMFJORG102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

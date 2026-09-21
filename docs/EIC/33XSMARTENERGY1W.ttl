@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-09" ;
+    cim:DateAndOrTime.date "2025-01-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "33XSMARTENERGY1W" ;
-    cim:IdentifiedObject.name "SMART ENERGY TRADE DOOEL " ;
+    cim:IdentifiedObject.name "SMART ENERGY TRADING DOOEL " ;
     cim:Names.name "MK4032022555611",
         "SMARTENERGY1",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "MK4032022555611" ;
     skos:altLabel "SMARTENERGY1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SMART ENERGY TRADE DOOEL " ;
+    skos:prefLabel "SMART ENERGY TRADING DOOEL " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

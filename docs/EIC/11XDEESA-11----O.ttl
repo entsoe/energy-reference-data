@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEESA-11----O" ;
     cim:IdentifiedObject.name "DeESA GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE272091722",
-        "JOSEF-PAULI" ;
+    cim:Names.name "DE272091722",
+        "JOSEF-PAULI",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDEESA-11----O" ;
     schema1:vatID "DE272091722" ;
     skos:altLabel "JOSEF-PAULI" ;

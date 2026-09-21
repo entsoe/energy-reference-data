@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-08-25" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XMETTF-1234--H" ;
     cim:IdentifiedObject.name "METROPOLITANO DE TENERIFE S.A." ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XMETTF-1234--H" ;
     schema1:vatID "ESA38620209" ;
     skos:altLabel "METTF" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "METROPOLITANO DE TENERIFE S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-04-06" ;
+    cim:DateAndOrTime.date "2026-03-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Tieline" ;
     cim:IdentifiedObject.mRID "10T-BG-GR-00001B" ;
-    cim:IdentifiedObject.name "Blagoevgrad-Thessaloniki" ;
-    cim:Names.name "L_BLAGOE-THESSAL",
+    cim:IdentifiedObject.name "Blagoevgrad-Lagadas" ;
+    cim:Names.name "L_BLAGOE-LAGADAS",
         "Tieline" ;
     dcterms:identifier "urn:eic:10T-BG-GR-00001B" ;
-    skos:altLabel "L_BLAGOE-THESSAL" ;
-    skos:definition "Tieline"@en ;
+    skos:altLabel "L_BLAGOE-LAGADAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Blagoevgrad-Thessaloniki" ;
+    skos:prefLabel "Blagoevgrad-Lagadas" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

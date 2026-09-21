@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50YBHOBGFUXZSBHS> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50YBHOBGFUXZSBHS" ;
+    cim:IdentifiedObject.name "BKKP3 Steinsl" ;
+    cim:Names.name "Metering Grid Area",
+        "NO_BKKP3_STEINSL" ;
+    dcterms:identifier "urn:eic:50YBHOBGFUXZSBHS" ;
+    skos:altLabel "NO_BKKP3_STEINSL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BKKP3 Steinsl" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

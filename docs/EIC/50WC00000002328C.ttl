@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WC00000002328C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50WC00000002328C" ;
+    cim:IdentifiedObject.name "S Flotmyr  22  2L1 Forbruk" ;
+    cim:Names.name "Load",
+        "NO-FLOTMYR22" ;
+    dcterms:identifier "urn:eic:50WC00000002328C" ;
+    skos:altLabel "NO-FLOTMYR22" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Flotmyr  22  2L1 Forbruk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

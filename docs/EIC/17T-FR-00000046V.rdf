@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:17T-FR-00000046V</dcterms:identifier>
-    <skos:prefLabel>L 400kV N0 1 PRAZ ST ANDRE 1-PRAZ ST ANDRE 2-VILLARODIN</skos:prefLabel>
+    <skos:prefLabel>L 400kV N0 1 PRAZ ST AND 1-PRAZ ST AND 2-VILLARO</skos:prefLabel>
     <skos:altLabel>FR_P-ANDZ71VLARO</skos:altLabel>
     <skos:definition xml:lang="en">Internal Tie-Line</skos:definition>
     <cim:IdentifiedObject.mRID>17T-FR-00000046V</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>L 400kV N0 1 PRAZ ST ANDRE 1-PRAZ ST ANDRE 2-VILLARODIN</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>L 400kV N0 1 PRAZ ST AND 1-PRAZ ST AND 2-VILLARO</cim:IdentifiedObject.name>
     <cim:Names.name>FR_P-ANDZ71VLARO</cim:Names.name>
     <cim:IdentifiedObject.description>Internal Tie-Line</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-12-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-12-12</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Tie-Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

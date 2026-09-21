@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001305E",
     "@skos:prefLabel": "RANA    G3      HYDRO",
-    "@skos:altLabel": "NO-RANA____G3___",
+    "@skos:altLabel": "NO-RANAG3",
     "@cim:IdentifiedObject.mRID": "50WG00000001305E",
     "@cim:IdentifiedObject.name": "RANA    G3      HYDRO",
     "@cim:Names.name": [
-        "NO-RANA____G3___",
+        "NO-RANAG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

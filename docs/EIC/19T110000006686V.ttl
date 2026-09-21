@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006686V" ;
-    cim:IdentifiedObject.name "Zgierz-Adamów" ;
+    cim:IdentifiedObject.name "220kV Adamow-Zgierz" ;
     cim:Names.name "205",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006686V" ;
     skos:altLabel "205" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Zgierz-Adamów" ;
+    skos:prefLabel "220kV Adamow-Zgierz" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

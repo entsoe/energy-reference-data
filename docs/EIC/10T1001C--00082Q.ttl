@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "10T1001C--00082Q" ;
     cim:IdentifiedObject.name "Tieline L_LIXHE_OBERZ BE DE" ;
-    cim:Names.name "L_LIXHE_OBERZ_T" ;
+    cim:Names.name "L_LIXHE_OBERZ_T",
+        "Tieline" ;
     dcterms:identifier "urn:eic:10T1001C--00082Q" ;
     skos:altLabel "L_LIXHE_OBERZ_T" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

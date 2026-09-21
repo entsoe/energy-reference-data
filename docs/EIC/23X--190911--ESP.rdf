@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>23X--190911--ESP</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Engie Energy Marketing Singapore Pte Ltd</cim:IdentifiedObject.name>
     <cim:Names.name>ENGIE_SINGAPORE</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Company is incorporated in Singapore. There is no EU VAT available. Company registration number: 201907856R Registration number confirmed through an official document by ACRA.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-09-11</cim:DateAndOrTime.date>
     <cim:Names.name>LNG System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

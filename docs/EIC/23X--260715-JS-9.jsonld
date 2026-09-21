@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--260715-JS-9",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--260715-JS-9",
+    "@skos:prefLabel": "JANE STREET GLOBAL TRADING, LLC ",
+    "@skos:altLabel": "JANE_STREET_GT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company registration number: 3960074\nCompany register in 250 Vesey Street, 3rd Floor, New York, NY 10281, US"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--260715-JS-9",
+    "@cim:IdentifiedObject.name": "JANE STREET GLOBAL TRADING, LLC ",
+    "@cim:Names.name": [
+        "JANE_STREET_GT",
+        "A0021155N.NL",
+        "20-2794310",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Company registration number: 3960074\nCompany register in 250 Vesey Street, 3rd Floor, New York, NY 10281, US",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-20",
+    "@schema:vatID": "20-2794310",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -5,14 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:22W2019061111--1</dcterms:identifier>
     <skos:prefLabel>SCHAERBEEK SIOMAB ST</skos:prefLabel>
-    <skos:altLabel>BE_GU_SCARBST</skos:altLabel>
+    <skos:altLabel>BE_PU_SCARBST</skos:altLabel>
     <cim:IdentifiedObject.mRID>22W2019061111--1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SCHAERBEEK SIOMAB ST</cim:IdentifiedObject.name>
-    <cim:Names.name>BE_GU_SCARBST</cim:Names.name>
+    <cim:Names.name>BE_PU_SCARBST</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-06-11</cim:DateAndOrTime.date>
-    <cim:Names.name>Generation Unit</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-04-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

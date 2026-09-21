@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000001135" ;
     cim:IdentifiedObject.name "S 132 Arlifoss-Grønvollfoss" ;
     cim:Names.name "Internal Line",
-        "NO-ARLIFOSSGRONV" ;
+        "NO-132ARLIFOSSGR" ;
     dcterms:identifier "urn:eic:50TL000000001135" ;
-    skos:altLabel "NO-ARLIFOSSGRONV" ;
+    skos:altLabel "NO-132ARLIFOSSGR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Arlifoss-Grønvollfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

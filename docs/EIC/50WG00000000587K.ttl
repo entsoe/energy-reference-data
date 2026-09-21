@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000587K" ;
-    cim:IdentifiedObject.name "HAFSL_KRG2      HYDRO" ;
+    cim:IdentifiedObject.name "HAFSLUNDG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HAFSL_KRG2___" ;
+        "NO-HAFSLUNDG2" ;
     dcterms:identifier "urn:eic:50WG00000000587K" ;
-    skos:altLabel "NO-HAFSL_KRG2___" ;
+    skos:altLabel "NO-HAFSLUNDG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HAFSL_KRG2      HYDRO" ;
+    skos:prefLabel "HAFSLUNDG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

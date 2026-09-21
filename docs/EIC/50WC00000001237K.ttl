@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001237K" ;
     cim:IdentifiedObject.name "S Bærums V 47  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BARUMS_VE47T3" ;
+        "NO-BARUMS_VK47T3" ;
     dcterms:identifier "urn:eic:50WC00000001237K" ;
-    skos:altLabel "NO-BARUMS_VE47T3" ;
+    skos:altLabel "NO-BARUMS_VK47T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Bærums V 47  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

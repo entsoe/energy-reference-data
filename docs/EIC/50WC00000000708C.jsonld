@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000708C",
-    "@skos:prefLabel": "M Ålmo     66  Forbruk",
-    "@skos:altLabel": "NO-ALMO66",
+    "@skos:prefLabel": "N Ålmo     66  RT2 Forbruk",
+    "@skos:altLabel": "NO-ALMO66RT2",
     "@cim:IdentifiedObject.mRID": "50WC00000000708C",
-    "@cim:IdentifiedObject.name": "M Ålmo     66  Forbruk",
+    "@cim:IdentifiedObject.name": "N Ålmo     66  RT2 Forbruk",
     "@cim:Names.name": [
-        "NO-ALMO66",
+        "NO-ALMO66RT2",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

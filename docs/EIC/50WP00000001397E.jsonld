@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001397E",
     "@skos:prefLabel": "Osa",
-    "@skos:altLabel": "NO-OSA_PL",
+    "@skos:altLabel": "NO-OSA_V01",
     "@cim:IdentifiedObject.mRID": "50WP00000001397E",
     "@cim:IdentifiedObject.name": "Osa",
     "@cim:Names.name": [
-        "NO-OSA_PL",
+        "NO-OSA_V01",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

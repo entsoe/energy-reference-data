@@ -4,18 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XEDF-TORUN---1</dcterms:identifier>
-    <skos:prefLabel>EDF TORU&#323; SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
-    <skos:altLabel>EDF_TORUN_SA</skos:altLabel>
+    <skos:prefLabel>PGE TORU&#323; SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>PGE_TORUN_SA</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>19XEDF-TORUN---1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EDF TORU&#323; SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
-    <cim:Names.name>EDF_TORUN_SA</cim:Names.name>
+    <cim:IdentifiedObject.name>PGE TORU&#323; SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>PGE_TORUN_SA</cim:Names.name>
+    <cim:Names.name>A0009987U.PL</cim:Names.name>
     <cim:Names.name>PL8790170662</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-12-17</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8790170662</schema:vatID>
   </skos:Concept>

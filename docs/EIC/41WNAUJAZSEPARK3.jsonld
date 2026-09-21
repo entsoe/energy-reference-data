@@ -1,0 +1,41 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WNAUJAZSEPARK3",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WNAUJAZSEPARK3",
+    "@skos:prefLabel": "Naujažėrio SE ",
+    "@skos:altLabel": "NAUJAZERIOSEPARK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB VĖJO GALIA\n305785700\nLT100014907014\n+370 687 43043\naidas@vejogalia.eu\n"
+    },
+    "@cim:IdentifiedObject.mRID": "41WNAUJAZSEPARK3",
+    "@cim:IdentifiedObject.name": "Naujažėrio SE ",
+    "@cim:Names.name": [
+        "NAUJAZERIOSEPARK",
+        "Production Plant",
+        "Resource Object"
+    ],
+    "@cim:IdentifiedObject.description": "UAB VĖJO GALIA\n305785700\nLT100014907014\n+370 687 43043\naidas@vejogalia.eu\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-07-22",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

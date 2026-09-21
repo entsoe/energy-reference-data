@@ -16,7 +16,10 @@
     "@skos:altLabel": "TSRENCP3",
     "@cim:IdentifiedObject.mRID": "11W0-0000-0204-1",
     "@cim:IdentifiedObject.name": "TSRENCP3",
-    "@cim:Names.name": "TSRENCP3",
+    "@cim:Names.name": [
+        "TSRENCP3",
+        "Generation"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

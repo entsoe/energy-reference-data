@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000905W",
-    "@skos:prefLabel": "KVILLDALG101 HYDRO",
-    "@skos:altLabel": "NO-KVILLDALG101_",
+    "@skos:prefLabel": "VEKA    G101 HYDRO",
+    "@skos:altLabel": "NO-VEKAG101",
     "@cim:IdentifiedObject.mRID": "50WG00000000905W",
-    "@cim:IdentifiedObject.name": "KVILLDALG101 HYDRO",
+    "@cim:IdentifiedObject.name": "VEKA    G101 HYDRO",
     "@cim:Names.name": [
-        "NO-KVILLDALG101_",
+        "NO-VEKAG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

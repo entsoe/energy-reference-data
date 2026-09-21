@@ -6,15 +6,17 @@
     <dcterms:identifier>urn:eic:17X100A100R0172T</dcterms:identifier>
     <skos:prefLabel>Total Direct Energie SA</skos:prefLabel>
     <skos:altLabel>FR_TOTAL_DE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party, Trade Responsible Party</skos:definition>
+    <skos:definition xml:lang="en">Balance Responsible Party, Trade Responsible Party
+Update Status</skos:definition>
     <cim:IdentifiedObject.mRID>17X100A100R0172T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Total Direct Energie SA</cim:IdentifiedObject.name>
     <cim:Names.name>FR_TOTAL_DE</cim:Names.name>
     <cim:Names.name>FR55442395448</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party, Trade Responsible Party</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Balance Responsible Party, Trade Responsible Party
+Update Status</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-11</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

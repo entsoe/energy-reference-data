@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000119590Z",
-    "@skos:prefLabel": "Limited Lability Company GLOBAL ENERGY SOLUTIONS",
+    "@skos:prefLabel": " GLOBAL ENERGY SOLUTIONS Limited Lability Company",
     "@skos:altLabel": "GES_LLC",
     "@cim:IdentifiedObject.mRID": "56X930000119590Z",
-    "@cim:IdentifiedObject.name": "Limited Lability Company GLOBAL ENERGY SOLUTIONS",
+    "@cim:IdentifiedObject.name": " GLOBAL ENERGY SOLUTIONS Limited Lability Company",
     "@cim:Names.name": [
         "GES_LLC",
         "448232426595",
@@ -24,7 +24,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-21",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "448232426595",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

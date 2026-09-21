@@ -1,0 +1,48 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/69X8D5147MZXFRY2",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:69X8D5147MZXFRY2",
+    "@skos:prefLabel": "ABIO POWER LTD",
+    "@skos:altLabel": "ABIO_POWER",
+    "@cim:IdentifiedObject.mRID": "69X8D5147MZXFRY2",
+    "@cim:IdentifiedObject.name": "ABIO POWER LTD",
+    "@cim:Names.name": [
+        "ABIO_POWER",
+        "CY10407791D",
+        "Balance Responsible Party",
+        "Consumer",
+        "Energy Supplier",
+        "Imbalance Settlement Responsible",
+        "Information Provider",
+        "Network User",
+        "Party Connected To Grid",
+        "Resource Aggregator",
+        "Resource Provider",
+        "Balancing Service Provider",
+        "Flexibility Service Provider",
+        "Data Access Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-24",
+    "@schema:vatID": "CY10407791D",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

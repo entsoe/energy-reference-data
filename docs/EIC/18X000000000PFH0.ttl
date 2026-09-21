@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PFH0> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PFH0" ;
+    cim:IdentifiedObject.name "DOLOMIAS DE ARAGON SL" ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-DOLOMIAS",
+        "ESB50645290" ;
+    dcterms:identifier "urn:eic:18X000000000PFH0" ;
+    schema1:vatID "ESB50645290" ;
+    skos:altLabel "ES-DOLOMIAS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DOLOMIAS DE ARAGON SL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

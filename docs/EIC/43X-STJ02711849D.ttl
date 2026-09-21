@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02711849D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02711849D" ;
+    cim:IdentifiedObject.name "Rezekne PV SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV50203296541",
+        "STJ02711849D" ;
+    dcterms:identifier "urn:eic:43X-STJ02711849D" ;
+    schema1:vatID "LV50203296541" ;
+    skos:altLabel "STJ02711849D" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Rezekne PV SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

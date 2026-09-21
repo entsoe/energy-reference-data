@@ -16,9 +16,9 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-10-20</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
-    <cim:Names.name>Consumer</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>EL094014004</schema:vatID>

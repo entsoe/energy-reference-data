@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067632",
-    "@skos:prefLabel": "Kędzierzyn-Groszowice",
+    "@skos:prefLabel": "220kV Groszowice-Kedzierzyn",
     "@skos:altLabel": "3501",
     "@cim:IdentifiedObject.mRID": "19T1100000067632",
-    "@cim:IdentifiedObject.name": "Kędzierzyn-Groszowice",
+    "@cim:IdentifiedObject.name": "220kV Groszowice-Kedzierzyn",
     "@cim:Names.name": [
         "3501",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

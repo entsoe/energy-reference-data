@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-12" ;
+    cim:DateAndOrTime.date "2026-05-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26W-S03TVZZ1159W" ;
-    cim:IdentifiedObject.name "IM_S03TVZZUP_115980_31571" ;
+    cim:IdentifiedObject.name "IM_S03TVZZ UP_TAVAZZANO_1" ;
     cim:Names.name "IT-IM-S03TVZZ571",
         "Production Unit" ;
     dcterms:identifier "urn:eic:26W-S03TVZZ1159W" ;
     skos:altLabel "IT-IM-S03TVZZ571" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "IM_S03TVZZUP_115980_31571" ;
+    skos:prefLabel "IM_S03TVZZ UP_TAVAZZANO_1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

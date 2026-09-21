@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:33XGREENCORE-78T</dcterms:identifier>
-    <skos:prefLabel>Grinkor trejd DOO uvoz-izvoz Gevgelija</skos:prefLabel>
+    <skos:prefLabel>GREENCORE TRADE LLC import-export Gevgelija</skos:prefLabel>
     <skos:altLabel>GCTDOO</skos:altLabel>
     <cim:IdentifiedObject.mRID>33XGREENCORE-78T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Grinkor trejd DOO uvoz-izvoz Gevgelija</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>GREENCORE TRADE LLC import-export Gevgelija</cim:IdentifiedObject.name>
     <cim:Names.name>GCTDOO</cim:Names.name>
     <cim:Names.name>4006023519057</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-13</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>4006023519057</schema:vatID>

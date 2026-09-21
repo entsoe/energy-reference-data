@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/34X-0000000122-I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "34X-0000000122-I" ;
+    cim:IdentifiedObject.name "Pure Energy 2012 doo" ;
+    cim:Names.name "107747675",
+        "PURE",
+        "Producer" ;
+    dcterms:identifier "urn:eic:34X-0000000122-I" ;
+    schema1:vatID "107747675" ;
+    skos:altLabel "PURE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Pure Energy 2012 doo" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

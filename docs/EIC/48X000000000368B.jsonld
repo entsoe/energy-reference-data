@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000368B",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000368B",
+    "@skos:prefLabel": "Dare Sustainable Solutions Limited",
+    "@skos:altLabel": "DSSL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "43-45 Dorset Street,\nLondon W1U 7NA\nUnited Kingdom\n\nLuke Pattison\nPoweroperations@dare.global\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000368B",
+    "@cim:IdentifiedObject.name": "Dare Sustainable Solutions Limited",
+    "@cim:Names.name": [
+        "DSSL",
+        "GB363646480",
+        "Capacity Trader"
+    ],
+    "@cim:IdentifiedObject.description": "43-45 Dorset Street,\nLondon W1U 7NA\nUnited Kingdom\n\nLuke Pattison\nPoweroperations@dare.global\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-15",
+    "@schema:vatID": "GB363646480",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

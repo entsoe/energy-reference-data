@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002524B" ;
-    cim:IdentifiedObject.name "M Svorkmo 66 M1_X" ;
+    cim:IdentifiedObject.name "N Svorkmo  66  M1_X" ;
     cim:Names.name "Internal Line",
-        "NO-SVORKMO66M1X" ;
+        "NO-SVORKMO66M1_X" ;
     dcterms:identifier "urn:eic:50TL00000002524B" ;
-    skos:altLabel "NO-SVORKMO66M1X" ;
+    skos:altLabel "NO-SVORKMO66M1_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Svorkmo 66 M1_X" ;
+    skos:prefLabel "N Svorkmo  66  M1_X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

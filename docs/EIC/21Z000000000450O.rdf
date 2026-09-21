@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000450O</dcterms:identifier>
-    <skos:prefLabel>ELPE HAR</skos:prefLabel>
+    <skos:prefLabel>ELPE-HAR</skos:prefLabel>
     <skos:altLabel>ELPE-HAR-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point</skos:definition>
+    <skos:definition xml:lang="en">Connection with the Final Consumer</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000450O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELPE HAR</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ELPE-HAR</cim:IdentifiedObject.name>
     <cim:Names.name>ELPE-HAR-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Connection with the Final Consumer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-11-07</cim:DateAndOrTime.date>
-    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-06</cim:DateAndOrTime.date>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

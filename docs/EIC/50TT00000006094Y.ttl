@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006094Y" ;
-    cim:IdentifiedObject.name "M Alsten   RT1 Transformator" ;
-    cim:Names.name "NO-ALSTEN__RT1",
+    cim:IdentifiedObject.name "N Alsten   RT1 Transformator" ;
+    cim:Names.name "NO-ALSTENRT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006094Y" ;
-    skos:altLabel "NO-ALSTEN__RT1" ;
+    skos:altLabel "NO-ALSTENRT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Alsten   RT1 Transformator" ;
+    skos:prefLabel "N Alsten   RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

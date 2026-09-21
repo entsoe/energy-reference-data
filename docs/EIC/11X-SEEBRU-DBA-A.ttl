@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-SEEBRU-DBA-A" ;
     cim:IdentifiedObject.name "Stromversorgung Seebruck eG" ;
-    cim:Names.name "Balance Group",
-        "DE131565612",
-        "SV-SEEBRUCK-DBA" ;
+    cim:Names.name "DE131565612",
+        "SV-SEEBRUCK-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-SEEBRU-DBA-A" ;
     schema1:vatID "DE131565612" ;
     skos:altLabel "SV-SEEBRUCK-DBA" ;

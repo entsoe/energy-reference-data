@@ -18,11 +18,12 @@
     "@cim:IdentifiedObject.name": "Walney (UK) Offshore Windfarms Limited",
     "@cim:Names.name": [
         "WALNEY_UOWL",
-        "GB867896833"
+        "GB867896833",
+        "Trade Responsible Party"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-07-09",
+    "@cim:DateAndOrTime.date": "2025-03-11",
     "@schema:vatID": "GB867896833",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

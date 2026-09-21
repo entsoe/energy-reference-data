@@ -6,14 +6,12 @@
     <dcterms:identifier>urn:eic:21W000000000090X</dcterms:identifier>
     <skos:prefLabel>UGS Bremen-Lesum</skos:prefLabel>
     <skos:altLabel>UGS-BREMEN-LESUM</skos:altLabel>
-    <skos:definition xml:lang="en">Resource Object</skos:definition>
     <cim:IdentifiedObject.mRID>21W000000000090X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>UGS Bremen-Lesum</cim:IdentifiedObject.name>
     <cim:Names.name>UGS-BREMEN-LESUM</cim:Names.name>
-    <cim:IdentifiedObject.description>Resource Object</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-07</cim:DateAndOrTime.date>
     <cim:Names.name>Resource Object</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

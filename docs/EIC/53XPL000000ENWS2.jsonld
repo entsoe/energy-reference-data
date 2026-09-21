@@ -22,15 +22,20 @@
     "@cim:IdentifiedObject.name": "ESV Wisłosan Sp. z o.o.",
     "@cim:Names.name": [
         "ESV-WISLOSAN",
-        "PL8671871281",
+        "8671871281",
         "Capacity Trader",
-        "Consumer"
+        "Consumer",
+        "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:IdentifiedObject.description": "Capacity Trader, Consumer, Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-09-21",
-    "@schema:vatID": "PL8671871281",
+    "@cim:DateAndOrTime.date": "2026-04-08",
+    "@schema:vatID": "8671871281",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

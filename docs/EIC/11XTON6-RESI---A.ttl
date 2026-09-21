@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-04-26" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:DateAndOrTime.date "2024-09-18" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XTON6-RESI---A" ;
     cim:IdentifiedObject.name "TenneT Offshore 9. Beteiligungsgesellschaft mbH" ;
     cim:Names.name "Balance Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:11XTON6-RESI---A" ;
     schema1:vatID "DE284075035" ;
     skos:altLabel "TON6-RESI" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TenneT Offshore 9. Beteiligungsgesellschaft mbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

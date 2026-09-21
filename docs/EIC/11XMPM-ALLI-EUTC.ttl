@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XMPM-ALLI-EUTC" ;
     cim:IdentifiedObject.name "EEG Energie- Einkaufs- und Service GmbH" ;
-    cim:Names.name "DE194712373",
-        "EEG-MPM-ALLI-EUT",
-        "balance group" ;
+    cim:Names.name "Balance Group Responsible Party",
+        "DE194712373",
+        "EEG-MPM-ALLI-EUT" ;
     dcterms:identifier "urn:eic:11XMPM-ALLI-EUTC" ;
     schema1:vatID "DE194712373" ;
     skos:altLabel "EEG-MPM-ALLI-EUT" ;

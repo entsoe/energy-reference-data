@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000000406" ;
     cim:IdentifiedObject.name "S 110 T_Mikkel-Leire" ;
     cim:Names.name "Internal Line",
-        "NO-TMIKKELLEIRE" ;
+        "NO-110T_MIKKELLE" ;
     dcterms:identifier "urn:eic:50TL000000000406" ;
-    skos:altLabel "NO-TMIKKELLEIRE" ;
+    skos:altLabel "NO-110T_MIKKELLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 110 T_Mikkel-Leire" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

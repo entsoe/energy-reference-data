@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Supplier, Balance Group Responsible Party, Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "12X-0000001836-N" ;
     cim:IdentifiedObject.name "Nvalue SA" ;
-    cim:Names.name "CH685609",
+    cim:Names.name "Balance Responsible Party",
+        "CH685609",
         "Energy Supplier",
         "NVALUE_AG-ST" ;
     dcterms:identifier "urn:eic:12X-0000001836-N" ;

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XNANDW-12345-X",
     "@skos:prefLabel": "NANDWANI BROTHER SL",
     "@skos:altLabel": "NANDW",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNANDW-12345-X",
     "@cim:IdentifiedObject.name": "NANDWANI BROTHER SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB35879113",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB35879113",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMLCELTD-----I" ;
     cim:IdentifiedObject.name "Merrill Lynch Commodities (Europe) Limited" ;
-    cim:Names.name "Balance Group",
-        "GB245122493",
-        "MLCELTD" ;
+    cim:Names.name "GB245122493",
+        "MLCELTD",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMLCELTD-----I" ;
     schema1:vatID "GB245122493" ;
     skos:altLabel "MLCELTD" ;

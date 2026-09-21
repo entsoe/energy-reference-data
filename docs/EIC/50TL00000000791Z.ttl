@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000791Z" ;
-    cim:IdentifiedObject.name "S 15 Øgreyfoss-Slettebø" ;
+    cim:IdentifiedObject.name "S 15 Øgreyfoss-Svanevannsveien" ;
     cim:Names.name "Internal Line",
-        "NO-OGREYFOSSSLET" ;
+        "NO-15OGREYFOSSSV" ;
     dcterms:identifier "urn:eic:50TL00000000791Z" ;
-    skos:altLabel "NO-OGREYFOSSSLET" ;
+    skos:altLabel "NO-15OGREYFOSSSV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 15 Øgreyfoss-Slettebø" ;
+    skos:prefLabel "S 15 Øgreyfoss-Svanevannsveien" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

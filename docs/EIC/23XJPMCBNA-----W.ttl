@@ -7,18 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-08-10" ;
+    cim:DateAndOrTime.date "2025-07-28" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
+    cim:IdentifiedObject.description """Tax number confirmed through Department of Taxation and Finance: 134994650C
+Company registered in the United States of America""" ;
     cim:IdentifiedObject.mRID "23XJPMCBNA-----W" ;
     cim:IdentifiedObject.name "JP Morgan Chase Bank National Association" ;
-    cim:Names.name "GB397249893",
-        "JPMORGAN",
-        "Trade Responsible Party" ;
+    cim:Names.name "134994650C",
+        "A00243661.DE",
+        "Balance Responsible Party",
+        "JPMORGAN" ;
     dcterms:identifier "urn:eic:23XJPMCBNA-----W" ;
-    schema1:vatID "GB397249893" ;
+    schema1:vatID "134994650C" ;
     skos:altLabel "JPMORGAN" ;
-    skos:definition "Trade Responsible Party"@en ;
+    skos:definition """Tax number confirmed through Department of Taxation and Finance: 134994650C
+Company registered in the United States of America"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "JP Morgan Chase Bank National Association" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

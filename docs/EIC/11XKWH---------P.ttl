@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XKWH---------P" ;
     cim:IdentifiedObject.name "Kreiswerke Heinsberg GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE122486479",
-        "KWH" ;
+    cim:Names.name "DE122486479",
+        "KWH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKWH---------P" ;
     schema1:vatID "DE122486479" ;
     skos:altLabel "KWH" ;

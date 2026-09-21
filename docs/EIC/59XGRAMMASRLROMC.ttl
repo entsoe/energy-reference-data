@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XGRAMMASRLROMC> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XGRAMMASRLROMC" ;
+    cim:IdentifiedObject.name "GRAMMA SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "GRAMMASRL",
+        "IT10599611216" ;
+    dcterms:identifier "urn:eic:59XGRAMMASRLROMC" ;
+    schema1:vatID "IT10599611216" ;
+    skos:altLabel "GRAMMASRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GRAMMA SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,24 +12,34 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000ELSNW",
-    "@skos:prefLabel": "ELSEN S.A.",
+    "@skos:prefLabel": "ELSEN S.A. w upadłości",
     "@skos:altLabel": "ELSEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumer, Distribution System Operator, Network User, Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "53XPL000000ELSNW",
-    "@cim:IdentifiedObject.name": "ELSEN S.A.",
+    "@cim:IdentifiedObject.name": "ELSEN S.A. w upadłości",
     "@cim:Names.name": [
         "ELSEN",
+        "A00039664.PL",
         "PL9491729613",
         "Consumer",
-        "Trade Responsible Party"
+        "Consumption Responsible Party",
+        "Distribution System Operator",
+        "Energy Supplier",
+        "Grid Operator",
+        "Information Provider",
+        "Measurement Service Provider",
+        "Meter Administrator",
+        "Network User",
+        "Producer",
+        "Production Responsible Party",
+        "System Operator",
+        "Trade Responsible Party",
+        "Grid Access Provider",
+        "Metered Data Responsible",
+        "Metering Point Administrator"
     ],
-    "@cim:IdentifiedObject.description": "Consumer, Distribution System Operator, Network User, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-05",
+    "@cim:DateAndOrTime.date": "2026-03-24",
     "@schema:vatID": "PL9491729613",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

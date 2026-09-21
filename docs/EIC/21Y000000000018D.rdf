@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Y000000000018D</dcterms:identifier>
     <skos:prefLabel>Virtual area for balancing gas Shipper emergency gas</skos:prefLabel>
     <skos:altLabel>NVP</skos:altLabel>
-    <skos:definition xml:lang="en">Virtual Market Area</skos:definition>
     <cim:IdentifiedObject.mRID>21Y000000000018D</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Virtual area for balancing gas Shipper emergency gas</cim:IdentifiedObject.name>
     <cim:Names.name>NVP</cim:Names.name>
-    <cim:IdentifiedObject.description>Virtual Market Area</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-25</cim:DateAndOrTime.date>
+    <cim:Names.name>Market Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

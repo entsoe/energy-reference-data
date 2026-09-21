@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "LONDON CREDIT s.r.o.",
     "@cim:Names.name": [
         "LONDONCREDIT",
-        "CZ24133086",
+        "cz24133086",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-01-26",
-    "@schema:vatID": "CZ24133086",
+    "@schema:vatID": "cz24133086",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-02-28" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCHESA-12345-H" ;
     cim:IdentifiedObject.name "CHESTE AGRARIA COOP.V." ;
     cim:Names.name "CHESA",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCHESA-12345-H" ;
     schema1:vatID "ESF96127949" ;
     skos:altLabel "CHESA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "CHESTE AGRARIA COOP.V." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

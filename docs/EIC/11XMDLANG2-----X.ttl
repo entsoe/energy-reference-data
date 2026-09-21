@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMDLANG2-----X" ;
     cim:IdentifiedObject.name "MD Lang Papier GmbH (2)" ;
-    cim:Names.name "Balance Group",
-        "DE129092565",
-        "MDLANG2" ;
+    cim:Names.name "DE129092565",
+        "MDLANG2",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMDLANG2-----X" ;
     schema1:vatID "DE129092565" ;
     skos:altLabel "MDLANG2" ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000002469",
     "@skos:prefLabel": "BOYLEFOSG6      HYDRO",
-    "@skos:altLabel": "NO-BOYLEFOSG6___",
+    "@skos:altLabel": "NO-BOYLEFOSG6",
     "@cim:IdentifiedObject.mRID": "50WG000000002469",
     "@cim:IdentifiedObject.name": "BOYLEFOSG6      HYDRO",
     "@cim:Names.name": [
-        "NO-BOYLEFOSG6___",
+        "NO-BOYLEFOSG6",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

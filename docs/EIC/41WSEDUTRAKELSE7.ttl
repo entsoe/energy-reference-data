@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WSEDUTRAKELSE7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "UAB “GG LTU S21” 306031151 LT100017181019 +37065283444 mantas.kasperavicius@greengenius.com" ;
+    cim:IdentifiedObject.mRID "41WSEDUTRAKELSE7" ;
+    cim:IdentifiedObject.name "TRAKELIŲ TP SE UAB GG LTU S21" ;
+    cim:Names.name "Production Unit",
+        "TRAKELIUTPSE" ;
+    dcterms:identifier "urn:eic:41WSEDUTRAKELSE7" ;
+    skos:altLabel "TRAKELIUTPSE" ;
+    skos:definition "UAB “GG LTU S21” 306031151 LT100017181019 +37065283444 mantas.kasperavicius@greengenius.com"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TRAKELIŲ TP SE UAB GG LTU S21" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

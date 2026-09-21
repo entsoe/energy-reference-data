@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-14" ;
+    cim:DateAndOrTime.date "2024-10-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator" ;
     cim:IdentifiedObject.mRID "55XFEDISTRIBUTIN" ;
     cim:IdentifiedObject.name "firmus energy Distribution Limited" ;
-    cim:Names.name "Distribution System Operator",
-        "FEDISTRIBUTION",
-        "GB877166775" ;
+    cim:Names.name "FEDISTRIBUTION",
+        "GB877166775",
+        "Meter Operator" ;
     dcterms:identifier "urn:eic:55XFEDISTRIBUTIN" ;
     schema1:vatID "GB877166775" ;
     skos:altLabel "FEDISTRIBUTION" ;

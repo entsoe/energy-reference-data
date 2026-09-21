@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-08-21" ;
+    cim:DateAndOrTime.date "2025-06-24" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEW-FISCHER--I" ;
-    cim:IdentifiedObject.name "FischerStrom KG" ;
-    cim:Names.name "15621720535",
-        "Balance Group",
+    cim:IdentifiedObject.name "FischerStrom GmbH & Co. KG" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE247338562",
         "E-WERK-FISCHER" ;
     dcterms:identifier "urn:eic:11XEW-FISCHER--I" ;
-    schema1:vatID "15621720535" ;
+    schema1:vatID "DE247338562" ;
     skos:altLabel "E-WERK-FISCHER" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FischerStrom KG" ;
+    skos:prefLabel "FischerStrom GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

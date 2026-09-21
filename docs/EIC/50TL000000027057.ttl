@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000027057" ;
-    cim:IdentifiedObject.name "S 22 Evanger-Tverrgjuvlo" ;
+    cim:IdentifiedObject.name "S 22 Vossedalselvi-Tverrgjuvlo" ;
     cim:Names.name "Internal Line",
-        "NO-EVANGERTVERRG" ;
+        "NO-22VOSSEDJUVLO" ;
     dcterms:identifier "urn:eic:50TL000000027057" ;
-    skos:altLabel "NO-EVANGERTVERRG" ;
+    skos:altLabel "NO-22VOSSEDJUVLO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Evanger-Tverrgjuvlo" ;
+    skos:prefLabel "S 22 Vossedalselvi-Tverrgjuvlo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

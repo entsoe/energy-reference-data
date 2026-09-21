@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XELGASENERGY-Q",
-    "@skos:prefLabel": "ELGAS ENERGY POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "@skos:altLabel": "ELGAS_ENERGY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
+    "@skos:prefLabel": "DUON TRADING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "DUON_TRADING",
     "@cim:IdentifiedObject.mRID": "19XELGASENERGY-Q",
-    "@cim:IdentifiedObject.name": "ELGAS ENERGY POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@cim:IdentifiedObject.name": "DUON TRADING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "ELGAS_ENERGY",
+        "DUON_TRADING",
+        "A0004029J.PL",
         "PL5471997923",
-        "Balance Responsible Party"
+        "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-01",
+    "@cim:DateAndOrTime.date": "2025-11-07",
     "@schema:vatID": "PL5471997923",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

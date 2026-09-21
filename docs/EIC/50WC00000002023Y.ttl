@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-24" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002023Y" ;
-    cim:IdentifiedObject.name "Sør-Norge Aluminium AS (Husnes)" ;
+    cim:IdentifiedObject.name "S Vrangfos 2   L1  Forbruk" ;
     cim:Names.name "Load",
-        "NO-SORALUHUSNES" ;
+        "NO-VRANGFOS2" ;
     dcterms:identifier "urn:eic:50WC00000002023Y" ;
-    skos:altLabel "NO-SORALUHUSNES" ;
+    skos:altLabel "NO-VRANGFOS2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sør-Norge Aluminium AS (Husnes)" ;
+    skos:prefLabel "S Vrangfos 2   L1  Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XGWH---------3",
     "@skos:prefLabel": "Gemeindewerke Hermaringen GmbH",
     "@skos:altLabel": "GWH",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XGWH---------3",
     "@cim:IdentifiedObject.name": "Gemeindewerke Hermaringen GmbH",
     "@cim:Names.name": [
         "GWH",
         "DE145617713",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-11-20",
     "@schema:vatID": "DE145617713",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

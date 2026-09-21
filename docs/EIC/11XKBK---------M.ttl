@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XKBK---------M" ;
     cim:IdentifiedObject.name "Kraftwerksbetriebsgesellschaft Kirchlengern mbH" ;
-    cim:Names.name "Balance Group",
-        "DE125364848",
-        "KBK" ;
+    cim:Names.name "DE125364848",
+        "KBK",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKBK---------M" ;
     schema1:vatID "DE125364848" ;
     skos:altLabel "KBK" ;

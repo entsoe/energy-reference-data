@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002569C",
     "@skos:prefLabel": "ROSTEN  G3      HYDRO",
-    "@skos:altLabel": "NO-ROSTEN__G3___",
+    "@skos:altLabel": "NO-ROSTENG3",
     "@cim:IdentifiedObject.mRID": "50WG00000002569C",
     "@cim:IdentifiedObject.name": "ROSTEN  G3      HYDRO",
     "@cim:Names.name": [
-        "NO-ROSTEN__G3___",
+        "NO-ROSTENG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005663Q",
-    "@skos:prefLabel": "M Sjønstå  T1 Transformator",
-    "@skos:altLabel": "NO-SJONSTA_T1",
+    "@skos:prefLabel": "N Sjønstå  T1 Transformator",
+    "@skos:altLabel": "NO-SJONSTAT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005663Q",
-    "@cim:IdentifiedObject.name": "M Sjønstå  T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Sjønstå  T1 Transformator",
     "@cim:Names.name": [
-        "NO-SJONSTA_T1",
+        "NO-SJONSTAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

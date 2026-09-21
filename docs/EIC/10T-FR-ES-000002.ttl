@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10T-FR-ES-000002> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "10T-FR-ES-000002" ;
+    cim:IdentifiedObject.name "Gatika2-Cubnez" ;
+    cim:Names.name "L_GATIKA2-CUBNEZ",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:10T-FR-ES-000002" ;
+    skos:altLabel "L_GATIKA2-CUBNEZ" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Gatika2-Cubnez" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

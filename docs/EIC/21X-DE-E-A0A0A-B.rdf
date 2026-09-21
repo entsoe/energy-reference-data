@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>21X-DE-E-A0A0A-B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GdF Deutschland Transport</cim:IdentifiedObject.name>
     <cim:Names.name>GDF-DT</cim:Names.name>
+    <cim:Names.name>Not known</cim:Names.name>
     <cim:IdentifiedObject.description>Transmission System Operator For Gas</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-28</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>Not known</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

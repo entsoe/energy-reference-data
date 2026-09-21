@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000003014",
     "@skos:prefLabel": "S 132 Hadeland-Lunner",
-    "@skos:altLabel": "NO-HADELANDLUNNE",
+    "@skos:altLabel": "NO-132HADELANDLU",
     "@cim:IdentifiedObject.mRID": "50TL000000003014",
     "@cim:IdentifiedObject.name": "S 132 Hadeland-Lunner",
     "@cim:Names.name": [
-        "NO-HADELANDLUNNE",
+        "NO-132HADELANDLU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

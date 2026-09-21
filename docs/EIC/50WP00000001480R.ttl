@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001480R" ;
     cim:IdentifiedObject.name "Øystad Mikrokraft" ;
-    cim:Names.name "NO-OYSTAD-MIKROK",
+    cim:Names.name "NO-OEYSTADMIKROK",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001480R" ;
-    skos:altLabel "NO-OYSTAD-MIKROK" ;
+    skos:altLabel "NO-OEYSTADMIKROK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Øystad Mikrokraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

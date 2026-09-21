@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003063G" ;
-    cim:IdentifiedObject.name "S 132 Åskåra-Lunden" ;
+    cim:IdentifiedObject.name "N 132 Åskåra-Lunden" ;
     cim:Names.name "Internal Line",
-        "NO-ASKARALUNDEN" ;
+        "NO-132ASKARALUND" ;
     dcterms:identifier "urn:eic:50TL00000003063G" ;
-    skos:altLabel "NO-ASKARALUNDEN" ;
+    skos:altLabel "NO-132ASKARALUND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Åskåra-Lunden" ;
+    skos:prefLabel "N 132 Åskåra-Lunden" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHKWDUISBURG2K" ;
     cim:IdentifiedObject.name "RWE Plus AG - HKW Duisburg 2" ;
-    cim:Names.name "Balance Group",
-        "DE192000514",
-        "HKWDUISBURG2" ;
+    cim:Names.name "DE192000514",
+        "HKWDUISBURG2",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHKWDUISBURG2K" ;
     schema1:vatID "DE192000514" ;
     skos:altLabel "HKWDUISBURG2" ;

@@ -13,18 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:26X0670442048506",
     "@skos:prefLabel": "VOLTY S.R.L.",
-    "@skos:altLabel": "VOLTY",
+    "@skos:altLabel": "IT-VOLTYSRLSRL",
     "@cim:IdentifiedObject.mRID": "26X0670442048506",
     "@cim:IdentifiedObject.name": "VOLTY S.R.L.",
     "@cim:Names.name": [
-        "VOLTY",
-        "A0013858R.IT",
+        "IT-VOLTYSRLSRL",
         "IT06704420485",
         "Market Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-05-10",
+    "@cim:DateAndOrTime.date": "2024-10-28",
     "@schema:vatID": "IT06704420485",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

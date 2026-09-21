@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/28X000000000087E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "28X000000000087E" ;
+    cim:IdentifiedObject.name "SIPRONIKA" ;
+    cim:Names.name "Balance Responsible Party",
+        "SI25964275",
+        "SIPRONIKA" ;
+    dcterms:identifier "urn:eic:28X000000000087E" ;
+    schema1:vatID "SI25964275" ;
+    skos:altLabel "SIPRONIKA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SIPRONIKA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

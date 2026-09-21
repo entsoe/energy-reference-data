@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000671V",
-    "@skos:prefLabel": "HJELMELAG1      HYDRO",
-    "@skos:altLabel": "NO-HJELMELAG1___",
+    "@skos:prefLabel": "HJELM_KRG1      HYDRO",
+    "@skos:altLabel": "NO-HJELM_KRG1",
     "@cim:IdentifiedObject.mRID": "50WG00000000671V",
-    "@cim:IdentifiedObject.name": "HJELMELAG1      HYDRO",
+    "@cim:IdentifiedObject.name": "HJELM_KRG1      HYDRO",
     "@cim:Names.name": [
-        "NO-HJELMELAG1___",
+        "NO-HJELM_KRG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-07-11",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

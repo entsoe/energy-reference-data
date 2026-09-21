@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000678F",
-    "@skos:prefLabel": "Kjorbekk",
+    "@skos:prefLabel": "Kjørbekk",
     "@skos:altLabel": "NO-KJORBEKK",
     "@cim:IdentifiedObject.mRID": "50A000000000678F",
-    "@cim:IdentifiedObject.name": "Kjorbekk",
+    "@cim:IdentifiedObject.name": "Kjørbekk",
     "@cim:Names.name": [
         "NO-KJORBEKK",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

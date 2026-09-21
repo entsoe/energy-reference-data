@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XORLAN-12345-N",
     "@skos:prefLabel": "ORLANDO PLAY SA",
     "@skos:altLabel": "ORLAN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XORLAN-12345-N",
     "@cim:IdentifiedObject.name": "ORLANDO PLAY SA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA04051546",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA04051546",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

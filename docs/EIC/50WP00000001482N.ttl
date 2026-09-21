@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001482N" ;
     cim:IdentifiedObject.name "Nedre Kivfallet" ;
-    cim:Names.name "NO-NEDRE-KIVFALL",
+    cim:Names.name "NO-NEDREKIVFALLE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001482N" ;
-    skos:altLabel "NO-NEDRE-KIVFALL" ;
+    skos:altLabel "NO-NEDREKIVFALLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Nedre Kivfallet" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

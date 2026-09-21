@@ -1,0 +1,26 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/23X--260729-AE-J">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:23X--260729-AE-J</dcterms:identifier>
+    <skos:prefLabel>AlbEsp Trading &amp; Consulting SH.P.K Dega n&#235; Kosov&#235;</skos:prefLabel>
+    <skos:altLabel>ALBESP_TC_XK</skos:altLabel>
+    <skos:definition xml:lang="en">National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330691510
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade:  812400852 </skos:definition>
+    <cim:IdentifiedObject.mRID>23X--260729-AE-J</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>AlbEsp Trading &amp; Consulting SH.P.K Dega n&#235; Kosov&#235;</cim:IdentifiedObject.name>
+    <cim:Names.name>ALBESP_TC_XK</cim:Names.name>
+    <cim:Names.name>330691510</cim:Names.name>
+    <cim:IdentifiedObject.description>National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330691510
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade:  812400852 </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-07-14</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Network User</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>330691510</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

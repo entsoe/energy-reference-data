@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27X-ENERKATE---W" ;
     cim:IdentifiedObject.name "ENERKATE s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ06574742",
-        "ENERKATE" ;
+        "ENERKATE",
+        "cz06574742" ;
     dcterms:identifier "urn:eic:27X-ENERKATE---W" ;
-    schema1:vatID "CZ06574742" ;
+    schema1:vatID "cz06574742" ;
     skos:altLabel "ENERKATE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENERKATE s.r.o." ;

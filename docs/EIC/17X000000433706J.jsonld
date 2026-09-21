@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/17X000000433706J",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:17X000000433706J",
+    "@skos:prefLabel": "Engie Green",
+    "@skos:altLabel": "FR_ENGIE_GREEN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Code international"
+    },
+    "@cim:IdentifiedObject.mRID": "17X000000433706J",
+    "@cim:IdentifiedObject.name": "Engie Green",
+    "@cim:Names.name": [
+        "FR_ENGIE_GREEN",
+        "FR93478826753",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "Code international",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-06-23",
+    "@schema:vatID": "FR93478826753",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

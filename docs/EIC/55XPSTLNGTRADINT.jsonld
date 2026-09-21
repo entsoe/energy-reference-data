@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:55XPSTLNGTRADINT",
-    "@skos:prefLabel": "PST LNG TRADING LIMITED",
-    "@skos:altLabel": "PSTLNGTRADING",
+    "@skos:prefLabel": "ORLEN LNG TRADING LIMITED",
+    "@skos:altLabel": "ORLENLNGTRADING",
     "@cim:IdentifiedObject.mRID": "55XPSTLNGTRADINT",
-    "@cim:IdentifiedObject.name": "PST LNG TRADING LIMITED",
+    "@cim:IdentifiedObject.name": "ORLEN LNG TRADING LIMITED",
     "@cim:Names.name": [
-        "PSTLNGTRADING",
+        "ORLENLNGTRADING",
         "GB431490612",
         "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-01",
+    "@cim:DateAndOrTime.date": "2026-04-14",
     "@schema:vatID": "GB431490612",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000058866" ;
     cim:IdentifiedObject.name "S Sylling  T2 Transformator" ;
-    cim:Names.name "NO-SYLLING_T2",
+    cim:Names.name "NO-SYLLINGT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000058866" ;
-    skos:altLabel "NO-SYLLING_T2" ;
+    skos:altLabel "NO-SYLLINGT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Sylling  T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

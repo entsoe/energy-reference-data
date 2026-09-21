@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001791U",
-    "@skos:prefLabel": "S 66 Gjuva-Brekkefoss",
-    "@skos:altLabel": "NO-GJUVABREKKEFO",
+    "@skos:prefLabel": "S 66 Holdemoen-Brekkefoss",
+    "@skos:altLabel": "NO-22HOLDEMOENBR",
     "@cim:IdentifiedObject.mRID": "50TL00000001791U",
-    "@cim:IdentifiedObject.name": "S 66 Gjuva-Brekkefoss",
+    "@cim:IdentifiedObject.name": "S 66 Holdemoen-Brekkefoss",
     "@cim:Names.name": [
-        "NO-GJUVABREKKEFO",
+        "NO-22HOLDEMOENBR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-03-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

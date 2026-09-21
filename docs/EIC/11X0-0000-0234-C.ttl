@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0234-C" ;
     cim:IdentifiedObject.name "H/E SYSTEMS GmbH" ;
-    cim:Names.name "DE287112527",
+    cim:Names.name "Balance Responsible Party",
+        "DE287112527",
         "HE_SYSTEMS" ;
     dcterms:identifier "urn:eic:11X0-0000-0234-C" ;
     schema1:vatID "DE287112527" ;

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/30XROMEGAWEST--H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "30XROMEGAWEST--H" ;
+    cim:IdentifiedObject.name "MEGAWEST" ;
+    cim:Names.name "Energy Trader",
+        "RO52232674",
+        "RO_MEGAWEST" ;
+    dcterms:identifier "urn:eic:30XROMEGAWEST--H" ;
+    schema1:vatID "RO52232674" ;
+    skos:altLabel "RO_MEGAWEST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MEGAWEST" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

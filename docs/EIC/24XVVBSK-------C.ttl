@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Produce And Distribution (Sk: Prevydzkovanie Vodnych Diel, Vyroba, Prenos, Distribăşcia A Dodyvka Elektriny, Inžiniersko-Investorsky Činnosĺą)" ;
     cim:IdentifiedObject.mRID "24XVVBSK-------C" ;
     cim:IdentifiedObject.name "Vodohospodarska vystavba, statny podnik" ;
-    cim:Names.name "SK2020480198",
-        "VVBSK",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Producer",
+        "SK2020480198",
+        "Trade Responsible Party",
+        "VVBSK" ;
     dcterms:identifier "urn:eic:24XVVBSK-------C" ;
     schema1:vatID "SK2020480198" ;
     skos:altLabel "VVBSK" ;

@@ -16,20 +16,20 @@
     "@skos:altLabel": "KSAG",
     "@skos:definition": {
         "@language": "en",
-        "@value": "balance group"
+        "@value": "EIC code VAT number DE246284916"
     },
     "@cim:IdentifiedObject.mRID": "11XKSAG--------H",
     "@cim:IdentifiedObject.name": "DONG Energy Markets GmbH",
     "@cim:Names.name": [
         "KSAG",
-        "DE246284916",
-        "Balance Group"
+        "246284916",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "EIC code VAT number DE246284916",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-11",
-    "@schema:vatID": "DE246284916",
+    "@cim:DateAndOrTime.date": "2024-11-26",
+    "@schema:vatID": "246284916",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000002205",
-    "@skos:prefLabel": "S Slagen   22  Forbruk",
-    "@skos:altLabel": "NO-SLAGEN22",
+    "@skos:prefLabel": "S Slagen   22  LB Forbruk",
+    "@skos:altLabel": "NO-SLAGEN22LB",
     "@cim:IdentifiedObject.mRID": "50WC000000002205",
-    "@cim:IdentifiedObject.name": "S Slagen   22  Forbruk",
+    "@cim:IdentifiedObject.name": "S Slagen   22  LB Forbruk",
     "@cim:Names.name": [
-        "NO-SLAGEN22",
+        "NO-SLAGEN22LB",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

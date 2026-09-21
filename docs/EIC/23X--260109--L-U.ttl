@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260109--L-U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330376732
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade: 810084062""" ;
+    cim:IdentifiedObject.mRID "23X--260109--L-U" ;
+    cim:IdentifiedObject.name "LURN SHPK" ;
+    cim:Names.name "330376732",
+        "Energy Supplier",
+        "LURN_XK",
+        "Producer" ;
+    dcterms:identifier "urn:eic:23X--260109--L-U" ;
+    schema1:vatID "330376732" ;
+    skos:altLabel "LURN_XK" ;
+    skos:definition """National VAT number confirmed by the VAT Filer from Tax Administration of Kosovo: 330376732
+Company Registration Number confirmed by Certificate of Registration from Ministry of Industry, Entrepreneurship and Trade: 810084062"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LURN SHPK" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

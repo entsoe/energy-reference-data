@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000701Q" ;
     cim:IdentifiedObject.name "N Sentrum  11  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SENTRUM11" ;
+        "NO-SENTRUM11L1" ;
     dcterms:identifier "urn:eic:50WC00000000701Q" ;
-    skos:altLabel "NO-SENTRUM11" ;
+    skos:altLabel "NO-SENTRUM11L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Sentrum  11  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

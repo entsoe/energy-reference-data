@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XOLEAN-12345-O</dcterms:identifier>
     <skos:prefLabel>OLEA NOSTRA, S.A.</skos:prefLabel>
     <skos:altLabel>OLEAN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XOLEAN-12345-O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>OLEA NOSTRA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>OLEAN</cim:Names.name>
     <cim:Names.name>ESA10301240</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-04-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA10301240</schema:vatID>

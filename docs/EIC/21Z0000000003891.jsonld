@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z0000000003891",
     "@skos:prefLabel": "SERENE SUD/SUD_ATLANTIQUE (FR)",
     "@skos:altLabel": "SERENE_SUD",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"
-    },
     "@cim:IdentifiedObject.mRID": "21Z0000000003891",
     "@cim:IdentifiedObject.name": "SERENE SUD/SUD_ATLANTIQUE (FR)",
     "@cim:Names.name": [
         "SERENE_SUD",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

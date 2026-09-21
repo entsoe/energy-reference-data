@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19XSYNTHOSDW4--K",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19XSYNTHOSDW4--K",
+    "@skos:prefLabel": "SYNTHOS DWORY 2 SP. Z O. O. SD4 SP. KOMANDYTOWA",
+    "@skos:altLabel": "SYNTHOS_DWORY_4",
+    "@cim:IdentifiedObject.mRID": "19XSYNTHOSDW4--K",
+    "@cim:IdentifiedObject.name": "SYNTHOS DWORY 2 SP. Z O. O. SD4 SP. KOMANDYTOWA",
+    "@cim:Names.name": [
+        "SYNTHOS_DWORY_4",
+        "PL5492402800",
+        "Energy Supplier",
+        "Producer"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-03-14",
+    "@schema:vatID": "PL5492402800",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001078E",
-    "@skos:prefLabel": "N Båtsfjor 22  AY Forbruk",
-    "@skos:altLabel": "NO-BATSFJORD22AY",
+    "@skos:prefLabel": "N Båtsfjor 22  Pb Forbruk",
+    "@skos:altLabel": "NO-BATSFJOR22PB",
     "@cim:IdentifiedObject.mRID": "50WC00000001078E",
-    "@cim:IdentifiedObject.name": "N Båtsfjor 22  AY Forbruk",
+    "@cim:IdentifiedObject.name": "N Båtsfjor 22  Pb Forbruk",
     "@cim:Names.name": [
-        "NO-BATSFJORD22AY",
+        "NO-BATSFJOR22PB",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

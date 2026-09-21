@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005492R" ;
-    cim:IdentifiedObject.name "S Ø. Årdal T11 Transformator" ;
-    cim:Names.name "NO-OVREARDAT11",
+    cim:IdentifiedObject.name "S Holsbru  T11 Transformator" ;
+    cim:Names.name "NO-HOLSBRUT11",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005492R" ;
-    skos:altLabel "NO-OVREARDAT11" ;
+    skos:altLabel "NO-HOLSBRUT11" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Ø. Årdal T11 Transformator" ;
+    skos:prefLabel "S Holsbru  T11 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

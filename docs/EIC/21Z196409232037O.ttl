@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-11" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z196409232037O" ;
     cim:IdentifiedObject.name "MEGALOPOLI" ;
-    cim:Names.name "MEGALOPOLI",
+    cim:Names.name "Connection Point",
+        "MEGALOPOLI-GR",
         "Metering Point" ;
     dcterms:identifier "urn:eic:21Z196409232037O" ;
-    skos:altLabel "MEGALOPOLI" ;
+    skos:altLabel "MEGALOPOLI-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MEGALOPOLI" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XEWRNETZE----Z</dcterms:identifier>
     <skos:prefLabel>EWR Netze GmbH</skos:prefLabel>
     <skos:altLabel>EWRNETZE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEWRNETZE----Z</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EWR Netze GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EWRNETZE</cim:Names.name>
     <cim:Names.name>DE255506169</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-10-26</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE255506169</schema:vatID>
   </skos:Concept>

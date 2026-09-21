@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001586V" ;
-    cim:IdentifiedObject.name "S 50 T_Aukland-Aukland" ;
+    cim:IdentifiedObject.name "S 50 T_Augland-Augland" ;
     cim:Names.name "Internal Line",
-        "NO-TAUKLANDAUKLA" ;
+        "NO-50T_AUGLANDAU" ;
     dcterms:identifier "urn:eic:50TL00000001586V" ;
-    skos:altLabel "NO-TAUKLANDAUKLA" ;
+    skos:altLabel "NO-50T_AUGLANDAU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 50 T_Aukland-Aukland" ;
+    skos:prefLabel "S 50 T_Augland-Augland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002174C" ;
-    cim:IdentifiedObject.name "M 66 Strand-Rørvik" ;
+    cim:IdentifiedObject.name "N 66 Strand-Rørvik" ;
     cim:Names.name "Internal Line",
-        "NO-STRANDRORVIK" ;
+        "NO-66STRANDRORVI" ;
     dcterms:identifier "urn:eic:50TL00000002174C" ;
-    skos:altLabel "NO-STRANDRORVIK" ;
+    skos:altLabel "NO-66STRANDRORVI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Strand-Rørvik" ;
+    skos:prefLabel "N 66 Strand-Rørvik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

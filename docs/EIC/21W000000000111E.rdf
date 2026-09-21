@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21W000000000111E</dcterms:identifier>
     <skos:prefLabel>Storengy Gas Storage Pool</skos:prefLabel>
     <skos:altLabel>STORED-VIRT-STOR</skos:altLabel>
-    <skos:definition xml:lang="en">Gas Storage Facility</skos:definition>
     <cim:IdentifiedObject.mRID>21W000000000111E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Storengy Gas Storage Pool</cim:IdentifiedObject.name>
     <cim:Names.name>STORED-VIRT-STOR</cim:Names.name>
-    <cim:IdentifiedObject.description>Gas Storage Facility</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Gas Storage Facility</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Resource Object</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

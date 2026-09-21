@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000001116W",
     "@skos:prefLabel": "S T_Hjelme 50  T1 Forbruk",
-    "@skos:altLabel": "NO-HJELMELA_TR50",
+    "@skos:altLabel": "NO-T_HJELMELAND",
     "@cim:IdentifiedObject.mRID": "50WC00000001116W",
     "@cim:IdentifiedObject.name": "S T_Hjelme 50  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-HJELMELA_TR50",
+        "NO-T_HJELMELAND",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

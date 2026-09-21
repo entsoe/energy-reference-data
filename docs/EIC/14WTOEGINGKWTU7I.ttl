@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14WTOEGINGKWTU7I" ;
     cim:IdentifiedObject.name "Töging-KW-TU7" ;
-    cim:Names.name "TOEGINGKWTU7" ;
+    cim:Names.name "Production Unit",
+        "TOEGINGKWTU7" ;
     dcterms:identifier "urn:eic:14WTOEGINGKWTU7I" ;
     skos:altLabel "TOEGINGKWTU7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

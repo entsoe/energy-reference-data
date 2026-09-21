@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGERI-123456-G</dcterms:identifier>
     <skos:prefLabel>Geriatros S.A.</skos:prefLabel>
     <skos:altLabel>GERI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGERI-123456-G</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Geriatros S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>GERI</cim:Names.name>
     <cim:Names.name>ESA36780245</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-03-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA36780245</schema:vatID>

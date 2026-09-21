@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002094B" ;
-    cim:IdentifiedObject.name "N Goliat   11  25-KA-102 Motor Industri" ;
+    cim:IdentifiedObject.name "N Goliat   11  25-KA-102 Motor" ;
     cim:Names.name "Load",
-        "NO-GOLIAT1125-KA" ;
+        "NO-GOLIAT1125_KA" ;
     dcterms:identifier "urn:eic:50WC00000002094B" ;
-    skos:altLabel "NO-GOLIAT1125-KA" ;
+    skos:altLabel "NO-GOLIAT1125_KA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Goliat   11  25-KA-102 Motor Industri" ;
+    skos:prefLabel "N Goliat   11  25-KA-102 Motor" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/56X9300001228005> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "56X9300001228005" ;
+    cim:IdentifiedObject.name "Gazopostachalna kompaniia KIF Limited Liability Company" ;
+    cim:Names.name "454437926536",
+        "GK_KIF_LLC",
+        "Network User",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:56X9300001228005" ;
+    schema1:vatID "454437926536" ;
+    skos:altLabel "GK_KIF_LLC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Gazopostachalna kompaniia KIF Limited Liability Company" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

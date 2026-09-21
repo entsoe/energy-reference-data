@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001989Q</dcterms:identifier>
     <skos:prefLabel>Tunga Sol</skos:prefLabel>
-    <skos:altLabel>NO-TUNGA_SOL</skos:altLabel>
+    <skos:altLabel>NO-TUNGASOL</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001989Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Tunga Sol</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TUNGA_SOL</cim:Names.name>
+    <cim:Names.name>NO-TUNGASOL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

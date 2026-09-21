@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002781S",
-    "@skos:prefLabel": "M 22 Ugulsvik-Holen Luster",
-    "@skos:altLabel": "NO-UGULSVIKHOLEN",
+    "@skos:prefLabel": "S 22 Ugulsvik-Holen Luster",
+    "@skos:altLabel": "NO-22UGULSVIKHOL",
     "@cim:IdentifiedObject.mRID": "50TL00000002781S",
-    "@cim:IdentifiedObject.name": "M 22 Ugulsvik-Holen Luster",
+    "@cim:IdentifiedObject.name": "S 22 Ugulsvik-Holen Luster",
     "@cim:Names.name": [
-        "NO-UGULSVIKHOLEN",
+        "NO-22UGULSVIKHOL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

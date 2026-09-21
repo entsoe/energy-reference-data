@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XSANAG-1234-18",
     "@skos:prefLabel": "EÓLICA DE SANABRIA, S.L.",
     "@skos:altLabel": "SANAG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSANAG-1234-18",
     "@cim:IdentifiedObject.name": "EÓLICA DE SANABRIA, S.L.",
     "@cim:Names.name": [
         "SANAG",
         "ESB82636713",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-11-23",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@schema:vatID": "ESB82636713",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

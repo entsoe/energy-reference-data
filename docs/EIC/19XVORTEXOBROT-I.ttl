@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-06-01" ;
+    cim:DateAndOrTime.date "2025-11-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Faks: +48914843111" ;
     cim:IdentifiedObject.mRID "19XVORTEXOBROT-I" ;
-    cim:IdentifiedObject.name "VORTEX ENERGY - OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI" ;
+    cim:IdentifiedObject.name "ZENERA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     cim:Names.name "Balance Responsible Party",
         "PL8513207816",
-        "VORTEX-OBROT" ;
+        "Resource Aggregator",
+        "ZENERA" ;
     dcterms:identifier "urn:eic:19XVORTEXOBROT-I" ;
     schema1:vatID "PL8513207816" ;
-    skos:altLabel "VORTEX-OBROT" ;
-    skos:definition "Faks: +48914843111"@en ;
+    skos:altLabel "ZENERA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VORTEX ENERGY - OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI" ;
+    skos:prefLabel "ZENERA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

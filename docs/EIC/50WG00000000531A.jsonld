@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000531A",
     "@skos:prefLabel": "GRANA   G1      HYDRO",
-    "@skos:altLabel": "NO-GRANA___G1___",
+    "@skos:altLabel": "NO-GRANAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000000531A",
     "@cim:IdentifiedObject.name": "GRANA   G1      HYDRO",
     "@cim:Names.name": [
-        "NO-GRANA___G1___",
+        "NO-GRANAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

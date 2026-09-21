@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001996Z" ;
-    cim:IdentifiedObject.name "USTA    G105 HYDRO" ;
+    cim:IdentifiedObject.name "ORTEREN G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-USTA____G105_" ;
+        "NO-ORTERENG105" ;
     dcterms:identifier "urn:eic:50WG00000001996Z" ;
-    skos:altLabel "NO-USTA____G105_" ;
+    skos:altLabel "NO-ORTERENG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "USTA    G105 HYDRO" ;
+    skos:prefLabel "ORTEREN G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

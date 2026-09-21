@@ -6,15 +6,15 @@
     <dcterms:identifier>urn:eic:21Z000000000473C</dcterms:identifier>
     <skos:prefLabel>Nea Messimvria</skos:prefLabel>
     <skos:altLabel>NEAM-TAP-DESFA</skos:altLabel>
-    <skos:definition xml:lang="en">Interconnection Point</skos:definition>
+    <skos:definition xml:lang="en">Interconnection Point.  Connection point function manually updated from the ENTSOG LIO</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000473C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Nea Messimvria</cim:IdentifiedObject.name>
     <cim:Names.name>NEAM-TAP-DESFA</cim:Names.name>
-    <cim:IdentifiedObject.description>Interconnection Point</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Interconnection Point.  Connection point function manually updated from the ENTSOG LIO</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-06</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

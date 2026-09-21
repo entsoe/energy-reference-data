@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000053356",
-    "@skos:prefLabel": "M Alcoa    VI Transformator",
+    "@skos:prefLabel": "N Alcoa    VI Transformator",
     "@skos:altLabel": "NO-MOSJ_ALVVI",
     "@cim:IdentifiedObject.mRID": "50TT000000053356",
-    "@cim:IdentifiedObject.name": "M Alcoa    VI Transformator",
+    "@cim:IdentifiedObject.name": "N Alcoa    VI Transformator",
     "@cim:Names.name": [
         "NO-MOSJ_ALVVI",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

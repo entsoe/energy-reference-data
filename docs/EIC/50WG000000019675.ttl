@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000019675" ;
-    cim:IdentifiedObject.name "TVEITEN G104 HYDRO" ;
+    cim:IdentifiedObject.name "EIDSFOSSG104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TVEITEN_G104_" ;
+        "NO-EIDSFOSSG104" ;
     dcterms:identifier "urn:eic:50WG000000019675" ;
-    skos:altLabel "NO-TVEITEN_G104_" ;
+    skos:altLabel "NO-EIDSFOSSG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TVEITEN G104 HYDRO" ;
+    skos:prefLabel "EIDSFOSSG104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

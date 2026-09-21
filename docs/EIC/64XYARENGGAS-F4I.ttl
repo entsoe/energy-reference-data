@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-01" ;
+    cim:DateAndOrTime.date "2026-08-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "ANRE license A MMI 000114" ;
     cim:IdentifiedObject.mRID "64XYARENGGAS-F4I" ;
-    cim:IdentifiedObject.name "YAR Energy & Gas SRL" ;
+    cim:IdentifiedObject.name "Gas & Power Trading SRL" ;
     cim:Names.name "1017600045576",
         "Balance Responsible Party",
-        "Trade Responsible Party",
-        "YARENERGYGAS" ;
+        "GAS_POWER_TRAD_F",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:64XYARENGGAS-F4I" ;
     schema1:vatID "1017600045576" ;
-    skos:altLabel "YARENERGYGAS" ;
+    skos:altLabel "GAS_POWER_TRAD_F" ;
     skos:definition "ANRE license A MMI 000114"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "YAR Energy & Gas SRL" ;
+    skos:prefLabel "Gas & Power Trading SRL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

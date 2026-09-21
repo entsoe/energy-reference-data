@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P6OD> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P6OD" ;
+    cim:IdentifiedObject.name "ERANOVUM SELF CONSUMPTION S.L. " ;
+    cim:Names.name "ES-ESECO",
+        "ESB56581028",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P6OD" ;
+    schema1:vatID "ESB56581028" ;
+    skos:altLabel "ES-ESECO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ERANOVUM SELF CONSUMPTION S.L. " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

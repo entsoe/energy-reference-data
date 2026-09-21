@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XLATOJ-12345-0</dcterms:identifier>
     <skos:prefLabel>CASINO LA TOJA</skos:prefLabel>
     <skos:altLabel>LATOJ</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XLATOJ-12345-0</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CASINO LA TOJA</cim:IdentifiedObject.name>
     <cim:Names.name>LATOJ</cim:Names.name>
     <cim:Names.name>ESA36010544</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA36010544</schema:vatID>

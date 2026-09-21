@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-30" ;
+    cim:DateAndOrTime.date "2025-07-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "25Z-SPPOOL-RAG-5" ;
-    cim:IdentifiedObject.name "Storage Pool RAG Energy Storage" ;
+    cim:IdentifiedObject.name "RAG Energy Storage GmbH" ;
     cim:Names.name "Connection Point",
         "SPPOOL-RAG" ;
     dcterms:identifier "urn:eic:25Z-SPPOOL-RAG-5" ;
     skos:altLabel "SPPOOL-RAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Storage Pool RAG Energy Storage" ;
+    skos:prefLabel "RAG Energy Storage GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

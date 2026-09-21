@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XNOK---------Y" ;
     cim:IdentifiedObject.name "NOK Nordostschweizerische Kraftwerke AG" ;
-    cim:Names.name "Balance Group",
-        "CH102471",
-        "NOK-ST" ;
+    cim:Names.name "CH102471",
+        "NOK-ST",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:12XNOK---------Y" ;
     schema1:vatID "CH102471" ;
     skos:altLabel "NOK-ST" ;

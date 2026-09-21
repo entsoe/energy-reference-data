@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHCXTRADING--D" ;
     cim:IdentifiedObject.name "HCX Rotterdam BV" ;
-    cim:Names.name "Balance Group",
-        "HCX",
-        "NL809890586B01" ;
+    cim:Names.name "HCX",
+        "NL809890586B01",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHCXTRADING--D" ;
     schema1:vatID "NL809890586B01" ;
     skos:altLabel "HCX" ;

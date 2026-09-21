@@ -4,19 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XGKU-OE------T</dcterms:identifier>
-    <skos:prefLabel>gemeinsames Kommunalunternehmen Oberes Egertal</skos:prefLabel>
+    <skos:prefLabel>Gemeinsames Kommunalunternehmen oberes Egertal</skos:prefLabel>
     <skos:altLabel>GKU-OE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XGKU-OE------T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>gemeinsames Kommunalunternehmen Oberes Egertal</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Gemeinsames Kommunalunternehmen oberes Egertal</cim:IdentifiedObject.name>
     <cim:Names.name>GKU-OE</cim:Names.name>
-    <cim:Names.name>22311420317</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE251587792</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2007-06-19</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>22311420317</schema:vatID>
+    <schema:vatID>DE251587792</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

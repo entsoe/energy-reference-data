@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Terminal: Identification Of The Uk Teesside Terminal" ;
     cim:IdentifiedObject.mRID "21YTE-EC-------P" ;
     cim:IdentifiedObject.name "Terminal Teesside Entry Cap" ;
-    cim:Names.name "TE-EC",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "TE-EC" ;
     dcterms:identifier "urn:eic:21YTE-EC-------P" ;
     skos:altLabel "TE-EC" ;
     skos:definition "Terminal: Identification Of The Uk Teesside Terminal"@en ;

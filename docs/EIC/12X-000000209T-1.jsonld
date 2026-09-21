@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:12X-000000209T-1",
-    "@skos:prefLabel": "STG Switzerland AG",
-    "@skos:altLabel": "STG-CH-AG-----ST",
+    "@skos:prefLabel": "STG Switzerland GmbH",
+    "@skos:altLabel": "STG-CH-GMBH---ST",
     "@cim:IdentifiedObject.mRID": "12X-000000209T-1",
-    "@cim:IdentifiedObject.name": "STG Switzerland AG",
+    "@cim:IdentifiedObject.name": "STG Switzerland GmbH",
     "@cim:Names.name": [
-        "STG-CH-AG-----ST",
+        "STG-CH-GMBH---ST",
         "CHE463317717",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-08",
+    "@cim:DateAndOrTime.date": "2023-12-12",
     "@schema:vatID": "CHE463317717",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

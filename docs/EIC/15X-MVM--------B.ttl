@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-07-01" ;
+    cim:DateAndOrTime.date "2025-11-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "15X-MVM--------B" ;
-    cim:IdentifiedObject.name "MVM Partner Energiakereskedelmi Zrt." ;
+    cim:IdentifiedObject.name "MVM ONEnergy Zrt." ;
     cim:Names.name "Balance Responsible Party",
         "HU12898019",
         "MVM_BC" ;
@@ -20,6 +20,6 @@
     skos:altLabel "MVM_BC" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MVM Partner Energiakereskedelmi Zrt." ;
+    skos:prefLabel "MVM ONEnergy Zrt." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

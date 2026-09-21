@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001901C",
-    "@skos:prefLabel": "M 66 Klæbu-Moholt",
-    "@skos:altLabel": "NO-KLABUMOHOLT",
+    "@skos:prefLabel": "N 66 Klæbu-Moholt",
+    "@skos:altLabel": "NO-66KLABU_MOHOL",
     "@cim:IdentifiedObject.mRID": "50TL00000001901C",
-    "@cim:IdentifiedObject.name": "M 66 Klæbu-Moholt",
+    "@cim:IdentifiedObject.name": "N 66 Klæbu-Moholt",
     "@cim:Names.name": [
-        "NO-KLABUMOHOLT",
+        "NO-66KLABU_MOHOL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

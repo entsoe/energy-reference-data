@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator For Gas" ;
     cim:IdentifiedObject.mRID "21X-IE-A-A0A0A-O" ;
     cim:IdentifiedObject.name "Gaslink" ;
     cim:Names.name "GASLINK",
         "IE9679156B",
-        "Valid EIC Function needed" ;
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X-IE-A-A0A0A-O" ;
     schema1:vatID "IE9679156B" ;
     skos:altLabel "GASLINK" ;

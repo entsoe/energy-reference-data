@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:33XPOWERENERGYSA",
-    "@skos:prefLabel": "INFITIVE POWER DOOEL",
-    "@skos:altLabel": "INFITIVE_POWER",
+    "@skos:prefLabel": "INFINITIVE POWER DOOEL",
+    "@skos:altLabel": "INFINITIVE_POWER",
     "@cim:IdentifiedObject.mRID": "33XPOWERENERGYSA",
-    "@cim:IdentifiedObject.name": "INFITIVE POWER DOOEL",
+    "@cim:IdentifiedObject.name": "INFINITIVE POWER DOOEL",
     "@cim:Names.name": [
-        "INFITIVE_POWER",
+        "INFINITIVE_POWER",
         "4038013507890",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-19",
+    "@cim:DateAndOrTime.date": "2024-06-13",
     "@schema:vatID": "4038013507890",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

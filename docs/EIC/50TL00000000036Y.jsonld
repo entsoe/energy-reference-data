@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000036Y",
     "@skos:prefLabel": "S 110 T_Bjelland-T_Håverstad",
-    "@skos:altLabel": "NO-TBJELLANDTHAV",
+    "@skos:altLabel": "NO-110T_BJELLAND",
     "@cim:IdentifiedObject.mRID": "50TL00000000036Y",
     "@cim:IdentifiedObject.name": "S 110 T_Bjelland-T_Håverstad",
     "@cim:Names.name": [
-        "NO-TBJELLANDTHAV",
+        "NO-110T_BJELLAND",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

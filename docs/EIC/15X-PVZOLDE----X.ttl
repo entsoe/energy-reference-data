@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/15X-PVZOLDE----X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "15X-PVZOLDE----X" ;
+    cim:IdentifiedObject.name "PV Zöldenergia Kft." ;
+    cim:Names.name "Balance Responsible Party",
+        "HU22681144",
+        "PVZE" ;
+    dcterms:identifier "urn:eic:15X-PVZOLDE----X" ;
+    schema1:vatID "HU22681144" ;
+    skos:altLabel "PVZE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PV Zöldenergia Kft." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

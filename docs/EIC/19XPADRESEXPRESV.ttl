@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-27" ;
+    cim:DateAndOrTime.date "2024-04-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XPADRESEXPRESV" ;
-    cim:IdentifiedObject.name "EXPRESS CASH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
-    cim:Names.name "EXPRESS_CASH",
-        "Grid Access Provider",
+    cim:IdentifiedObject.name "PAD RES DYSTRYBUCJA ZACHÓD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI" ;
+    cim:Names.name "Grid Access Provider",
         "Meter Administrator",
         "Metered Data Responsible",
+        "PAD_RES_ZACHOD",
         "PL5222910797",
         "System Operator" ;
     dcterms:identifier "urn:eic:19XPADRESEXPRESV" ;
     schema1:vatID "PL5222910797" ;
-    skos:altLabel "EXPRESS_CASH" ;
+    skos:altLabel "PAD_RES_ZACHOD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EXPRESS CASH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "PAD RES DYSTRYBUCJA ZACHÓD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

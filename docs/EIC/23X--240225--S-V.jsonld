@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--240225--S-V",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--240225--S-V",
+    "@skos:prefLabel": "Sempra LNG International LLC",
+    "@skos:altLabel": "SEMPRA_LNG_INT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Sempra LNG International LLC, compny registration number: 4430993, registerd in Delaware, USA, confirmed by certificate from the state Delaware."
+    },
+    "@cim:IdentifiedObject.mRID": "23X--240225--S-V",
+    "@cim:IdentifiedObject.name": "Sempra LNG International LLC",
+    "@cim:Names.name": [
+        "SEMPRA_LNG_INT",
+        "450579084",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Sempra LNG International LLC, compny registration number: 4430993, registerd in Delaware, USA, confirmed by certificate from the state Delaware.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-26",
+    "@schema:vatID": "450579084",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

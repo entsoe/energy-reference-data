@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>64XMGRES-----077</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CJSC "Moldavskaia GRES"</cim:IdentifiedObject.name>
     <cim:Names.name>MGRES_CJSC</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>CJSC ''Moldavskaia GRES'' is situated in Transnistrian unacknowledged zone out of official control (including state taxes imposition) of Republic of Moldova and has the status of non-VAT payer. Company registration number (IDNO) - 1004615000423</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-12-04</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

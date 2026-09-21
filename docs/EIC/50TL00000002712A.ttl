@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002712A" ;
-    cim:IdentifiedObject.name "N 22 Skibotn-Mortenselva" ;
+    cim:IdentifiedObject.name "N 22 Nordkjosbotn-Mortenselva" ;
     cim:Names.name "Internal Line",
-        "NO-SKIBOTN-MORTE" ;
+        "NO-22NORDKJSELVA" ;
     dcterms:identifier "urn:eic:50TL00000002712A" ;
-    skos:altLabel "NO-SKIBOTN-MORTE" ;
+    skos:altLabel "NO-22NORDKJSELVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 22 Skibotn-Mortenselva" ;
+    skos:prefLabel "N 22 Nordkjosbotn-Mortenselva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

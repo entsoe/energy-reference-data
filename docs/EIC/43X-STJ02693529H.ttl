@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02693529H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02693529H" ;
+    cim:IdentifiedObject.name "RĪGAS ELEKTROENERĢIJAS UZKRĀTUVE I SIA" ;
+    cim:Names.name "LV50203618841",
+        "Production Responsible Party",
+        "STJ02693529H" ;
+    dcterms:identifier "urn:eic:43X-STJ02693529H" ;
+    schema1:vatID "LV50203618841" ;
+    skos:altLabel "STJ02693529H" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RĪGAS ELEKTROENERĢIJAS UZKRĀTUVE I SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000000074",
     "@skos:prefLabel": "S 110 Ålefjær-Hallandsbru",
-    "@skos:altLabel": "NO-ALEFJARHALLAN",
+    "@skos:altLabel": "NO-110ALEFJARHAL",
     "@cim:IdentifiedObject.mRID": "50TL000000000074",
     "@cim:IdentifiedObject.name": "S 110 Ålefjær-Hallandsbru",
     "@cim:Names.name": [
-        "NO-ALEFJARHALLAN",
+        "NO-110ALEFJARHAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

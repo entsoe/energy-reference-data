@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSTWQ-HANDEL-Y",
     "@skos:prefLabel": "Stadtwerke Quickborn GmbH",
     "@skos:altLabel": "STWQ-HANDEL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTWQ-HANDEL-Y",
     "@cim:IdentifiedObject.name": "Stadtwerke Quickborn GmbH",
     "@cim:Names.name": [
         "STWQ-HANDEL",
         "DE244526745",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-09-24",
+    "@cim:DateAndOrTime.date": "2024-04-22",
     "@schema:vatID": "DE244526745",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

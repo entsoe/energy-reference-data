@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0445-W" ;
     cim:IdentifiedObject.name "E.ON Energy Markets GmbH" ;
-    cim:Names.name "DE326239302",
+    cim:Names.name "Balance Responsible Party",
+        "DE326239302",
         "ICM_GMBH" ;
     dcterms:identifier "urn:eic:11X0-0000-0445-W" ;
     schema1:vatID "DE326239302" ;

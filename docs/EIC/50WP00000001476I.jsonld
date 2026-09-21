@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001476I",
     "@skos:prefLabel": "Vaage II",
-    "@skos:altLabel": "NO-VAAGE-II_PL",
+    "@skos:altLabel": "NO-VAAGEII",
     "@cim:IdentifiedObject.mRID": "50WP00000001476I",
     "@cim:IdentifiedObject.name": "Vaage II",
     "@cim:Names.name": [
-        "NO-VAAGE-II_PL",
+        "NO-VAAGEII",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

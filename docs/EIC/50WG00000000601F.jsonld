@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000601F",
     "@skos:prefLabel": "HARPEFOSG2      HYDRO",
-    "@skos:altLabel": "NO-HARPEFOSG2___",
+    "@skos:altLabel": "NO-HARPEFOSG2",
     "@cim:IdentifiedObject.mRID": "50WG00000000601F",
     "@cim:IdentifiedObject.name": "HARPEFOSG2      HYDRO",
     "@cim:Names.name": [
-        "NO-HARPEFOSG2___",
+        "NO-HARPEFOSG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

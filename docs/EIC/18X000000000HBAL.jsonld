@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000HBAL",
-    "@skos:prefLabel": "EKILUZ ENERGÍA COMERCIALIZADORA S.L.",
+    "@skos:prefLabel": "REPSOL ENERGÍA DIGITAL, SLU",
     "@skos:altLabel": "KREAN",
     "@cim:IdentifiedObject.mRID": "18X000000000HBAL",
-    "@cim:IdentifiedObject.name": "EKILUZ ENERGÍA COMERCIALIZADORA S.L.",
+    "@cim:IdentifiedObject.name": "REPSOL ENERGÍA DIGITAL, SLU",
     "@cim:Names.name": [
         "KREAN",
         "ESB75229369",
-        "Production Responsible party",
-        "Producer"
+        "Producer",
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-21",
+    "@cim:DateAndOrTime.date": "2026-05-28",
     "@schema:vatID": "ESB75229369",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

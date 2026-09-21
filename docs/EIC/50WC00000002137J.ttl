@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002137J" ;
-    cim:IdentifiedObject.name "S Eramet   66  Industri" ;
+    cim:IdentifiedObject.name "S Eramet   66  F12 Industri" ;
     cim:Names.name "Load",
-        "NO-ERAMET66NC" ;
+        "NO-ERAMET66F12" ;
     dcterms:identifier "urn:eic:50WC00000002137J" ;
-    skos:altLabel "NO-ERAMET66NC" ;
+    skos:altLabel "NO-ERAMET66F12" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Eramet   66  Industri" ;
+    skos:prefLabel "S Eramet   66  F12 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

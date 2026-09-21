@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WKUS4KLAIPUNLS",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WKUS4KLAIPUNLS",
+    "@skos:prefLabel": "Klaipėda Unlimited Sun (KUS)  PV parkas 4 projektas 8,1MW",
+    "@skos:altLabel": "KLAIPEDAUNLIMIT4",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB \"Elektrum Lietuva\" 301506046 LT100003800414 Saulės parkas: Klaipėda Unlimited Sun (KUS) \nPV parkas 4 projektas 8,1MW Adresas: Rimkų k., Dovilų sen., Klaipėdos r. sav. Koordinatės: 55.660164, 21.271219  Eso objekto nr: 50267022"
+    },
+    "@cim:IdentifiedObject.mRID": "41WKUS4KLAIPUNLS",
+    "@cim:IdentifiedObject.name": "Klaipėda Unlimited Sun (KUS)  PV parkas 4 projektas 8,1MW",
+    "@cim:Names.name": [
+        "KLAIPEDAUNLIMIT4",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "UAB \"Elektrum Lietuva\" 301506046 LT100003800414 Saulės parkas: Klaipėda Unlimited Sun (KUS) \nPV parkas 4 projektas 8,1MW Adresas: Rimkų k., Dovilų sen., Klaipėdos r. sav. Koordinatės: 55.660164, 21.271219  Eso objekto nr: 50267022",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-24",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

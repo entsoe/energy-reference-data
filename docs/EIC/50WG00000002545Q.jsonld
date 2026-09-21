@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002545Q",
     "@skos:prefLabel": "EVANGER G134 HYDRO",
-    "@skos:altLabel": "NO-EVANGER_G134_",
+    "@skos:altLabel": "NO-EVANGERG134",
     "@cim:IdentifiedObject.mRID": "50WG00000002545Q",
     "@cim:IdentifiedObject.name": "EVANGER G134 HYDRO",
     "@cim:Names.name": [
-        "NO-EVANGER_G134_",
+        "NO-EVANGERG134",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

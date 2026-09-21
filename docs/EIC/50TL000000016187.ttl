@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000016187" ;
-    cim:IdentifiedObject.name "M 66 Ålmo-Utheim" ;
+    cim:IdentifiedObject.name "N 66 Ålmo-Utheim" ;
     cim:Names.name "Internal Line",
-        "NO-ALMOUTHEIM" ;
+        "NO-66ALMOUTHEIM" ;
     dcterms:identifier "urn:eic:50TL000000016187" ;
-    skos:altLabel "NO-ALMOUTHEIM" ;
+    skos:altLabel "NO-66ALMOUTHEIM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Ålmo-Utheim" ;
+    skos:prefLabel "N 66 Ålmo-Utheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

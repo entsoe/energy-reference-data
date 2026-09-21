@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/15W-MSZAAPV-AE-I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "15W-MSZAAPV-AE-I" ;
+    cim:IdentifiedObject.name "Nyírmeggyes I. naperőmű AE" ;
+    cim:Names.name "Generation Unit",
+        "MSZAAPVAE" ;
+    dcterms:identifier "urn:eic:15W-MSZAAPV-AE-I" ;
+    skos:altLabel "MSZAAPVAE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Nyírmeggyes I. naperőmű AE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTATKRAFTN015" ;
     cim:IdentifiedObject.name "STATKRAFT MARKETS B.V." ;
-    cim:Names.name "Balance Group",
-        "NL807296569B01",
-        "STATKRAFTNED" ;
+    cim:Names.name "NL807296569B01",
+        "STATKRAFTNED",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSTATKRAFTN015" ;
     schema1:vatID "NL807296569B01" ;
     skos:altLabel "STATKRAFTNED" ;

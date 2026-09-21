@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENBW-NEEG-DFU" ;
     cim:IdentifiedObject.name "EnBW Transportnetze AG" ;
-    cim:Names.name "Balance Group",
-        "DE191008872",
-        "ENBW-TNG-UENE" ;
+    cim:Names.name "DE191008872",
+        "ENBW-TNG-UENE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENBW-NEEG-DFU" ;
     schema1:vatID "DE191008872" ;
     skos:altLabel "ENBW-TNG-UENE" ;

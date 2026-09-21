@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000397P",
-    "@skos:prefLabel": "FANA    G114 HYDRO",
-    "@skos:altLabel": "NO-FANA____G114_",
+    "@skos:prefLabel": "SADALEN G114 HYDRO",
+    "@skos:altLabel": "NO-SADALENG114",
     "@cim:IdentifiedObject.mRID": "50WG00000000397P",
-    "@cim:IdentifiedObject.name": "FANA    G114 HYDRO",
+    "@cim:IdentifiedObject.name": "SADALEN G114 HYDRO",
     "@cim:Names.name": [
-        "NO-FANA____G114_",
+        "NO-SADALENG114",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

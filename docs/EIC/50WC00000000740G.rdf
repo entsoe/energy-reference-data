@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000000740G</dcterms:identifier>
-    <skos:prefLabel>S Norzink  66  T1 Industri</skos:prefLabel>
-    <skos:altLabel>NO-NORZINK66T1NC</skos:altLabel>
+    <skos:prefLabel>S Norzink1 66  T1 Industri</skos:prefLabel>
+    <skos:altLabel>NO-NORZINK166T1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000000740G</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S Norzink  66  T1 Industri</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-NORZINK66T1NC</cim:Names.name>
+    <cim:IdentifiedObject.name>S Norzink1 66  T1 Industri</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-NORZINK166T1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

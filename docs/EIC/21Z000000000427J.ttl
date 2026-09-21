@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-02" ;
+    cim:DateAndOrTime.date "2024-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000427J" ;
     cim:IdentifiedObject.name "HERON II" ;
-    cim:Names.name "Connection Point",
-        "HERON-II-GR" ;
+    cim:Names.name "HERON-II-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000427J" ;
     skos:altLabel "HERON-II-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000017869",
     "@skos:prefLabel": "SVANDALSG1      HYDRO",
-    "@skos:altLabel": "NO-SVANDALSG1___",
+    "@skos:altLabel": "NO-SVANDALSG1",
     "@cim:IdentifiedObject.mRID": "50WG000000017869",
     "@cim:IdentifiedObject.name": "SVANDALSG1      HYDRO",
     "@cim:Names.name": [
-        "NO-SVANDALSG1___",
+        "NO-SVANDALSG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

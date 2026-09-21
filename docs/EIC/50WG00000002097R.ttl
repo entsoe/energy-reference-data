@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002097R" ;
     cim:IdentifiedObject.name "VAGAMO  G106 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-VAGAMO__G106_" ;
+        "NO-VAGAMOG106" ;
     dcterms:identifier "urn:eic:50WG00000002097R" ;
-    skos:altLabel "NO-VAGAMO__G106_" ;
+    skos:altLabel "NO-VAGAMOG106" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VAGAMO  G106 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

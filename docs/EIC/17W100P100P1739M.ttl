@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-01" ;
+    cim:DateAndOrTime.date "2024-12-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "17W100P100P1739M" ;
-    cim:IdentifiedObject.name "GROUPE 06 DE LA CENTRALE HYDRAULIQUE DE LOGIS-NEUF" ;
+    cim:IdentifiedObject.name "LOGIS-NEUF G6" ;
     cim:Names.name "FR_HY-L-NEU-G6",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P1739M" ;
     skos:altLabel "FR_HY-L-NEU-G6" ;
     skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROUPE 06 DE LA CENTRALE HYDRAULIQUE DE LOGIS-NEUF" ;
+    skos:prefLabel "LOGIS-NEUF G6" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

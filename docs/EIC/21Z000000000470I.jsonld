@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000470I",
     "@skos:prefLabel": "Isaccea 2_3 UA-RO border",
     "@skos:altLabel": "VPM06",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Virtual Interconnection Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000470I",
     "@cim:IdentifiedObject.name": "Isaccea 2_3 UA-RO border",
     "@cim:Names.name": [
         "VPM06",
-        "Valid EIC Function needed"
+        "Virtual Interconnection Points"
     ],
-    "@cim:IdentifiedObject.description": "Virtual Interconnection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Entry/Exit Point" ;
     cim:IdentifiedObject.mRID "21Z000000000451M" ;
     cim:IdentifiedObject.name "MS Brodske" ;
     cim:Names.name "DBOJ-BRODSKE_SK",
-        "Valid EIC Function needed" ;
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000451M" ;
     skos:altLabel "DBOJ-BRODSKE_SK" ;
-    skos:definition "Entry/Exit Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MS Brodske" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

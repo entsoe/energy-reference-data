@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/15V000000000022K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "15V000000000022K" ;
+    cim:IdentifiedObject.name "MAVIR BSP Production Component Directory" ;
+    cim:Names.name "Endpoint",
+        "MAVIR_BSP_P_CD" ;
+    dcterms:identifier "urn:eic:15V000000000022K" ;
+    skos:altLabel "MAVIR_BSP_P_CD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MAVIR BSP Production Component Directory" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

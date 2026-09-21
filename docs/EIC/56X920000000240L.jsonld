@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X920000000240L",
-    "@skos:prefLabel": "PJSC \"Ukrnafta\" ",
+    "@skos:prefLabel": "JSC \"Ukrnafta\" ",
     "@skos:altLabel": "UKRNAFTA",
     "@cim:IdentifiedObject.mRID": "56X920000000240L",
-    "@cim:IdentifiedObject.name": "PJSC \"Ukrnafta\" ",
+    "@cim:IdentifiedObject.name": "JSC \"Ukrnafta\" ",
     "@cim:Names.name": [
         "UKRNAFTA",
         "UA001353926654",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-02-07",
+    "@cim:DateAndOrTime.date": "2025-09-09",
     "@schema:vatID": "UA001353926654",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

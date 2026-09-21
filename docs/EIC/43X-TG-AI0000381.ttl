@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-10-28" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-AI0000381" ;
     cim:IdentifiedObject.name "SIA Aiveks" ;
-    cim:Names.name "40003529534",
-        "Balance Responsible Party",
-        "LV-TGAI24" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-TGAI24",
+        "LV40003529534" ;
     dcterms:identifier "urn:eic:43X-TG-AI0000381" ;
-    schema1:vatID "40003529534" ;
+    schema1:vatID "LV40003529534" ;
     skos:altLabel "LV-TGAI24" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SIA Aiveks" ;

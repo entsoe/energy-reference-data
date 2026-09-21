@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-04-05" ;
+    cim:DateAndOrTime.date "2026-05-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000GF3R" ;
     cim:IdentifiedObject.name "ERG SOLAR TABERNAS S.L." ;
     cim:Names.name "ESB98940976",
         "GSPV1",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000GF3R" ;
     schema1:vatID "ESB98940976" ;
     skos:altLabel "GSPV1" ;

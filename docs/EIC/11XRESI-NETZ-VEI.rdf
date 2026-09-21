@@ -10,13 +10,13 @@
     <cim:IdentifiedObject.mRID>11XRESI-NETZ-VEI</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TenneT TSO GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>NETZ-VELTH-RESI</cim:Names.name>
-    <cim:Names.name>DE815073514</cim:Names.name>
+    <cim:Names.name>815073514</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-01-24</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE815073514</schema:vatID>
+    <schema:vatID>815073514</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

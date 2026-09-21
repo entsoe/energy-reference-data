@@ -4,18 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XELGASENERGY-Q</dcterms:identifier>
-    <skos:prefLabel>ELGAS ENERGY POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
-    <skos:altLabel>ELGAS_ENERGY</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
+    <skos:prefLabel>DUON TRADING SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>DUON_TRADING</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XELGASENERGY-Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELGAS ENERGY POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
-    <cim:Names.name>ELGAS_ENERGY</cim:Names.name>
+    <cim:IdentifiedObject.name>DUON TRADING SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>DUON_TRADING</cim:Names.name>
+    <cim:Names.name>A0004029J.PL</cim:Names.name>
     <cim:Names.name>PL5471997923</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-12-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-11-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5471997923</schema:vatID>
   </skos:Concept>

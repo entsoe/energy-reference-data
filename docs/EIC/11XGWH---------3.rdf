@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XGWH---------3</dcterms:identifier>
     <skos:prefLabel>Gemeindewerke Hermaringen GmbH</skos:prefLabel>
     <skos:altLabel>GWH</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XGWH---------3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gemeindewerke Hermaringen GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>GWH</cim:Names.name>
     <cim:Names.name>DE145617713</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE145617713</schema:vatID>
   </skos:Concept>

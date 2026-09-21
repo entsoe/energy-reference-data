@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000518G",
-    "@skos:prefLabel": "S 132 Myklebustdalen-Mel",
-    "@skos:altLabel": "NO-MYKLEBUSTDMEL",
+    "@skos:prefLabel": "N 132 Myklebustdalen-Mel",
+    "@skos:altLabel": "NO-132MYKLEBUSTD",
     "@cim:IdentifiedObject.mRID": "50TL00000000518G",
-    "@cim:IdentifiedObject.name": "S 132 Myklebustdalen-Mel",
+    "@cim:IdentifiedObject.name": "N 132 Myklebustdalen-Mel",
     "@cim:Names.name": [
-        "NO-MYKLEBUSTDMEL",
+        "NO-132MYKLEBUSTD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

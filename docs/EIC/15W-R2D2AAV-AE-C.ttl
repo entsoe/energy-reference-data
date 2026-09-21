@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/15W-R2D2AAV-AE-C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "15W-R2D2AAV-AE-C" ;
+    cim:IdentifiedObject.name "R2D2AAVae" ;
+    cim:Names.name "Load",
+        "R2D2AAVAE" ;
+    dcterms:identifier "urn:eic:15W-R2D2AAV-AE-C" ;
+    skos:altLabel "R2D2AAVAE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "R2D2AAVae" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

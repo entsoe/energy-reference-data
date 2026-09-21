@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69WE78288079BB48> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69WE78288079BB48" ;
+    cim:IdentifiedObject.name "VASILIKOS COMBINED CYCLE UNIT 4 1+1+1" ;
+    cim:Names.name "CCGT4_GT+ST+OC",
+        "Generation Unit",
+        "Production Unit",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:69WE78288079BB48" ;
+    skos:altLabel "CCGT4_GT+ST+OC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASILIKOS COMBINED CYCLE UNIT 4 1+1+1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

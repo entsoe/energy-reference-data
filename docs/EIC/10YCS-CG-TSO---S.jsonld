@@ -22,11 +22,11 @@
     "@cim:IdentifiedObject.name": "Montenegro",
     "@cim:Names.name": [
         "ME",
-        "Scheduling Area",
-        "LFC Area",
         "Bidding Zone",
         "Control Area",
-        "Member State"
+        "LFC Area",
+        "Member State",
+        "Scheduling Area"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",

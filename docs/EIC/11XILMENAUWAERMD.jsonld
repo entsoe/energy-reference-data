@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XILMENAUWAERMD",
     "@skos:prefLabel": "Ilmenauer Wärmeversorgung GmbH",
     "@skos:altLabel": "ILMENAUERWAERME",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XILMENAUWAERMD",
     "@cim:IdentifiedObject.name": "Ilmenauer Wärmeversorgung GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE150930890",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-10",
+    "@cim:DateAndOrTime.date": "2025-07-15",
     "@schema:vatID": "DE150930890",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

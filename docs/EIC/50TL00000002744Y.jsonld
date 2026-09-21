@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002744Y",
-    "@skos:prefLabel": "M 22 Bjerka-Leirelva",
-    "@skos:altLabel": "NO-BJERKALEIRELV",
+    "@skos:prefLabel": "N 22 Bjerka-Leirelva",
+    "@skos:altLabel": "NO-22BJERKALEIRE",
     "@cim:IdentifiedObject.mRID": "50TL00000002744Y",
-    "@cim:IdentifiedObject.name": "M 22 Bjerka-Leirelva",
+    "@cim:IdentifiedObject.name": "N 22 Bjerka-Leirelva",
     "@cim:Names.name": [
-        "NO-BJERKALEIRELV",
+        "NO-22BJERKALEIRE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

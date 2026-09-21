@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000016036",
-    "@skos:prefLabel": "MOSKOG  G162 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G162_",
+    "@skos:prefLabel": "HOLSEN  G162 HYDRO",
+    "@skos:altLabel": "NO-HOLSENG162",
     "@cim:IdentifiedObject.mRID": "50WG000000016036",
-    "@cim:IdentifiedObject.name": "MOSKOG  G162 HYDRO",
+    "@cim:IdentifiedObject.name": "HOLSEN  G162 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G162_",
+        "NO-HOLSENG162",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

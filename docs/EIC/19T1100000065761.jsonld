@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065761",
-    "@skos:prefLabel": "Mościska-A1",
+    "@skos:prefLabel": "400/110kV Mosciska AT1",
     "@skos:altLabel": "MSK-A1",
     "@cim:IdentifiedObject.mRID": "19T1100000065761",
-    "@cim:IdentifiedObject.name": "Mościska-A1",
+    "@cim:IdentifiedObject.name": "400/110kV Mosciska AT1",
     "@cim:Names.name": [
         "MSK-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

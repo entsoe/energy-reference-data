@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006802I",
-    "@skos:prefLabel": "Połaniec-Klikowa",
+    "@skos:prefLabel": "220kV Klikowa-Polaniec",
     "@skos:altLabel": "222PL",
     "@cim:IdentifiedObject.mRID": "19T110000006802I",
-    "@cim:IdentifiedObject.name": "Połaniec-Klikowa",
+    "@cim:IdentifiedObject.name": "220kV Klikowa-Polaniec",
     "@cim:Names.name": [
         "222PL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-03-30",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

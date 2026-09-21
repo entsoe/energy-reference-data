@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRES-HSN-----M" ;
     cim:IdentifiedObject.name "HSN Magdeburg GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE232523649",
-        "HSN-RESI" ;
+    cim:Names.name "DE232523649",
+        "HSN-RESI",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XRES-HSN-----M" ;
     schema1:vatID "DE232523649" ;
     skos:altLabel "HSN-RESI" ;

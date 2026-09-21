@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XOSLAN-12345-B</dcterms:identifier>
     <skos:prefLabel>CALDERERIA OSLAN S.L</skos:prefLabel>
     <skos:altLabel>OSLAN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XOSLAN-12345-B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CALDERERIA OSLAN S.L</cim:IdentifiedObject.name>
     <cim:Names.name>OSLAN</cim:Names.name>
     <cim:Names.name>ESB20769147</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-05-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB20769147</schema:vatID>

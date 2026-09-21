@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-28" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000021352" ;
-    cim:IdentifiedObject.name "Oyfjellet Vindpark" ;
-    cim:Names.name "NO-OYFJELLET-VIN",
+    cim:IdentifiedObject.name "Øyfjellet Vindkraftverk" ;
+    cim:Names.name "NO-OYFJELLET_VIN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000021352" ;
-    skos:altLabel "NO-OYFJELLET-VIN" ;
+    skos:altLabel "NO-OYFJELLET_VIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Oyfjellet Vindpark" ;
+    skos:prefLabel "Øyfjellet Vindkraftverk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

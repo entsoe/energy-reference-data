@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Trading Point" ;
     cim:IdentifiedObject.mRID "21Y---A001A004-2" ;
-    cim:IdentifiedObject.name "Exchange NordPool" ;
-    cim:Names.name "NPTF-DK",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "EXX-ETF-DK" ;
+    cim:Names.name "EXX-ETF-DK",
+        "Market Area" ;
     dcterms:identifier "urn:eic:21Y---A001A004-2" ;
-    skos:altLabel "NPTF-DK" ;
-    skos:definition "Virtual Trading Point"@en ;
+    skos:altLabel "EXX-ETF-DK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Exchange NordPool" ;
+    skos:prefLabel "EXX-ETF-DK" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

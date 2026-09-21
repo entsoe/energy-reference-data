@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-05-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000516Q" ;
-    cim:IdentifiedObject.name "Rotterdam Waalhaven 150kV ODL150 Z" ;
+    cim:IdentifiedObject.name "Rotterdam Waalhaven - Oudeland 150 Zwart" ;
     cim:Names.name "Internal Line",
         "RTW-ODL150-Z" ;
     dcterms:identifier "urn:eic:49T000000000516Q" ;
     skos:altLabel "RTW-ODL150-Z" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Rotterdam Waalhaven 150kV ODL150 Z" ;
+    skos:prefLabel "Rotterdam Waalhaven - Oudeland 150 Zwart" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

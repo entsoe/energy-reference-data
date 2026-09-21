@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLABA-123456-X",
     "@skos:prefLabel": "Pizarras La Baña S.A",
     "@skos:altLabel": "LABA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLABA-123456-X",
     "@cim:IdentifiedObject.name": "Pizarras La Baña S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA24031874",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-05-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA24031874",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006813D",
-    "@skos:prefLabel": "400kV Plewiska - Krajnik c.2",
+    "@skos:prefLabel": "400kV Krajnik-Plewiska 2",
     "@skos:altLabel": "H0918",
     "@cim:IdentifiedObject.mRID": "19T110000006813D",
-    "@cim:IdentifiedObject.name": "400kV Plewiska - Krajnik c.2",
+    "@cim:IdentifiedObject.name": "400kV Krajnik-Plewiska 2",
     "@cim:Names.name": [
         "H0918",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-13",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

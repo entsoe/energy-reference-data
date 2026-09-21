@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45W000000000232L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45W000000000232L" ;
+    cim:IdentifiedObject.name "Fynsværket FFA" ;
+    cim:Names.name "FYV_FFA",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:45W000000000232L" ;
+    skos:altLabel "FYV_FFA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Fynsværket FFA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

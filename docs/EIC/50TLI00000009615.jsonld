@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000009615",
-    "@skos:prefLabel": "M 22 Sundal-Tussa",
-    "@skos:altLabel": "NO-SUNDALTUSSA",
+    "@skos:prefLabel": "N 22 Sundal-Volda",
+    "@skos:altLabel": "NO-22SUNDALVOLDA",
     "@cim:IdentifiedObject.mRID": "50TLI00000009615",
-    "@cim:IdentifiedObject.name": "M 22 Sundal-Tussa",
+    "@cim:IdentifiedObject.name": "N 22 Sundal-Volda",
     "@cim:Names.name": [
-        "NO-SUNDALTUSSA",
+        "NO-22SUNDALVOLDA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-12-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

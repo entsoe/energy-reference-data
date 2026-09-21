@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X100A100R0180U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X100A100R0180U" ;
+    cim:IdentifiedObject.name "Sorégies" ;
+    cim:Names.name "Balance Responsible Party",
+        "FR68450889225",
+        "FR_SOREGIES_R" ;
+    dcterms:identifier "urn:eic:17X100A100R0180U" ;
+    schema1:vatID "FR68450889225" ;
+    skos:altLabel "FR_SOREGIES_R" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sorégies" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

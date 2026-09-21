@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X0000000000232",
-    "@skos:prefLabel": "Bioenergie Wiesenburg GmbH",
-    "@skos:altLabel": "BIO_WIESENBURG",
+    "@skos:prefLabel": "Balance BMM",
+    "@skos:altLabel": "BALANCE_BMM",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "37X0000000000232",
-    "@cim:IdentifiedObject.name": "Bioenergie Wiesenburg GmbH",
+    "@cim:IdentifiedObject.name": "Balance BMM",
     "@cim:Names.name": [
-        "BIO_WIESENBURG",
-        "DE275390683",
+        "BALANCE_BMM",
+        "DE451246288",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-05-12",
-    "@schema:vatID": "DE275390683",
+    "@cim:DateAndOrTime.date": "2026-04-23",
+    "@schema:vatID": "DE451246288",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001774V",
-    "@skos:prefLabel": "S Åsnes    2   LARM Last",
+    "@skos:prefLabel": "S Åsnes    2   L1  Forbruk",
     "@skos:altLabel": "NO-ASNES2",
     "@cim:IdentifiedObject.mRID": "50WC00000001774V",
-    "@cim:IdentifiedObject.name": "S Åsnes    2   LARM Last",
+    "@cim:IdentifiedObject.name": "S Åsnes    2   L1  Forbruk",
     "@cim:Names.name": [
         "NO-ASNES2",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000576P" ;
     cim:IdentifiedObject.name "GRONVOLLG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GRONVOLLG2___" ;
+        "NO-GRONVOLLG2" ;
     dcterms:identifier "urn:eic:50WG00000000576P" ;
-    skos:altLabel "NO-GRONVOLLG2___" ;
+    skos:altLabel "NO-GRONVOLLG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GRONVOLLG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

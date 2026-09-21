@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-26" ;
+    cim:DateAndOrTime.date "2026-02-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "60X0000000001377" ;
-    cim:IdentifiedObject.name "ARVI INVEST RO SRL " ;
+    cim:IdentifiedObject.name "ARVI INVEST RO SRL" ;
     cim:Names.name "ARVIINVESTRO",
         "RO42285698",
         "Resource Provider" ;
@@ -18,6 +18,6 @@
     schema1:vatID "RO42285698" ;
     skos:altLabel "ARVIINVESTRO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ARVI INVEST RO SRL " ;
+    skos:prefLabel "ARVI INVEST RO SRL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

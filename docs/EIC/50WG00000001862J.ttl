@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001862J" ;
     cim:IdentifiedObject.name "TEGNEBY G116 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TEGNEBY_G116_" ;
+        "NO-TEGNEBYG116" ;
     dcterms:identifier "urn:eic:50WG00000001862J" ;
-    skos:altLabel "NO-TEGNEBY_G116_" ;
+    skos:altLabel "NO-TEGNEBYG116" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TEGNEBY G116 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

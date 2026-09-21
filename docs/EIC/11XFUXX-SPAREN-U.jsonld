@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XFUXX-SPAREN-U",
     "@skos:prefLabel": "Fuxx - Die Sparenergie GmbH",
     "@skos:altLabel": "FUXX",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XFUXX-SPAREN-U",
     "@cim:IdentifiedObject.name": "Fuxx - Die Sparenergie GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE292091738",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-12-20",
+    "@cim:DateAndOrTime.date": "2025-05-14",
     "@schema:vatID": "DE292091738",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

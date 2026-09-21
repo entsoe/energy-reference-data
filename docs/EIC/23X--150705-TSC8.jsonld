@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--150705-TSC8",
-    "@skos:prefLabel": "TrailStone Commodity Trading UK Ltd",
-    "@skos:altLabel": "TS_COMMODITY_UK",
+    "@skos:prefLabel": "Engelhart CTP Commodity Trading UK Ltd",
+    "@skos:altLabel": "ENGELHART_CT_UK",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Trade Responsible Party"
+        "@value": "Trade Responsible Party\nName change confirmation on 3.2.2025; Company No. 09351772"
     },
     "@cim:IdentifiedObject.mRID": "23X--150705-TSC8",
-    "@cim:IdentifiedObject.name": "TrailStone Commodity Trading UK Ltd",
+    "@cim:IdentifiedObject.name": "Engelhart CTP Commodity Trading UK Ltd",
     "@cim:Names.name": [
-        "TS_COMMODITY_UK",
+        "ENGELHART_CT_UK",
         "GB166380985",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
+    "@cim:IdentifiedObject.description": "Trade Responsible Party\nName change confirmation on 3.2.2025; Company No. 09351772",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-07-03",
+    "@cim:DateAndOrTime.date": "2025-02-19",
     "@schema:vatID": "GB166380985",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

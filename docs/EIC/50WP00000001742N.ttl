@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001742N" ;
     cim:IdentifiedObject.name "Kistefoss 1" ;
-    cim:Names.name "NO-KISTEFOSS_1",
+    cim:Names.name "NO-KISTEFOSS1",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001742N" ;
-    skos:altLabel "NO-KISTEFOSS_1" ;
+    skos:altLabel "NO-KISTEFOSS1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kistefoss 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

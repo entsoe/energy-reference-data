@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000002203H" ;
     cim:IdentifiedObject.name "ASNES   G101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ASNES___G101_" ;
+        "NO-ASNESG101" ;
     dcterms:identifier "urn:eic:50WG00000002203H" ;
-    skos:altLabel "NO-ASNES___G101_" ;
+    skos:altLabel "NO-ASNESG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ASNES   G101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

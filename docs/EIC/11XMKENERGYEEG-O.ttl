@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMKENERGYEEG-O" ;
     cim:IdentifiedObject.name "Martin Richard Kristek Kraftwerksbetrieb" ;
-    cim:Names.name "Balance Group",
-        "DE239481260",
-        "MKPOWER" ;
+    cim:Names.name "DE239481260",
+        "MKPOWER",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMKENERGYEEG-O" ;
     schema1:vatID "DE239481260" ;
     skos:altLabel "MKPOWER" ;

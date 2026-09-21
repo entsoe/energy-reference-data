@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/52X0000000001072> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Capacity Trader,Trade Responsible Party" ;
+    cim:IdentifiedObject.mRID "52X0000000001072" ;
+    cim:IdentifiedObject.name " B & P Limited Holding BV" ;
+    cim:Names.name "BP_LTD_HOLDING",
+        "Capacity Trader",
+        "NL859011975B01",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:52X0000000001072" ;
+    schema1:vatID "NL859011975B01" ;
+    skos:altLabel "BP_LTD_HOLDING" ;
+    skos:definition "Capacity Trader,Trade Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel " B & P Limited Holding BV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

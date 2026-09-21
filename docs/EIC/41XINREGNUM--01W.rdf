@@ -6,17 +6,17 @@
     <dcterms:identifier>urn:eic:41XINREGNUM--01W</dcterms:identifier>
     <skos:prefLabel>UAB Inregnum</skos:prefLabel>
     <skos:altLabel>INREGNUM</skos:altLabel>
-    <skos:definition xml:lang="en">Nepriklausomas energijos tiek&#279;jas. L1-123 Nepriklausomas duj&#371; tiek&#279;jas. L2-60   </skos:definition>
+    <skos:definition xml:lang="en">Nepriklausomas energijos tiek&#279;jas. L1-123 Nepriklausomas duj&#371; tiek&#279;jas. L2-60 		</skos:definition>
     <cim:IdentifiedObject.mRID>41XINREGNUM--01W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>UAB Inregnum</cim:IdentifiedObject.name>
     <cim:Names.name>INREGNUM</cim:Names.name>
     <cim:Names.name>LT100012332712</cim:Names.name>
-    <cim:IdentifiedObject.description>Nepriklausomas energijos tiek&#279;jas. L1-123 Nepriklausomas duj&#371; tiek&#279;jas. L2-60   </cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Nepriklausomas energijos tiek&#279;jas. L1-123 Nepriklausomas duj&#371; tiek&#279;jas. L2-60 		</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-01-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>LT100012332712</schema:vatID>
   </skos:Concept>

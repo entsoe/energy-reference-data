@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19T110000006455D</dcterms:identifier>
-    <skos:prefLabel>220 kV Pi&#322;a Krzewina &#8211; Bydgoszcz t.1</skos:prefLabel>
+    <skos:prefLabel>220kV Bydgoszcz Zachod-Pila Krzewina 1</skos:prefLabel>
     <skos:altLabel>213</skos:altLabel>
     <cim:IdentifiedObject.mRID>19T110000006455D</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>220 kV Pi&#322;a Krzewina &#8211; Bydgoszcz t.1</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>220kV Bydgoszcz Zachod-Pila Krzewina 1</cim:IdentifiedObject.name>
     <cim:Names.name>213</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-05-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-17</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

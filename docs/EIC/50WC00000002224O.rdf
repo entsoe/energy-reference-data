@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000002224O</dcterms:identifier>
     <skos:prefLabel>S Risavika 50  Ln1 Industri</skos:prefLabel>
-    <skos:altLabel>NO-RISAVI50LN1NC</skos:altLabel>
+    <skos:altLabel>NO-RISAVIKA50LN1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000002224O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S Risavika 50  Ln1 Industri</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-RISAVI50LN1NC</cim:Names.name>
+    <cim:Names.name>NO-RISAVIKA50LN1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

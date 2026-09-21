@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001169X" ;
-    cim:IdentifiedObject.name "NES_OEK G108 HYDRO" ;
+    cim:IdentifiedObject.name "FLA     G108 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NES_OEK_G108_" ;
+        "NO-FLAG108" ;
     dcterms:identifier "urn:eic:50WG00000001169X" ;
-    skos:altLabel "NO-NES_OEK_G108_" ;
+    skos:altLabel "NO-FLAG108" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NES_OEK G108 HYDRO" ;
+    skos:prefLabel "FLA     G108 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

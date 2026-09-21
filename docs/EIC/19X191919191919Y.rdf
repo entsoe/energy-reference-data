@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19X191919191919Y</dcterms:identifier>
-    <skos:prefLabel>GREENVOLT POWER TRADING SP.Z O.O.</skos:prefLabel>
-    <skos:altLabel>GVPT</skos:altLabel>
-    <skos:definition xml:lang="en">Dodatkowy tel.: 601714181</skos:definition>
+    <skos:prefLabel>ENTRIX POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>ENTRIX_PL</skos:altLabel>
     <cim:IdentifiedObject.mRID>19X191919191919Y</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GREENVOLT POWER TRADING SP.Z O.O.</cim:IdentifiedObject.name>
-    <cim:Names.name>GVPT</cim:Names.name>
+    <cim:IdentifiedObject.name>ENTRIX POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>ENTRIX_PL</cim:Names.name>
+    <cim:Names.name>A0020732I.PL</cim:Names.name>
     <cim:Names.name>PL5213983839</cim:Names.name>
-    <cim:IdentifiedObject.description>Dodatkowy tel.: 601714181</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-27</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-04-08</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5213983839</schema:vatID>
   </skos:Concept>

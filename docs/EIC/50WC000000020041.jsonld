@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000020041",
-    "@skos:prefLabel": "Alcoa-Lista",
-    "@skos:altLabel": "NO-ALCOA-LISTA",
+    "@skos:prefLabel": "N Moskog   2   L1  Forbruk",
+    "@skos:altLabel": "NO-MOSKOG2",
     "@cim:IdentifiedObject.mRID": "50WC000000020041",
-    "@cim:IdentifiedObject.name": "Alcoa-Lista",
+    "@cim:IdentifiedObject.name": "N Moskog   2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-ALCOA-LISTA",
+        "NO-MOSKOG2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

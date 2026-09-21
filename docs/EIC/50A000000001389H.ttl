@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000001389H" ;
-    cim:IdentifiedObject.name "T_Fygle" ;
-    cim:Names.name "NO-T_FYGLE",
+    cim:IdentifiedObject.name "T_Skillemo" ;
+    cim:Names.name "NO-T_SKILLE",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000001389H" ;
-    skos:altLabel "NO-T_FYGLE" ;
+    skos:altLabel "NO-T_SKILLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "T_Fygle" ;
+    skos:prefLabel "T_Skillemo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

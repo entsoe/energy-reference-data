@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-08-03" ;
+    cim:DateAndOrTime.date "2026-01-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Unit" ;
+    cim:IdentifiedObject.description "Production Unit - LIO update" ;
     cim:IdentifiedObject.mRID "17W100P100P0273A" ;
     cim:IdentifiedObject.name "CHEYLAS" ;
     cim:Names.name "FR_PU-CHEYL-P",
         "Production Unit" ;
     dcterms:identifier "urn:eic:17W100P100P0273A" ;
     skos:altLabel "FR_PU-CHEYL-P" ;
-    skos:definition "Production Unit"@en ;
+    skos:definition "Production Unit - LIO update"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "CHEYLAS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

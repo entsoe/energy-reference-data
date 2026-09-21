@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P9EO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P9EO" ;
+    cim:IdentifiedObject.name "HEYCO ENERGY IBERIA S.L." ;
+    cim:Names.name "ES-HEYCO_ENERGY",
+        "ESB16898041",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P9EO" ;
+    schema1:vatID "ESB16898041" ;
+    skos:altLabel "ES-HEYCO_ENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HEYCO ENERGY IBERIA S.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

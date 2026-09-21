@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGRAN-123456-Y</dcterms:identifier>
     <skos:prefLabel>Granitos de Atios, S.A.</skos:prefLabel>
     <skos:altLabel>GRAN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGRAN-123456-Y</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Granitos de Atios, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>GRAN</cim:Names.name>
     <cim:Names.name>ESA36062206</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-03-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA36062206</schema:vatID>

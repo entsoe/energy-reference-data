@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCMT-123456-1Z" ;
     cim:IdentifiedObject.name "COGENERACIÓN MOTRIL, S.A." ;
     cim:Names.name "CMT",
         "ESA41797408",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XCMT-123456-1Z" ;
     schema1:vatID "ESA41797408" ;
     skos:altLabel "CMT" ;

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TT00000006605Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-13" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "50TT00000006605Z" ;
+    cim:IdentifiedObject.name "S Berger   T1G Transformator" ;
+    cim:Names.name "NO-BERGERT1G",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:50TT00000006605Z" ;
+    skos:altLabel "NO-BERGERT1G" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Berger   T1G Transformator" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

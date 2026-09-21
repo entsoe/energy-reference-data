@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0284-P-000-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0284-P-000-5" ;
+    cim:IdentifiedObject.name "Primo Real Estate d.d." ;
+    cim:Names.name "HR-P-REAL-ESTATE",
+        "HR52157649749",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0284-P-000-5" ;
+    schema1:vatID "HR52157649749" ;
+    skos:altLabel "HR-P-REAL-ESTATE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Primo Real Estate d.d." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

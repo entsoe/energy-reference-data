@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000000982E</dcterms:identifier>
     <skos:prefLabel>LIO     G102 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-LIO_____G102_</skos:altLabel>
+    <skos:altLabel>NO-LIOG102</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000000982E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>LIO     G102 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-LIO_____G102_</cim:Names.name>
+    <cim:Names.name>NO-LIOG102</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

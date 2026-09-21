@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X00000001263-Z",
-    "@skos:prefLabel": "AGSM AIM ENERGIA SPA",
-    "@skos:altLabel": "IT-AGSMAIMENERGI",
+    "@skos:prefLabel": "MAGIS ENERGIA",
+    "@skos:altLabel": "IT-MAGISENERGIAS",
     "@cim:IdentifiedObject.mRID": "26X00000001263-Z",
-    "@cim:IdentifiedObject.name": "AGSM AIM ENERGIA SPA",
+    "@cim:IdentifiedObject.name": "MAGIS ENERGIA",
     "@cim:Names.name": [
-        "IT-AGSMAIMENERGI",
+        "IT-MAGISENERGIAS",
         "IT02968430237",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-04",
+    "@cim:DateAndOrTime.date": "2026-05-18",
     "@schema:vatID": "IT02968430237",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

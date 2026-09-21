@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000000252",
-    "@skos:prefLabel": "S 110 Laudal-Grødal",
-    "@skos:altLabel": "NO-LAUDALGRODAL",
+    "@skos:prefLabel": "S 110 Laudal-T_Laudal",
+    "@skos:altLabel": "NO-110LAUDALT_LA",
     "@cim:IdentifiedObject.mRID": "50TL000000000252",
-    "@cim:IdentifiedObject.name": "S 110 Laudal-Grødal",
+    "@cim:IdentifiedObject.name": "S 110 Laudal-T_Laudal",
     "@cim:Names.name": [
-        "NO-LAUDALGRODAL",
+        "NO-110LAUDALT_LA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XTGEDM-12345-Z</dcterms:identifier>
     <skos:prefLabel>GAS ENERGIA DISTRIBUCION MURCIA, S.A.</skos:prefLabel>
     <skos:altLabel>TGEDM</skos:altLabel>
-    <skos:definition xml:lang="en">Transmission Capacity Allocator</skos:definition>
     <cim:IdentifiedObject.mRID>18XTGEDM-12345-Z</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GAS ENERGIA DISTRIBUCION MURCIA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>TGEDM</cim:Names.name>
     <cim:Names.name>ESA30595417</cim:Names.name>
-    <cim:IdentifiedObject.description>Transmission Capacity Allocator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-04-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Transmission Capacity Allocator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA30595417</schema:vatID>

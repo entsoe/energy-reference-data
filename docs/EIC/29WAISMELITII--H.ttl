@@ -7,14 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-06-24" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-09-29" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description """Email address: g.konstantas@ppcgroup.com
+As an authorized representative of PPC SA, I request the
+deallocation of the above EIC Code, due to planned
+withdrawal according to the L.5164-Art.79 (A202/2024).""" ;
     cim:IdentifiedObject.mRID "29WAISMELITII--H" ;
     cim:IdentifiedObject.name "AIS MELITIS I" ;
     cim:Names.name "AISMELITII",
         "Production Unit" ;
     dcterms:identifier "urn:eic:29WAISMELITII--H" ;
     skos:altLabel "AISMELITII" ;
+    skos:definition """Email address: g.konstantas@ppcgroup.com
+As an authorized representative of PPC SA, I request the
+deallocation of the above EIC Code, due to planned
+withdrawal according to the L.5164-Art.79 (A202/2024)."""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "AIS MELITIS I" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

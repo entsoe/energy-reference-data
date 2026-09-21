@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000395T" ;
-    cim:IdentifiedObject.name "FANA    G116 HYDRO" ;
+    cim:IdentifiedObject.name "TRENGEREG116 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-FANA____G116_" ;
+        "NO-TRENGEREG116" ;
     dcterms:identifier "urn:eic:50WG00000000395T" ;
-    skos:altLabel "NO-FANA____G116_" ;
+    skos:altLabel "NO-TRENGEREG116" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FANA    G116 HYDRO" ;
+    skos:prefLabel "TRENGEREG116 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

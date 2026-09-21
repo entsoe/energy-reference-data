@@ -12,19 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--161201--D-M",
-    "@skos:prefLabel": "PUBLIC GAS CORPORATION OF GREECE (DEPA) S.A.",
-    "@skos:altLabel": "DEPA_SA",
+    "@skos:prefLabel": "DEPA COMMERCIAL SINGLE MEMBER SOCIETE ANONYME",
+    "@skos:altLabel": "DEPA_C_SMSA",
     "@cim:IdentifiedObject.mRID": "23X--161201--D-M",
-    "@cim:IdentifiedObject.name": "PUBLIC GAS CORPORATION OF GREECE (DEPA) S.A.",
+    "@cim:IdentifiedObject.name": "DEPA COMMERCIAL SINGLE MEMBER SOCIETE ANONYME",
     "@cim:Names.name": [
-        "DEPA_SA",
+        "DEPA_C_SMSA",
         "A0004373H.GR",
         "EL094229666",
+        "Energy Supplier",
         "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-12-01",
+    "@cim:DateAndOrTime.date": "2026-06-12",
     "@schema:vatID": "EL094229666",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

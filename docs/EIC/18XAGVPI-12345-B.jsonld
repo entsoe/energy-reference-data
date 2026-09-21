@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAGVPI-12345-B",
     "@skos:prefLabel": "18XAGVPI-12345-B",
     "@skos:altLabel": "AGVPI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAGVPI-12345-B",
     "@cim:IdentifiedObject.name": "18XAGVPI-12345-B",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES48286621F",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-11-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES48286621F",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

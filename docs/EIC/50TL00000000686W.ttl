@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000686W" ;
-    cim:IdentifiedObject.name "S 132 Sunde-Kjøsnesfjord" ;
+    cim:IdentifiedObject.name "N 132 Sunde-Kjøsnesfjord" ;
     cim:Names.name "Internal Line",
-        "NO-SUNDEKJOSNESF" ;
+        "NO-132SUNDEKJOSN" ;
     dcterms:identifier "urn:eic:50TL00000000686W" ;
-    skos:altLabel "NO-SUNDEKJOSNESF" ;
+    skos:altLabel "NO-132SUNDEKJOSN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Sunde-Kjøsnesfjord" ;
+    skos:prefLabel "N 132 Sunde-Kjøsnesfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z0000000003956",
-    "@skos:prefLabel": "Lisburn Exit Point",
+    "@skos:prefLabel": "Lisburn Offtake Point",
     "@skos:altLabel": "LISBURN-NI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "The Point At Which Gas Can Flow Out Of The Gni (Uk)"
-    },
     "@cim:IdentifiedObject.mRID": "21Z0000000003956",
-    "@cim:IdentifiedObject.name": "Lisburn Exit Point",
+    "@cim:IdentifiedObject.name": "Lisburn Offtake Point",
     "@cim:Names.name": [
         "LISBURN-NI",
-        "Valid EIC Function needed"
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "The Point At Which Gas Can Flow Out Of The Gni (Uk)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

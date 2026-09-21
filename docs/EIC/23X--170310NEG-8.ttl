@@ -13,8 +13,10 @@
     cim:IdentifiedObject.name "New Europe Gaz d.o.o." ;
     cim:Names.name "Capacity Trader",
         "NEW_EUROPE_GAZ",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--170310NEG-8" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "NEW_EUROPE_GAZ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "New Europe Gaz d.o.o." ;

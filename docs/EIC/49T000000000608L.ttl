@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T000000000608L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "System Operator" ;
+    cim:IdentifiedObject.mRID "49T000000000608L" ;
+    cim:IdentifiedObject.name "Botlek-Geervliet Noorddijk 150 kV Paars" ;
+    cim:Names.name "BTL-GVT2-15P",
+        "Internal Line" ;
+    dcterms:identifier "urn:eic:49T000000000608L" ;
+    skos:altLabel "BTL-GVT2-15P" ;
+    skos:definition "System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Botlek-Geervliet Noorddijk 150 kV Paars" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

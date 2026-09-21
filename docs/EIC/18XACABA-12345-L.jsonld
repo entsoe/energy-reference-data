@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XACABA-12345-L",
     "@skos:prefLabel": "ACABADOS BAÑERES S.A.",
     "@skos:altLabel": "ACABA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XACABA-12345-L",
     "@cim:IdentifiedObject.name": "ACABADOS BAÑERES S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA03040060",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-02-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA03040060",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

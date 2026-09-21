@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-11" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2026-08-21" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11W0-0000-0130-6" ;
     cim:IdentifiedObject.name "Windpark Borkum Riffgrund 2" ;
-    cim:Names.name "BKR02" ;
+    cim:Names.name "BKR02",
+        "Generation" ;
     dcterms:identifier "urn:eic:11W0-0000-0130-6" ;
     skos:altLabel "BKR02" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "59XVORTICES--017" ;
     cim:IdentifiedObject.name "Vortices Energy Ltd." ;
     cim:Names.name "Balance Responsible Party",
-        "VORTICESENERGY" ;
+        "VORTICESENERGY",
+        "n / a" ;
     dcterms:identifier "urn:eic:59XVORTICES--017" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "VORTICESENERGY" ;
     skos:definition "UAE Company; EU Value not inserted because non-european company."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

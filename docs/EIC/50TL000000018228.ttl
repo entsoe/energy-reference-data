@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000018228" ;
     cim:IdentifiedObject.name "S 66 Harpefossen-Nedre Vinstra" ;
     cim:Names.name "Internal Line",
-        "NO-HARPEFOSSENNE" ;
+        "NO-66HARPEFNSTRA" ;
     dcterms:identifier "urn:eic:50TL000000018228" ;
-    skos:altLabel "NO-HARPEFOSSENNE" ;
+    skos:altLabel "NO-66HARPEFNSTRA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Harpefossen-Nedre Vinstra" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001191H" ;
-    cim:IdentifiedObject.name "M 420 Moskog-Høyanger" ;
+    cim:IdentifiedObject.name "N 420 Moskog-Høyanger" ;
     cim:Names.name "Internal Line",
-        "NO-MOSKOGHOYANGE" ;
+        "NO-420MOSKOGHOYA" ;
     dcterms:identifier "urn:eic:50TL00000001191H" ;
-    skos:altLabel "NO-MOSKOGHOYANGE" ;
+    skos:altLabel "NO-420MOSKOGHOYA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Moskog-Høyanger" ;
+    skos:prefLabel "N 420 Moskog-Høyanger" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

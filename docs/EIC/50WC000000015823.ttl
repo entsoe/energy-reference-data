@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC000000015823" ;
     cim:IdentifiedObject.name "S Beitostø 132 T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BEITOSTOLE132" ;
+        "NO-BEITOSTOLEN13" ;
     dcterms:identifier "urn:eic:50WC000000015823" ;
-    skos:altLabel "NO-BEITOSTOLE132" ;
+    skos:altLabel "NO-BEITOSTOLEN13" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Beitostø 132 T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

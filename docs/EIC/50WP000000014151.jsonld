@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000014151",
     "@skos:prefLabel": "Eidet 1",
-    "@skos:altLabel": "NO-EIDET-1_PL",
+    "@skos:altLabel": "NO-EIDET1",
     "@cim:IdentifiedObject.mRID": "50WP000000014151",
     "@cim:IdentifiedObject.name": "Eidet 1",
     "@cim:Names.name": [
-        "NO-EIDET-1_PL",
+        "NO-EIDET1",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

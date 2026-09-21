@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000629U" ;
     cim:IdentifiedObject.name "HAUGEN  G131 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HAUGEN__G131_" ;
+        "NO-HAUGENG131" ;
     dcterms:identifier "urn:eic:50WG00000000629U" ;
-    skos:altLabel "NO-HAUGEN__G131_" ;
+    skos:altLabel "NO-HAUGENG131" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HAUGEN  G131 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

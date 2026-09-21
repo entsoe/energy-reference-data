@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Trading Company" ;
     cim:IdentifiedObject.mRID "24XSTATKRAFT-SKT" ;
     cim:IdentifiedObject.name "Statkraft Markets GmbH, o.z." ;
     cim:Names.name "11XSTATKRAFT001N",
         "SK2022206824",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XSTATKRAFT-SKT" ;
     schema1:vatID "SK2022206824" ;
     skos:altLabel "11XSTATKRAFT001N" ;

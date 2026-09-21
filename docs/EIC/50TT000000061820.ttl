@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000061820" ;
     cim:IdentifiedObject.name "N Skaidi   T3 Transformator" ;
-    cim:Names.name "NO-SKAIDI__T3",
+    cim:Names.name "NO-SKAIDIT3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000061820" ;
-    skos:altLabel "NO-SKAIDI__T3" ;
+    skos:altLabel "NO-SKAIDIT3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Skaidi   T3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

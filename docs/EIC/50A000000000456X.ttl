@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000000456X" ;
-    cim:IdentifiedObject.name "Hafsl.ko" ;
-    cim:Names.name "NO-HAFSL_KO",
+    cim:IdentifiedObject.name "Hafslund" ;
+    cim:Names.name "NO-HAFSLUND",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000000456X" ;
-    skos:altLabel "NO-HAFSL_KO" ;
+    skos:altLabel "NO-HAFSLUND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hafsl.ko" ;
+    skos:prefLabel "Hafslund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

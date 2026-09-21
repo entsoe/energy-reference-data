@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-12-04" ;
+    cim:DateAndOrTime.date "2026-03-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XREPP-12345-0T" ;
-    cim:IdentifiedObject.name "REPSOL PETRÓLEO, S.A." ;
+    cim:IdentifiedObject.name "REPSOL FUELS, S.A.U." ;
     cim:Names.name "Consumption Responsible Party",
         "ESA28047223",
         "Producer",
-        "Production Responsible party",
         "REPP" ;
     dcterms:identifier "urn:eic:18XREPP-12345-0T" ;
     schema1:vatID "ESA28047223" ;
     skos:altLabel "REPP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "REPSOL PETRÓLEO, S.A." ;
+    skos:prefLabel "REPSOL FUELS, S.A.U." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

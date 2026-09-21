@@ -22,7 +22,9 @@
     "@cim:IdentifiedObject.name": "SIA \"Gate service\"",
     "@cim:Names.name": [
         "GATE_SERVICE",
-        "LV40203030442"
+        "LV40203030442",
+        "Network User",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A03",

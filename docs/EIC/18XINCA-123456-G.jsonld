@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XINCA-123456-G",
     "@skos:prefLabel": "Grupo Incarve Suministros y Servicios Agrupación de Interés Económico",
     "@skos:altLabel": "INCA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XINCA-123456-G",
     "@cim:IdentifiedObject.name": "Grupo Incarve Suministros y Servicios Agrupación de Interés Económico",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESV24664435",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-11-21",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESV24664435",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

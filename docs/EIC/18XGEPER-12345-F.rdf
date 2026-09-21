@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGEPER-12345-F</dcterms:identifier>
     <skos:prefLabel>GEPERS SA</skos:prefLabel>
     <skos:altLabel>GEPER</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGEPER-12345-F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GEPERS SA</cim:IdentifiedObject.name>
     <cim:Names.name>GEPER</cim:Names.name>
     <cim:Names.name>ES08805301</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-12-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ES08805301</schema:vatID>

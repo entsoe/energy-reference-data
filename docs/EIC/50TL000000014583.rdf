@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL000000014583</dcterms:identifier>
-    <skos:prefLabel>S 47 Strupe-Navestad1</skos:prefLabel>
-    <skos:altLabel>NO-STRUPENAVEST1</skos:altLabel>
+    <skos:prefLabel>S 47 Strupe-Navestad</skos:prefLabel>
+    <skos:altLabel>NO-47STRUPENAVES</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL000000014583</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S 47 Strupe-Navestad1</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-STRUPENAVEST1</cim:Names.name>
+    <cim:IdentifiedObject.name>S 47 Strupe-Navestad</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-47STRUPENAVES</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-08-22</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

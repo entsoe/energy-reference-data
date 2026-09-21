@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "21Z0000000004782" ;
     cim:IdentifiedObject.name "Deutschneudorf_NEW-HSK1" ;
-    cim:Names.name "DND-NEW_HSK-1" ;
+    cim:Names.name "Connection Point",
+        "DND-NEW_HSK-1" ;
     dcterms:identifier "urn:eic:21Z0000000004782" ;
     skos:altLabel "DND-NEW_HSK-1" ;
     skos:definition "Connection Point"@en ;

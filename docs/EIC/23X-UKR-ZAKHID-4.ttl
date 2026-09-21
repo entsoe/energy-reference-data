@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-19" ;
+    cim:DateAndOrTime.date "2024-02-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23X-UKR-ZAKHID-4" ;
-    cim:IdentifiedObject.name "OJSC â€žZakhidenergoâ€œ" ;
+    cim:IdentifiedObject.name "DTEK WESTENERGY JSC" ;
     cim:Names.name "23269555",
-        "Trade Responsible Party",
-        "UKR_ZAKHID" ;
+        "DTEK_WESTENERGY",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X-UKR-ZAKHID-4" ;
     schema1:vatID "23269555" ;
-    skos:altLabel "UKR_ZAKHID" ;
+    skos:altLabel "DTEK_WESTENERGY" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "OJSC â€žZakhidenergoâ€œ" ;
+    skos:prefLabel "DTEK WESTENERGY JSC" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

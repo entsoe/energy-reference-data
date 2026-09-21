@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17X000000475689X",
-    "@skos:prefLabel": "VATTENFALL ENERGIES",
-    "@skos:altLabel": "FR_VATTENFALL_EN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "OK Vies, nv code  suite au pb du passé"
-    },
+    "@skos:prefLabel": "Alterna Energie France",
+    "@skos:altLabel": "FR_ALTERNA_FR",
     "@cim:IdentifiedObject.mRID": "17X000000475689X",
-    "@cim:IdentifiedObject.name": "VATTENFALL ENERGIES",
+    "@cim:IdentifiedObject.name": "Alterna Energie France",
     "@cim:Names.name": [
-        "FR_VATTENFALL_EN",
+        "FR_ALTERNA_FR",
         "FR43421550823",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "OK Vies, nv code  suite au pb du passé",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-05-16",
+    "@cim:DateAndOrTime.date": "2026-07-02",
     "@schema:vatID": "FR43421550823",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

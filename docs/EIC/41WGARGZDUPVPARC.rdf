@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WGARGZDUPVPARC">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WGARGZDUPVPARC</dcterms:identifier>
+    <skos:prefLabel>Garg&#382;d&#371; PV parkas</skos:prefLabel>
+    <skos:altLabel>GARGZDUPVPARKAS</skos:altLabel>
+    <skos:definition xml:lang="en">Garg&#382;d&#371; PV parkas 13,0MW   Tolupio g. 1D, Birbin&#269;i&#371; k., Dovil&#371; sen., Klaip&#279;dos raj.   ESO objekto Nr. 50263652</skos:definition>
+    <cim:IdentifiedObject.mRID>41WGARGZDUPVPARC</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Garg&#382;d&#371; PV parkas</cim:IdentifiedObject.name>
+    <cim:Names.name>GARGZDUPVPARKAS</cim:Names.name>
+    <cim:IdentifiedObject.description>Garg&#382;d&#371; PV parkas 13,0MW   Tolupio g. 1D, Birbin&#269;i&#371; k., Dovil&#371; sen., Klaip&#279;dos raj.   ESO objekto Nr. 50263652</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-10-24</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002578B",
     "@skos:prefLabel": "ELDAO   G2      HYDRO",
-    "@skos:altLabel": "NO-ELDAO___G2___",
+    "@skos:altLabel": "NO-ELDAOG2",
     "@cim:IdentifiedObject.mRID": "50WG00000002578B",
     "@cim:IdentifiedObject.name": "ELDAO   G2      HYDRO",
     "@cim:Names.name": [
-        "NO-ELDAO___G2___",
+        "NO-ELDAOG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-ACEN00532" ;
     cim:IdentifiedObject.name "ACTUS ENERGY" ;
-    cim:Names.name "LV-ACEN38",
+    cim:Names.name "Balance Responsible Party",
+        "LV-ACEN38",
         "LV40003608919" ;
     dcterms:identifier "urn:eic:43X-TG-ACEN00532" ;
     schema1:vatID "LV40003608919" ;

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000284G" ;
-    cim:IdentifiedObject.name "M Brandhol 22  Forbruk" ;
+    cim:IdentifiedObject.name "N Brandhol 22  R1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BRANDHOL22" ;
+        "NO-BRANDHOL22R1" ;
     dcterms:identifier "urn:eic:50WC00000000284G" ;
-    skos:altLabel "NO-BRANDHOL22" ;
+    skos:altLabel "NO-BRANDHOL22R1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Brandhol 22  Forbruk" ;
+    skos:prefLabel "N Brandhol 22  R1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

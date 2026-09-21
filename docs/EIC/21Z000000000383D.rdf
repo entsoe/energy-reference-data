@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Z000000000383D</dcterms:identifier>
     <skos:prefLabel>GIM Kawerna</skos:prefLabel>
     <skos:altLabel>GIM_KAWERNA</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point To Storage</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000383D</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GIM Kawerna</cim:IdentifiedObject.name>
     <cim:Names.name>GIM_KAWERNA</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point To Storage</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "LNG System Operator (LSO)" ;
     cim:IdentifiedObject.mRID "53XPL000000PLNG6" ;
     cim:IdentifiedObject.name "Polskie LNG S.A." ;
-    cim:Names.name "PL8551550226",
-        "POLSKIE_LNG",
-        "Valid EIC Function needed" ;
+    cim:Names.name "LNG System Operator",
+        "PL8551550226",
+        "POLSKIE_LNG" ;
     dcterms:identifier "urn:eic:53XPL000000PLNG6" ;
     schema1:vatID "PL8551550226" ;
     skos:altLabel "POLSKIE_LNG" ;

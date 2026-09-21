@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XALBOR-12345-Q</dcterms:identifier>
     <skos:prefLabel>E.S.ALBORACHE, S.L.</skos:prefLabel>
     <skos:altLabel>ALBOR</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XALBOR-12345-Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>E.S.ALBORACHE, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>ALBOR</cim:Names.name>
     <cim:Names.name>ESB96318647</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-10-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB96318647</schema:vatID>

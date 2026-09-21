@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/19X110000000140C">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:19X110000000140C</dcterms:identifier>
+    <skos:prefLabel>EUROPEAN WIND FARMS POLSKA SP ZOO GRZMI&#260;CA SP KOMANDYTOWA</skos:prefLabel>
+    <skos:altLabel>GRZMIACA</skos:altLabel>
+    <cim:IdentifiedObject.mRID>19X110000000140C</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>EUROPEAN WIND FARMS POLSKA SP ZOO GRZMI&#260;CA SP KOMANDYTOWA</cim:IdentifiedObject.name>
+    <cim:Names.name>GRZMIACA</cim:Names.name>
+    <cim:Names.name>PL9571010290</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-04-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>PL9571010290</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

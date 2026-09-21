@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001410W",
-    "@skos:prefLabel": "M Hareidsb 22  L22 Forbruk",
-    "@skos:altLabel": "NO-HAREIDSB22",
+    "@skos:prefLabel": "N Hareidsb 22  L22 Forbruk",
+    "@skos:altLabel": "NO-HAREIDSB22L22",
     "@cim:IdentifiedObject.mRID": "50WC00000001410W",
-    "@cim:IdentifiedObject.name": "M Hareidsb 22  L22 Forbruk",
+    "@cim:IdentifiedObject.name": "N Hareidsb 22  L22 Forbruk",
     "@cim:Names.name": [
-        "NO-HAREIDSB22",
+        "NO-HAREIDSB22L22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

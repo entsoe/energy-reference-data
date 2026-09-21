@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/21V000000000007N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "21V000000000007N" ;
+    cim:IdentifiedObject.name "Gas Management Services Ltd Comms Message Routing Service" ;
+    cim:Names.name "GMSL-COMMS",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:21V000000000007N" ;
+    skos:altLabel "GMSL-COMMS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Gas Management Services Ltd Comms Message Routing Service" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

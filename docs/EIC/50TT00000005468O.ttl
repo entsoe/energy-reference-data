@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2026-05-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005468O" ;
-    cim:IdentifiedObject.name "M Orkdal   T4 Transformator" ;
-    cim:Names.name "NO-ORKDAL__T4",
+    cim:IdentifiedObject.name "N Orkdal   T4G Transformator" ;
+    cim:Names.name "NO-ORKDALT4G",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005468O" ;
-    skos:altLabel "NO-ORKDAL__T4" ;
+    skos:altLabel "NO-ORKDALT4G" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Orkdal   T4 Transformator" ;
+    skos:prefLabel "N Orkdal   T4G Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

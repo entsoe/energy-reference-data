@@ -12,20 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XDETI-12345-1D",
-    "@skos:prefLabel": "CEPSA GAS Y ELECTRICIDAD, S.A.U.",
+    "@skos:prefLabel": "MOEVE GAS AND POWER, S.A.U",
     "@skos:altLabel": "CGYE",
     "@cim:IdentifiedObject.mRID": "18XDETI-12345-1D",
-    "@cim:IdentifiedObject.name": "CEPSA GAS Y ELECTRICIDAD, S.A.U.",
+    "@cim:IdentifiedObject.name": "MOEVE GAS AND POWER, S.A.U",
     "@cim:Names.name": [
         "CGYE",
         "ESA28142552",
-        "Production Responsible party",
         "Interconnection Trade Responsible",
+        "Production Responsible Party",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-26",
+    "@cim:DateAndOrTime.date": "2025-11-07",
     "@schema:vatID": "ESA28142552",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

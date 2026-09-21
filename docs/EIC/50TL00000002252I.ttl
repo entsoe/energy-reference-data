@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002252I" ;
-    cim:IdentifiedObject.name "M 66 Tiller-Bratsberg" ;
+    cim:IdentifiedObject.name "N 66 Tiller-Bratsberg" ;
     cim:Names.name "Internal Line",
-        "NO-TILLERBRATSBE" ;
+        "NO-66TILLERBRATS" ;
     dcterms:identifier "urn:eic:50TL00000002252I" ;
-    skos:altLabel "NO-TILLERBRATSBE" ;
+    skos:altLabel "NO-66TILLERBRATS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Tiller-Bratsberg" ;
+    skos:prefLabel "N 66 Tiller-Bratsberg" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

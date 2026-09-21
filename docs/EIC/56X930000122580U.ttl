@@ -1,0 +1,32 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/56X930000122580U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact person:
+Kyrychata Yuliia
++38-093-038-29-88
+Investmentsolutionllcfz@gmail.com""" ;
+    cim:IdentifiedObject.mRID "56X930000122580U" ;
+    cim:IdentifiedObject.name "INVESTMENT SOLUTIONS LLC-FZ" ;
+    cim:Names.name "2306193",
+        "INVESTMENT_SOLUT",
+        "Network User",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:56X930000122580U" ;
+    schema1:vatID "2306193" ;
+    skos:altLabel "INVESTMENT_SOLUT" ;
+    skos:definition """Contact person:
+Kyrychata Yuliia
++38-093-038-29-88
+Investmentsolutionllcfz@gmail.com"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "INVESTMENT SOLUTIONS LLC-FZ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

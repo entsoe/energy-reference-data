@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000047505" ;
-    cim:IdentifiedObject.name "M Fauske   RT1 Transformator" ;
-    cim:Names.name "NO-FAUSKE__RT1",
+    cim:IdentifiedObject.name "N Fauske   RT1 Transformator" ;
+    cim:Names.name "NO-FAUSKERT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000047505" ;
-    skos:altLabel "NO-FAUSKE__RT1" ;
+    skos:altLabel "NO-FAUSKERT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Fauske   RT1 Transformator" ;
+    skos:prefLabel "N Fauske   RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

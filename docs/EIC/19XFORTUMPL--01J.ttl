@@ -7,18 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-03-24" ;
+    cim:DateAndOrTime.date "2024-02-22" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XFORTUMPL--01J" ;
     cim:IdentifiedObject.name "FORTUM POWER AND HEAT POLSKA Sp. z o.o." ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Consumer",
+        "Energy Supplier",
         "FORTUM_P_H_POL",
-        "PL1181606467" ;
+        "PL1181606467",
+        "Producer" ;
     dcterms:identifier "urn:eic:19XFORTUMPL--01J" ;
     schema1:vatID "PL1181606467" ;
     skos:altLabel "FORTUM_P_H_POL" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FORTUM POWER AND HEAT POLSKA Sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

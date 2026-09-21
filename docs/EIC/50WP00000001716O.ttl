@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001716O" ;
-    cim:IdentifiedObject.name "Egersund vindkraftverk" ;
-    cim:Names.name "NO-",
+    cim:IdentifiedObject.name "Egersund Vindkrv" ;
+    cim:Names.name "NO-EGERSUND",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001716O" ;
-    skos:altLabel "NO-" ;
+    skos:altLabel "NO-EGERSUND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Egersund vindkraftverk" ;
+    skos:prefLabel "Egersund Vindkrv" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

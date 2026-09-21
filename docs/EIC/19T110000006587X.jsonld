@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006587X",
-    "@skos:prefLabel": "Ostrowiec-T2",
+    "@skos:prefLabel": "400/110kV Ostrowiec TR2",
     "@skos:altLabel": "OSC-T2",
     "@cim:IdentifiedObject.mRID": "19T110000006587X",
-    "@cim:IdentifiedObject.name": "Ostrowiec-T2",
+    "@cim:IdentifiedObject.name": "400/110kV Ostrowiec TR2",
     "@cim:Names.name": [
         "OSC-T2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

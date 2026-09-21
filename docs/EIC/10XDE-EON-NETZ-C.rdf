@@ -10,13 +10,13 @@
     <cim:IdentifiedObject.mRID>10XDE-EON-NETZ-C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TenneT TSO GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>TTG_DE</cim:Names.name>
-    <cim:Names.name>DE191460805</cim:Names.name>
+    <cim:Names.name>DE815073514</cim:Names.name>
     <cim:IdentifiedObject.description>Transmission System Operator, Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-07</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE191460805</schema:vatID>
+    <schema:vatID>DE815073514</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

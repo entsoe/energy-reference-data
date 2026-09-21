@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001237J" ;
     cim:IdentifiedObject.name "S 45 Halden-Saugbrugs1" ;
     cim:Names.name "Internal Line",
-        "NO-HALDENSAUGBR1" ;
+        "NO-45HALDENRUGS1" ;
     dcterms:identifier "urn:eic:50TL00000001237J" ;
-    skos:altLabel "NO-HALDENSAUGBR1" ;
+    skos:altLabel "NO-45HALDENRUGS1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 45 Halden-Saugbrugs1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

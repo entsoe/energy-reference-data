@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-RSPENERGY--G" ;
     cim:IdentifiedObject.name "RSP ENERGY SK, a. s." ;
     cim:Names.name "RSPENERGY",
-        "Resource Object" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-RSPENERGY--G" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "RSPENERGY" ;
     skos:definition "Resource Object"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

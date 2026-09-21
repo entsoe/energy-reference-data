@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021776" ;
-    cim:IdentifiedObject.name "M 66 Straum-Bratli" ;
+    cim:IdentifiedObject.name "N 66 Straum-Bratli" ;
     cim:Names.name "Internal Line",
-        "NO-STRAUMBRATLI" ;
+        "NO-66STRAUMBRATL" ;
     dcterms:identifier "urn:eic:50TL000000021776" ;
-    skos:altLabel "NO-STRAUMBRATLI" ;
+    skos:altLabel "NO-66STRAUMBRATL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Straum-Bratli" ;
+    skos:prefLabel "N 66 Straum-Bratli" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

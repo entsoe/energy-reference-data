@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Sunny Sky Power s.r.o.",
     "@cim:Names.name": [
         "24X-0000007345-2",
-        "CZ07292015",
+        "cz07292015",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-07-20",
-    "@schema:vatID": "CZ07292015",
+    "@schema:vatID": "cz07292015",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,44 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000149N",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000149N",
+    "@skos:prefLabel": "ScottishPower Renewables (UK) Limited",
+    "@skos:altLabel": "SPRUKL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Party Code - formerly registered as local only."
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000149N",
+    "@cim:IdentifiedObject.name": "ScottishPower Renewables (UK) Limited",
+    "@cim:Names.name": [
+        "SPRUKL",
+        "GB6593720",
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Party Code - formerly registered as local only.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-12-13",
+    "@schema:vatID": "GB6593720",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

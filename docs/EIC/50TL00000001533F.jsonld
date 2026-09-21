@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001533F",
     "@skos:prefLabel": "S 50 Årdal avgr-Hjelmeland trst",
-    "@skos:altLabel": "NO-ARDALAVGRTHJE",
+    "@skos:altLabel": "NO-50ARDAL_AVGRT",
     "@cim:IdentifiedObject.mRID": "50TL00000001533F",
     "@cim:IdentifiedObject.name": "S 50 Årdal avgr-Hjelmeland trst",
     "@cim:Names.name": [
-        "NO-ARDALAVGRTHJE",
+        "NO-50ARDAL_AVGRT",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-05-01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

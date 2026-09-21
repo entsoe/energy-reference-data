@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group Manager Bg System Losses" ;
     cim:IdentifiedObject.mRID "13X-VKW-NB-NV--M" ;
     cim:IdentifiedObject.name "Vorarlberger Kraftwerke AG" ;
     cim:Names.name "ATU52382005",
-        "VKW_NV",
-        "Valid EIC Function needed" ;
+        "Grid Operator",
+        "VKW_NV" ;
     dcterms:identifier "urn:eic:13X-VKW-NB-NV--M" ;
     schema1:vatID "ATU52382005" ;
     skos:altLabel "VKW_NV" ;

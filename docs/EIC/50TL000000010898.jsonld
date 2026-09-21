@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000010898",
     "@skos:prefLabel": "S 300 Roa-Ulven",
-    "@skos:altLabel": "NO-ROAULVEN",
+    "@skos:altLabel": "NO-300ROAULVEN",
     "@cim:IdentifiedObject.mRID": "50TL000000010898",
     "@cim:IdentifiedObject.name": "S 300 Roa-Ulven",
     "@cim:Names.name": [
-        "NO-ROAULVEN",
+        "NO-300ROAULVEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

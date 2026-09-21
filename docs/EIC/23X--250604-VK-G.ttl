@@ -1,0 +1,30 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250604-VK-G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registration number, confirmed by the Certificate of Registration from the Ministry of Industry, Entrepreneurshop and Trade of Kosovo: 812270817
+VAT number confirmed by the Tax Administration of Kosovo: 330647539
+""" ;
+    cim:IdentifiedObject.mRID "23X--250604-VK-G" ;
+    cim:IdentifiedObject.name "VoltKos SH.P.K. " ;
+    cim:Names.name "330647539",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "VOLTKOS_XK" ;
+    dcterms:identifier "urn:eic:23X--250604-VK-G" ;
+    schema1:vatID "330647539" ;
+    skos:altLabel "VOLTKOS_XK" ;
+    skos:definition """Company registration number, confirmed by the Certificate of Registration from the Ministry of Industry, Entrepreneurshop and Trade of Kosovo: 812270817
+VAT number confirmed by the Tax Administration of Kosovo: 330647539
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VoltKos SH.P.K. " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

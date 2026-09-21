@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>55XENIGEM0000012</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Eni Global Energy Markets S.p.A.</cim:IdentifiedObject.name>
     <cim:Names.name>ENIGEM</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Fiscal code 11076280962 VIES not approved as VAT number</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-06-15</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -7,20 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-11" ;
+    cim:DateAndOrTime.date "2025-04-01" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Update of contact person details, CER code was added." ;
     cim:IdentifiedObject.mRID "53XPL000000OZEN5" ;
-    cim:IdentifiedObject.name "OZE ENERGY Sp. z o.o." ;
+    cim:IdentifiedObject.name "ABACUS ENERGY SPÓŁKA AKCYJNA" ;
     cim:Names.name "A0012988X.PL",
+        "ABACUS-ENERGY",
         "Network User",
-        "OZE-ENERGY",
         "PL6772397696" ;
     dcterms:identifier "urn:eic:53XPL000000OZEN5" ;
     schema1:vatID "PL6772397696" ;
-    skos:altLabel "OZE-ENERGY" ;
-    skos:definition "Update of contact person details, CER code was added."@en ;
+    skos:altLabel "ABACUS-ENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "OZE ENERGY Sp. z o.o." ;
+    skos:prefLabel "ABACUS ENERGY SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

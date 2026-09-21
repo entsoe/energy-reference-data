@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001731Y" ;
     cim:IdentifiedObject.name "STORD   G106 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STORD___G106_" ;
+        "NO-STORDG106" ;
     dcterms:identifier "urn:eic:50WG00000001731Y" ;
-    skos:altLabel "NO-STORD___G106_" ;
+    skos:altLabel "NO-STORDG106" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "STORD   G106 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

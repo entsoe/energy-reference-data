@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001941H" ;
     cim:IdentifiedObject.name "Egeland Verk" ;
-    cim:Names.name "NO-EGELAND_VERK",
+    cim:Names.name "NO-EGELANDVERK",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001941H" ;
-    skos:altLabel "NO-EGELAND_VERK" ;
+    skos:altLabel "NO-EGELANDVERK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Egeland Verk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

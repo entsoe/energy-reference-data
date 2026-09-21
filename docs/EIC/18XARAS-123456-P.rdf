@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XARAS-123456-P</dcterms:identifier>
     <skos:prefLabel>ARASOL S.L</skos:prefLabel>
     <skos:altLabel>ARAS</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XARAS-123456-P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ARASOL S.L</cim:IdentifiedObject.name>
     <cim:Names.name>ARAS</cim:Names.name>
     <cim:Names.name>ESB41418872</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-04-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB41418872</schema:vatID>

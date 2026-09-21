@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59X0000000010093> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59X0000000010093" ;
+    cim:IdentifiedObject.name "FLAMEENERGY TRADING GMBH" ;
+    cim:Names.name "ATU62663567",
+        "Balance Responsible Party",
+        "FLAMEENERGYTRADI" ;
+    dcterms:identifier "urn:eic:59X0000000010093" ;
+    schema1:vatID "ATU62663567" ;
+    skos:altLabel "FLAMEENERGYTRADI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FLAMEENERGY TRADING GMBH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

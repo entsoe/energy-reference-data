@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002414I",
-    "@skos:prefLabel": "S Hove 300 T1 Kabel",
-    "@skos:altLabel": "NO-HOVE300T1K",
+    "@skos:prefLabel": "S Hove     300 T1 Kabel",
+    "@skos:altLabel": "NO-HOVE300T1_K",
     "@cim:IdentifiedObject.mRID": "50TL00000002414I",
-    "@cim:IdentifiedObject.name": "S Hove 300 T1 Kabel",
+    "@cim:IdentifiedObject.name": "S Hove     300 T1 Kabel",
     "@cim:Names.name": [
-        "NO-HOVE300T1K",
+        "NO-HOVE300T1_K",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

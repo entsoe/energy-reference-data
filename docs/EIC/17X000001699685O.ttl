@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000001699685O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Code EIC parent de Ferme éolienne Berlémont - le Réservoir du Moulin B. et Ferme éolienne Berlémont - les Hauts de lévergie" ;
+    cim:IdentifiedObject.mRID "17X000001699685O" ;
+    cim:IdentifiedObject.name "FERME_EOLIENNE_DU_MOULIN_BERLEMONT" ;
+    cim:Names.name "FR25817867112",
+        "FR_FERME_BERLEMO",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X000001699685O" ;
+    schema1:vatID "FR25817867112" ;
+    skos:altLabel "FR_FERME_BERLEMO" ;
+    skos:definition "Code EIC parent de Ferme éolienne Berlémont - le Réservoir du Moulin B. et Ferme éolienne Berlémont - les Hauts de lévergie"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FERME_EOLIENNE_DU_MOULIN_BERLEMONT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

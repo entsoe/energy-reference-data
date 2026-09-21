@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000005770" ;
-    cim:IdentifiedObject.name "M 132 Rana-Svabo3" ;
+    cim:IdentifiedObject.name "N 132 Rana-Svabo3" ;
     cim:Names.name "Internal Line",
-        "NO-RANASVABO3" ;
+        "NO-132RANASVABO3" ;
     dcterms:identifier "urn:eic:50TL000000005770" ;
-    skos:altLabel "NO-RANASVABO3" ;
+    skos:altLabel "NO-132RANASVABO3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Rana-Svabo3" ;
+    skos:prefLabel "N 132 Rana-Svabo3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001512N" ;
-    cim:IdentifiedObject.name "S 47 Vammafoss-Vamma" ;
+    cim:IdentifiedObject.name "S 47 Vammafoss-Vamma1" ;
     cim:Names.name "Internal Line",
-        "NO-VAMMAFVAMMA" ;
+        "NO-47VAMMAFOSSVA" ;
     dcterms:identifier "urn:eic:50TL00000001512N" ;
-    skos:altLabel "NO-VAMMAFVAMMA" ;
+    skos:altLabel "NO-47VAMMAFOSSVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 Vammafoss-Vamma" ;
+    skos:prefLabel "S 47 Vammafoss-Vamma1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

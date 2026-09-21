@@ -1,0 +1,33 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000366F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact Sam Hill on 02078704959
+245 Hammersmith Road, London, England, W6 8PW
+EIC Display name of BGT already in use for another party
+
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000366F" ;
+    cim:IdentifiedObject.name "Brook Green Trading Limited" ;
+    cim:Names.name "BROOKGREEN",
+        "Balance Responsible Party",
+        "GB279970926" ;
+    dcterms:identifier "urn:eic:48X000000000366F" ;
+    schema1:vatID "GB279970926" ;
+    skos:altLabel "BROOKGREEN" ;
+    skos:definition """Contact Sam Hill on 02078704959
+245 Hammersmith Road, London, England, W6 8PW
+EIC Display name of BGT already in use for another party
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Brook Green Trading Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21W000000000089I</dcterms:identifier>
     <skos:prefLabel>UGS Schmidthausen</skos:prefLabel>
     <skos:altLabel>UGS-SCHMIDHAUSEN</skos:altLabel>
-    <skos:definition xml:lang="en">System Operator</skos:definition>
     <cim:IdentifiedObject.mRID>21W000000000089I</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>UGS Schmidthausen</cim:IdentifiedObject.name>
     <cim:Names.name>UGS-SCHMIDHAUSEN</cim:Names.name>
-    <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-06</cim:DateAndOrTime.date>
-    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Resource Object</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

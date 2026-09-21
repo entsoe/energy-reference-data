@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z0000000003964</dcterms:identifier>
-    <skos:prefLabel>Carrickfergus Exit Point</skos:prefLabel>
+    <skos:prefLabel>Carrickfergus Internal Connection Point</skos:prefLabel>
     <skos:altLabel>CARRICK-NI</skos:altLabel>
-    <skos:definition xml:lang="en">Notional Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z0000000003964</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Carrickfergus Exit Point</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Carrickfergus Internal Connection Point</cim:IdentifiedObject.name>
     <cim:Names.name>CARRICK-NI</cim:Names.name>
-    <cim:IdentifiedObject.description>Notional Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-08-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

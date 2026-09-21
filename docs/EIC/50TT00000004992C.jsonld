@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004992C",
-    "@skos:prefLabel": "M Hitra    T1 Transformator",
-    "@skos:altLabel": "NO-HITRA___T1",
+    "@skos:prefLabel": "N Hitra    T1 Transformator",
+    "@skos:altLabel": "NO-HITRAT1",
     "@cim:IdentifiedObject.mRID": "50TT00000004992C",
-    "@cim:IdentifiedObject.name": "M Hitra    T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Hitra    T1 Transformator",
     "@cim:Names.name": [
-        "NO-HITRA___T1",
+        "NO-HITRAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002385M",
-    "@skos:prefLabel": "MOSKOG  G143 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G143_",
+    "@skos:prefLabel": "LANGE_TNG1      HYDRO",
+    "@skos:altLabel": "NO-LANGE_TNG1",
     "@cim:IdentifiedObject.mRID": "50WG00000002385M",
-    "@cim:IdentifiedObject.name": "MOSKOG  G143 HYDRO",
+    "@cim:IdentifiedObject.name": "LANGE_TNG1      HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G143_",
+        "NO-LANGE_TNG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

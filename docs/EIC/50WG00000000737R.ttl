@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000737R" ;
     cim:IdentifiedObject.name "HOGEFOSSG7      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HOGEFOSSG7___" ;
+        "NO-HOGEFOSSG7" ;
     dcterms:identifier "urn:eic:50WG00000000737R" ;
-    skos:altLabel "NO-HOGEFOSSG7___" ;
+    skos:altLabel "NO-HOGEFOSSG7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HOGEFOSSG7      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

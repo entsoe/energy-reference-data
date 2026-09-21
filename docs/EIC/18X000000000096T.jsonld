@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X000000000096T",
     "@skos:prefLabel": "PLASTICOS SOLANAS S.L",
     "@skos:altLabel": "PSOLA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X000000000096T",
     "@cim:IdentifiedObject.name": "PLASTICOS SOLANAS S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB50040203",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-06-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB50040203",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

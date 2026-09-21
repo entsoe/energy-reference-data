@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000319N",
-    "@skos:prefLabel": "M Årsandøy 66  T2 Forbruk",
-    "@skos:altLabel": "NO-ARSANDOY66",
+    "@skos:prefLabel": "N Årsandøy 22  L1 Forbruk",
+    "@skos:altLabel": "NO-ARSANDOY22",
     "@cim:IdentifiedObject.mRID": "50WC00000000319N",
-    "@cim:IdentifiedObject.name": "M Årsandøy 66  T2 Forbruk",
+    "@cim:IdentifiedObject.name": "N Årsandøy 22  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-ARSANDOY66",
+        "NO-ARSANDOY22",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

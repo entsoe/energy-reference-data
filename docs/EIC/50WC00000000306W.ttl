@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000306W" ;
-    cim:IdentifiedObject.name "M Brattset 132 RT4 Forbruk" ;
+    cim:IdentifiedObject.name "N Brattset 132 RT4 Forbruk" ;
     cim:Names.name "Load",
         "NO-BRATTSET132" ;
     dcterms:identifier "urn:eic:50WC00000000306W" ;
     skos:altLabel "NO-BRATTSET132" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Brattset 132 RT4 Forbruk" ;
+    skos:prefLabel "N Brattset 132 RT4 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

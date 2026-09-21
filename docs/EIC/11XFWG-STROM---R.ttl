@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-09-30" ;
+    cim:DateAndOrTime.date "2025-01-10" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFWG-STROM---R" ;
-    cim:IdentifiedObject.name "Fernwärme Greifswald GmbH" ;
-    cim:Names.name "8412002211",
-        "Balance Group",
-        "FW_GREIFSWALD" ;
+    cim:IdentifiedObject.name "Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung" ;
+    cim:Names.name "DE137582842",
+        "FW_GREIFSWALD",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XFWG-STROM---R" ;
-    schema1:vatID "8412002211" ;
+    schema1:vatID "DE137582842" ;
     skos:altLabel "FW_GREIFSWALD" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Fernwärme Greifswald GmbH" ;
+    skos:prefLabel "Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

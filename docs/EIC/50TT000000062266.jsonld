@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000062266",
-    "@skos:prefLabel": "S Furuseth T1 Transformator",
-    "@skos:altLabel": "NO-FURUSETHT1",
+    "@skos:prefLabel": "S Horta    T1 Transformator",
+    "@skos:altLabel": "NO-HORTAT1",
     "@cim:IdentifiedObject.mRID": "50TT000000062266",
-    "@cim:IdentifiedObject.name": "S Furuseth T1 Transformator",
+    "@cim:IdentifiedObject.name": "S Horta    T1 Transformator",
     "@cim:Names.name": [
-        "NO-FURUSETHT1",
+        "NO-HORTAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

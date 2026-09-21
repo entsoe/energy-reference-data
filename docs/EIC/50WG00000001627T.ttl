@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001627T" ;
     cim:IdentifiedObject.name "MOSKOG  G155 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G155_" ;
+        "NO-MOSKOGG155" ;
     dcterms:identifier "urn:eic:50WG00000001627T" ;
-    skos:altLabel "NO-MOSKOG__G155_" ;
+    skos:altLabel "NO-MOSKOGG155" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MOSKOG  G155 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

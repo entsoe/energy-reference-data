@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XVMAYO-12345-C</dcterms:identifier>
-    <skos:prefLabel>P. E. VILLAMAYOR, S.L.</skos:prefLabel>
+    <skos:prefLabel>PARQUE EOLICO VILLAMAYOR, S.L.</skos:prefLabel>
     <skos:altLabel>VMAYO</skos:altLabel>
-    <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XVMAYO-12345-C</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>P. E. VILLAMAYOR, S.L.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>PARQUE EOLICO VILLAMAYOR, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>VMAYO</cim:Names.name>
     <cim:Names.name>ESB85654283</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2009-12-15</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-08-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB85654283</schema:vatID>
   </skos:Concept>

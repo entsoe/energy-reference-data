@@ -12,25 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:36X-EFTSTANARI-Y",
-    "@skos:prefLabel": "EFT-Rudnik i Termoelektrana Stanari d.o.o. Stanari",
-    "@skos:altLabel": "EFTSTAN",
+    "@skos:prefLabel": "Elektrane Stanari d.o.o. Stanari ",
+    "@skos:altLabel": "TESTANARI",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "36X-EFTSTANARI-Y",
-    "@cim:IdentifiedObject.name": "EFT-Rudnik i Termoelektrana Stanari d.o.o. Stanari",
+    "@cim:IdentifiedObject.name": "Elektrane Stanari d.o.o. Stanari ",
     "@cim:Names.name": [
-        "EFTSTAN",
+        "TESTANARI",
         "400106370004",
-        "Trade Responsible Party",
         "Balance Responsible Party",
-        "Producer"
+        "Producer",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-10-09",
+    "@cim:DateAndOrTime.date": "2026-03-10",
     "@schema:vatID": "400106370004",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

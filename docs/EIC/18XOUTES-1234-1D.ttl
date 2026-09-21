@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-12-05" ;
+    cim:DateAndOrTime.date "2024-02-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XOUTES-1234-1D" ;
     cim:IdentifiedObject.name "ENERGÍAS AMBIENTALES DE OUTES S.L." ;
     cim:Names.name "ESB15862725",
         "OUTE",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XOUTES-1234-1D" ;
     schema1:vatID "ESB15862725" ;
     skos:altLabel "OUTE" ;

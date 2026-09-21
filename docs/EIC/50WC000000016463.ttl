@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000016463" ;
     cim:IdentifiedObject.name "S Smørbekk 47  Omf2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SMORBEK47OMF2" ;
+        "NO-SMORBEKK7OMF2" ;
     dcterms:identifier "urn:eic:50WC000000016463" ;
-    skos:altLabel "NO-SMORBEK47OMF2" ;
+    skos:altLabel "NO-SMORBEKK7OMF2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Smørbekk 47  Omf2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

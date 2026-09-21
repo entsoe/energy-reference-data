@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11TD2T0000000045",
-    "@skos:prefLabel": "TTG/380-110/Alfstedt/Trafo 411",
+    "@skos:prefLabel": "TTG/380-110/Alfstedt/Trafo 413",
     "@skos:altLabel": "T-D2-D2-11991974",
     "@cim:IdentifiedObject.mRID": "11TD2T0000000045",
-    "@cim:IdentifiedObject.name": "TTG/380-110/Alfstedt/Trafo 411",
+    "@cim:IdentifiedObject.name": "TTG/380-110/Alfstedt/Trafo 413",
     "@cim:Names.name": [
         "T-D2-D2-11991974",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-22",
+    "@cim:DateAndOrTime.date": "2024-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

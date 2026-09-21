@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002288K" ;
-    cim:IdentifiedObject.name "TUNNSJODG109 HYDRO" ;
+    cim:IdentifiedObject.name "ROYRVIKFG109 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TUNNSJODG109_" ;
+        "NO-ROYRVIKFG109" ;
     dcterms:identifier "urn:eic:50WG00000002288K" ;
-    skos:altLabel "NO-TUNNSJODG109_" ;
+    skos:altLabel "NO-ROYRVIKFG109" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TUNNSJODG109 HYDRO" ;
+    skos:prefLabel "ROYRVIKFG109 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

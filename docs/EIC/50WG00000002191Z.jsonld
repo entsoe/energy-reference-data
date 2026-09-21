@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002191Z",
     "@skos:prefLabel": "ASKARA  G108 HYDRO",
-    "@skos:altLabel": "NO-ASKARA__G108_",
+    "@skos:altLabel": "NO-ASKARAG108",
     "@cim:IdentifiedObject.mRID": "50WG00000002191Z",
     "@cim:IdentifiedObject.name": "ASKARA  G108 HYDRO",
     "@cim:Names.name": [
-        "NO-ASKARA__G108_",
+        "NO-ASKARAG108",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

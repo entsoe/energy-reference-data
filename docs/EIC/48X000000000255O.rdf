@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>48X000000000255O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>LUZIRA DMCC</cim:IdentifiedObject.name>
     <cim:Names.name>BUGOLOBI</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>A VAT number is not available for this company, so we are providing the Legal Entity Identifier (LEI) company registration number which is 984500O3EFBA8613AA78.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-01-16</cim:DateAndOrTime.date>
     <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

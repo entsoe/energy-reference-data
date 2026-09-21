@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/37X0000000003685",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:37X0000000003685",
+    "@skos:prefLabel": "ReFood GmbH & Co. KG",
+    "@skos:altLabel": "REFOOD_GMBH__CO_",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Energy Supplier"
+    },
+    "@cim:IdentifiedObject.mRID": "37X0000000003685",
+    "@cim:IdentifiedObject.name": "ReFood GmbH & Co. KG",
+    "@cim:Names.name": [
+        "REFOOD_GMBH__CO_",
+        "DE150936160",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "Energy Supplier",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-23",
+    "@schema:vatID": "DE150936160",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

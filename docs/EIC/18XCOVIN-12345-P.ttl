@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-12-05" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCOVIN-12345-P" ;
     cim:IdentifiedObject.name "COVIÑAS COOPERATIVA VALENCIANA" ;
     cim:Names.name "COVIN",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCOVIN-12345-P" ;
     schema1:vatID "ESF46031050" ;
     skos:altLabel "COVIN" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "COVIÑAS COOPERATIVA VALENCIANA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

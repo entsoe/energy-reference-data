@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000020893" ;
-    cim:IdentifiedObject.name "M 66 Røyrvikfoss-Tunnsjø" ;
+    cim:IdentifiedObject.name "N 66 Røyrvikfoss-Tunnsjø" ;
     cim:Names.name "Internal Line",
-        "NO-ROYRVIKFOSSTU" ;
+        "NO-66ROYRVIKFOSS" ;
     dcterms:identifier "urn:eic:50TL000000020893" ;
-    skos:altLabel "NO-ROYRVIKFOSSTU" ;
+    skos:altLabel "NO-66ROYRVIKFOSS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Røyrvikfoss-Tunnsjø" ;
+    skos:prefLabel "N 66 Røyrvikfoss-Tunnsjø" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

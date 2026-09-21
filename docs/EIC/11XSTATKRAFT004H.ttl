@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTATKRAFT004H" ;
     cim:IdentifiedObject.name "STATKRAFT MARKETS GMBH (4)" ;
-    cim:Names.name "Balance Group",
-        "DE204011192",
-        "STATKRAFTDEU4" ;
+    cim:Names.name "DE204011192",
+        "STATKRAFTDEU4",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSTATKRAFT004H" ;
     schema1:vatID "DE204011192" ;
     skos:altLabel "STATKRAFTDEU4" ;

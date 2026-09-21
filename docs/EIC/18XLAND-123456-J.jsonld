@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLAND-123456-J",
     "@skos:prefLabel": "LANDS AND BUILDING S.L",
     "@skos:altLabel": "LAND",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLAND-123456-J",
     "@cim:IdentifiedObject.name": "LANDS AND BUILDING S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB80499825",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-26",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB80499825",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

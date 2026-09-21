@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "EGO",
         "DE128373814",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-09-26",
     "@schema:vatID": "DE128373814",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

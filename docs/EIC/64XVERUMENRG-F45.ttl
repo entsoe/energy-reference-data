@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/64XVERUMENRG-F45> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """ANRE license 
+AC 001694 / 21.10.2022""" ;
+    cim:IdentifiedObject.mRID "64XVERUMENRG-F45" ;
+    cim:IdentifiedObject.name "Verum Energy SRL" ;
+    cim:Names.name "0309859",
+        "Balance Responsible Party",
+        "Trade Responsible Party",
+        "VERUMENERGY_F" ;
+    dcterms:identifier "urn:eic:64XVERUMENRG-F45" ;
+    schema1:vatID "0309859" ;
+    skos:altLabel "VERUMENERGY_F" ;
+    skos:definition """ANRE license 
+AC 001694 / 21.10.2022"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Verum Energy SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

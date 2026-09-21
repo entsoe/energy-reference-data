@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003098Y" ;
     cim:IdentifiedObject.name "S 132 Nedre Otta-T_Vågårusten" ;
     cim:Names.name "Internal Line",
-        "NO-NEDREOTTVAGAR" ;
+        "NO-132NEDRE_OTT" ;
     dcterms:identifier "urn:eic:50TL00000003098Y" ;
-    skos:altLabel "NO-NEDREOTTVAGAR" ;
+    skos:altLabel "NO-132NEDRE_OTT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Nedre Otta-T_Vågårusten" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

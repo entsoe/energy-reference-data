@@ -7,13 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-09-26" ;
+    cim:DateAndOrTime.date "2024-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "25X-CET--------A" ;
     cim:IdentifiedObject.name "MET CET GmbH" ;
     cim:Names.name "ATU79401103",
         "CET",
-        "Network User" ;
+        "Energy Supplier",
+        "Network User",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:25X-CET--------A" ;
     schema1:vatID "ATU79401103" ;
     skos:altLabel "CET" ;

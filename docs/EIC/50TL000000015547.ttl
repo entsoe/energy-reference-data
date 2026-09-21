@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL000000015547" ;
     cim:IdentifiedObject.name "S 50 Hjelmeland trst-Hjelmeland krst" ;
     cim:Names.name "Internal Line",
-        "NO-HJELMELANDTHJ" ;
+        "NO-50HJELMELANDT" ;
     dcterms:identifier "urn:eic:50TL000000015547" ;
-    skos:altLabel "NO-HJELMELANDTHJ" ;
+    skos:altLabel "NO-50HJELMELANDT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 50 Hjelmeland trst-Hjelmeland krst" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

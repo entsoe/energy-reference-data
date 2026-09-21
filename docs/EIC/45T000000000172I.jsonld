@@ -16,7 +16,10 @@
     "@skos:altLabel": "VHA_150I_AABOE",
     "@cim:IdentifiedObject.mRID": "45T000000000172I",
     "@cim:IdentifiedObject.name": "150kV Veter Hassing Aalborg",
-    "@cim:Names.name": "VHA_150I_AABOE",
+    "@cim:Names.name": [
+        "VHA_150I_AABOE",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-03-22",

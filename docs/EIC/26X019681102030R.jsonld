@@ -13,18 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:26X019681102030R",
     "@skos:prefLabel": "E.SMART SRL",
-    "@skos:altLabel": "IT-ESMART",
+    "@skos:altLabel": "IT-ESMARTSRLSRL",
     "@cim:IdentifiedObject.mRID": "26X019681102030R",
     "@cim:IdentifiedObject.name": "E.SMART SRL",
     "@cim:Names.name": [
-        "IT-ESMART",
-        "A00085534.IT",
+        "IT-ESMARTSRLSRL",
         "IT01968110203",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-23",
+    "@cim:DateAndOrTime.date": "2025-12-03",
     "@schema:vatID": "IT01968110203",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

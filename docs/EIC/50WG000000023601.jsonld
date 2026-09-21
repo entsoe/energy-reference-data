@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000023601",
-    "@skos:prefLabel": "STRANDA G103 HYDRO",
-    "@skos:altLabel": "NO-STRANDA_G103_",
+    "@skos:prefLabel": "FURSET  G103 HYDRO",
+    "@skos:altLabel": "NO-FURSETG103",
     "@cim:IdentifiedObject.mRID": "50WG000000023601",
-    "@cim:IdentifiedObject.name": "STRANDA G103 HYDRO",
+    "@cim:IdentifiedObject.name": "FURSET  G103 HYDRO",
     "@cim:Names.name": [
-        "NO-STRANDA_G103_",
+        "NO-FURSETG103",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,9 +13,9 @@
     cim:IdentifiedObject.name "Better energy s.r.o." ;
     cim:Names.name "BETTERENERGY",
         "Balance Responsible Party",
-        "CZ06377505" ;
+        "cz06377505" ;
     dcterms:identifier "urn:eic:27XBETTERENERGYE" ;
-    schema1:vatID "CZ06377505" ;
+    schema1:vatID "cz06377505" ;
     skos:altLabel "BETTERENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Better energy s.r.o." ;

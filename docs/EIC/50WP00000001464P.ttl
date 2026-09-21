@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001464P" ;
     cim:IdentifiedObject.name "Kjølvik Kraftverk" ;
-    cim:Names.name "NO-KJOLVIK-KRAFT",
+    cim:Names.name "NO-KJOELVIKKRAFT",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001464P" ;
-    skos:altLabel "NO-KJOLVIK-KRAFT" ;
+    skos:altLabel "NO-KJOELVIKKRAFT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kjølvik Kraftverk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

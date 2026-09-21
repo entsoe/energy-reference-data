@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2026-06-03" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XANOIA-12345-Z" ;
-    cim:IdentifiedObject.name "ANOIA ENERGIA" ;
+    cim:IdentifiedObject.name "ANOIA D'ENERGIA, S.A." ;
     cim:Names.name "ANOIA",
         "ESA60980745",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XANOIA-12345-Z" ;
     schema1:vatID "ESA60980745" ;
     skos:altLabel "ANOIA" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ANOIA ENERGIA" ;
+    skos:prefLabel "ANOIA D'ENERGIA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

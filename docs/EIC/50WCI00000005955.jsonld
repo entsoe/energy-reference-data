@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WCI00000005955",
-    "@skos:prefLabel": "S Eidefoss 66  L1 Forbruk",
+    "@skos:prefLabel": "S Eidefoss 22  L1 Forbruk",
     "@skos:altLabel": "NO-EIDEFOSS66",
     "@cim:IdentifiedObject.mRID": "50WCI00000005955",
-    "@cim:IdentifiedObject.name": "S Eidefoss 66  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Eidefoss 22  L1 Forbruk",
     "@cim:Names.name": [
         "NO-EIDEFOSS66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

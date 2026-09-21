@@ -6,16 +6,18 @@
     <dcterms:identifier>urn:eic:42X-CINQUE-SRO-0</dcterms:identifier>
     <skos:prefLabel>Cinque s.r.o.</skos:prefLabel>
     <skos:altLabel>CINQUE</skos:altLabel>
+    <skos:definition xml:lang="en">SK2121993874 was corrected due to not correct EIC code it will be deactivated. </skos:definition>
     <cim:IdentifiedObject.mRID>42X-CINQUE-SRO-0</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Cinque s.r.o.</cim:IdentifiedObject.name>
     <cim:Names.name>CINQUE</cim:Names.name>
-    <cim:Names.name>SK2121993874</cim:Names.name>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Names.name>212</cim:Names.name>
+    <cim:IdentifiedObject.description>SK2121993874 was corrected due to not correct EIC code it will be deactivated. </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-23</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-02-05</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>SK2121993874</schema:vatID>
+    <schema:vatID>212</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

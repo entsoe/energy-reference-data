@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/50WGI00000028688",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:50WGI00000028688",
+    "@skos:prefLabel": "VELDRESIG102 HYDRO",
+    "@skos:altLabel": "NO-VELDRESIG102",
+    "@cim:IdentifiedObject.mRID": "50WGI00000028688",
+    "@cim:IdentifiedObject.name": "VELDRESIG102 HYDRO",
+    "@cim:Names.name": [
+        "NO-VELDRESIG102",
+        "Generation Unit"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-04-25",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:45W000000000205O",
-    "@skos:prefLabel": "Better Energy Vedde P/S",
-    "@skos:altLabel": "DK_BE_VEDDE",
+    "@skos:prefLabel": "Andel Energy Vedde P/S",
+    "@skos:altLabel": "DK_ANDEL_VEDDE",
     "@cim:IdentifiedObject.mRID": "45W000000000205O",
-    "@cim:IdentifiedObject.name": "Better Energy Vedde P/S",
+    "@cim:IdentifiedObject.name": "Andel Energy Vedde P/S",
     "@cim:Names.name": [
-        "DK_BE_VEDDE",
+        "DK_ANDEL_VEDDE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-12-05",
+    "@cim:DateAndOrTime.date": "2025-04-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

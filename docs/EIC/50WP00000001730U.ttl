@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001730U" ;
     cim:IdentifiedObject.name "Rabb-bekken" ;
-    cim:Names.name "NO-RABB-BEKKEN",
+    cim:Names.name "NO-RABB_BEKKEN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001730U" ;
-    skos:altLabel "NO-RABB-BEKKEN" ;
+    skos:altLabel "NO-RABB_BEKKEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Rabb-bekken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001703G" ;
-    cim:IdentifiedObject.name "S 66 Bryggja-Begsle" ;
+    cim:IdentifiedObject.name "N 66 Bryggja-Begsle" ;
     cim:Names.name "Internal Line",
-        "NO-BRYGGJABEGSLE" ;
+        "NO-66BRYGGJABEGS" ;
     dcterms:identifier "urn:eic:50TL00000001703G" ;
-    skos:altLabel "NO-BRYGGJABEGSLE" ;
+    skos:altLabel "NO-66BRYGGJABEGS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Bryggja-Begsle" ;
+    skos:prefLabel "N 66 Bryggja-Begsle" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

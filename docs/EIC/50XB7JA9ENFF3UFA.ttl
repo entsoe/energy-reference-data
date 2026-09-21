@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50XB7JA9ENFF3UFA> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50XB7JA9ENFF3UFA" ;
+    cim:IdentifiedObject.name "Statnett Data Intermediary" ;
+    cim:Names.name "7080000923168",
+        "Information Provider",
+        "STATNETT_DI" ;
+    dcterms:identifier "urn:eic:50XB7JA9ENFF3UFA" ;
+    schema1:vatID "7080000923168" ;
+    skos:altLabel "STATNETT_DI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Statnett Data Intermediary" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

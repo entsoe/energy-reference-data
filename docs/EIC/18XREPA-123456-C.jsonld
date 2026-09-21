@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XREPA-123456-C",
     "@skos:prefLabel": "Comunidad de Regantes del Canal del Páramo",
     "@skos:altLabel": "REPA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XREPA-123456-C",
     "@cim:IdentifiedObject.name": "Comunidad de Regantes del Canal del Páramo",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG24009730",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-03-21",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG24009730",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

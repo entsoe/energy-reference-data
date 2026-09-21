@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-15" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000068264" ;
-    cim:IdentifiedObject.name "220 kV Ząbkowice-Nysa" ;
+    cim:IdentifiedObject.name "220kV Nysa-Zabkowice" ;
     cim:Names.name "212_PL",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000068264" ;
     skos:altLabel "212_PL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "220 kV Ząbkowice-Nysa" ;
+    skos:prefLabel "220kV Nysa-Zabkowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

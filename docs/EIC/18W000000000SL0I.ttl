@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18W000000000SL0I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18W000000000SL0I" ;
+    cim:IdentifiedObject.name "PSF CERNEGULA" ;
+    cim:Names.name "ES-UFCERN",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:18W000000000SL0I" ;
+    skos:altLabel "ES-UFCERN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PSF CERNEGULA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

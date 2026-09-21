@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000424P" ;
     cim:IdentifiedObject.name "S 132 Kristiansand-Krossen2" ;
     cim:Names.name "Internal Line",
-        "NO-KRISTIANKROS2" ;
+        "NO-132KRISTSSEN2" ;
     dcterms:identifier "urn:eic:50TL00000000424P" ;
-    skos:altLabel "NO-KRISTIANKROS2" ;
+    skos:altLabel "NO-132KRISTSSEN2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Kristiansand-Krossen2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

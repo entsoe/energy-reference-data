@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000353H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000353H" ;
+    cim:IdentifiedObject.name "Bromölla Energi & Vatten AB" ;
+    cim:Names.name "BROMOLLA_EVAB",
+        "Grid Operator",
+        "SE556525863801" ;
+    dcterms:identifier "urn:eic:46X000000000353H" ;
+    schema1:vatID "SE556525863801" ;
+    skos:altLabel "BROMOLLA_EVAB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bromölla Energi & Vatten AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

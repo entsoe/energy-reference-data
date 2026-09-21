@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006786R" ;
-    cim:IdentifiedObject.name "Punkt Rozgałęźny XJL-Łagisza" ;
+    cim:IdentifiedObject.name "220kV Punkt Rozgalezny XJL-Lagisza" ;
     cim:Names.name "3005B",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006786R" ;
     skos:altLabel "3005B" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Punkt Rozgałęźny XJL-Łagisza" ;
+    skos:prefLabel "220kV Punkt Rozgalezny XJL-Lagisza" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

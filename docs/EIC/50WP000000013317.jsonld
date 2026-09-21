@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000013317",
     "@skos:prefLabel": "Røstad",
-    "@skos:altLabel": "NO-ROSTAD_PL",
+    "@skos:altLabel": "NO-ROSTAD",
     "@cim:IdentifiedObject.mRID": "50WP000000013317",
     "@cim:IdentifiedObject.name": "Røstad",
     "@cim:Names.name": [
-        "NO-ROSTAD_PL",
+        "NO-ROSTAD",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000003130R" ;
-    cim:IdentifiedObject.name "S Saurdal 420 AB1-CD1 Internføring" ;
+    cim:IdentifiedObject.name "S Saurdal  420 AB1-CD1 Internføring" ;
     cim:Names.name "Internal Line",
         "NO-SAURDAL420AB1" ;
     dcterms:identifier "urn:eic:50TL00000003130R" ;
     skos:altLabel "NO-SAURDAL420AB1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Saurdal 420 AB1-CD1 Internføring" ;
+    skos:prefLabel "S Saurdal  420 AB1-CD1 Internføring" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XHOYER-STROM-Q</dcterms:identifier>
-    <skos:prefLabel>BSE Strom und Erdgas GmbH</skos:prefLabel>
+    <skos:prefLabel>Hoyer Energy Connect GmbH</skos:prefLabel>
     <skos:altLabel>HOYER-STROM</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XHOYER-STROM-Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>BSE Strom und Erdgas GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Hoyer Energy Connect GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>HOYER-STROM</cim:Names.name>
     <cim:Names.name>DE306362810</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-01-12</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE306362810</schema:vatID>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006684Z" ;
-    cim:IdentifiedObject.name "Joachimów-Rogowiec 2" ;
+    cim:IdentifiedObject.name "220kV Joachimow-Rogowiec 2" ;
     cim:Names.name "203",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006684Z" ;
     skos:altLabel "203" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Joachimów-Rogowiec 2" ;
+    skos:prefLabel "220kV Joachimow-Rogowiec 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

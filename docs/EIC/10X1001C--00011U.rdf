@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>10X1001C--00011U</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>European platform for imbalance netting</cim:IdentifiedObject.name>
     <cim:Names.name>INPLATFORM</cim:Names.name>
+    <cim:Names.name>N/A</cim:Names.name>
     <cim:IdentifiedObject.description>n/a &#8211; IN platform will not issue or receive any invoices. Implementation of EB GL articles 22 &amp; 22.1.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-12-03</cim:DateAndOrTime.date>
     <cim:Names.name>Platform Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>N/A</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

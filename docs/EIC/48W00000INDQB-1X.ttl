@@ -1,0 +1,41 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000INDQB-1X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """EDF Renewables Indian Queens BESS asset
+Tom Reynolds
+Alexander House  
+1 Mandarin Road
+Rainton Bridge Business Park 
+Sunderland, DH4 5RA
+tom.reynolds@edf-re.uk  and EDFERAssetManagement@edf-re.uk 
+
+
+""" ;
+    cim:IdentifiedObject.mRID "48W00000INDQB-1X" ;
+    cim:IdentifiedObject.name "INDIAN QNS BESS" ;
+    cim:Names.name "Generation Unit",
+        "INDQB-1" ;
+    dcterms:identifier "urn:eic:48W00000INDQB-1X" ;
+    skos:altLabel "INDQB-1" ;
+    skos:definition """EDF Renewables Indian Queens BESS asset
+Tom Reynolds
+Alexander House  
+1 Mandarin Road
+Rainton Bridge Business Park 
+Sunderland, DH4 5RA
+tom.reynolds@edf-re.uk  and EDFERAssetManagement@edf-re.uk 
+
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "INDIAN QNS BESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

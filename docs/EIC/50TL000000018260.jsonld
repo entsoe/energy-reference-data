@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000018260",
-    "@skos:prefLabel": "M 66 Haugen-Bondal",
-    "@skos:altLabel": "NO-HAUGENBONDAL",
+    "@skos:prefLabel": "N 66 Haugen-Bondal",
+    "@skos:altLabel": "NO-66HAUGENBONDA",
     "@cim:IdentifiedObject.mRID": "50TL000000018260",
-    "@cim:IdentifiedObject.name": "M 66 Haugen-Bondal",
+    "@cim:IdentifiedObject.name": "N 66 Haugen-Bondal",
     "@cim:Names.name": [
-        "NO-HAUGENBONDAL",
+        "NO-66HAUGENBONDA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEPPELBORN---6" ;
     cim:IdentifiedObject.name "Gemeindewerke Eppelborn GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE196704022",
-        "EPPELBORN" ;
+    cim:Names.name "DE196704022",
+        "EPPELBORN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEPPELBORN---6" ;
     schema1:vatID "DE196704022" ;
     skos:altLabel "EPPELBORN" ;

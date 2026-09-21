@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000064268" ;
-    cim:IdentifiedObject.name "Siedlce Ujrzanów-Stanisławów" ;
+    cim:IdentifiedObject.name "400kV Siedlce Ujrzanow-Stanislawow" ;
     cim:Names.name "E206",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T0000000064268" ;
     skos:altLabel "E206" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Siedlce Ujrzanów-Stanisławów" ;
+    skos:prefLabel "400kV Siedlce Ujrzanow-Stanislawow" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

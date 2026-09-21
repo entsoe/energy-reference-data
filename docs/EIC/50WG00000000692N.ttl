@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000692N" ;
     cim:IdentifiedObject.name "HOLLA   G101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HOLLA___G101_" ;
+        "NO-HOLLAG101" ;
     dcterms:identifier "urn:eic:50WG00000000692N" ;
-    skos:altLabel "NO-HOLLA___G101_" ;
+    skos:altLabel "NO-HOLLAG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HOLLA   G101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002408D",
-    "@skos:prefLabel": "S Hol 3 66 AL X",
-    "@skos:altLabel": "NO-HOL366ALX",
+    "@skos:prefLabel": "S Hol 3    66  AL X",
+    "@skos:altLabel": "NO-HOL_366AL_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002408D",
-    "@cim:IdentifiedObject.name": "S Hol 3 66 AL X",
+    "@cim:IdentifiedObject.name": "S Hol 3    66  AL X",
     "@cim:Names.name": [
-        "NO-HOL366ALX",
+        "NO-HOL_366AL_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

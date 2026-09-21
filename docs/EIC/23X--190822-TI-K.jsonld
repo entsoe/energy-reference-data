@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "TRANSPACIFIC INVESTMENT GROUP PTE LTD",
     "@cim:Names.name": [
         "TRANSPACIFIC_IG",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "The company is registered in Singapore where VAT is not applicable, only registration number. Company Registration Number: 200917747M Confirmed by an official excerpt from Accounting and Corporate Regulatory Authority (ACRA)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-08-22",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

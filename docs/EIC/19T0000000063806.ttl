@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000063806" ;
-    cim:IdentifiedObject.name "Ełk Bis-AT-1" ;
+    cim:IdentifiedObject.name "400/110kV Elk Bis AT1" ;
     cim:Names.name "EKB-A1",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T0000000063806" ;
     skos:altLabel "EKB-A1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ełk Bis-AT-1" ;
+    skos:prefLabel "400/110kV Elk Bis AT1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

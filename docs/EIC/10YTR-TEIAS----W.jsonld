@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "TEIAS Area",
     "@cim:Names.name": [
         "TEIAS_AREA",
-        "Control Area",
-        "LFC Block",
         "Bidding Zone",
-        "Scheduling Area",
+        "Control Area",
         "LFC Area",
-        "Member State"
+        "LFC Block",
+        "Member State",
+        "Scheduling Area"
     ],
     "@cim:IdentifiedObject.description": "Market Balance Area",
     "@cim:Document.docStatus": "A05",

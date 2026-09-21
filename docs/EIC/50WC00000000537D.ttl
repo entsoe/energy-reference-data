@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000537D" ;
-    cim:IdentifiedObject.name "S Sima     22  Forbruk" ;
+    cim:IdentifiedObject.name "S Sima     22  K1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SIMA22" ;
+        "NO-SIMA22K1" ;
     dcterms:identifier "urn:eic:50WC00000000537D" ;
-    skos:altLabel "NO-SIMA22" ;
+    skos:altLabel "NO-SIMA22K1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Sima     22  Forbruk" ;
+    skos:prefLabel "S Sima     22  K1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

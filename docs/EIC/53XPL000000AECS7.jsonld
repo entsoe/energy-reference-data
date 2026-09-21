@@ -18,13 +18,19 @@
     "@cim:IdentifiedObject.name": "AEC Spółka z ograniczoną odpowiedzialnością",
     "@cim:Names.name": [
         "AEC-ANDRYCHOW",
+        "A0016532I.PL",
         "PL5512641420",
+        "Consumer",
+        "Energy Supplier",
+        "Meter Administrator",
         "Network User",
-        "Consumer"
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-09",
+    "@cim:DateAndOrTime.date": "2026-03-26",
     "@schema:vatID": "PL5512641420",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

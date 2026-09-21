@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19WMEEHERBY----C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19WMEEHERBY----C" ;
+    cim:IdentifiedObject.name "MAGAZYN ENERGII HERBY" ;
+    cim:Names.name "BESS",
+        "Generation Unit",
+        "MEE_HERBY",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:19WMEEHERBY----C" ;
+    skos:altLabel "MEE_HERBY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MAGAZYN ENERGII HERBY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000455E",
-    "@skos:prefLabel": "S 132 Lille Sotra-Ågotnes",
-    "@skos:altLabel": "NO-LILLESOTRAAGO",
+    "@skos:prefLabel": "S 132 Litle Sotra-Bildøybakken2",
+    "@skos:altLabel": "NO-132LILLEKKEN2",
     "@cim:IdentifiedObject.mRID": "50TL00000000455E",
-    "@cim:IdentifiedObject.name": "S 132 Lille Sotra-Ågotnes",
+    "@cim:IdentifiedObject.name": "S 132 Litle Sotra-Bildøybakken2",
     "@cim:Names.name": [
-        "NO-LILLESOTRAAGO",
+        "NO-132LILLEKKEN2",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

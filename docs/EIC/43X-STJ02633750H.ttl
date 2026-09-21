@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02633750H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02633750H" ;
+    cim:IdentifiedObject.name "SP VECDZILNAS SIA" ;
+    cim:Names.name "LV40203407613",
+        "Producer",
+        "STJ02633750H" ;
+    dcterms:identifier "urn:eic:43X-STJ02633750H" ;
+    schema1:vatID "LV40203407613" ;
+    skos:altLabel "STJ02633750H" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SP VECDZILNAS SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

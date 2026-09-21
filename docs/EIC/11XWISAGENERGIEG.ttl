@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-17" ;
+    cim:DateAndOrTime.date "2024-09-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XWISAGENERGIEG" ;
     cim:IdentifiedObject.name "WISAG Energieversorgungs GmbH & Co. KG" ;
-    cim:Names.name "DE284634010",
-        "WISAG",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE284634010",
+        "WISAG" ;
     dcterms:identifier "urn:eic:11XWISAGENERGIEG" ;
     schema1:vatID "DE284634010" ;
     skos:altLabel "WISAG" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "WISAG Energieversorgungs GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

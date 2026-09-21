@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002006Y",
-    "@skos:prefLabel": "Alcoa-Mosjøen",
-    "@skos:altLabel": "NO-ALCOA-MOSJOEN",
+    "@skos:prefLabel": "N Stranda  2   L1  Forbruk",
+    "@skos:altLabel": "NO-STRANDA2",
     "@cim:IdentifiedObject.mRID": "50WC00000002006Y",
-    "@cim:IdentifiedObject.name": "Alcoa-Mosjøen",
+    "@cim:IdentifiedObject.name": "N Stranda  2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-ALCOA-MOSJOEN",
+        "NO-STRANDA2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

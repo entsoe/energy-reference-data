@@ -12,18 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000HLO0",
-    "@skos:prefLabel": "ENERGREEN MOBILITY S.L.",
+    "@skos:prefLabel": "ENERGREEN MOBILITY S.L",
     "@skos:altLabel": "EGREN",
     "@cim:IdentifiedObject.mRID": "18X000000000HLO0",
-    "@cim:IdentifiedObject.name": "ENERGREEN MOBILITY S.L.",
+    "@cim:IdentifiedObject.name": "ENERGREEN MOBILITY S.L",
     "@cim:Names.name": [
         "EGREN",
         "ESB88424445",
-        "Consumption Responsible Party"
+        "Consumption Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-04-20",
+    "@cim:DateAndOrTime.date": "2025-02-14",
     "@schema:vatID": "ESB88424445",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

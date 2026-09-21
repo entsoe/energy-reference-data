@@ -14,16 +14,24 @@
     "@dcterms:identifier": "urn:eic:48X000000000353O",
     "@skos:prefLabel": "Hirwaun Power Limited",
     "@skos:altLabel": "HPL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Contact details:\n\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n"
+    },
     "@cim:IdentifiedObject.mRID": "48X000000000353O",
     "@cim:IdentifiedObject.name": "Hirwaun Power Limited",
     "@cim:Names.name": [
         "HPL",
         "GB744326437",
-        "Party Connected To Grid"
+        "Balance Responsible Party",
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Contact details:\n\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-07-31",
+    "@cim:DateAndOrTime.date": "2024-02-15",
     "@schema:vatID": "GB744326437",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

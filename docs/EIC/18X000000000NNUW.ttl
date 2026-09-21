@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-07-06" ;
+    cim:DateAndOrTime.date "2024-06-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000NNUW" ;
     cim:IdentifiedObject.name "VIROQUE ENERGY SL" ;
-    cim:Names.name "ES-B09819814",
+    cim:Names.name "Balance Responsible Party",
+        "ES-B09819814",
         "ESB09819814",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000NNUW" ;

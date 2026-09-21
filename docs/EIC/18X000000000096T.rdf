@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X000000000096T</dcterms:identifier>
     <skos:prefLabel>PLASTICOS SOLANAS S.L</skos:prefLabel>
     <skos:altLabel>PSOLA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X000000000096T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PLASTICOS SOLANAS S.L</cim:IdentifiedObject.name>
     <cim:Names.name>PSOLA</cim:Names.name>
     <cim:Names.name>ESB50040203</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50040203</schema:vatID>

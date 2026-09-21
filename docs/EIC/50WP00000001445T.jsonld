@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001445T",
     "@skos:prefLabel": "Jorda",
-    "@skos:altLabel": "NO-JORDA_PL",
+    "@skos:altLabel": "NO-JORDA",
     "@cim:IdentifiedObject.mRID": "50WP00000001445T",
     "@cim:IdentifiedObject.name": "Jorda",
     "@cim:Names.name": [
-        "NO-JORDA_PL",
+        "NO-JORDA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

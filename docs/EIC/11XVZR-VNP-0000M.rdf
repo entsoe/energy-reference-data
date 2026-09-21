@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XVZR-VNP-0000M</dcterms:identifier>
     <skos:prefLabel>Verteilnetz Plauen GmbH</skos:prefLabel>
     <skos:altLabel>VNP</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XVZR-VNP-0000M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Verteilnetz Plauen GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>VNP</cim:Names.name>
     <cim:Names.name>DE274233514</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-10-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE274233514</schema:vatID>
   </skos:Concept>

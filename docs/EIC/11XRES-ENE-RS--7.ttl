@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRES-ENE-RS--7" ;
     cim:IdentifiedObject.name "E.ON Netz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE191460805",
-        "EON-NETZ-RESI" ;
+    cim:Names.name "DE191460805",
+        "EON-NETZ-RESI",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XRES-ENE-RS--7" ;
     schema1:vatID "DE191460805" ;
     skos:altLabel "EON-NETZ-RESI" ;

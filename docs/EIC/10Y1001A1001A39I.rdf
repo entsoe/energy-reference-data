@@ -6,18 +6,17 @@
     <dcterms:identifier>urn:eic:10Y1001A1001A39I</dcterms:identifier>
     <skos:prefLabel>Estonia</skos:prefLabel>
     <skos:altLabel>EE</skos:altLabel>
-    <skos:definition xml:lang="en">Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area</skos:definition>
     <cim:IdentifiedObject.mRID>10Y1001A1001A39I</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Estonia</cim:IdentifiedObject.name>
     <cim:Names.name>EE</cim:Names.name>
-    <cim:IdentifiedObject.description>Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-28</cim:DateAndOrTime.date>
-    <cim:Names.name>Control Area</cim:Names.name>
-    <cim:Names.name>Scheduling Area</cim:Names.name>
-    <cim:Names.name>Member State</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-12</cim:DateAndOrTime.date>
     <cim:Names.name>Bidding Zone</cim:Names.name>
+    <cim:Names.name>Control Area</cim:Names.name>
+    <cim:Names.name>LFC Area</cim:Names.name>
+    <cim:Names.name>Member State</cim:Names.name>
+    <cim:Names.name>Scheduling Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

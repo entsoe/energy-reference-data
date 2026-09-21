@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-06-28" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Transmission System Operator For Gas" ;
     cim:IdentifiedObject.mRID "21X-DE-E-A0A0A-B" ;
     cim:IdentifiedObject.name "GdF Deutschland Transport" ;
     cim:Names.name "GDF-DT",
-        "Valid EIC Function needed" ;
+        "Not known",
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X-DE-E-A0A0A-B" ;
+    schema1:vatID "Not known" ;
     skos:altLabel "GDF-DT" ;
     skos:definition "Transmission System Operator For Gas"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

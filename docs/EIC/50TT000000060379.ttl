@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000060379" ;
     cim:IdentifiedObject.name "S Vamma    T9 Transformator" ;
-    cim:Names.name "NO-VAMMA___T9",
+    cim:Names.name "NO-VAMMAT9",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000060379" ;
-    skos:altLabel "NO-VAMMA___T9" ;
+    skos:altLabel "NO-VAMMAT9" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Vamma    T9 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

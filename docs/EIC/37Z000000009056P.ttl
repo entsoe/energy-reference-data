@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37Z000000009056P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Connection Point" ;
+    cim:IdentifiedObject.mRID "37Z000000009056P" ;
+    cim:IdentifiedObject.name "UNTERLUESS" ;
+    cim:Names.name "37Z000000009056P",
+        "Connection Point" ;
+    dcterms:identifier "urn:eic:37Z000000009056P" ;
+    skos:altLabel "37Z000000009056P" ;
+    skos:definition "Connection Point"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UNTERLUESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

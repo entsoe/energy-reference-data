@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002908U" ;
     cim:IdentifiedObject.name "S 66 Åmsosen-Vikedal" ;
     cim:Names.name "Internal Line",
-        "NO-AMSOSENVIKEDA" ;
+        "NO-66AMSOSENVIKE" ;
     dcterms:identifier "urn:eic:50TL00000002908U" ;
-    skos:altLabel "NO-AMSOSENVIKEDA" ;
+    skos:altLabel "NO-66AMSOSENVIKE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Åmsosen-Vikedal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

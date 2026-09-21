@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000018435" ;
     cim:IdentifiedObject.name "ONTRAS-SWRAG Ziesendorf" ;
-    cim:Names.name "37Z0000000018435" ;
+    cim:Names.name "37Z0000000018435",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000018435" ;
     skos:altLabel "37Z0000000018435" ;
     skos:definition "Connection Point"@en ;

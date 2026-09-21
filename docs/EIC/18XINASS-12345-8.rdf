@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XINASS-12345-8</dcterms:identifier>
     <skos:prefLabel>inAsset Networks SL</skos:prefLabel>
     <skos:altLabel>INASS</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XINASS-12345-8</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>inAsset Networks SL</cim:IdentifiedObject.name>
     <cim:Names.name>INASS</cim:Names.name>
     <cim:Names.name>ESB54403621</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-07-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB54403621</schema:vatID>

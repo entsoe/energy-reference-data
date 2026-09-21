@@ -16,7 +16,10 @@
     "@skos:altLabel": "VT_D7-BE_AP",
     "@cim:IdentifiedObject.mRID": "22Z-BE-D7-X-AP-8",
     "@cim:IdentifiedObject.name": "Reserve sharing AMPRION-ELIA",
-    "@cim:Names.name": "VT_D7-BE_AP",
+    "@cim:Names.name": [
+        "VT_D7-BE_AP",
+        "Accounting Point"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-09-23",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WCI00000013105" ;
     cim:IdentifiedObject.name "S Akersber 11  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-AKERSBERG11T3" ;
+        "NO-AKERSBERT11T3" ;
     dcterms:identifier "urn:eic:50WCI00000013105" ;
-    skos:altLabel "NO-AKERSBERG11T3" ;
+    skos:altLabel "NO-AKERSBERT11T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Akersber 11  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

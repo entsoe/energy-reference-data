@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006626C",
-    "@skos:prefLabel": "Rogowiec-A1",
+    "@skos:prefLabel": "400/220kV Rogowiec AT1",
     "@skos:altLabel": "ROG-A1",
     "@cim:IdentifiedObject.mRID": "19T110000006626C",
-    "@cim:IdentifiedObject.name": "Rogowiec-A1",
+    "@cim:IdentifiedObject.name": "400/220kV Rogowiec AT1",
     "@cim:Names.name": [
         "ROG-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

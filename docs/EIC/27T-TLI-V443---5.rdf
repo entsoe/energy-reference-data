@@ -6,12 +6,14 @@
     <dcterms:identifier>urn:eic:27T-TLI-V443---5</dcterms:identifier>
     <skos:prefLabel>V443 - Detmarovice-Dobrzen</skos:prefLabel>
     <skos:altLabel>V443</skos:altLabel>
+    <skos:definition xml:lang="en">Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated.</skos:definition>
     <cim:IdentifiedObject.mRID>27T-TLI-V443---5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>V443 - Detmarovice-Dobrzen</cim:IdentifiedObject.name>
     <cim:Names.name>V443</cim:Names.name>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.description>Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-11-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-31</cim:DateAndOrTime.date>
     <cim:Names.name>Tieline</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

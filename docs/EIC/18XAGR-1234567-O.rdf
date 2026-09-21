@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XAGR-1234567-O</dcterms:identifier>
     <skos:prefLabel>AGUAS GARCIA ROMERA S.L.</skos:prefLabel>
     <skos:altLabel>AGR</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XAGR-1234567-O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AGUAS GARCIA ROMERA S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>AGR</cim:Names.name>
     <cim:Names.name>ESB73064347</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-05-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB73064347</schema:vatID>

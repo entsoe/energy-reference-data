@@ -11,11 +11,13 @@
     <cim:IdentifiedObject.name>KOCH SUPPLY &amp; TRADING, LP</cim:IdentifiedObject.name>
     <cim:Names.name>KOCHST_LP_USA</cim:Names.name>
     <cim:Names.name>A0015841G.NL</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Company registered in US;  Company registration number: 3437877 Company tax identification number: 48-1251073</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-04-18</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

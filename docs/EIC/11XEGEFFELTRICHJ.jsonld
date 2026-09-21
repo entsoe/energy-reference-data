@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XEGEFFELTRICHJ",
     "@skos:prefLabel": "Elektra-Genossenschaft Effeltrich eG",
     "@skos:altLabel": "EGEFFELTRICH",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEGEFFELTRICHJ",
     "@cim:IdentifiedObject.name": "Elektra-Genossenschaft Effeltrich eG",
     "@cim:Names.name": [
         "EGEFFELTRICH",
-        "21618515402",
-        "Balance Group"
+        "DE229225638",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
-    "@schema:vatID": "21618515402",
+    "@cim:DateAndOrTime.date": "2024-09-18",
+    "@schema:vatID": "DE229225638",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

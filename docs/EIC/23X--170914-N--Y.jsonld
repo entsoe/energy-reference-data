@@ -23,12 +23,14 @@
     "@cim:Names.name": [
         "NOVATEK_GP_ASIA",
         "A0013909S.DE",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "EU VAT not available for Singapure. Company and Tax Registration Number: 201332913W",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-09-14",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

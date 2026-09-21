@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/56X930000123040K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "56X930000123040K" ;
+    cim:IdentifiedObject.name "SK LNG GROUP LIMITED LIABILITY COMPANY " ;
+    cim:Names.name "453516226558",
+        "Network User",
+        "SK_LNG_GROUP",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:56X930000123040K" ;
+    schema1:vatID "453516226558" ;
+    skos:altLabel "SK_LNG_GROUP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SK LNG GROUP LIMITED LIABILITY COMPANY " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

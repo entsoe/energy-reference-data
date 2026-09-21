@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002515C",
-    "@skos:prefLabel": "S Steinsfo 50 K1 X",
-    "@skos:altLabel": "NO-STEINSFO50K1X",
+    "@skos:prefLabel": "S Steinsfo 50  K1 X",
+    "@skos:altLabel": "NO-50STEINSFOSST",
     "@cim:IdentifiedObject.mRID": "50TL00000002515C",
-    "@cim:IdentifiedObject.name": "S Steinsfo 50 K1 X",
+    "@cim:IdentifiedObject.name": "S Steinsfo 50  K1 X",
     "@cim:Names.name": [
-        "NO-STEINSFO50K1X",
+        "NO-50STEINSFOSST",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-06-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

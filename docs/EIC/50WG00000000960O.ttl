@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000960O" ;
-    cim:IdentifiedObject.name "LEIVDAL G119 HYDRO" ;
+    cim:IdentifiedObject.name "VIKAELVAG119 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LEIVDAL_G119_" ;
+        "NO-VIKAELVAG119" ;
     dcterms:identifier "urn:eic:50WG00000000960O" ;
-    skos:altLabel "NO-LEIVDAL_G119_" ;
+    skos:altLabel "NO-VIKAELVAG119" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LEIVDAL G119 HYDRO" ;
+    skos:prefLabel "VIKAELVAG119 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

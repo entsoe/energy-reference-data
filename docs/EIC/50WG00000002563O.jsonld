@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002563O",
-    "@skos:prefLabel": "MOSKOG  G173 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G173_",
+    "@skos:prefLabel": "DALEELVAG1      HYDRO",
+    "@skos:altLabel": "NO-DALEELVAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000002563O",
-    "@cim:IdentifiedObject.name": "MOSKOG  G173 HYDRO",
+    "@cim:IdentifiedObject.name": "DALEELVAG1      HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G173_",
+        "NO-DALEELVAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

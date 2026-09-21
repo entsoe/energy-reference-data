@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002396V",
-    "@skos:prefLabel": "S Hagaskog 66 HG X",
-    "@skos:altLabel": "NO-HAGASKOG66HGX",
+    "@skos:prefLabel": "S Hagaskog 66  HG X",
+    "@skos:altLabel": "NO-HAGASKOG66HG",
     "@cim:IdentifiedObject.mRID": "50TL00000002396V",
-    "@cim:IdentifiedObject.name": "S Hagaskog 66 HG X",
+    "@cim:IdentifiedObject.name": "S Hagaskog 66  HG X",
     "@cim:Names.name": [
-        "NO-HAGASKOG66HGX",
+        "NO-HAGASKOG66HG",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

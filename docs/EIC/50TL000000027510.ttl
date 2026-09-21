@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000027510" ;
-    cim:IdentifiedObject.name "M 22 Hubakken-Mørre" ;
+    cim:IdentifiedObject.name "N 22 Hubakken-Mørre" ;
     cim:Names.name "Internal Line",
-        "NO-HUBAKKENMORRE" ;
+        "NO-22HUBAKKENMOR" ;
     dcterms:identifier "urn:eic:50TL000000027510" ;
-    skos:altLabel "NO-HUBAKKENMORRE" ;
+    skos:altLabel "NO-22HUBAKKENMOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Hubakken-Mørre" ;
+    skos:prefLabel "N 22 Hubakken-Mørre" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

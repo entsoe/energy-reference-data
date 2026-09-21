@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCLLUT-12345-Y",
     "@skos:prefLabel": "COOPERATIVA DEL CAMP DE LLUTXENT OTOS",
     "@skos:altLabel": "CLLUT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCLLUT-12345-Y",
     "@cim:IdentifiedObject.name": "COOPERATIVA DEL CAMP DE LLUTXENT OTOS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF46026084",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-11-25",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF46026084",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W0000000001148</dcterms:identifier>
-    <skos:prefLabel>UGS Jemgum Astora</skos:prefLabel>
-    <skos:altLabel>JEMGUM-ASTORA</skos:altLabel>
+    <skos:prefLabel>UGS Jemgum SEFE Storage</skos:prefLabel>
+    <skos:altLabel>JEMGUM-SEFE</skos:altLabel>
     <skos:definition xml:lang="en">Gas Storage Facility</skos:definition>
     <cim:IdentifiedObject.mRID>21W0000000001148</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>UGS Jemgum Astora</cim:IdentifiedObject.name>
-    <cim:Names.name>JEMGUM-ASTORA</cim:Names.name>
+    <cim:IdentifiedObject.name>UGS Jemgum SEFE Storage</cim:IdentifiedObject.name>
+    <cim:Names.name>JEMGUM-SEFE</cim:Names.name>
     <cim:IdentifiedObject.description>Gas Storage Facility</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-11</cim:DateAndOrTime.date>
     <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

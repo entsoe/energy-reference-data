@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000063181",
-    "@skos:prefLabel": "S Tjele    PT11 Transformator",
-    "@skos:altLabel": "NO-TJELE___PT11",
+    "@skos:prefLabel": "L HVDC Dan PT11 Transformator",
+    "@skos:altLabel": "NO-HVDC_DKNPT11",
     "@cim:IdentifiedObject.mRID": "50TT000000063181",
-    "@cim:IdentifiedObject.name": "S Tjele    PT11 Transformator",
+    "@cim:IdentifiedObject.name": "L HVDC Dan PT11 Transformator",
     "@cim:Names.name": [
-        "NO-TJELE___PT11",
+        "NO-HVDC_DKNPT11",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-05-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

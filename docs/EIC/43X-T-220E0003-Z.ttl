@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-08-30" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-T-220E0003-Z" ;
-    cim:IdentifiedObject.name "SIA \"220 Enerģija\"" ;
+    cim:IdentifiedObject.name "Alexela SIA" ;
     cim:Names.name "LV-220E",
         "LV40103752971",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "LV40103752971" ;
     skos:altLabel "LV-220E" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SIA \"220 Enerģija\"" ;
+    skos:prefLabel "Alexela SIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

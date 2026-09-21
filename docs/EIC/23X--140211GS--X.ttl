@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-02-11" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23X--140211GS--X" ;
-    cim:IdentifiedObject.name "GDF SUEZ E&P DEUTSCHLAND GMBH" ;
-    cim:Names.name "DE811127999",
-        "GDF_EP_DE",
+    cim:IdentifiedObject.name "Neptune Energy Deutschland GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE811127999",
+        "NEPTUNE_ENERGY_D",
+        "Producer",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--140211GS--X" ;
     schema1:vatID "DE811127999" ;
-    skos:altLabel "GDF_EP_DE" ;
-    skos:definition "Trade Responsible Party"@en ;
+    skos:altLabel "NEPTUNE_ENERGY_D" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GDF SUEZ E&P DEUTSCHLAND GMBH" ;
+    skos:prefLabel "Neptune Energy Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

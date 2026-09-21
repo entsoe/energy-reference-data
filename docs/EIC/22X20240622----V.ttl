@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22X20240622----V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22X20240622----V" ;
+    cim:IdentifiedObject.name "BV Kyndryl Belgium" ;
+    cim:Names.name "BE0764299028",
+        "BE_KYNDRYLBE",
+        "Consumer" ;
+    dcterms:identifier "urn:eic:22X20240622----V" ;
+    schema1:vatID "BE0764299028" ;
+    skos:altLabel "BE_KYNDRYLBE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BV Kyndryl Belgium" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

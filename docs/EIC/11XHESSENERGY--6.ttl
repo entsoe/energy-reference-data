@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Stromhandel" ;
     cim:IdentifiedObject.mRID "11XHESSENERGY--6" ;
     cim:IdentifiedObject.name "Hess Energy Power & Gas Company (UK) Limited" ;
-    cim:Names.name "DE813369892",
-        "HESSENERGY",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE813369892",
+        "HESSENERGY" ;
     dcterms:identifier "urn:eic:11XHESSENERGY--6" ;
     schema1:vatID "DE813369892" ;
     skos:altLabel "HESSENERGY" ;

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000117U" ;
     cim:IdentifiedObject.name "MAVEG Industrieausrüstungen GmbH" ;
-    cim:Names.name "DE121638182",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE121638182",
         "MAVEG_INDUSTRIEA" ;
     dcterms:identifier "urn:eic:37X000000000117U" ;
     schema1:vatID "DE121638182" ;

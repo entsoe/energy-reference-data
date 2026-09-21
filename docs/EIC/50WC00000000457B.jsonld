@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000457B",
-    "@skos:prefLabel": "M Fiborg   66  Last TM1 Industri",
+    "@skos:prefLabel": "N Fiborg   66  Industri TM1",
     "@skos:altLabel": "NO-FIBORG66TM1NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000457B",
-    "@cim:IdentifiedObject.name": "M Fiborg   66  Last TM1 Industri",
+    "@cim:IdentifiedObject.name": "N Fiborg   66  Industri TM1",
     "@cim:Names.name": [
         "NO-FIBORG66TM1NC",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

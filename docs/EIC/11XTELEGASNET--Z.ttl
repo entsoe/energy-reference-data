@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XTELEGASNET--Z" ;
     cim:IdentifiedObject.name "TGN Tele Gas Net GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE224351695",
-        "TGN-GMBH" ;
+    cim:Names.name "DE224351695",
+        "TGN-GMBH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XTELEGASNET--Z" ;
     schema1:vatID "DE224351695" ;
     skos:altLabel "TGN-GMBH" ;

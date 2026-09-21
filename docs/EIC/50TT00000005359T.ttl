@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005359T" ;
     cim:IdentifiedObject.name "N Narvik   NT2 Transformator" ;
-    cim:Names.name "NO-NARVIK__NT2",
+    cim:Names.name "NO-NARVIKNT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005359T" ;
-    skos:altLabel "NO-NARVIK__NT2" ;
+    skos:altLabel "NO-NARVIKNT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Narvik   NT2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

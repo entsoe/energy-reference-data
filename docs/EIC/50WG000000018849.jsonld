@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000018849",
-    "@skos:prefLabel": "TISTEDALG3      HYDRO",
-    "@skos:altLabel": "NO-TISTEDALG3___",
+    "@skos:prefLabel": "TISTEDALG2      HYDRO",
+    "@skos:altLabel": "NO-TISTEDALG2",
     "@cim:IdentifiedObject.mRID": "50WG000000018849",
-    "@cim:IdentifiedObject.name": "TISTEDALG3      HYDRO",
+    "@cim:IdentifiedObject.name": "TISTEDALG2      HYDRO",
     "@cim:Names.name": [
-        "NO-TISTEDALG3___",
+        "NO-TISTEDALG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

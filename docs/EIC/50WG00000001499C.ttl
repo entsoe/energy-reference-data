@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001499C" ;
     cim:IdentifiedObject.name "SKJEGGEDG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SKJEGGEDG2___" ;
+        "NO-SKJEGGEDG2" ;
     dcterms:identifier "urn:eic:50WG00000001499C" ;
-    skos:altLabel "NO-SKJEGGEDG2___" ;
+    skos:altLabel "NO-SKJEGGEDG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SKJEGGEDG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

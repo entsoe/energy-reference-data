@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAVIL-123456-X",
     "@skos:prefLabel": "AYUNTAMIENTO DE AVILÉS",
     "@skos:altLabel": "AVIL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAVIL-123456-X",
     "@cim:IdentifiedObject.name": "AYUNTAMIENTO DE AVILÉS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESP3300400C",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESP3300400C",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGALC-123456-5</dcterms:identifier>
     <skos:prefLabel>Pizarras Galcar, S.A.</skos:prefLabel>
     <skos:altLabel>GALC</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGALC-123456-5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Pizarras Galcar, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>GALC</cim:Names.name>
     <cim:Names.name>ESA24633331</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-05-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA24633331</schema:vatID>

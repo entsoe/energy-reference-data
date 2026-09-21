@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:12X-000000209T-1</dcterms:identifier>
-    <skos:prefLabel>STG Switzerland AG</skos:prefLabel>
-    <skos:altLabel>STG-CH-AG-----ST</skos:altLabel>
+    <skos:prefLabel>STG Switzerland GmbH</skos:prefLabel>
+    <skos:altLabel>STG-CH-GMBH---ST</skos:altLabel>
     <cim:IdentifiedObject.mRID>12X-000000209T-1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>STG Switzerland AG</cim:IdentifiedObject.name>
-    <cim:Names.name>STG-CH-AG-----ST</cim:Names.name>
+    <cim:IdentifiedObject.name>STG Switzerland GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>STG-CH-GMBH---ST</cim:Names.name>
     <cim:Names.name>CHE463317717</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-12</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CHE463317717</schema:vatID>

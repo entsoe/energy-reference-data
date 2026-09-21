@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-03-13" ;
+    cim:DateAndOrTime.date "2024-12-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XBMRSERVICE--2" ;
     cim:IdentifiedObject.name "Maschinenringe Deutschland GmbH" ;
     cim:Names.name "BMRSERVICE",
-        "Balance Group",
+        "Balance Responsible Party",
         "DE185445580" ;
     dcterms:identifier "urn:eic:11XBMRSERVICE--2" ;
     schema1:vatID "DE185445580" ;

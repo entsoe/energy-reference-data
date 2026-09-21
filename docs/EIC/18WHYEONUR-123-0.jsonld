@@ -16,7 +16,10 @@
     "@skos:altLabel": "HYEONUR",
     "@cim:IdentifiedObject.mRID": "18WHYEONUR-123-0",
     "@cim:IdentifiedObject.name": "E.ON COMERCIALIZADOR DE ÚLTIMO RECURSO, S.L",
-    "@cim:Names.name": "HYEONUR",
+    "@cim:Names.name": [
+        "HYEONUR",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-07-22",

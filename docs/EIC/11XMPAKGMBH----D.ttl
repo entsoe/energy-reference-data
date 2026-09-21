@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMPAKGMBH----D" ;
     cim:IdentifiedObject.name "M-PAK GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE243555130",
-        "MPAK-GMBH" ;
+    cim:Names.name "DE243555130",
+        "MPAK-GMBH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMPAKGMBH----D" ;
     schema1:vatID "DE243555130" ;
     skos:altLabel "MPAK-GMBH" ;

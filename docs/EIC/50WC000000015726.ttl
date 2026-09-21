@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000015726" ;
     cim:IdentifiedObject.name "S Mossepor 47  9 Forbruk" ;
     cim:Names.name "Load",
-        "NO-MOSSEPORTE479" ;
+        "NO-MOSSEPOREN479" ;
     dcterms:identifier "urn:eic:50WC000000015726" ;
-    skos:altLabel "NO-MOSSEPORTE479" ;
+    skos:altLabel "NO-MOSSEPOREN479" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Mossepor 47  9 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

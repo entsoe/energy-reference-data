@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-12-01" ;
+    cim:DateAndOrTime.date "2024-01-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21X000000001210U" ;
-    cim:IdentifiedObject.name "PZEM Energy BV" ;
-    cim:Names.name "Balance Responsible Party",
-        "NL812290793B01",
-        "PZEM_ENERGY_BV" ;
+    cim:IdentifiedObject.name "ZEH Energy BV" ;
+    cim:Names.name "NL812290793B01",
+        "Producer",
+        "ZEH_ENERGY_BV" ;
     dcterms:identifier "urn:eic:21X000000001210U" ;
     schema1:vatID "NL812290793B01" ;
-    skos:altLabel "PZEM_ENERGY_BV" ;
+    skos:altLabel "ZEH_ENERGY_BV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PZEM Energy BV" ;
+    skos:prefLabel "ZEH Energy BV" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XSTAC01------R</dcterms:identifier>
-    <skos:prefLabel>Stadtwerke Aachen Aktiengesellschaft</skos:prefLabel>
+    <skos:prefLabel>STAWAG - Stadt- und St&#228;dteregionswerke Aachen AG</skos:prefLabel>
     <skos:altLabel>STAWAG</skos:altLabel>
-    <skos:definition xml:lang="en">balance responsible party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSTAC01------R</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stadtwerke Aachen Aktiengesellschaft</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>STAWAG - Stadt- und St&#228;dteregionswerke Aachen AG</cim:IdentifiedObject.name>
     <cim:Names.name>STAWAG</cim:Names.name>
     <cim:Names.name>DE811163786</cim:Names.name>
-    <cim:IdentifiedObject.description>balance responsible party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811163786</schema:vatID>

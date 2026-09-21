@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001082N",
-    "@skos:prefLabel": "N Bjørneva 22  Forbruk",
-    "@skos:altLabel": "NO-BJORNEVA22",
+    "@skos:prefLabel": "N Bjørneva 22  Bj Forbruk",
+    "@skos:altLabel": "NO-BJORNEVA22BJ",
     "@cim:IdentifiedObject.mRID": "50WC00000001082N",
-    "@cim:IdentifiedObject.name": "N Bjørneva 22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Bjørneva 22  Bj Forbruk",
     "@cim:Names.name": [
-        "NO-BJORNEVA22",
+        "NO-BJORNEVA22BJ",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

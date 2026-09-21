@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-12-02" ;
+    cim:DateAndOrTime.date "2025-02-14" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XPULSA-12345-M" ;
-    cim:IdentifiedObject.name "PULSAR SERVICIOS ENERGETICOS SL" ;
+    cim:IdentifiedObject.name "BLUBAT PULSAR, S.L." ;
     cim:Names.name "ESB91794941",
         "PULSA",
+        "Production Responsible Party",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XPULSA-12345-M" ;
     schema1:vatID "ESB91794941" ;
     skos:altLabel "PULSA" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PULSAR SERVICIOS ENERGETICOS SL" ;
+    skos:prefLabel "BLUBAT PULSAR, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

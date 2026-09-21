@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSNIVI-12345-Z",
     "@skos:prefLabel": "viscocel s.l.u",
     "@skos:altLabel": "SNIVI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSNIVI-12345-Z",
     "@cim:IdentifiedObject.name": "viscocel s.l.u",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB62334479",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-03-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB62334479",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,11 +13,11 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-01-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Grid Access Provider</cim:Names.name>
-    <cim:Names.name>System Operator</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
-    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6850004973</schema:vatID>
   </skos:Concept>

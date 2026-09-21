@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XD-EW-MONHEIME",
     "@skos:prefLabel": "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH",
     "@skos:altLabel": "D_EW_MONHEIM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XD-EW-MONHEIME",
     "@cim:IdentifiedObject.name": "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH",
     "@cim:Names.name": [
         "D_EW_MONHEIM",
         "DE811257596",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-12-19",
     "@schema:vatID": "DE811257596",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

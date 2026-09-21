@@ -14,20 +14,16 @@
     "@dcterms:identifier": "urn:eic:21Y---A002A005-T",
     "@skos:prefLabel": "PVB ES",
     "@skos:altLabel": "PVB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Virtual Trading Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y---A002A005-T",
     "@cim:IdentifiedObject.name": "PVB ES",
     "@cim:Names.name": [
         "PVB",
-        "Valid EIC Function needed"
+        "Market Area",
+        "Scheduling Area"
     ],
-    "@cim:IdentifiedObject.description": "Virtual Trading Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-31",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

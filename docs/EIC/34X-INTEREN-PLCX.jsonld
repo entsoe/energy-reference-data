@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:34X-INTEREN-PLCX",
-    "@skos:prefLabel": "PLC INTERENERGO d.o.o. Beograd",
-    "@skos:altLabel": "RS-PLC",
+    "@skos:prefLabel": "Kelag International d.o.o. Beograd",
+    "@skos:altLabel": "KELAG",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "34X-INTEREN-PLCX",
-    "@cim:IdentifiedObject.name": "PLC INTERENERGO d.o.o. Beograd",
+    "@cim:IdentifiedObject.name": "Kelag International d.o.o. Beograd",
     "@cim:Names.name": [
-        "RS-PLC",
+        "KELAG",
         "409933518",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-10-15",
+    "@cim:DateAndOrTime.date": "2026-01-14",
     "@schema:vatID": "409933518",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

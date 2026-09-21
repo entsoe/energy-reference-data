@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45W000000000207K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45W000000000207K" ;
+    cim:IdentifiedObject.name "Vesterhav Syd " ;
+    cim:Names.name "DK_VHS_GU",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:45W000000000207K" ;
+    skos:altLabel "DK_VHS_GU" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Vesterhav Syd " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

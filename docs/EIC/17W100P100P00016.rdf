@@ -6,14 +6,14 @@
     <dcterms:identifier>urn:eic:17W100P100P00016</dcterms:identifier>
     <skos:prefLabel>PONT SUR SAMBRE</skos:prefLabel>
     <skos:altLabel>FR_GA-SAMBRT_1-G</skos:altLabel>
-    <skos:definition xml:lang="en">Generation Unit</skos:definition>
+    <skos:definition xml:lang="en">Generation Unit Validation CIO</skos:definition>
     <cim:IdentifiedObject.mRID>17W100P100P00016</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PONT SUR SAMBRE</cim:IdentifiedObject.name>
     <cim:Names.name>FR_GA-SAMBRT_1-G</cim:Names.name>
-    <cim:IdentifiedObject.description>Generation Unit</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Generation Unit Validation CIO</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-17</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

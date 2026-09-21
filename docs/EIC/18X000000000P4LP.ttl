@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-21" ;
+    cim:DateAndOrTime.date "2026-04-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000P4LP" ;
-    cim:IdentifiedObject.name "RENU ENERGY, S.L." ;
+    cim:IdentifiedObject.name "ENERSA ELECTRICIDAD, S.A." ;
     cim:Names.name "ES-RENUE",
-        "ESB56430010",
+        "ESA56430010",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000P4LP" ;
-    schema1:vatID "ESB56430010" ;
+    schema1:vatID "ESA56430010" ;
     skos:altLabel "ES-RENUE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "RENU ENERGY, S.L." ;
+    skos:prefLabel "ENERSA ELECTRICIDAD, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

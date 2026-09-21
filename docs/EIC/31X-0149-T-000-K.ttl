@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-28" ;
+    cim:DateAndOrTime.date "2024-09-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31X-0149-T-000-K" ;
-    cim:IdentifiedObject.name "ENNA Opskrba d.o.o." ;
+    cim:IdentifiedObject.name "ENNA Next d.o.o." ;
     cim:Names.name "Balance Responsible Party",
-        "HR-ENNA-OPSKRBA",
+        "HR-ENNA-NEXT",
         "HR61700516273" ;
     dcterms:identifier "urn:eic:31X-0149-T-000-K" ;
     schema1:vatID "HR61700516273" ;
-    skos:altLabel "HR-ENNA-OPSKRBA" ;
+    skos:altLabel "HR-ENNA-NEXT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENNA Opskrba d.o.o." ;
+    skos:prefLabel "ENNA Next d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

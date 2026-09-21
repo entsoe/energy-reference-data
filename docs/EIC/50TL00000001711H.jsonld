@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001711H",
-    "@skos:prefLabel": "M 66 Daltrøa-Jøa",
-    "@skos:altLabel": "NO-DALTROAJOA",
+    "@skos:prefLabel": "N 66 Daltrøa-Jøa",
+    "@skos:altLabel": "NO-66DALTROAJOA",
     "@cim:IdentifiedObject.mRID": "50TL00000001711H",
-    "@cim:IdentifiedObject.name": "M 66 Daltrøa-Jøa",
+    "@cim:IdentifiedObject.name": "N 66 Daltrøa-Jøa",
     "@cim:Names.name": [
-        "NO-DALTROAJOA",
+        "NO-66DALTROAJOA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

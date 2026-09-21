@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000018341" ;
     cim:IdentifiedObject.name "S 66 Håvik-Eide" ;
     cim:Names.name "Internal Line",
-        "NO-HAVIKEIDE" ;
+        "NO-66HAVIKEIDE" ;
     dcterms:identifier "urn:eic:50TL000000018341" ;
-    skos:altLabel "NO-HAVIKEIDE" ;
+    skos:altLabel "NO-66HAVIKEIDE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Håvik-Eide" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

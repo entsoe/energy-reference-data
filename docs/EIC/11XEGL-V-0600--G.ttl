@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEGL-V-0600--G" ;
     cim:IdentifiedObject.name "Axpo Deutschland GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE142394844",
-        "EGL-DE-V-0600" ;
+    cim:Names.name "DE142394844",
+        "EGL-DE-V-0600",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEGL-V-0600--G" ;
     schema1:vatID "DE142394844" ;
     skos:altLabel "EGL-DE-V-0600" ;

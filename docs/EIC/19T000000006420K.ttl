@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006420K" ;
-    cim:IdentifiedObject.name "Połaniec-Rzeszów" ;
+    cim:IdentifiedObject.name "400kV Polaniec-Rzeszow" ;
     cim:Names.name "F301",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006420K" ;
     skos:altLabel "F301" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Połaniec-Rzeszów" ;
+    skos:prefLabel "400kV Polaniec-Rzeszow" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -6,15 +6,14 @@
     <dcterms:identifier>urn:eic:21Z000000000415Q</dcterms:identifier>
     <skos:prefLabel>LARISSA</skos:prefLabel>
     <skos:altLabel>LARISSA-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection With The Distribution System</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000415Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>LARISSA</cim:IdentifiedObject.name>
     <cim:Names.name>LARISSA-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection With The Distribution System</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

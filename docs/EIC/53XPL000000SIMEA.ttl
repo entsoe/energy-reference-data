@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-28" ;
+    cim:DateAndOrTime.date "2025-11-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "53XPL000000SIMEA" ;
-    cim:IdentifiedObject.name "SIME Polska Sp. z o.o." ;
-    cim:Names.name "Network User",
-        "PL5262499440",
-        "SIME_POLSKA" ;
+    cim:IdentifiedObject.name "ENTRI Polska Sp. z o.o." ;
+    cim:Names.name "A00029673.PL",
+        "ENTRI_POLSKA",
+        "Network User",
+        "PL5262499440" ;
     dcterms:identifier "urn:eic:53XPL000000SIMEA" ;
     schema1:vatID "PL5262499440" ;
-    skos:altLabel "SIME_POLSKA" ;
+    skos:altLabel "ENTRI_POLSKA" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SIME Polska Sp. z o.o." ;
+    skos:prefLabel "ENTRI Polska Sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

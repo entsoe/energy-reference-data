@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001125A" ;
     cim:IdentifiedObject.name "Strømsfoss" ;
-    cim:Names.name "NO-STROMSFOSS_PL",
+    cim:Names.name "NO-STROEMSFOSS",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001125A" ;
-    skos:altLabel "NO-STROMSFOSS_PL" ;
+    skos:altLabel "NO-STROEMSFOSS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Strømsfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

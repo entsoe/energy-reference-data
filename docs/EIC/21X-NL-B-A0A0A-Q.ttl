@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Transmission System Operator For Gas" ;
     cim:IdentifiedObject.mRID "21X-NL-B-A0A0A-Q" ;
-    cim:IdentifiedObject.name "BBL Company" ;
-    cim:Names.name "BBL",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "BBL Company VOF" ;
+    cim:Names.name "BBLCOMPANY",
+        "NL813552394B01",
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X-NL-B-A0A0A-Q" ;
-    skos:altLabel "BBL" ;
-    skos:definition "Transmission System Operator For Gas"@en ;
+    schema1:vatID "NL813552394B01" ;
+    skos:altLabel "BBLCOMPANY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BBL Company" ;
+    skos:prefLabel "BBL Company VOF" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

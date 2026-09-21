@@ -16,7 +16,10 @@
     "@skos:altLabel": "GEENER1",
     "@cim:IdentifiedObject.mRID": "18W000000000OCWY",
     "@cim:IdentifiedObject.name": "Generica Inter",
-    "@cim:Names.name": "GEENER1",
+    "@cim:Names.name": [
+        "GEENER1",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-12-22",

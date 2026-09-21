@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/11T0-0000-2320-U">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:11T0-0000-2320-U</dcterms:identifier>
+    <skos:prefLabel>TTG/380-220/KREMPERMARSCH PA/SERIENTRAFO T442A</skos:prefLabel>
+    <skos:altLabel>T-D2-D2-14400627</skos:altLabel>
+    <cim:IdentifiedObject.mRID>11T0-0000-2320-U</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>TTG/380-220/KREMPERMARSCH PA/SERIENTRAFO T442A</cim:IdentifiedObject.name>
+    <cim:Names.name>T-D2-D2-14400627</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Transformer</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

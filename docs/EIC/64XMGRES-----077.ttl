@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "64XMGRES-----077" ;
     cim:IdentifiedObject.name "CJSC \"Moldavskaia GRES\"" ;
     cim:Names.name "MGRES_CJSC",
-        "Producer" ;
+        "Producer",
+        "n / a" ;
     dcterms:identifier "urn:eic:64XMGRES-----077" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "MGRES_CJSC" ;
     skos:definition "CJSC ''Moldavskaia GRES'' is situated in Transnistrian unacknowledged zone out of official control (including state taxes imposition) of Republic of Moldova and has the status of non-VAT payer. Company registration number (IDNO) - 1004615000423"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

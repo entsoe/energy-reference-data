@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001800I",
-    "@skos:prefLabel": "S 66 Grov-Storebru",
-    "@skos:altLabel": "NO-GROVSTOREBRU",
+    "@skos:prefLabel": "N 66 Grov-Storebru",
+    "@skos:altLabel": "NO-66GROVSTOREBR",
     "@cim:IdentifiedObject.mRID": "50TL00000001800I",
-    "@cim:IdentifiedObject.name": "S 66 Grov-Storebru",
+    "@cim:IdentifiedObject.name": "N 66 Grov-Storebru",
     "@cim:Names.name": [
-        "NO-GROVSTOREBRU",
+        "NO-66GROVSTOREBR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

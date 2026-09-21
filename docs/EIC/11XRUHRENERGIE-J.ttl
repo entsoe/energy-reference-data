@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XRUHRENERGIE-J" ;
     cim:IdentifiedObject.name "RuhrEnergie GmbH, EVR" ;
     cim:Names.name "Balance Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:11XRUHRENERGIE-J" ;
     schema1:vatID "DE192205305" ;
     skos:altLabel "RUHRENERGIE" ;
-    skos:definition "balance responsible party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "RuhrEnergie GmbH, EVR" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

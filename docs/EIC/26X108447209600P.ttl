@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26X108447209600P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26X108447209600P" ;
+    cim:IdentifiedObject.name "MYT GG ENERGY 8" ;
+    cim:Names.name "IT-MYTGGENERGY8S",
+        "IT10844720960",
+        "Producer" ;
+    dcterms:identifier "urn:eic:26X108447209600P" ;
+    schema1:vatID "IT10844720960" ;
+    skos:altLabel "IT-MYTGGENERGY8S" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MYT GG ENERGY 8" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002599H" ;
-    cim:IdentifiedObject.name "N Kvandal 420AB-CD Kabel" ;
+    cim:IdentifiedObject.name "N Kvandal 420AB-CD Linje" ;
     cim:Names.name "Internal Line",
-        "NO-KVANDAL420ABD" ;
+        "NO-KVANDAL420ABC" ;
     dcterms:identifier "urn:eic:50TL00000002599H" ;
-    skos:altLabel "NO-KVANDAL420ABD" ;
+    skos:altLabel "NO-KVANDAL420ABC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Kvandal 420AB-CD Kabel" ;
+    skos:prefLabel "N Kvandal 420AB-CD Linje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

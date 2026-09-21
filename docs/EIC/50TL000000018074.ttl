@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000018074" ;
-    cim:IdentifiedObject.name "M 66 Håheim-Gursken" ;
+    cim:IdentifiedObject.name "N 66 Djupvik-Gursken" ;
     cim:Names.name "Internal Line",
-        "NO-HAHEIMGURSKEN" ;
+        "NO-66DJUPVIKGURS" ;
     dcterms:identifier "urn:eic:50TL000000018074" ;
-    skos:altLabel "NO-HAHEIMGURSKEN" ;
+    skos:altLabel "NO-66DJUPVIKGURS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Håheim-Gursken" ;
+    skos:prefLabel "N 66 Djupvik-Gursken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

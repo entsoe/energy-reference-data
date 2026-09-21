@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/14XA1-ENERG-SOLV> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "14XA1-ENERG-SOLV" ;
+    cim:IdentifiedObject.name "A1 Telekom Austria AG" ;
+    cim:Names.name "A1ENERGYSOLUTION",
+        "ATU62895905",
+        "Balancing Service Provider" ;
+    dcterms:identifier "urn:eic:14XA1-ENERG-SOLV" ;
+    schema1:vatID "ATU62895905" ;
+    skos:altLabel "A1ENERGYSOLUTION" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "A1 Telekom Austria AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

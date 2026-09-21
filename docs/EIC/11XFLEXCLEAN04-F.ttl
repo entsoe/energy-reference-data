@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XFLEXCLEAN04-F" ;
     cim:IdentifiedObject.name "Innowatio GmbH" ;
-    cim:Names.name "CE-FLEX",
-        "DE292212910",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "CE-FLEX",
+        "DE292212910" ;
     dcterms:identifier "urn:eic:11XFLEXCLEAN04-F" ;
     schema1:vatID "DE292212910" ;
     skos:altLabel "CE-FLEX" ;

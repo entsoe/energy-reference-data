@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50A000000002329U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50A000000002329U" ;
+    cim:IdentifiedObject.name "Nye Litledalen Kraftverk" ;
+    cim:Names.name "NO-LITL_KRV",
+        "Substation" ;
+    dcterms:identifier "urn:eic:50A000000002329U" ;
+    skos:altLabel "NO-LITL_KRV" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Nye Litledalen Kraftverk" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

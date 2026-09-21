@@ -1,0 +1,32 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000179E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact Matt Bunney	
+Matt.bunney@octoenergy.com
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000179E" ;
+    cim:IdentifiedObject.name "Octopus Energy Limited" ;
+    cim:Names.name "Balance Responsible Party",
+        "Consumption Responsible Party",
+        "GB221122280",
+        "OCTOPUSENERGY",
+        "Production Responsible Party",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000179E" ;
+    schema1:vatID "GB221122280" ;
+    skos:altLabel "OCTOPUSENERGY" ;
+    skos:definition """Contact Matt Bunney	
+Matt.bunney@octoenergy.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Octopus Energy Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

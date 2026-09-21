@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002107D",
-    "@skos:prefLabel": "OIE     G116 HYDRO",
-    "@skos:altLabel": "NO-OIE_____G116_",
+    "@skos:prefLabel": "AUSTERDAG116 HYDRO",
+    "@skos:altLabel": "NO-AUSTERDAG116",
     "@cim:IdentifiedObject.mRID": "50WG00000002107D",
-    "@cim:IdentifiedObject.name": "OIE     G116 HYDRO",
+    "@cim:IdentifiedObject.name": "AUSTERDAG116 HYDRO",
     "@cim:Names.name": [
-        "NO-OIE_____G116_",
+        "NO-AUSTERDAG116",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

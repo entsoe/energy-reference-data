@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWBS--------U" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Salzuflen GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE124617728",
-        "SWBS" ;
+    cim:Names.name "DE124617728",
+        "SWBS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWBS--------U" ;
     schema1:vatID "DE124617728" ;
     skos:altLabel "SWBS" ;

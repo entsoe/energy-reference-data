@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002406H",
-    "@skos:prefLabel": "S Hemsil 2 300 T X",
-    "@skos:altLabel": "NO-HEMSIL2300TX",
+    "@skos:prefLabel": "S Hemsil 2 300 T  X",
+    "@skos:altLabel": "NO-HEMSIL_2300T",
     "@cim:IdentifiedObject.mRID": "50TL00000002406H",
-    "@cim:IdentifiedObject.name": "S Hemsil 2 300 T X",
+    "@cim:IdentifiedObject.name": "S Hemsil 2 300 T  X",
     "@cim:Names.name": [
-        "NO-HEMSIL2300TX",
+        "NO-HEMSIL_2300T",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000975B",
-    "@skos:prefLabel": "LEIVDAL G105 HYDRO",
-    "@skos:altLabel": "NO-LEIVDAL_G105_",
+    "@skos:prefLabel": "HOPLAND G105 HYDRO",
+    "@skos:altLabel": "NO-HOPLANDG105",
     "@cim:IdentifiedObject.mRID": "50WG00000000975B",
-    "@cim:IdentifiedObject.name": "LEIVDAL G105 HYDRO",
+    "@cim:IdentifiedObject.name": "HOPLAND G105 HYDRO",
     "@cim:Names.name": [
-        "NO-LEIVDAL_G105_",
+        "NO-HOPLANDG105",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-08" ;
+    cim:DateAndOrTime.date "2026-02-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XFERRG-1234-1Q" ;
     cim:IdentifiedObject.name "XALLAS ELECTRICIDAD Y ALEACIONES, S.A.U." ;
     cim:Names.name "ESA80420516",
         "FERRO",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XFERRG-1234-1Q" ;
     schema1:vatID "ESA80420516" ;
     skos:altLabel "FERRO" ;

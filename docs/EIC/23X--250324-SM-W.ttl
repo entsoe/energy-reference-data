@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250324-SM-W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company Registration number: 934180070 
+Confirmed by certificate of registration""" ;
+    cim:IdentifiedObject.mRID "23X--250324-SM-W" ;
+    cim:IdentifiedObject.name "Sors Markets Norway AS" ;
+    cim:Names.name "A0023100I.CZ",
+        "Balance Responsible Party",
+        "NO934180070MVA",
+        "SORS_MARKETS_NO" ;
+    dcterms:identifier "urn:eic:23X--250324-SM-W" ;
+    schema1:vatID "NO934180070MVA" ;
+    skos:altLabel "SORS_MARKETS_NO" ;
+    skos:definition """Company Registration number: 934180070 
+Confirmed by certificate of registration"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sors Markets Norway AS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/60X0000000001466",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:60X0000000001466",
+    "@skos:prefLabel": "TEREEN ENERGY PRODUCTION SRL",
+    "@skos:altLabel": "TEREEN7",
+    "@cim:IdentifiedObject.mRID": "60X0000000001466",
+    "@cim:IdentifiedObject.name": "TEREEN ENERGY PRODUCTION SRL",
+    "@cim:Names.name": [
+        "TEREEN7",
+        "RO48994915",
+        "Network User",
+        "Resource Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-02-26",
+    "@schema:vatID": "RO48994915",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

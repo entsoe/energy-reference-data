@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50YDNEE3UFS0CZBP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50YDNEE3UFS0CZBP" ;
+    cim:IdentifiedObject.name "SK41" ;
+    cim:Names.name "Metering Grid Area",
+        "NO_SK41" ;
+    dcterms:identifier "urn:eic:50YDNEE3UFS0CZBP" ;
+    skos:altLabel "NO_SK41" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SK41" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

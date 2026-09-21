@@ -14,8 +14,10 @@
     cim:IdentifiedObject.name "KOCH SUPPLY & TRADING, LP" ;
     cim:Names.name "A0015841G.NL",
         "KOCHST_LP_USA",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--190418-KS-T" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "KOCHST_LP_USA" ;
     skos:definition "Company registered in US;  Company registration number: 3437877 Company tax identification number: 48-1251073"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC000000021866</dcterms:identifier>
-    <skos:prefLabel>S Langedal 132 AO1 Forbruk</skos:prefLabel>
-    <skos:altLabel>NO-LANGEDA132AO1</skos:altLabel>
+    <skos:prefLabel>S Arna omf 132 L1 Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-ARNA_OMF132L1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC000000021866</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S Langedal 132 AO1 Forbruk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-LANGEDA132AO1</cim:Names.name>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.name>S Arna omf 132 L1 Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-ARNA_OMF132L1</cim:Names.name>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-16</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "DLG_SERVICE",
         "DK16181528",
-        "Valid EIC Function needed"
+        "Market Operator",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party Market Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-12-11",
     "@schema:vatID": "DK16181528",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

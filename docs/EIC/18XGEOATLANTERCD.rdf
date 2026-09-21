@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XGEOATLANTERCD</dcterms:identifier>
-    <skos:prefLabel>GeoAtlanter, S.L.</skos:prefLabel>
+    <skos:prefLabel>GEOATLANTER, S.L.</skos:prefLabel>
     <skos:altLabel>GAC</skos:altLabel>
     <cim:IdentifiedObject.mRID>18XGEOATLANTERCD</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GeoAtlanter, S.L.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>GEOATLANTER, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>GAC</cim:Names.name>
     <cim:Names.name>ESB85021426</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-29</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB85021426</schema:vatID>

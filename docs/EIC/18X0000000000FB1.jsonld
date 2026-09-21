@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000000FB1",
     "@skos:prefLabel": "LA FLECA DEL EMPORDA S.A.",
     "@skos:altLabel": "FLECA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000000FB1",
     "@cim:IdentifiedObject.name": "LA FLECA DEL EMPORDA S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA17201898",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-07-08",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA17201898",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

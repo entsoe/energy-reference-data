@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69WX3089ZNB5K07U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69WX3089ZNB5K07U" ;
+    cim:IdentifiedObject.name "MONI GAS TURBINE UNIT 4" ;
+    cim:Names.name "Generation",
+        "Generation Unit",
+        "MON-GT4",
+        "Production Unit",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:69WX3089ZNB5K07U" ;
+    skos:altLabel "MON-GT4" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MONI GAS TURBINE UNIT 4" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

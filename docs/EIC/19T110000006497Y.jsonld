@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006497Y",
-    "@skos:prefLabel": "Ełk-A1",
+    "@skos:prefLabel": "220/110kV Elk AT1",
     "@skos:altLabel": "ELK-A1",
     "@cim:IdentifiedObject.mRID": "19T110000006497Y",
-    "@cim:IdentifiedObject.name": "Ełk-A1",
+    "@cim:IdentifiedObject.name": "220/110kV Elk AT1",
     "@cim:Names.name": [
         "ELK-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

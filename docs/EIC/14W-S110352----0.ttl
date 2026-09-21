@@ -7,13 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-11" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Production Unit" ;
     cim:IdentifiedObject.mRID "14W-S110352----0" ;
     cim:IdentifiedObject.name "Pumpen/Speicher Feldsee" ;
     cim:Names.name "FELDSEE3",
-        "Production Unit" ;
+        "Production Unit",
+        "Storage Plant" ;
     dcterms:identifier "urn:eic:14W-S110352----0" ;
     skos:altLabel "FELDSEE3" ;
     skos:definition "Production Unit"@en ;

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/54X-MFTENER-223V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "54X-MFTENER-223V" ;
+    cim:IdentifiedObject.name "MFT ENERGY ALBANIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "M32317021U",
+        "MFT_ENERGY_ALBAN" ;
+    dcterms:identifier "urn:eic:54X-MFTENER-223V" ;
+    schema1:vatID "M32317021U" ;
+    skos:altLabel "MFT_ENERGY_ALBAN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MFT ENERGY ALBANIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

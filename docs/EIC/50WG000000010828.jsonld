@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000010828",
     "@skos:prefLabel": "MYKSTUFOG2      HYDRO",
-    "@skos:altLabel": "NO-MYKSTUFOG2___",
+    "@skos:altLabel": "NO-MYKSTUFOG2",
     "@cim:IdentifiedObject.mRID": "50WG000000010828",
     "@cim:IdentifiedObject.name": "MYKSTUFOG2      HYDRO",
     "@cim:Names.name": [
-        "NO-MYKSTUFOG2___",
+        "NO-MYKSTUFOG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

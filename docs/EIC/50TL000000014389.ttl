@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000014389" ;
     cim:IdentifiedObject.name "S 47 Smestad-Nordli" ;
     cim:Names.name "Internal Line",
-        "NO-SMESTADNORDLI" ;
+        "NO-47SMESTADNORD" ;
     dcterms:identifier "urn:eic:50TL000000014389" ;
-    skos:altLabel "NO-SMESTADNORDLI" ;
+    skos:altLabel "NO-47SMESTADNORD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Smestad-Nordli" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

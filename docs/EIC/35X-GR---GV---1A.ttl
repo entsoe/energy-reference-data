@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-GR---GV---1A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-GR---GV---1A" ;
+    cim:IdentifiedObject.name "Green Gvozd doo Podgorica" ;
+    cim:Names.name "03075257",
+        "GREEN_GVOZD",
+        "Producer",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:35X-GR---GV---1A" ;
+    schema1:vatID "03075257" ;
+    skos:altLabel "GREEN_GVOZD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Green Gvozd doo Podgorica" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

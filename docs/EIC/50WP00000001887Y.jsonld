@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001887Y",
     "@skos:prefLabel": "Fossmark-NEAS",
-    "@skos:altLabel": "NO-FOSSMARK-NEAS",
+    "@skos:altLabel": "NO-FOSSMARK_NEAS",
     "@cim:IdentifiedObject.mRID": "50WP00000001887Y",
     "@cim:IdentifiedObject.name": "Fossmark-NEAS",
     "@cim:Names.name": [
-        "NO-FOSSMARK-NEAS",
+        "NO-FOSSMARK_NEAS",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

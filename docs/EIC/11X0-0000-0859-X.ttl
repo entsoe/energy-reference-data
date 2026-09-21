@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0859-X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0859-X" ;
+    cim:IdentifiedObject.name "energy cubes GmbH" ;
+    cim:Names.name "11XENERGYCUBES",
+        "Balance Responsible Party",
+        "DE348088517" ;
+    dcterms:identifier "urn:eic:11X0-0000-0859-X" ;
+    schema1:vatID "DE348088517" ;
+    skos:altLabel "11XENERGYCUBES" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "energy cubes GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

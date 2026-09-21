@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000002346W" ;
     cim:IdentifiedObject.name "BLAFALLIG133 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BLAFALLIG133_" ;
+        "NO-BLAFALLIG133" ;
     dcterms:identifier "urn:eic:50WG00000002346W" ;
-    skos:altLabel "NO-BLAFALLIG133_" ;
+    skos:altLabel "NO-BLAFALLIG133" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BLAFALLIG133 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

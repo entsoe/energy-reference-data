@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000002026S",
     "@skos:prefLabel": "Odda Zinc Smelter",
-    "@skos:altLabel": "NO-ODDAZINCSMELT",
+    "@skos:altLabel": "NO-ODDAZS",
     "@cim:IdentifiedObject.mRID": "50WC00000002026S",
     "@cim:IdentifiedObject.name": "Odda Zinc Smelter",
     "@cim:Names.name": [
-        "NO-ODDAZINCSMELT",
+        "NO-ODDAZS",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2025-12-10",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

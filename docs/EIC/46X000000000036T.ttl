@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000036T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000036T" ;
+    cim:IdentifiedObject.name "Stockholm Exergi AB" ;
+    cim:Names.name "Balance Responsible Party",
+        "Energy Supplier",
+        "SE556016909501",
+        "STOCKHOLM_EXERGI" ;
+    dcterms:identifier "urn:eic:46X000000000036T" ;
+    schema1:vatID "SE556016909501" ;
+    skos:altLabel "STOCKHOLM_EXERGI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Stockholm Exergi AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

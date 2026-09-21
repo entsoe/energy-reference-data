@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001819Y",
-    "@skos:prefLabel": "S 66 Hardeland-Litledalen1",
-    "@skos:altLabel": "NO-HARDELANDLIT1",
+    "@skos:prefLabel": "S 66 Løkjelsvatn-Litledalen1",
+    "@skos:altLabel": "NO-66LOKJELSVLIT",
     "@cim:IdentifiedObject.mRID": "50TL00000001819Y",
-    "@cim:IdentifiedObject.name": "S 66 Hardeland-Litledalen1",
+    "@cim:IdentifiedObject.name": "S 66 Løkjelsvatn-Litledalen1",
     "@cim:Names.name": [
-        "NO-HARDELANDLIT1",
+        "NO-66LOKJELSVLIT",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

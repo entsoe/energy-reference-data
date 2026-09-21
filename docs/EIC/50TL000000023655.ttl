@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000023655" ;
-    cim:IdentifiedObject.name "S Nikkelverket 50 HG X" ;
+    cim:IdentifiedObject.name "S Nikkelverket 50  HG X" ;
     cim:Names.name "Internal Line",
-        "NO-NIKKELVE50HGX" ;
+        "NO-NIKKELVE50HG" ;
     dcterms:identifier "urn:eic:50TL000000023655" ;
-    skos:altLabel "NO-NIKKELVE50HGX" ;
+    skos:altLabel "NO-NIKKELVE50HG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Nikkelverket 50 HG X" ;
+    skos:prefLabel "S Nikkelverket 50  HG X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

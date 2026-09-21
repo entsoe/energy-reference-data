@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000514O" ;
-    cim:IdentifiedObject.name "M 132 Mosjøen-Alverk2 Kabel RX" ;
+    cim:IdentifiedObject.name "N 132 Mosjøen-Alverk2 Kabel RX" ;
     cim:Names.name "Internal Line",
-        "NO-MOSJOENAL2RX" ;
+        "NO-132MOSJOK2_RX" ;
     dcterms:identifier "urn:eic:50TL00000000514O" ;
-    skos:altLabel "NO-MOSJOENAL2RX" ;
+    skos:altLabel "NO-132MOSJOK2_RX" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Mosjøen-Alverk2 Kabel RX" ;
+    skos:prefLabel "N 132 Mosjøen-Alverk2 Kabel RX" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000000236C" ;
     cim:IdentifiedObject.name "BEGNA_KRG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BEGNA_KRG1___" ;
+        "NO-BEGNA_KRG1" ;
     dcterms:identifier "urn:eic:50WG00000000236C" ;
-    skos:altLabel "NO-BEGNA_KRG1___" ;
+    skos:altLabel "NO-BEGNA_KRG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BEGNA_KRG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

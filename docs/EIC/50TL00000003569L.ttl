@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL00000003569L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL00000003569L" ;
+    cim:IdentifiedObject.name "N 66T_Hauge1-T_Hauge2" ;
+    cim:Names.name "Internal Line",
+        "NO-66T_HAUGE1T_H" ;
+    dcterms:identifier "urn:eic:50TL00000003569L" ;
+    skos:altLabel "NO-66T_HAUGE1T_H" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "N 66T_Hauge1-T_Hauge2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

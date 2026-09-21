@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-06-11" ;
+    cim:DateAndOrTime.date "2024-12-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLANDENERGIE2Z" ;
     cim:IdentifiedObject.name "Maschinenringe Deutschland GmbH" ;
     cim:Names.name "BMR_2",
-        "Balance Group",
-        "DE185445580" ;
+        "DE185445580",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XLANDENERGIE2Z" ;
     schema1:vatID "DE185445580" ;
     skos:altLabel "BMR_2" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Maschinenringe Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

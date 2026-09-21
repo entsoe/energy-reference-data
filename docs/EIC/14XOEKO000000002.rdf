@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>14XOEKO000000002</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>OeMAG Abwicklungsstelle f&#252;r &#214;kostrom AG</cim:IdentifiedObject.name>
     <cim:Names.name>OEKO</cim:Names.name>
+    <cim:Names.name>ATU62694089 </cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-04-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-22</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>ATU62694089 </schema:vatID>
   </skos:Concept>
 </rdf:RDF>

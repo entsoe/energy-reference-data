@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVICAL-12345-9",
     "@skos:prefLabel": "ESTACION DE SERVICIO VICALVARO S.A.U",
     "@skos:altLabel": "VICAL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVICAL-12345-9",
     "@cim:IdentifiedObject.name": "ESTACION DE SERVICIO VICALVARO S.A.U",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28612158",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28612158",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

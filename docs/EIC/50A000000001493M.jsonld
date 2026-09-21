@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001493M",
-    "@skos:prefLabel": "Tangen E",
-    "@skos:altLabel": "NO-TANGEN_E",
+    "@skos:prefLabel": "Vikselv",
+    "@skos:altLabel": "NO-VIKSELV",
     "@cim:IdentifiedObject.mRID": "50A000000001493M",
-    "@cim:IdentifiedObject.name": "Tangen E",
+    "@cim:IdentifiedObject.name": "Vikselv",
     "@cim:Names.name": [
-        "NO-TANGEN_E",
+        "NO-VIKSELV",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

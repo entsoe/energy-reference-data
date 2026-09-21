@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEON-060000--9" ;
     cim:IdentifiedObject.name "E.ON Mitte Vertrieb GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE260560739",
-        "EON_060000" ;
+    cim:Names.name "DE260560739",
+        "EON_060000",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEON-060000--9" ;
     schema1:vatID "DE260560739" ;
     skos:altLabel "EON_060000" ;

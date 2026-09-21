@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000373I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000373I",
+    "@skos:prefLabel": "Uniper Global Commodities UK Branch ",
+    "@skos:altLabel": "UGC-UKBRANCH",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "42-44 Grosvenor Gardens\nLondon\nSW1W OEBAddress1\nThomas Grundner \nugc-trading-compliance@uniper.energy \n+49 171 204 243 9 \nthomas.grundner@uniper.energy \n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000373I",
+    "@cim:IdentifiedObject.name": "Uniper Global Commodities UK Branch ",
+    "@cim:Names.name": [
+        "UGC-UKBRANCH",
+        "GB922979877",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "42-44 Grosvenor Gardens\nLondon\nSW1W OEBAddress1\nThomas Grundner \nugc-trading-compliance@uniper.energy \n+49 171 204 243 9 \nthomas.grundner@uniper.energy \n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-04-17",
+    "@schema:vatID": "GB922979877",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

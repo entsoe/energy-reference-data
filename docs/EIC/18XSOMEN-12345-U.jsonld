@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XSOMEN-12345-U",
-    "@skos:prefLabel": "Som Energia SCCL",
+    "@skos:prefLabel": "SOM ENERGIA SCCL",
     "@skos:altLabel": "SOMEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSOMEN-12345-U",
-    "@cim:IdentifiedObject.name": "Som Energia SCCL",
+    "@cim:IdentifiedObject.name": "SOM ENERGIA SCCL",
     "@cim:Names.name": [
         "SOMEN",
         "ESF55091367",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-05-16",
+    "@cim:DateAndOrTime.date": "2026-07-08",
     "@schema:vatID": "ESF55091367",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

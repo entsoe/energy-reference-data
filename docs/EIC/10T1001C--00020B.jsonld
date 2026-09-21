@@ -16,7 +16,10 @@
     "@skos:altLabel": "L_MEI-RUETHI_ROT",
     "@cim:IdentifiedObject.mRID": "10T1001C--00020B",
     "@cim:IdentifiedObject.name": "Meiningen-Ruthi rot 220",
-    "@cim:Names.name": "L_MEI-RUETHI_ROT",
+    "@cim:Names.name": [
+        "L_MEI-RUETHI_ROT",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-07-30",

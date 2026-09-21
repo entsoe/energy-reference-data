@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-07-24" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCLADA-12345-F" ;
     cim:IdentifiedObject.name "CLADA SLU" ;
     cim:Names.name "CLADA",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCLADA-12345-F" ;
     schema1:vatID "ESB32376428" ;
     skos:altLabel "CLADA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "CLADA SLU" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

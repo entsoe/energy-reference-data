@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XTAC-GESY-DV-I" ;
     cim:IdentifiedObject.name "Trianel GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE203160841",
-        "TRIANEL_GESY_DV" ;
+    cim:Names.name "DE203160841",
+        "TRIANEL_GESY_DV",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XTAC-GESY-DV-I" ;
     schema1:vatID "DE203160841" ;
     skos:altLabel "TRIANEL_GESY_DV" ;

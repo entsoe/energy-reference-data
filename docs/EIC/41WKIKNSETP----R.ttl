@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WKIKNSETP----R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "UAB \"Elektrum Lietuva\"" ;
+    cim:IdentifiedObject.mRID "41WKIKNSETP----R" ;
+    cim:IdentifiedObject.name "KIŠKĖNŲ SE TP" ;
+    cim:Names.name "Generation Unit",
+        "KISKENUSETP" ;
+    dcterms:identifier "urn:eic:41WKIKNSETP----R" ;
+    skos:altLabel "KISKENUSETP" ;
+    skos:definition "UAB \"Elektrum Lietuva\""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KIŠKĖNŲ SE TP" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

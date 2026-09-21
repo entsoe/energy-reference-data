@@ -22,9 +22,10 @@
     "@cim:IdentifiedObject.name": "Germany TransnetBW",
     "@cim:Names.name": [
         "DE-TRANSNETBW",
-        "LFC Area",
         "Control Area",
-        "Scheduling Area"
+        "LFC Area",
+        "Scheduling Area",
+        "Market Balance Area"
     ],
     "@cim:IdentifiedObject.description": "Control Area, Scheduling Area",
     "@cim:Document.docStatus": "A05",

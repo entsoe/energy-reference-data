@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X0000000013740</dcterms:identifier>
-    <skos:prefLabel>AB Klaipedos nafta</skos:prefLabel>
-    <skos:altLabel>KLAIPEDOS-NAFTA</skos:altLabel>
-    <skos:definition xml:lang="en">System Operator</skos:definition>
+    <skos:prefLabel>AB "KN Energies"</skos:prefLabel>
+    <skos:altLabel>KN-ENERGIES</skos:altLabel>
     <cim:IdentifiedObject.mRID>21X0000000013740</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>AB Klaipedos nafta</cim:IdentifiedObject.name>
-    <cim:Names.name>KLAIPEDOS-NAFTA</cim:Names.name>
+    <cim:IdentifiedObject.name>AB "KN Energies"</cim:IdentifiedObject.name>
+    <cim:Names.name>KN-ENERGIES</cim:Names.name>
     <cim:Names.name>LT106488917</cim:Names.name>
-    <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-11</cim:DateAndOrTime.date>
     <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>LT106488917</schema:vatID>

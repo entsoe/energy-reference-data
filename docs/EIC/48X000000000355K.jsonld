@@ -14,16 +14,24 @@
     "@dcterms:identifier": "urn:eic:48X000000000355K",
     "@skos:prefLabel": "Progress Power Limited",
     "@skos:altLabel": "PPL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Update to Functions\n\nProgress Power Limited\nDrax Power Station,\nSelby, North Yorkshire\nYO8 8PH\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n\nParty Connected to the Grid\nBalance Responsible Party\nProducer\nProduction Responsible party\n"
+    },
     "@cim:IdentifiedObject.mRID": "48X000000000355K",
     "@cim:IdentifiedObject.name": "Progress Power Limited",
     "@cim:Names.name": [
         "PPL",
         "GB744326437",
-        "Party Connected To Grid"
+        "Balance Responsible Party",
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Update to Functions\n\nProgress Power Limited\nDrax Power Station,\nSelby, North Yorkshire\nYO8 8PH\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n\nParty Connected to the Grid\nBalance Responsible Party\nProducer\nProduction Responsible party\n",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-07-31",
+    "@cim:DateAndOrTime.date": "2024-02-20",
     "@schema:vatID": "GB744326437",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

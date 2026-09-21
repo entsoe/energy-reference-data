@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/28X000000000088C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "28X000000000088C" ;
+    cim:IdentifiedObject.name "BINOCULUM" ;
+    cim:Names.name "BINOCULUM",
+        "Balance Responsible Party",
+        "SI18188524" ;
+    dcterms:identifier "urn:eic:28X000000000088C" ;
+    schema1:vatID "SI18188524" ;
+    skos:altLabel "BINOCULUM" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BINOCULUM" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

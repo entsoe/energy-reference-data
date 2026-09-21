@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000299J" ;
-    cim:IdentifiedObject.name "Morzyczyn-Dunowo" ;
+    cim:IdentifiedObject.name "400kV Dunowo-Morzyczyn" ;
     cim:Names.name "418",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000299J" ;
     skos:altLabel "418" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Morzyczyn-Dunowo" ;
+    skos:prefLabel "400kV Dunowo-Morzyczyn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

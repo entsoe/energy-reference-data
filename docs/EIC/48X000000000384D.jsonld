@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000384D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000384D",
+    "@skos:prefLabel": "Lakeside Energy Storage Limited",
+    "@skos:altLabel": "LAKESIDE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Contacts\nBeaufort Court, Egg Lane Farm, Kings Langley, Hertfordshire, WD4 8LR\nMark Selvaratnam\nmark.selvaratnam@tag-en.com\n+351 93 110 1107\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000384D",
+    "@cim:IdentifiedObject.name": "Lakeside Energy Storage Limited",
+    "@cim:Names.name": [
+        "LAKESIDE",
+        "GB403493220",
+        "Producer",
+        "Storage System Operator"
+    ],
+    "@cim:IdentifiedObject.description": "Contacts\nBeaufort Court, Egg Lane Farm, Kings Langley, Hertfordshire, WD4 8LR\nMark Selvaratnam\nmark.selvaratnam@tag-en.com\n+351 93 110 1107\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-06-24",
+    "@schema:vatID": "GB403493220",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

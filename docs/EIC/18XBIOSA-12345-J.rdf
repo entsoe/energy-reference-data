@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XBIOSA-12345-J</dcterms:identifier>
     <skos:prefLabel>PLASTICOS BIOSCA, S.A.</skos:prefLabel>
     <skos:altLabel>BIOSA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XBIOSA-12345-J</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PLASTICOS BIOSCA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>BIOSA</cim:Names.name>
     <cim:Names.name>ESA46251401</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-04-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA46251401</schema:vatID>

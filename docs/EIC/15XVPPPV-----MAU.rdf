@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:15XVPPPV-----MAU</dcterms:identifier>
-    <skos:prefLabel>VPP Energiakeresked&#337; Kft.</skos:prefLabel>
+    <skos:prefLabel>VPP Energiakeresked&#337; &#233;s &#220;zemeltet&#337; Kft.</skos:prefLabel>
     <skos:altLabel>VPPE</skos:altLabel>
     <cim:IdentifiedObject.mRID>15XVPPPV-----MAU</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>VPP Energiakeresked&#337; Kft.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>VPP Energiakeresked&#337; &#233;s &#220;zemeltet&#337; Kft.</cim:IdentifiedObject.name>
     <cim:Names.name>VPPE</cim:Names.name>
     <cim:Names.name>HU29209741</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-02</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HU29209741</schema:vatID>

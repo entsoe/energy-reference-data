@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000000163D</dcterms:identifier>
-    <skos:prefLabel>BLAFALLIG142 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-BLAFALLIG142_</skos:altLabel>
+    <skos:prefLabel>HATTEBERG2      HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-HATTEBERG2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000000163D</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>BLAFALLIG142 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-BLAFALLIG142_</cim:Names.name>
+    <cim:IdentifiedObject.name>HATTEBERG2      HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-HATTEBERG2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

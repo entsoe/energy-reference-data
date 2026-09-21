@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000002256A</dcterms:identifier>
-    <skos:prefLabel>M 66 Tingvoll-TingvollLia</skos:prefLabel>
-    <skos:altLabel>NO-TINGVOLLTINGV</skos:altLabel>
+    <skos:prefLabel>N 66 Tingvoll-Bele</skos:prefLabel>
+    <skos:altLabel>NO-66TINGVOLLBEL</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000002256A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>M 66 Tingvoll-TingvollLia</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TINGVOLLTINGV</cim:Names.name>
+    <cim:IdentifiedObject.name>N 66 Tingvoll-Bele</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-66TINGVOLLBEL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

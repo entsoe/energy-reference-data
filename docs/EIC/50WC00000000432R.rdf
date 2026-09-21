@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000000432R</dcterms:identifier>
-    <skos:prefLabel>S Lomen    132 T2 Forbruk</skos:prefLabel>
-    <skos:altLabel>NO-LOMEN132</skos:altLabel>
+    <skos:prefLabel>S Lomen    22  T2 Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-LOMEN22</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000000432R</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S Lomen    132 T2 Forbruk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-LOMEN132</cim:Names.name>
+    <cim:IdentifiedObject.name>S Lomen    22  T2 Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-LOMEN22</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

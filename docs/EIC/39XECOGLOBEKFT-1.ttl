@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XECOGLOBEKFT-1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XECOGLOBEKFT-1" ;
+    cim:IdentifiedObject.name "ECO GLOBE SOLAR KFT" ;
+    cim:Names.name "Balance Responsible Party",
+        "ECOGLOBESOLARKFT",
+        "HU32609213" ;
+    dcterms:identifier "urn:eic:39XECOGLOBEKFT-1" ;
+    schema1:vatID "HU32609213" ;
+    skos:altLabel "ECOGLOBESOLARKFT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ECO GLOBE SOLAR KFT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

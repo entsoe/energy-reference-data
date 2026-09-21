@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001353I" ;
-    cim:IdentifiedObject.name "S EVM      132 S2 Forbruk" ;
+    cim:IdentifiedObject.name "S EVM      132 AEB9 Forbruk" ;
     cim:Names.name "Load",
-        "NO-EVM132S2" ;
+        "NO-EVM132AEB9" ;
     dcterms:identifier "urn:eic:50WC00000001353I" ;
-    skos:altLabel "NO-EVM132S2" ;
+    skos:altLabel "NO-EVM132AEB9" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S EVM      132 S2 Forbruk" ;
+    skos:prefLabel "S EVM      132 AEB9 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

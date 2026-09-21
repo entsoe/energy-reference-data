@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41ZPSVLSUNLITMAY",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41ZPSVLSUNLITMAY",
+    "@skos:prefLabel": "PSVL SUN",
+    "@skos:altLabel": "PSVLSUN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB “PSVL SUN”\n305907392\nLT100014550613\nPlėtros leidimas Nr. L-6245 išduotas 2023-05-05\nArtur Kliukevič\n069832221\nPasv@e-energija.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41ZPSVLSUNLITMAY",
+    "@cim:IdentifiedObject.name": "PSVL SUN",
+    "@cim:Names.name": [
+        "PSVLSUN",
+        "Metering Point"
+    ],
+    "@cim:IdentifiedObject.description": "UAB “PSVL SUN”\n305907392\nLT100014550613\nPlėtros leidimas Nr. L-6245 išduotas 2023-05-05\nArtur Kliukevič\n069832221\nPasv@e-energija.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-08-04",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000000378N",
-    "@skos:prefLabel": "Cieplice-Mikułowa",
+    "@skos:prefLabel": "220kV Cieplice-Mikulowa",
     "@skos:altLabel": "4011",
     "@cim:IdentifiedObject.mRID": "19T000000000378N",
-    "@cim:IdentifiedObject.name": "Cieplice-Mikułowa",
+    "@cim:IdentifiedObject.name": "220kV Cieplice-Mikulowa",
     "@cim:Names.name": [
         "4011",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

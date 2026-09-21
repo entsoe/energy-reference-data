@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000119510M",
-    "@skos:prefLabel": "Limited Lability Company ENERGO MARKET",
+    "@skos:prefLabel": "ENERGO MARKET Limited Lability Company ",
     "@skos:altLabel": "ENERGO_MARKET",
     "@cim:IdentifiedObject.mRID": "56X930000119510M",
-    "@cim:IdentifiedObject.name": "Limited Lability Company ENERGO MARKET",
+    "@cim:IdentifiedObject.name": "ENERGO MARKET Limited Lability Company ",
     "@cim:Names.name": [
         "ENERGO_MARKET",
         "446279026559",
@@ -24,7 +24,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-27",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "446279026559",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

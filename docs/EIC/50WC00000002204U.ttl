@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-04-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002204U" ;
     cim:IdentifiedObject.name "S Montebel 11  L1 Industri" ;
     cim:Names.name "Load",
-        "NO-MONTEBE11L1NC" ;
+        "NO-MONTEBELLO11L" ;
     dcterms:identifier "urn:eic:50WC00000002204U" ;
-    skos:altLabel "NO-MONTEBE11L1NC" ;
+    skos:altLabel "NO-MONTEBELLO11L" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Montebel 11  L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

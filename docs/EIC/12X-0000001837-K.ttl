@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-04-01" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-0000001837-K" ;
     cim:IdentifiedObject.name "RestTel GmbH" ;
-    cim:Names.name "Balance Group",
-        "CH754747",
+    cim:Names.name "CH754747",
+        "Capacity Trader",
         "REST-TEL-GMBH-ST" ;
     dcterms:identifier "urn:eic:12X-0000001837-K" ;
     schema1:vatID "CH754747" ;

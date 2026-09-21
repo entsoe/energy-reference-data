@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:55XUNICREDITBNKQ",
-    "@skos:prefLabel": "UNICREDIT BANK AG",
-    "@skos:altLabel": "UNICREDITBANKAG",
+    "@skos:prefLabel": "UNICREDIT BANK GmbH",
+    "@skos:altLabel": "UNICREDITBANK",
     "@cim:IdentifiedObject.mRID": "55XUNICREDITBNKQ",
-    "@cim:IdentifiedObject.name": "UNICREDIT BANK AG",
+    "@cim:IdentifiedObject.name": "UNICREDIT BANK GmbH",
     "@cim:Names.name": [
-        "UNICREDITBANKAG",
-        "GB736178710",
+        "UNICREDITBANK",
+        "DE129273380",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-06-20",
-    "@schema:vatID": "GB736178710",
+    "@cim:DateAndOrTime.date": "2024-03-21",
+    "@schema:vatID": "DE129273380",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

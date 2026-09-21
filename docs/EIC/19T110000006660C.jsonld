@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006660C",
-    "@skos:prefLabel": "Wielopole-A4",
+    "@skos:prefLabel": "220/110kV Wielopole AT4",
     "@skos:altLabel": "WIE-A4",
     "@cim:IdentifiedObject.mRID": "19T110000006660C",
-    "@cim:IdentifiedObject.name": "Wielopole-A4",
+    "@cim:IdentifiedObject.name": "220/110kV Wielopole AT4",
     "@cim:Names.name": [
         "WIE-A4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

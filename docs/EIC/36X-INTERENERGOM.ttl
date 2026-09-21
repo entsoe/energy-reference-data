@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-25" ;
+    cim:DateAndOrTime.date "2026-01-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "36X-INTERENERGOM" ;
-    cim:IdentifiedObject.name "Interenergo d.o.o. Sarajevo" ;
+    cim:IdentifiedObject.name "\"KELAG INTERNATIONAL\" d.o.o., Sarajevo" ;
     cim:Names.name "4201242530004",
         "Balance Responsible Party",
-        "INTERENER-BIH",
+        "KELAG-BIH",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:36X-INTERENERGOM" ;
     schema1:vatID "4201242530004" ;
-    skos:altLabel "INTERENER-BIH" ;
+    skos:altLabel "KELAG-BIH" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Interenergo d.o.o. Sarajevo" ;
+    skos:prefLabel "\"KELAG INTERNATIONAL\" d.o.o., Sarajevo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

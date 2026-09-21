@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19WJAR2--------J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19WJAR2--------J" ;
+    cim:IdentifiedObject.name "Park Wiatrowy 9 Sp. z o.o." ;
+    cim:Names.name "FW_JAROCINPILOT2",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:19WJAR2--------J" ;
+    skos:altLabel "FW_JAROCINPILOT2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Park Wiatrowy 9 Sp. z o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

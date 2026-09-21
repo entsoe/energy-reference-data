@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000043Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000043Q" ;
+    cim:IdentifiedObject.name "Bream Trading sp. z o. o." ;
+    cim:Names.name "BREAM_TRADING",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "PL7011271930",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:19X111100000043Q" ;
+    schema1:vatID "PL7011271930" ;
+    skos:altLabel "BREAM_TRADING" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bream Trading sp. z o. o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

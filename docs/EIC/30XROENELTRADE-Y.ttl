@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Capacity Trader Balance Responsible Party Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "30XROENELTRADE-Y" ;
     cim:IdentifiedObject.name "ENEL TRADE ROMANIA" ;
     cim:Names.name "RO22508469",
         "ROENEL",
-        "Valid EIC Function needed" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:30XROENELTRADE-Y" ;
     schema1:vatID "RO22508469" ;
     skos:altLabel "ROENEL" ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006379S",
-    "@skos:prefLabel": "Ostrołęka-AT2",
+    "@skos:prefLabel": "400/110kV Ostroleka AT2",
     "@skos:altLabel": "OST-A2",
     "@cim:IdentifiedObject.mRID": "19T000000006379S",
-    "@cim:IdentifiedObject.name": "Ostrołęka-AT2",
+    "@cim:IdentifiedObject.name": "400/110kV Ostroleka AT2",
     "@cim:Names.name": [
         "OST-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

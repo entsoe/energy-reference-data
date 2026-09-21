@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:49X000000000035N</dcterms:identifier>
-    <skos:prefLabel>STX Services B.V.</skos:prefLabel>
-    <skos:altLabel>STXSERVICESBV</skos:altLabel>
+    <skos:prefLabel>STX Commodities B.V.</skos:prefLabel>
+    <skos:altLabel>STXCOMMODITIESBV</skos:altLabel>
     <cim:IdentifiedObject.mRID>49X000000000035N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>STX Services B.V.</cim:IdentifiedObject.name>
-    <cim:Names.name>STXSERVICESBV</cim:Names.name>
+    <cim:IdentifiedObject.name>STX Commodities B.V.</cim:IdentifiedObject.name>
+    <cim:Names.name>STXCOMMODITIESBV</cim:Names.name>
     <cim:Names.name>NL817985177B01</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-05-29</cim:DateAndOrTime.date>
-    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-17</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL817985177B01</schema:vatID>
   </skos:Concept>

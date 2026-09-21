@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000000695",
     "@skos:prefLabel": "AURLAND1G3      HYDRO",
-    "@skos:altLabel": "NO-AURLAND1G3___",
+    "@skos:altLabel": "NO-AURLAND1G3",
     "@cim:IdentifiedObject.mRID": "50WG000000000695",
     "@cim:IdentifiedObject.name": "AURLAND1G3      HYDRO",
     "@cim:Names.name": [
-        "NO-AURLAND1G3___",
+        "NO-AURLAND1G3",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

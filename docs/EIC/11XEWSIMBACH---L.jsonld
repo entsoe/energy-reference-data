@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XEWSIMBACH---L",
     "@skos:prefLabel": "Elektrizitätswerk Simbach GmbH",
     "@skos:altLabel": "EWSIMBACH",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEWSIMBACH---L",
     "@cim:IdentifiedObject.name": "Elektrizitätswerk Simbach GmbH",
     "@cim:Names.name": [
         "EWSIMBACH",
         "DE811854601",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-11-07",
     "@schema:vatID": "DE811854601",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

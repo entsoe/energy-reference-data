@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-01-22" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XDEPON-12345-R" ;
-    cim:IdentifiedObject.name "ENERGÍAS DE PONTEVEDRA, S.L." ;
+    cim:IdentifiedObject.name "ENERGÍAS DE PONTEVEDRA, S.L" ;
     cim:Names.name "DEPON",
         "ESB15957459",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XDEPON-12345-R" ;
     schema1:vatID "ESB15957459" ;
     skos:altLabel "DEPON" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENERGÍAS DE PONTEVEDRA, S.L." ;
+    skos:prefLabel "ENERGÍAS DE PONTEVEDRA, S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

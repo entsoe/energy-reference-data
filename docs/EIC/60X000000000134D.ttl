@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-18" ;
+    cim:DateAndOrTime.date "2024-08-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "60X000000000134D" ;
     cim:IdentifiedObject.name "GET ENERGY TRADING SRL" ;
-    cim:Names.name "GETENERGYTRADING",
+    cim:Names.name "Balance Responsible Party",
+        "GETENERGYTRADING",
         "RO47150403",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:60X000000000134D" ;

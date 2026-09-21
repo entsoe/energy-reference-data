@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002845S" ;
     cim:IdentifiedObject.name "S 66 Åsen-Tysso 2-1" ;
     cim:Names.name "Internal Line",
-        "NO-ASENTYSSO21" ;
+        "NO-66ASENTYSO_21" ;
     dcterms:identifier "urn:eic:50TL00000002845S" ;
-    skos:altLabel "NO-ASENTYSSO21" ;
+    skos:altLabel "NO-66ASENTYSO_21" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Åsen-Tysso 2-1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

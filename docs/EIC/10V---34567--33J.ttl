@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10V---34567--33J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "EIC being required for ECP Endpoint for the data connection between VP/S PROD and xbid/CMM" ;
+    cim:IdentifiedObject.mRID "10V---34567--33J" ;
+    cim:IdentifiedObject.name "ENTSO-E VP/S ECP Endpoint xbid/CMM Connection PROD" ;
+    cim:Names.name "Location",
+        "VP_CMM_ECP_PROD" ;
+    dcterms:identifier "urn:eic:10V---34567--33J" ;
+    skos:altLabel "VP_CMM_ECP_PROD" ;
+    skos:definition "EIC being required for ECP Endpoint for the data connection between VP/S PROD and xbid/CMM"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENTSO-E VP/S ECP Endpoint xbid/CMM Connection PROD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

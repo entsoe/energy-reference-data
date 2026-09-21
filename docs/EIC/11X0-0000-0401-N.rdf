@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X0-0000-0401-N</dcterms:identifier>
-    <skos:prefLabel>The Mobility House GmbH</skos:prefLabel>
+    <skos:prefLabel>The Mobility House Energy GmbH</skos:prefLabel>
     <skos:altLabel>TMH</skos:altLabel>
     <cim:IdentifiedObject.mRID>11X0-0000-0401-N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>The Mobility House GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>The Mobility House Energy GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>TMH</cim:Names.name>
-    <cim:Names.name>DE280860814</cim:Names.name>
+    <cim:Names.name>DE454780673</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-06-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-21</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE280860814</schema:vatID>
+    <schema:vatID>DE454780673</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -6,12 +6,20 @@
     <dcterms:identifier>urn:eic:29WAISMELITII--H</dcterms:identifier>
     <skos:prefLabel>AIS MELITIS I</skos:prefLabel>
     <skos:altLabel>AISMELITII</skos:altLabel>
+    <skos:definition xml:lang="en">Email address: g.konstantas@ppcgroup.com
+As an authorized representative of PPC SA, I request the
+deallocation of the above EIC Code, due to planned
+withdrawal according to the L.5164-Art.79 (A202/2024).</skos:definition>
     <cim:IdentifiedObject.mRID>29WAISMELITII--H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AIS MELITIS I</cim:IdentifiedObject.name>
     <cim:Names.name>AISMELITII</cim:Names.name>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.description>Email address: g.konstantas@ppcgroup.com
+As an authorized representative of PPC SA, I request the
+deallocation of the above EIC Code, due to planned
+withdrawal according to the L.5164-Art.79 (A202/2024).</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-06-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-09-29</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

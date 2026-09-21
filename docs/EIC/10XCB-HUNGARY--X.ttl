@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-02-14" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Control Block" ;
     cim:IdentifiedObject.mRID "10XCB-HUNGARY--X" ;
     cim:IdentifiedObject.name "MAVIR - Control Block Operator Hungary" ;
     cim:Names.name "CB-HUNGARY",
-        "Control Block",
-        "HU12550753" ;
+        "HU12550753",
+        "System Operator" ;
     dcterms:identifier "urn:eic:10XCB-HUNGARY--X" ;
     schema1:vatID "HU12550753" ;
     skos:altLabel "CB-HUNGARY" ;
-    skos:definition "Control Block"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MAVIR - Control Block Operator Hungary" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

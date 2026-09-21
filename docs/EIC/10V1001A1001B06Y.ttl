@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Location" ;
     cim:IdentifiedObject.mRID "10V1001A1001B06Y" ;
     cim:IdentifiedObject.name "CORESO ECP Endpoint for CGMA " ;
-    cim:Names.name "CRS_ECP_CGMA" ;
+    cim:Names.name "CRS_ECP_CGMA",
+        "Location" ;
     dcterms:identifier "urn:eic:10V1001A1001B06Y" ;
     skos:altLabel "CRS_ECP_CGMA" ;
     skos:definition "Location"@en ;

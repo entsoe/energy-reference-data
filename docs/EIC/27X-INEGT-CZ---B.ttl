@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27X-INEGT-CZ---B" ;
     cim:IdentifiedObject.name "IN ENERGIE Prodej s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ05082013",
-        "INEGT-CZ" ;
+        "INEGT-CZ",
+        "cz05082013" ;
     dcterms:identifier "urn:eic:27X-INEGT-CZ---B" ;
-    schema1:vatID "CZ05082013" ;
+    schema1:vatID "cz05082013" ;
     skos:altLabel "INEGT-CZ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "IN ENERGIE Prodej s.r.o." ;

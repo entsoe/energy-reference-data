@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006812F" ;
-    cim:IdentifiedObject.name "Kromolice – Ostrów Wlkp. t.2" ;
+    cim:IdentifiedObject.name "400kV Kromolice-Ostrow 2" ;
     cim:Names.name "H008",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006812F" ;
     skos:altLabel "H008" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kromolice – Ostrów Wlkp. t.2" ;
+    skos:prefLabel "400kV Kromolice-Ostrow 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

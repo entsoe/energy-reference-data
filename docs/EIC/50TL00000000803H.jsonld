@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000803H",
-    "@skos:prefLabel": "M 22 Åmela-Steinsvik",
-    "@skos:altLabel": "NO-AMELASTEINSVI",
+    "@skos:prefLabel": "N 22 Åmela-Steinsvik",
+    "@skos:altLabel": "NO-22AMELASTEINS",
     "@cim:IdentifiedObject.mRID": "50TL00000000803H",
-    "@cim:IdentifiedObject.name": "M 22 Åmela-Steinsvik",
+    "@cim:IdentifiedObject.name": "N 22 Åmela-Steinsvik",
     "@cim:Names.name": [
-        "NO-AMELASTEINSVI",
+        "NO-22AMELASTEINS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

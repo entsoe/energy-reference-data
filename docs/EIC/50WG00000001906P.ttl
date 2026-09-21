@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001906P" ;
-    cim:IdentifiedObject.name "TORPA   G2      HYDRO" ;
+    cim:IdentifiedObject.name "TORPA   A2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TORPA___G2___" ;
+        "NO-TORPAA2" ;
     dcterms:identifier "urn:eic:50WG00000001906P" ;
-    skos:altLabel "NO-TORPA___G2___" ;
+    skos:altLabel "NO-TORPAA2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TORPA   G2      HYDRO" ;
+    skos:prefLabel "TORPA   A2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

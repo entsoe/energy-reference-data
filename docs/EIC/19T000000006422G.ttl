@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006422G" ;
-    cim:IdentifiedObject.name "Zamość-Mokre" ;
+    cim:IdentifiedObject.name "220kV Mokre-Zamosc" ;
     cim:Names.name "2201",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006422G" ;
     skos:altLabel "2201" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Zamość-Mokre" ;
+    skos:prefLabel "220kV Mokre-Zamosc" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,22 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-18" ;
+    cim:DateAndOrTime.date "2026-01-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Epcg Functional Entity For Electricity Supply And Trading." ;
     cim:IdentifiedObject.mRID "35XEPCGTRADING-8" ;
-    cim:IdentifiedObject.name "TRADING-EPCG" ;
-    cim:Names.name "02002230",
+    cim:IdentifiedObject.name "Elektroprivreda Crne Gore AD Nikšić" ;
+    cim:Names.name "  02002230",
         "Balance Responsible Party",
         "Capacity Trader",
         "Consumption Responsible Party",
         "EPCGTRADING",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:35XEPCGTRADING-8" ;
-    schema1:vatID "02002230" ;
+    schema1:vatID "  02002230" ;
     skos:altLabel "EPCGTRADING" ;
     skos:definition "Epcg Functional Entity For Electricity Supply And Trading."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TRADING-EPCG" ;
+    skos:prefLabel "Elektroprivreda Crne Gore AD Nikšić" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

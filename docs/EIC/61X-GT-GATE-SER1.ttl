@@ -13,7 +13,9 @@
     cim:IdentifiedObject.mRID "61X-GT-GATE-SER1" ;
     cim:IdentifiedObject.name "SIA \"Gate service\"" ;
     cim:Names.name "GATE_SERVICE",
-        "LV40203030442" ;
+        "LV40203030442",
+        "Network User",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:61X-GT-GATE-SER1" ;
     schema1:vatID "LV40203030442" ;
     skos:altLabel "GATE_SERVICE" ;

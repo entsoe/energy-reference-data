@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-08-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000016994" ;
-    cim:IdentifiedObject.name "STOKKELAG132 HYDRO" ;
+    cim:IdentifiedObject.name "GILJA   G132 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STOKKELAG132_" ;
+        "NO-GILJAG132" ;
     dcterms:identifier "urn:eic:50WG000000016994" ;
-    skos:altLabel "NO-STOKKELAG132_" ;
+    skos:altLabel "NO-GILJAG132" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STOKKELAG132 HYDRO" ;
+    skos:prefLabel "GILJA   G132 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

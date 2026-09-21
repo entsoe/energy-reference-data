@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XSALZBURG-AGKI" ;
     cim:IdentifiedObject.name "Salzburg AG für Energie, Verkehr und Telekommunikation" ;
-    cim:Names.name "Balance Group",
-        "SALZBURG-AG-KWK" ;
+    cim:Names.name "SALZBURG-AG-KWK",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:14XSALZBURG-AGKI" ;
     skos:altLabel "SALZBURG-AG-KWK" ;
     skos:definition "Balance Group"@en ;

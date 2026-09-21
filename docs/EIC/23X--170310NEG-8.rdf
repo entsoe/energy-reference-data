@@ -9,11 +9,13 @@
     <cim:IdentifiedObject.mRID>23X--170310NEG-8</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>New Europe Gaz d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>NEW_EUROPE_GAZ</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-03-10</cim:DateAndOrTime.date>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

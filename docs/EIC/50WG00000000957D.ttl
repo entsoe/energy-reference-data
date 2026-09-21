@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000957D" ;
-    cim:IdentifiedObject.name "LEIVDAL G114 HYDRO" ;
+    cim:IdentifiedObject.name "INNVIK  G114 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LEIVDAL_G114_" ;
+        "NO-INNVIKG114" ;
     dcterms:identifier "urn:eic:50WG00000000957D" ;
-    skos:altLabel "NO-LEIVDAL_G114_" ;
+    skos:altLabel "NO-INNVIKG114" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LEIVDAL G114 HYDRO" ;
+    skos:prefLabel "INNVIK  G114 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

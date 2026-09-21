@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-04-20" ;
+    cim:DateAndOrTime.date "2025-02-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000HLO0" ;
-    cim:IdentifiedObject.name "ENERGREEN MOBILITY S.L." ;
+    cim:IdentifiedObject.name "ENERGREEN MOBILITY S.L" ;
     cim:Names.name "Consumption Responsible Party",
         "EGREN",
-        "ESB88424445" ;
+        "ESB88424445",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000HLO0" ;
     schema1:vatID "ESB88424445" ;
     skos:altLabel "EGREN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENERGREEN MOBILITY S.L." ;
+    skos:prefLabel "ENERGREEN MOBILITY S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000020974",
-    "@skos:prefLabel": "M 66 Salsbruket-Høylandet",
-    "@skos:altLabel": "NO-SALSBRUKETHOY",
+    "@skos:prefLabel": "N 66 Salsbruket-Høylandet",
+    "@skos:altLabel": "NO-66SALSBRUKETH",
     "@cim:IdentifiedObject.mRID": "50TL000000020974",
-    "@cim:IdentifiedObject.name": "M 66 Salsbruket-Høylandet",
+    "@cim:IdentifiedObject.name": "N 66 Salsbruket-Høylandet",
     "@cim:Names.name": [
-        "NO-SALSBRUKETHOY",
+        "NO-66SALSBRUKETH",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

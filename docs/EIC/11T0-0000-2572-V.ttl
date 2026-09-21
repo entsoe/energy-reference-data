@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2572-V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2572-V" ;
+    cim:IdentifiedObject.name "AMP-TNG/HVDC/Meerbusch-Philippsburg/Badener L2/Ultranet ws" ;
+    cim:Names.name "DC_PHIL_MEER_L2",
+        "Internal Tie-Line" ;
+    dcterms:identifier "urn:eic:11T0-0000-2572-V" ;
+    skos:altLabel "DC_PHIL_MEER_L2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AMP-TNG/HVDC/Meerbusch-Philippsburg/Badener L2/Ultranet ws" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

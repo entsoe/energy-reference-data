@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-10-26" ;
+    cim:DateAndOrTime.date "2024-08-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "30XROCEZ-------1" ;
-    cim:IdentifiedObject.name "CEZ ROMANIA SRL" ;
+    cim:IdentifiedObject.name "EVRYO POWER SA" ;
     cim:Names.name "RO18196091",
-        "RO_CEZ",
+        "RO_EVRYO",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:30XROCEZ-------1" ;
     schema1:vatID "RO18196091" ;
-    skos:altLabel "RO_CEZ" ;
+    skos:altLabel "RO_EVRYO" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CEZ ROMANIA SRL" ;
+    skos:prefLabel "EVRYO POWER SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

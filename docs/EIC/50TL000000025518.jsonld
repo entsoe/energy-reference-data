@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000025518",
-    "@skos:prefLabel": "M 420 Verdal-Klæbu",
-    "@skos:altLabel": "NO-VERDALKLABU",
+    "@skos:prefLabel": "N 420 Verdal-Klæbu",
+    "@skos:altLabel": "NO-420VERDALKLAB",
     "@cim:IdentifiedObject.mRID": "50TL000000025518",
-    "@cim:IdentifiedObject.name": "M 420 Verdal-Klæbu",
+    "@cim:IdentifiedObject.name": "N 420 Verdal-Klæbu",
     "@cim:Names.name": [
-        "NO-VERDALKLABU",
+        "NO-420VERDALKLAB",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

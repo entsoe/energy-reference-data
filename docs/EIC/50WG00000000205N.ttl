@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000205N" ;
     cim:IdentifiedObject.name "BRATTSETG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BRATTSETG1___" ;
+        "NO-BRATTSETG1" ;
     dcterms:identifier "urn:eic:50WG00000000205N" ;
-    skos:altLabel "NO-BRATTSETG1___" ;
+    skos:altLabel "NO-BRATTSETG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BRATTSETG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

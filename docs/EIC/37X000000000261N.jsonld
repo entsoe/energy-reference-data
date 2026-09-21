@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000261N",
-    "@skos:prefLabel": "OrangeGas Germany GmbH",
-    "@skos:altLabel": "ORANGEGAS_GERMAN",
+    "@skos:prefLabel": "OG Clean Fuels GmbH",
+    "@skos:altLabel": "OG_CLEAN_FUELS_G",
     "@skos:definition": {
         "@language": "en",
         "@value": "Energy Supplier"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000261N",
-    "@cim:IdentifiedObject.name": "OrangeGas Germany GmbH",
+    "@cim:IdentifiedObject.name": "OG Clean Fuels GmbH",
     "@cim:Names.name": [
-        "ORANGEGAS_GERMAN",
+        "OG_CLEAN_FUELS_G",
         "DE314145634",
         "Energy Supplier"
     ],
     "@cim:IdentifiedObject.description": "Energy Supplier",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-15",
+    "@cim:DateAndOrTime.date": "2026-06-11",
     "@schema:vatID": "DE314145634",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

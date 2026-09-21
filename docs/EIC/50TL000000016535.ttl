@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000016535" ;
     cim:IdentifiedObject.name "S 66 Biri-Bruvold" ;
     cim:Names.name "Internal Line",
-        "NO-BIRIBRUVOLD" ;
+        "NO-66BIRIBRUVOLD" ;
     dcterms:identifier "urn:eic:50TL000000016535" ;
-    skos:altLabel "NO-BIRIBRUVOLD" ;
+    skos:altLabel "NO-66BIRIBRUVOLD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Biri-Bruvold" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000031666" ;
-    cim:IdentifiedObject.name "S Tonstad 300 ABC X" ;
+    cim:IdentifiedObject.name "S Tonstad  300 ABC X" ;
     cim:Names.name "Internal Line",
-        "NO-TONSTAD300ABX" ;
+        "NO-TONSTAD300ABC" ;
     dcterms:identifier "urn:eic:50TL000000031666" ;
-    skos:altLabel "NO-TONSTAD300ABX" ;
+    skos:altLabel "NO-TONSTAD300ABC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Tonstad 300 ABC X" ;
+    skos:prefLabel "S Tonstad  300 ABC X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

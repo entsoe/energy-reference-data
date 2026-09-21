@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000009860" ;
     cim:IdentifiedObject.name "Heina" ;
-    cim:Names.name "NO-HEINA_PL",
+    cim:Names.name "NO-HEINA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000009860" ;
-    skos:altLabel "NO-HEINA_PL" ;
+    skos:altLabel "NO-HEINA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Heina" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

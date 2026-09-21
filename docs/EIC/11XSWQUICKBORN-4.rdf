@@ -6,15 +6,25 @@
     <dcterms:identifier>urn:eic:11XSWQUICKBORN-4</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Quickborn GmbH</skos:prefLabel>
     <skos:altLabel>SWQ</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
+    <skos:definition xml:lang="en">Dear Laima, can you deactivate the 11XSWQUICKBORN-4? 
+
+I didn't working with the EIC-Tracking. 
+
+The new Party Code ist 11XSTWQ-HANDEL-Y (already approved).
+Kind Regards Christina </skos:definition>
     <cim:IdentifiedObject.mRID>11XSWQUICKBORN-4</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Quickborn GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWQ</cim:Names.name>
     <cim:Names.name>DE244526745</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.description>Dear Laima, can you deactivate the 11XSWQUICKBORN-4? 
+
+I didn't working with the EIC-Tracking. 
+
+The new Party Code ist 11XSTWQ-HANDEL-Y (already approved).
+Kind Regards Christina </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-12-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE244526745</schema:vatID>

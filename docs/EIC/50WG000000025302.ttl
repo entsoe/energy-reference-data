@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000025302" ;
     cim:IdentifiedObject.name "JORDALENG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-JORDALENG1___" ;
+        "NO-JORDALENG1" ;
     dcterms:identifier "urn:eic:50WG000000025302" ;
-    skos:altLabel "NO-JORDALENG1___" ;
+    skos:altLabel "NO-JORDALENG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "JORDALENG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002258T" ;
     cim:IdentifiedObject.name "HEGSETFOG102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HEGSETFOG102_" ;
+        "NO-HEGSETFOG102" ;
     dcterms:identifier "urn:eic:50WG00000002258T" ;
-    skos:altLabel "NO-HEGSETFOG102_" ;
+    skos:altLabel "NO-HEGSETFOG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HEGSETFOG102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

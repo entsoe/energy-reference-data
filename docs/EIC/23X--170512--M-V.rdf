@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>23X--170512--M-V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MTSP Kosovo LLC</cim:IdentifiedObject.name>
     <cim:Names.name>MTSP_KOSOVO</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Certificate from Tax Administration of Kosovo VAT filer Tax number: 330165028</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-05-12</cim:DateAndOrTime.date>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:39XWIEEHUNGARIAQ</dcterms:identifier>
-    <skos:prefLabel>WIEE Hungary Ltd.</skos:prefLabel>
-    <skos:altLabel>HUFWIEE</skos:altLabel>
+    <skos:prefLabel>SEFE Central &amp; Eastern Europe Kft</skos:prefLabel>
+    <skos:altLabel>SEFECEE</skos:altLabel>
     <skos:definition xml:lang="en">Interconnection Trade Responsible</skos:definition>
     <cim:IdentifiedObject.mRID>39XWIEEHUNGARIAQ</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>WIEE Hungary Ltd.</cim:IdentifiedObject.name>
-    <cim:Names.name>HUFWIEE</cim:Names.name>
+    <cim:IdentifiedObject.name>SEFE Central &amp; Eastern Europe Kft</cim:IdentifiedObject.name>
+    <cim:Names.name>SEFECEE</cim:Names.name>
     <cim:Names.name>HU22916862</cim:Names.name>
     <cim:IdentifiedObject.description>Interconnection Trade Responsible</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-01-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-12</cim:DateAndOrTime.date>
     <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HU22916862</schema:vatID>

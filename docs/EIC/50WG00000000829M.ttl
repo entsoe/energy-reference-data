@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000829M" ;
-    cim:IdentifiedObject.name "KJELLANDG105 HYDRO" ;
+    cim:IdentifiedObject.name "OSEN    G101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KJELLANDG105_" ;
+        "NO-OSENG101" ;
     dcterms:identifier "urn:eic:50WG00000000829M" ;
-    skos:altLabel "NO-KJELLANDG105_" ;
+    skos:altLabel "NO-OSENG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KJELLANDG105 HYDRO" ;
+    skos:prefLabel "OSEN    G101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

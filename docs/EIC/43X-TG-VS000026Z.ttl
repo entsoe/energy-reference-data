@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-TG-VS000026Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-TG-VS000026Z" ;
+    cim:IdentifiedObject.name "VS Biogas SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV40203569120",
+        "Producer",
+        "TG-VS000026Z" ;
+    dcterms:identifier "urn:eic:43X-TG-VS000026Z" ;
+    schema1:vatID "LV40203569120" ;
+    skos:altLabel "TG-VS000026Z" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VS Biogas SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

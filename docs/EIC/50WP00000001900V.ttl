@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001900V" ;
-    cim:IdentifiedObject.name "Østre Kullerød 5" ;
+    cim:IdentifiedObject.name "Østre Kullerød 5 Solcelle" ;
     cim:Names.name "NO-OE_KULLEROD",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001900V" ;
     skos:altLabel "NO-OE_KULLEROD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Østre Kullerød 5" ;
+    skos:prefLabel "Østre Kullerød 5 Solcelle" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

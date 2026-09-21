@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-26" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000000056-1" ;
     cim:IdentifiedObject.name "Kernkraftwerk Gösgen (KKG)" ;
-    cim:Names.name "Generation Unit",
-        "KKW-GOESGEN-AS" ;
+    cim:Names.name "KKW-GOESGEN-AS",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:12W-0000000056-1" ;
     skos:altLabel "KKW-GOESGEN-AS" ;
-    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kernkraftwerk Gösgen (KKG)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

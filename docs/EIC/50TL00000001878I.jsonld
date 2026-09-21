@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001878I",
-    "@skos:prefLabel": "S 66 Jøssingfjord-ÅnaSira",
-    "@skos:altLabel": "NO-JOSSINGFJORDA",
+    "@skos:prefLabel": "S 6 Jøssingfjord-Tørkeanlegg",
+    "@skos:altLabel": "NO-6JOSSINGFJORD",
     "@cim:IdentifiedObject.mRID": "50TL00000001878I",
-    "@cim:IdentifiedObject.name": "S 66 Jøssingfjord-ÅnaSira",
+    "@cim:IdentifiedObject.name": "S 6 Jøssingfjord-Tørkeanlegg",
     "@cim:Names.name": [
-        "NO-JOSSINGFJORDA",
+        "NO-6JOSSINGFJORD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

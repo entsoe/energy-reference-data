@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC000000018245" ;
-    cim:IdentifiedObject.name "N Alta tra 2   LARM Last" ;
+    cim:IdentifiedObject.name "N Alta tra 2   L1  Forbruk" ;
     cim:Names.name "Load",
         "NO-ALTATRA2" ;
     dcterms:identifier "urn:eic:50WC000000018245" ;
     skos:altLabel "NO-ALTATRA2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Alta tra 2   LARM Last" ;
+    skos:prefLabel "N Alta tra 2   L1  Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

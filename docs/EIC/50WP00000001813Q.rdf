@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001813Q</dcterms:identifier>
-    <skos:prefLabel>Sess</skos:prefLabel>
-    <skos:altLabel>NO-SESS</skos:altLabel>
+    <skos:prefLabel>Sesselva</skos:prefLabel>
+    <skos:altLabel>NO-SESSELVA</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001813Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Sess</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SESS</cim:Names.name>
+    <cim:IdentifiedObject.name>Sesselva</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-SESSELVA</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-07</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

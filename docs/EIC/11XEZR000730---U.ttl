@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEZR000730---U" ;
     cim:IdentifiedObject.name "TEN Thüringer Energienetze GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE206810190",
-        "TEN-EZR" ;
+    cim:Names.name "DE206810190",
+        "TEN-EZR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEZR000730---U" ;
     schema1:vatID "DE206810190" ;
     skos:altLabel "TEN-EZR" ;

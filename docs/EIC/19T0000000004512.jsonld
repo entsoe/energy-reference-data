@@ -16,7 +16,10 @@
     "@skos:altLabel": "217",
     "@cim:IdentifiedObject.mRID": "19T0000000004512",
     "@cim:IdentifiedObject.name": "Jasiniec-Pątnów 1",
-    "@cim:Names.name": "217",
+    "@cim:Names.name": [
+        "217",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-10-25",

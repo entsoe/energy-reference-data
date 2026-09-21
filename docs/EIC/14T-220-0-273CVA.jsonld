@@ -16,7 +16,10 @@
     "@skos:altLabel": "220-0-273CV",
     "@cim:IdentifiedObject.mRID": "14T-220-0-273CVA",
     "@cim:IdentifiedObject.name": "220-0-273CV",
-    "@cim:Names.name": "220-0-273CV",
+    "@cim:Names.name": [
+        "220-0-273CV",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-25",

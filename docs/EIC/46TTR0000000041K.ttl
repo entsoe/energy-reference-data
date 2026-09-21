@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46TTR0000000041K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46TTR0000000041K" ;
+    cim:IdentifiedObject.name "Stalon T1" ;
+    cim:Names.name "STALON_TI",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:46TTR0000000041K" ;
+    skos:altLabel "STALON_TI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Stalon T1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

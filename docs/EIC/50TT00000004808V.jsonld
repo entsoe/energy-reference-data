@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004808V",
     "@skos:prefLabel": "S Fortun   T7 Transformator",
-    "@skos:altLabel": "NO-FORTUN__T7",
+    "@skos:altLabel": "NO-FORTUNT7",
     "@cim:IdentifiedObject.mRID": "50TT00000004808V",
     "@cim:IdentifiedObject.name": "S Fortun   T7 Transformator",
     "@cim:Names.name": [
-        "NO-FORTUN__T7",
+        "NO-FORTUNT7",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

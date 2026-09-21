@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP000000013082</dcterms:identifier>
     <skos:prefLabel>Gire</skos:prefLabel>
-    <skos:altLabel>NO-GIRE_PL</skos:altLabel>
+    <skos:altLabel>NO-GIRE</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP000000013082</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gire</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-GIRE_PL</cim:Names.name>
+    <cim:Names.name>NO-GIRE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

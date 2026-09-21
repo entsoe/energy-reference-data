@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W0000000125711> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "GRANDH-CENTRALE HYDRAULIQUE DE GRANDVAL-6;RTE-GRANDH6-GRAND0000000000794;HYDLQ" ;
+    cim:IdentifiedObject.mRID "17W0000000125711" ;
+    cim:IdentifiedObject.name "Grand'Val" ;
+    cim:Names.name "FR_LA_GRAND-P",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:17W0000000125711" ;
+    skos:altLabel "FR_LA_GRAND-P" ;
+    skos:definition "GRANDH-CENTRALE HYDRAULIQUE DE GRANDVAL-6;RTE-GRANDH6-GRAND0000000000794;HYDLQ"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Grand'Val" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

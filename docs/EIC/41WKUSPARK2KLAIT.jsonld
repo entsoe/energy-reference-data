@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WKUSPARK2KLAIT",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WKUSPARK2KLAIT",
+    "@skos:prefLabel": "Klaipėda Unlimited Sun (KUS)  PV parkas 2 projektas 11,5MW  PV parkas 2 projektas 11,5MW",
+    "@skos:altLabel": "KLAIPEDAUNLIM2",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB \"Elektrum Lietuva\" 301506046 LT100003800414       \nSaulės parkas: Klaipėda Unlimited Sun (KUS) PV parkas 2 projektas 11,5MW   \n Adresas:  Toleikių k., Dovilų sen., Klaipėdos r. sav.   \nKoordinatės: 55.660739, 21.278277 \nEso objekto nr: 50266903"
+    },
+    "@cim:IdentifiedObject.mRID": "41WKUSPARK2KLAIT",
+    "@cim:IdentifiedObject.name": "Klaipėda Unlimited Sun (KUS)  PV parkas 2 projektas 11,5MW  PV parkas 2 projektas 11,5MW",
+    "@cim:Names.name": [
+        "KLAIPEDAUNLIM2",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "UAB \"Elektrum Lietuva\" 301506046 LT100003800414       \nSaulės parkas: Klaipėda Unlimited Sun (KUS) PV parkas 2 projektas 11,5MW   \n Adresas:  Toleikių k., Dovilų sen., Klaipėdos r. sav.   \nKoordinatės: 55.660739, 21.278277 \nEso objekto nr: 50266903",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-24",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

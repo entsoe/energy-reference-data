@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46X000000000118R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46X000000000118R",
+    "@skos:prefLabel": "Kvänum Energi AB",
+    "@skos:altLabel": "KVANUM_ENERGI",
+    "@cim:IdentifiedObject.mRID": "46X000000000118R",
+    "@cim:IdentifiedObject.name": "Kvänum Energi AB",
+    "@cim:Names.name": [
+        "KVANUM_ENERGI",
+        "SE556492922101",
+        "Energy Supplier"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-12-10",
+    "@schema:vatID": "SE556492922101",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

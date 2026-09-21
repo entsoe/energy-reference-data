@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18W000000000TFMP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18W000000000TFMP" ;
+    cim:IdentifiedObject.name "URAIV" ;
+    cim:Names.name "ES-URAIVHI",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:18W000000000TFMP" ;
+    skos:altLabel "ES-URAIVHI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "URAIV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

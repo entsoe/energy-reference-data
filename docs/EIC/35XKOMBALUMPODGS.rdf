@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:35XKOMBALUMPODGS</dcterms:identifier>
-    <skos:prefLabel>KOMBINAT ALUMINIJUMA PODGORICA</skos:prefLabel>
+    <skos:prefLabel>UNIPROM KAP d.o.o.</skos:prefLabel>
     <skos:altLabel>KOMBALUMPODG</skos:altLabel>
     <skos:definition xml:lang="en">Aluminum Smelter.</skos:definition>
     <cim:IdentifiedObject.mRID>35XKOMBALUMPODGS</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>KOMBINAT ALUMINIJUMA PODGORICA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>UNIPROM KAP d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>KOMBALUMPODG</cim:Names.name>
     <cim:Names.name>02983133</cim:Names.name>
     <cim:IdentifiedObject.description>Aluminum Smelter.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "FLORA_FAB",
         "GB995547162",
-        "Valid EIC Function needed"
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-12-11",
     "@schema:vatID": "GB995547162",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000027095" ;
-    cim:IdentifiedObject.name "M 22 Fjelna-Brandåa" ;
+    cim:IdentifiedObject.name "N 22 Fjelna-Brandåa" ;
     cim:Names.name "Internal Line",
-        "NO-FJELNABRANDAA" ;
+        "NO-22FJELNABRAND" ;
     dcterms:identifier "urn:eic:50TLI00000027095" ;
-    skos:altLabel "NO-FJELNABRANDAA" ;
+    skos:altLabel "NO-22FJELNABRAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Fjelna-Brandåa" ;
+    skos:prefLabel "N 22 Fjelna-Brandåa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

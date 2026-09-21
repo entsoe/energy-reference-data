@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-05" ;
+    cim:DateAndOrTime.date "2024-03-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Changement de nom + modification du responsible party" ;
     cim:IdentifiedObject.mRID "17W000001345677Y" ;
     cim:IdentifiedObject.name "Parc du Banc de Guérande" ;
     cim:Names.name "FR_BANCDEGUERAND",
-        "Generation Unit" ;
+        "Production Unit" ;
     dcterms:identifier "urn:eic:17W000001345677Y" ;
     skos:altLabel "FR_BANCDEGUERAND" ;
     skos:definition "Changement de nom + modification du responsible party"@en ;

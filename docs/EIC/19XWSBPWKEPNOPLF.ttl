@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-12-07" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XWSBPWKEPNOPLF" ;
-    cim:IdentifiedObject.name "WSB PARK WIATROWY KĘPNO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "WSB PARK WIATROWY KĘPNO SP.ZO.O." ;
     cim:Names.name "Balance Responsible Party",
         "Consumer",
         "Energy Supplier",
@@ -21,6 +21,6 @@
     schema1:vatID "PL7792351143" ;
     skos:altLabel "WSB_PW_KEPNO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WSB PARK WIATROWY KĘPNO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "WSB PARK WIATROWY KĘPNO SP.ZO.O." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

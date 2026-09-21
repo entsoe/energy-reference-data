@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/54X-G51-S80-A4-M",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:54X-G51-S80-A4-M",
+    "@skos:prefLabel": "GSA Energy sh.p.k",
+    "@skos:altLabel": "GSA_ENERGY_AL",
+    "@cim:IdentifiedObject.mRID": "54X-G51-S80-A4-M",
+    "@cim:IdentifiedObject.name": "GSA Energy sh.p.k",
+    "@cim:Names.name": [
+        "GSA_ENERGY_AL",
+        "M51804041H",
+        "Balance Responsible Party",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-09",
+    "@schema:vatID": "M51804041H",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

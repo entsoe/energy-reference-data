@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XRWEINTRADAY-O",
     "@skos:prefLabel": "RWE Supply & Trading GmbH",
     "@skos:altLabel": "RWEINTRADAY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XRWEINTRADAY-O",
     "@cim:IdentifiedObject.name": "RWE Supply & Trading GmbH",
     "@cim:Names.name": [
         "RWEINTRADAY",
         "DE813022070",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-08-19",
+    "@cim:DateAndOrTime.date": "2024-11-13",
     "@schema:vatID": "DE813022070",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

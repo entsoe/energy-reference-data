@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002024W",
-    "@skos:prefLabel": "Yara Porsgrunn APO",
-    "@skos:altLabel": "NO-YARAPORSGRAPO",
+    "@skos:prefLabel": "S Åbjøra   2   L1  Forbruk",
+    "@skos:altLabel": "NO-ABJORA2",
     "@cim:IdentifiedObject.mRID": "50WC00000002024W",
-    "@cim:IdentifiedObject.name": "Yara Porsgrunn APO",
+    "@cim:IdentifiedObject.name": "S Åbjøra   2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-YARAPORSGRAPO",
+        "NO-ABJORA2",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TTI00000051685",
-    "@skos:prefLabel": "N Kvænange T1 Transformator",
+    "@skos:prefLabel": "N Kvænangs T1 Transformator",
     "@skos:altLabel": "NO-KVANANGET1",
     "@cim:IdentifiedObject.mRID": "50TTI00000051685",
-    "@cim:IdentifiedObject.name": "N Kvænange T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Kvænangs T1 Transformator",
     "@cim:Names.name": [
         "NO-KVANANGET1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-05-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

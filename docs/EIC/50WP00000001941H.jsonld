@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001941H",
     "@skos:prefLabel": "Egeland Verk",
-    "@skos:altLabel": "NO-EGELAND_VERK",
+    "@skos:altLabel": "NO-EGELANDVERK",
     "@cim:IdentifiedObject.mRID": "50WP00000001941H",
     "@cim:IdentifiedObject.name": "Egeland Verk",
     "@cim:Names.name": [
-        "NO-EGELAND_VERK",
+        "NO-EGELANDVERK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

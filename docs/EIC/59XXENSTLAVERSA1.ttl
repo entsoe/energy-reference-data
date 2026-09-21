@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XXENSTLAVERSA1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XXENSTLAVERSA1" ;
+    cim:IdentifiedObject.name "XEN SRL" ;
+    cim:Names.name "04813250612",
+        "Balance Responsible Party",
+        "XENSRL" ;
+    dcterms:identifier "urn:eic:59XXENSTLAVERSA1" ;
+    schema1:vatID "04813250612" ;
+    skos:altLabel "XENSRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "XEN SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002114U" ;
     cim:IdentifiedObject.name "S 66 Sengjaneset-Mågeli" ;
     cim:Names.name "Internal Line",
-        "NO-SENGJANESETMA" ;
+        "NO-66SENGJAAGELI" ;
     dcterms:identifier "urn:eic:50TL00000002114U" ;
-    skos:altLabel "NO-SENGJANESETMA" ;
+    skos:altLabel "NO-66SENGJAAGELI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Sengjaneset-Mågeli" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

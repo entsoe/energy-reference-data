@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P1320M",
-    "@skos:prefLabel": "GROUPE 03 DE LA CENTRALE HYDRAULIQUE DE BOURG-LES-VALENCE",
+    "@skos:prefLabel": "BOURG-LES-VALENCE G3",
     "@skos:altLabel": "FR_HY-B-VAL-G3",
     "@skos:definition": {
         "@language": "en",
         "@value": "Generation Unit"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P1320M",
-    "@cim:IdentifiedObject.name": "GROUPE 03 DE LA CENTRALE HYDRAULIQUE DE BOURG-LES-VALENCE",
+    "@cim:IdentifiedObject.name": "BOURG-LES-VALENCE G3",
     "@cim:Names.name": [
         "FR_HY-B-VAL-G3",
         "Generation Unit"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-01",
+    "@cim:DateAndOrTime.date": "2024-12-31",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

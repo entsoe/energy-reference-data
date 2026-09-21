@@ -13,10 +13,8 @@
     cim:IdentifiedObject.mRID "11XLUMIUSPL----2" ;
     cim:IdentifiedObject.name "Lumius Polska Sp. z o.o ." ;
     cim:Names.name "Balance Responsible Party",
-        "LUMIUSPL",
-        "PL5471997923" ;
+        "LUMIUSPL" ;
     dcterms:identifier "urn:eic:11XLUMIUSPL----2" ;
-    schema1:vatID "PL5471997923" ;
     skos:altLabel "LUMIUSPL" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

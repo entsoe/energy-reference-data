@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002323L" ;
     cim:IdentifiedObject.name "S 8 Grønsdal-Myra" ;
     cim:Names.name "Internal Line",
-        "NO-GRONSDALMYRA" ;
+        "NO-8GRONSDALMYRA" ;
     dcterms:identifier "urn:eic:50TL00000002323L" ;
-    skos:altLabel "NO-GRONSDALMYRA" ;
+    skos:altLabel "NO-8GRONSDALMYRA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 8 Grønsdal-Myra" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000053712",
-    "@skos:prefLabel": "M Nea      T4 Transformator",
-    "@skos:altLabel": "NO-NEA_____T4",
+    "@skos:prefLabel": "N Nea      T4 Transformator",
+    "@skos:altLabel": "NO-NEAT4",
     "@cim:IdentifiedObject.mRID": "50TT000000053712",
-    "@cim:IdentifiedObject.name": "M Nea      T4 Transformator",
+    "@cim:IdentifiedObject.name": "N Nea      T4 Transformator",
     "@cim:Names.name": [
-        "NO-NEA_____T4",
+        "NO-NEAT4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000013587" ;
-    cim:IdentifiedObject.name "S 47 Kolstad-T_Navestad" ;
+    cim:IdentifiedObject.name "S 47 Kolstad-T_K-H" ;
     cim:Names.name "Internal Line",
-        "NO-KOLSTADTNAVES" ;
+        "NO-47KOLSTADT_K" ;
     dcterms:identifier "urn:eic:50TL000000013587" ;
-    skos:altLabel "NO-KOLSTADTNAVES" ;
+    skos:altLabel "NO-47KOLSTADT_K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 Kolstad-T_Navestad" ;
+    skos:prefLabel "S 47 Kolstad-T_K-H" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

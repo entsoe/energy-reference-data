@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:35XCOTEE-MNE---2</dcterms:identifier>
-    <skos:prefLabel>COTEE</skos:prefLabel>
+    <skos:prefLabel>Crnogorski operator tr&#382;i&#353;ta elektri&#269;ne energije d.o.o.</skos:prefLabel>
     <skos:altLabel>COTEE_DOO_PG</skos:altLabel>
     <skos:definition xml:lang="en">MONTENEGRIN ELECTRICITY MARKET OPERATOR - COTEE</skos:definition>
     <cim:IdentifiedObject.mRID>35XCOTEE-MNE---2</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>COTEE</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Crnogorski operator tr&#382;i&#353;ta elektri&#269;ne energije d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>COTEE_DOO_PG</cim:Names.name>
     <cim:Names.name>02849096</cim:Names.name>
     <cim:IdentifiedObject.description>MONTENEGRIN ELECTRICITY MARKET OPERATOR - COTEE</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-04-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

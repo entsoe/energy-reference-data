@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001831U" ;
     cim:IdentifiedObject.name "SONNA   G3      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SONNA___G3___" ;
+        "NO-SONNAG3" ;
     dcterms:identifier "urn:eic:50WG00000001831U" ;
-    skos:altLabel "NO-SONNA___G3___" ;
+    skos:altLabel "NO-SONNAG3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SONNA   G3      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WALYTJURGISK4E">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WALYTJURGISK4E</dcterms:identifier>
+    <skos:prefLabel>Alytus Jurgi&#353;k&#279;s PV parkas  11,05MW</skos:prefLabel>
+    <skos:altLabel>ALYTUSJURGISKPV</skos:altLabel>
+    <skos:definition xml:lang="en">UAB "Elektrum Lietuva"    301506046     LT100003800414    Saul&#279;s parkas: Alytus Jurgi&#353;k&#279;s PV parkas 11,05MW     Adresas: Jurgi&#353;ki&#371; g., Jurgi&#353;ki&#371; k., Alytaus raj. sav.  Koordinat&#279;s: 54.368976, 23.961645   Eso objekto nr: 31272442 </skos:definition>
+    <cim:IdentifiedObject.mRID>41WALYTJURGISK4E</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Alytus Jurgi&#353;k&#279;s PV parkas  11,05MW</cim:IdentifiedObject.name>
+    <cim:Names.name>ALYTUSJURGISKPV</cim:Names.name>
+    <cim:IdentifiedObject.description>UAB "Elektrum Lietuva"    301506046     LT100003800414    Saul&#279;s parkas: Alytus Jurgi&#353;k&#279;s PV parkas 11,05MW     Adresas: Jurgi&#353;ki&#371; g., Jurgi&#353;ki&#371; k., Alytaus raj. sav.  Koordinat&#279;s: 54.368976, 23.961645   Eso objekto nr: 31272442 </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-07-24</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001478Y" ;
     cim:IdentifiedObject.name "S 47 T_Smørbekk-Moss" ;
     cim:Names.name "Internal Line",
-        "NO-TSMORBEKKMOSS" ;
+        "NO-47T_SMORBEKKM" ;
     dcterms:identifier "urn:eic:50TL00000001478Y" ;
-    skos:altLabel "NO-TSMORBEKKMOSS" ;
+    skos:altLabel "NO-47T_SMORBEKKM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 T_Smørbekk-Moss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

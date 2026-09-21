@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/52Z000000000268O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Connection Point" ;
+    cim:IdentifiedObject.mRID "52Z000000000268O" ;
+    cim:IdentifiedObject.name "DELFZIJL (LAFARGE GIPS BV)" ;
+    cim:Names.name "Connection Point",
+        "LAGIP" ;
+    dcterms:identifier "urn:eic:52Z000000000268O" ;
+    skos:altLabel "LAGIP" ;
+    skos:definition "Connection Point"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DELFZIJL (LAFARGE GIPS BV)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

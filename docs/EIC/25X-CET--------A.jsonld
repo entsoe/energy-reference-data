@@ -19,11 +19,13 @@
     "@cim:Names.name": [
         "CET",
         "ATU79401103",
-        "Network User"
+        "Energy Supplier",
+        "Network User",
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-09-26",
+    "@cim:DateAndOrTime.date": "2024-08-28",
     "@schema:vatID": "ATU79401103",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

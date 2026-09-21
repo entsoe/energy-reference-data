@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-02-19" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
+    cim:DateAndOrTime.date "2024-11-20" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XECI1--------G" ;
     cim:IdentifiedObject.name "Akzo Nobel Industrial Chemicals GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE125498871",
         "ECI" ;
     dcterms:identifier "urn:eic:11XECI1--------G" ;
     schema1:vatID "DE125498871" ;
     skos:altLabel "ECI" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Akzo Nobel Industrial Chemicals GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

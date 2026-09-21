@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-CARBOUNION-4" ;
     cim:IdentifiedObject.name "CARBOUNION SLOVAKIA, spol. s.r.o." ;
     cim:Names.name "CBUNION-SK",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-CARBOUNION-4" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "CBUNION-SK" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

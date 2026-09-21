@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002153L",
-    "@skos:prefLabel": "S Gravfoss 66  T2 Forbruk",
+    "@skos:prefLabel": "S Gravfoss 50  T2 Forbruk",
     "@skos:altLabel": "NO-GRAVFOSS66T2",
     "@cim:IdentifiedObject.mRID": "50WC00000002153L",
-    "@cim:IdentifiedObject.name": "S Gravfoss 66  T2 Forbruk",
+    "@cim:IdentifiedObject.name": "S Gravfoss 50  T2 Forbruk",
     "@cim:Names.name": [
         "NO-GRAVFOSS66T2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

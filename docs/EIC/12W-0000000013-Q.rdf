@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:12W-0000000013-Q</dcterms:identifier>
     <skos:prefLabel>AG KW W&#228;gital</skos:prefLabel>
     <skos:altLabel>AKW-AS</skos:altLabel>
-    <skos:definition xml:lang="en">Generation Unit</skos:definition>
     <cim:IdentifiedObject.mRID>12W-0000000013-Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AG KW W&#228;gital</cim:IdentifiedObject.name>
     <cim:Names.name>AKW-AS</cim:Names.name>
-    <cim:IdentifiedObject.description>Generation Unit</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-08-26</cim:DateAndOrTime.date>
-    <cim:Names.name>Generation Unit</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-04-09</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

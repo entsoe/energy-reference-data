@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000011122",
-    "@skos:prefLabel": "M 300 Strinda-Klæbu",
-    "@skos:altLabel": "NO-STRINDAKLABU",
+    "@skos:prefLabel": "N 300 Strinda-Klæbu",
+    "@skos:altLabel": "NO-300STRINDAKLA",
     "@cim:IdentifiedObject.mRID": "50TL000000011122",
-    "@cim:IdentifiedObject.name": "M 300 Strinda-Klæbu",
+    "@cim:IdentifiedObject.name": "N 300 Strinda-Klæbu",
     "@cim:Names.name": [
-        "NO-STRINDAKLABU",
+        "NO-300STRINDAKLA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

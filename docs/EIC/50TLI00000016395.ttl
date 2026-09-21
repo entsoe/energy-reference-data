@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000016395" ;
     cim:IdentifiedObject.name "S 66 Aurland 2-Sitjane" ;
     cim:Names.name "Internal Line",
-        "NO-AURLAND2SITJA" ;
+        "NO-66AURLAND_2SI" ;
     dcterms:identifier "urn:eic:50TLI00000016395" ;
-    skos:altLabel "NO-AURLAND2SITJA" ;
+    skos:altLabel "NO-66AURLAND_2SI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Aurland 2-Sitjane" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMKNET-------R" ;
     cim:IdentifiedObject.name "Martin Richard Kristek Netzbetrieb" ;
-    cim:Names.name "Balance Group",
-        "DE239481260",
-        "MKNET" ;
+    cim:Names.name "DE239481260",
+        "MKNET",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMKNET-------R" ;
     schema1:vatID "DE239481260" ;
     skos:altLabel "MKNET" ;

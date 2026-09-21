@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000020089",
     "@skos:prefLabel": "Wartsila Testmotor",
-    "@skos:altLabel": "NO-WARTSILA_TEST",
+    "@skos:altLabel": "NO-WARTSILATESTM",
     "@cim:IdentifiedObject.mRID": "50WP000000020089",
     "@cim:IdentifiedObject.name": "Wartsila Testmotor",
     "@cim:Names.name": [
-        "NO-WARTSILA_TEST",
+        "NO-WARTSILATESTM",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

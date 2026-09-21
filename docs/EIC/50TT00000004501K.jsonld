@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004501K",
     "@skos:prefLabel": "S Åna-Sira T1 Transformator",
-    "@skos:altLabel": "NO-ANA-SIRAT1",
+    "@skos:altLabel": "NO-ANA_SIRAT1",
     "@cim:IdentifiedObject.mRID": "50TT00000004501K",
     "@cim:IdentifiedObject.name": "S Åna-Sira T1 Transformator",
     "@cim:Names.name": [
-        "NO-ANA-SIRAT1",
+        "NO-ANA_SIRAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

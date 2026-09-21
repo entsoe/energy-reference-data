@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XOCHCAPITAL--N" ;
     cim:IdentifiedObject.name "OCH Capital" ;
-    cim:Names.name "Balance Group",
-        "GB982191500",
-        "OCH" ;
+    cim:Names.name "GB982191500",
+        "OCH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XOCHCAPITAL--N" ;
     schema1:vatID "GB982191500" ;
     skos:altLabel "OCH" ;

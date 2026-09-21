@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-08" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-01-31" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated." ;
     cim:IdentifiedObject.mRID "27T-TLI-V443---5" ;
     cim:IdentifiedObject.name "V443 - Detmarovice-Dobrzen" ;
     cim:Names.name "Tieline",
         "V443" ;
     dcterms:identifier "urn:eic:27T-TLI-V443---5" ;
     skos:altLabel "V443" ;
+    skos:definition "Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "V443 - Detmarovice-Dobrzen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46Z000000000005C",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46Z000000000005C",
+    "@skos:prefLabel": "Borgvik_Hasle",
+    "@skos:altLabel": "BORGVIK_HAS",
+    "@cim:IdentifiedObject.mRID": "46Z000000000005C",
+    "@cim:IdentifiedObject.name": "Borgvik_Hasle",
+    "@cim:Names.name": [
+        "BORGVIK_HAS",
+        "Metering Point"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-02",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

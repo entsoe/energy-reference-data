@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006698O",
-    "@skos:prefLabel": "Pabianice-Rogowiec 2",
+    "@skos:prefLabel": "220kV Pabianice-Rogowiec 2",
     "@skos:altLabel": "1009",
     "@cim:IdentifiedObject.mRID": "19T110000006698O",
-    "@cim:IdentifiedObject.name": "Pabianice-Rogowiec 2",
+    "@cim:IdentifiedObject.name": "220kV Pabianice-Rogowiec 2",
     "@cim:Names.name": [
         "1009",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

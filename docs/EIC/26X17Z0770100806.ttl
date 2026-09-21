@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26X17Z0770100806> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26X17Z0770100806" ;
+    cim:IdentifiedObject.name "EPP4 S.R.L." ;
+    cim:Names.name "IT-EPP4SRLSRL",
+        "IT17207701008",
+        "Producer" ;
+    dcterms:identifier "urn:eic:26X17Z0770100806" ;
+    schema1:vatID "IT17207701008" ;
+    skos:altLabel "IT-EPP4SRLSRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EPP4 S.R.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

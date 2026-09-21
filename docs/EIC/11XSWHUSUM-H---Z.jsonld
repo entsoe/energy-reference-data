@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWHUSUM-H---Z",
     "@skos:prefLabel": "Stadtwerke Husum GmbH",
     "@skos:altLabel": "SWHUSUM-H",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWHUSUM-H---Z",
     "@cim:IdentifiedObject.name": "Stadtwerke Husum GmbH",
     "@cim:Names.name": [
         "SWHUSUM-H",
         "DE203291323",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2006-03-08",
+    "@cim:DateAndOrTime.date": "2024-03-27",
     "@schema:vatID": "DE203291323",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

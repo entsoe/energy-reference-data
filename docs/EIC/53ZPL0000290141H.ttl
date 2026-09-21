@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53ZPL0000290141H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53ZPL0000290141H" ;
+    cim:IdentifiedObject.name "KGHM ZWR Lubin" ;
+    cim:Names.name "290141_KGHM-LUBI",
+        "Connection Point" ;
+    dcterms:identifier "urn:eic:53ZPL0000290141H" ;
+    skos:altLabel "290141_KGHM-LUBI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KGHM ZWR Lubin" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

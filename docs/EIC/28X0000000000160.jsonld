@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:28X0000000000160",
-    "@skos:prefLabel": "PPD energija, trgovanje z energijo d.o.o.",
-    "@skos:altLabel": "PPD_ENERGIJA",
+    "@skos:prefLabel": "ENNA Next d.o.o. ",
+    "@skos:altLabel": "SLO-ENNA-NEXT",
     "@cim:IdentifiedObject.mRID": "28X0000000000160",
-    "@cim:IdentifiedObject.name": "PPD energija, trgovanje z energijo d.o.o.",
+    "@cim:IdentifiedObject.name": "ENNA Next d.o.o. ",
     "@cim:Names.name": [
-        "PPD_ENERGIJA",
+        "SLO-ENNA-NEXT",
         "SI93039492",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-10-08",
+    "@cim:DateAndOrTime.date": "2025-01-15",
     "@schema:vatID": "SI93039492",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

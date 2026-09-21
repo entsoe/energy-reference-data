@@ -16,7 +16,7 @@
     "@skos:altLabel": "EH",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Consumption Responsible Party"
+        "@value": "Consumption Responsible Party; Update missing EIC function in CIO Tool "
     },
     "@cim:IdentifiedObject.mRID": "25X-BIKGASKONTOP",
     "@cim:IdentifiedObject.name": "BGK Gas GmbH",
@@ -25,10 +25,10 @@
         "ATU66836506",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party; Update missing EIC function in CIO Tool ",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-09-19",
+    "@cim:DateAndOrTime.date": "2024-06-10",
     "@schema:vatID": "ATU66836506",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

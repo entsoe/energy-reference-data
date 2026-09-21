@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001095U" ;
     cim:IdentifiedObject.name "Øvstedal" ;
-    cim:Names.name "NO-OVSTEDAL_PL",
+    cim:Names.name "NO-OEVSTEDAL",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001095U" ;
-    skos:altLabel "NO-OVSTEDAL_PL" ;
+    skos:altLabel "NO-OEVSTEDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Øvstedal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

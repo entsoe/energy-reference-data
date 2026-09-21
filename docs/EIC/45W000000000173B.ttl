@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-15" ;
+    cim:DateAndOrTime.date "2024-01-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45W000000000173B" ;
     cim:IdentifiedObject.name "Vesterhav Syd" ;
-    cim:Names.name "DK_VHS",
+    cim:Names.name "DK_VHS_PU",
         "Production Unit" ;
     dcterms:identifier "urn:eic:45W000000000173B" ;
-    skos:altLabel "DK_VHS" ;
+    skos:altLabel "DK_VHS_PU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vesterhav Syd" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

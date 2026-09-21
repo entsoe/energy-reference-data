@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-23" ;
+    cim:DateAndOrTime.date "2025-09-03" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "21W000000000097J" ;
-    cim:IdentifiedObject.name "Epe KGE" ;
-    cim:Names.name "System Operator",
-        "UGS-EPE-KGE" ;
+    cim:IdentifiedObject.name "UGS Epe MET" ;
+    cim:Names.name "Gas Storage Facility",
+        "UGS-EPE-MET" ;
     dcterms:identifier "urn:eic:21W000000000097J" ;
-    skos:altLabel "UGS-EPE-KGE" ;
-    skos:definition "System Operator"@en ;
+    skos:altLabel "UGS-EPE-MET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Epe KGE" ;
+    skos:prefLabel "UGS Epe MET" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

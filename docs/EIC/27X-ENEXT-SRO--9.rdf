@@ -13,8 +13,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-09-05</cim:DateAndOrTime.date>
-    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CZ03216616</schema:vatID>
   </skos:Concept>

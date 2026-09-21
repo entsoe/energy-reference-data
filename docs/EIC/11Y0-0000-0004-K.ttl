@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11Y0-0000-0004-K" ;
     cim:IdentifiedObject.name "vortex energy - Obrot Sp. z o.o." ;
-    cim:Names.name "VORTEX-TRADE" ;
+    cim:Names.name "Balance Group",
+        "VORTEX-TRADE" ;
     dcterms:identifier "urn:eic:11Y0-0000-0004-K" ;
     skos:altLabel "VORTEX-TRADE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

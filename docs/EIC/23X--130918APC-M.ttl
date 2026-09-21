@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Function Missing" ;
     cim:IdentifiedObject.mRID "23X--130918APC-M" ;
     cim:IdentifiedObject.name "Albanian Power Corporation/ KESH j.s.c" ;
     cim:Names.name "ALBANIAN_PC_KESH",
         "J61817005F",
-        "Valid EIC Function needed" ;
+        "Producer" ;
     dcterms:identifier "urn:eic:23X--130918APC-M" ;
     schema1:vatID "J61817005F" ;
     skos:altLabel "ALBANIAN_PC_KESH" ;

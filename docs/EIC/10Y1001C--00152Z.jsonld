@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10Y1001C--00152Z",
-    "@skos:prefLabel": "DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)",
+    "@skos:prefLabel": "TTG–NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)",
     "@skos:altLabel": "TTG-VBZ-NO2A",
     "@skos:definition": {
         "@language": "en",
         "@value": "EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core"
     },
     "@cim:IdentifiedObject.mRID": "10Y1001C--00152Z",
-    "@cim:IdentifiedObject.name": "DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)",
+    "@cim:IdentifiedObject.name": "TTG–NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)",
     "@cim:Names.name": [
         "TTG-VBZ-NO2A",
         "Border Area"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-12-04",
+    "@cim:DateAndOrTime.date": "2024-06-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
