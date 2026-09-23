@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000000433706J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Code international" ;
+    cim:IdentifiedObject.mRID "17X000000433706J" ;
+    cim:IdentifiedObject.name "Engie Green" ;
+    cim:Names.name "FR93478826753",
+        "FR_ENGIE_GREEN",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X000000433706J" ;
+    schema1:vatID "FR93478826753" ;
+    skos:altLabel "FR_ENGIE_GREEN" ;
+    skos:definition "Code international"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Engie Green" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

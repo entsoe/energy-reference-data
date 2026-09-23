@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24XEON-H-SK----P" ;
     cim:IdentifiedObject.name "E.ON Energy Trading AG, organizacna zlozka" ;
     cim:Names.name "EON-OZ",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24XEON-H-SK----P" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "EON-OZ" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

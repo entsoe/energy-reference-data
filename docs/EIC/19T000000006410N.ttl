@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006410N" ;
-    cim:IdentifiedObject.name "Polkowice-Leszno Gronowo" ;
+    cim:IdentifiedObject.name "220kV Leszno-Polkowice" ;
     cim:Names.name "4013",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006410N" ;
     skos:altLabel "4013" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Polkowice-Leszno Gronowo" ;
+    skos:prefLabel "220kV Leszno-Polkowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

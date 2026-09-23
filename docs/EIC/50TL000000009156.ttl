@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000009156" ;
     cim:IdentifiedObject.name "S 22 Nesbyen-Pålsbu" ;
     cim:Names.name "Internal Line",
-        "NO-NESBYENPALSBU" ;
+        "NO-22NESBYENPALS" ;
     dcterms:identifier "urn:eic:50TL000000009156" ;
-    skos:altLabel "NO-NESBYENPALSBU" ;
+    skos:altLabel "NO-22NESBYENPALS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Nesbyen-Pålsbu" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

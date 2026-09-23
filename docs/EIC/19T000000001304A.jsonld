@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000001304A",
-    "@skos:prefLabel": "Rzeszów-KrosnoIskrzynia",
+    "@skos:prefLabel": "400kV Krosno Iskrzynia-Rzeszow",
     "@skos:altLabel": "F302",
     "@cim:IdentifiedObject.mRID": "19T000000001304A",
-    "@cim:IdentifiedObject.name": "Rzeszów-KrosnoIskrzynia",
+    "@cim:IdentifiedObject.name": "400kV Krosno Iskrzynia-Rzeszow",
     "@cim:Names.name": [
         "F302",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000974R",
-    "@skos:prefLabel": "M 22 Tafjord1-Tafjord6",
-    "@skos:altLabel": "NO-TAFJORD1TAFJO",
+    "@skos:prefLabel": "N 22 Tafjord-Tafjord6",
+    "@skos:altLabel": "NO-22TAFJORDTAFJ",
     "@cim:IdentifiedObject.mRID": "50TL00000000974R",
-    "@cim:IdentifiedObject.name": "M 22 Tafjord1-Tafjord6",
+    "@cim:IdentifiedObject.name": "N 22 Tafjord-Tafjord6",
     "@cim:Names.name": [
-        "NO-TAFJORD1TAFJO",
+        "NO-22TAFJORDTAFJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000028312",
-    "@skos:prefLabel": "S 50 Vegusdal-Evje",
-    "@skos:altLabel": "NO-VEGUSDALEVJE",
+    "@skos:prefLabel": "S 66 Vegusdal-Evje",
+    "@skos:altLabel": "NO-66VEGUSDALEVJ",
     "@cim:IdentifiedObject.mRID": "50TL000000028312",
-    "@cim:IdentifiedObject.name": "S 50 Vegusdal-Evje",
+    "@cim:IdentifiedObject.name": "S 66 Vegusdal-Evje",
     "@cim:Names.name": [
-        "NO-VEGUSDALEVJE",
+        "NO-66VEGUSDALEVJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

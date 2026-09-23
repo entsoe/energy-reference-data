@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000311Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Energy Supplier" ;
+    cim:IdentifiedObject.mRID "37X000000000311Y" ;
+    cim:IdentifiedObject.name "RMB Rhein-Main-Biokompost GmbH" ;
+    cim:Names.name "DE177440519",
+        "Energy Supplier",
+        "RMB_RHEINMAINBIO" ;
+    dcterms:identifier "urn:eic:37X000000000311Y" ;
+    schema1:vatID "DE177440519" ;
+    skos:altLabel "RMB_RHEINMAINBIO" ;
+    skos:definition "Energy Supplier"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RMB Rhein-Main-Biokompost GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

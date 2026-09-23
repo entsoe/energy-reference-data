@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Lehman Brothers Commodity Services ( Europe)",
     "@cim:Names.name": [
         "LEHMANBROS",
-        "Valid EIC Function needed"
+        "02538254",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-12-22",
+    "@schema:vatID": "02538254",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

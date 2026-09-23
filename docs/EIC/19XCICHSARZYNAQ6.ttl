@@ -7,23 +7,23 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-21" ;
+    cim:DateAndOrTime.date "2025-03-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XCICHSARZYNAQ6" ;
-    cim:IdentifiedObject.name "CIECH SARZYNA SPÓŁKA AKCYJNA" ;
+    cim:IdentifiedObject.name "QEMETICA AGRICULTURAL SOLUTIONS POLAND SPÓŁKA AKCYJNA" ;
     cim:Names.name "A00144679.PL",
-        "CIECH_SARZYNA",
         "Consumer",
         "Energy Supplier",
         "Grid Access Provider",
         "Meter Administrator",
         "Metered Data Responsible",
         "PL8160001828",
+        "QEMETICA_ASP_SA",
         "System Operator" ;
     dcterms:identifier "urn:eic:19XCICHSARZYNAQ6" ;
     schema1:vatID "PL8160001828" ;
-    skos:altLabel "CIECH_SARZYNA" ;
+    skos:altLabel "QEMETICA_ASP_SA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CIECH SARZYNA SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "QEMETICA AGRICULTURAL SOLUTIONS POLAND SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

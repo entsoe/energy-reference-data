@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002858J" ;
     cim:IdentifiedObject.name "S 66 Sogndal-Kvåle" ;
     cim:Names.name "Internal Line",
-        "NO-SOGNDALKVALE" ;
+        "NO-66SOGNDALKVAL" ;
     dcterms:identifier "urn:eic:50TL00000002858J" ;
-    skos:altLabel "NO-SOGNDALKVALE" ;
+    skos:altLabel "NO-66SOGNDALKVAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Sogndal-Kvåle" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

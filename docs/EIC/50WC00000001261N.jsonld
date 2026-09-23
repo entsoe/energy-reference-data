@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001261N",
-    "@skos:prefLabel": "M Rokset   66  T1 Forbruk",
+    "@skos:prefLabel": "N Rokset   66  T1 Forbruk",
     "@skos:altLabel": "NO-ROKSET66",
     "@cim:IdentifiedObject.mRID": "50WC00000001261N",
-    "@cim:IdentifiedObject.name": "M Rokset   66  T1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Rokset   66  T1 Forbruk",
     "@cim:Names.name": [
         "NO-ROKSET66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

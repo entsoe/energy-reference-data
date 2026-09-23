@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "MORAVIA ENERGO, a.s.",
     "@cim:Names.name": [
         "MORAVIA_ENERGO",
+        "n / a",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-06-05",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

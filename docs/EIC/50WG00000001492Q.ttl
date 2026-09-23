@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001492Q" ;
-    cim:IdentifiedObject.name "SKIBOTN G101 HYDRO" ;
+    cim:IdentifiedObject.name "BERGSELVG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SKIBOTN_G101_" ;
+        "NO-BERGSELVG101" ;
     dcterms:identifier "urn:eic:50WG00000001492Q" ;
-    skos:altLabel "NO-SKIBOTN_G101_" ;
+    skos:altLabel "NO-BERGSELVG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SKIBOTN G101 HYDRO" ;
+    skos:prefLabel "BERGSELVG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

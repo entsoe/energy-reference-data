@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_PU-CHEYL-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Production Unit"
+        "@value": "Production Unit - LIO update"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P0273A",
     "@cim:IdentifiedObject.name": "CHEYLAS",
@@ -24,10 +24,10 @@
         "FR_PU-CHEYL-P",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Production Unit",
+    "@cim:IdentifiedObject.description": "Production Unit - LIO update",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-08-03",
+    "@cim:DateAndOrTime.date": "2026-01-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

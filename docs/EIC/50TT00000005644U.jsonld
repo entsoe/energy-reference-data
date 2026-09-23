@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005644U",
-    "@skos:prefLabel": "M Sentru T T1 Transformator",
+    "@skos:prefLabel": "N Sentru T T1 Transformator",
     "@skos:altLabel": "NO-SENTR_TKT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005644U",
-    "@cim:IdentifiedObject.name": "M Sentru T T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Sentru T T1 Transformator",
     "@cim:Names.name": [
         "NO-SENTR_TKT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

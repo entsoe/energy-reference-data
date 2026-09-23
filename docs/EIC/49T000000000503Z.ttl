@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-05-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000503Z" ;
-    cim:IdentifiedObject.name "Oosteind 150kV-Oosteind 10kV (TR4)" ;
+    cim:IdentifiedObject.name "Oosteind 150kV - Oosteind 10kV (TR4) Zwart" ;
     cim:Names.name "Internal Line",
         "OTD-TBW150-Z" ;
     dcterms:identifier "urn:eic:49T000000000503Z" ;
     skos:altLabel "OTD-TBW150-Z" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Oosteind 150kV-Oosteind 10kV (TR4)" ;
+    skos:prefLabel "Oosteind 150kV - Oosteind 10kV (TR4) Zwart" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

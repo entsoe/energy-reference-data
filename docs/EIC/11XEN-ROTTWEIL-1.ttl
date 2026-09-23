@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-12-10" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEN-ROTTWEIL-1" ;
     cim:IdentifiedObject.name "ENRW Energieversorgung Rottweil GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE117570536",
-        "EN_ROTTWEIL" ;
+    cim:Names.name "DE200387156",
+        "EN_ROTTWEIL",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XEN-ROTTWEIL-1" ;
-    schema1:vatID "DE117570536" ;
+    schema1:vatID "DE200387156" ;
     skos:altLabel "EN_ROTTWEIL" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENRW Energieversorgung Rottweil GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

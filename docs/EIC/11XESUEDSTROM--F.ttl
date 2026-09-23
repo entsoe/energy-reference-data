@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XESUEDSTROM--F" ;
     cim:IdentifiedObject.name "Erdgas Südsachsen GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE140850720",
-        "ESUEDSTROM" ;
+    cim:Names.name "DE140850720",
+        "ESUEDSTROM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XESUEDSTROM--F" ;
     schema1:vatID "DE140850720" ;
     skos:altLabel "ESUEDSTROM" ;

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPIGA-123456-F",
     "@skos:prefLabel": "Pizarras Gallegas S.A.",
     "@skos:altLabel": "PIGA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPIGA-123456-F",
     "@cim:IdentifiedObject.name": "Pizarras Gallegas S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA32006579",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-05-14",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA32006579",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

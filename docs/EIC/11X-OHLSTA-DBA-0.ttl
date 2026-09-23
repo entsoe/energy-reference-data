@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-OHLSTA-DBA-0" ;
     cim:IdentifiedObject.name "Elektrizitätsgenossenschaft Ohlstadt eG" ;
-    cim:Names.name "Balance Group",
-        "DE128373814",
-        "OHLSTADT-DBA" ;
+    cim:Names.name "DE128373814",
+        "OHLSTADT-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-OHLSTA-DBA-0" ;
     schema1:vatID "DE128373814" ;
     skos:altLabel "OHLSTADT-DBA" ;

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL00000003407A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL00000003407A" ;
+    cim:IdentifiedObject.name "N 22Sande_SU-Skyggeelva" ;
+    cim:Names.name "Internal Line",
+        "NO-SANDE_SUSKYGG" ;
+    dcterms:identifier "urn:eic:50TL00000003407A" ;
+    skos:altLabel "NO-SANDE_SUSKYGG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "N 22Sande_SU-Skyggeelva" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,9 +13,11 @@
     cim:IdentifiedObject.mRID "64XNAVITASEN-F4P" ;
     cim:IdentifiedObject.name "S.R.L. \"Navitas Energy\"" ;
     cim:Names.name "Balance Responsible Party",
+        "N/A",
         "NAVITASEN_F",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:64XNAVITASEN-F4P" ;
+    schema1:vatID "N/A" ;
     skos:altLabel "NAVITASEN_F" ;
     skos:definition "S.R.L. ''Navitas Energy'' has no EU VAT code. Registration number (IDNO) - 1020600042991 Licence - AC nr. 001504; issued by ANRE on 24/12/2020"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

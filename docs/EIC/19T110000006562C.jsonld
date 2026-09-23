@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006562C",
-    "@skos:prefLabel": "Mikułowa-TD2",
+    "@skos:prefLabel": "400/220kV Mikulowa TD2",
     "@skos:altLabel": "MIK-TD2",
     "@cim:IdentifiedObject.mRID": "19T110000006562C",
-    "@cim:IdentifiedObject.name": "Mikułowa-TD2",
+    "@cim:IdentifiedObject.name": "400/220kV Mikulowa TD2",
     "@cim:Names.name": [
         "MIK-TD2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

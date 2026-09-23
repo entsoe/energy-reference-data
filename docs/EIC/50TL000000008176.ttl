@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008176" ;
-    cim:IdentifiedObject.name "S 22 Blåfalli 3-Åkraelva" ;
+    cim:IdentifiedObject.name "S 22 Opstveit-Åkraelva" ;
     cim:Names.name "Internal Line",
-        "NO-BLAFALLI3AKRA" ;
+        "NO-22OPSTVEIT_3A" ;
     dcterms:identifier "urn:eic:50TL000000008176" ;
-    skos:altLabel "NO-BLAFALLI3AKRA" ;
+    skos:altLabel "NO-22OPSTVEIT_3A" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Blåfalli 3-Åkraelva" ;
+    skos:prefLabel "S 22 Opstveit-Åkraelva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

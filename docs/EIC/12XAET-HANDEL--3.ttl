@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-20" ;
+    cim:DateAndOrTime.date "2024-01-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energiehandel" ;
     cim:IdentifiedObject.mRID "12XAET-HANDEL--3" ;
     cim:IdentifiedObject.name "Azienda Elettrica Ticinese" ;
     cim:Names.name "AET",
-        "Balance Group Responsible Party",
-        "CH184770" ;
+        "Balance Responsible Party",
+        "CHE-108.954.547" ;
     dcterms:identifier "urn:eic:12XAET-HANDEL--3" ;
-    schema1:vatID "CH184770" ;
+    schema1:vatID "CHE-108.954.547" ;
     skos:altLabel "AET" ;
     skos:definition "Energiehandel"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

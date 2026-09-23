@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "55XENIGEM0000012" ;
     cim:IdentifiedObject.name "Eni Global Energy Markets S.p.A." ;
     cim:Names.name "ENIGEM",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:55XENIGEM0000012" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "ENIGEM" ;
     skos:definition "Fiscal code 11076280962 VIES not approved as VAT number"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

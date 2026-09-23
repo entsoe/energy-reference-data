@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-10" ;
+    cim:DateAndOrTime.date "2025-02-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Spin-off of activities from one entity (VNG AG) to the other (VNG Handel & Vertrieb GmbH). Checked and agreed between CIO, LIO and Counterparties in February 2018. " ;
     cim:IdentifiedObject.mRID "23XVNGAG-------P" ;
     cim:IdentifiedObject.name "VNG Handel & Vertrieb GmbH" ;
-    cim:Names.name "DE141628049",
+    cim:Names.name "DE272548903",
         "Trade Responsible Party",
         "VNG_HANDEL_V" ;
     dcterms:identifier "urn:eic:23XVNGAG-------P" ;
-    schema1:vatID "DE141628049" ;
+    schema1:vatID "DE272548903" ;
     skos:altLabel "VNG_HANDEL_V" ;
     skos:definition "Spin-off of activities from one entity (VNG AG) to the other (VNG Handel & Vertrieb GmbH). Checked and agreed between CIO, LIO and Counterparties in February 2018. "@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

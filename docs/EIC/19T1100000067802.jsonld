@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067802",
-    "@skos:prefLabel": "Toruń Elana-Grudziądz Węgrowo",
+    "@skos:prefLabel": "220kV Grudziadz-Torun Elana",
     "@skos:altLabel": "6202",
     "@cim:IdentifiedObject.mRID": "19T1100000067802",
-    "@cim:IdentifiedObject.name": "Toruń Elana-Grudziądz Węgrowo",
+    "@cim:IdentifiedObject.name": "220kV Grudziadz-Torun Elana",
     "@cim:Names.name": [
         "6202",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

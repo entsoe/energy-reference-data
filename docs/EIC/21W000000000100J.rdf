@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W000000000100J</dcterms:identifier>
-    <skos:prefLabel>Etzel EGL Statoil Deutschland Storage</skos:prefLabel>
-    <skos:altLabel>ETZEL-STATOIL-DE</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point</skos:definition>
+    <skos:prefLabel>Equinor Storage Deutschland GmbH</skos:prefLabel>
+    <skos:altLabel>EQUINOR-DE-STOR</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W000000000100J</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Etzel EGL Statoil Deutschland Storage</cim:IdentifiedObject.name>
-    <cim:Names.name>ETZEL-STATOIL-DE</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>Equinor Storage Deutschland GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>EQUINOR-DE-STOR</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-12-04</cim:DateAndOrTime.date>
-    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

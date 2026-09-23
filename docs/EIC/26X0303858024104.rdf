@@ -4,16 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X0303858024104</dcterms:identifier>
-    <skos:prefLabel>EUSEBIO ENERGIA S.R.L.</skos:prefLabel>
-    <skos:altLabel>IT-EUSEBIOENERGI</skos:altLabel>
+    <skos:prefLabel>ASCO POWER</skos:prefLabel>
+    <skos:altLabel>IT-ASCOPOWERSPA</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X0303858024104</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EUSEBIO ENERGIA S.R.L.</cim:IdentifiedObject.name>
-    <cim:Names.name>IT-EUSEBIOENERGI</cim:Names.name>
-    <cim:Names.name>A0011404E.IT</cim:Names.name>
+    <cim:IdentifiedObject.name>ASCO POWER</cim:IdentifiedObject.name>
+    <cim:Names.name>IT-ASCOPOWERSPA</cim:Names.name>
     <cim:Names.name>IT03038580241</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-03-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-17</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT03038580241</schema:vatID>

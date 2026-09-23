@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000000015M</dcterms:identifier>
-    <skos:prefLabel>Aukland</skos:prefLabel>
-    <skos:altLabel>NO-AUKLAND</skos:altLabel>
+    <skos:prefLabel>Langemyr</skos:prefLabel>
+    <skos:altLabel>NO-LANGEMYR</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000000015M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Aukland</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-AUKLAND</cim:Names.name>
+    <cim:IdentifiedObject.name>Langemyr</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-LANGEMYR</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

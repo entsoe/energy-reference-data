@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000023736",
-    "@skos:prefLabel": "S Flesaker 66 S2 X",
-    "@skos:altLabel": "NO-FLESAKER66S2X",
+    "@skos:prefLabel": "S 66 Flesaker-T_Stengelsrud",
+    "@skos:altLabel": "NO-66FLESAKER_T",
     "@cim:IdentifiedObject.mRID": "50TL000000023736",
-    "@cim:IdentifiedObject.name": "S Flesaker 66 S2 X",
+    "@cim:IdentifiedObject.name": "S 66 Flesaker-T_Stengelsrud",
     "@cim:Names.name": [
-        "NO-FLESAKER66S2X",
+        "NO-66FLESAKER_T",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:33XELPEDISONPOWC</dcterms:identifier>
-    <skos:prefLabel>ELPEDISON POWER GENERATION DOOEL</skos:prefLabel>
-    <skos:altLabel>ELPEDISON_SKOPJE</skos:altLabel>
+    <skos:prefLabel>ENERWAVE DOOEL Skopje</skos:prefLabel>
+    <skos:altLabel>ENERWAVE_SKOPJE</skos:altLabel>
     <cim:IdentifiedObject.mRID>33XELPEDISONPOWC</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELPEDISON POWER GENERATION DOOEL</cim:IdentifiedObject.name>
-    <cim:Names.name>ELPEDISON_SKOPJE</cim:Names.name>
+    <cim:IdentifiedObject.name>ENERWAVE DOOEL Skopje</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERWAVE_SKOPJE</cim:Names.name>
     <cim:Names.name>4080021601401</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-03-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-06</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>4080021601401</schema:vatID>

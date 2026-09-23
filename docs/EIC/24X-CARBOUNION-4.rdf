@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>24X-CARBOUNION-4</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CARBOUNION SLOVAKIA, spol. s.r.o.</cim:IdentifiedObject.name>
     <cim:Names.name>CBUNION-SK</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-03-22</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

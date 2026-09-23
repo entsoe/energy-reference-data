@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group Manager" ;
     cim:IdentifiedObject.mRID "13X-IKBAG-H----E" ;
     cim:IdentifiedObject.name "Innsbrucker Kommunalbetriebe AG" ;
     cim:Names.name "ATU37376308",
-        "IKBAG_H",
-        "Valid EIC Function needed" ;
+        "Balance Responsible Party",
+        "IKBAG_H" ;
     dcterms:identifier "urn:eic:13X-IKBAG-H----E" ;
     schema1:vatID "ATU37376308" ;
     skos:altLabel "IKBAG_H" ;

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGALAC-12345-N",
     "@skos:prefLabel": "GALACTIC GAMES, S.L.",
     "@skos:altLabel": "GALAC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGALAC-12345-N",
     "@cim:IdentifiedObject.name": "GALACTIC GAMES, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB61745816",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB61745816",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

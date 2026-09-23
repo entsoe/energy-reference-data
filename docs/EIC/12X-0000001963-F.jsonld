@@ -16,7 +16,7 @@
     "@skos:altLabel": "FENACO_AGROLA-ST",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Group Responsible Party, Consumer"
+        "@value": "Balance Responsible Party, Consumer"
     },
     "@cim:IdentifiedObject.mRID": "12X-0000001963-F",
     "@cim:IdentifiedObject.name": "fenaco Genossenschaft",
@@ -26,10 +26,10 @@
         "Balance Responsible Party",
         "Consumer"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group Responsible Party, Consumer",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Balance Responsible Party, Consumer",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-26",
+    "@cim:DateAndOrTime.date": "2026-04-08",
     "@schema:vatID": "CHE106106123",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

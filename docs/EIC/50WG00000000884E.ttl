@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000884E" ;
     cim:IdentifiedObject.name "KRISTIANG107 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KRISTIANG107_" ;
+        "NO-KRISTIANG107" ;
     dcterms:identifier "urn:eic:50WG00000000884E" ;
-    skos:altLabel "NO-KRISTIANG107_" ;
+    skos:altLabel "NO-KRISTIANG107" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KRISTIANG107 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

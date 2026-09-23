@@ -6,16 +6,16 @@
     <dcterms:identifier>urn:eic:19XFORTUMPL--01J</dcterms:identifier>
     <skos:prefLabel>FORTUM POWER AND HEAT POLSKA Sp. z o.o.</skos:prefLabel>
     <skos:altLabel>FORTUM_P_H_POL</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>19XFORTUMPL--01J</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FORTUM POWER AND HEAT POLSKA Sp. z o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>FORTUM_P_H_POL</cim:Names.name>
     <cim:Names.name>PL1181606467</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-03-24</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-02-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL1181606467</schema:vatID>
   </skos:Concept>

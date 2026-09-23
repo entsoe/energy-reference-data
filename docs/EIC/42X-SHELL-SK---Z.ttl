@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-02-22" ;
+    cim:DateAndOrTime.date "2024-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "42X-SHELL-SK---Z" ;
     cim:IdentifiedObject.name "SHELL Slovakia, s.r.o." ;
-    cim:Names.name "Network User",
+    cim:Names.name "Energy Supplier",
         "SHELL_SLOVAKIA",
-        "SK31361081" ;
+        "SK2020315363" ;
     dcterms:identifier "urn:eic:42X-SHELL-SK---Z" ;
-    schema1:vatID "SK31361081" ;
+    schema1:vatID "SK2020315363" ;
     skos:altLabel "SHELL_SLOVAKIA" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

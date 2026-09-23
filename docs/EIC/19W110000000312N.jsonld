@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:19W110000000312N",
     "@skos:prefLabel": "PV Zwartowo",
     "@skos:altLabel": "ZWA_1P03",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "W najbliższym czasie uruchomiona zostanie farma fotowoltaiczna PV Zwartowo, która jest przyłączona do sieci OSP, a jej moc wynosi 145 MW. Rozumiem, że ze względu na moc musi zostać nadany kod EIC w celu publikacji MWE na ENTSO.  "
-    },
     "@cim:IdentifiedObject.mRID": "19W110000000312N",
     "@cim:IdentifiedObject.name": "PV Zwartowo",
     "@cim:Names.name": [
         "ZWA_1P03",
-        "Production Unit"
+        "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "W najbliższym czasie uruchomiona zostanie farma fotowoltaiczna PV Zwartowo, która jest przyłączona do sieci OSP, a jej moc wynosi 145 MW. Rozumiem, że ze względu na moc musi zostać nadany kod EIC w celu publikacji MWE na ENTSO.  ",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-16",
+    "@cim:DateAndOrTime.date": "2025-12-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

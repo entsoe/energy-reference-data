@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "WWZ Energie AG",
     "@cim:Names.name": [
         "WWZ-ENERGIE-AG",
-        "CH497325",
-        "Balance Group Responsible Party"
+        "CHE-116.311.096",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Energieversorgungsunternehmen Der Region Zug",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-27",
-    "@schema:vatID": "CH497325",
+    "@cim:DateAndOrTime.date": "2024-01-22",
+    "@schema:vatID": "CHE-116.311.096",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

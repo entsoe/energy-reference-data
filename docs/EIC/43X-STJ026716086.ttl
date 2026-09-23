@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ026716086> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ026716086" ;
+    cim:IdentifiedObject.name "KWP 5 SIA" ;
+    cim:Names.name "Balancing Service Provider",
+        "Consumer",
+        "LV40203451132",
+        "Production Responsible Party",
+        "STJ026716086" ;
+    dcterms:identifier "urn:eic:43X-STJ026716086" ;
+    schema1:vatID "LV40203451132" ;
+    skos:altLabel "STJ026716086" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KWP 5 SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

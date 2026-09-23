@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001400E" ;
     cim:IdentifiedObject.name "Sæterstad" ;
-    cim:Names.name "NO-SATERSTAD_PL",
+    cim:Names.name "NO-SAETERSTAD",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001400E" ;
-    skos:altLabel "NO-SATERSTAD_PL" ;
+    skos:altLabel "NO-SAETERSTAD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Sæterstad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

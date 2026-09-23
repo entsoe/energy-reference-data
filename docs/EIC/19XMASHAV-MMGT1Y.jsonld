@@ -19,12 +19,16 @@
     "@cim:Names.name": [
         "MASHAV-MMGT",
         "PL1050002125",
+        "Balance Responsible Party",
         "Energy Supplier",
-        "Balance Responsible Party"
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-13",
+    "@cim:DateAndOrTime.date": "2026-02-25",
     "@schema:vatID": "PL1050002125",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

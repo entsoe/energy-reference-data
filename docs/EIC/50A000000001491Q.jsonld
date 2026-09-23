@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001491Q",
-    "@skos:prefLabel": "Tana",
+    "@skos:prefLabel": "Tana Bru",
     "@skos:altLabel": "NO-TANA",
     "@cim:IdentifiedObject.mRID": "50A000000001491Q",
-    "@cim:IdentifiedObject.name": "Tana",
+    "@cim:IdentifiedObject.name": "Tana Bru",
     "@cim:Names.name": [
         "NO-TANA",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2026-05-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

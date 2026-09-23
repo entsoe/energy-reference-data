@@ -7,18 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-21" ;
+    cim:DateAndOrTime.date "2025-09-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19X5262725362PLZ" ;
-    cim:IdentifiedObject.name "ONE SPÓŁKA AKCYJNA" ;
+    cim:IdentifiedObject.name "WISE ENERGY SPÓŁKA AKCYJNA" ;
     cim:Names.name "A0020088F.PL",
+        "Balance Responsible Party",
         "Energy Supplier",
-        "ONE_SA",
-        "PL5262725362" ;
+        "PL5262725362",
+        "WISE_ENERGY_SA" ;
     dcterms:identifier "urn:eic:19X5262725362PLZ" ;
     schema1:vatID "PL5262725362" ;
-    skos:altLabel "ONE_SA" ;
+    skos:altLabel "WISE_ENERGY_SA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ONE SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "WISE ENERGY SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

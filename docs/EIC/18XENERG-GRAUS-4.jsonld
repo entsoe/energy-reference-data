@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XENERG-GRAUS-4",
-    "@skos:prefLabel": "ENERGÍAS DE GRAUS, S.L.",
+    "@skos:prefLabel": "ENERGIAS DE GRAUS, S.L.",
     "@skos:altLabel": "EGRAU",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XENERG-GRAUS-4",
-    "@cim:IdentifiedObject.name": "ENERGÍAS DE GRAUS, S.L.",
+    "@cim:IdentifiedObject.name": "ENERGIAS DE GRAUS, S.L.",
     "@cim:Names.name": [
         "EGRAU",
         "ESB61052932",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@schema:vatID": "ESB61052932",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

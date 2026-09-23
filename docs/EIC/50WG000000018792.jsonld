@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000018792",
     "@skos:prefLabel": "TEVLA   MG2     HYDRO",
-    "@skos:altLabel": "NO-TEVLA___MG2__",
+    "@skos:altLabel": "NO-TEVLAMG2",
     "@cim:IdentifiedObject.mRID": "50WG000000018792",
     "@cim:IdentifiedObject.name": "TEVLA   MG2     HYDRO",
     "@cim:Names.name": [
-        "NO-TEVLA___MG2__",
+        "NO-TEVLAMG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

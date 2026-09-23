@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000095I" ;
-    cim:IdentifiedObject.name "M 132 Alsten-Leirosen" ;
+    cim:IdentifiedObject.name "N 132 Alsten-Leirosen" ;
     cim:Names.name "Internal Line",
-        "NO-ALSTENLEIROSE" ;
+        "NO-132ALSTENLEIR" ;
     dcterms:identifier "urn:eic:50TL00000000095I" ;
-    skos:altLabel "NO-ALSTENLEIROSE" ;
+    skos:altLabel "NO-132ALSTENLEIR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Alsten-Leirosen" ;
+    skos:prefLabel "N 132 Alsten-Leirosen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

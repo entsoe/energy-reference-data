@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004611D",
-    "@skos:prefLabel": "M Bondal   T1 Transformator",
-    "@skos:altLabel": "NO-BONDAL__T1",
+    "@skos:prefLabel": "N Bondal   T1 Transformator",
+    "@skos:altLabel": "NO-BONDALT1",
     "@cim:IdentifiedObject.mRID": "50TT00000004611D",
-    "@cim:IdentifiedObject.name": "M Bondal   T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Bondal   T1 Transformator",
     "@cim:Names.name": [
-        "NO-BONDAL__T1",
+        "NO-BONDALT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

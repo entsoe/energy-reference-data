@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVDL-STROM---T" ;
     cim:IdentifiedObject.name "Deutsche Landwirte e.V. (VDL)" ;
-    cim:Names.name "Balance Group",
-        "VDL-STROM" ;
+    cim:Names.name "VDL-STROM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVDL-STROM---T" ;
     skos:altLabel "VDL-STROM" ;
     skos:definition "Balance Group"@en ;

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-09-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEGEFFELTRICHJ" ;
     cim:IdentifiedObject.name "Elektra-Genossenschaft Effeltrich eG" ;
-    cim:Names.name "21618515402",
-        "Balance Group",
+    cim:Names.name "Balance Responsible Party",
+        "DE229225638",
         "EGEFFELTRICH" ;
     dcterms:identifier "urn:eic:11XEGEFFELTRICHJ" ;
-    schema1:vatID "21618515402" ;
+    schema1:vatID "DE229225638" ;
     skos:altLabel "EGEFFELTRICH" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Elektra-Genossenschaft Effeltrich eG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

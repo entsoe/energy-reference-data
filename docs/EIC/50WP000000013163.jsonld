@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000013163",
     "@skos:prefLabel": "Sikkajokk",
-    "@skos:altLabel": "NO-SIKKAJOKK_PL",
+    "@skos:altLabel": "NO-SIKKAJOKK",
     "@cim:IdentifiedObject.mRID": "50WP000000013163",
     "@cim:IdentifiedObject.name": "Sikkajokk",
     "@cim:Names.name": [
-        "NO-SIKKAJOKK_PL",
+        "NO-SIKKAJOKK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

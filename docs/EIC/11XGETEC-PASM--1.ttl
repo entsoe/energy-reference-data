@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XGETEC-PASM--1" ;
     cim:IdentifiedObject.name "GETEC ENERGIE GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813164073",
-        "GEAG-PASM" ;
+    cim:Names.name "DE813164073",
+        "GEAG-PASM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGETEC-PASM--1" ;
     schema1:vatID "DE813164073" ;
     skos:altLabel "GEAG-PASM" ;

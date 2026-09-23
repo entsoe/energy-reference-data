@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/26W-SY4GLRNSLDGG",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:26W-SY4GLRNSLDGG",
+    "@skos:prefLabel": "IM_S04GLRNUP_SLDGLRENZA_3",
+    "@skos:altLabel": "216656_40101",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "IM_S04GLRNUP_SLDGLRENZA_3"
+    },
+    "@cim:IdentifiedObject.mRID": "26W-SY4GLRNSLDGG",
+    "@cim:IdentifiedObject.name": "IM_S04GLRNUP_SLDGLRENZA_3",
+    "@cim:Names.name": [
+        "216656_40101",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "IM_S04GLRNUP_SLDGLRENZA_3",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-05-10",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

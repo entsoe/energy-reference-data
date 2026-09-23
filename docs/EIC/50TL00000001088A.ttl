@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001088A" ;
     cim:IdentifiedObject.name "S 300 Rendalen-Rendalen 2" ;
     cim:Names.name "Internal Line",
-        "NO-RENDALENRENDA" ;
+        "NO-300RENDALENRE" ;
     dcterms:identifier "urn:eic:50TL00000001088A" ;
-    skos:altLabel "NO-RENDALENRENDA" ;
+    skos:altLabel "NO-300RENDALENRE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Rendalen-Rendalen 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

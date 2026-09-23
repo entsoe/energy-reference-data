@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUBS-LIMITED-0" ;
     cim:IdentifiedObject.name "UBS Limited" ;
-    cim:Names.name "Balance Group",
-        "GB447151456",
-        "UBS-LIMITED" ;
+    cim:Names.name "GB447151456",
+        "UBS-LIMITED",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUBS-LIMITED-0" ;
     schema1:vatID "GB447151456" ;
     skos:altLabel "UBS-LIMITED" ;

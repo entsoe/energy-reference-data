@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006723E",
-    "@skos:prefLabel": "Boguchwała-Chmielów",
+    "@skos:prefLabel": "220kV Boguchwala-Chmielow",
     "@skos:altLabel": "2301",
     "@cim:IdentifiedObject.mRID": "19T110000006723E",
-    "@cim:IdentifiedObject.name": "Boguchwała-Chmielów",
+    "@cim:IdentifiedObject.name": "220kV Boguchwala-Chmielow",
     "@cim:Names.name": [
         "2301",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

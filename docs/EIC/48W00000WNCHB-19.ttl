@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000WNCHB-19> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Unit EIC Code for Conrad Energy Trading Winchester Battery" ;
+    cim:IdentifiedObject.mRID "48W00000WNCHB-19" ;
+    cim:IdentifiedObject.name "WINCHESTER" ;
+    cim:Names.name "Generation Unit",
+        "WNCHB-1" ;
+    dcterms:identifier "urn:eic:48W00000WNCHB-19" ;
+    skos:altLabel "WNCHB-1" ;
+    skos:definition "Unit EIC Code for Conrad Energy Trading Winchester Battery"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "WINCHESTER" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

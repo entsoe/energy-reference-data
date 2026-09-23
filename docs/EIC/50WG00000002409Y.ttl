@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002409Y" ;
-    cim:IdentifiedObject.name "STORAVATG1 HYDRO" ;
+    cim:IdentifiedObject.name "STORAVATG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STORAVATG1_" ;
+        "NO-STORAVATG1" ;
     dcterms:identifier "urn:eic:50WG00000002409Y" ;
-    skos:altLabel "NO-STORAVATG1_" ;
+    skos:altLabel "NO-STORAVATG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STORAVATG1 HYDRO" ;
+    skos:prefLabel "STORAVATG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

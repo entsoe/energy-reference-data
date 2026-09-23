@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000000733T</dcterms:identifier>
-    <skos:prefLabel>TBO RKA</skos:prefLabel>
-    <skos:altLabel>NO-TBO_RKA</skos:altLabel>
+    <skos:prefLabel>Tjeldbergodden</skos:prefLabel>
+    <skos:altLabel>NO-TJELDBER_V01</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000000733T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TBO RKA</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TBO_RKA</cim:Names.name>
+    <cim:IdentifiedObject.name>Tjeldbergodden</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-TJELDBER_V01</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

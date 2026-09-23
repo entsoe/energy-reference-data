@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:30XROENELMUNT--I",
-    "@skos:prefLabel": "ENEL ENERGIE MUNTENIA",
+    "@skos:prefLabel": "PPC ENERGIE MUNTENIA",
     "@skos:altLabel": "RO_ENELMUNTENIA",
     "@cim:IdentifiedObject.mRID": "30XROENELMUNT--I",
-    "@cim:IdentifiedObject.name": "ENEL ENERGIE MUNTENIA",
+    "@cim:IdentifiedObject.name": "PPC ENERGIE MUNTENIA",
     "@cim:Names.name": [
         "RO_ENELMUNTENIA",
         "RO24387371",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-30",
+    "@cim:DateAndOrTime.date": "2024-04-02",
     "@schema:vatID": "RO24387371",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

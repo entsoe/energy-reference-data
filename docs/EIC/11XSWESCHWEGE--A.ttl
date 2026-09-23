@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-03-24" ;
+    cim:DateAndOrTime.date "2026-05-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XSWESCHWEGE--A" ;
     cim:IdentifiedObject.name "Stadtwerke Eschwege GmbH" ;
     cim:Names.name "Balance Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:11XSWESCHWEGE--A" ;
     schema1:vatID "DE219098160" ;
     skos:altLabel "SW_ESCHWEGE" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Eschwege GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

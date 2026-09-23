@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-09-09" ;
+    cim:DateAndOrTime.date "2026-03-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XAECLM-1234-13" ;
-    cim:IdentifiedObject.name "ACCIONA EÓLICA DE CASTILLA LA MANCHA, S.L." ;
+    cim:IdentifiedObject.name "OPDENERGY EÓLICA DE CASTILLA LA MANCHA, S.L." ;
     cim:Names.name "AECLM",
         "ESB84425073",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XAECLM-1234-13" ;
     schema1:vatID "ESB84425073" ;
     skos:altLabel "AECLM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ACCIONA EÓLICA DE CASTILLA LA MANCHA, S.L." ;
+    skos:prefLabel "OPDENERGY EÓLICA DE CASTILLA LA MANCHA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

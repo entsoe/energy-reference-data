@@ -13,17 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:11XTNG-WASSER--3",
     "@skos:prefLabel": "TransnetBW GmbH",
-    "@skos:altLabel": "TNG-WASSER",
+    "@skos:altLabel": "TNG_WASSER",
     "@cim:IdentifiedObject.mRID": "11XTNG-WASSER--3",
     "@cim:IdentifiedObject.name": "TransnetBW GmbH",
     "@cim:Names.name": [
-        "TNG-WASSER",
+        "TNG_WASSER",
         "DE191008872",
-        "Balance Group"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-20",
+    "@cim:DateAndOrTime.date": "2024-12-02",
     "@schema:vatID": "DE191008872",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

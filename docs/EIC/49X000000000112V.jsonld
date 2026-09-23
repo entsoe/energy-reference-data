@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/49X000000000112V",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:49X000000000112V",
+    "@skos:prefLabel": "Jump Trading Global Ltd.",
+    "@skos:altLabel": "JUMP_GLOBAL",
+    "@cim:IdentifiedObject.mRID": "49X000000000112V",
+    "@cim:IdentifiedObject.name": "Jump Trading Global Ltd.",
+    "@cim:Names.name": [
+        "JUMP_GLOBAL",
+        "5493003WYICJ5SPYLM73",
+        "Capacity Trader"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-01-13",
+    "@schema:vatID": "5493003WYICJ5SPYLM73",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

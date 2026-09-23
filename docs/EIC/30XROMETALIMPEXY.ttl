@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROMETALIMPEXY" ;
     cim:IdentifiedObject.name "S.C. METALIMPEX S.A." ;
     cim:Names.name "METALIMPEX",
-        "Valid EIC Function needed" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:30XROMETALIMPEXY" ;
     skos:altLabel "METALIMPEX" ;
     skos:definition "Trader"@en ;

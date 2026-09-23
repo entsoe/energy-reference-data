@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000172R",
-    "@skos:prefLabel": "S Einangsm 132 T3 Forbruk",
-    "@skos:altLabel": "NO-EINANGSM132",
+    "@skos:prefLabel": "S Einangsm 22  T3 Forbruk",
+    "@skos:altLabel": "NO-EINANGSM22",
     "@cim:IdentifiedObject.mRID": "50WC00000000172R",
-    "@cim:IdentifiedObject.name": "S Einangsm 132 T3 Forbruk",
+    "@cim:IdentifiedObject.name": "S Einangsm 22  T3 Forbruk",
     "@cim:Names.name": [
-        "NO-EINANGSM132",
+        "NO-EINANGSM22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

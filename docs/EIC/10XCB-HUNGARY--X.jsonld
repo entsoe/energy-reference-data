@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:10XCB-HUNGARY--X",
     "@skos:prefLabel": "MAVIR - Control Block Operator Hungary",
     "@skos:altLabel": "CB-HUNGARY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Control Block"
-    },
     "@cim:IdentifiedObject.mRID": "10XCB-HUNGARY--X",
     "@cim:IdentifiedObject.name": "MAVIR - Control Block Operator Hungary",
     "@cim:Names.name": [
         "CB-HUNGARY",
         "HU12550753",
-        "Control Block"
+        "System Operator"
     ],
-    "@cim:IdentifiedObject.description": "Control Block",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-02-14",
+    "@cim:DateAndOrTime.date": "2024-10-21",
     "@schema:vatID": "HU12550753",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

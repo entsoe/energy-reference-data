@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XWELSSTROM-AED" ;
     cim:IdentifiedObject.name "Wels Strom GmbH" ;
-    cim:Names.name "Balance Group",
-        "EWERKWELSAG-AGLE" ;
+    cim:Names.name "EWERKWELSAG-AGLE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:14XWELSSTROM-AED" ;
     skos:altLabel "EWERKWELSAG-AGLE" ;
     skos:definition "Balance Group"@en ;

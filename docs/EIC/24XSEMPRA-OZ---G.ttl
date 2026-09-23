@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24XSEMPRA-OZ---G" ;
     cim:IdentifiedObject.name "RBS Sempra Energy Europe s.r.o.-organizacna zlozka" ;
     cim:Names.name "SEMPRA-OZ",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24XSEMPRA-OZ---G" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "SEMPRA-OZ" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

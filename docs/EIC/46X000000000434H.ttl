@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000434H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000434H" ;
+    cim:IdentifiedObject.name "Snackis AB" ;
+    cim:Names.name "Energy Supplier",
+        "SE559411411701",
+        "SNACKIS_AB" ;
+    dcterms:identifier "urn:eic:46X000000000434H" ;
+    schema1:vatID "SE559411411701" ;
+    skos:altLabel "SNACKIS_AB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Snackis AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002648U" ;
     cim:IdentifiedObject.name "S Skjerka 110 NS Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-SKJERKA132NSK" ;
+        "NO-SKJERKA132NS" ;
     dcterms:identifier "urn:eic:50TL00000002648U" ;
-    skos:altLabel "NO-SKJERKA132NSK" ;
+    skos:altLabel "NO-SKJERKA132NS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Skjerka 110 NS Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

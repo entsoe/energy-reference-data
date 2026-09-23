@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardAreaTypeList">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
+    <skos:prefLabel>StandardAreaTypeList</skos:prefLabel>
+    <dcterms:identifier>ET0013</dcterms:identifier>
+    <skos:definition xml:lang="en">The coded identification of the type of area or domain.</skos:definition>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A01">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A01</dcterms:identifier>
+    <skos:prefLabel>Bidding Zone</skos:prefLabel>
+    <skos:definition xml:lang="en">A Bidding Zone (BZ) is the largest geographical area within which market participants are able to exchange energy without capacity allocation.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A02">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A02</dcterms:identifier>
+    <skos:prefLabel>Metering Grid Area</skos:prefLabel>
+    <skos:definition xml:lang="en">A Metering Grid Area (MGA) is a physical area where consumption, production and exchange can be measured. It is delimited by the placement of meters for continuous measurement for input to, and withdrawal from the area. 
+&lt;b&gt;Additional information:&lt;/b&gt;
+It can be used to establish volumes that cannot be measured such as network losses.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A03">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A03</dcterms:identifier>
+    <skos:prefLabel>Capacity Calculation Region</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+The Capacity Calculation Region is the geographic area in which coordinated capacity calculation is applied. 
+Based on: Consolidated text: Commission Regulation (EU) 2015/1222. 
+&lt;b&gt;Additional information:&lt;/b&gt; 
+The transmission capacity between Bidding Zones, included in the Capacity Calculation Region, is given to the Balance Responsible Parties through an implicit capacity allocation process or through an explicit allocation auction.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A04">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A04</dcterms:identifier>
+    <skos:prefLabel>Control Area</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A coherent part of the interconnected system, operated by a single System Operator and shall include connected physical loads and/or generation units if any. 
+Source: Consolidated text: Commission Regulation (EU) No 543/2013.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A05">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A05</dcterms:identifier>
+    <skos:prefLabel>Coordination Center Zone</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+The composition of a number of LFC Blocks under the responsibility of the same Coordination Centre Operator. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A06">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A06</dcterms:identifier>
+    <skos:prefLabel>FRR Sharing Region</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A set of LFC Areas of the same synchronous area, but not necessarily the same Bidding Zone. All LFC Areas of a FRR Sharing Region share a certain amount of FRR with each other.  
+Based on: Consolidated text: Commission Regulation (EU) 2017/1485, Article 168.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A07">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A07</dcterms:identifier>
+    <skos:prefLabel>ITC</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A cross border tariff market is composed of a group of System Operators that accept a common set of rules for the invoicing of energy flows over the border. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A08">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A08</dcterms:identifier>
+    <skos:prefLabel>LFC Area</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC Areas, operated by one or more TSOs fulfilling the obligations of load-frequency control. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A09">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A09</dcterms:identifier>
+    <skos:prefLabel>LFC Block</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC Blocks, consisting of one or more LFC Areas, operated by one or more TSOs fulfilling the obligations of load-frequency control. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485 </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A10">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A10</dcterms:identifier>
+    <skos:prefLabel>Local Market Area</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A Market Area where there is no transmission capacity restrictions between the Market Balance Areas. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A11">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A11</dcterms:identifier>
+    <skos:prefLabel>Market Area</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+An area made up of several Market Balance Areas interconnected through AC or DC links. Trade is allowed between different Market Balance Areas with common market rules for trading across the interconnection. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A12">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A12</dcterms:identifier>
+    <skos:prefLabel>Outage Coordination Region</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A combination of Control Areas for which all the System Operators directly involved define procedures to monitor and where necessary, coordinate the availability status of relevant assets in all timeframes. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A13">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A13</dcterms:identifier>
+    <skos:prefLabel>R G C E Interconnected Group</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+The composition of a number of Coordination Centre Zones, operating under RGCE (Regional Group Continental Europe) rules, where the exchange and compensation programmes within the zone must sum up to zero. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A14">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A14</dcterms:identifier>
+    <skos:prefLabel>Regional Outage Area</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A combination of control areas for which TSOs implement outage coordination procedure. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A15">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A15</dcterms:identifier>
+    <skos:prefLabel>Scheduling Area</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+An area within which the TSOs' obligations regarding scheduling apply due to operational or organisational needs. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485. 
+&lt;b&gt;Additional information:  &lt;/b&gt;
+This area consists of one or more Metering Grid Areas with common market rules for which the settlement responsible party carries out an imbalance settlement and which has the same price for imbalance. 
+This covers both Imbalance Area and Imbalance Price Area from the Consolidated text: Commission Regulation (EU) 2017/2195. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A16">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A16</dcterms:identifier>
+    <skos:prefLabel>Synchronous Area</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+An area covered by synchronously interconnected LFC blocks. 
+Based on: Commission Regulation (EU) 2016/631, Art. 2 - Definitions. 
+&lt;b&gt;Additional information&lt;/b&gt;:  
+Examples of Synchronous Areas are Continental Europe, Great Britain, Ireland-Northern Ireland, Nordic and the power systems of Lithuania, Latvia and Estonia, together referred to as ‘Baltic’ which are part of a wider synchronous area (IPS/UPS). </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A17">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A17</dcterms:identifier>
+    <skos:prefLabel>Accounting Point</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A domain under balance responsibility where Energy Supplier change can take place and for which commercial business processes are defined.  
+&lt;b&gt;Additional information: &lt;/b&gt;
+This is a type of Metering Point. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A18">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A18</dcterms:identifier>
+    <skos:prefLabel>Connection Point</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+The interface at which the power generating module, demand facility, distribution system or HVDC system is connected to a transmission system, offshore network, distribution system, including closed distribution systems, or HVDC system, as identified in the connection agreement. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A19">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A19</dcterms:identifier>
+    <skos:prefLabel>Exchange Point</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+A domain for establishing energy exchange between two Metering Grid Areas.  
+&lt;b&gt;Additional information: &lt;/b&gt;
+This is a type of Metering Point.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A20">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A20</dcterms:identifier>
+    <skos:prefLabel>Metering Point</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+An entity where energy products are measured or computed. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A21">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A21</dcterms:identifier>
+    <skos:prefLabel>Virtual Interconnection Points</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Two or more interconnection points which connect the same two adjacent entry-exit systems, integrated together for the purposes of providing a single capacity service. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A22">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A22</dcterms:identifier>
+    <skos:prefLabel>Virtual Trading Points</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Virtual Trading Point: Trading location where (gas) energy can be traded between network users (Shippers) themselves and/or with traders. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A23">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A23</dcterms:identifier>
+    <skos:prefLabel>AC/DC Convertor</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+AC/DC converters are electrical circuits that transform alternating current (AC) into direct current (DC) and vice versa. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A24">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A24</dcterms:identifier>
+    <skos:prefLabel>Busbar Coupler</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Bus coupler is a device which is used to couple one bus to the other without any interruption in power supply and without creating hazardous arcs. Bus coupler is a breaker used to couple two busbars in order to perform maintenance on other circuit breakers associated with that busbar. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A25">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A25</dcterms:identifier>
+    <skos:prefLabel>Compressor Station</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Facility in the gas transmission system that allows the control of the gas flow and to increase the pressure in the high pressure pipe lines. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A26">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A26</dcterms:identifier>
+    <skos:prefLabel>Corridor</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Set of two or more tielines, describing a multi-circuit connection. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A27">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A27</dcterms:identifier>
+    <skos:prefLabel>Flow Control Station</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Facility in the gas transmission system that allows the regulation of pressure and the gas flow in the high pressure pipe lines. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A28">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A28</dcterms:identifier>
+    <skos:prefLabel>Gas Treatment Facility</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+
+Facility in the gas transmission system that allows processing of the gas in order to meet the required physical and chemical specifications. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A29">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A29</dcterms:identifier>
+    <skos:prefLabel>Internal Line</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A transmission line that does not cross different areas. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A30">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A30</dcterms:identifier>
+    <skos:prefLabel>Internal Tie-Line</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Line is a line between two scheduling areas within the same bidding zone. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A31">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A31</dcterms:identifier>
+    <skos:prefLabel>Odorization Facility</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Facility in the gas transmission system that allows the addition of odorant to natural gas for leak detection awareness. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A32">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A32</dcterms:identifier>
+    <skos:prefLabel>Transformer</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A Static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A33">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A33</dcterms:identifier>
+    <skos:prefLabel>Endpoint</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Unique identification of Endpoint within single ECP network. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A34">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A34</dcterms:identifier>
+    <skos:prefLabel>IT-system</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Common IT system for market parties. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A35">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A35</dcterms:identifier>
+    <skos:prefLabel>IT-topic</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+An IT-topic is a functional address, which allows a sender to address multiple recipients at the same time. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A36">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A36</dcterms:identifier>
+    <skos:prefLabel>Location</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+An endpoint, or IT-system. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A37">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A37</dcterms:identifier>
+    <skos:prefLabel>Busbar</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A busbar is a system of electrical conductors in a generating or receiving substation on which power is concentrated for distribution. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A38">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A38</dcterms:identifier>
+    <skos:prefLabel>Dynamic reactive power device</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A dynamic reactive power device is an equipment capable of measuring the reactive power consumed in the phase in which it is installed and providing the reactive power required in a gradual way, from zero to maximum capacitive and/or from zero to the maximum inductive. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A39">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A39</dcterms:identifier>
+    <skos:prefLabel>Harmonic Filter</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+A harmonic filter reduces the harmonic currents flowing in the power system from the source and thereby reduce the harmonic voltage distortion in the system. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A40">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A40</dcterms:identifier>
+    <skos:prefLabel>Substation</skos:prefLabel>
+    <skos:definition xml:lang="en">EIC definition: 
+Facility equipment that steps up or steps down the voltage in utility power lines. Voltage is stepped up where power is sent through long distance transmission lines, and stepped down where the power is to enter local distribution lines. They can be classified as normal outside substation, armoured substation and underground substation. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAreaTypeList/A41">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAreaTypeList"/>
+    <dcterms:identifier>A41</dcterms:identifier>
+    <skos:prefLabel>Bidding Zone Border</skos:prefLabel>
+    <skos:definition xml:lang="en">HEMRM definition: 
+Defines the aggregated connection capacity between two Bidding Zones. 
+A market area (Which defines the aggregated connection capacity between two Bidding Zones) where the transmission capacity between the Bidding Zones is given to the Balance Responsible Parties according to rules carried out by a Transmission Capacity Allocator. Trade between Bidding Zones is carried out on a bilateral or unilateral basis. </skos:definition>
+  </skos:Concept>
+</rdf:RDF>

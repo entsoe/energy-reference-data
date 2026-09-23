@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:28X-INTERENERGO8",
-    "@skos:prefLabel": "Interenergo d.o.o.",
-    "@skos:altLabel": "INTERENERGO",
+    "@skos:prefLabel": "Kelag International Ljubljana d.o.o. ",
+    "@skos:altLabel": "KELAG-INT-LJ",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "28X-INTERENERGO8",
-    "@cim:IdentifiedObject.name": "Interenergo d.o.o.",
+    "@cim:IdentifiedObject.name": "Kelag International Ljubljana d.o.o. ",
     "@cim:Names.name": [
-        "INTERENERGO",
+        "KELAG-INT-LJ",
         "SI99144590",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-12-30",
+    "@cim:DateAndOrTime.date": "2026-01-14",
     "@schema:vatID": "SI99144590",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000480G",
-    "@skos:prefLabel": "S Moflåt   11  Forbruk",
-    "@skos:altLabel": "NO-MOFLAT11",
+    "@skos:prefLabel": "S Moflåt   11  T3 Forbruk",
+    "@skos:altLabel": "NO-MOFLAT11T3",
     "@cim:IdentifiedObject.mRID": "50WC00000000480G",
-    "@cim:IdentifiedObject.name": "S Moflåt   11  Forbruk",
+    "@cim:IdentifiedObject.name": "S Moflåt   11  T3 Forbruk",
     "@cim:Names.name": [
-        "NO-MOFLAT11",
+        "NO-MOFLAT11T3",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

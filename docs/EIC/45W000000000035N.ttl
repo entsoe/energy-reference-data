@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-10-21" ;
+    cim:DateAndOrTime.date "2026-01-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45W000000000035N" ;
     cim:IdentifiedObject.name "Fynsværket Blok 7" ;
     cim:Names.name "FYNSVAERKET_7",
-        "Generation Unit" ;
+        "Production Unit" ;
     dcterms:identifier "urn:eic:45W000000000035N" ;
     skos:altLabel "FYNSVAERKET_7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

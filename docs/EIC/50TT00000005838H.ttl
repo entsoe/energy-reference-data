@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005838H" ;
-    cim:IdentifiedObject.name "M Svabo    RT14 Transformator" ;
-    cim:Names.name "NO-SVABO___RT14",
+    cim:IdentifiedObject.name "N Svabo    RT14 Transformator" ;
+    cim:Names.name "NO-SVABORT14",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005838H" ;
-    skos:altLabel "NO-SVABO___RT14" ;
+    skos:altLabel "NO-SVABORT14" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Svabo    RT14 Transformator" ;
+    skos:prefLabel "N Svabo    RT14 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

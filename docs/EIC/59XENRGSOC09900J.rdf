@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:59XENRGSOC09900J</dcterms:identifier>
-    <skos:prefLabel>59XENRGSOC09900J</skos:prefLabel>
+    <skos:prefLabel>ENERGIA SOCIALE</skos:prefLabel>
     <skos:altLabel>ENERGIASOCIALE</skos:altLabel>
     <cim:IdentifiedObject.mRID>59XENRGSOC09900J</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>59XENRGSOC09900J</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENERGIA SOCIALE</cim:IdentifiedObject.name>
     <cim:Names.name>ENERGIASOCIALE</cim:Names.name>
     <cim:Names.name>IT14311741004</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-12-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-20</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT14311741004</schema:vatID>

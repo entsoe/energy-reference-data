@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-DAGDASES01KZ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-DAGDASES01KZ" ;
+    cim:IdentifiedObject.name "Saules parks \"Dagda\"" ;
+    cim:Names.name "DAGDASES01KZ",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:43W-DAGDASES01KZ" ;
+    skos:altLabel "DAGDASES01KZ" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Saules parks \"Dagda\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

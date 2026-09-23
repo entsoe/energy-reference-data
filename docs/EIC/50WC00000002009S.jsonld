@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002009S",
-    "@skos:prefLabel": "Noble-Clean",
-    "@skos:altLabel": "NO-NOBLE-CLEAN",
+    "@skos:prefLabel": "N Hungeren 2   L1  Forbruk",
+    "@skos:altLabel": "NO-HUNGERN2",
     "@cim:IdentifiedObject.mRID": "50WC00000002009S",
-    "@cim:IdentifiedObject.name": "Noble-Clean",
+    "@cim:IdentifiedObject.name": "N Hungeren 2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-NOBLE-CLEAN",
+        "NO-HUNGERN2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWETTL-EXRZ-N",
     "@skos:prefLabel": "Stadtwerke Ettlingen GmbH",
     "@skos:altLabel": "SWETTL_EXRZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWETTL-EXRZ-N",
     "@cim:IdentifiedObject.name": "Stadtwerke Ettlingen GmbH",
     "@cim:Names.name": [
         "SWETTL_EXRZ",
         "DE203869511",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-10-10",
+    "@cim:DateAndOrTime.date": "2024-12-18",
     "@schema:vatID": "DE203869511",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

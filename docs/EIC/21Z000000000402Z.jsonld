@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000402Z",
-    "@skos:prefLabel": "Fronhofen",
+    "@skos:prefLabel": "Speicher Fronhofen",
     "@skos:altLabel": "SP_FRONHOFEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point With Gas Storage"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000402Z",
-    "@cim:IdentifiedObject.name": "Fronhofen",
+    "@cim:IdentifiedObject.name": "Speicher Fronhofen",
     "@cim:Names.name": [
         "SP_FRONHOFEN",
-        "Valid EIC Function needed"
+        "Accounting Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point With Gas Storage",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

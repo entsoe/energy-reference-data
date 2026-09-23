@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000000442-Y",
     "@skos:prefLabel": "KW Linth Limmern",
     "@skos:altLabel": "KLL-LIMMERN02-GE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000000442-Y",
     "@cim:IdentifiedObject.name": "KW Linth Limmern",
     "@cim:Names.name": [
         "KLL-LIMMERN02-GE",
-        "Generation"
+        "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-26",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002567U" ;
     cim:IdentifiedObject.name "S 420 Honna-Arendal" ;
     cim:Names.name "Internal Line",
-        "NO-HONNAARENDAL" ;
+        "NO-420HONNAAREND" ;
     dcterms:identifier "urn:eic:50TL00000002567U" ;
-    skos:altLabel "NO-HONNAARENDAL" ;
+    skos:altLabel "NO-420HONNAAREND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 420 Honna-Arendal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

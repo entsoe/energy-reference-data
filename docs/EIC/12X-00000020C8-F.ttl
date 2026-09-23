@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020C8-F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020C8-F" ;
+    cim:IdentifiedObject.name "Legacy Shift AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "CHE-173.013.513",
+        "LEGACYSHIFT-BRP" ;
+    dcterms:identifier "urn:eic:12X-00000020C8-F" ;
+    schema1:vatID "CHE-173.013.513" ;
+    skos:altLabel "LEGACYSHIFT-BRP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Legacy Shift AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

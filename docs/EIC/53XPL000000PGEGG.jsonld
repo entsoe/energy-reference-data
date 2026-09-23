@@ -12,19 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000PGEGG",
-    "@skos:prefLabel": "PGE GRYFINO 2050 Sp. z o.o.",
-    "@skos:altLabel": "PGE_GRYFINO_2050",
+    "@skos:prefLabel": "PGE Gryfino Dolna Odra Spółka z Ograniczoną Odpowiedzialnością",
+    "@skos:altLabel": "PGE_GRYFINO",
     "@cim:IdentifiedObject.mRID": "53XPL000000PGEGG",
-    "@cim:IdentifiedObject.name": "PGE GRYFINO 2050 Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "PGE Gryfino Dolna Odra Spółka z Ograniczoną Odpowiedzialnością",
     "@cim:Names.name": [
-        "PGE_GRYFINO_2050",
+        "PGE_GRYFINO",
+        "A00199913.PL",
         "PL7010438799",
         "Consumer",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-07-28",
+    "@cim:DateAndOrTime.date": "2025-02-03",
     "@schema:vatID": "PL7010438799",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

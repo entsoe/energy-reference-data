@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000021390" ;
     cim:IdentifiedObject.name "OVREROSSG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-OVREROSSG101_" ;
+        "NO-OVREROSSG101" ;
     dcterms:identifier "urn:eic:50WG000000021390" ;
-    skos:altLabel "NO-OVREROSSG101_" ;
+    skos:altLabel "NO-OVREROSSG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "OVREROSSG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

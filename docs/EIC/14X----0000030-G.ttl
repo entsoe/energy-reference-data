@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Supplier" ;
     cim:IdentifiedObject.mRID "14X----0000030-G" ;
     cim:IdentifiedObject.name "McGas GmbH" ;
     cim:Names.name "ATU70702108",
-        "MCGAS_V",
-        "Valid EIC Function needed" ;
+        "Balance Responsible Party",
+        "MCGAS_V" ;
     dcterms:identifier "urn:eic:14X----0000030-G" ;
     schema1:vatID "ATU70702108" ;
     skos:altLabel "MCGAS_V" ;

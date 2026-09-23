@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000002007W</dcterms:identifier>
-    <skos:prefLabel>Elkem-Salten</skos:prefLabel>
-    <skos:altLabel>NO-ELKEM-SALTEN</skos:altLabel>
+    <skos:prefLabel>N Strinda  2   L1 Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-STRINDA2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000002007W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Elkem-Salten</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-ELKEM-SALTEN</cim:Names.name>
+    <cim:IdentifiedObject.name>N Strinda  2   L1 Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-STRINDA2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002408D" ;
-    cim:IdentifiedObject.name "S Hol 3 66 AL X" ;
+    cim:IdentifiedObject.name "S Hol 3    66  AL X" ;
     cim:Names.name "Internal Line",
-        "NO-HOL366ALX" ;
+        "NO-HOL_366AL_X" ;
     dcterms:identifier "urn:eic:50TL00000002408D" ;
-    skos:altLabel "NO-HOL366ALX" ;
+    skos:altLabel "NO-HOL_366AL_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hol 3 66 AL X" ;
+    skos:prefLabel "S Hol 3    66  AL X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

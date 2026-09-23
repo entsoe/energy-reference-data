@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-04-26" ;
+    cim:DateAndOrTime.date "2026-02-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X0000000004P62" ;
-    cim:IdentifiedObject.name "LUCIERNAGA ENERGIA SL" ;
+    cim:IdentifiedObject.name "SOMNI ENERGIA GLOBAL, S.L." ;
     cim:Names.name "ESB86126562",
         "LUCIE",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESB86126562" ;
     skos:altLabel "LUCIE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LUCIERNAGA ENERGIA SL" ;
+    skos:prefLabel "SOMNI ENERGIA GLOBAL, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

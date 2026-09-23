@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XFEDERALMOGULF",
     "@skos:prefLabel": "Federal-Mogul Burscheid GmbH",
     "@skos:altLabel": "FEDERALMOGUL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XFEDERALMOGULF",
     "@cim:IdentifiedObject.name": "Federal-Mogul Burscheid GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE811547835",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-10-25",
+    "@cim:DateAndOrTime.date": "2025-04-22",
     "@schema:vatID": "DE811547835",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

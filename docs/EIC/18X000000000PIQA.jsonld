@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/18X000000000PIQA",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:18X000000000PIQA",
+    "@skos:prefLabel": "EISSL EOLICA SL",
+    "@skos:altLabel": "ES-POBLA1Y2",
+    "@cim:IdentifiedObject.mRID": "18X000000000PIQA",
+    "@cim:IdentifiedObject.name": "EISSL EOLICA SL",
+    "@cim:Names.name": [
+        "ES-POBLA1Y2",
+        "ESB64474166",
+        "Production Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-12-17",
+    "@schema:vatID": "ESB64474166",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

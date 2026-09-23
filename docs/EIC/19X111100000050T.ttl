@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000050T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000050T" ;
+    cim:IdentifiedObject.name "RRSP 99 spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "PL1133019418",
+        "Producer",
+        "RRSP_99" ;
+    dcterms:identifier "urn:eic:19X111100000050T" ;
+    schema1:vatID "PL1133019418" ;
+    skos:altLabel "RRSP_99" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RRSP 99 spółka z ograniczoną odpowiedzialnością" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

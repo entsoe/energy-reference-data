@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-10" ;
+    cim:DateAndOrTime.date "2024-11-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-0000002090-E" ;
-    cim:IdentifiedObject.name "DXT Energy Resources SA" ;
+    cim:IdentifiedObject.name "Aroha Agri Resources SA" ;
     cim:Names.name "CHE251062188",
         "Capacity Trader",
         "DXT-ENERGY-SA-ST" ;
@@ -18,6 +18,6 @@
     schema1:vatID "CHE251062188" ;
     skos:altLabel "DXT-ENERGY-SA-ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DXT Energy Resources SA" ;
+    skos:prefLabel "Aroha Agri Resources SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

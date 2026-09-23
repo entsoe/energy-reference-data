@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006793U",
-    "@skos:prefLabel": "Kozienice-Lublin Systemowa",
+    "@skos:prefLabel": "400kV Kozienice-Lublin",
     "@skos:altLabel": "F001",
     "@cim:IdentifiedObject.mRID": "19T110000006793U",
-    "@cim:IdentifiedObject.name": "Kozienice-Lublin Systemowa",
+    "@cim:IdentifiedObject.name": "400kV Kozienice-Lublin",
     "@cim:Names.name": [
         "F001",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

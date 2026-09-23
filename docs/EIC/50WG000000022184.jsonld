@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000022184",
     "@skos:prefLabel": "ABJORA  G102 HYDRO",
-    "@skos:altLabel": "NO-ABJORA__G102_",
+    "@skos:altLabel": "NO-ABJORAG102",
     "@cim:IdentifiedObject.mRID": "50WG000000022184",
     "@cim:IdentifiedObject.name": "ABJORA  G102 HYDRO",
     "@cim:Names.name": [
-        "NO-ABJORA__G102_",
+        "NO-ABJORAG102",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

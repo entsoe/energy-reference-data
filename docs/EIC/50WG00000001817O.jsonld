@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001817O",
     "@skos:prefLabel": "SYKKYLVEG104 HYDRO",
-    "@skos:altLabel": "NO-SYKKYLVEG104_",
+    "@skos:altLabel": "NO-SYKKYLVEG104",
     "@cim:IdentifiedObject.mRID": "50WG00000001817O",
     "@cim:IdentifiedObject.name": "SYKKYLVEG104 HYDRO",
     "@cim:Names.name": [
-        "NO-SYKKYLVEG104_",
+        "NO-SYKKYLVEG104",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

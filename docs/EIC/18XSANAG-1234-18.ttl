@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-11-23" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18XSANAG-1234-18" ;
     cim:IdentifiedObject.name "EÓLICA DE SANABRIA, S.L." ;
     cim:Names.name "ESB82636713",
-        "Production Responsible party",
+        "Production Responsible Party",
         "SANAG" ;
     dcterms:identifier "urn:eic:18XSANAG-1234-18" ;
     schema1:vatID "ESB82636713" ;
     skos:altLabel "SANAG" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EÓLICA DE SANABRIA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000010207" ;
-    cim:IdentifiedObject.name "S 300 Fana-Lille Sotra" ;
+    cim:IdentifiedObject.name "S 300 Fana-Breivik" ;
     cim:Names.name "Internal Line",
-        "NO-FANALILLESOTR" ;
+        "NO-300FANABREIVI" ;
     dcterms:identifier "urn:eic:50TL000000010207" ;
-    skos:altLabel "NO-FANALILLESOTR" ;
+    skos:altLabel "NO-300FANABREIVI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 300 Fana-Lille Sotra" ;
+    skos:prefLabel "S 300 Fana-Breivik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

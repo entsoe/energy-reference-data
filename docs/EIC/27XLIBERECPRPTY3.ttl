@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27XLIBERECPRPTY3" ;
     cim:IdentifiedObject.name "Liberec Property s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ04607295",
-        "LIBERECPRPTY" ;
+        "LIBERECPRPTY",
+        "cz04607295" ;
     dcterms:identifier "urn:eic:27XLIBERECPRPTY3" ;
-    schema1:vatID "CZ04607295" ;
+    schema1:vatID "cz04607295" ;
     skos:altLabel "LIBERECPRPTY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Liberec Property s.r.o." ;

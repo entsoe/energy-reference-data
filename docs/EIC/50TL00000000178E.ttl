@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000178E" ;
     cim:IdentifiedObject.name "S 132 Brevik-Langesund" ;
     cim:Names.name "Internal Line",
-        "NO-BREVIKLANGESU" ;
+        "NO-132BREVIKLANG" ;
     dcterms:identifier "urn:eic:50TL00000000178E" ;
-    skos:altLabel "NO-BREVIKLANGESU" ;
+    skos:altLabel "NO-132BREVIKLANG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Brevik-Langesund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000363L",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000363L",
+    "@skos:prefLabel": "HD888CAP LIMITED",
+    "@skos:altLabel": "CAPENHURST",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "EIC X or party code allocated to Constantine Energy for the Capenhurst asset"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000363L",
+    "@cim:IdentifiedObject.name": "HD888CAP LIMITED",
+    "@cim:Names.name": [
+        "CAPENHURST",
+        "GB317417217",
+        "Producer",
+        "Storage System Operator"
+    ],
+    "@cim:IdentifiedObject.description": "EIC X or party code allocated to Constantine Energy for the Capenhurst asset",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2023-12-13",
+    "@schema:vatID": "GB317417217",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

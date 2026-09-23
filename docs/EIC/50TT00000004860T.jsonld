@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004860T",
-    "@skos:prefLabel": "M Giskemo  T1 Transformator",
-    "@skos:altLabel": "NO-GISKEMO_T1",
+    "@skos:prefLabel": "N Giskemo  T1 Transformator",
+    "@skos:altLabel": "NO-GISKEMOT1",
     "@cim:IdentifiedObject.mRID": "50TT00000004860T",
-    "@cim:IdentifiedObject.name": "M Giskemo  T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Giskemo  T1 Transformator",
     "@cim:Names.name": [
-        "NO-GISKEMO_T1",
+        "NO-GISKEMOT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

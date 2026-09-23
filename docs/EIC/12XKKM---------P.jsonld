@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "BKW FMB Energie AG",
     "@cim:Names.name": [
         "KKM-ST",
-        "CH120839",
-        "Balance Group"
+        "CHE-103.258.498",
+        "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2003-08-17",
-    "@schema:vatID": "CH120839",
+    "@cim:DateAndOrTime.date": "2024-05-16",
+    "@schema:vatID": "CHE-103.258.498",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,8 +13,8 @@
     cim:IdentifiedObject.mRID "11XMPMBKWHANDELY" ;
     cim:IdentifiedObject.name "BKW FMB Energie AG" ;
     cim:Names.name "BKW-MPM",
-        "Balance Group",
-        "CH120839" ;
+        "CH120839",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMPMBKWHANDELY" ;
     schema1:vatID "CH120839" ;
     skos:altLabel "BKW-MPM" ;

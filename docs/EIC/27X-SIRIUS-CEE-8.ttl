@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27X-SIRIUS-CEE-8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27X-SIRIUS-CEE-8" ;
+    cim:IdentifiedObject.name "Sirius Energy CEE s.r.o." ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ23364386",
+        "SIRIUS-CEE" ;
+    dcterms:identifier "urn:eic:27X-SIRIUS-CEE-8" ;
+    schema1:vatID "CZ23364386" ;
+    skos:altLabel "SIRIUS-CEE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sirius Energy CEE s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

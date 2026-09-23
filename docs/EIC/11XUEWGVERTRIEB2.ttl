@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUEWGVERTRIEB2" ;
     cim:IdentifiedObject.name "eprimo GMBH" ;
-    cim:Names.name "Balance Group",
-        "DE111607969",
-        "EPRIMO_GMBH" ;
+    cim:Names.name "DE111607969",
+        "EPRIMO_GMBH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUEWGVERTRIEB2" ;
     schema1:vatID "DE111607969" ;
     skos:altLabel "EPRIMO_GMBH" ;

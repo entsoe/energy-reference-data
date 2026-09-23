@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002143N",
-    "@skos:prefLabel": "M 66 Snåsa-Fiskumfoss",
-    "@skos:altLabel": "NO-SNASAFISKUMFO",
+    "@skos:prefLabel": "N 66 Snåsa-Fiskumfoss",
+    "@skos:altLabel": "NO-66SNASAFISKUM",
     "@cim:IdentifiedObject.mRID": "50TL00000002143N",
-    "@cim:IdentifiedObject.name": "M 66 Snåsa-Fiskumfoss",
+    "@cim:IdentifiedObject.name": "N 66 Snåsa-Fiskumfoss",
     "@cim:Names.name": [
-        "NO-SNASAFISKUMFO",
+        "NO-66SNASAFISKUM",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -16,7 +16,10 @@
     "@skos:altLabel": "TOEGINGKWTU15",
     "@cim:IdentifiedObject.mRID": "14WTOEGINKWTU15K",
     "@cim:IdentifiedObject.name": "Töging-KW-TU15",
-    "@cim:Names.name": "TOEGINGKWTU15",
+    "@cim:Names.name": [
+        "TOEGINGKWTU15",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-05-19",

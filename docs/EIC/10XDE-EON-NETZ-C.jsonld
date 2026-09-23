@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "TenneT TSO GmbH",
     "@cim:Names.name": [
         "TTG_DE",
-        "DE191460805",
-        "Balance Responsible Party"
+        "DE815073514",
+        "System Operator"
     ],
     "@cim:IdentifiedObject.description": "Transmission System Operator, Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
-    "@schema:vatID": "DE191460805",
+    "@cim:DateAndOrTime.date": "2024-05-07",
+    "@schema:vatID": "DE815073514",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

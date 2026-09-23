@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50ZHUETHK4XUP21D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50ZHUETHK4XUP21D" ;
+    cim:IdentifiedObject.name "Varanger_Utsjoki" ;
+    cim:Names.name "Metering Point",
+        "NO_VARANGE_UTSJO" ;
+    dcterms:identifier "urn:eic:50ZHUETHK4XUP21D" ;
+    skos:altLabel "NO_VARANGE_UTSJO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Varanger_Utsjoki" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

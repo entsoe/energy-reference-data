@@ -7,20 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-01-11" ;
+    cim:DateAndOrTime.date "2026-01-22" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate " ;
+    cim:IdentifiedObject.description """Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate 
+Update 22.01.2026: On 18 December 2025 DNO Norge AS was merged into Sval Energi AS. Following this, Sval has been renamed to DNO Norge AS. The legal entity and company number remains the same.""" ;
     cim:IdentifiedObject.mRID "23X--230109-SE-2" ;
-    cim:IdentifiedObject.name "Sval Energi AS" ;
-    cim:Names.name "NO996888177MVA",
+    cim:IdentifiedObject.name "DNO Norge AS" ;
+    cim:Names.name "DNO_NORGE",
+        "NO996888177MVA",
         "Network User",
-        "Producer",
-        "SVAL_ENERGI" ;
+        "Producer" ;
     dcterms:identifier "urn:eic:23X--230109-SE-2" ;
     schema1:vatID "NO996888177MVA" ;
-    skos:altLabel "SVAL_ENERGI" ;
-    skos:definition "Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate "@en ;
+    skos:altLabel "DNO_NORGE" ;
+    skos:definition """Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate 
+Update 22.01.2026: On 18 December 2025 DNO Norge AS was merged into Sval Energi AS. Following this, Sval has been renamed to DNO Norge AS. The legal entity and company number remains the same."""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sval Energi AS" ;
+    skos:prefLabel "DNO Norge AS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

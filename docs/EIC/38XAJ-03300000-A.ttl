@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-02-10" ;
+    cim:DateAndOrTime.date "2025-12-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Grid Operator, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "38XAJ-03300000-A" ;
-    cim:IdentifiedObject.name "ANNE SOOJUS AS" ;
-    cim:Names.name "ANNE_SOOJUS",
-        "EE100271810",
+    cim:IdentifiedObject.name "Gren Tartu AS" ;
+    cim:Names.name "10641763",
+        "EE_GREN_TARTU",
         "Grid Operator",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:38XAJ-03300000-A" ;
-    schema1:vatID "EE100271810" ;
-    skos:altLabel "ANNE_SOOJUS" ;
+    schema1:vatID "10641763" ;
+    skos:altLabel "EE_GREN_TARTU" ;
     skos:definition "Grid Operator, Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ANNE SOOJUS AS" ;
+    skos:prefLabel "Gren Tartu AS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

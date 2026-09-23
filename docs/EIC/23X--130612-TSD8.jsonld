@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--130612-TSD8",
-    "@skos:prefLabel": "TrailStone GmbH",
-    "@skos:altLabel": "TRAILSTONE_GMBH",
+    "@skos:prefLabel": "Engelhart CTP GmbH",
+    "@skos:altLabel": "ENGELHART_CTP",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "23X--130612-TSD8",
-    "@cim:IdentifiedObject.name": "TrailStone GmbH",
+    "@cim:IdentifiedObject.name": "Engelhart CTP GmbH",
     "@cim:Names.name": [
-        "TRAILSTONE_GMBH",
+        "ENGELHART_CTP",
         "DE289523572",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-02-14",
+    "@cim:DateAndOrTime.date": "2025-03-17",
     "@schema:vatID": "DE289523572",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

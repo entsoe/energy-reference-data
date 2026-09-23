@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000444K" ;
-    cim:IdentifiedObject.name "M Daltrøa  66  Forbruk" ;
+    cim:IdentifiedObject.name "N Daltrøa  66  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-DALTROA66" ;
+        "NO-DALTROA66L1" ;
     dcterms:identifier "urn:eic:50WC00000000444K" ;
-    skos:altLabel "NO-DALTROA66" ;
+    skos:altLabel "NO-DALTROA66L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Daltrøa  66  Forbruk" ;
+    skos:prefLabel "N Daltrøa  66  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

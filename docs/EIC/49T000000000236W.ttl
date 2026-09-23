@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-03" ;
+    cim:DateAndOrTime.date "2026-05-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000236W" ;
-    cim:IdentifiedObject.name "CFE - Eemshaven Oude Schip W" ;
+    cim:IdentifiedObject.name "CFE - Eemshaven Oude Schip Wit" ;
     cim:Names.name "CFE-EOS380-W",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000236W" ;
     skos:altLabel "CFE-EOS380-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CFE - Eemshaven Oude Schip W" ;
+    skos:prefLabel "CFE - Eemshaven Oude Schip Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

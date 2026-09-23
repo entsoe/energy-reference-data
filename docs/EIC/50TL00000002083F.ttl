@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002083F" ;
-    cim:IdentifiedObject.name "M 66 Rokset-Kjørsvik" ;
+    cim:IdentifiedObject.name "N 66 Rokset-Kjørsvik" ;
     cim:Names.name "Internal Line",
-        "NO-ROKSETKJORSVI" ;
+        "NO-66BRUVOLLROKS" ;
     dcterms:identifier "urn:eic:50TL00000002083F" ;
-    skos:altLabel "NO-ROKSETKJORSVI" ;
+    skos:altLabel "NO-66BRUVOLLROKS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Rokset-Kjørsvik" ;
+    skos:prefLabel "N 66 Rokset-Kjørsvik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

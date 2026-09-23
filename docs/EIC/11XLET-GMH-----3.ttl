@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLET-GMH-----3" ;
     cim:IdentifiedObject.name "Liberal Energy Trading GmbH (3. Bilanzkreis)" ;
-    cim:Names.name "Balance Group",
-        "DE215726363",
-        "LET_GMH" ;
+    cim:Names.name "DE215726363",
+        "LET_GMH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLET-GMH-----3" ;
     schema1:vatID "DE215726363" ;
     skos:altLabel "LET_GMH" ;

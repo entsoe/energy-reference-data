@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000018657",
     "@skos:prefLabel": "Ulefoss/Aall",
-    "@skos:altLabel": "NO-ULEFOSS-AALL",
+    "@skos:altLabel": "NO-ULEFOSSAALL",
     "@cim:IdentifiedObject.mRID": "50WP000000018657",
     "@cim:IdentifiedObject.name": "Ulefoss/Aall",
     "@cim:Names.name": [
-        "NO-ULEFOSS-AALL",
+        "NO-ULEFOSSAALL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

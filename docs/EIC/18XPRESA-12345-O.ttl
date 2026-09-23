@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18XPRESA-12345-O" ;
-    cim:IdentifiedObject.name "PROMOCIÓN Y ESTUDIO DE MINICENTRALES, S.A." ;
+    cim:IdentifiedObject.name "PROMOCIÓN Y ESTUDIO DE MINICENTRALES S.A." ;
     cim:Names.name "ESA78051729",
         "PRESA",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XPRESA-12345-O" ;
     schema1:vatID "ESA78051729" ;
     skos:altLabel "PRESA" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PROMOCIÓN Y ESTUDIO DE MINICENTRALES, S.A." ;
+    skos:prefLabel "PROMOCIÓN Y ESTUDIO DE MINICENTRALES S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

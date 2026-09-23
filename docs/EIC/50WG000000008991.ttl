@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000008991" ;
     cim:IdentifiedObject.name "KVANNVATG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KVANNVATG1___" ;
+        "NO-KVANNVATG1" ;
     dcterms:identifier "urn:eic:50WG000000008991" ;
-    skos:altLabel "NO-KVANNVATG1___" ;
+    skos:altLabel "NO-KVANNVATG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KVANNVATG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

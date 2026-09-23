@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVERSA-12345-X",
     "@skos:prefLabel": "SALA VERSALLES, S.A.",
     "@skos:altLabel": "VERSA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVERSA-12345-X",
     "@cim:IdentifiedObject.name": "SALA VERSALLES, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA81239063",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA81239063",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001636Q",
-    "@skos:prefLabel": "Via",
-    "@skos:altLabel": "NO-VIA",
+    "@skos:prefLabel": "Tafjord8",
+    "@skos:altLabel": "NO-TAFJORD8",
     "@cim:IdentifiedObject.mRID": "50A000000001636Q",
-    "@cim:IdentifiedObject.name": "Via",
+    "@cim:IdentifiedObject.name": "Tafjord8",
     "@cim:Names.name": [
-        "NO-VIA",
+        "NO-TAFJORD8",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

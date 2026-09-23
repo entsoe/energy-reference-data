@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-06-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000015806" ;
-    cim:IdentifiedObject.name "S 50 Steinsfoss-T_Aukland" ;
+    cim:IdentifiedObject.name "S 50 T_Steinsfoss-T_Aukland" ;
     cim:Names.name "Internal Line",
-        "NO-STEINSFOSSTAU" ;
+        "NO-50T_STEINSFOS" ;
     dcterms:identifier "urn:eic:50TL000000015806" ;
-    skos:altLabel "NO-STEINSFOSSTAU" ;
+    skos:altLabel "NO-50T_STEINSFOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 50 Steinsfoss-T_Aukland" ;
+    skos:prefLabel "S 50 T_Steinsfoss-T_Aukland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

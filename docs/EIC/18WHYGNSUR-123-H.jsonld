@@ -16,7 +16,10 @@
     "@skos:altLabel": "HYGNSUR",
     "@cim:IdentifiedObject.mRID": "18WHYGNSUR-123-H",
     "@cim:IdentifiedObject.name": "GAS NATURAL SUR SDG",
-    "@cim:Names.name": "HYGNSUR",
+    "@cim:Names.name": [
+        "HYGNSUR",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-07-22",

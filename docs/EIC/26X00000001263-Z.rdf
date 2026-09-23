@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X00000001263-Z</dcterms:identifier>
-    <skos:prefLabel>AGSM AIM ENERGIA SPA</skos:prefLabel>
-    <skos:altLabel>IT-AGSMAIMENERGI</skos:altLabel>
+    <skos:prefLabel>MAGIS ENERGIA</skos:prefLabel>
+    <skos:altLabel>IT-MAGISENERGIAS</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X00000001263-Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>AGSM AIM ENERGIA SPA</cim:IdentifiedObject.name>
-    <cim:Names.name>IT-AGSMAIMENERGI</cim:Names.name>
+    <cim:IdentifiedObject.name>MAGIS ENERGIA</cim:IdentifiedObject.name>
+    <cim:Names.name>IT-MAGISENERGIAS</cim:Names.name>
     <cim:Names.name>IT02968430237</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-18</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT02968430237</schema:vatID>

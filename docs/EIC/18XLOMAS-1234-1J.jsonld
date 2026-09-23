@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XLOMAS-1234-1J",
     "@skos:prefLabel": "SOLWINDET LAS LOMAS, S.L.",
     "@skos:altLabel": "LOMAS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLOMAS-1234-1J",
     "@cim:IdentifiedObject.name": "SOLWINDET LAS LOMAS, S.L.",
     "@cim:Names.name": [
         "LOMAS",
         "ESB18607978",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-12-02",
+    "@cim:DateAndOrTime.date": "2026-07-23",
     "@schema:vatID": "ESB18607978",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

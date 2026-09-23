@@ -16,7 +16,10 @@
     "@skos:altLabel": "ES-MASICBI",
     "@cim:IdentifiedObject.mRID": "18W000000000PX2R",
     "@cim:IdentifiedObject.name": "MASICBI",
-    "@cim:Names.name": "ES-MASICBI",
+    "@cim:Names.name": [
+        "ES-MASICBI",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-07-19",

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:33XSMARTENERGY1W</dcterms:identifier>
-    <skos:prefLabel>SMART ENERGY TRADE DOOEL </skos:prefLabel>
+    <skos:prefLabel>SMART ENERGY TRADING DOOEL </skos:prefLabel>
     <skos:altLabel>SMARTENERGY1</skos:altLabel>
     <cim:IdentifiedObject.mRID>33XSMARTENERGY1W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SMART ENERGY TRADE DOOEL </cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>SMART ENERGY TRADING DOOEL </cim:IdentifiedObject.name>
     <cim:Names.name>SMARTENERGY1</cim:Names.name>
     <cim:Names.name>MK4032022555611</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-11-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-01-23</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>MK4032022555611</schema:vatID>

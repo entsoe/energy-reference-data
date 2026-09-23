@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000015806",
-    "@skos:prefLabel": "S 50 Steinsfoss-T_Aukland",
-    "@skos:altLabel": "NO-STEINSFOSSTAU",
+    "@skos:prefLabel": "S 50 T_Steinsfoss-T_Aukland",
+    "@skos:altLabel": "NO-50T_STEINSFOS",
     "@cim:IdentifiedObject.mRID": "50TL000000015806",
-    "@cim:IdentifiedObject.name": "S 50 Steinsfoss-T_Aukland",
+    "@cim:IdentifiedObject.name": "S 50 T_Steinsfoss-T_Aukland",
     "@cim:Names.name": [
-        "NO-STEINSFOSSTAU",
+        "NO-50T_STEINSFOS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-06-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

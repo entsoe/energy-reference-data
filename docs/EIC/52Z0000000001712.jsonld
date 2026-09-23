@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/52Z0000000001712",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:52Z0000000001712",
+    "@skos:prefLabel": "MAASTRICHT (KONINKLIJKE MOSA BV)",
+    "@skos:altLabel": "KONMOSA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Connection Point"
+    },
+    "@cim:IdentifiedObject.mRID": "52Z0000000001712",
+    "@cim:IdentifiedObject.name": "MAASTRICHT (KONINKLIJKE MOSA BV)",
+    "@cim:Names.name": [
+        "KONMOSA",
+        "Connection Point"
+    ],
+    "@cim:IdentifiedObject.description": "Connection Point",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-11-14",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

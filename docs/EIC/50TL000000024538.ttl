@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000024538" ;
-    cim:IdentifiedObject.name "M Meldal 66 L2_X" ;
+    cim:IdentifiedObject.name "N Meldal   66  L2_X" ;
     cim:Names.name "Internal Line",
-        "NO-MELDAL66L2X" ;
+        "NO-MELDAL66L2_X" ;
     dcterms:identifier "urn:eic:50TL000000024538" ;
-    skos:altLabel "NO-MELDAL66L2X" ;
+    skos:altLabel "NO-MELDAL66L2_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Meldal 66 L2_X" ;
+    skos:prefLabel "N Meldal   66  L2_X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

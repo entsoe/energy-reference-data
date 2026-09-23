@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardAnalogTypeList</skos:prefLabel>
     <dcterms:identifier>MXM000</dcterms:identifier>
     <skos:definition xml:lang="en">The identification of an analog value.</skos:definition>
@@ -260,5 +260,47 @@
     <dcterms:identifier>A36</dcterms:identifier>
     <skos:prefLabel>Minimum remaining available margin target</skos:prefLabel>
     <skos:definition xml:lang="en">Target capacity for exchanges by deducing the exchanges not related to the region.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A37">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A37</dcterms:identifier>
+    <skos:prefLabel>Average voltage</skos:prefLabel>
+    <skos:definition xml:lang="en">Average voltage on two connecting nodes of a critical network element resulting from AC load flow calculation with applied reactive power constraints (U).</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A38">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A38</dcterms:identifier>
+    <skos:prefLabel>Average power factor</skos:prefLabel>
+    <skos:definition xml:lang="en">Average power factor on two connecting nodes of a critical network element resulting from AC load flow calculation (cos phi).</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A39">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A39</dcterms:identifier>
+    <skos:prefLabel>Lower ramp rate</skos:prefLabel>
+    <skos:definition xml:lang="en">The maximum rate that the output can be lowered by.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A40">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A40</dcterms:identifier>
+    <skos:prefLabel>Raise ramp rate</skos:prefLabel>
+    <skos:definition xml:lang="en">The maximum rate that the output can be raised by.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A41">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A41</dcterms:identifier>
+    <skos:prefLabel>Negative reference flow</skos:prefLabel>
+    <skos:definition xml:lang="en">The amount of power negatively affected by a contingency that reflects a situation with scheduled exchanges from a reference situation. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAnalogTypeList/A42">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAnalogTypeList"/>
+    <dcterms:identifier>A42</dcterms:identifier>
+    <skos:prefLabel>Negative flow due to non-costly remedial actions</skos:prefLabel>
+    <skos:definition xml:lang="en">Negative expected flow change due to non-costly remedial actions.</skos:definition>
   </skos:Concept>
 </rdf:RDF>

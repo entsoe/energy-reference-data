@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Electricity Trading Company" ;
     cim:IdentifiedObject.mRID "24X-CONECTTRADEF" ;
     cim:IdentifiedObject.name "CONECT TRADE, s.r.o." ;
     cim:Names.name "CONECTTRADE",
         "SK2022112653",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-CONECTTRADEF" ;
     schema1:vatID "SK2022112653" ;
     skos:altLabel "CONECTTRADE" ;

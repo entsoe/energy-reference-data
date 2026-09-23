@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-25" ;
+    cim:DateAndOrTime.date "2024-01-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Elektrizitã¤Tsversorger" ;
     cim:IdentifiedObject.mRID "12XLKW-HANDEL--E" ;
     cim:IdentifiedObject.name "Liechtensteinische Kraftwerke" ;
-    cim:Names.name "Balance Group Responsible Party",
-        "CH050761",
+    cim:Names.name "Balance Responsible Party",
+        "CHE-271.508.945",
         "LKW-HANDEL" ;
     dcterms:identifier "urn:eic:12XLKW-HANDEL--E" ;
-    schema1:vatID "CH050761" ;
+    schema1:vatID "CHE-271.508.945" ;
     skos:altLabel "LKW-HANDEL" ;
     skos:definition "Elektrizitã¤Tsversorger"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

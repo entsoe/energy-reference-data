@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002484Y",
-    "@skos:prefLabel": "S Nystuen 47 X1",
-    "@skos:altLabel": "NO-NYSTUEN47X1",
+    "@skos:prefLabel": "S Nystuen  47  X1",
+    "@skos:altLabel": "NO-NYSTUEN47X1_C",
     "@cim:IdentifiedObject.mRID": "50TL00000002484Y",
-    "@cim:IdentifiedObject.name": "S Nystuen 47 X1",
+    "@cim:IdentifiedObject.name": "S Nystuen  47  X1",
     "@cim:Names.name": [
-        "NO-NYSTUEN47X1",
+        "NO-NYSTUEN47X1_C",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

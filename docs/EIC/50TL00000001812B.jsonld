@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001812B",
-    "@skos:prefLabel": "S 66 Hålandsfossen-Rivedal",
-    "@skos:altLabel": "NO-HALANDSFRIVED",
+    "@skos:prefLabel": "N 22 Ringstad-Rivedal",
+    "@skos:altLabel": "NO-22RINGSTADRIV",
     "@cim:IdentifiedObject.mRID": "50TL00000001812B",
-    "@cim:IdentifiedObject.name": "S 66 Hålandsfossen-Rivedal",
+    "@cim:IdentifiedObject.name": "N 22 Ringstad-Rivedal",
     "@cim:Names.name": [
-        "NO-HALANDSFRIVED",
+        "NO-22RINGSTADRIV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

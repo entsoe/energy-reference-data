@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XNOSA-123456-M</dcterms:identifier>
     <skos:prefLabel>NOSA ENERXIA SCG</skos:prefLabel>
     <skos:altLabel>NOSA</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XNOSA-123456-M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>NOSA ENERXIA SCG</cim:IdentifiedObject.name>
     <cim:Names.name>NOSA</cim:Names.name>
     <cim:Names.name>ESF94090792</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-11-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-03</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESF94090792</schema:vatID>

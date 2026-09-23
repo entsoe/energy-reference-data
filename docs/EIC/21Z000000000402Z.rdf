@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000402Z</dcterms:identifier>
-    <skos:prefLabel>Fronhofen</skos:prefLabel>
+    <skos:prefLabel>Speicher Fronhofen</skos:prefLabel>
     <skos:altLabel>SP_FRONHOFEN</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point With Gas Storage</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000402Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Fronhofen</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Speicher Fronhofen</cim:IdentifiedObject.name>
     <cim:Names.name>SP_FRONHOFEN</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point With Gas Storage</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Accounting Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002076D" ;
-    cim:IdentifiedObject.name "M Svabo    22  L3 Industri" ;
+    cim:IdentifiedObject.name "N Svabo    22  L3 Industri" ;
     cim:Names.name "Load",
         "NO-SVABO22T3NC" ;
     dcterms:identifier "urn:eic:50WC00000002076D" ;
     skos:altLabel "NO-SVABO22T3NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Svabo    22  L3 Industri" ;
+    skos:prefLabel "N Svabo    22  L3 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XOSLAN-12345-B",
     "@skos:prefLabel": "CALDERERIA OSLAN S.L",
     "@skos:altLabel": "OSLAN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XOSLAN-12345-B",
     "@cim:IdentifiedObject.name": "CALDERERIA OSLAN S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB20769147",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-27",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB20769147",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -6,15 +6,15 @@
     <dcterms:identifier>urn:eic:21W000000000023B</dcterms:identifier>
     <skos:prefLabel>Gas Storage Kirchheilingen</skos:prefLabel>
     <skos:altLabel>KIRCHHEILINGEN</skos:altLabel>
-    <skos:definition xml:lang="en">Function Missing</skos:definition>
+    <skos:definition xml:lang="en">LIO 21 added the correct function 31 May 2024</skos:definition>
     <cim:IdentifiedObject.mRID>21W000000000023B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gas Storage Kirchheilingen</cim:IdentifiedObject.name>
     <cim:Names.name>KIRCHHEILINGEN</cim:Names.name>
-    <cim:IdentifiedObject.description>Function Missing</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.description>LIO 21 added the correct function 31 May 2024</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -1,0 +1,44 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000385B",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000385B",
+    "@skos:prefLabel": "Thurrock Storage Limited",
+    "@skos:altLabel": "THURROCKSTORAGE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Thurrock Storage Limited\n4th Floor 80 Victoria Street, London, England SW1E 5JL\nLewis Elder\nlelder@stateraenergy.co.uk\n07816 503718\njbolland@stateraenergy.co.uk\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000385B",
+    "@cim:IdentifiedObject.name": "Thurrock Storage Limited",
+    "@cim:Names.name": [
+        "THURROCKSTORAGE",
+        "GB44560897",
+        "Party Connected To Grid",
+        "Storage System Operator",
+        "Balancing Service Provider"
+    ],
+    "@cim:IdentifiedObject.description": "Thurrock Storage Limited\n4th Floor 80 Victoria Street, London, England SW1E 5JL\nLewis Elder\nlelder@stateraenergy.co.uk\n07816 503718\njbolland@stateraenergy.co.uk\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-07-01",
+    "@schema:vatID": "GB44560897",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

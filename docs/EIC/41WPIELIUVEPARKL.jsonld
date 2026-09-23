@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPIELIUVEPARKL",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPIELIUVEPARKL",
+    "@skos:prefLabel": "Pielių TP VE parkas",
+    "@skos:altLabel": "PIELIUVE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "\nTelšių vėjo parkas, UAB 304954738 LT100013693517 Valdas Povilonis T: +37061046788 Jānis Urtāns +37129119215 TVP@utilitas.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41WPIELIUVEPARKL",
+    "@cim:IdentifiedObject.name": "Pielių TP VE parkas",
+    "@cim:Names.name": [
+        "PIELIUVE",
+        "Generation"
+    ],
+    "@cim:IdentifiedObject.description": "\nTelšių vėjo parkas, UAB 304954738 LT100013693517 Valdas Povilonis T: +37061046788 Jānis Urtāns +37129119215 TVP@utilitas.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-08-14",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

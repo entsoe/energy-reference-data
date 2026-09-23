@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000840B" ;
     cim:IdentifiedObject.name "S 22 Follum-Hofsfoss" ;
     cim:Names.name "Internal Line",
-        "NO-FOLLUMHOFSFOS" ;
+        "NO-22FOLLUMHOFSF" ;
     dcterms:identifier "urn:eic:50TL00000000840B" ;
-    skos:altLabel "NO-FOLLUMHOFSFOS" ;
+    skos:altLabel "NO-22FOLLUMHOFSF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Follum-Hofsfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

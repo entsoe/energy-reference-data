@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Brp" ;
     cim:IdentifiedObject.mRID "30XROISPE------O" ;
     cim:IdentifiedObject.name "SC ISPE SA" ;
-    cim:Names.name "ROISPE",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "RO8630885",
+        "ROISPE" ;
     dcterms:identifier "urn:eic:30XROISPE------O" ;
+    schema1:vatID "RO8630885" ;
     skos:altLabel "ROISPE" ;
     skos:definition "Brp"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

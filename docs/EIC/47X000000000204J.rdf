@@ -9,10 +9,12 @@
     <cim:IdentifiedObject.mRID>47X000000000204J</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Citadel Energy Investments (Ireland) Designated Activity Company</cim:IdentifiedObject.name>
     <cim:Names.name>IE204J</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-01-27</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

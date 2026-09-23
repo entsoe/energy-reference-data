@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004466X",
     "@skos:prefLabel": "S Abildsø  TS Transformator",
-    "@skos:altLabel": "NO-ABILDSO_TS",
+    "@skos:altLabel": "NO-ABILDSOTS",
     "@cim:IdentifiedObject.mRID": "50TT00000004466X",
     "@cim:IdentifiedObject.name": "S Abildsø  TS Transformator",
     "@cim:Names.name": [
-        "NO-ABILDSO_TS",
+        "NO-ABILDSOTS",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

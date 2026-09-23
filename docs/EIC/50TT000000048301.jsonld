@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000048301",
-    "@skos:prefLabel": "S Frogner  T51 Transformator",
-    "@skos:altLabel": "NO-FROGNER_T51",
+    "@skos:prefLabel": "S Frogner  T5 Transformator",
+    "@skos:altLabel": "NO-FROGNERT5",
     "@cim:IdentifiedObject.mRID": "50TT000000048301",
-    "@cim:IdentifiedObject.name": "S Frogner  T51 Transformator",
+    "@cim:IdentifiedObject.name": "S Frogner  T5 Transformator",
     "@cim:Names.name": [
-        "NO-FROGNER_T51",
+        "NO-FROGNERT5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-06-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26X1758322100106> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26X1758322100106" ;
+    cim:IdentifiedObject.name "TTEP BESS ITALIA S.R.L." ;
+    cim:Names.name "IT-TTEPBESSITALI",
+        "IT17583221001",
+        "Producer" ;
+    dcterms:identifier "urn:eic:26X1758322100106" ;
+    schema1:vatID "IT17583221001" ;
+    skos:altLabel "IT-TTEPBESSITALI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TTEP BESS ITALIA S.R.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X000000000176V",
     "@skos:prefLabel": "PROMOTORA DE HOTELES SA",
     "@skos:altLabel": "HZURB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X000000000176V",
     "@cim:IdentifiedObject.name": "PROMOTORA DE HOTELES SA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA10002665",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-27",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA10002665",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

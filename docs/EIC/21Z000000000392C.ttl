@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-26" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Entry/Exit Point From A Storage Between Storengy And  Grtgaz" ;
     cim:IdentifiedObject.mRID "21Z000000000392C" ;
     cim:IdentifiedObject.name "SERENE LITTORAL/NORD_ATLANTIQUE (FR)" ;
-    cim:Names.name "SERENE_LITTORAL",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "SERENE_LITTORAL" ;
     dcterms:identifier "urn:eic:21Z000000000392C" ;
     skos:altLabel "SERENE_LITTORAL" ;
-    skos:definition "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SERENE LITTORAL/NORD_ATLANTIQUE (FR)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

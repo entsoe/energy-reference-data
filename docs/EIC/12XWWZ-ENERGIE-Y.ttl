@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2024-01-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energieversorgungsunternehmen Der Region Zug" ;
     cim:IdentifiedObject.mRID "12XWWZ-ENERGIE-Y" ;
     cim:IdentifiedObject.name "WWZ Energie AG" ;
-    cim:Names.name "Balance Group Responsible Party",
-        "CH497325",
+    cim:Names.name "Balance Responsible Party",
+        "CHE-116.311.096",
         "WWZ-ENERGIE-AG" ;
     dcterms:identifier "urn:eic:12XWWZ-ENERGIE-Y" ;
-    schema1:vatID "CH497325" ;
+    schema1:vatID "CHE-116.311.096" ;
     skos:altLabel "WWZ-ENERGIE-AG" ;
     skos:definition "Energieversorgungsunternehmen Der Region Zug"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHAW---------F" ;
     cim:IdentifiedObject.name "Hamburger Aluminium-Werk GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE118563163",
-        "HAW" ;
+    cim:Names.name "DE118563163",
+        "HAW",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHAW---------F" ;
     schema1:vatID "DE118563163" ;
     skos:altLabel "HAW" ;

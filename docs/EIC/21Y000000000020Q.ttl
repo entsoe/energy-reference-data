@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Virtual Market Area" ;
     cim:IdentifiedObject.mRID "21Y000000000020Q" ;
     cim:IdentifiedObject.name "EEMSHAVEN O" ;
     cim:Names.name "EEMSO",
-        "Valid EIC Function needed" ;
+        "Market Area" ;
     dcterms:identifier "urn:eic:21Y000000000020Q" ;
     skos:altLabel "EEMSO" ;
     skos:definition "Virtual Market Area"@en ;

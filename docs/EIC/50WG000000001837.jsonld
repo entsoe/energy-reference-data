@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000001837",
     "@skos:prefLabel": "BORREGA2G11     HYDRO",
-    "@skos:altLabel": "NO-BORREGA2G11__",
+    "@skos:altLabel": "NO-BORREGA2G11",
     "@cim:IdentifiedObject.mRID": "50WG000000001837",
     "@cim:IdentifiedObject.name": "BORREGA2G11     HYDRO",
     "@cim:Names.name": [
-        "NO-BORREGA2G11__",
+        "NO-BORREGA2G11",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

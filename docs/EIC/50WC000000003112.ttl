@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000003112" ;
-    cim:IdentifiedObject.name "M Hønstad  132 RT1 Forbruk" ;
+    cim:IdentifiedObject.name "N Hønstad  132 RT1 Forbruk" ;
     cim:Names.name "Load",
         "NO-HONSTAD132" ;
     dcterms:identifier "urn:eic:50WC000000003112" ;
     skos:altLabel "NO-HONSTAD132" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Hønstad  132 RT1 Forbruk" ;
+    skos:prefLabel "N Hønstad  132 RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

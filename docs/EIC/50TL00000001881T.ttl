@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001881T" ;
-    cim:IdentifiedObject.name "S 66 Begsle-Kjøde" ;
+    cim:IdentifiedObject.name "N 66 Begsle-Kjøde" ;
     cim:Names.name "Internal Line",
-        "NO-BEGSLEKJODE" ;
+        "NO-66BEGSLEKJODE" ;
     dcterms:identifier "urn:eic:50TL00000001881T" ;
-    skos:altLabel "NO-BEGSLEKJODE" ;
+    skos:altLabel "NO-66BEGSLEKJODE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Begsle-Kjøde" ;
+    skos:prefLabel "N 66 Begsle-Kjøde" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

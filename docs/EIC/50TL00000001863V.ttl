@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001863V" ;
     cim:IdentifiedObject.name "S 66 Hommerstad-Bjørke" ;
     cim:Names.name "Internal Line",
-        "NO-HOMMERSTADBJO" ;
+        "NO-66HOMMERSTADB" ;
     dcterms:identifier "urn:eic:50TL00000001863V" ;
-    skos:altLabel "NO-HOMMERSTADBJO" ;
+    skos:altLabel "NO-66HOMMERSTADB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Hommerstad-Bjørke" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

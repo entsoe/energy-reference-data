@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002264Y" ;
-    cim:IdentifiedObject.name "SYKKYLVEG103 HYDRO" ;
+    cim:IdentifiedObject.name "STRANDA G103 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SYKKYLVEG103_" ;
+        "NO-STRANDAG103" ;
     dcterms:identifier "urn:eic:50WG00000002264Y" ;
-    skos:altLabel "NO-SYKKYLVEG103_" ;
+    skos:altLabel "NO-STRANDAG103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SYKKYLVEG103 HYDRO" ;
+    skos:prefLabel "STRANDA G103 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

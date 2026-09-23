@@ -11,8 +11,11 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "32X001100101599S" ;
     cim:IdentifiedObject.name "ENEKOD GREEN JSC" ;
-    cim:Names.name "ENEKOD_GREEN" ;
+    cim:Names.name "Balance Group Responsible Party",
+        "ENEKOD_GREEN",
+        "n / a" ;
     dcterms:identifier "urn:eic:32X001100101599S" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "ENEKOD_GREEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENEKOD GREEN JSC" ;

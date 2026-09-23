@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P874> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P874" ;
+    cim:IdentifiedObject.name "AMPERE ENERGY COMERCIALIZADORA Y SERVICIOS ENERGETICOS, SRL" ;
+    cim:Names.name "ES-AMPEE",
+        "ESB70963020",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P874" ;
+    schema1:vatID "ESB70963020" ;
+    skos:altLabel "ES-AMPEE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AMPERE ENERGY COMERCIALIZADORA Y SERVICIOS ENERGETICOS, SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

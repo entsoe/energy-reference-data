@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001813Q" ;
-    cim:IdentifiedObject.name "Sess" ;
-    cim:Names.name "NO-SESS",
+    cim:IdentifiedObject.name "Sesselva" ;
+    cim:Names.name "NO-SESSELVA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001813Q" ;
-    skos:altLabel "NO-SESS" ;
+    skos:altLabel "NO-SESSELVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sess" ;
+    skos:prefLabel "Sesselva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

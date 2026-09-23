@@ -22,11 +22,11 @@
         "Balance Responsible Party",
         "Consumer",
         "Energy Supplier",
-        "Grid Access Provider",
-        "Metered Data Responsible",
-        "Producer",
         "Meter Administrator",
-        "System Operator"
+        "Producer",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

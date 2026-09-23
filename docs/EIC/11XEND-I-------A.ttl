@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEND-I-------A" ;
     cim:IdentifiedObject.name "EnD-I AG" ;
-    cim:Names.name "Balance Group",
-        "DE209282472",
-        "END-I" ;
+    cim:Names.name "DE209282472",
+        "END-I",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEND-I-------A" ;
     schema1:vatID "DE209282472" ;
     skos:altLabel "END-I" ;

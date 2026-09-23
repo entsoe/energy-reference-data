@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000000PU7",
     "@skos:prefLabel": "HIJOS DE ALFONSO GARRIDO DELGADO S.A",
     "@skos:altLabel": "HIJOSDE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000000PU7",
     "@cim:IdentifiedObject.name": "HIJOS DE ALFONSO GARRIDO DELGADO S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA21007570",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA21007570",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001821A",
-    "@skos:prefLabel": "M 66 Ulstein-Hareidsberget",
-    "@skos:altLabel": "NO-ULSTEINHAREID",
+    "@skos:prefLabel": "N 66 Ulstein-Hareidsberget",
+    "@skos:altLabel": "NO-66ULSTEINHARE",
     "@cim:IdentifiedObject.mRID": "50TL00000001821A",
-    "@cim:IdentifiedObject.name": "M 66 Ulstein-Hareidsberget",
+    "@cim:IdentifiedObject.name": "N 66 Ulstein-Hareidsberget",
     "@cim:Names.name": [
-        "NO-ULSTEINHAREID",
+        "NO-66ULSTEINHARE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

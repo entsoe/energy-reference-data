@@ -19,11 +19,11 @@
     "@cim:Names.name": [
         "PORTO_TVT",
         "02790203",
-        "Distribution System Operator",
-        "Energy Supplier",
         "Balance Group Responsible Party",
+        "Balance Responsible Party",
         "Capacity Trader",
-        "Balance Responsible Party"
+        "Distribution System Operator",
+        "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

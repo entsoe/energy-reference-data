@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-10-08" ;
+    cim:DateAndOrTime.date "2025-01-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "28X0000000000160" ;
-    cim:IdentifiedObject.name "PPD energija, trgovanje z energijo d.o.o." ;
+    cim:IdentifiedObject.name "ENNA Next d.o.o. " ;
     cim:Names.name "Balance Responsible Party",
-        "PPD_ENERGIJA",
-        "SI93039492" ;
+        "SI93039492",
+        "SLO-ENNA-NEXT" ;
     dcterms:identifier "urn:eic:28X0000000000160" ;
     schema1:vatID "SI93039492" ;
-    skos:altLabel "PPD_ENERGIJA" ;
+    skos:altLabel "SLO-ENNA-NEXT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PPD energija, trgovanje z energijo d.o.o." ;
+    skos:prefLabel "ENNA Next d.o.o. " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

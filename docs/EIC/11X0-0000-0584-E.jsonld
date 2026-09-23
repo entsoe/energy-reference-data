@@ -18,11 +18,12 @@
     "@cim:IdentifiedObject.name": "Borkum Riffgrund 2 Offshore Wind Farm GmbH & Co. oHG",
     "@cim:Names.name": [
         "BORKUMRIFFGRUND2",
-        "DE239499552"
+        "DE239499552",
+        "Balance Responsible Party"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-11",
+    "@cim:DateAndOrTime.date": "2026-08-21",
     "@schema:vatID": "DE239499552",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

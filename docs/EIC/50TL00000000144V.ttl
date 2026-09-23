@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-05-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000144V" ;
     cim:IdentifiedObject.name "N 132 Bardufoss Kpl-T_Sørreisa" ;
     cim:Names.name "Internal Line",
-        "NO-BARDUFOSSKPLT" ;
+        "NO-132BAEISA_D01" ;
     dcterms:identifier "urn:eic:50TL00000000144V" ;
-    skos:altLabel "NO-BARDUFOSSKPLT" ;
+    skos:altLabel "NO-132BAEISA_D01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Bardufoss Kpl-T_Sørreisa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

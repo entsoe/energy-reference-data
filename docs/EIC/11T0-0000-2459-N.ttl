@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2459-N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2459-N" ;
+    cim:IdentifiedObject.name "AMP / 380kV / Voehringen / Trafo 46" ;
+    cim:Names.name "Transformer",
+        "VOEHRINGEN-46" ;
+    dcterms:identifier "urn:eic:11T0-0000-2459-N" ;
+    skos:altLabel "VOEHRINGEN-46" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AMP / 380kV / Voehringen / Trafo 46" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

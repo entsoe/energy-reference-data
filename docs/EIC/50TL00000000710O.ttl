@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000710O" ;
     cim:IdentifiedObject.name "N 132 T_Gandvik-T_Neiden" ;
     cim:Names.name "Internal Line",
-        "NO-TGANDVIKTNEID" ;
+        "NO-132T_GANDVIKT" ;
     dcterms:identifier "urn:eic:50TL00000000710O" ;
-    skos:altLabel "NO-TGANDVIKTNEID" ;
+    skos:altLabel "NO-132T_GANDVIKT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 T_Gandvik-T_Neiden" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

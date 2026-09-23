@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/54X-E815-K029-2V",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:54X-E815-K029-2V",
+    "@skos:prefLabel": "EN.KU SHPK",
+    "@skos:altLabel": "EN_KU",
+    "@cim:IdentifiedObject.mRID": "54X-E815-K029-2V",
+    "@cim:IdentifiedObject.name": "EN.KU SHPK",
+    "@cim:Names.name": [
+        "EN_KU",
+        "K81511029P",
+        "Producer",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-12-15",
+    "@schema:vatID": "K81511029P",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:33X26WATTVOLT04W",
-    "@skos:prefLabel": "WATTANDVOLT DOOEL Skopje",
-    "@skos:altLabel": "WATTANDVOLT",
+    "@skos:prefLabel": "ENERJEKS DOOEL Skopje",
+    "@skos:altLabel": "ENERJEKS",
     "@cim:IdentifiedObject.mRID": "33X26WATTVOLT04W",
-    "@cim:IdentifiedObject.name": "WATTANDVOLT DOOEL Skopje",
+    "@cim:IdentifiedObject.name": "ENERJEKS DOOEL Skopje",
     "@cim:Names.name": [
-        "WATTANDVOLT",
+        "ENERJEKS",
         "4080018577559",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-08",
+    "@cim:DateAndOrTime.date": "2024-06-13",
     "@schema:vatID": "4080018577559",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

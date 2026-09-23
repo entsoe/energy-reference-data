@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-16" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006443K" ;
-    cim:IdentifiedObject.name "400 kV Trębaczew – Joachimów" ;
+    cim:IdentifiedObject.name "400kV Joachimow-Trebaczew" ;
     cim:Names.name "419",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006443K" ;
     skos:altLabel "419" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "400 kV Trębaczew – Joachimów" ;
+    skos:prefLabel "400kV Joachimow-Trebaczew" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

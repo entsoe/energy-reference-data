@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000013317" ;
-    cim:IdentifiedObject.name "Gdańsk-Żarnowiec" ;
+    cim:IdentifiedObject.name "400kV Gdansk I-Zarnowiec" ;
     cim:Names.name "Internal Line",
         "N403" ;
     dcterms:identifier "urn:eic:19T0000000013317" ;
     skos:altLabel "N403" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Gdańsk-Żarnowiec" ;
+    skos:prefLabel "400kV Gdansk I-Zarnowiec" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

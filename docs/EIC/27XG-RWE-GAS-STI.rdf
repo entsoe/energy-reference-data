@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:27XG-RWE-GAS-STI</dcterms:identifier>
-    <skos:prefLabel>RWE Gas Storage, s.r.o.</skos:prefLabel>
-    <skos:altLabel>RWE-GAS-STORAGE</skos:altLabel>
+    <skos:prefLabel>Gas Storage CZ, s.r.o.</skos:prefLabel>
+    <skos:altLabel>GAS-STORAGE-CZ</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party Resource Provider</skos:definition>
     <cim:IdentifiedObject.mRID>27XG-RWE-GAS-STI</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>RWE Gas Storage, s.r.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>RWE-GAS-STORAGE</cim:Names.name>
+    <cim:IdentifiedObject.name>Gas Storage CZ, s.r.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>GAS-STORAGE-CZ</cim:Names.name>
     <cim:Names.name>CZ27892077</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party Resource Provider</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-05-02</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CZ27892077</schema:vatID>

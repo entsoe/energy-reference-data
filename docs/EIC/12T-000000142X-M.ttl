@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-15" ;
+    cim:DateAndOrTime.date "2025-06-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12T-000000142X-M" ;
     cim:IdentifiedObject.name "220 kV Rothenbrunnen-Y/Sarelli (Prov.)" ;
-    cim:Names.name "12T-000000142X-M",
+    cim:Names.name "2ROTH-YSAR----IL",
         "Internal Line" ;
     dcterms:identifier "urn:eic:12T-000000142X-M" ;
-    skos:altLabel "12T-000000142X-M" ;
+    skos:altLabel "2ROTH-YSAR----IL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "220 kV Rothenbrunnen-Y/Sarelli (Prov.)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

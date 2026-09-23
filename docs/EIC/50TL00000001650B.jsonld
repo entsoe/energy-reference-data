@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001650B",
-    "@skos:prefLabel": "M 66 Bessakerfjellet-Straum",
-    "@skos:altLabel": "NO-BESSAKERFJELL",
+    "@skos:prefLabel": "N 66 Bessakerfjellet-Straum",
+    "@skos:altLabel": "NO-66BESSAKERFJE",
     "@cim:IdentifiedObject.mRID": "50TL00000001650B",
-    "@cim:IdentifiedObject.name": "M 66 Bessakerfjellet-Straum",
+    "@cim:IdentifiedObject.name": "N 66 Bessakerfjellet-Straum",
     "@cim:Names.name": [
-        "NO-BESSAKERFJELL",
+        "NO-66BESSAKERFJE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

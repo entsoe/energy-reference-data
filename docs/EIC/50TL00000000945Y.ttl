@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000945Y" ;
     cim:IdentifiedObject.name "N 22 Skibotn-Lavkajohka" ;
     cim:Names.name "Internal Line",
-        "NO-SKIBOTNLAVKAJ" ;
+        "NO-22SKIBOTNLAVK" ;
     dcterms:identifier "urn:eic:50TL00000000945Y" ;
-    skos:altLabel "NO-SKIBOTNLAVKAJ" ;
+    skos:altLabel "NO-22SKIBOTNLAVK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 22 Skibotn-Lavkajohka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

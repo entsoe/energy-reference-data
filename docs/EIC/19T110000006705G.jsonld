@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006705G",
-    "@skos:prefLabel": "Janów-Zgierz",
+    "@skos:prefLabel": "220kV Janow-Zgierz",
     "@skos:altLabel": "1201",
     "@cim:IdentifiedObject.mRID": "19T110000006705G",
-    "@cim:IdentifiedObject.name": "Janów-Zgierz",
+    "@cim:IdentifiedObject.name": "220kV Janow-Zgierz",
     "@cim:Names.name": [
         "1201",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000030961" ;
     cim:IdentifiedObject.name "N 132 Hakøybotn-Tverråsan" ;
     cim:Names.name "Internal Line",
-        "NO-HAKOYBOTNTVER" ;
+        "NO-132HAKOYBOTNT" ;
     dcterms:identifier "urn:eic:50TL000000030961" ;
-    skos:altLabel "NO-HAKOYBOTNTVER" ;
+    skos:altLabel "NO-132HAKOYBOTNT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Hakøybotn-Tverråsan" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

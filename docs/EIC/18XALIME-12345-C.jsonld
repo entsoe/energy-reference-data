@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALIME-12345-C",
     "@skos:prefLabel": "2021 ALIMENGOMERA S.A.",
     "@skos:altLabel": "ALIME",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALIME-12345-C",
     "@cim:IdentifiedObject.name": "2021 ALIMENGOMERA S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA38572988",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-14",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA38572988",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

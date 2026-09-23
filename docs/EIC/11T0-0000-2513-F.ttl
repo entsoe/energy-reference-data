@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2513-F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2513-F" ;
+    cim:IdentifiedObject.name "CH-TNG/380/Asphard-Eichstetten C2/rt-sw" ;
+    cim:Names.name "LCHD4-ASP-EI2_RS",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:11T0-0000-2513-F" ;
+    skos:altLabel "LCHD4-ASP-EI2_RS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CH-TNG/380/Asphard-Eichstetten C2/rt-sw" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

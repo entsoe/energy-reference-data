@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000272N" ;
     cim:IdentifiedObject.name "S Rafnes   132 TI2 Industri" ;
     cim:Names.name "Load",
-        "NO-RAFNE132TI2NC" ;
+        "NO-RAFNES132TI2N" ;
     dcterms:identifier "urn:eic:50WC00000000272N" ;
-    skos:altLabel "NO-RAFNE132TI2NC" ;
+    skos:altLabel "NO-RAFNES132TI2N" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Rafnes   132 TI2 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

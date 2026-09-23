@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party Market Operator" ;
     cim:IdentifiedObject.mRID "23X--130912NOS-N" ;
     cim:IdentifiedObject.name "NASDAQ OMX Stockholm AB" ;
     cim:Names.name "6630001268",
-        "NASDAQ_S",
-        "Valid EIC Function needed" ;
+        "Balance Responsible Party",
+        "Market Operator",
+        "NASDAQ_S" ;
     dcterms:identifier "urn:eic:23X--130912NOS-N" ;
     schema1:vatID "6630001268" ;
     skos:altLabel "NASDAQ_S" ;

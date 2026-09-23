@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XEN-ROTTWEIL-1</dcterms:identifier>
     <skos:prefLabel>ENRW Energieversorgung Rottweil GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>EN_ROTTWEIL</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEN-ROTTWEIL-1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ENRW Energieversorgung Rottweil GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>EN_ROTTWEIL</cim:Names.name>
-    <cim:Names.name>DE117570536</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE200387156</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE117570536</schema:vatID>
+    <schema:vatID>DE200387156</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

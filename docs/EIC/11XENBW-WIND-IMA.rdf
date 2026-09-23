@@ -5,15 +5,15 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XENBW-WIND-IMA</dcterms:identifier>
     <skos:prefLabel>TransnetBW GmbH</skos:prefLabel>
-    <skos:altLabel>ENBW_WIND_IM</skos:altLabel>
+    <skos:altLabel>TNG_WIND_IM</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XENBW-WIND-IMA</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TransnetBW GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>ENBW_WIND_IM</cim:Names.name>
+    <cim:Names.name>TNG_WIND_IM</cim:Names.name>
     <cim:Names.name>DE191008872</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-04-20</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE191008872</schema:vatID>
   </skos:Concept>

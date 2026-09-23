@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Trading Of Electricity, Natural Gas And Emission Allowances" ;
     cim:IdentifiedObject.mRID "29XITAENERGYEGE1" ;
     cim:IdentifiedObject.name "ITA ENERGY TRADE" ;
-    cim:Names.name "EL998732902",
-        "ITAENERGY",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "EL998732902",
+        "ITAENERGY" ;
     dcterms:identifier "urn:eic:29XITAENERGYEGE1" ;
     schema1:vatID "EL998732902" ;
     skos:altLabel "ITAENERGY" ;

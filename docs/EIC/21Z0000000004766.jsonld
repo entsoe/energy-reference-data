@@ -14,20 +14,16 @@
     "@dcterms:identifier": "urn:eic:21Z0000000004766",
     "@skos:prefLabel": "FARSALA",
     "@skos:altLabel": "FARSALA-GR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z0000000004766",
     "@cim:IdentifiedObject.name": "FARSALA",
     "@cim:Names.name": [
         "FARSALA-GR",
-        "Connection Point"
+        "Connection Point",
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-11-22",
+    "@cim:DateAndOrTime.date": "2024-07-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

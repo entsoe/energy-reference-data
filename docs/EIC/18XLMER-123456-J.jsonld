@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XLMER-123456-J",
-    "@skos:prefLabel": "LONJAS Y MERCADOS S.A.",
+    "@skos:prefLabel": "LONJAS TECNOLOGIA S.A",
     "@skos:altLabel": "LMER",
     "@skos:definition": {
         "@language": "en",
         "@value": "Production Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "18XLMER-123456-J",
-    "@cim:IdentifiedObject.name": "LONJAS Y MERCADOS S.A.",
+    "@cim:IdentifiedObject.name": "LONJAS TECNOLOGIA S.A",
     "@cim:Names.name": [
         "LMER",
         "ESA28039469",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2025-01-30",
     "@schema:vatID": "ESA28039469",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

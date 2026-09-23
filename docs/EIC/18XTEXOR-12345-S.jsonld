@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTEXOR-12345-S",
     "@skos:prefLabel": "TEXTIL A ORTIZ SAU",
     "@skos:altLabel": "TEXOR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XTEXOR-12345-S",
     "@cim:IdentifiedObject.name": "TEXTIL A ORTIZ SAU",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA08543688",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA08543688",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

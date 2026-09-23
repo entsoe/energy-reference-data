@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000000471H" ;
-    cim:IdentifiedObject.name "S Bødalen  20  Forbruk" ;
+    cim:IdentifiedObject.name "S Bødalen  20  T2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BODALEN20" ;
+        "NO-BODALEN20T2" ;
     dcterms:identifier "urn:eic:50WC00000000471H" ;
-    skos:altLabel "NO-BODALEN20" ;
+    skos:altLabel "NO-BODALEN20T2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Bødalen  20  Forbruk" ;
+    skos:prefLabel "S Bødalen  20  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

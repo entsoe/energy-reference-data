@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-03-01" ;
+    cim:DateAndOrTime.date "2026-07-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "15X-MOLTRADING-F" ;
-    cim:IdentifiedObject.name "MOL Magyar Olaj- és Gázipari Nyrt." ;
-    cim:Names.name "Balance Responsible Party",
-        "HU10625790",
+    cim:IdentifiedObject.name "MOL Downstream Zrt." ;
+    cim:Names.name "32980183-4-44",
+        "Balance Responsible Party",
         "MOLTR-BC" ;
     dcterms:identifier "urn:eic:15X-MOLTRADING-F" ;
-    schema1:vatID "HU10625790" ;
+    schema1:vatID "32980183-4-44" ;
     skos:altLabel "MOLTR-BC" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOL Magyar Olaj- és Gázipari Nyrt." ;
+    skos:prefLabel "MOL Downstream Zrt." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

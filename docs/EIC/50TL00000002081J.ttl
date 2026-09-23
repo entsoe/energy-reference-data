@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002081J" ;
-    cim:IdentifiedObject.name "S 66 Rødne-Vågaåna" ;
+    cim:IdentifiedObject.name "S 22 Vikedal-Vågaåna" ;
     cim:Names.name "Internal Line",
-        "NO-RODNEVAGAANA" ;
+        "NO-22VIKEDALVAGA" ;
     dcterms:identifier "urn:eic:50TL00000002081J" ;
-    skos:altLabel "NO-RODNEVAGAANA" ;
+    skos:altLabel "NO-22VIKEDALVAGA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Rødne-Vågaåna" ;
+    skos:prefLabel "S 22 Vikedal-Vågaåna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

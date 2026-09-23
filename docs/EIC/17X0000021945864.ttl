@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X0000021945864> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X0000021945864" ;
+    cim:IdentifiedObject.name "CORSICA SOLE" ;
+    cim:Names.name "FR81911041580",
+        "FR_CORSICASOLE",
+        "Market Operator" ;
+    dcterms:identifier "urn:eic:17X0000021945864" ;
+    schema1:vatID "FR81911041580" ;
+    skos:altLabel "FR_CORSICASOLE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CORSICA SOLE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

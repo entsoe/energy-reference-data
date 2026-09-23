@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XVZBRWEDSOWWE0" ;
     cim:IdentifiedObject.name "Westnetz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE325265170",
-        "R-WN-WWE-ZVER" ;
+    cim:Names.name "DE325265170",
+        "R-WN-WWE-ZVER",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVZBRWEDSOWWE0" ;
     schema1:vatID "DE325265170" ;
     skos:altLabel "R-WN-WWE-ZVER" ;

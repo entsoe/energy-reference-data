@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Energo Impulse, SIA",
     "@cim:Names.name": [
         "LV-ENIM44",
-        "40203310970",
+        "LV40203310970",
         "Balance Responsible Party"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-01",
-    "@schema:vatID": "40203310970",
+    "@cim:DateAndOrTime.date": "2024-05-08",
+    "@schema:vatID": "LV40203310970",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

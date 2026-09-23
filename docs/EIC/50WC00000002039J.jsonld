@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002039J",
-    "@skos:prefLabel": "M Grytten  22  V2 Forbruk",
+    "@skos:prefLabel": "N Grytten  22  V2 Forbruk",
     "@skos:altLabel": "NO-GRYTTEN22V2",
     "@cim:IdentifiedObject.mRID": "50WC00000002039J",
-    "@cim:IdentifiedObject.name": "M Grytten  22  V2 Forbruk",
+    "@cim:IdentifiedObject.name": "N Grytten  22  V2 Forbruk",
     "@cim:Names.name": [
         "NO-GRYTTEN22V2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

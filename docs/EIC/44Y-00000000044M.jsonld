@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:44Y-00000000044M",
-    "@skos:prefLabel": "Tampereen Sähköverkko Oy",
+    "@skos:prefLabel": "Tampereen Energia Sähköverkko Oy",
     "@skos:altLabel": "FI_TKS000",
     "@cim:IdentifiedObject.mRID": "44Y-00000000044M",
-    "@cim:IdentifiedObject.name": "Tampereen Sähköverkko Oy",
+    "@cim:IdentifiedObject.name": "Tampereen Energia Sähköverkko Oy",
     "@cim:Names.name": [
         "FI_TKS000",
         "Metering Grid Area"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-04-09",
+    "@cim:DateAndOrTime.date": "2023-12-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

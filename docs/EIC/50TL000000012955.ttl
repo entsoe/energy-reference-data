@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL000000012955" ;
-    cim:IdentifiedObject.name "S 47 Dyrløkke-Ås" ;
+    cim:IdentifiedObject.name "S 47 Dyrløkke-Ås1" ;
     cim:Names.name "Internal Line",
-        "NO-DYRLOKKEAAS" ;
+        "NO-47DYRLOKAAS_1" ;
     dcterms:identifier "urn:eic:50TL000000012955" ;
-    skos:altLabel "NO-DYRLOKKEAAS" ;
+    skos:altLabel "NO-47DYRLOKAAS_1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 Dyrløkke-Ås" ;
+    skos:prefLabel "S 47 Dyrløkke-Ås1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

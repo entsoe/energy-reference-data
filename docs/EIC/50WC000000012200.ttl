@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-06-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000012200" ;
-    cim:IdentifiedObject.name "M Funna    22  Forbruk" ;
+    cim:IdentifiedObject.name "N Funna    22  Gu1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-FUNNA22" ;
+        "NO-FUNNA22GU1" ;
     dcterms:identifier "urn:eic:50WC000000012200" ;
-    skos:altLabel "NO-FUNNA22" ;
+    skos:altLabel "NO-FUNNA22GU1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Funna    22  Forbruk" ;
+    skos:prefLabel "N Funna    22  Gu1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

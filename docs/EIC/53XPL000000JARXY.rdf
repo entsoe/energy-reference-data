@@ -16,10 +16,10 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-02-18</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
-    <cim:Names.name>Party Connected To Grid</cim:Names.name>
     <cim:Names.name>Distribution System Operator</cim:Names.name>
     <cim:Names.name>Grid Operator</cim:Names.name>
+    <cim:Names.name>Party Connected To Grid</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7123318223</schema:vatID>
   </skos:Concept>

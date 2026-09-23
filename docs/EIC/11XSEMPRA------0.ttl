@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XSEMPRA------0" ;
     cim:IdentifiedObject.name "Mercuria Energy Europe Trading Limited" ;
-    cim:Names.name "GB397249893",
-        "SEMPRA",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "GB397249893",
+        "SEMPRA" ;
     dcterms:identifier "urn:eic:11XSEMPRA------0" ;
     schema1:vatID "GB397249893" ;
     skos:altLabel "SEMPRA" ;

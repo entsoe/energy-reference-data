@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-06" ;
+    cim:DateAndOrTime.date "2024-03-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "17W000001637625S" ;
-    cim:IdentifiedObject.name "AFD7_Barban_Saucats_302993" ;
+    cim:IdentifiedObject.name "BESS_AFD7_BARBAN_SAUCATS" ;
     cim:Names.name "FR_AFD7_BARBAN",
         "Production Unit",
         "Storage Plant" ;
     dcterms:identifier "urn:eic:17W000001637625S" ;
     skos:altLabel "FR_AFD7_BARBAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AFD7_Barban_Saucats_302993" ;
+    skos:prefLabel "BESS_AFD7_BARBAN_SAUCATS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

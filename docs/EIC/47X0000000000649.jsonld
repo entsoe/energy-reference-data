@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:47X0000000000649",
-    "@skos:prefLabel": "PrePayPower Limited",
+    "@skos:prefLabel": "Yuno Limited",
     "@skos:altLabel": "IE0649",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party, Connection Point"
     },
     "@cim:IdentifiedObject.mRID": "47X0000000000649",
-    "@cim:IdentifiedObject.name": "PrePayPower Limited",
+    "@cim:IdentifiedObject.name": "Yuno Limited",
     "@cim:Names.name": [
         "IE0649",
         "IE9731027C",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Trade Responsible Party, Connection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-27",
+    "@cim:DateAndOrTime.date": "2025-10-03",
     "@schema:vatID": "IE9731027C",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

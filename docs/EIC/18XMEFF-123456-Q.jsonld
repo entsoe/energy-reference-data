@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMEFF-123456-Q",
     "@skos:prefLabel": "MEFF SERVICES S.A.U.",
     "@skos:altLabel": "MEFF",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMEFF-123456-Q",
     "@cim:IdentifiedObject.name": "MEFF SERVICES S.A.U.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA61163242",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA61163242",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

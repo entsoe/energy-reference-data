@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XDEG-TRADING-1" ;
     cim:IdentifiedObject.name "DEG Deutsche Energie GmbH" ;
-    cim:Names.name "DE813552794",
+    cim:Names.name "Balance Responsible Party",
+        "DE813552794",
         "DEG-TRADING" ;
     dcterms:identifier "urn:eic:11XDEG-TRADING-1" ;
     schema1:vatID "DE813552794" ;

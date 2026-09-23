@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46V000000000092A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46V000000000092A" ;
+    cim:IdentifiedObject.name "ECP EP Entelios prod" ;
+    cim:Names.name "EP_ENTELIOS_PROD",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:46V000000000092A" ;
+    skos:altLabel "EP_ENTELIOS_PROD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ECP EP Entelios prod" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

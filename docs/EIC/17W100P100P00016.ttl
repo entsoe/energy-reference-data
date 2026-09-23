@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-12" ;
+    cim:DateAndOrTime.date "2026-03-17" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
+    cim:IdentifiedObject.description "Generation Unit Validation CIO" ;
     cim:IdentifiedObject.mRID "17W100P100P00016" ;
     cim:IdentifiedObject.name "PONT SUR SAMBRE" ;
     cim:Names.name "FR_GA-SAMBRT_1-G",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P00016" ;
     skos:altLabel "FR_GA-SAMBRT_1-G" ;
-    skos:definition "Generation Unit"@en ;
+    skos:definition "Generation Unit Validation CIO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PONT SUR SAMBRE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

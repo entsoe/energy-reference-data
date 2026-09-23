@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008095" ;
     cim:IdentifiedObject.name "S 22 Åvella-Dokka_TR" ;
     cim:Names.name "Internal Line",
-        "NO-AVELLADOKKATR" ;
+        "NO-22AVELLADOKKA" ;
     dcterms:identifier "urn:eic:50TL000000008095" ;
-    skos:altLabel "NO-AVELLADOKKATR" ;
+    skos:altLabel "NO-22AVELLADOKKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Åvella-Dokka_TR" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-01-14" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Market Operator Capacity Trader" ;
     cim:IdentifiedObject.mRID "23X--140115---C7" ;
     cim:IdentifiedObject.name "COOPGAS SRL" ;
     cim:Names.name "COOPGAS_SRL",
+        "Capacity Trader",
         "IT11650030155",
-        "Market Operator Capacity Trader" ;
+        "Market Operator" ;
     dcterms:identifier "urn:eic:23X--140115---C7" ;
     schema1:vatID "IT11650030155" ;
     skos:altLabel "COOPGAS_SRL" ;

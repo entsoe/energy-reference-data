@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005033M",
-    "@skos:prefLabel": "N Hungern  T5 Transformator",
-    "@skos:altLabel": "NO-HUNGERN_T5",
+    "@skos:prefLabel": "N Hungeren T5 Transformator",
+    "@skos:altLabel": "NO-HUNGERENT5",
     "@cim:IdentifiedObject.mRID": "50TT00000005033M",
-    "@cim:IdentifiedObject.name": "N Hungern  T5 Transformator",
+    "@cim:IdentifiedObject.name": "N Hungeren T5 Transformator",
     "@cim:Names.name": [
-        "NO-HUNGERN_T5",
+        "NO-HUNGERENT5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -16,7 +16,10 @@
     "@skos:altLabel": "EENERCP3",
     "@cim:IdentifiedObject.mRID": "18W000000000OCT3",
     "@cim:IdentifiedObject.name": "UFI Compra Inter",
-    "@cim:Names.name": "EENERCP3",
+    "@cim:Names.name": [
+        "EENERCP3",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-12-22",

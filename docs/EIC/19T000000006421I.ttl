@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006421I" ;
-    cim:IdentifiedObject.name "Ostrów Wlkp.-Pasikurowice" ;
+    cim:IdentifiedObject.name "400kV Ostrow-Pasikurowice" ;
     cim:Names.name "H006",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006421I" ;
     skos:altLabel "H006" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ostrów Wlkp.-Pasikurowice" ;
+    skos:prefLabel "400kV Ostrow-Pasikurowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

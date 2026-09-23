@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26Z-ITCHP-1116-Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26Z-ITCHP-1116-Y" ;
+    cim:IdentifiedObject.name "MISURATORE PRINCIPALE MUSIGNANO-LAVORGO" ;
+    cim:Names.name "MIS_MUS_LAV_1",
+        "Metering Point" ;
+    dcterms:identifier "urn:eic:26Z-ITCHP-1116-Y" ;
+    skos:altLabel "MIS_MUS_LAV_1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MISURATORE PRINCIPALE MUSIGNANO-LAVORGO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

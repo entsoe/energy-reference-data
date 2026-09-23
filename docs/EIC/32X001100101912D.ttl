@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/32X001100101912D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party, Capacity Trader" ;
+    cim:IdentifiedObject.mRID "32X001100101912D" ;
+    cim:IdentifiedObject.name "ENERY PORTFOLIO OPTIMIZATION BULGARIA EAD" ;
+    cim:Names.name "A00204059.BG",
+        "BG207132095",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "EPO_BG" ;
+    dcterms:identifier "urn:eic:32X001100101912D" ;
+    schema1:vatID "BG207132095" ;
+    skos:altLabel "EPO_BG" ;
+    skos:definition "Balance Responsible Party, Capacity Trader"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENERY PORTFOLIO OPTIMIZATION BULGARIA EAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

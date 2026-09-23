@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-17" ;
+    cim:DateAndOrTime.date "2026-03-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "38T-L504-------J" ;
-    cim:IdentifiedObject.name "L504 Harku-Sindi" ;
+    cim:IdentifiedObject.name "L504 Harku-Aruküla" ;
     cim:Names.name "Internal Tie-Line",
-        "L504_HARKU_SINDI" ;
+        "L504_HARKU_ARUKY" ;
     dcterms:identifier "urn:eic:38T-L504-------J" ;
-    skos:altLabel "L504_HARKU_SINDI" ;
+    skos:altLabel "L504_HARKU_ARUKY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "L504 Harku-Sindi" ;
+    skos:prefLabel "L504 Harku-Aruküla" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

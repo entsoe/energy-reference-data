@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PG4N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PG4N" ;
+    cim:IdentifiedObject.name "ROTOR PRINT S.L" ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-PRINT",
+        "ESB60672623" ;
+    dcterms:identifier "urn:eic:18X000000000PG4N" ;
+    schema1:vatID "ESB60672623" ;
+    skos:altLabel "ES-PRINT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ROTOR PRINT S.L" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

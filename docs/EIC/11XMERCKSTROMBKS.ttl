@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMERCKSTROMBKS" ;
     cim:IdentifiedObject.name "Merck KGaA" ;
-    cim:Names.name "Balance Group",
-        "DE811850788",
-        "MERCK" ;
+    cim:Names.name "DE811850788",
+        "MERCK",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMERCKSTROMBKS" ;
     schema1:vatID "DE811850788" ;
     skos:altLabel "MERCK" ;

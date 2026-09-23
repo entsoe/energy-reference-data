@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XMELU1-12345-I" ;
     cim:IdentifiedObject.name "HISPANO TEX S.A." ;
-    cim:Names.name "Consumption Responsible Party",
-        "ESA08094567",
-        "MELU1" ;
+    cim:Names.name "ESA08094567",
+        "MELU1",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:18XMELU1-12345-I" ;
     schema1:vatID "ESA08094567" ;
     skos:altLabel "MELU1" ;

@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000002215P</dcterms:identifier>
     <skos:prefLabel>S Pilestre 11  T1 Forbruk</skos:prefLabel>
-    <skos:altLabel>NO-PILESTRED11T1</skos:altLabel>
+    <skos:altLabel>NO-PILESTRET11T1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000002215P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S Pilestre 11  T1 Forbruk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-PILESTRED11T1</cim:Names.name>
+    <cim:Names.name>NO-PILESTRET11T1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

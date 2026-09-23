@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "22Z-BE-D7-X-AP-8" ;
     cim:IdentifiedObject.name "Reserve sharing AMPRION-ELIA" ;
-    cim:Names.name "VT_D7-BE_AP" ;
+    cim:Names.name "Accounting Point",
+        "VT_D7-BE_AP" ;
     dcterms:identifier "urn:eic:22Z-BE-D7-X-AP-8" ;
     skos:altLabel "VT_D7-BE_AP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

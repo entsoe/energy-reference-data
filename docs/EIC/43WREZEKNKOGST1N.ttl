@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43WREZEKNKOGST1N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43WREZEKNKOGST1N" ;
+    cim:IdentifiedObject.name "KOĢENERĀCIJAS STACIJA Rēzekne" ;
+    cim:Names.name "Generation Unit",
+        "REZEKNKOGST1N" ;
+    dcterms:identifier "urn:eic:43WREZEKNKOGST1N" ;
+    skos:altLabel "REZEKNKOGST1N" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KOĢENERĀCIJAS STACIJA Rēzekne" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "S.C. I.C.P.E. ELECTROCOND TECHNOLOGIES S.A.",
     "@cim:Names.name": [
         "ICPE-ELC",
-        "Valid EIC Function needed"
+        "RO356572",
+        "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-03",
+    "@schema:vatID": "RO356572",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

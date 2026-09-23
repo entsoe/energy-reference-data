@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000017159",
-    "@skos:prefLabel": "S 66 Drageset-Bo",
-    "@skos:altLabel": "NO-DRAGESETBO",
+    "@skos:prefLabel": "N 66 Drageset-Bo",
+    "@skos:altLabel": "NO-66DRAGESETBO",
     "@cim:IdentifiedObject.mRID": "50TL000000017159",
-    "@cim:IdentifiedObject.name": "S 66 Drageset-Bo",
+    "@cim:IdentifiedObject.name": "N 66 Drageset-Bo",
     "@cim:Names.name": [
-        "NO-DRAGESETBO",
+        "NO-66DRAGESETBO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/55XBROOK-GREEN-U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "55XBROOK-GREEN-U" ;
+    cim:IdentifiedObject.name "Brook Green Trading Limited" ;
+    cim:Names.name "BGT",
+        "Balance Responsible Party",
+        "GB279970926" ;
+    dcterms:identifier "urn:eic:55XBROOK-GREEN-U" ;
+    schema1:vatID "GB279970926" ;
+    skos:altLabel "BGT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Brook Green Trading Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

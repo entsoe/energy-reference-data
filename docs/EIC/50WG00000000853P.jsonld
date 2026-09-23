@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000853P",
     "@skos:prefLabel": "KOBBELV G101 HYDRO",
-    "@skos:altLabel": "NO-KOBBELV_G101_",
+    "@skos:altLabel": "NO-KOBBELVG101",
     "@cim:IdentifiedObject.mRID": "50WG00000000853P",
     "@cim:IdentifiedObject.name": "KOBBELV G101 HYDRO",
     "@cim:Names.name": [
-        "NO-KOBBELV_G101_",
+        "NO-KOBBELVG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

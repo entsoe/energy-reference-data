@@ -23,12 +23,14 @@
     "@cim:Names.name": [
         "TEKOAS",
         "SK2020048580",
-        "Valid EIC Function needed"
+        "Energy Supplier",
+        "Producer",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Function Missing",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-14",
     "@schema:vatID": "SK2020048580",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

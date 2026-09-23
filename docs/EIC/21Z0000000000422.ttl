@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-08-25" ;
+    cim:DateAndOrTime.date "2024-07-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "21Z0000000000422" ;
-    cim:IdentifiedObject.name "Revithousa LNG" ;
+    cim:IdentifiedObject.name "AGIA TRIADA" ;
     cim:Names.name "AGIATRIADA-GR",
         "Connection Point" ;
     dcterms:identifier "urn:eic:21Z0000000000422" ;
     skos:altLabel "AGIATRIADA-GR" ;
-    skos:definition "Connection Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Revithousa LNG" ;
+    skos:prefLabel "AGIA TRIADA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

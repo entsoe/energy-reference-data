@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000003778",
-    "@skos:prefLabel": "S 132 Hydro_4-Roligheten",
-    "@skos:altLabel": "NO-HYDRO4ROLIGHE",
+    "@skos:prefLabel": "S 132 Herøya_4-Roligheten",
+    "@skos:altLabel": "NO-132HEROYA_4RO",
     "@cim:IdentifiedObject.mRID": "50TL000000003778",
-    "@cim:IdentifiedObject.name": "S 132 Hydro_4-Roligheten",
+    "@cim:IdentifiedObject.name": "S 132 Herøya_4-Roligheten",
     "@cim:Names.name": [
-        "NO-HYDRO4ROLIGHE",
+        "NO-132HEROYA_4RO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

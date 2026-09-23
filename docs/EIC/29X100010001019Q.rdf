@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/29X100010001019Q">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:29X100010001019Q</dcterms:identifier>
+    <skos:prefLabel>&#919;&#923;&#917;&#922;&#932;&#929;&#927;&#925; &#928;&#913;&#929;&#927;&#935;&#927;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931; &#913; &#917; || &#919;&#923;&#917;&#922;&#932;&#929;&#927;&#925; POWER</skos:prefLabel>
+    <skos:altLabel>EIC_ILEKTRON</skos:altLabel>
+    <skos:definition xml:lang="en">&#933;&#928;&#919;&#929;&#917;&#931;&#921;&#917;&#931; &#916;&#921;&#913;&#925;&#927;&#924;&#919;&#931; &#919;&#923;&#917;&#922;&#932;&#929;&#921;&#922;&#919;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931;</skos:definition>
+    <cim:IdentifiedObject.mRID>29X100010001019Q</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>&#919;&#923;&#917;&#922;&#932;&#929;&#927;&#925; &#928;&#913;&#929;&#927;&#935;&#927;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931; &#913; &#917; || &#919;&#923;&#917;&#922;&#932;&#929;&#927;&#925; POWER</cim:IdentifiedObject.name>
+    <cim:Names.name>EIC_ILEKTRON</cim:Names.name>
+    <cim:Names.name>EL802438566</cim:Names.name>
+    <cim:IdentifiedObject.description>&#933;&#928;&#919;&#929;&#917;&#931;&#921;&#917;&#931; &#916;&#921;&#913;&#925;&#927;&#924;&#919;&#931; &#919;&#923;&#917;&#922;&#932;&#929;&#921;&#922;&#919;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931;</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-09-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>EL802438566</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

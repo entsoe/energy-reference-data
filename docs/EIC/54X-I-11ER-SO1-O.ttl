@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/54X-I-11ER-SO1-O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "54X-I-11ER-SO1-O" ;
+    cim:IdentifiedObject.name "Erseka Solar Park 1 sh.p.k" ;
+    cim:Names.name "ERSEKA_SOLAR",
+        "M24816001T",
+        "Producer" ;
+    dcterms:identifier "urn:eic:54X-I-11ER-SO1-O" ;
+    schema1:vatID "M24816001T" ;
+    skos:altLabel "ERSEKA_SOLAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Erseka Solar Park 1 sh.p.k" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000053364",
-    "@skos:prefLabel": "M Alcoa    VII Transformator",
+    "@skos:prefLabel": "N Alcoa    VII Transformator",
     "@skos:altLabel": "NO-MOSJ_ALVVII",
     "@cim:IdentifiedObject.mRID": "50TT000000053364",
-    "@cim:IdentifiedObject.name": "M Alcoa    VII Transformator",
+    "@cim:IdentifiedObject.name": "N Alcoa    VII Transformator",
     "@cim:Names.name": [
         "NO-MOSJ_ALVVII",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

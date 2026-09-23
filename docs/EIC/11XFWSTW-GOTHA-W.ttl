@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFWSTW-GOTHA-W" ;
     cim:IdentifiedObject.name "Fernwärmestadtwerke Gotha GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE150097146",
-        "FWSTW-GOTHA" ;
+    cim:Names.name "DE150097146",
+        "FWSTW-GOTHA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFWSTW-GOTHA-W" ;
     schema1:vatID "DE150097146" ;
     skos:altLabel "FWSTW-GOTHA" ;

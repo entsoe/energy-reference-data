@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000003EV</dcterms:identifier>
     <skos:prefLabel>CENTRAL DE FRANQUICIAS EL RINCON S.L</skos:prefLabel>
     <skos:altLabel>CFRAN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000003EV</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CENTRAL DE FRANQUICIAS EL RINCON S.L</cim:IdentifiedObject.name>
     <cim:Names.name>CFRAN</cim:Names.name>
     <cim:Names.name>ESB50754597</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50754597</schema:vatID>

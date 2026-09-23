@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XEW-SCHMID---Y</dcterms:identifier>
     <skos:prefLabel>EW Schmid GmbH</skos:prefLabel>
     <skos:altLabel>EW-SCHMID</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEW-SCHMID---Y</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EW Schmid GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EW-SCHMID</cim:Names.name>
-    <cim:Names.name>DE812422905</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE268978491</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-09</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE812422905</schema:vatID>
+    <schema:vatID>DE268978491</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

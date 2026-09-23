@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000537C",
-    "@skos:prefLabel": "S 132 Nordagutu-T_Rod",
-    "@skos:altLabel": "NO-NORDAGUTUTROD",
+    "@skos:prefLabel": "S 132 Nordagutu-Rød",
+    "@skos:altLabel": "NO-132NORDAGUTUR",
     "@cim:IdentifiedObject.mRID": "50TL00000000537C",
-    "@cim:IdentifiedObject.name": "S 132 Nordagutu-T_Rod",
+    "@cim:IdentifiedObject.name": "S 132 Nordagutu-Rød",
     "@cim:Names.name": [
-        "NO-NORDAGUTUTROD",
+        "NO-132NORDAGUTUR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

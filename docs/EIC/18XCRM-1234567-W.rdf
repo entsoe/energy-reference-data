@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCRM-1234567-W</dcterms:identifier>
     <skos:prefLabel>COMUNIDAD DE REGANTES DE MAZARRON</skos:prefLabel>
     <skos:altLabel>CRM</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCRM-1234567-W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>COMUNIDAD DE REGANTES DE MAZARRON</cim:IdentifiedObject.name>
     <cim:Names.name>CRM</cim:Names.name>
     <cim:Names.name>ESG30301121</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-05-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG30301121</schema:vatID>

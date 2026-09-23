@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X0-0000-0432-8",
-    "@skos:prefLabel": "KlimaINVEST Green Concepts GmbH",
+    "@skos:prefLabel": "KlimaInvest Green Concepts GmbH",
     "@skos:altLabel": "KIGC",
     "@cim:IdentifiedObject.mRID": "11X0-0000-0432-8",
-    "@cim:IdentifiedObject.name": "KlimaINVEST Green Concepts GmbH",
+    "@cim:IdentifiedObject.name": "KlimaInvest Green Concepts GmbH",
     "@cim:Names.name": [
         "KIGC",
         "DE269768180",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-19",
+    "@cim:DateAndOrTime.date": "2024-02-06",
     "@schema:vatID": "DE269768180",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,18 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19X-CEZ-POLSKA-H",
-    "@skos:prefLabel": "CEZ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "@skos:altLabel": "CEZ_POLSKA",
+    "@skos:prefLabel": "RESINVEST ENERGY POLSKA SP. Z O.O.",
+    "@skos:altLabel": "RE-POLSKA",
     "@cim:IdentifiedObject.mRID": "19X-CEZ-POLSKA-H",
-    "@cim:IdentifiedObject.name": "CEZ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@cim:IdentifiedObject.name": "RESINVEST ENERGY POLSKA SP. Z O.O.",
     "@cim:Names.name": [
-        "CEZ_POLSKA",
+        "RE-POLSKA",
         "PL5252374406",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-04-11",
+    "@cim:DateAndOrTime.date": "2026-03-22",
     "@schema:vatID": "PL5252374406",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

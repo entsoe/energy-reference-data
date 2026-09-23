@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X24SIEBENEPM-0",
-    "@skos:prefLabel": "Stadtwerke Kiel AG",
+    "@skos:prefLabel": "Stadtwerke Kiel Aktiengesellschaft",
     "@skos:altLabel": "24SIEBEN-EPM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11X24SIEBENEPM-0",
-    "@cim:IdentifiedObject.name": "Stadtwerke Kiel AG",
+    "@cim:IdentifiedObject.name": "Stadtwerke Kiel Aktiengesellschaft",
     "@cim:Names.name": [
         "24SIEBEN-EPM",
         "DE811195284",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-10-05",
+    "@cim:DateAndOrTime.date": "2024-12-12",
     "@schema:vatID": "DE811195284",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

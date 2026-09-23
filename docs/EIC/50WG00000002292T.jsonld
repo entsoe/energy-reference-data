@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002292T",
     "@skos:prefLabel": "REINAGA G1      HYDRO",
-    "@skos:altLabel": "NO-REINAGA_G1___",
+    "@skos:altLabel": "NO-REINAGAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000002292T",
     "@cim:IdentifiedObject.name": "REINAGA G1      HYDRO",
     "@cim:Names.name": [
-        "NO-REINAGA_G1___",
+        "NO-REINAGAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

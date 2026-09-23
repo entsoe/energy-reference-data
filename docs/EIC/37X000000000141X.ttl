@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-01" ;
+    cim:DateAndOrTime.date "2025-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Producer" ;
     cim:IdentifiedObject.mRID "37X000000000141X" ;
-    cim:IdentifiedObject.name "WELTEC Produktion Barleben GmbH" ;
+    cim:IdentifiedObject.name "NEXOGAS Produktion Barleben GmbH" ;
     cim:Names.name "DE287261909",
-        "Producer",
-        "WELTEC_PRODUKTIO" ;
+        "NEXOGAS_PRODUKTI",
+        "Producer" ;
     dcterms:identifier "urn:eic:37X000000000141X" ;
     schema1:vatID "DE287261909" ;
-    skos:altLabel "WELTEC_PRODUKTIO" ;
+    skos:altLabel "NEXOGAS_PRODUKTI" ;
     skos:definition "Producer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WELTEC Produktion Barleben GmbH" ;
+    skos:prefLabel "NEXOGAS Produktion Barleben GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000021866",
-    "@skos:prefLabel": "S Langedal 132 AO1 Forbruk",
-    "@skos:altLabel": "NO-LANGEDA132AO1",
+    "@skos:prefLabel": "S Arna omf 132 L1 Forbruk",
+    "@skos:altLabel": "NO-ARNA_OMF132L1",
     "@cim:IdentifiedObject.mRID": "50WC000000021866",
-    "@cim:IdentifiedObject.name": "S Langedal 132 AO1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Arna omf 132 L1 Forbruk",
     "@cim:Names.name": [
-        "NO-LANGEDA132AO1",
+        "NO-ARNA_OMF132L1",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

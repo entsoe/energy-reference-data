@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005120R",
-    "@skos:prefLabel": "M Kolsvik  T1 Transformator",
-    "@skos:altLabel": "NO-KOLSVIK_T1",
+    "@skos:prefLabel": "N Kolsvik  T1 Transformator",
+    "@skos:altLabel": "NO-KOLSVIKT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005120R",
-    "@cim:IdentifiedObject.name": "M Kolsvik  T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Kolsvik  T1 Transformator",
     "@cim:Names.name": [
-        "NO-KOLSVIK_T1",
+        "NO-KOLSVIKT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

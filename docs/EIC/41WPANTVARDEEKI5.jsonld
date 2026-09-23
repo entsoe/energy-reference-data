@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPANTVARDEEKI5",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPANTVARDEEKI5",
+    "@skos:prefLabel": "PAANTVARDŽIO TP EEKI    Vėjo jėgainių projektai, UAB",
+    "@skos:altLabel": "PAANTVARDZIOEEKI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Vėjo jėgainių projektai, UAB 135897557 ramunas@jegaines.lt +370 601 31233"
+    },
+    "@cim:IdentifiedObject.mRID": "41WPANTVARDEEKI5",
+    "@cim:IdentifiedObject.name": "PAANTVARDŽIO TP EEKI    Vėjo jėgainių projektai, UAB",
+    "@cim:Names.name": [
+        "PAANTVARDZIOEEKI",
+        "BESS"
+    ],
+    "@cim:IdentifiedObject.description": "Vėjo jėgainių projektai, UAB 135897557 ramunas@jegaines.lt +370 601 31233",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-08-11",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

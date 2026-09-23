@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-02-22" ;
+    cim:DateAndOrTime.date "2026-02-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator" ;
     cim:IdentifiedObject.mRID "10X1001A1001A248" ;
     cim:IdentifiedObject.name "Energinet" ;
-    cim:Names.name "28980671",
-        "A0000003F.DK",
+    cim:Names.name "A0000003F.DK",
+        "DK28980671",
         "ENERGINET-DK",
         "System Operator" ;
     dcterms:identifier "urn:eic:10X1001A1001A248" ;
-    schema1:vatID "28980671" ;
+    schema1:vatID "DK28980671" ;
     skos:altLabel "ENERGINET-DK" ;
     skos:definition "Transmission System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

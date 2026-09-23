@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005559L",
-    "@skos:prefLabel": "M Bodin    T2 Transformator",
-    "@skos:altLabel": "NO-BODIN___T2",
+    "@skos:prefLabel": "N Bodin    T2 Transformator",
+    "@skos:altLabel": "NO-BODINT2",
     "@cim:IdentifiedObject.mRID": "50TT00000005559L",
-    "@cim:IdentifiedObject.name": "M Bodin    T2 Transformator",
+    "@cim:IdentifiedObject.name": "N Bodin    T2 Transformator",
     "@cim:Names.name": [
-        "NO-BODIN___T2",
+        "NO-BODINT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

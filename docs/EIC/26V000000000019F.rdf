@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/26V000000000019F">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:26V000000000019F</dcterms:identifier>
+    <skos:prefLabel>ECP4-VP-TEST</skos:prefLabel>
+    <skos:altLabel>ECP4-VP-TEST</skos:altLabel>
+    <cim:IdentifiedObject.mRID>26V000000000019F</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>ECP4-VP-TEST</cim:IdentifiedObject.name>
+    <cim:Names.name>ECP4-VP-TEST</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-05-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Endpoint</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

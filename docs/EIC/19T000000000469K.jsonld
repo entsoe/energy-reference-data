@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000000469K",
-    "@skos:prefLabel": "Wielopole-Kędzierzyn",
+    "@skos:prefLabel": "220kV Kedzierzyn-Wielopole",
     "@skos:altLabel": "3001",
     "@cim:IdentifiedObject.mRID": "19T000000000469K",
-    "@cim:IdentifiedObject.name": "Wielopole-Kędzierzyn",
+    "@cim:IdentifiedObject.name": "220kV Kedzierzyn-Wielopole",
     "@cim:Names.name": [
         "3001",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

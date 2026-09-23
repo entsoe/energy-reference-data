@@ -1,0 +1,44 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/69XM73L6CTQ8X205",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:69XM73L6CTQ8X205",
+    "@skos:prefLabel": "D. P. Elsim Ltd",
+    "@skos:altLabel": "DPELSIMPV",
+    "@cim:IdentifiedObject.mRID": "69XM73L6CTQ8X205",
+    "@cim:IdentifiedObject.name": "D. P. Elsim Ltd",
+    "@cim:Names.name": [
+        "DPELSIMPV",
+        "10363680T",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Consumer",
+        "Imbalance Settlement Responsible",
+        "Information Provider",
+        "Network User",
+        "Party Connected To Grid",
+        "Producer"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-02-05",
+    "@schema:vatID": "10363680T",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

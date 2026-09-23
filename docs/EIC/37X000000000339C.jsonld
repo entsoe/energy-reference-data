@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/37X000000000339C",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:37X000000000339C",
+    "@skos:prefLabel": "Industriepark Neckarsulm Energie GmbH",
+    "@skos:altLabel": "INDUSTRIEPARK_NE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Distribution System Operator"
+    },
+    "@cim:IdentifiedObject.mRID": "37X000000000339C",
+    "@cim:IdentifiedObject.name": "Industriepark Neckarsulm Energie GmbH",
+    "@cim:Names.name": [
+        "INDUSTRIEPARK_NE",
+        "DE815680178",
+        "Distribution System Operator"
+    ],
+    "@cim:IdentifiedObject.description": "Distribution System Operator",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-01-20",
+    "@schema:vatID": "DE815680178",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

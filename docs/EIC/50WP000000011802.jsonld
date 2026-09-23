@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000011802",
     "@skos:prefLabel": "Simavika",
-    "@skos:altLabel": "NO-SIMAVIKA_PL",
+    "@skos:altLabel": "NO-SIMAVIKA",
     "@cim:IdentifiedObject.mRID": "50WP000000011802",
     "@cim:IdentifiedObject.name": "Simavika",
     "@cim:Names.name": [
-        "NO-SIMAVIKA_PL",
+        "NO-SIMAVIKA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

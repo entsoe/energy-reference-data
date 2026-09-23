@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-04-09" ;
+    cim:DateAndOrTime.date "2024-12-15" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEVR-NETZ----K" ;
     cim:IdentifiedObject.name "Energieversorgung Rüsselsheim GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE220280597",
-        "EVR_NETZ" ;
+    cim:Names.name "DE220280572",
+        "EVR_NETZ",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XEVR-NETZ----K" ;
-    schema1:vatID "DE220280597" ;
+    schema1:vatID "DE220280572" ;
     skos:altLabel "EVR_NETZ" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Energieversorgung Rüsselsheim GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

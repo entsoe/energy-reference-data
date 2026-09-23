@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/42X-AKA-TEAM---F",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:42X-AKA-TEAM---F",
+    "@skos:prefLabel": "AKA team s.r.o",
+    "@skos:altLabel": "AKA_TEAM",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "According to the documents submitted the by applicant the VAT code for the company has been approved and will be valid from 15.6.2026."
+    },
+    "@cim:IdentifiedObject.mRID": "42X-AKA-TEAM---F",
+    "@cim:IdentifiedObject.name": "AKA team s.r.o",
+    "@cim:Names.name": [
+        "AKA_TEAM",
+        "SK2122148017",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "According to the documents submitted the by applicant the VAT code for the company has been approved and will be valid from 15.6.2026.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-06-15",
+    "@schema:vatID": "SK2122148017",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

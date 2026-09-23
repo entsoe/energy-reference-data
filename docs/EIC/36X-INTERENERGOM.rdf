@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:36X-INTERENERGOM</dcterms:identifier>
-    <skos:prefLabel>Interenergo d.o.o. Sarajevo</skos:prefLabel>
-    <skos:altLabel>INTERENER-BIH</skos:altLabel>
+    <skos:prefLabel>"KELAG INTERNATIONAL" d.o.o., Sarajevo</skos:prefLabel>
+    <skos:altLabel>KELAG-BIH</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>36X-INTERENERGOM</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Interenergo d.o.o. Sarajevo</cim:IdentifiedObject.name>
-    <cim:Names.name>INTERENER-BIH</cim:Names.name>
+    <cim:IdentifiedObject.name>"KELAG INTERNATIONAL" d.o.o., Sarajevo</cim:IdentifiedObject.name>
+    <cim:Names.name>KELAG-BIH</cim:Names.name>
     <cim:Names.name>4201242530004</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-01-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

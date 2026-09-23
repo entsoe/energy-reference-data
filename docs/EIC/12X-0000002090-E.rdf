@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:12X-0000002090-E</dcterms:identifier>
-    <skos:prefLabel>DXT Energy Resources SA</skos:prefLabel>
+    <skos:prefLabel>Aroha Agri Resources SA</skos:prefLabel>
     <skos:altLabel>DXT-ENERGY-SA-ST</skos:altLabel>
     <cim:IdentifiedObject.mRID>12X-0000002090-E</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>DXT Energy Resources SA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Aroha Agri Resources SA</cim:IdentifiedObject.name>
     <cim:Names.name>DXT-ENERGY-SA-ST</cim:Names.name>
     <cim:Names.name>CHE251062188</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-05</cim:DateAndOrTime.date>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CHE251062188</schema:vatID>

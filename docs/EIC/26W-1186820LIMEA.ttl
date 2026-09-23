@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26W-1186820LIMEA> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "IM_1186820UP_LIMES1SRL_1" ;
+    cim:IdentifiedObject.mRID "26W-1186820LIMEA" ;
+    cim:IdentifiedObject.name "IM_1186820UP_LIMES1SRL_1" ;
+    cim:Names.name "1186820_39930",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:26W-1186820LIMEA" ;
+    skos:altLabel "1186820_39930" ;
+    skos:definition "IM_1186820UP_LIMES1SRL_1"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "IM_1186820UP_LIMES1SRL_1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

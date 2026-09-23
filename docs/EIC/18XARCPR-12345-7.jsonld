@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XARCPR-12345-7",
-    "@skos:prefLabel": "Pizarras Arcas Prada, S.A",
+    "@skos:prefLabel": "PIZARRAS ARCAS PRADA, SA",
     "@skos:altLabel": "ARCPR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XARCPR-12345-7",
-    "@cim:IdentifiedObject.name": "Pizarras Arcas Prada, S.A",
+    "@cim:IdentifiedObject.name": "PIZARRAS ARCAS PRADA, SA",
     "@cim:Names.name": [
         "ARCPR",
-        "ESA32338840",
+        "ESB32338840",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-07",
-    "@schema:vatID": "ESA32338840",
+    "@cim:DateAndOrTime.date": "2024-09-09",
+    "@schema:vatID": "ESB32338840",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

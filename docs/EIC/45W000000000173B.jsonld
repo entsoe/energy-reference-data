@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:45W000000000173B",
     "@skos:prefLabel": "Vesterhav Syd",
-    "@skos:altLabel": "DK_VHS",
+    "@skos:altLabel": "DK_VHS_PU",
     "@cim:IdentifiedObject.mRID": "45W000000000173B",
     "@cim:IdentifiedObject.name": "Vesterhav Syd",
     "@cim:Names.name": [
-        "DK_VHS",
+        "DK_VHS_PU",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-03-15",
+    "@cim:DateAndOrTime.date": "2024-01-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

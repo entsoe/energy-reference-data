@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000014916" ;
     cim:IdentifiedObject.name "S Kollsnes 132 EDS1 Industri" ;
     cim:Names.name "Load",
-        "NO-KOLL132EDS1NC" ;
+        "NO-KOLLSNESDS1NC" ;
     dcterms:identifier "urn:eic:50WC000000014916" ;
-    skos:altLabel "NO-KOLL132EDS1NC" ;
+    skos:altLabel "NO-KOLLSNESDS1NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Kollsnes 132 EDS1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XDISAM-------V</dcterms:identifier>
-    <skos:prefLabel>Energi Danmark A/S</skos:prefLabel>
+    <skos:prefLabel>Mind Energy A/S</skos:prefLabel>
     <skos:altLabel>DISAM</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XDISAM-------V</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Energi Danmark A/S</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Mind Energy A/S</cim:IdentifiedObject.name>
     <cim:Names.name>DISAM</cim:Names.name>
     <cim:Names.name>DK17225898</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-07-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-11</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DK17225898</schema:vatID>

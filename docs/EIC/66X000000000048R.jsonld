@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/66X000000000048R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:66X000000000048R",
+    "@skos:prefLabel": "Holt Global Group International AG",
+    "@skos:altLabel": "HOLTGLOBAL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Hakee EIC-X koodia trader rekisteröintiä ja raportointia varten"
+    },
+    "@cim:IdentifiedObject.mRID": "66X000000000048R",
+    "@cim:IdentifiedObject.name": "Holt Global Group International AG",
+    "@cim:Names.name": [
+        "HOLTGLOBAL",
+        "NL823773863B02",
+        "Network User"
+    ],
+    "@cim:IdentifiedObject.description": "Hakee EIC-X koodia trader rekisteröintiä ja raportointia varten",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-26",
+    "@schema:vatID": "NL823773863B02",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

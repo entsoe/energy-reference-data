@@ -4,19 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XFFEW--------Y</dcterms:identifier>
-    <skos:prefLabel>F&#252;rstlich Fugger v. Gl&#246;tt&#180;sche E-Werks GmbH &amp; Co. KG</skos:prefLabel>
+    <skos:prefLabel>F&#252;rstlich Fugger v. Gl&#246;tt'sche E-Werks GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>FFEW</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XFFEW--------Y</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>F&#252;rstlich Fugger v. Gl&#246;tt&#180;sche E-Werks GmbH &amp; Co. KG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>F&#252;rstlich Fugger v. Gl&#246;tt'sche E-Werks GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>FFEW</cim:Names.name>
-    <cim:Names.name>14015953900</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE283220124</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-10-07</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-29</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>14015953900</schema:vatID>
+    <schema:vatID>DE283220124</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

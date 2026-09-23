@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000017442",
-    "@skos:prefLabel": "M 66 Fauske-Rognan",
-    "@skos:altLabel": "NO-FAUSKEROGNAN",
+    "@skos:prefLabel": "N 66 Fauske-Rognan",
+    "@skos:altLabel": "NO-66FAUSKEROGNA",
     "@cim:IdentifiedObject.mRID": "50TL000000017442",
-    "@cim:IdentifiedObject.name": "M 66 Fauske-Rognan",
+    "@cim:IdentifiedObject.name": "N 66 Fauske-Rognan",
     "@cim:Names.name": [
-        "NO-FAUSKEROGNAN",
+        "NO-66FAUSKEROGNA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

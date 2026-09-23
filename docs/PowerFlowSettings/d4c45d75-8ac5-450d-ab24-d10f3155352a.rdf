@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:cim="http://cim.ucaiug.io/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:at="http://publications.europa.eu/ontology/authority/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/d4c45d75-8ac5-450d-ab24-d10f3155352a">
+    <cim:IdentifiedObject.mRID>d4c45d75-8ac5-450d-ab24-d10f3155352a</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Model Debug set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used for testing and model debug sessions. No business process is expected to run using these settings. It is not the only set of settings that can be used for the model debug. It is considered 1st choice. Main feature, control is disabled.</cim:IdentifiedObject.description>
+    <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
+    <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
+    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionParticipationFactor"/>
+    <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
+    <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
+    <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
+    <cim:PowerFlowSettings.respectReactivePowerLimits>true</cim:PowerFlowSettings.respectReactivePowerLimits>
+    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
+    <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>30</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>true</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
+    <cim:PowerFlowSettings.interchangeControlEnabled>true</cim:PowerFlowSettings.interchangeControlEnabled>
+    <cim:PowerFlowSettings.shiftKind rdf:resource="http://cim.ucaiug.io/ns#PowerShiftKind.conformLoadShift"/>
+    <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
+    <skos:prefLabel>Model Debug set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used for testing and model debug sessions. No business process is expected to run using these settings. It is not the only set of settings that can be used for the model debug. It is considered 1st choice. Main feature, control is disabled.</skos:definition>
+    <dcterms:identifier>urn:uuid:d4c45d75-8ac5-450d-ab24-d10f3155352a</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+  </skos:Concept>
+</rdf:RDF>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002961Q",
-    "@skos:prefLabel": "M 22Reinforsen-Øvre Leiråga",
-    "@skos:altLabel": "NO-REINFORSENOVR",
+    "@skos:prefLabel": "N 22Reinforsen-Øvre Leiråga",
+    "@skos:altLabel": "NO-22REINFORSENO",
     "@cim:IdentifiedObject.mRID": "50TL00000002961Q",
-    "@cim:IdentifiedObject.name": "M 22Reinforsen-Øvre Leiråga",
+    "@cim:IdentifiedObject.name": "N 22Reinforsen-Øvre Leiråga",
     "@cim:Names.name": [
-        "NO-REINFORSENOVR",
+        "NO-22REINFORSENO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

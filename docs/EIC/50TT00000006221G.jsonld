@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000006221G",
-    "@skos:prefLabel": "S Finså    T2 Transformator",
-    "@skos:altLabel": "NO-FINSA___T2",
+    "@skos:prefLabel": "S Hamang   T4 Transformator",
+    "@skos:altLabel": "NO-HAMANGT4",
     "@cim:IdentifiedObject.mRID": "50TT00000006221G",
-    "@cim:IdentifiedObject.name": "S Finså    T2 Transformator",
+    "@cim:IdentifiedObject.name": "S Hamang   T4 Transformator",
     "@cim:Names.name": [
-        "NO-FINSA___T2",
+        "NO-HAMANGT4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "SPOLGAS s.r.o.",
     "@cim:Names.name": [
         "SPOLGAS",
-        "CZ25456482",
+        "cz25456482",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-03-06",
-    "@schema:vatID": "CZ25456482",
+    "@schema:vatID": "cz25456482",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XFMFLE-12345-F",
     "@skos:prefLabel": "FOTOVOLTAICA MONTE FLECHA, S.L.",
     "@skos:altLabel": "FMFLE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFMFLE-12345-F",
     "@cim:IdentifiedObject.name": "FOTOVOLTAICA MONTE FLECHA, S.L.",
     "@cim:Names.name": [
         "FMFLE",
         "ESB34238089",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-01-21",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@schema:vatID": "ESB34238089",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

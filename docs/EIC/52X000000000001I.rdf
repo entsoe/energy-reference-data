@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:52X000000000001I</dcterms:identifier>
-    <skos:prefLabel>Scholt Energy Control B.V</skos:prefLabel>
+    <skos:prefLabel>Scholt Energy B.V</skos:prefLabel>
     <skos:altLabel>SCHOLT</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>52X000000000001I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Scholt Energy Control B.V</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Scholt Energy B.V</cim:IdentifiedObject.name>
     <cim:Names.name>SCHOLT</cim:Names.name>
     <cim:Names.name>NL814224581B01</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-10-20</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL814224581B01</schema:vatID>

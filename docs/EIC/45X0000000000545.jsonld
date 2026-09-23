@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:45X0000000000545",
-    "@skos:prefLabel": "Vis Algorithmics ApS",
+    "@skos:prefLabel": "Vis Commodities ApS",
     "@skos:altLabel": "VISALGO",
     "@cim:IdentifiedObject.mRID": "45X0000000000545",
-    "@cim:IdentifiedObject.name": "Vis Algorithmics ApS",
+    "@cim:IdentifiedObject.name": "Vis Commodities ApS",
     "@cim:Names.name": [
         "VISALGO",
         "DK40343407",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-31",
+    "@cim:DateAndOrTime.date": "2025-11-27",
     "@schema:vatID": "DK40343407",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

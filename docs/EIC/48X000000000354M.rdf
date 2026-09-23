@@ -6,14 +6,39 @@
     <dcterms:identifier>urn:eic:48X000000000354M</dcterms:identifier>
     <skos:prefLabel>Millbrook Power Limited</skos:prefLabel>
     <skos:altLabel>MILBRPOW</skos:altLabel>
+    <skos:definition xml:lang="en">Update to Functions.
+
+Millbrook Power Limited
+International
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+</skos:definition>
     <cim:IdentifiedObject.mRID>48X000000000354M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Millbrook Power Limited</cim:IdentifiedObject.name>
     <cim:Names.name>MILBRPOW</cim:Names.name>
     <cim:Names.name>GB744326437</cim:Names.name>
+    <cim:IdentifiedObject.description>Update to Functions.
+
+Millbrook Power Limited
+International
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-07-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-02-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Party Connected To Grid</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB744326437</schema:vatID>
   </skos:Concept>

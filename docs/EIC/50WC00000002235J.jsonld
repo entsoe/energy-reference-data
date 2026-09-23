@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002235J",
-    "@skos:prefLabel": "S Sande_LN 50  T2 Forbruk",
+    "@skos:prefLabel": "S Sande LN 50  T2 Forbruk",
     "@skos:altLabel": "NO-SANDE_LN50T2",
     "@cim:IdentifiedObject.mRID": "50WC00000002235J",
-    "@cim:IdentifiedObject.name": "S Sande_LN 50  T2 Forbruk",
+    "@cim:IdentifiedObject.name": "S Sande LN 50  T2 Forbruk",
     "@cim:Names.name": [
         "NO-SANDE_LN50T2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

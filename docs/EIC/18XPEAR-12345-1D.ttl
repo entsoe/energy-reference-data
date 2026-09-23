@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
+    cim:DateAndOrTime.date "2026-06-29" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18XPEAR-12345-1D" ;
     cim:IdentifiedObject.name "ENERGÍAS ESPECIALES DE PEÑA ARMADA, S.A." ;
     cim:Names.name "ESA82899311",
         "PEAR",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XPEAR-12345-1D" ;
     schema1:vatID "ESA82899311" ;
     skos:altLabel "PEAR" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENERGÍAS ESPECIALES DE PEÑA ARMADA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

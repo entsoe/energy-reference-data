@@ -1,0 +1,24 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WPERGELIMERG4V">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WPERGELIMERG4V</dcterms:identifier>
+    <skos:prefLabel>Pergeli&#371; VE 4</skos:prefLabel>
+    <skos:altLabel>PERGELIUVE4</skos:altLabel>
+    <skos:definition xml:lang="en"> UAB &#8222;Geniva&#8220;, juridinio asmens kodas 305699767    Mergelui&#269;i&#371; k. 1C, Akmen&#279;s
+r. sav., &#382;em&#279;s sklypo kadastro Nr. 3245/0004:101.   mindaugas.malonis@elektrum.lt
+   </skos:definition>
+    <cim:IdentifiedObject.mRID>41WPERGELIMERG4V</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Pergeli&#371; VE 4</cim:IdentifiedObject.name>
+    <cim:Names.name>PERGELIUVE4</cim:Names.name>
+    <cim:IdentifiedObject.description> UAB &#8222;Geniva&#8220;, juridinio asmens kodas 305699767    Mergelui&#269;i&#371; k. 1C, Akmen&#279;s
+r. sav., &#382;em&#279;s sklypo kadastro Nr. 3245/0004:101.   mindaugas.malonis@elektrum.lt
+   </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-11-26</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

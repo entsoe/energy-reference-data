@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XENERGIE2----H" ;
     cim:IdentifiedObject.name "DONG Energy A/S" ;
-    cim:Names.name "DK18936674",
-        "E2",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DK18936674",
+        "E2" ;
     dcterms:identifier "urn:eic:11XENERGIE2----H" ;
     schema1:vatID "DK18936674" ;
     skos:altLabel "E2" ;

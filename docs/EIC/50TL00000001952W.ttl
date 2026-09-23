@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001952W" ;
-    cim:IdentifiedObject.name "M 66 Liabø-Nørdheim" ;
+    cim:IdentifiedObject.name "N 66 Liabø-Nordheim" ;
     cim:Names.name "Internal Line",
-        "NO-LIABONORDHEIM" ;
+        "NO-66LIABONORDHE" ;
     dcterms:identifier "urn:eic:50TL00000001952W" ;
-    skos:altLabel "NO-LIABONORDHEIM" ;
+    skos:altLabel "NO-66LIABONORDHE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Liabø-Nørdheim" ;
+    skos:prefLabel "N 66 Liabø-Nordheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

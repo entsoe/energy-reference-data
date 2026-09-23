@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000416Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48X000000000416Q" ;
+    cim:IdentifiedObject.name "Grafton Commodity Trading Ltd" ;
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
+        "GB358677344 ",
+        "GRAFTON" ;
+    dcterms:identifier "urn:eic:48X000000000416Q" ;
+    schema1:vatID "GB358677344 " ;
+    skos:altLabel "GRAFTON" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Grafton Commodity Trading Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

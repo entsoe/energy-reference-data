@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000016624" ;
     cim:IdentifiedObject.name "S 66 Blåfalli Vik-Litledalen" ;
     cim:Names.name "Internal Line",
-        "NO-BLAFALLVIKLIT" ;
+        "NO-66BLAFALL_VIK" ;
     dcterms:identifier "urn:eic:50TL000000016624" ;
-    skos:altLabel "NO-BLAFALLVIKLIT" ;
+    skos:altLabel "NO-66BLAFALL_VIK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Blåfalli Vik-Litledalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

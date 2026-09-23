@@ -14,23 +14,19 @@
     "@dcterms:identifier": "urn:eic:10Y1001A1001A39I",
     "@skos:prefLabel": "Estonia",
     "@skos:altLabel": "EE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area"
-    },
     "@cim:IdentifiedObject.mRID": "10Y1001A1001A39I",
     "@cim:IdentifiedObject.name": "Estonia",
     "@cim:Names.name": [
         "EE",
+        "Bidding Zone",
         "Control Area",
-        "Scheduling Area",
+        "LFC Area",
         "Member State",
-        "Bidding Zone"
+        "Scheduling Area"
     ],
-    "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-28",
+    "@cim:DateAndOrTime.date": "2024-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

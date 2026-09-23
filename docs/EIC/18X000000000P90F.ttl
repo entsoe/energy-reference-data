@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P90F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P90F" ;
+    cim:IdentifiedObject.name "KERAMEX S.A." ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-KERAMEX",
+        "ESA12025565" ;
+    dcterms:identifier "urn:eic:18X000000000P90F" ;
+    schema1:vatID "ESA12025565" ;
+    skos:altLabel "ES-KERAMEX" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KERAMEX S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

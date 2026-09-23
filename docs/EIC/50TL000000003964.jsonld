@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000003964",
     "@skos:prefLabel": "S 132 Jordal-Ulven",
-    "@skos:altLabel": "NO-JORDALULVEN",
+    "@skos:altLabel": "NO-132JORDALULVE",
     "@cim:IdentifiedObject.mRID": "50TL000000003964",
     "@cim:IdentifiedObject.name": "S 132 Jordal-Ulven",
     "@cim:Names.name": [
-        "NO-JORDALULVEN",
+        "NO-132JORDALULVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

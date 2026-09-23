@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Eni Global Energy Markets S.p.A.",
     "@cim:Names.name": [
         "ENIGEM",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Fiscal code 11076280962 VIES not approved as VAT number",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-06-15",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

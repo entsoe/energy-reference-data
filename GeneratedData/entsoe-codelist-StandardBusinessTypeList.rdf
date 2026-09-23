@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardBusinessTypeList</skos:prefLabel>
     <dcterms:identifier>ET0017</dcterms:identifier>
     <skos:definition xml:lang="en">The exact business nature identifying the principal characteristic of a time series.</skos:definition>
@@ -1268,7 +1268,7 @@ Critical network elements are displayed in details and their impact on the marke
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
     <dcterms:identifier>B81</dcterms:identifier>
     <skos:prefLabel>Outage (OUT)</skos:prefLabel>
-    <skos:definition xml:lang="en">Outage process: Element is out of operation due to planned maintenance or due to an unplanned/forced outage. Outage may be used as a synonym for unavailability. </skos:definition>
+    <skos:definition xml:lang="en">Outage process where the element is out of operation due to planned maintenance or an unplanned outage. Outage may be used as a synonym for unavailability.</skos:definition>
   </skos:Concept>
   <skos:Concept rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList/B82">
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
@@ -1975,7 +1975,7 @@ Critical network elements are displayed in details and their impact on the marke
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
     <dcterms:identifier>C83</dcterms:identifier>
     <skos:prefLabel>Faster than standard FAT</skos:prefLabel>
-    <skos:definition xml:lang="en">Bids that can support a “Full Activation Time” (FAT) that is faster than standard FAT. Fast activation can be done for bids with activation time shorter than the minimum requirement for the standard product. When circumstances call for it, the TSO can order activation of such bids on a shorter notice.</skos:definition>
+    <skos:definition xml:lang="en">Bids that can support a �Full Activation Time� (FAT) that is faster than standard FAT. Fast activation can be done for bids with activation time shorter than the minimum requirement for the standard product. When circumstances call for it, the TSO can order activation of such bids on a shorter notice.</skos:definition>
   </skos:Concept>
   <skos:Concept rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList/C84">
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
@@ -2046,5 +2046,26 @@ Critical network elements are displayed in details and their impact on the marke
     <dcterms:identifier>C93</dcterms:identifier>
     <skos:prefLabel>Permission administration details</skos:prefLabel>
     <skos:definition xml:lang="en">A timeseries describing permission details such as authorisations, licenses or related regulatory requirements.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList/C94">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <dcterms:identifier>C94</dcterms:identifier>
+    <skos:prefLabel>Maximum capacity value of AC border flow</skos:prefLabel>
+    <skos:definition xml:lang="en">Maximum flow on an AC border between two areas (capacity)</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList/C95">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <dcterms:identifier>C95</dcterms:identifier>
+    <skos:prefLabel>Initial forecast value of AC border flow</skos:prefLabel>
+    <skos:definition xml:lang="en">Initial flow on an AC border between two areas (forecast)</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardBusinessTypeList/C96">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardBusinessTypeList"/>
+    <dcterms:identifier>C96</dcterms:identifier>
+    <skos:prefLabel>Forced outage (FO)</skos:prefLabel>
+    <skos:definition xml:lang="en">Outage process where the element is out of operation due to a forced outage. </skos:definition>
   </skos:Concept>
 </rdf:RDF>

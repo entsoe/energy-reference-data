@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSOBIM-12345-9",
     "@skos:prefLabel": "SOBIMA, S.A.",
     "@skos:altLabel": "SOBIM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSOBIM-12345-9",
     "@cim:IdentifiedObject.name": "SOBIMA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28996031",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28996031",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

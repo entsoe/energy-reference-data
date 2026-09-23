@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000153Q",
-    "@skos:prefLabel": "MAN Energy Solutions SE",
-    "@skos:altLabel": "MAN_ENERGY_SOLUT",
+    "@skos:prefLabel": "EVERLLENCE SE",
+    "@skos:altLabel": "EVERLLENCE_SE",
     "@skos:definition": {
         "@language": "en",
         "@value": "Consumer"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000153Q",
-    "@cim:IdentifiedObject.name": "MAN Energy Solutions SE",
+    "@cim:IdentifiedObject.name": "EVERLLENCE SE",
     "@cim:Names.name": [
-        "MAN_ENERGY_SOLUT",
+        "EVERLLENCE_SE",
         "DE811136900",
         "Consumer"
     ],
     "@cim:IdentifiedObject.description": "Consumer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-01-21",
+    "@cim:DateAndOrTime.date": "2025-07-09",
     "@schema:vatID": "DE811136900",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

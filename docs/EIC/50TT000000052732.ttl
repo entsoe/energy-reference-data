@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000052732" ;
-    cim:IdentifiedObject.name "M Marka    T2 Transformator" ;
-    cim:Names.name "NO-MARKA___T2",
+    cim:IdentifiedObject.name "N Marka    T2 Transformator" ;
+    cim:Names.name "NO-MARKAT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000052732" ;
-    skos:altLabel "NO-MARKA___T2" ;
+    skos:altLabel "NO-MARKAT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Marka    T2 Transformator" ;
+    skos:prefLabel "N Marka    T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

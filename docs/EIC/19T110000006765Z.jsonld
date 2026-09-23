@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006765Z",
-    "@skos:prefLabel": "Lubocza-Wanda",
+    "@skos:prefLabel": "220kV Lubocza-Wanda",
     "@skos:altLabel": "3602",
     "@cim:IdentifiedObject.mRID": "19T110000006765Z",
-    "@cim:IdentifiedObject.name": "Lubocza-Wanda",
+    "@cim:IdentifiedObject.name": "220kV Lubocza-Wanda",
     "@cim:Names.name": [
         "3602",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

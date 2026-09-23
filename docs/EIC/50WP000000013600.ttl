@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000013600" ;
     cim:IdentifiedObject.name "Buru Mikrokraft" ;
-    cim:Names.name "NO-BURU-MIKROKRA",
+    cim:Names.name "NO-BURUMIKROKRAF",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000013600" ;
-    skos:altLabel "NO-BURU-MIKROKRA" ;
+    skos:altLabel "NO-BURUMIKROKRAF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Buru Mikrokraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

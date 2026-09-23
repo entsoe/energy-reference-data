@@ -13,7 +13,7 @@
     },
     "@dcterms:identifier": "urn:eic:37X000000000029R",
     "@skos:prefLabel": "Vallourec Deutschland GmbH",
-    "@skos:altLabel": "VALLOURECGERMANY",
+    "@skos:altLabel": "VALLOUREC_D",
     "@skos:definition": {
         "@language": "en",
         "@value": "Consumer"
@@ -21,14 +21,14 @@
     "@cim:IdentifiedObject.mRID": "37X000000000029R",
     "@cim:IdentifiedObject.name": "Vallourec Deutschland GmbH",
     "@cim:Names.name": [
-        "VALLOURECGERMANY",
+        "VALLOUREC_D",
         "DE811790604",
         "Consumer"
     ],
     "@cim:IdentifiedObject.description": "Consumer",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-18",
+    "@cim:DateAndOrTime.date": "2025-04-11",
     "@schema:vatID": "DE811790604",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

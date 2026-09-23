@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-04-01" ;
+    cim:DateAndOrTime.date "2024-08-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31X-ADRIASOL---G" ;
-    cim:IdentifiedObject.name "Adria Sol d.o.o." ;
+    cim:IdentifiedObject.name "ADRIA SOL d.o.o." ;
     cim:Names.name "ADRIASOL-HR",
         "Balance Responsible Party",
-        "HR47042943341" ;
+        "HR47042943341",
+        "Producer" ;
     dcterms:identifier "urn:eic:31X-ADRIASOL---G" ;
     schema1:vatID "HR47042943341" ;
     skos:altLabel "ADRIASOL-HR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Adria Sol d.o.o." ;
+    skos:prefLabel "ADRIA SOL d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

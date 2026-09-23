@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCIUDADJARDIN5",
     "@skos:prefLabel": "APARTAMENTOS CIUDAD JARDIN SL",
     "@skos:altLabel": "CJARD",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCIUDADJARDIN5",
     "@cim:IdentifiedObject.name": "APARTAMENTOS CIUDAD JARDIN SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB35545433",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB35545433",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

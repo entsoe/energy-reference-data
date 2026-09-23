@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/28X0000000001019> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "28X0000000001019" ;
+    cim:IdentifiedObject.name "SOLVIS ER D.O.O." ;
+    cim:Names.name "Balance Responsible Party",
+        "SI95778322",
+        "SOLVISERSI" ;
+    dcterms:identifier "urn:eic:28X0000000001019" ;
+    schema1:vatID "SI95778322" ;
+    skos:altLabel "SOLVISERSI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SOLVIS ER D.O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

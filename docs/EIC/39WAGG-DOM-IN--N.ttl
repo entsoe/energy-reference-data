@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-11" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "39WAGG-DOM-IN--N" ;
     cim:IdentifiedObject.name "Hazai betáplálás összesen" ;
     cim:Names.name "39WAGG-DOM-IN",
-        "Connection Point" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:39WAGG-DOM-IN--N" ;
     skos:altLabel "39WAGG-DOM-IN" ;
     skos:definition "Connection Point"@en ;

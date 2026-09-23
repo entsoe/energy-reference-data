@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XVEGO-123456-U</dcterms:identifier>
     <skos:prefLabel>VEGO SUPERMERCADOS .S.A.</skos:prefLabel>
     <skos:altLabel>VEGO</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XVEGO-123456-U</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>VEGO SUPERMERCADOS .S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>VEGO</cim:Names.name>
     <cim:Names.name>ESA36651313</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-01-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA36651313</schema:vatID>

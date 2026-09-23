@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-02-07" ;
+    cim:DateAndOrTime.date "2025-11-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "55XCHRYSAORMARK6" ;
-    cim:IdentifiedObject.name "Chrysaor Marketing Limited" ;
-    cim:Names.name "CHRYSAORMARKETIN",
-        "GB918462017",
+    cim:IdentifiedObject.name "Harbour Energy Marketing Limited" ;
+    cim:Names.name "GB918462017",
+        "HARBOURENERGY",
         "Producer" ;
     dcterms:identifier "urn:eic:55XCHRYSAORMARK6" ;
     schema1:vatID "GB918462017" ;
-    skos:altLabel "CHRYSAORMARKETIN" ;
+    skos:altLabel "HARBOURENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Chrysaor Marketing Limited" ;
+    skos:prefLabel "Harbour Energy Marketing Limited" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

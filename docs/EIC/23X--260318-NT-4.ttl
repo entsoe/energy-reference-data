@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260318-NT-4> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """VAT number confirmed by the IAPR and VIES: EL802775073 
+Company Registration Number confirmed by Chamber of Commerce and Industry: ELGEMI.182532501000 """ ;
+    cim:IdentifiedObject.mRID "23X--260318-NT-4" ;
+    cim:IdentifiedObject.name "NGN TRADING SOCIETE ANONYME" ;
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
+        "EL802775073",
+        "NGN_TRADING" ;
+    dcterms:identifier "urn:eic:23X--260318-NT-4" ;
+    schema1:vatID "EL802775073" ;
+    skos:altLabel "NGN_TRADING" ;
+    skos:definition """VAT number confirmed by the IAPR and VIES: EL802775073 
+Company Registration Number confirmed by Chamber of Commerce and Industry: ELGEMI.182532501000 """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NGN TRADING SOCIETE ANONYME" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

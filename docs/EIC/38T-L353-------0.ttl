@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-17" ;
+    cim:DateAndOrTime.date "2026-03-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "38T-L353-------0" ;
-    cim:IdentifiedObject.name "Tsirguliina-Viru" ;
+    cim:IdentifiedObject.name "Mustvee-Tsirguliina" ;
     cim:Names.name "Internal Tie-Line",
-        "L353_TSIRGU_VIRU" ;
+        "L353_MUSTVEE-TSI" ;
     dcterms:identifier "urn:eic:38T-L353-------0" ;
-    skos:altLabel "L353_TSIRGU_VIRU" ;
+    skos:altLabel "L353_MUSTVEE-TSI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tsirguliina-Viru" ;
+    skos:prefLabel "Mustvee-Tsirguliina" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

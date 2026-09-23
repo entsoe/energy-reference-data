@@ -13,7 +13,8 @@
     cim:IdentifiedObject.name " SIA INTER RAO LATVIA" ;
     cim:Names.name "Balance Responsible Party",
         "LV-INTERRAO",
-        "LV40103268639" ;
+        "LV40103268639",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:43X-T-INTERAOL-H" ;
     schema1:vatID "LV40103268639" ;
     skos:altLabel "LV-INTERRAO" ;

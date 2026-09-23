@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000181Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-02" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000181Z" ;
+    cim:IdentifiedObject.name "Our New Energy X" ;
+    cim:Names.name "42186023",
+        "Balancing Service Provider",
+        "ONEX" ;
+    dcterms:identifier "urn:eic:45X000000000181Z" ;
+    schema1:vatID "42186023" ;
+    skos:altLabel "ONEX" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Our New Energy X" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

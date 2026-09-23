@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002371A" ;
-    cim:IdentifiedObject.name "S Finstad 47 X2" ;
+    cim:IdentifiedObject.name "S Finstad  47  X2" ;
     cim:Names.name "Internal Line",
-        "NO-FINSTAD47X2" ;
+        "NO-FINSTAD47X2_C" ;
     dcterms:identifier "urn:eic:50TL00000002371A" ;
-    skos:altLabel "NO-FINSTAD47X2" ;
+    skos:altLabel "NO-FINSTAD47X2_C" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Finstad 47 X2" ;
+    skos:prefLabel "S Finstad  47  X2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

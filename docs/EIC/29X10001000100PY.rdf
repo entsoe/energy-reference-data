@@ -15,10 +15,10 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-02-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
-    <cim:Names.name>Producer</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>EL801552795</schema:vatID>
   </skos:Concept>

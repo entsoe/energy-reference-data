@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001975K" ;
-    cim:IdentifiedObject.name "S 66 Lunde NSB-Fåberg" ;
+    cim:IdentifiedObject.name "S 66 Sandvold-Lunde" ;
     cim:Names.name "Internal Line",
-        "NO-LUNDENSB-FABE" ;
+        "NO-66SANDVOLDLUN" ;
     dcterms:identifier "urn:eic:50TL00000001975K" ;
-    skos:altLabel "NO-LUNDENSB-FABE" ;
+    skos:altLabel "NO-66SANDVOLDLUN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Lunde NSB-Fåberg" ;
+    skos:prefLabel "S 66 Sandvold-Lunde" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

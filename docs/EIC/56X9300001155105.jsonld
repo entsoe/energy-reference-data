@@ -12,18 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X9300001155105",
-    "@skos:prefLabel": "LLC \"AB ENERGO\"",
-    "@skos:altLabel": "AB_ENERGO",
+    "@skos:prefLabel": "“ENERGODEV” Limited Liability Company",
+    "@skos:altLabel": "ENERGODEV_LLC",
     "@cim:IdentifiedObject.mRID": "56X9300001155105",
-    "@cim:IdentifiedObject.name": "LLC \"AB ENERGO\"",
+    "@cim:IdentifiedObject.name": "“ENERGODEV” Limited Liability Company",
     "@cim:Names.name": [
-        "AB_ENERGO",
+        "ENERGODEV_LLC",
         "414895426569",
-        "Network User"
+        "Network User",
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-02-06",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "414895426569",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

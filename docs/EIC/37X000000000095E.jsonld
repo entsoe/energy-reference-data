@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000095E",
-    "@skos:prefLabel": "Scholt Energy Control GmbH",
-    "@skos:altLabel": "SCHOLT_ENERGY_CO",
+    "@skos:prefLabel": "Scholt Energy GmbH",
+    "@skos:altLabel": "SCHOLT_ENERGY_GM",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Supplier"
+        "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000095E",
-    "@cim:IdentifiedObject.name": "Scholt Energy Control GmbH",
+    "@cim:IdentifiedObject.name": "Scholt Energy GmbH",
     "@cim:Names.name": [
-        "SCHOLT_ENERGY_CO",
+        "SCHOLT_ENERGY_GM",
         "DE815514762",
-        "Energy Supplier"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Supplier",
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-09-28",
+    "@cim:DateAndOrTime.date": "2025-09-18",
     "@schema:vatID": "DE815514762",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

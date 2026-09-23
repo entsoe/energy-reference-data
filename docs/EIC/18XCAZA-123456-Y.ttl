@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-07-23" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCAZA-123456-Y" ;
     cim:IdentifiedObject.name "DE CAZA Y CONTROL S.L" ;
     cim:Names.name "CAZA",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCAZA-123456-Y" ;
     schema1:vatID "ESB99344285" ;
     skos:altLabel "CAZA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "DE CAZA Y CONTROL S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

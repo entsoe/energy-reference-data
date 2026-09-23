@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardAssetTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardAssetTypeList</skos:prefLabel>
     <dcterms:identifier>ET0031</dcterms:identifier>
     <skos:definition xml:lang="en">The identification of the type of asset.</skos:definition>
@@ -454,7 +454,7 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
     <dcterms:identifier>B50</dcterms:identifier>
     <skos:prefLabel>Nuclear light water reactor</skos:prefLabel>
-    <skos:definition xml:lang="en">A unit in which the heat source is a light-water reactor (LWR) that is a type of thermal-neutron reactor that uses normal water, as both its coolant and neutron moderator – furthermore a solid form of fissile elements is used as fuel. </skos:definition>
+    <skos:definition xml:lang="en">A unit in which the heat source is a light-water reactor (LWR) that is a type of thermal-neutron reactor that uses normal water, as both its coolant and neutron moderator � furthermore a solid form of fissile elements is used as fuel. </skos:definition>
   </skos:Concept>
   <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAssetTypeList/B51">
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
@@ -623,5 +623,19 @@
     <dcterms:identifier>B74</dcterms:identifier>
     <skos:prefLabel>Chlor-alkali electrolysis by-product</skos:prefLabel>
     <skos:definition xml:lang="en">Alkali electrolysis product.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAssetTypeList/B75">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
+    <dcterms:identifier>B75</dcterms:identifier>
+    <skos:prefLabel>ACDC converter</skos:prefLabel>
+    <skos:definition xml:lang="en">ACDC converters are electrical circuits that transform alternating current (AC) into direct current (DC) and vice versa.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardAssetTypeList/B76">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardAssetTypeList"/>
+    <dcterms:identifier>B76</dcterms:identifier>
+    <skos:prefLabel>Converter</skos:prefLabel>
+    <skos:definition xml:lang="en">Electrical device that converts current between AC and DC.</skos:definition>
   </skos:Concept>
 </rdf:RDF>

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46TAC0000000290J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46TAC0000000290J" ;
+    cim:IdentifiedObject.name "Midskog-Åskälen " ;
+    cim:Names.name "Internal Line",
+        "MIDSKOG-ASKALEN" ;
+    dcterms:identifier "urn:eic:46TAC0000000290J" ;
+    skos:altLabel "MIDSKOG-ASKALEN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Midskog-Åskälen " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

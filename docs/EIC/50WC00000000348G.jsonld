@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000348G",
-    "@skos:prefLabel": "M Svabo    22  L1 Industri",
+    "@skos:prefLabel": "N Svabo    22  L1 Industri",
     "@skos:altLabel": "NO-SVABO22T1NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000348G",
-    "@cim:IdentifiedObject.name": "M Svabo    22  L1 Industri",
+    "@cim:IdentifiedObject.name": "N Svabo    22  L1 Industri",
     "@cim:Names.name": [
         "NO-SVABO22T1NC",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

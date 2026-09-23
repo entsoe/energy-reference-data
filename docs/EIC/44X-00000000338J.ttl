@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/44X-00000000338J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "44X-00000000338J" ;
+    cim:IdentifiedObject.name "Esse Elektro-Services Ab" ;
+    cim:Names.name "44ESSEELEKTROSER",
+        "Balancing Service Provider",
+        "FI36282687" ;
+    dcterms:identifier "urn:eic:44X-00000000338J" ;
+    schema1:vatID "FI36282687" ;
+    skos:altLabel "44ESSEELEKTROSER" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Esse Elektro-Services Ab" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000066660",
-    "@skos:prefLabel": "Wrocław-A2",
+    "@skos:prefLabel": "400/110kV Wroclaw AT2",
     "@skos:altLabel": "WRC-A2",
     "@cim:IdentifiedObject.mRID": "19T1100000066660",
-    "@cim:IdentifiedObject.name": "Wrocław-A2",
+    "@cim:IdentifiedObject.name": "400/110kV Wroclaw AT2",
     "@cim:Names.name": [
         "WRC-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

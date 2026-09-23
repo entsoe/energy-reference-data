@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XDEPON-12345-R",
-    "@skos:prefLabel": "ENERGÍAS DE PONTEVEDRA, S.L.",
+    "@skos:prefLabel": "ENERGÍAS DE PONTEVEDRA, S.L",
     "@skos:altLabel": "DEPON",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDEPON-12345-R",
-    "@cim:IdentifiedObject.name": "ENERGÍAS DE PONTEVEDRA, S.L.",
+    "@cim:IdentifiedObject.name": "ENERGÍAS DE PONTEVEDRA, S.L",
     "@cim:Names.name": [
         "DEPON",
         "ESB15957459",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-01-22",
+    "@cim:DateAndOrTime.date": "2026-05-04",
     "@schema:vatID": "ESB15957459",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

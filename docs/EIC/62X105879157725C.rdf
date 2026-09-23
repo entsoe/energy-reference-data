@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:62X105879157725C</dcterms:identifier>
-    <skos:prefLabel>TOV "PIVDENNA ENERGOPOSTACHALNA KOMPANIIA"</skos:prefLabel>
-    <skos:altLabel>PIVDENNA_EK</skos:altLabel>
+    <skos:prefLabel>COMPANY LIMITED LIABILITY "SOUTH ENERGY SUPPLY COMPANY"</skos:prefLabel>
+    <skos:altLabel>SESC_LTD</skos:altLabel>
     <cim:IdentifiedObject.mRID>62X105879157725C</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TOV "PIVDENNA ENERGOPOSTACHALNA KOMPANIIA"</cim:IdentifiedObject.name>
-    <cim:Names.name>PIVDENNA_EK</cim:Names.name>
+    <cim:IdentifiedObject.name>COMPANY LIMITED LIABILITY "SOUTH ENERGY SUPPLY COMPANY"</cim:IdentifiedObject.name>
+    <cim:Names.name>SESC_LTD</cim:Names.name>
     <cim:Names.name>423518015517</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-05-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>423518015517</schema:vatID>

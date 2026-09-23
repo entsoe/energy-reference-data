@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XPDURA-12345-Q",
-    "@skos:prefLabel": "Central Hidroélectrica de PUENTEDURA, S.A.",
+    "@skos:prefLabel": "CENTRAL HIDROELÉCTRICA DE PUENTEDURA, S.L.",
     "@skos:altLabel": "PDURA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPDURA-12345-Q",
-    "@cim:IdentifiedObject.name": "Central Hidroélectrica de PUENTEDURA, S.A.",
+    "@cim:IdentifiedObject.name": "CENTRAL HIDROELÉCTRICA DE PUENTEDURA, S.L.",
     "@cim:Names.name": [
         "PDURA",
-        "ESA09414566",
-        "Production Responsible party"
+        "ESB09414566",
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
-    "@schema:vatID": "ESA09414566",
+    "@cim:DateAndOrTime.date": "2026-01-08",
+    "@schema:vatID": "ESB09414566",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

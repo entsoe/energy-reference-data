@@ -18,12 +18,14 @@
     "@cim:IdentifiedObject.name": "New Europe Gaz d.o.o.",
     "@cim:Names.name": [
         "NEW_EUROPE_GAZ",
+        "n / a",
         "Capacity Trader",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-03-10",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000010053",
     "@skos:prefLabel": "S 300 Blåfalli Vik-Blåfalli",
-    "@skos:altLabel": "NO-BLAFALLIVIKBL",
+    "@skos:altLabel": "NO-300BLAFALLI_V",
     "@cim:IdentifiedObject.mRID": "50TL000000010053",
     "@cim:IdentifiedObject.name": "S 300 Blåfalli Vik-Blåfalli",
     "@cim:Names.name": [
-        "NO-BLAFALLIVIKBL",
+        "NO-300BLAFALLI_V",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

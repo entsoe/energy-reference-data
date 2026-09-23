@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002215O",
-    "@skos:prefLabel": "M 66 T_Håen-Sokna",
-    "@skos:altLabel": "NO-THAENSOKNA",
+    "@skos:prefLabel": "N 66 T_Håen-Sokna",
+    "@skos:altLabel": "NO-66T_HAENSOKNA",
     "@cim:IdentifiedObject.mRID": "50TL00000002215O",
-    "@cim:IdentifiedObject.name": "M 66 T_Håen-Sokna",
+    "@cim:IdentifiedObject.name": "N 66 T_Håen-Sokna",
     "@cim:Names.name": [
-        "NO-THAENSOKNA",
+        "NO-66T_HAENSOKNA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000141X",
-    "@skos:prefLabel": "WELTEC Produktion Barleben GmbH",
-    "@skos:altLabel": "WELTEC_PRODUKTIO",
+    "@skos:prefLabel": "NEXOGAS Produktion Barleben GmbH",
+    "@skos:altLabel": "NEXOGAS_PRODUKTI",
     "@skos:definition": {
         "@language": "en",
         "@value": "Producer"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000141X",
-    "@cim:IdentifiedObject.name": "WELTEC Produktion Barleben GmbH",
+    "@cim:IdentifiedObject.name": "NEXOGAS Produktion Barleben GmbH",
     "@cim:Names.name": [
-        "WELTEC_PRODUKTIO",
+        "NEXOGAS_PRODUKTI",
         "DE287261909",
         "Producer"
     ],
     "@cim:IdentifiedObject.description": "Producer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-01",
+    "@cim:DateAndOrTime.date": "2025-12-05",
     "@schema:vatID": "DE287261909",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

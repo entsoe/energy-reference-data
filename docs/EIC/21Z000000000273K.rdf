@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000273K</dcterms:identifier>
-    <skos:prefLabel>EdisonStoccaggi</skos:prefLabel>
-    <skos:altLabel>EDISONSTOCCAGGIO</skos:altLabel>
+    <skos:prefLabel>STOGIT Adriatica</skos:prefLabel>
+    <skos:altLabel>SSO_FACILITY</skos:altLabel>
     <skos:definition xml:lang="en">Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000273K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EdisonStoccaggi</cim:IdentifiedObject.name>
-    <cim:Names.name>EDISONSTOCCAGGIO</cim:Names.name>
+    <cim:IdentifiedObject.name>STOGIT Adriatica</cim:IdentifiedObject.name>
+    <cim:Names.name>SSO_FACILITY</cim:Names.name>
     <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-08-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-20</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

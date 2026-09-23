@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000035M",
     "@skos:prefLabel": "ARNA    G108 HYDRO",
-    "@skos:altLabel": "NO-ARNA____G108_",
+    "@skos:altLabel": "NO-ARNAG108",
     "@cim:IdentifiedObject.mRID": "50WG00000000035M",
     "@cim:IdentifiedObject.name": "ARNA    G108 HYDRO",
     "@cim:Names.name": [
-        "NO-ARNA____G108_",
+        "NO-ARNAG108",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-08-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006009E" ;
-    cim:IdentifiedObject.name "S Uvdal    T1 Transformator" ;
-    cim:Names.name "NO-UVDAL___T1",
+    cim:IdentifiedObject.name "S Uvdal 1  T1 Transformator" ;
+    cim:Names.name "NO-UVDAL_1T1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006009E" ;
-    skos:altLabel "NO-UVDAL___T1" ;
+    skos:altLabel "NO-UVDAL_1T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Uvdal    T1 Transformator" ;
+    skos:prefLabel "S Uvdal 1  T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

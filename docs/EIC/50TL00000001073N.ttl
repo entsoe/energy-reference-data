@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001073N" ;
-    cim:IdentifiedObject.name "S 300 Nesflaten-Røldal" ;
+    cim:IdentifiedObject.name "S 300 Røldal-Nesflaten" ;
     cim:Names.name "Internal Line",
-        "NO-NESFLATENROLD" ;
+        "NO-300ROLDALNESF" ;
     dcterms:identifier "urn:eic:50TL00000001073N" ;
-    skos:altLabel "NO-NESFLATENROLD" ;
+    skos:altLabel "NO-300ROLDALNESF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 300 Nesflaten-Røldal" ;
+    skos:prefLabel "S 300 Røldal-Nesflaten" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

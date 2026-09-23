@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-13" ;
+    cim:DateAndOrTime.date "2026-02-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15XVPPPV-----MAU" ;
-    cim:IdentifiedObject.name "VPP Energiakereskedő Kft." ;
+    cim:IdentifiedObject.name "VPP Energiakereskedő és Üzemeltető Kft." ;
     cim:Names.name "Balance Responsible Party",
         "HU29209741",
         "VPPE" ;
@@ -18,6 +18,6 @@
     schema1:vatID "HU29209741" ;
     skos:altLabel "VPPE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VPP Energiakereskedő Kft." ;
+    skos:prefLabel "VPP Energiakereskedő és Üzemeltető Kft." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

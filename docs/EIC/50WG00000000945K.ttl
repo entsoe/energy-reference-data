@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000945K" ;
-    cim:IdentifiedObject.name "LEIRDOLAG109 HYDRO" ;
+    cim:IdentifiedObject.name "FONNDOLAG109 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LEIRDOLAG109_" ;
+        "NO-FONNDOLAG109" ;
     dcterms:identifier "urn:eic:50WG00000000945K" ;
-    skos:altLabel "NO-LEIRDOLAG109_" ;
+    skos:altLabel "NO-FONNDOLAG109" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LEIRDOLAG109 HYDRO" ;
+    skos:prefLabel "FONNDOLAG109 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

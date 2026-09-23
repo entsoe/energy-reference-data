@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001641T</dcterms:identifier>
     <skos:prefLabel>Vika Kraftverk</skos:prefLabel>
-    <skos:altLabel>NO-VIKA-KRAFTVER</skos:altLabel>
+    <skos:altLabel>NO-VIKAKRAFTVERK</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001641T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Vika Kraftverk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-VIKA-KRAFTVER</cim:Names.name>
+    <cim:Names.name>NO-VIKAKRAFTVERK</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

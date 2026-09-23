@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001206U",
-    "@skos:prefLabel": "M 420 Salten-Svartisen",
-    "@skos:altLabel": "NO-SALTENSVARTIS",
+    "@skos:prefLabel": "N 420 Salten-Svartisen",
+    "@skos:altLabel": "NO-420SALTENSVAR",
     "@cim:IdentifiedObject.mRID": "50TL00000001206U",
-    "@cim:IdentifiedObject.name": "M 420 Salten-Svartisen",
+    "@cim:IdentifiedObject.name": "N 420 Salten-Svartisen",
     "@cim:Names.name": [
-        "NO-SALTENSVARTIS",
+        "NO-420SALTENSVAR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

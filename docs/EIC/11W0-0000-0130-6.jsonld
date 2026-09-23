@@ -16,10 +16,13 @@
     "@skos:altLabel": "BKR02",
     "@cim:IdentifiedObject.mRID": "11W0-0000-0130-6",
     "@cim:IdentifiedObject.name": "Windpark Borkum Riffgrund 2",
-    "@cim:Names.name": "BKR02",
-    "@cim:Document.docStatus": "A03",
+    "@cim:Names.name": [
+        "BKR02",
+        "Generation"
+    ],
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-11",
+    "@cim:DateAndOrTime.date": "2026-08-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

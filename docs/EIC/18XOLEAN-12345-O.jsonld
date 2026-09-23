@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XOLEAN-12345-O",
     "@skos:prefLabel": "OLEA NOSTRA, S.A.",
     "@skos:altLabel": "OLEAN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XOLEAN-12345-O",
     "@cim:IdentifiedObject.name": "OLEA NOSTRA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA10301240",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA10301240",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

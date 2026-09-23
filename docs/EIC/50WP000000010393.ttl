@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000010393" ;
     cim:IdentifiedObject.name "Svatsum" ;
-    cim:Names.name "NO-SVATSUM_PL",
+    cim:Names.name "NO-SVATSUM",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000010393" ;
-    skos:altLabel "NO-SVATSUM_PL" ;
+    skos:altLabel "NO-SVATSUM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Svatsum" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

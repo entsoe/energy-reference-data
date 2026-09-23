@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001730U",
     "@skos:prefLabel": "Rabb-bekken",
-    "@skos:altLabel": "NO-RABB-BEKKEN",
+    "@skos:altLabel": "NO-RABB_BEKKEN",
     "@cim:IdentifiedObject.mRID": "50WP00000001730U",
     "@cim:IdentifiedObject.name": "Rabb-bekken",
     "@cim:Names.name": [
-        "NO-RABB-BEKKEN",
+        "NO-RABB_BEKKEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

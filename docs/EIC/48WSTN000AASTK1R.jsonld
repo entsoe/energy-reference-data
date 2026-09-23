@@ -13,13 +13,21 @@
     },
     "@dcterms:identifier": "urn:eic:48WSTN000AASTK1R",
     "@skos:prefLabel": "AG-ASTK01",
-    "@skos:altLabel": "AG-ASTK01",
+    "@skos:altLabel": "ASTK01",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "W Unit Code "
+    },
     "@cim:IdentifiedObject.mRID": "48WSTN000AASTK1R",
     "@cim:IdentifiedObject.name": "AG-ASTK01",
-    "@cim:Names.name": "AG-ASTK01",
+    "@cim:Names.name": [
+        "ASTK01",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "W Unit Code ",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-22",
+    "@cim:DateAndOrTime.date": "2024-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

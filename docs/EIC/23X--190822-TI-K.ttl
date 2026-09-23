@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "23X--190822-TI-K" ;
     cim:IdentifiedObject.name "TRANSPACIFIC INVESTMENT GROUP PTE LTD" ;
     cim:Names.name "TRANSPACIFIC_IG",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--190822-TI-K" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "TRANSPACIFIC_IG" ;
     skos:definition "The company is registered in Singapore where VAT is not applicable, only registration number. Company Registration Number: 200917747M Confirmed by an official excerpt from Accounting and Corporate Regulatory Authority (ACRA)"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

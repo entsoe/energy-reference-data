@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-01-14" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-0000001771-R" ;
     cim:IdentifiedObject.name "ABS Power AG" ;
     cim:Names.name "ABS_POWER_AG-ST",
-        "Balance Group",
-        "CH708342" ;
+        "CH708342",
+        "Capacity Trader" ;
     dcterms:identifier "urn:eic:12X-0000001771-R" ;
     schema1:vatID "CH708342" ;
     skos:altLabel "ABS_POWER_AG-ST" ;

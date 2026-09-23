@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000540N",
-    "@skos:prefLabel": "Amfitriti",
-    "@skos:altLabel": "AMFITRITI",
+    "@skos:prefLabel": "AMFITRITI",
+    "@skos:altLabel": "AMFITRITI-GR",
     "@cim:IdentifiedObject.mRID": "21Z000000000540N",
-    "@cim:IdentifiedObject.name": "Amfitriti",
+    "@cim:IdentifiedObject.name": "AMFITRITI",
     "@cim:Names.name": [
-        "AMFITRITI",
+        "AMFITRITI-GR",
         "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-04",
+    "@cim:DateAndOrTime.date": "2024-07-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

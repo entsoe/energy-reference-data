@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02605053A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02605053A" ;
+    cim:IdentifiedObject.name "SENDLINE SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV43603069345",
+        "STJ02605053A" ;
+    dcterms:identifier "urn:eic:43X-STJ02605053A" ;
+    schema1:vatID "LV43603069345" ;
+    skos:altLabel "STJ02605053A" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SENDLINE SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

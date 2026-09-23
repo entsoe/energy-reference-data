@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020D0-Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020D0-Z" ;
+    cim:IdentifiedObject.name "AEW Energie AG" ;
+    cim:Names.name "AEW-HANDEL-BRP",
+        "Balance Responsible Party",
+        "CHE-105.981.944",
+        "Capacity Trader" ;
+    dcterms:identifier "urn:eic:12X-00000020D0-Z" ;
+    schema1:vatID "CHE-105.981.944" ;
+    skos:altLabel "AEW-HANDEL-BRP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AEW Energie AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

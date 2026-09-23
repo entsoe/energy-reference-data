@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XDEESA-18----J</dcterms:identifier>
     <skos:prefLabel>DeESA GmbH</skos:prefLabel>
     <skos:altLabel>MUNDT</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XDEESA-18----J</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>DeESA GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>MUNDT</cim:Names.name>
-    <cim:Names.name>DE115653410</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE272091722</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-07-25</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE115653410</schema:vatID>
+    <schema:vatID>DE272091722</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

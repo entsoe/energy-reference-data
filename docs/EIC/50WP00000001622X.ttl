@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001622X" ;
     cim:IdentifiedObject.name "Sævereid" ;
-    cim:Names.name "NO-SAVEREID_PL",
+    cim:Names.name "NO-SAEVEREID",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001622X" ;
-    skos:altLabel "NO-SAVEREID_PL" ;
+    skos:altLabel "NO-SAEVEREID" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Sævereid" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

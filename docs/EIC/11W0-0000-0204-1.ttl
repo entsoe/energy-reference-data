@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11W0-0000-0204-1" ;
     cim:IdentifiedObject.name "TSRENCP3" ;
-    cim:Names.name "TSRENCP3" ;
+    cim:Names.name "Generation",
+        "TSRENCP3" ;
     dcterms:identifier "urn:eic:11W0-0000-0204-1" ;
     skos:altLabel "TSRENCP3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

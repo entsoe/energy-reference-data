@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-08-02" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XATEL-AT-----V" ;
     cim:IdentifiedObject.name "Atel Austria GmbH" ;
     cim:Names.name "ATEL-AUSTRIA",
-        "Balance Group" ;
+        "ATU56646669",
+        "Balance Responsible Party" ;
     dcterms:identifier "urn:eic:14XATEL-AT-----V" ;
+    schema1:vatID "ATU56646669" ;
     skos:altLabel "ATEL-AUSTRIA" ;
     skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "65XBRP-POWERPAYJ" ;
     cim:IdentifiedObject.name "GSE_TRANSM_BG" ;
-    cim:Names.name "GSE_TRANSM_BG" ;
+    cim:Names.name "Balance Responsible Party",
+        "GSE_TRANSM_BG" ;
     dcterms:identifier "urn:eic:65XBRP-POWERPAYJ" ;
     skos:altLabel "GSE_TRANSM_BG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

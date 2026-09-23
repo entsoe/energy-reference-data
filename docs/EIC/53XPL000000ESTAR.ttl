@@ -7,12 +7,23 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-10-08" ;
+    cim:DateAndOrTime.date "2026-02-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "53XPL000000ESTAR" ;
     cim:IdentifiedObject.name "ENESTA Sp. z o.o." ;
-    cim:Names.name "ENESTA",
+    cim:Names.name "A0012004V.PL",
+        "Consumer",
+        "Consumption Responsible Party",
+        "Distribution System Operator",
+        "ENESTA",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Grid Operator",
+        "Information Provider",
+        "Meter Administrator",
+        "Metering Point Operator",
+        "Network User",
         "PL8652135842",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000ESTAR" ;

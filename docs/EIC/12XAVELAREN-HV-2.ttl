@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-01-22" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XAVELAREN-HV-2" ;
     cim:IdentifiedObject.name "Avelar Energy Ltd" ;
-    cim:Names.name "Balance Group",
-        "CH-AVELAR-HV",
-        "CH665021" ;
+    cim:Names.name "CH-AVELAR-HV",
+        "CH665021",
+        "Capacity Trader" ;
     dcterms:identifier "urn:eic:12XAVELAREN-HV-2" ;
     schema1:vatID "CH665021" ;
     skos:altLabel "CH-AVELAR-HV" ;

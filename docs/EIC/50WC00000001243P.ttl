@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001243P" ;
-    cim:IdentifiedObject.name "S Bjørnegå 47  Forbruk" ;
+    cim:IdentifiedObject.name "S Bjørnegå 47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BJORNEGARD47" ;
+        "NO-BJORNEGAD47T1" ;
     dcterms:identifier "urn:eic:50WC00000001243P" ;
-    skos:altLabel "NO-BJORNEGARD47" ;
+    skos:altLabel "NO-BJORNEGAD47T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Bjørnegå 47  Forbruk" ;
+    skos:prefLabel "S Bjørnegå 47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

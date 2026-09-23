@@ -9,14 +9,12 @@
     cim:AttributeInstanceComponent.attribute "International" ;
     cim:DateAndOrTime.date "2020-04-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "VP requires new EIC codes between TSO areas and TERRE Western Europe area for VP-TERRE processes. https://entsoe.zendesk.com/agent/tickets/9336455" ;
     cim:IdentifiedObject.mRID "10Y1001C--00087K" ;
     cim:IdentifiedObject.name "Border domain REE-TERRE Western Europe" ;
     cim:Names.name "Border Area",
         "REE-TERRE" ;
     dcterms:identifier "urn:eic:10Y1001C--00087K" ;
     skos:altLabel "REE-TERRE" ;
-    skos:definition "VP requires new EIC codes between TSO areas and TERRE Western Europe area for VP-TERRE processes. https://entsoe.zendesk.com/agent/tickets/9336455"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Border domain REE-TERRE Western Europe" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

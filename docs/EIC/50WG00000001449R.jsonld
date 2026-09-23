@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001449R",
-    "@skos:prefLabel": "SAURDAL G101 HYDRO",
-    "@skos:altLabel": "NO-SAURDAL_G101_",
+    "@skos:prefLabel": "BERGSTO G1      HYDRO",
+    "@skos:altLabel": "NO-BERGSTOG1",
     "@cim:IdentifiedObject.mRID": "50WG00000001449R",
-    "@cim:IdentifiedObject.name": "SAURDAL G101 HYDRO",
+    "@cim:IdentifiedObject.name": "BERGSTO G1      HYDRO",
     "@cim:Names.name": [
-        "NO-SAURDAL_G101_",
+        "NO-BERGSTOG1",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

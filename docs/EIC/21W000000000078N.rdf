@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W000000000078N</dcterms:identifier>
-    <skos:prefLabel>UGS Haidach - Astora</skos:prefLabel>
-    <skos:altLabel>HAIDACH-ASTORA</skos:altLabel>
+    <skos:prefLabel>UGS Haidach - SEFE Storage</skos:prefLabel>
+    <skos:altLabel>HAIDACH-SEFE</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W000000000078N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>UGS Haidach - Astora</cim:IdentifiedObject.name>
-    <cim:Names.name>HAIDACH-ASTORA</cim:Names.name>
+    <cim:IdentifiedObject.name>UGS Haidach - SEFE Storage</cim:IdentifiedObject.name>
+    <cim:Names.name>HAIDACH-SEFE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-01-17</cim:DateAndOrTime.date>
-    <cim:Names.name>Resource Object</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

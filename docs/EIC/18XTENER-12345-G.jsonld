@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTENER-12345-G",
     "@skos:prefLabel": "NORTEHIPERTENERIFE SL",
     "@skos:altLabel": "TENER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XTENER-12345-G",
     "@cim:IdentifiedObject.name": "NORTEHIPERTENERIFE SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB38700712",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB38700712",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

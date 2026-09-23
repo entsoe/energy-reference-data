@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X0000000000216</dcterms:identifier>
-    <skos:prefLabel>KTG Biomethan AG</skos:prefLabel>
-    <skos:altLabel>KTGBIOMETHANAG</skos:altLabel>
+    <skos:prefLabel>DAH Biomethan GmbH</skos:prefLabel>
+    <skos:altLabel>DAHBIOMETHAN</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>37X0000000000216</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>KTG Biomethan AG</cim:IdentifiedObject.name>
-    <cim:Names.name>KTGBIOMETHANAG</cim:Names.name>
+    <cim:IdentifiedObject.name>DAH Biomethan GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>DAHBIOMETHAN</cim:Names.name>
     <cim:Names.name>DE284296969</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-23</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Supplier</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-01-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE284296969</schema:vatID>
   </skos:Concept>

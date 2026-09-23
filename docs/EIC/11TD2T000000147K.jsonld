@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11TD2T000000147K",
-    "@skos:prefLabel": "TTG/380-220/Ottenhofen/Trafo VK7",
+    "@skos:prefLabel": "TTG/380-220/OTTENHOFEN/TRAFO 427",
     "@skos:altLabel": "T-D2-D2-10072344",
     "@cim:IdentifiedObject.mRID": "11TD2T000000147K",
-    "@cim:IdentifiedObject.name": "TTG/380-220/Ottenhofen/Trafo VK7",
+    "@cim:IdentifiedObject.name": "TTG/380-220/OTTENHOFEN/TRAFO 427",
     "@cim:Names.name": [
         "T-D2-D2-10072344",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-16",
+    "@cim:DateAndOrTime.date": "2023-12-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

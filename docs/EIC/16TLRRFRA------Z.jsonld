@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:16TLRRFRA------Z",
-    "@skos:prefLabel": "Recarei-Feira",
-    "@skos:altLabel": "LRR_FRA",
+    "@skos:prefLabel": "Recarei-Feira 1",
+    "@skos:altLabel": "LRR_FRA1",
     "@cim:IdentifiedObject.mRID": "16TLRRFRA------Z",
-    "@cim:IdentifiedObject.name": "Recarei-Feira",
+    "@cim:IdentifiedObject.name": "Recarei-Feira 1",
     "@cim:Names.name": [
-        "LRR_FRA",
+        "LRR_FRA1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-08-04",
+    "@cim:DateAndOrTime.date": "2025-07-01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

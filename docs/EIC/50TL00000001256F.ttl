@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001256F" ;
     cim:IdentifiedObject.name "S 45 Simonsvik-Loddefjord" ;
     cim:Names.name "Internal Line",
-        "NO-SIMONSVIKLODD" ;
+        "NO-45SIMONSVIKLO" ;
     dcterms:identifier "urn:eic:50TL00000001256F" ;
-    skos:altLabel "NO-SIMONSVIKLODD" ;
+    skos:altLabel "NO-45SIMONSVIKLO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 45 Simonsvik-Loddefjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003150L" ;
     cim:IdentifiedObject.name "S 300 Kvinesdal-Feda (Norned)" ;
     cim:Names.name "Internal Line",
-        "NO-KVINESDALFEDA" ;
+        "NO-300KVINESDALF" ;
     dcterms:identifier "urn:eic:50TL00000003150L" ;
-    skos:altLabel "NO-KVINESDALFEDA" ;
+    skos:altLabel "NO-300KVINESDALF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Kvinesdal-Feda (Norned)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

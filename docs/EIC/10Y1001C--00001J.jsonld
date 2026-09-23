@@ -20,7 +20,10 @@
     },
     "@cim:IdentifiedObject.mRID": "10Y1001C--00001J",
     "@cim:IdentifiedObject.name": "Border domain Denmark-Netherlands at Eemshaven",
-    "@cim:Names.name": "DK1-NL-EEMSHAVEN",
+    "@cim:Names.name": [
+        "DK1-NL-EEMSHAVEN",
+        "Border Area"
+    ],
     "@cim:IdentifiedObject.description": "Border between Denmark (DK1) and Netherlands (NL) at Eemshaven. ",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",

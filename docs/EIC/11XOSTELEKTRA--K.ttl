@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XOSTELEKTRA--K" ;
     cim:IdentifiedObject.name "S4E Group GmbH" ;
-    cim:Names.name "DE220209204",
-        "OSTELEKTRA",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE220209204",
+        "OSTELEKTRA" ;
     dcterms:identifier "urn:eic:11XOSTELEKTRA--K" ;
     schema1:vatID "DE220209204" ;
     skos:altLabel "OSTELEKTRA" ;

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL000000007447</dcterms:identifier>
-    <skos:prefLabel>M 132 Tafjord2-T_Tafj</skos:prefLabel>
-    <skos:altLabel>NO-TAFJORD2TTAFJ</skos:altLabel>
+    <skos:prefLabel>N 132 Tafjord2-T2_Tafjord</skos:prefLabel>
+    <skos:altLabel>NO-132TAFJORD2T2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL000000007447</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>M 132 Tafjord2-T_Tafj</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TAFJORD2TTAFJ</cim:Names.name>
+    <cim:IdentifiedObject.name>N 132 Tafjord2-T2_Tafjord</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-132TAFJORD2T2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

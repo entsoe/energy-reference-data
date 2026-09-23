@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/24XINO-HUBESK3-A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "24XINO-HUBESK3-A" ;
+    cim:IdentifiedObject.name "INO-HUB Energy SK3 s. r. o." ;
+    cim:Names.name "IHE_SK3",
+        "SK2121880354",
+        "Storage System Operator",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:24XINO-HUBESK3-A" ;
+    schema1:vatID "SK2121880354" ;
+    skos:altLabel "IHE_SK3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "INO-HUB Energy SK3 s. r. o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

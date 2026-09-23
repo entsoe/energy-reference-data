@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/33XFORTIS-POWERI">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:33XFORTIS-POWERI</dcterms:identifier>
+    <skos:prefLabel>&#1044;&#1055;&#1058;&#1059; &#1060;&#1086;&#1088;&#1090;&#1080;&#1089; &#1055;&#1072;&#1091;&#1077;&#1088; &#1050;&#1086;&#1084;&#1086;&#1076;&#1080;&#1090;&#1080;&#1089; &#1044;&#1054;&#1054;&#1045;&#1051; &#1091;&#1074;&#1086;&#1079;-&#1080;&#1079;&#1074;&#1086;&#1079; &#1057;&#1082;&#1086;&#1087;&#1112;&#1077;</skos:prefLabel>
+    <skos:altLabel>FORTIS_POWER_MK</skos:altLabel>
+    <cim:IdentifiedObject.mRID>33XFORTIS-POWERI</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>&#1044;&#1055;&#1058;&#1059; &#1060;&#1086;&#1088;&#1090;&#1080;&#1089; &#1055;&#1072;&#1091;&#1077;&#1088; &#1050;&#1086;&#1084;&#1086;&#1076;&#1080;&#1090;&#1080;&#1089; &#1044;&#1054;&#1054;&#1045;&#1051; &#1091;&#1074;&#1086;&#1079;-&#1080;&#1079;&#1074;&#1086;&#1079; &#1057;&#1082;&#1086;&#1087;&#1112;&#1077;</cim:IdentifiedObject.name>
+    <cim:Names.name>FORTIS_POWER_MK</cim:Names.name>
+    <cim:Names.name>4080024626731</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-12-27</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>4080024626731</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

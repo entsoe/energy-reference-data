@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XOSDN-GORA--1I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XOSDN-GORA--1I" ;
+    cim:IdentifiedObject.name "AO ENERGIA SP. Z O.O." ;
+    cim:Names.name "AO_ENERGIA",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL5521725323",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19XOSDN-GORA--1I" ;
+    schema1:vatID "PL5521725323" ;
+    skos:altLabel "AO_ENERGIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AO ENERGIA SP. Z O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

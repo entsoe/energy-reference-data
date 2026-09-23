@@ -16,7 +16,10 @@
     "@skos:altLabel": "HYHCCUR",
     "@cim:IdentifiedObject.mRID": "18WHYHCCUR-123-1",
     "@cim:IdentifiedObject.name": "HIDROCANTABRICO ENERGIA ULTIMO RECURSO, S.A.U.",
-    "@cim:Names.name": "HYHCCUR",
+    "@cim:Names.name": [
+        "HYHCCUR",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-07-22",

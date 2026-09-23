@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250119-VGC5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company register in the United States. 
+US TIN number 474597550 confirmed by the W-9 Certification""" ;
+    cim:IdentifiedObject.mRID "23X--250119-VGC5" ;
+    cim:IdentifiedObject.name "VENTURE GLOBAL COMMODITIES, LLC" ;
+    cim:Names.name "474597550 ",
+        "A00228019.DE",
+        "LNG System Operator",
+        "VG_COMMODITIES" ;
+    dcterms:identifier "urn:eic:23X--250119-VGC5" ;
+    schema1:vatID "474597550 " ;
+    skos:altLabel "VG_COMMODITIES" ;
+    skos:definition """Company register in the United States. 
+US TIN number 474597550 confirmed by the W-9 Certification"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VENTURE GLOBAL COMMODITIES, LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

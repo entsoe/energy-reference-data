@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Cross-Border Area" ;
     cim:IdentifiedObject.mRID "21Y---A001A002-8" ;
     cim:IdentifiedObject.name "Ellund" ;
     cim:Names.name "ELLUND-DK",
-        "Valid EIC Function needed" ;
+        "Market Area" ;
     dcterms:identifier "urn:eic:21Y---A001A002-8" ;
     skos:altLabel "ELLUND-DK" ;
     skos:definition "Cross-Border Area"@en ;

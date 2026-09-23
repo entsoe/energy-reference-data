@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XDISAM-------V",
-    "@skos:prefLabel": "Energi Danmark A/S",
+    "@skos:prefLabel": "Mind Energy A/S",
     "@skos:altLabel": "DISAM",
     "@cim:IdentifiedObject.mRID": "11XDISAM-------V",
-    "@cim:IdentifiedObject.name": "Energi Danmark A/S",
+    "@cim:IdentifiedObject.name": "Mind Energy A/S",
     "@cim:Names.name": [
         "DISAM",
         "DK17225898",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-13",
+    "@cim:DateAndOrTime.date": "2025-04-11",
     "@schema:vatID": "DK17225898",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

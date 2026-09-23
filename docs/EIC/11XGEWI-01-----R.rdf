@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XGEWI-01-----R</dcterms:identifier>
-    <skos:prefLabel>GEWI AG</skos:prefLabel>
+    <skos:prefLabel>GEWI GmbH</skos:prefLabel>
     <skos:altLabel>GEWI-01</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XGEWI-01-----R</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GEWI AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>GEWI GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>GEWI-01</cim:Names.name>
     <cim:Names.name>DE267752484</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE267752484</schema:vatID>
   </skos:Concept>

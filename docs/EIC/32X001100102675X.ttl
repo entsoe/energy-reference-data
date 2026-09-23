@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/32X001100102675X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.mRID "32X001100102675X" ;
+    cim:IdentifiedObject.name "CONTOURGLOBAL MARITSA SOLAR EAD" ;
+    cim:Names.name "BG207455650",
+        "Balance Responsible Party",
+        "CGMS_EAD" ;
+    dcterms:identifier "urn:eic:32X001100102675X" ;
+    schema1:vatID "BG207455650" ;
+    skos:altLabel "CGMS_EAD" ;
+    skos:definition "Balance Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CONTOURGLOBAL MARITSA SOLAR EAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

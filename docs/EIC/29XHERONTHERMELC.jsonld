@@ -12,27 +12,26 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:29XHERONTHERMELC",
-    "@skos:prefLabel": "HERON SINGLE MEMBER S.A. ENERGY SERVICES",
+    "@skos:prefLabel": "HERON SOCIETE ANONYME ENERGY SERVICES",
     "@skos:altLabel": "HERON_ENERGY_SA",
     "@skos:definition": {
         "@language": "en",
-        "@value": "HERON SINGLE MEMBER S.A. ENERGY SERVICES  Independent Power Producer and Electricity Supplier. "
+        "@value": "HERON SOCIETE ANONYME ENERGY SERVICES \nIndependent Power Producer and Electricity Supplier."
     },
     "@cim:IdentifiedObject.mRID": "29XHERONTHERMELC",
-    "@cim:IdentifiedObject.name": "HERON SINGLE MEMBER S.A. ENERGY SERVICES",
+    "@cim:IdentifiedObject.name": "HERON SOCIETE ANONYME ENERGY SERVICES",
     "@cim:Names.name": [
         "HERON_ENERGY_SA",
         "A0003851E.GR",
         "EL099810593",
-        "Production Responsible party",
         "Balance Responsible Party",
         "Producer",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "HERON SINGLE MEMBER S.A. ENERGY SERVICES  Independent Power Producer and Electricity Supplier. ",
+    "@cim:IdentifiedObject.description": "HERON SOCIETE ANONYME ENERGY SERVICES \nIndependent Power Producer and Electricity Supplier.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-10-05",
+    "@cim:DateAndOrTime.date": "2024-01-17",
     "@schema:vatID": "EL099810593",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

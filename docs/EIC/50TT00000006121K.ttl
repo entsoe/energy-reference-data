@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006121K" ;
-    cim:IdentifiedObject.name "M Ryste    T1 Transformator" ;
-    cim:Names.name "NO-RYSTE___T1",
+    cim:IdentifiedObject.name "N Ryste    T1 Transformator" ;
+    cim:Names.name "NO-RYSTET1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006121K" ;
-    skos:altLabel "NO-RYSTE___T1" ;
+    skos:altLabel "NO-RYSTET1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Ryste    T1 Transformator" ;
+    skos:prefLabel "N Ryste    T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

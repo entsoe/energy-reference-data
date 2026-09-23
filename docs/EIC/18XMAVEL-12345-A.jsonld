@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMAVEL-12345-A",
     "@skos:prefLabel": "ESTACION DE SERVICIO MAVEL, S.L.",
     "@skos:altLabel": "MAVEL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMAVEL-12345-A",
     "@cim:IdentifiedObject.name": "ESTACION DE SERVICIO MAVEL, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB84554344",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-10-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB84554344",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

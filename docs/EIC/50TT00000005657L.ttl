@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005657L" ;
     cim:IdentifiedObject.name "S Sima     T7 Transformator" ;
-    cim:Names.name "NO-SIMA____T7",
+    cim:Names.name "NO-SIMAT7",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005657L" ;
-    skos:altLabel "NO-SIMA____T7" ;
+    skos:altLabel "NO-SIMAT7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Sima     T7 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

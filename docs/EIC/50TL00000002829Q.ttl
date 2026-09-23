@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-09-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002829Q" ;
-    cim:IdentifiedObject.name "S 50 Gartnerløkka-Nikkelverket" ;
+    cim:IdentifiedObject.name "S 50 Tollboden-Nikkelverket" ;
     cim:Names.name "Internal Line",
-        "NO-GARTNERLOKKAN" ;
+        "NO-50TOLLBODENNI" ;
     dcterms:identifier "urn:eic:50TL00000002829Q" ;
-    skos:altLabel "NO-GARTNERLOKKAN" ;
+    skos:altLabel "NO-50TOLLBODENNI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 50 Gartnerløkka-Nikkelverket" ;
+    skos:prefLabel "S 50 Tollboden-Nikkelverket" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

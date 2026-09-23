@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XVERBIO------F",
-    "@skos:prefLabel": "VERBIO Vereinigte BioEnergie AG",
+    "@skos:prefLabel": "Verbio SE",
     "@skos:altLabel": "VERBIO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XVERBIO------F",
-    "@cim:IdentifiedObject.name": "VERBIO Vereinigte BioEnergie AG",
+    "@cim:IdentifiedObject.name": "Verbio SE",
     "@cim:Names.name": [
         "VERBIO",
         "DE249455862",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-09",
+    "@cim:DateAndOrTime.date": "2023-12-15",
     "@schema:vatID": "DE249455862",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

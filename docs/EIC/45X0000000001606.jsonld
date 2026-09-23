@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:45X0000000001606",
-    "@skos:prefLabel": "WinBel Energy ApS",
+    "@skos:prefLabel": "Arcane Energy ApS",
     "@skos:altLabel": "WINBEL",
     "@cim:IdentifiedObject.mRID": "45X0000000001606",
-    "@cim:IdentifiedObject.name": "WinBel Energy ApS",
+    "@cim:IdentifiedObject.name": "Arcane Energy ApS",
     "@cim:Names.name": [
         "WINBEL",
         "44283042",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-09-12",
+    "@cim:DateAndOrTime.date": "2025-03-18",
     "@schema:vatID": "44283042",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

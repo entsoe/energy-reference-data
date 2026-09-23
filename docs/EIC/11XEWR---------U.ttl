@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEWR---------U" ;
     cim:IdentifiedObject.name "EWR AG" ;
-    cim:Names.name "Balance Group",
-        "DE149958392",
-        "EWR" ;
+    cim:Names.name "DE149958392",
+        "EWR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEWR---------U" ;
     schema1:vatID "DE149958392" ;
     skos:altLabel "EWR" ;

@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XTSB---------M</dcterms:identifier>
-    <skos:prefLabel>TrailStone GmbH</skos:prefLabel>
+    <skos:prefLabel>Engelhart CTP GmbH</skos:prefLabel>
     <skos:altLabel>TSB</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XTSB---------M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TrailStone GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Engelhart CTP GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>TSB</cim:Names.name>
     <cim:Names.name>DE289523572</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-11-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-13</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE289523572</schema:vatID>

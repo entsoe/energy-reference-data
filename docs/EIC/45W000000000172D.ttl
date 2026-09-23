@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-15" ;
+    cim:DateAndOrTime.date "2024-01-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45W000000000172D" ;
     cim:IdentifiedObject.name "Vesterhav Nord" ;
-    cim:Names.name "DK_VHN",
+    cim:Names.name "DK_VHN_PU",
         "Production Unit" ;
     dcterms:identifier "urn:eic:45W000000000172D" ;
-    skos:altLabel "DK_VHN" ;
+    skos:altLabel "DK_VHN_PU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vesterhav Nord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

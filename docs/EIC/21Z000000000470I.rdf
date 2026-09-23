@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Z000000000470I</dcterms:identifier>
     <skos:prefLabel>Isaccea 2_3 UA-RO border</skos:prefLabel>
     <skos:altLabel>VPM06</skos:altLabel>
-    <skos:definition xml:lang="en">Virtual Interconnection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000470I</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Isaccea 2_3 UA-RO border</cim:IdentifiedObject.name>
     <cim:Names.name>VPM06</cim:Names.name>
-    <cim:IdentifiedObject.description>Virtual Interconnection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-06</cim:DateAndOrTime.date>
+    <cim:Names.name>Virtual Interconnection Points</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

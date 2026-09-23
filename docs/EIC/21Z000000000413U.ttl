@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection With The Final Consumer" ;
     cim:IdentifiedObject.mRID "21Z000000000413U" ;
-    cim:IdentifiedObject.name "ΜOTOR OIL" ;
+    cim:IdentifiedObject.name "MOTOR OIL" ;
     cim:Names.name "MOTOR-OIL-GR",
-        "Valid EIC Function needed" ;
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000413U" ;
     skos:altLabel "MOTOR-OIL-GR" ;
-    skos:definition "Connection With The Final Consumer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ΜOTOR OIL" ;
+    skos:prefLabel "MOTOR OIL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

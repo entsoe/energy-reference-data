@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250119-VGC5",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250119-VGC5",
+    "@skos:prefLabel": "VENTURE GLOBAL COMMODITIES, LLC",
+    "@skos:altLabel": "VG_COMMODITIES",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company register in the United States. \nUS TIN number 474597550 confirmed by the W-9 Certification"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250119-VGC5",
+    "@cim:IdentifiedObject.name": "VENTURE GLOBAL COMMODITIES, LLC",
+    "@cim:Names.name": [
+        "VG_COMMODITIES",
+        "A00228019.DE",
+        "474597550 ",
+        "LNG System Operator"
+    ],
+    "@cim:IdentifiedObject.description": "Company register in the United States. \nUS TIN number 474597550 confirmed by the W-9 Certification",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-01-20",
+    "@schema:vatID": "474597550 ",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

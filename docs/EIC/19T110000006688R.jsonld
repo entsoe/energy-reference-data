@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006688R",
-    "@skos:prefLabel": "Miłosna-Kozienice",
+    "@skos:prefLabel": "400kV Kozienice-Milosna",
     "@skos:altLabel": "402",
     "@cim:IdentifiedObject.mRID": "19T110000006688R",
-    "@cim:IdentifiedObject.name": "Miłosna-Kozienice",
+    "@cim:IdentifiedObject.name": "400kV Kozienice-Milosna",
     "@cim:Names.name": [
         "402",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

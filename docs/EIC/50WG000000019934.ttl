@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000019934" ;
     cim:IdentifiedObject.name "USTA    G104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-USTA____G104_" ;
+        "NO-USTAG104" ;
     dcterms:identifier "urn:eic:50WG000000019934" ;
-    skos:altLabel "NO-USTA____G104_" ;
+    skos:altLabel "NO-USTAG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "USTA    G104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

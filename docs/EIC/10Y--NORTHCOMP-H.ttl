@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10Y--NORTHCOMP-H" ;
     cim:IdentifiedObject.name "Fictitious CA in UCTE North for Mngt of compensation UCTE North/South" ;
-    cim:Names.name "FICT_CA_NORTH",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Control Area",
+        "FICT_CA_NORTH" ;
     dcterms:identifier "urn:eic:10Y--NORTHCOMP-H" ;
     skos:altLabel "FICT_CA_NORTH" ;
     skos:definition "Fictitious Area"@en ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002354X",
     "@skos:prefLabel": "VERMA   A1      HYDRO",
-    "@skos:altLabel": "NO-VERMA___A1___",
+    "@skos:altLabel": "NO-VERMAA1",
     "@cim:IdentifiedObject.mRID": "50WG00000002354X",
     "@cim:IdentifiedObject.name": "VERMA   A1      HYDRO",
     "@cim:Names.name": [
-        "NO-VERMA___A1___",
+        "NO-VERMAA1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

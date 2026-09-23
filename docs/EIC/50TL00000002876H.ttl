@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002876H" ;
-    cim:IdentifiedObject.name "M 66 Moholt-Midtbyen" ;
+    cim:IdentifiedObject.name "N 66 Moholt-Midtbyen" ;
     cim:Names.name "Internal Line",
-        "NO-MOHOLTMIDTBYE" ;
+        "NO-66MOHOLTMIDTB" ;
     dcterms:identifier "urn:eic:50TL00000002876H" ;
-    skos:altLabel "NO-MOHOLTMIDTBYE" ;
+    skos:altLabel "NO-66MOHOLTMIDTB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Moholt-Midtbyen" ;
+    skos:prefLabel "N 66 Moholt-Midtbyen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

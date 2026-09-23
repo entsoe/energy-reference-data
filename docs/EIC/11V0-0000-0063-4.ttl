@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11V0-0000-0063-4> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11V0-0000-0063-4" ;
+    cim:IdentifiedObject.name "TNG_VPS_ECP_ACCE" ;
+    cim:Names.name "Endpoint",
+        "TNG_VPS_ECP_ACCE" ;
+    dcterms:identifier "urn:eic:11V0-0000-0063-4" ;
+    skos:altLabel "TNG_VPS_ECP_ACCE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TNG_VPS_ECP_ACCE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

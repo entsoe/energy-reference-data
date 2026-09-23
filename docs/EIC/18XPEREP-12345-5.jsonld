@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPEREP-12345-5",
     "@skos:prefLabel": "PERE PORXAS PAIRO S.L.",
     "@skos:altLabel": "PEREP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPEREP-12345-5",
     "@cim:IdentifiedObject.name": "PERE PORXAS PAIRO S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB17457318",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-08",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB17457318",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-03" ;
+    cim:DateAndOrTime.date "2025-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000145P" ;
-    cim:IdentifiedObject.name "WELTEC Energie GmbH" ;
+    cim:IdentifiedObject.name "NEXOGAS Energie GmbH " ;
     cim:Names.name "Balance Responsible Party",
         "DE272994352",
-        "WELTEC_ENERGIE_G" ;
+        "NEXOGAS_ENERGIE_" ;
     dcterms:identifier "urn:eic:37X000000000145P" ;
     schema1:vatID "DE272994352" ;
-    skos:altLabel "WELTEC_ENERGIE_G" ;
+    skos:altLabel "NEXOGAS_ENERGIE_" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WELTEC Energie GmbH" ;
+    skos:prefLabel "NEXOGAS Energie GmbH " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

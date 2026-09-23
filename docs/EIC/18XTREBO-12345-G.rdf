@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XTREBO-12345-G</dcterms:identifier>
     <skos:prefLabel>TREBOLIN PLASTICOS, S.L.</skos:prefLabel>
     <skos:altLabel>TREBO</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XTREBO-12345-G</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TREBOLIN PLASTICOS, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>TREBO</cim:Names.name>
     <cim:Names.name>ESB30058648</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-04-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB30058648</schema:vatID>

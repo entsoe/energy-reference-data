@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000670" ;
     cim:IdentifiedObject.name "Aggregated Distribution (PL)" ;
     cim:Names.name "AGG_DISTRIB_PL",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y0000000000670" ;
     skos:altLabel "AGG_DISTRIB_PL" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Aggregated Distribution (PL)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WPANTVARDEEKI5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Vėjo jėgainių projektai, UAB 135897557 ramunas@jegaines.lt +370 601 31233" ;
+    cim:IdentifiedObject.mRID "41WPANTVARDEEKI5" ;
+    cim:IdentifiedObject.name "PAANTVARDŽIO TP EEKI    Vėjo jėgainių projektai, UAB" ;
+    cim:Names.name "BESS",
+        "PAANTVARDZIOEEKI" ;
+    dcterms:identifier "urn:eic:41WPANTVARDEEKI5" ;
+    skos:altLabel "PAANTVARDZIOEEKI" ;
+    skos:definition "Vėjo jėgainių projektai, UAB 135897557 ramunas@jegaines.lt +370 601 31233"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PAANTVARDŽIO TP EEKI    Vėjo jėgainių projektai, UAB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC000000010899</dcterms:identifier>
-    <skos:prefLabel>N Smelror  22  AX Forbruk</skos:prefLabel>
-    <skos:altLabel>NO-SMELROR22AX</skos:altLabel>
+    <skos:prefLabel>N Smelror  22  Kb Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-SMELROR22KB</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC000000010899</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>N Smelror  22  AX Forbruk</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SMELROR22AX</cim:Names.name>
+    <cim:IdentifiedObject.name>N Smelror  22  Kb Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-SMELROR22KB</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

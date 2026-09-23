@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001469J",
-    "@skos:prefLabel": "T_Sundsbarm",
-    "@skos:altLabel": "NO-T_SUNDSB",
+    "@skos:prefLabel": "T_Flatin",
+    "@skos:altLabel": "NO-T_FLATIN",
     "@cim:IdentifiedObject.mRID": "50A000000001469J",
-    "@cim:IdentifiedObject.name": "T_Sundsbarm",
+    "@cim:IdentifiedObject.name": "T_Flatin",
     "@cim:Names.name": [
-        "NO-T_SUNDSB",
+        "NO-T_FLATIN",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/68XCYEBENERGY--7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "68XCYEBENERGY--7" ;
+    cim:IdentifiedObject.name "CYEB ENERGY SRL" ;
+    cim:Names.name "1026600003790",
+        "Balance Responsible Party",
+        "CYEB_ENERGY",
+        "Network User" ;
+    dcterms:identifier "urn:eic:68XCYEBENERGY--7" ;
+    schema1:vatID "1026600003790" ;
+    skos:altLabel "CYEB_ENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CYEB ENERGY SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

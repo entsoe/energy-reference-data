@@ -1,0 +1,10 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B76">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B76</dcterms:identifier>
+    <skos:prefLabel>Justified interest of the dataprocessee</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
+</skos:definition>
+  </skos:Concept>
+</rdf:RDF>

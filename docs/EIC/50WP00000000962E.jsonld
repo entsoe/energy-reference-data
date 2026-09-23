@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000962E",
     "@skos:prefLabel": "Gjerde",
-    "@skos:altLabel": "NO-GJERDE_PL",
+    "@skos:altLabel": "NO-GJERDE",
     "@cim:IdentifiedObject.mRID": "50WP00000000962E",
     "@cim:IdentifiedObject.name": "Gjerde",
     "@cim:Names.name": [
-        "NO-GJERDE_PL",
+        "NO-GJERDE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

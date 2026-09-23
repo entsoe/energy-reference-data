@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X0-0000-0613-3</dcterms:identifier>
-    <skos:prefLabel>Pure Energy BRP</skos:prefLabel>
+    <skos:prefLabel>pure.energy GmbH</skos:prefLabel>
     <skos:altLabel>PURE_TRADING</skos:altLabel>
     <cim:IdentifiedObject.mRID>11X0-0000-0613-3</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Pure Energy BRP</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>pure.energy GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>PURE_TRADING</cim:Names.name>
     <cim:Names.name>DE319952173</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-08-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-08-27</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE319952173</schema:vatID>

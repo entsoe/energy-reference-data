@@ -7,13 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-05" ;
+    cim:DateAndOrTime.date "2025-03-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31X-0136-P-000-B" ;
     cim:IdentifiedObject.name "SOLARIS PONS d.o.o." ;
-    cim:Names.name "HR-SOLARIS-PONS",
+    cim:Names.name "Balance Responsible Party",
+        "HR-SOLARIS-PONS",
         "HR28260438524",
-        "Trade Responsible Party" ;
+        "Producer" ;
     dcterms:identifier "urn:eic:31X-0136-P-000-B" ;
     schema1:vatID "HR28260438524" ;
     skos:altLabel "HR-SOLARIS-PONS" ;

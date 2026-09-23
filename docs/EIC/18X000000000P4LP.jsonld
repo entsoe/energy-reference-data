@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000P4LP",
-    "@skos:prefLabel": "RENU ENERGY, S.L.",
+    "@skos:prefLabel": "ENERSA ELECTRICIDAD, S.A.",
     "@skos:altLabel": "ES-RENUE",
     "@cim:IdentifiedObject.mRID": "18X000000000P4LP",
-    "@cim:IdentifiedObject.name": "RENU ENERGY, S.L.",
+    "@cim:IdentifiedObject.name": "ENERSA ELECTRICIDAD, S.A.",
     "@cim:Names.name": [
         "ES-RENUE",
-        "ESB56430010",
+        "ESA56430010",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-21",
-    "@schema:vatID": "ESB56430010",
+    "@cim:DateAndOrTime.date": "2026-04-27",
+    "@schema:vatID": "ESA56430010",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

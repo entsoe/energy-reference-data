@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XSWSEVERTRIEBO</dcterms:identifier>
     <skos:prefLabel>SWS Energie GmbH</skos:prefLabel>
     <skos:altLabel>SWS-ENERGIE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWSEVERTRIEBO</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SWS Energie GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWS-ENERGIE</cim:Names.name>
     <cim:Names.name>DE162140905</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-08-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-04</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE162140905</schema:vatID>

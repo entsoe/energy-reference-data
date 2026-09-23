@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/54V-000000000-3S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "54V-000000000-3S" ;
+    cim:IdentifiedObject.name "VP_AL_ENDP" ;
+    cim:Names.name "Endpoint",
+        "VP-ALBANIA_ACPT" ;
+    dcterms:identifier "urn:eic:54V-000000000-3S" ;
+    skos:altLabel "VP-ALBANIA_ACPT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VP_AL_ENDP" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

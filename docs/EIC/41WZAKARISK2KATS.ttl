@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WZAKARISK2KATS> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """UAB ELEKTRUM
+ZAKARISKIU-SE_2_kat""" ;
+    cim:IdentifiedObject.mRID "41WZAKARISK2KATS" ;
+    cim:IdentifiedObject.name "ZAKARISKIU-SE 2 kat" ;
+    cim:Names.name "Production Unit",
+        "ZAKARISKIUSE2KAT" ;
+    dcterms:identifier "urn:eic:41WZAKARISK2KATS" ;
+    skos:altLabel "ZAKARISKIUSE2KAT" ;
+    skos:definition """UAB ELEKTRUM
+ZAKARISKIU-SE_2_kat"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ZAKARISKIU-SE 2 kat" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

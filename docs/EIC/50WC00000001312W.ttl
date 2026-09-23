@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001312W" ;
-    cim:IdentifiedObject.name "S Rasta    47  L1 Forbruk" ;
+    cim:IdentifiedObject.name "S Rasta    47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-RASTA48L1" ;
+        "NO-RASTA48T1" ;
     dcterms:identifier "urn:eic:50WC00000001312W" ;
-    skos:altLabel "NO-RASTA48L1" ;
+    skos:altLabel "NO-RASTA48T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Rasta    47  L1 Forbruk" ;
+    skos:prefLabel "S Rasta    47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000008295",
-    "@skos:prefLabel": "S 22 Eidsfossen_SFE-Jardøla",
-    "@skos:altLabel": "NO-EIDSSFEJARDOL",
+    "@skos:prefLabel": "N 22 Eidsfossen_SFE-Jardøla",
+    "@skos:altLabel": "NO-22EIDS_SFEJAR",
     "@cim:IdentifiedObject.mRID": "50TLI00000008295",
-    "@cim:IdentifiedObject.name": "S 22 Eidsfossen_SFE-Jardøla",
+    "@cim:IdentifiedObject.name": "N 22 Eidsfossen_SFE-Jardøla",
     "@cim:Names.name": [
-        "NO-EIDSSFEJARDOL",
+        "NO-22EIDS_SFEJAR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

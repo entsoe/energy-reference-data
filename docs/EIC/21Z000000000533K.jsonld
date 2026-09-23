@@ -13,16 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:21Z000000000533K",
     "@skos:prefLabel": "TRIPOLI",
-    "@skos:altLabel": "TRIPOLI",
+    "@skos:altLabel": "TRIPOLI-GR",
     "@cim:IdentifiedObject.mRID": "21Z000000000533K",
     "@cim:IdentifiedObject.name": "TRIPOLI",
     "@cim:Names.name": [
-        "TRIPOLI",
+        "TRIPOLI-GR",
+        "Connection Point",
         "Metering Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-29",
+    "@cim:DateAndOrTime.date": "2024-07-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

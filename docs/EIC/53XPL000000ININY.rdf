@@ -6,15 +6,17 @@
     <dcterms:identifier>urn:eic:53XPL000000ININY</dcterms:identifier>
     <skos:prefLabel>Infusion International INC</skos:prefLabel>
     <skos:altLabel>INFUSION_INTL</skos:altLabel>
-    <skos:definition xml:lang="en">The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code.</skos:definition>
+    <skos:definition xml:lang="en">The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number.</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000ININY</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Infusion International INC</cim:IdentifiedObject.name>
     <cim:Names.name>INFUSION_INTL</cim:Names.name>
-    <cim:IdentifiedObject.description>The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code.</cim:IdentifiedObject.description>
+    <cim:Names.name>AFZ/OS/1273</cim:Names.name>
+    <cim:IdentifiedObject.description>The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-10-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-09</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>AFZ/OS/1273</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

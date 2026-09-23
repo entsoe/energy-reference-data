@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0277-P-000-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0277-P-000-P" ;
+    cim:IdentifiedObject.name "AB ENERGIJA d.o.o." ;
+    cim:Names.name "HR-AB-ENERGIJA",
+        "HR95826770708",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0277-P-000-P" ;
+    schema1:vatID "HR95826770708" ;
+    skos:altLabel "HR-AB-ENERGIJA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AB ENERGIJA d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

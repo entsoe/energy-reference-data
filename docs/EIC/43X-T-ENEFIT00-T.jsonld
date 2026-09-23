@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:43X-T-ENEFIT00-T",
-    "@skos:prefLabel": "SIA Enefit",
+    "@skos:prefLabel": "Enefit SIA",
     "@skos:altLabel": "LV-ENEFIT",
     "@cim:IdentifiedObject.mRID": "43X-T-ENEFIT00-T",
-    "@cim:IdentifiedObject.name": "SIA Enefit",
+    "@cim:IdentifiedObject.name": "Enefit SIA",
     "@cim:Names.name": [
         "LV-ENEFIT",
-        "40003824046",
+        "LV40003824046",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-01-21",
-    "@schema:vatID": "40003824046",
+    "@cim:DateAndOrTime.date": "2024-05-08",
+    "@schema:vatID": "LV40003824046",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000338Z" ;
-    cim:IdentifiedObject.name "Bujaków-Byczyna" ;
+    cim:IdentifiedObject.name "220kV Bujakow-Byczyna" ;
     cim:Names.name "3013",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000338Z" ;
     skos:altLabel "3013" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bujaków-Byczyna" ;
+    skos:prefLabel "220kV Bujakow-Byczyna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

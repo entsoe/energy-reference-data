@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001625R",
     "@skos:prefLabel": "Stordal",
-    "@skos:altLabel": "NO-STORDAL_PL",
+    "@skos:altLabel": "NO-STORDAL_V01",
     "@cim:IdentifiedObject.mRID": "50WP00000001625R",
     "@cim:IdentifiedObject.name": "Stordal",
     "@cim:Names.name": [
-        "NO-STORDAL_PL",
+        "NO-STORDAL_V01",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

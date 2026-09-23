@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43WSTRMALASSES1Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43WSTRMALASSES1Q" ;
+    cim:IdentifiedObject.name "Strautmalas SES" ;
+    cim:Names.name "Generation Unit",
+        "STRMALASSES1Q" ;
+    dcterms:identifier "urn:eic:43WSTRMALASSES1Q" ;
+    skos:altLabel "STRMALASSES1Q" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Strautmalas SES" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

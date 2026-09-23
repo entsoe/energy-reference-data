@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:25X-BOREALISAGRX</dcterms:identifier>
-    <skos:prefLabel>Borealis Agrolinz Melamine GmbH</skos:prefLabel>
+    <skos:prefLabel>LAT Nitrogen Linz GmbH</skos:prefLabel>
     <skos:altLabel>BOREALIS-LZ</skos:altLabel>
-    <skos:definition xml:lang="en">Consumer</skos:definition>
     <cim:IdentifiedObject.mRID>25X-BOREALISAGRX</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Borealis Agrolinz Melamine GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>LAT Nitrogen Linz GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>BOREALIS-LZ</cim:Names.name>
     <cim:Names.name>ATU23057607</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-07-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-20</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ATU23057607</schema:vatID>

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000652C" ;
     cim:IdentifiedObject.name "S 132 Skøyen-Solli" ;
     cim:Names.name "Internal Line",
-        "NO-SKOYENSOLLI" ;
+        "NO-132SKOYENSOLL" ;
     dcterms:identifier "urn:eic:50TL00000000652C" ;
-    skos:altLabel "NO-SKOYENSOLLI" ;
+    skos:altLabel "NO-132SKOYENSOLL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Skøyen-Solli" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

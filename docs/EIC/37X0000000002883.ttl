@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000002883> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-25" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Producer" ;
+    cim:IdentifiedObject.mRID "37X0000000002883" ;
+    cim:IdentifiedObject.name "HH2E Werk Lubmin GmbH" ;
+    cim:Names.name "DE356161743",
+        "HH2E_WERK_LUBMIN",
+        "Producer" ;
+    dcterms:identifier "urn:eic:37X0000000002883" ;
+    schema1:vatID "DE356161743" ;
+    skos:altLabel "HH2E_WERK_LUBMIN" ;
+    skos:definition "Producer"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HH2E Werk Lubmin GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

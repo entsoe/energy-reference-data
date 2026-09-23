@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>21X000000001103V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gazprom export</cim:IdentifiedObject.name>
     <cim:Names.name>GAZPROM-EXPORT</cim:Names.name>
+    <cim:Names.name>7706193766</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-05-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-12-04</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>7706193766</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

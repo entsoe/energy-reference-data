@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-16" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006439B" ;
-    cim:IdentifiedObject.name "220 kV Kopanina – Halemba" ;
+    cim:IdentifiedObject.name "220kV Halemba-Kopanina" ;
     cim:Names.name "3303",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006439B" ;
     skos:altLabel "3303" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "220 kV Kopanina – Halemba" ;
+    skos:prefLabel "220kV Halemba-Kopanina" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

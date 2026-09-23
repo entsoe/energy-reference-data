@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-12-18" ;
+    cim:DateAndOrTime.date "2025-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44X-00000000164Q" ;
-    cim:IdentifiedObject.name "Energia Myynti Suomi Oy" ;
-    cim:Names.name "44ENERGIASUOMI",
+    cim:IdentifiedObject.name "Mind Energy Oy" ;
+    cim:Names.name "44MINDENERGY",
         "Balance Responsible Party",
         "FI21169673" ;
     dcterms:identifier "urn:eic:44X-00000000164Q" ;
     schema1:vatID "FI21169673" ;
-    skos:altLabel "44ENERGIASUOMI" ;
+    skos:altLabel "44MINDENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energia Myynti Suomi Oy" ;
+    skos:prefLabel "Mind Energy Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/44X-00000000324U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "44X-00000000324U" ;
+    cim:IdentifiedObject.name "Boliden Kevitsa Mining Oy" ;
+    cim:Names.name "44BOLIDENKEVITSA",
+        "Consumer",
+        "FI23456991" ;
+    dcterms:identifier "urn:eic:44X-00000000324U" ;
+    schema1:vatID "FI23456991" ;
+    skos:altLabel "44BOLIDENKEVITSA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Boliden Kevitsa Mining Oy" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

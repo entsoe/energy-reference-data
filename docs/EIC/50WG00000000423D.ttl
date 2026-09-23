@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000423D" ;
-    cim:IdentifiedObject.name "FLATENFOG2      HYDRO" ;
+    cim:IdentifiedObject.name "FLATENFOG3      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-FLATENFOG2___" ;
+        "NO-FLATENFOG3" ;
     dcterms:identifier "urn:eic:50WG00000000423D" ;
-    skos:altLabel "NO-FLATENFOG2___" ;
+    skos:altLabel "NO-FLATENFOG3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FLATENFOG2      HYDRO" ;
+    skos:prefLabel "FLATENFOG3      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

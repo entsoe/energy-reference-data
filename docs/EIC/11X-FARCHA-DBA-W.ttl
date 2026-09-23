@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-FARCHA-DBA-W" ;
     cim:IdentifiedObject.name "Kraftwerk Farchant A. Poettinger & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE128346709",
-        "KW-FARCHANT-DBA" ;
+    cim:Names.name "DE128346709",
+        "KW-FARCHANT-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-FARCHA-DBA-W" ;
     schema1:vatID "DE128346709" ;
     skos:altLabel "KW-FARCHANT-DBA" ;

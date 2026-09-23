@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Function Missing" ;
+    cim:DateAndOrTime.date "2024-07-03" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "LIO 21 added the correct function 31 May 2024" ;
     cim:IdentifiedObject.mRID "21W000000000023B" ;
     cim:IdentifiedObject.name "Gas Storage Kirchheilingen" ;
-    cim:Names.name "KIRCHHEILINGEN",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Gas Storage Facility",
+        "KIRCHHEILINGEN" ;
     dcterms:identifier "urn:eic:21W000000000023B" ;
     skos:altLabel "KIRCHHEILINGEN" ;
-    skos:definition "Function Missing"@en ;
+    skos:definition "LIO 21 added the correct function 31 May 2024"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Gas Storage Kirchheilingen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

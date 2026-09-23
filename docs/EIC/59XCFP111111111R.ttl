@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XCFP111111111R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-30" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "59XCFP111111111R" ;
+    cim:IdentifiedObject.name "CFP TRADING LIMITED" ;
+    cim:Names.name "Balance Responsible Party",
+        "CFPTRADINGLIMITE",
+        "MT20681625" ;
+    dcterms:identifier "urn:eic:59XCFP111111111R" ;
+    schema1:vatID "MT20681625" ;
+    skos:altLabel "CFPTRADINGLIMITE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CFP TRADING LIMITED" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

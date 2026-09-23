@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006711L" ;
-    cim:IdentifiedObject.name "Abramowice-Stalowa Wola" ;
+    cim:IdentifiedObject.name "220kV Abramowice-Stalowa Wola" ;
     cim:Names.name "2003",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006711L" ;
     skos:altLabel "2003" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Abramowice-Stalowa Wola" ;
+    skos:prefLabel "220kV Abramowice-Stalowa Wola" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

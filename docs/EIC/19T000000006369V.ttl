@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006369V" ;
-    cim:IdentifiedObject.name "Ostrołęka-Olsztyn Mątki" ;
+    cim:IdentifiedObject.name "400kV Olsztyn Matki-Ostroleka" ;
     cim:Names.name "424",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006369V" ;
     skos:altLabel "424" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ostrołęka-Olsztyn Mątki" ;
+    skos:prefLabel "400kV Olsztyn Matki-Ostroleka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

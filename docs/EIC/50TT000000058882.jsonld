@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000058882",
     "@skos:prefLabel": "S Sylling  T4 Transformator",
-    "@skos:altLabel": "NO-SYLLING_T4",
+    "@skos:altLabel": "NO-SYLLINGT4",
     "@cim:IdentifiedObject.mRID": "50TT000000058882",
     "@cim:IdentifiedObject.name": "S Sylling  T4 Transformator",
     "@cim:Names.name": [
-        "NO-SYLLING_T4",
+        "NO-SYLLINGT4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

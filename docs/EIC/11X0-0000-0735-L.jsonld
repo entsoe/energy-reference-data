@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X0-0000-0735-L",
-    "@skos:prefLabel": "Deutsche Edelstahlwerke Specialty Steel GmbH & Co. KG",
+    "@skos:prefLabel": "Deutsche Edelstahlwerke Siegen/Hagen GmbH & Co. KG",
     "@skos:altLabel": "DEW",
     "@cim:IdentifiedObject.mRID": "11X0-0000-0735-L",
-    "@cim:IdentifiedObject.name": "Deutsche Edelstahlwerke Specialty Steel GmbH & Co. KG",
+    "@cim:IdentifiedObject.name": "Deutsche Edelstahlwerke Siegen/Hagen GmbH & Co. KG",
     "@cim:Names.name": [
         "DEW",
         "DE308764143",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-03-27",
+    "@cim:DateAndOrTime.date": "2025-11-20",
     "@schema:vatID": "DE308764143",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

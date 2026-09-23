@@ -4,17 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:30XRODALKIA----B</dcterms:identifier>
-    <skos:prefLabel>SC DALKIA TERMO PRAHOVA SRL</skos:prefLabel>
+    <skos:prefLabel>VEOLIA ENERGIE PRAHOVA SRL</skos:prefLabel>
     <skos:altLabel>DALKIA</skos:altLabel>
     <skos:definition xml:lang="en">Party</skos:definition>
     <cim:IdentifiedObject.mRID>30XRODALKIA----B</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SC DALKIA TERMO PRAHOVA SRL</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>VEOLIA ENERGIE PRAHOVA SRL</cim:IdentifiedObject.name>
     <cim:Names.name>DALKIA</cim:Names.name>
+    <cim:Names.name>RO16372612</cim:Names.name>
     <cim:IdentifiedObject.description>Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RO16372612</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

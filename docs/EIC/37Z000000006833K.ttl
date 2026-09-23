@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z000000006833K" ;
     cim:IdentifiedObject.name "Letztverbraucher (700069-2432-2)" ;
-    cim:Names.name "37Z000000006833K" ;
+    cim:Names.name "37Z000000006833K",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z000000006833K" ;
     skos:altLabel "37Z000000006833K" ;
     skos:definition "Connection Point"@en ;

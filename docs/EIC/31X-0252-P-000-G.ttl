@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0252-P-000-G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0252-P-000-G" ;
+    cim:IdentifiedObject.name "BILO POLJE d.o.o." ;
+    cim:Names.name "HR-BILO-POLJE",
+        "HR90523634797",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0252-P-000-G" ;
+    schema1:vatID "HR90523634797" ;
+    skos:altLabel "HR-BILO-POLJE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BILO POLJE d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

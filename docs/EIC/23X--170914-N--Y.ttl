@@ -14,8 +14,10 @@
     cim:IdentifiedObject.name "Novatek Gas & Power Asia PTE LTD" ;
     cim:Names.name "A0013909S.DE",
         "NOVATEK_GP_ASIA",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--170914-N--Y" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "NOVATEK_GP_ASIA" ;
     skos:definition "EU VAT not available for Singapure. Company and Tax Registration Number: 201332913W"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

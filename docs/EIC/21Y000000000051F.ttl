@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-14" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y000000000051F" ;
     cim:IdentifiedObject.name "Aggregated exits (HR)" ;
     cim:Names.name "AGGREX_HR",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y000000000051F" ;
     skos:altLabel "AGGREX_HR" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Aggregated exits (HR)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

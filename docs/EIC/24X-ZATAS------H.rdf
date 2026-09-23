@@ -12,10 +12,11 @@
     <cim:Names.name>ZATAS</cim:Names.name>
     <cim:Names.name>SK2020106748</cim:Names.name>
     <cim:IdentifiedObject.description>Function Missing</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-21</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SK2020106748</schema:vatID>
   </skos:Concept>

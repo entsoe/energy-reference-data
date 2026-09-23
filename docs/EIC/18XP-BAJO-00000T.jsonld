@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XP-BAJO-00000T",
     "@skos:prefLabel": "Comunidad General de Regantes del Paramo Bajo",
     "@skos:altLabel": "PBAJO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XP-BAJO-00000T",
     "@cim:IdentifiedObject.name": "Comunidad General de Regantes del Paramo Bajo",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG24075624",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-01-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG24075624",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

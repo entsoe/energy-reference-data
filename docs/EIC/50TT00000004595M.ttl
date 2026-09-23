@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004595M" ;
-    cim:IdentifiedObject.name "M Bjugn    RT1 Transformator" ;
-    cim:Names.name "NO-BJUGN___RT1",
+    cim:IdentifiedObject.name "N Bjugn    RT1 Transformator" ;
+    cim:Names.name "NO-BJUGNRT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004595M" ;
-    skos:altLabel "NO-BJUGN___RT1" ;
+    skos:altLabel "NO-BJUGNRT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Bjugn    RT1 Transformator" ;
+    skos:prefLabel "N Bjugn    RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

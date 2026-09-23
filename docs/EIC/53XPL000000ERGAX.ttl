@@ -7,19 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-10-21" ;
+    cim:DateAndOrTime.date "2026-04-01" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Distribution System Operator, Network User, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "53XPL000000ERGAX" ;
-    cim:IdentifiedObject.name "Energomedia Sp. z o.o." ;
+    cim:IdentifiedObject.name "ORLEN Energomedia Operator sp. z o.o." ;
     cim:Names.name "ENERGOMEDIA",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
         "PL6281875399",
-        "Trade Responsible Party" ;
+        "System Operator" ;
     dcterms:identifier "urn:eic:53XPL000000ERGAX" ;
     schema1:vatID "PL6281875399" ;
     skos:altLabel "ENERGOMEDIA" ;
-    skos:definition "Distribution System Operator, Network User, Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energomedia Sp. z o.o." ;
+    skos:prefLabel "ORLEN Energomedia Operator sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

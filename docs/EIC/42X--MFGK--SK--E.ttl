@@ -7,18 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-28" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Network User" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "VAT code SK2120175706 duplicated - hence deactivated" ;
     cim:IdentifiedObject.mRID "42X--MFGK--SK--E" ;
     cim:IdentifiedObject.name "MFGK Slovakia s.r.o." ;
-    cim:Names.name "MFGKSK",
-        "Network User",
-        "SK2120175706" ;
+    cim:Names.name "2120175706",
+        "Balance Responsible Party",
+        "MFGKSK" ;
     dcterms:identifier "urn:eic:42X--MFGK--SK--E" ;
-    schema1:vatID "SK2120175706" ;
+    schema1:vatID "2120175706" ;
     skos:altLabel "MFGKSK" ;
-    skos:definition "Network User"@en ;
+    skos:definition "VAT code SK2120175706 duplicated - hence deactivated"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MFGK Slovakia s.r.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

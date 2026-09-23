@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC000000012022" ;
-    cim:IdentifiedObject.name "S Austadvi 66  Forbruk" ;
+    cim:IdentifiedObject.name "S Austadvi 66  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-AUSTADVIKA66" ;
+        "NO-AUSTADVI66T1" ;
     dcterms:identifier "urn:eic:50WC000000012022" ;
-    skos:altLabel "NO-AUSTADVIKA66" ;
+    skos:altLabel "NO-AUSTADVI66T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Austadvi 66  Forbruk" ;
+    skos:prefLabel "S Austadvi 66  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

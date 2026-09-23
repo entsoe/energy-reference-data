@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XDISP-123456-0",
     "@skos:prefLabel": "Distribuciones Pedro Vives",
     "@skos:altLabel": "DISP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDISP-123456-0",
     "@cim:IdentifiedObject.name": "Distribuciones Pedro Vives",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB03065646",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB03065646",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

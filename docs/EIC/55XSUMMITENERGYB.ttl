@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/55XSUMMITENERGYB> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "55XSUMMITENERGYB" ;
+    cim:IdentifiedObject.name "Summit Energy Europe Ltd" ;
+    cim:Names.name "GB482847549",
+        "SUMEEU",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:55XSUMMITENERGYB" ;
+    schema1:vatID "GB482847549" ;
+    skos:altLabel "SUMEEU" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Summit Energy Europe Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

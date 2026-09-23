@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-10-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000137S" ;
     cim:IdentifiedObject.name "N 132 Ballangen-Bjørkåsen" ;
     cim:Names.name "Internal Line",
-        "NO-BALLANGENBJOR" ;
+        "NO-132BALLAKASEN" ;
     dcterms:identifier "urn:eic:50TL00000000137S" ;
-    skos:altLabel "NO-BALLANGENBJOR" ;
+    skos:altLabel "NO-132BALLAKASEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Ballangen-Bjørkåsen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

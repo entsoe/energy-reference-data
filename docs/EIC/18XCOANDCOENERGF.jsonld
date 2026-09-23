@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCOANDCOENERGF",
     "@skos:prefLabel": "COMPRAS EN COMUN SL",
     "@skos:altLabel": "COACO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCOANDCOENERGF",
     "@cim:IdentifiedObject.name": "COMPRAS EN COMUN SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB97578173",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB97578173",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

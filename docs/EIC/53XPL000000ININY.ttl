@@ -7,16 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-10-04" ;
+    cim:DateAndOrTime.date "2025-05-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code." ;
+    cim:IdentifiedObject.description "The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number." ;
     cim:IdentifiedObject.mRID "53XPL000000ININY" ;
     cim:IdentifiedObject.name "Infusion International INC" ;
-    cim:Names.name "INFUSION_INTL",
+    cim:Names.name "AFZ/OS/1273",
+        "INFUSION_INTL",
         "Network User" ;
     dcterms:identifier "urn:eic:53XPL000000ININY" ;
+    schema1:vatID "AFZ/OS/1273" ;
     skos:altLabel "INFUSION_INTL" ;
-    skos:definition "The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code."@en ;
+    skos:definition "The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Infusion International INC" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

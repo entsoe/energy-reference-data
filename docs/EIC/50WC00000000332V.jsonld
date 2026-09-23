@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000332V",
-    "@skos:prefLabel": "M Glomfjor 17  L1 Industri",
+    "@skos:prefLabel": "N Glomfjor 17  L1 Industri",
     "@skos:altLabel": "NO-GLOMFJOR17NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000332V",
-    "@cim:IdentifiedObject.name": "M Glomfjor 17  L1 Industri",
+    "@cim:IdentifiedObject.name": "N Glomfjor 17  L1 Industri",
     "@cim:Names.name": [
         "NO-GLOMFJOR17NC",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

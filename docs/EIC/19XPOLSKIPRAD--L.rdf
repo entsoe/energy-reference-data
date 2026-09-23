@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XPOLSKIPRAD--L</dcterms:identifier>
-    <skos:prefLabel>POLSKI PRAD SPOLKA AKCYJNA</skos:prefLabel>
-    <skos:altLabel>POLSKI_PRAD_SA</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
+    <skos:prefLabel>ELEKTRA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>ELEKTRA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XPOLSKIPRAD--L</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>POLSKI PRAD SPOLKA AKCYJNA</cim:IdentifiedObject.name>
-    <cim:Names.name>POLSKI_PRAD_SA</cim:Names.name>
+    <cim:IdentifiedObject.name>ELEKTRA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>ELEKTRA</cim:Names.name>
     <cim:Names.name>PL7010379536</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-07-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-24</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7010379536</schema:vatID>

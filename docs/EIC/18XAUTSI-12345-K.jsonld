@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAUTSI-12345-K",
     "@skos:prefLabel": "AUTOMATICOS SIGLO XXI, S.L.",
     "@skos:altLabel": "AUTSI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAUTSI-12345-K",
     "@cim:IdentifiedObject.name": "AUTOMATICOS SIGLO XXI, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB41581125",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB41581125",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000012102",
-    "@skos:prefLabel": "M 420 Ørskog-Sykkylven",
-    "@skos:altLabel": "NO-ORSKOGSYKKYLV",
+    "@skos:prefLabel": "N 420 Ørskog-Sykkylven",
+    "@skos:altLabel": "NO-420ORSKOGSYKK",
     "@cim:IdentifiedObject.mRID": "50TL000000012102",
-    "@cim:IdentifiedObject.name": "M 420 Ørskog-Sykkylven",
+    "@cim:IdentifiedObject.name": "N 420 Ørskog-Sykkylven",
     "@cim:Names.name": [
-        "NO-ORSKOGSYKKYLV",
+        "NO-420ORSKOGSYKK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:44Y-000000005701",
-    "@skos:prefLabel": "Louhukangas-Möksy wind farms",
+    "@skos:prefLabel": "Louhukangas wind farm",
     "@skos:altLabel": "LOUH01",
     "@cim:IdentifiedObject.mRID": "44Y-000000005701",
-    "@cim:IdentifiedObject.name": "Louhukangas-Möksy wind farms",
+    "@cim:IdentifiedObject.name": "Louhukangas wind farm",
     "@cim:Names.name": [
         "LOUH01",
         "Metering Grid Area"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-03-14",
+    "@cim:DateAndOrTime.date": "2024-12-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

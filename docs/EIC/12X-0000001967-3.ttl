@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-09" ;
+    cim:DateAndOrTime.date "2024-01-22" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group Responsible Party, Network User, Transmission Capacity Allocator" ;
+    cim:IdentifiedObject.description "Network User, Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "12X-0000001967-3" ;
     cim:IdentifiedObject.name "Trafigura Trading (Europe) Sàrl" ;
-    cim:Names.name "Balance Group Responsible Party",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
         "CHE116301376",
+        "Capacity Trader",
         "TRAFIGURA-ST",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:12X-0000001967-3" ;
     schema1:vatID "CHE116301376" ;
     skos:altLabel "TRAFIGURA-ST" ;
-    skos:definition "Balance Group Responsible Party, Network User, Transmission Capacity Allocator"@en ;
+    skos:definition "Network User, Transmission Capacity Allocator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Trafigura Trading (Europe) Sàrl" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

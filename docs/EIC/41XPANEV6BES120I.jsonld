@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XPANEV6BES120I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XPANEV6BES120I",
+    "@skos:prefLabel": "UAB PANEVEZYS BESS",
+    "@skos:altLabel": "PANEVEZYSBESS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB “Panevezys BESS”     306564612    LT100016472114      Bliūdžių BESS TP     arnoldas.puodzius@twinspower.lt   +37061458636 \n"
+    },
+    "@cim:IdentifiedObject.mRID": "41XPANEV6BES120I",
+    "@cim:IdentifiedObject.name": "UAB PANEVEZYS BESS",
+    "@cim:Names.name": [
+        "PANEVEZYSBESS",
+        "LT100016472114",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "UAB “Panevezys BESS”     306564612    LT100016472114      Bliūdžių BESS TP     arnoldas.puodzius@twinspower.lt   +37061458636 \n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-05-19",
+    "@schema:vatID": "LT100016472114",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

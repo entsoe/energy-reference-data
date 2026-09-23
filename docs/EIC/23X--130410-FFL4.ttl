@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23X--130410-FFL4" ;
     cim:IdentifiedObject.name "Flora Fabrications Ltd" ;
-    cim:Names.name "FLORA_FAB",
+    cim:Names.name "Balance Responsible Party",
+        "FLORA_FAB",
         "GB995547162",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--130410-FFL4" ;
     schema1:vatID "GB995547162" ;
     skos:altLabel "FLORA_FAB" ;

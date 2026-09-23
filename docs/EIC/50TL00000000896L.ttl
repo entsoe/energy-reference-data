@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000896L" ;
     cim:IdentifiedObject.name "S 22Maren-Vadheim" ;
     cim:Names.name "Internal Line",
-        "NO-MARENVADHEIM" ;
+        "NO-22MARENVADHEI" ;
     dcterms:identifier "urn:eic:50TL00000000896L" ;
-    skos:altLabel "NO-MARENVADHEIM" ;
+    skos:altLabel "NO-22MARENVADHEI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22Maren-Vadheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XEMES-123456-Q",
     "@skos:prefLabel": "EMILIO ESTEBAN S.A",
     "@skos:altLabel": "EMES",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEMES-123456-Q",
     "@cim:IdentifiedObject.name": "EMILIO ESTEBAN S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA47017728",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-30",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA47017728",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

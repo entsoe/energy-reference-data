@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardReasonCodeTypeList</skos:prefLabel>
     <dcterms:identifier>ET0015</dcterms:identifier>
     <skos:definition xml:lang="en">The coded motivation of an act.</skos:definition>
@@ -1066,5 +1066,113 @@ In the case of a Final Confirmation Report this is informing the recipient that 
     <dcterms:identifier>B70</dcterms:identifier>
     <skos:prefLabel>Message partially accepted</skos:prefLabel>
     <skos:definition xml:lang="en">The detailed transactions of the received document are partially accepted. It is necessary to look at the detailed (transaction) level to determine if the transaction is accepted, rejected etc.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B71">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B71</dcterms:identifier>
+    <skos:prefLabel>(Explicit) Permission from the customer</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: The data subject has given consent to the processing of his or her personal data for one or more specific purposes.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B72">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B72</dcterms:identifier>
+    <skos:prefLabel>In execution of a contract with the customer (Execution of contract)</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B73">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B73</dcterms:identifier>
+    <skos:prefLabel>Legal obligations</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for compliance with a legal obligation to which the controller is subject.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B74">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B74</dcterms:identifier>
+    <skos:prefLabel>In protection of vital interests of the customer</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary in order to protect the vital interests of the data subject or of another natural person.
+</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B75">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B75</dcterms:identifier>
+    <skos:prefLabel>In order to perform a duty of common (national) interest</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B76">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B76</dcterms:identifier>
+    <skos:prefLabel>Justified interest of the dataprocessee</skos:prefLabel>
+    <skos:definition xml:lang="en">Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
+</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B77">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B77</dcterms:identifier>
+    <skos:prefLabel>Fulfilment of purpose</skos:prefLabel>
+    <skos:definition xml:lang="en">The purpose of the object or action has been fulfilled.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B78">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B78</dcterms:identifier>
+    <skos:prefLabel>Reach of end timestamp</skos:prefLabel>
+    <skos:definition xml:lang="en">The object or action has reached its end timestamp.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B79">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B79</dcterms:identifier>
+    <skos:prefLabel>Revocation</skos:prefLabel>
+    <skos:definition xml:lang="en">Revocation of the action or object.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B80">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B80</dcterms:identifier>
+    <skos:prefLabel>Termination</skos:prefLabel>
+    <skos:definition xml:lang="en">Termination of the action or object.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B81">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B81</dcterms:identifier>
+    <skos:prefLabel>No valid grid access contract</skos:prefLabel>
+    <skos:definition xml:lang="en">There is no valid grid access contract for a specific metering point. There is no valid grid access contract for a specific metering point.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B82">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B82</dcterms:identifier>
+    <skos:prefLabel>Customer move-out</skos:prefLabel>
+    <skos:definition xml:lang="en">A customer has moved out. </skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B83">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B83</dcterms:identifier>
+    <skos:prefLabel>Capacity increased by TSO</skos:prefLabel>
+    <skos:definition xml:lang="en">Describes a capacity that was increased by a TSO</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B84">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B84</dcterms:identifier>
+    <skos:prefLabel>Reference values applied</skos:prefLabel>
+    <skos:definition xml:lang="en">Reference values applied on time series through reconciliation</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardReasonCodeTypeList/B85">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardReasonCodeTypeList"/>
+    <dcterms:identifier>B85</dcterms:identifier>
+    <skos:prefLabel>Reference missing or outdated</skos:prefLabel>
+    <skos:definition xml:lang="en">Reference values missing or outdated.</skos:definition>
   </skos:Concept>
 </rdf:RDF>

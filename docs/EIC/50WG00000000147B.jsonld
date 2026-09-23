@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000147B",
     "@skos:prefLabel": "BLAFALLIG116 HYDRO",
-    "@skos:altLabel": "NO-BLAFALLIG116_",
+    "@skos:altLabel": "NO-BLAFALLIG116",
     "@cim:IdentifiedObject.mRID": "50WG00000000147B",
     "@cim:IdentifiedObject.name": "BLAFALLIG116 HYDRO",
     "@cim:Names.name": [
-        "NO-BLAFALLIG116_",
+        "NO-BLAFALLIG116",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

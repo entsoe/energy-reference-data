@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001151F",
-    "@skos:prefLabel": "NEDRELEIG6      HYDRO",
-    "@skos:altLabel": "NO-NEDRELEIG6___",
+    "@skos:prefLabel": "NEDRELEIG7      HYDRO",
+    "@skos:altLabel": "NO-NEDRELEIG7",
     "@cim:IdentifiedObject.mRID": "50WG00000001151F",
-    "@cim:IdentifiedObject.name": "NEDRELEIG6      HYDRO",
+    "@cim:IdentifiedObject.name": "NEDRELEIG7      HYDRO",
     "@cim:Names.name": [
-        "NO-NEDRELEIG6___",
+        "NO-NEDRELEIG7",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-08-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

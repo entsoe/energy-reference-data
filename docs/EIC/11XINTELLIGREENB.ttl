@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XINTELLIGREENB" ;
     cim:IdentifiedObject.name "intelligreen (uk) Ltd" ;
-    cim:Names.name "Balance Group",
-        "GB925271527",
-        "INTELLIGREEN" ;
+    cim:Names.name "GB925271527",
+        "INTELLIGREEN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XINTELLIGREENB" ;
     schema1:vatID "GB925271527" ;
     skos:altLabel "INTELLIGREEN" ;

@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48WSTN0000BRTRBI",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48WSTN0000BRTRBI",
+    "@skos:prefLabel": "BRTRB",
+    "@skos:altLabel": "BRAINTREEBESS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Braintree BESS BM unit ID BRTRB-1\nX Code - 48X000000000344P \nAlexander House  \n1 Mandarin Road\nRainton Bridge Business Park \nSunderland, DH4 5RA\nTom Reynolds\ntom.reynolds@edf-re.uk \nEDFERAssetManagement@edf-re.uk \n"
+    },
+    "@cim:IdentifiedObject.mRID": "48WSTN0000BRTRBI",
+    "@cim:IdentifiedObject.name": "BRTRB",
+    "@cim:Names.name": [
+        "BRAINTREEBESS",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "Braintree BESS BM unit ID BRTRB-1\nX Code - 48X000000000344P \nAlexander House  \n1 Mandarin Road\nRainton Bridge Business Park \nSunderland, DH4 5RA\nTom Reynolds\ntom.reynolds@edf-re.uk \nEDFERAssetManagement@edf-re.uk \n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-05-21",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

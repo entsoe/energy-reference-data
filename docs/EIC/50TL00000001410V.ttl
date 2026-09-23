@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001410V" ;
     cim:IdentifiedObject.name "S 47 Raa-Gluppe" ;
     cim:Names.name "Internal Line",
-        "NO-RAAGLUPPE" ;
+        "NO-47RAAGLUPPE" ;
     dcterms:identifier "urn:eic:50TL00000001410V" ;
-    skos:altLabel "NO-RAAGLUPPE" ;
+    skos:altLabel "NO-47RAAGLUPPE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Raa-Gluppe" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

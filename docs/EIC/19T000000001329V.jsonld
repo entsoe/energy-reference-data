@@ -16,7 +16,10 @@
     "@skos:altLabel": "N401",
     "@cim:IdentifiedObject.mRID": "19T000000001329V",
     "@cim:IdentifiedObject.name": "Żarnowiec-Gdańsk Błonia 1",
-    "@cim:Names.name": "N401",
+    "@cim:Names.name": [
+        "N401",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-10-25",

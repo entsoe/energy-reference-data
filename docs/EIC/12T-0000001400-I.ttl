@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-10" ;
+    cim:DateAndOrTime.date "2025-06-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Internal Line" ;
     cim:IdentifiedObject.mRID "12T-0000001400-I" ;
     cim:IdentifiedObject.name "220 kV Chavalon-Roche Y/Mast 33 2" ;
-    cim:Names.name "0",
+    cim:Names.name "2CHAV-ROCHYM33IL",
         "Internal Line" ;
     dcterms:identifier "urn:eic:12T-0000001400-I" ;
-    skos:altLabel "0" ;
+    skos:altLabel "2CHAV-ROCHYM33IL" ;
     skos:definition "Internal Line"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "220 kV Chavalon-Roche Y/Mast 33 2" ;

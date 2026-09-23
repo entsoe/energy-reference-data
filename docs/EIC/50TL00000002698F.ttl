@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002698F" ;
-    cim:IdentifiedObject.name "S 22 Degnepollen-Mehuken" ;
+    cim:IdentifiedObject.name "N 22 Deknepollen-Mehuken" ;
     cim:Names.name "Internal Line",
-        "NO-DEGNEPOLLENME" ;
+        "NO-22DEKNEPOLLEN" ;
     dcterms:identifier "urn:eic:50TL00000002698F" ;
-    skos:altLabel "NO-DEGNEPOLLENME" ;
+    skos:altLabel "NO-22DEKNEPOLLEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Degnepollen-Mehuken" ;
+    skos:prefLabel "N 22 Deknepollen-Mehuken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

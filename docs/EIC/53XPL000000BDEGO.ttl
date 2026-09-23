@@ -7,20 +7,24 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-20" ;
+    cim:DateAndOrTime.date "2026-04-08" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumer, Distribution System Operator, Network User, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "53XPL000000BDEGO" ;
-    cim:IdentifiedObject.name "BD Spółka z o.o." ;
-    cim:Names.name "BD-SPZOO",
+    cim:IdentifiedObject.name "ESV Fabryczna Sp. z o.o." ;
+    cim:Names.name "8971746522",
         "Consumer",
-        "PL8971746522",
+        "ESV_FABRYCZNA",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "Network User",
+        "System Operator",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000BDEGO" ;
-    schema1:vatID "PL8971746522" ;
-    skos:altLabel "BD-SPZOO" ;
-    skos:definition "Consumer, Distribution System Operator, Network User, Trade Responsible Party"@en ;
+    schema1:vatID "8971746522" ;
+    skos:altLabel "ESV_FABRYCZNA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BD Spółka z o.o." ;
+    skos:prefLabel "ESV Fabryczna Sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

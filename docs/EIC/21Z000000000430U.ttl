@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-01" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000430U" ;
     cim:IdentifiedObject.name "DRAMA" ;
     cim:Names.name "Connection Point",
-        "DRAMA-GR" ;
+        "DRAMA-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000430U" ;
     skos:altLabel "DRAMA-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

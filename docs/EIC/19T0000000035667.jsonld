@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000035667",
-    "@skos:prefLabel": "Dunowo-AT-1",
+    "@skos:prefLabel": "400/220kV Dunowo AT1",
     "@skos:altLabel": "DUN-A1",
     "@cim:IdentifiedObject.mRID": "19T0000000035667",
-    "@cim:IdentifiedObject.name": "Dunowo-AT-1",
+    "@cim:IdentifiedObject.name": "400/220kV Dunowo AT1",
     "@cim:Names.name": [
         "DUN-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

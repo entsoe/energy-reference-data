@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11W0-0000-0983-B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11W0-0000-0983-B" ;
+    cim:IdentifiedObject.name "Beilrode - BESS Co-Location 2" ;
+    cim:Names.name "BEILRODE_BESS_2",
+        "BESS" ;
+    dcterms:identifier "urn:eic:11W0-0000-0983-B" ;
+    skos:altLabel "BEILRODE_BESS_2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Beilrode - BESS Co-Location 2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

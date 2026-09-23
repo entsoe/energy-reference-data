@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002224N" ;
     cim:IdentifiedObject.name "S 66 T_Lillestrøm-Leirsund" ;
     cim:Names.name "Internal Line",
-        "NO-TLILLESTROMLE" ;
+        "NO-66T_LILLRSUND" ;
     dcterms:identifier "urn:eic:50TL00000002224N" ;
-    skos:altLabel "NO-TLILLESTROMLE" ;
+    skos:altLabel "NO-66T_LILLRSUND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 T_Lillestrøm-Leirsund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

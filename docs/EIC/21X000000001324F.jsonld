@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "HERMESENERGY",
         "PL7010417053",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-28",
+    "@cim:DateAndOrTime.date": "2024-11-15",
     "@schema:vatID": "PL7010417053",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

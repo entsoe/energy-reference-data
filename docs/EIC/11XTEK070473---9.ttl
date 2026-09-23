@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XTEK070473---9" ;
     cim:IdentifiedObject.name "TÜRK ELEKTRIK KURUMU AG" ;
-    cim:Names.name "DE280036677",
+    cim:Names.name "Balance Responsible Party",
+        "DE280036677",
         "TEK" ;
     dcterms:identifier "urn:eic:11XTEK070473---9" ;
     schema1:vatID "DE280036677" ;

@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000409N",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000409N",
+    "@skos:prefLabel": "Powertica Commodities UK Ltd.",
+    "@skos:altLabel": "POWERTICA_UK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Party Code "
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000409N",
+    "@cim:IdentifiedObject.name": "Powertica Commodities UK Ltd.",
+    "@cim:Names.name": [
+        "POWERTICA_UK",
+        "GB481676948",
+        "Balance Responsible Party",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Party Code ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-10-10",
+    "@schema:vatID": "GB481676948",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

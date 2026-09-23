@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004664T",
     "@skos:prefLabel": "S Dale     T11 Transformator",
-    "@skos:altLabel": "NO-DALE____T11",
+    "@skos:altLabel": "NO-DALET11",
     "@cim:IdentifiedObject.mRID": "50TT00000004664T",
     "@cim:IdentifiedObject.name": "S Dale     T11 Transformator",
     "@cim:Names.name": [
-        "NO-DALE____T11",
+        "NO-DALET11",
         "Transformer"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-06-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

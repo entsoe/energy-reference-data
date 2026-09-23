@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-PXE-CCC-OZ-W" ;
     cim:IdentifiedObject.name "Central Clearing Counterparty, a.s., organizacna zlozka" ;
     cim:Names.name "PXE-CCC-SK",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-PXE-CCC-OZ-W" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "PXE-CCC-SK" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

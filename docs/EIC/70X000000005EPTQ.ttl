@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/70X000000005EPTQ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "70X000000005EPTQ" ;
+    cim:IdentifiedObject.name "ESM proizvodstvo na toplina" ;
+    cim:Names.name "4080022607900",
+        "Consumer",
+        "ESMTOPLANI",
+        "Network User" ;
+    dcterms:identifier "urn:eic:70X000000005EPTQ" ;
+    schema1:vatID "4080022607900" ;
+    skos:altLabel "ESMTOPLANI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ESM proizvodstvo na toplina" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WANTKALNJURBAZ">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WANTKALNJURBAZ</dcterms:identifier>
+    <skos:prefLabel>ANTKALNI&#352;KIAI JURBARKAS II</skos:prefLabel>
+    <skos:altLabel>ANTKALNISKIUJURB</skos:altLabel>
+    <skos:definition xml:lang="en">UAB &#8222;EKO Srautas&#8220;
+   302828541    LT100013271016   darius.bieksa@greengenius.com</skos:definition>
+    <cim:IdentifiedObject.mRID>41WANTKALNJURBAZ</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>ANTKALNI&#352;KIAI JURBARKAS II</cim:IdentifiedObject.name>
+    <cim:Names.name>ANTKALNISKIUJURB</cim:Names.name>
+    <cim:IdentifiedObject.description>UAB &#8222;EKO Srautas&#8220;
+   302828541    LT100013271016   darius.bieksa@greengenius.com</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-10-27</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

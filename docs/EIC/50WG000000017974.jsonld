@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000017974",
-    "@skos:prefLabel": "SVELGEN G101 HYDRO",
-    "@skos:altLabel": "NO-SVELGEN_G101_",
+    "@skos:prefLabel": "AMELA   G101 HYDRO",
+    "@skos:altLabel": "NO-AMELAG101",
     "@cim:IdentifiedObject.mRID": "50WG000000017974",
-    "@cim:IdentifiedObject.name": "SVELGEN G101 HYDRO",
+    "@cim:IdentifiedObject.name": "AMELA   G101 HYDRO",
     "@cim:Names.name": [
-        "NO-SVELGEN_G101_",
+        "NO-AMELAG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

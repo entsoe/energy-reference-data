@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XVOLTATRADESRJ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XVOLTATRADESRJ" ;
+    cim:IdentifiedObject.name "VOLTA TRADE SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "IT18493911004",
+        "VOLTATRADESRL" ;
+    dcterms:identifier "urn:eic:59XVOLTATRADESRJ" ;
+    schema1:vatID "IT18493911004" ;
+    skos:altLabel "VOLTATRADESRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VOLTA TRADE SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

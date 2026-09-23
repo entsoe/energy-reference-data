@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:59X000000001004D",
-    "@skos:prefLabel": "ENERGY ONLY SPA",
-    "@skos:altLabel": "ENERGYONLYSPA",
+    "@skos:prefLabel": "Oenergy SPA",
+    "@skos:altLabel": "OENERGYSPA",
     "@cim:IdentifiedObject.mRID": "59X000000001004D",
-    "@cim:IdentifiedObject.name": "ENERGY ONLY SPA",
+    "@cim:IdentifiedObject.name": "Oenergy SPA",
     "@cim:Names.name": [
-        "ENERGYONLYSPA",
+        "OENERGYSPA",
         "IT11014291006",
         "Market Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-01-11",
+    "@cim:DateAndOrTime.date": "2024-04-09",
     "@schema:vatID": "IT11014291006",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

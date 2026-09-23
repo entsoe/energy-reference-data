@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00594790O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00594790O" ;
+    cim:IdentifiedObject.name "Riga Port Electric, SIA" ;
+    cim:Names.name "Distribution System Operator",
+        "LV40003752513",
+        "STJ00594790" ;
+    dcterms:identifier "urn:eic:43X-STJ00594790O" ;
+    schema1:vatID "LV40003752513" ;
+    skos:altLabel "STJ00594790" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Riga Port Electric, SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

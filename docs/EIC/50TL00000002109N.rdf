@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000002109N</dcterms:identifier>
     <skos:prefLabel>N 66 Sautso-Kautokeino</skos:prefLabel>
-    <skos:altLabel>NO-SAUTSOKAUTOKE</skos:altLabel>
+    <skos:altLabel>NO-66SAUTSOKAUTO</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000002109N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>N 66 Sautso-Kautokeino</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SAUTSOKAUTOKE</cim:Names.name>
+    <cim:Names.name>NO-66SAUTSOKAUTO</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

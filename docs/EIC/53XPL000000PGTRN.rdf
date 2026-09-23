@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000PGTRN</dcterms:identifier>
-    <skos:prefLabel>PGNiG TERMIKA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:prefLabel>ORLEN TERMIKA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
     <skos:altLabel>TERMIKA</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000PGTRN</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PGNiG TERMIKA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ORLEN TERMIKA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
     <cim:Names.name>TERMIKA</cim:Names.name>
     <cim:Names.name>PL5250000630</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-09-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-01-27</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5250000630</schema:vatID>

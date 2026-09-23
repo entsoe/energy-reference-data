@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-21" ;
+    cim:DateAndOrTime.date "2024-05-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XVE-BUHEATVK-I" ;
-    cim:IdentifiedObject.name "Vattenfall Wärme Berlin Aktiengesellschaft" ;
+    cim:IdentifiedObject.name "BEW Berliner Energie und Wärme AG" ;
     cim:Names.name "Balance Responsible Party",
         "DE813571807",
         "WAERME_BERLIN" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE813571807" ;
     skos:altLabel "WAERME_BERLIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Vattenfall Wärme Berlin Aktiengesellschaft" ;
+    skos:prefLabel "BEW Berliner Energie und Wärme AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

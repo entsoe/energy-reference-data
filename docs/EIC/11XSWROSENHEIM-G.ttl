@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWROSENHEIM-G" ;
     cim:IdentifiedObject.name "Stadtwerke Rosenheim GmbH & Co. KG" ;
-    cim:Names.name "DE201908830",
-        "SWROSENHEIM",
-        "balance group" ;
+    cim:Names.name "Balance Group Responsible Party",
+        "DE201908830",
+        "SWROSENHEIM" ;
     dcterms:identifier "urn:eic:11XSWROSENHEIM-G" ;
     schema1:vatID "DE201908830" ;
     skos:altLabel "SWROSENHEIM" ;

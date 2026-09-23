@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/45T0000000002002",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:45T0000000002002",
+    "@skos:prefLabel": "400kV Endrup Stovstrup 2",
+    "@skos:altLabel": "EDR_400_STSV2",
+    "@cim:IdentifiedObject.mRID": "45T0000000002002",
+    "@cim:IdentifiedObject.name": "400kV Endrup Stovstrup 2",
+    "@cim:Names.name": [
+        "EDR_400_STSV2",
+        "Internal Line"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-01-22",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

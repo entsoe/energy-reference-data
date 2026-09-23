@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWS-SPEYER--D",
     "@skos:prefLabel": "Stadtwerke Speyer GmbH",
     "@skos:altLabel": "SWS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWS-SPEYER--D",
     "@cim:IdentifiedObject.name": "Stadtwerke Speyer GmbH",
     "@cim:Names.name": [
         "SWS",
         "DE149689905",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-09-19",
+    "@cim:DateAndOrTime.date": "2024-11-27",
     "@schema:vatID": "DE149689905",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

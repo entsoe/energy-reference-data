@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-03-30" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006802I" ;
-    cim:IdentifiedObject.name "Połaniec-Klikowa" ;
+    cim:IdentifiedObject.name "220kV Klikowa-Polaniec" ;
     cim:Names.name "222PL",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006802I" ;
     skos:altLabel "222PL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Połaniec-Klikowa" ;
+    skos:prefLabel "220kV Klikowa-Polaniec" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

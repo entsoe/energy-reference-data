@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-08-21" ;
+    cim:DateAndOrTime.date "2025-05-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XIBD----DE---3" ;
-    cim:IdentifiedObject.name "IBERDROLA Energie Deutschland GmbH" ;
+    cim:IdentifiedObject.name "Iberdrola Energie Deutschland GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE815055529",
         "IBD----DE" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE815055529" ;
     skos:altLabel "IBD----DE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "IBERDROLA Energie Deutschland GmbH" ;
+    skos:prefLabel "Iberdrola Energie Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

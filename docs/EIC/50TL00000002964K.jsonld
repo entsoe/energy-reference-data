@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002964K",
-    "@skos:prefLabel": "S 132 Furnes-Jessnes",
-    "@skos:altLabel": "NO-FURNESJESSNES",
+    "@skos:prefLabel": "S 132 Hamar omformerstasjon-Jessnes",
+    "@skos:altLabel": "NO-132HAMAROMFJE",
     "@cim:IdentifiedObject.mRID": "50TL00000002964K",
-    "@cim:IdentifiedObject.name": "S 132 Furnes-Jessnes",
+    "@cim:IdentifiedObject.name": "S 132 Hamar omformerstasjon-Jessnes",
     "@cim:Names.name": [
-        "NO-FURNESJESSNES",
+        "NO-132HAMAROMFJE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

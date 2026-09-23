@@ -7,18 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-09-13" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-AOX00060P" ;
-    cim:IdentifiedObject.name "SIA AOX Trade " ;
-    cim:Names.name "40203343967",
-        "Balance Group Responsible Party",
-        "Balance Responsible Party",
-        "LV-AOXT45" ;
+    cim:IdentifiedObject.name "AOX Trade SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-AOXT45",
+        "LV40203343967" ;
     dcterms:identifier "urn:eic:43X-TG-AOX00060P" ;
-    schema1:vatID "40203343967" ;
+    schema1:vatID "LV40203343967" ;
     skos:altLabel "LV-AOXT45" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SIA AOX Trade " ;
+    skos:prefLabel "AOX Trade SIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

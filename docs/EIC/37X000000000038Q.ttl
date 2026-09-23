@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-02-12" ;
+    cim:DateAndOrTime.date "2026-03-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Grid Operator" ;
     cim:IdentifiedObject.mRID "37X000000000038Q" ;
-    cim:IdentifiedObject.name "Energienetze Bayern GmbH & Co. KG" ;
+    cim:IdentifiedObject.name "ENERGIENETZE BAYERN" ;
     cim:Names.name "DE251731173",
-        "ENERGIENETZEBAYE",
+        "ENERGIENETZE",
         "Grid Operator" ;
     dcterms:identifier "urn:eic:37X000000000038Q" ;
     schema1:vatID "DE251731173" ;
-    skos:altLabel "ENERGIENETZEBAYE" ;
+    skos:altLabel "ENERGIENETZE" ;
     skos:definition "Grid Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energienetze Bayern GmbH & Co. KG" ;
+    skos:prefLabel "ENERGIENETZE BAYERN" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

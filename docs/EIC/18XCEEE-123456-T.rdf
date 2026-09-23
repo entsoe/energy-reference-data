@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XCEEE-123456-T</dcterms:identifier>
-    <skos:prefLabel>Compa&#241;&#237;a Escandinava de Electricidad en Espa&#241;a</skos:prefLabel>
+    <skos:prefLabel>ESCANDINAVA DE ELECTRICIDAD SL.</skos:prefLabel>
     <skos:altLabel>CEEE</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCEEE-123456-T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Compa&#241;&#237;a Escandinava de Electricidad en Espa&#241;a</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ESCANDINAVA DE ELECTRICIDAD SL.</cim:IdentifiedObject.name>
     <cim:Names.name>CEEE</cim:Names.name>
     <cim:Names.name>ESB85551273</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2009-03-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-23</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB85551273</schema:vatID>

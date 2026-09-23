@@ -12,8 +12,10 @@
     cim:IdentifiedObject.mRID "10X1001C--00009H" ;
     cim:IdentifiedObject.name "Common platform for mFRR" ;
     cim:Names.name "MFRR_PLATFORM",
-        "Platform Operator" ;
+        "Platform Operator",
+        "n / a" ;
     dcterms:identifier "urn:eic:10X1001C--00009H" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "MFRR_PLATFORM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Common platform for mFRR" ;

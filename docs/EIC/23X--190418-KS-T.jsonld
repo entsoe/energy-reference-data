@@ -23,12 +23,14 @@
     "@cim:Names.name": [
         "KOCHST_LP_USA",
         "A0015841G.NL",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Company registered in US;  Company registration number: 3437877 Company tax identification number: 48-1251073",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-04-18",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

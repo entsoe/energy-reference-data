@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X0000000001LI2</dcterms:identifier>
     <skos:prefLabel>EXTREME&#209;A DE ARROCES, S. COOP. ULTIMO GRADO</skos:prefLabel>
     <skos:altLabel>ARROC</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X0000000001LI2</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EXTREME&#209;A DE ARROCES, S. COOP. ULTIMO GRADO</cim:IdentifiedObject.name>
     <cim:Names.name>ARROC</cim:Names.name>
     <cim:Names.name>ESF06312920</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESF06312920</schema:vatID>

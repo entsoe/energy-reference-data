@@ -1,0 +1,33 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48WSTN0000LIMKWA> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """16 West Borough, Wimborne, Dorset, United Kingdom, BH21 1NG
+Florent RIGAUD
+florent.rigaud@boralex.com
++44 1202 847680
+limekiln.extension.limited@boralex.com
+""" ;
+    cim:IdentifiedObject.mRID "48WSTN0000LIMKWA" ;
+    cim:IdentifiedObject.name "Limekiln Extension Limited" ;
+    cim:Names.name "LIMKW",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:48WSTN0000LIMKWA" ;
+    skos:altLabel "LIMKW" ;
+    skos:definition """16 West Borough, Wimborne, Dorset, United Kingdom, BH21 1NG
+Florent RIGAUD
+florent.rigaud@boralex.com
++44 1202 847680
+limekiln.extension.limited@boralex.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Limekiln Extension Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

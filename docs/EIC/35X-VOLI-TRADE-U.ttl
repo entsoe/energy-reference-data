@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-VOLI-TRADE-U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-VOLI-TRADE-U" ;
+    cim:IdentifiedObject.name "Voli Trade d.o.o." ;
+    cim:Names.name "02227312",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Producer",
+        "Production Responsible Party",
+        "VOLI_TRADE" ;
+    dcterms:identifier "urn:eic:35X-VOLI-TRADE-U" ;
+    schema1:vatID "02227312" ;
+    skos:altLabel "VOLI_TRADE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Voli Trade d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

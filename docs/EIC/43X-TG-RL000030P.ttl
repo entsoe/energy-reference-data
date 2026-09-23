@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-10-28" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-RL000030P" ;
     cim:IdentifiedObject.name "REVO.LV SIA" ;
-    cim:Names.name "40103333623",
-        "Balance Responsible Party",
-        "LV-TGRL16" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-TGRL16",
+        "LV40103333623" ;
     dcterms:identifier "urn:eic:43X-TG-RL000030P" ;
-    schema1:vatID "40103333623" ;
+    schema1:vatID "LV40103333623" ;
     skos:altLabel "LV-TGRL16" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "REVO.LV SIA" ;

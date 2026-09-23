@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10T1001C--00049O",
-    "@skos:prefLabel": "Italia-Francia_interconnection line L_PIOSSASCO-GRANDE-ILE 1",
+    "@skos:prefLabel": "L C.C.320kV N0 1 GRANDE-ILE - PIOSSASCO",
     "@skos:altLabel": "L_PIOSSA-GRANDE1",
     "@cim:IdentifiedObject.mRID": "10T1001C--00049O",
-    "@cim:IdentifiedObject.name": "Italia-Francia_interconnection line L_PIOSSASCO-GRANDE-ILE 1",
+    "@cim:IdentifiedObject.name": "L C.C.320kV N0 1 GRANDE-ILE - PIOSSASCO",
     "@cim:Names.name": [
         "L_PIOSSA-GRANDE1",
         "Tieline"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-02-18",
+    "@cim:DateAndOrTime.date": "2024-12-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

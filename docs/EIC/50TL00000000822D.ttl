@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000822D" ;
     cim:IdentifiedObject.name "S 22 Brokke-Bjørgum" ;
     cim:Names.name "Internal Line",
-        "NO-BROKKEBJORGUM" ;
+        "NO-22BROKKEBJORG" ;
     dcterms:identifier "urn:eic:50TL00000000822D" ;
-    skos:altLabel "NO-BROKKEBJORGUM" ;
+    skos:altLabel "NO-22BROKKEBJORG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Brokke-Bjørgum" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

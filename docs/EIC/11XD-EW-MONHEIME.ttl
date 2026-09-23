@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XD-EW-MONHEIME" ;
     cim:IdentifiedObject.name "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE811257596",
-        "D_EW_MONHEIM" ;
+    cim:Names.name "DE811257596",
+        "D_EW_MONHEIM",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XD-EW-MONHEIME" ;
     schema1:vatID "DE811257596" ;
     skos:altLabel "D_EW_MONHEIM" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

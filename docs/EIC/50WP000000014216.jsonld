@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000014216",
     "@skos:prefLabel": "Juvet",
-    "@skos:altLabel": "NO-JUVET_PL",
+    "@skos:altLabel": "NO-JUVET",
     "@cim:IdentifiedObject.mRID": "50WP000000014216",
     "@cim:IdentifiedObject.name": "Juvet",
     "@cim:Names.name": [
-        "NO-JUVET_PL",
+        "NO-JUVET",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

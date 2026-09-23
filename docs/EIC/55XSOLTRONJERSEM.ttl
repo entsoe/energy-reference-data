@@ -12,8 +12,10 @@
     cim:IdentifiedObject.mRID "55XSOLTRONJERSEM" ;
     cim:IdentifiedObject.name "Soltron Jersey Limited" ;
     cim:Names.name "Balance Responsible Party",
-        "SOLTRONJERSEY" ;
+        "SOLTRONJERSEY",
+        "n / a" ;
     dcterms:identifier "urn:eic:55XSOLTRONJERSEM" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "SOLTRONJERSEY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Soltron Jersey Limited" ;

@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250325--S-D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250325--S-D",
+    "@skos:prefLabel": "The Bank of Nova Scotia",
+    "@skos:altLabel": "BANK_NOVA_SCOTIA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company registered in Toronto, Canada\nCompany registration number: GIIN: 6XG0CI.00000.LE.124\nConfirmed with W-8BEN-E form\nTIN number confirmed with W-8BEN-E form"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250325--S-D",
+    "@cim:IdentifiedObject.name": "The Bank of Nova Scotia",
+    "@cim:Names.name": [
+        "BANK_NOVA_SCOTIA",
+        "BN105195598RC0001",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Company registered in Toronto, Canada\nCompany registration number: GIIN: 6XG0CI.00000.LE.124\nConfirmed with W-8BEN-E form\nTIN number confirmed with W-8BEN-E form",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-03-25",
+    "@schema:vatID": "BN105195598RC0001",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000551I" ;
-    cim:IdentifiedObject.name "M 132 Øresvik-Reppa" ;
+    cim:IdentifiedObject.name "N 132 Øresvik-Reppa" ;
     cim:Names.name "Internal Line",
-        "NO-ORESVIKREPPA" ;
+        "NO-132ORESVIKREP" ;
     dcterms:identifier "urn:eic:50TL00000000551I" ;
-    skos:altLabel "NO-ORESVIKREPPA" ;
+    skos:altLabel "NO-132ORESVIKREP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Øresvik-Reppa" ;
+    skos:prefLabel "N 132 Øresvik-Reppa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

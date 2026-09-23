@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/23X--240125-RZ-H">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:23X--240125-RZ-H</dcterms:identifier>
+    <skos:prefLabel>RZ Partners Trading LP</skos:prefLabel>
+    <skos:altLabel>RZ_PARTNERS_TRAD</skos:altLabel>
+    <skos:definition xml:lang="en">EIN-number: 92-1410269, confirmed by the certificate of IRS, department of the treasury internal revenue service, Philadelphia, US</skos:definition>
+    <cim:IdentifiedObject.mRID>23X--240125-RZ-H</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>RZ Partners Trading LP</cim:IdentifiedObject.name>
+    <cim:Names.name>RZ_PARTNERS_TRAD</cim:Names.name>
+    <cim:Names.name>921410269 </cim:Names.name>
+    <cim:IdentifiedObject.description>EIN-number: 92-1410269, confirmed by the certificate of IRS, department of the treasury internal revenue service, Philadelphia, US</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-01-29</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>921410269 </schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

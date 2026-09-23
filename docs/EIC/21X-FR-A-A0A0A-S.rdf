@@ -4,17 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X-FR-A-A0A0A-S</dcterms:identifier>
-    <skos:prefLabel>GRTgaz</skos:prefLabel>
-    <skos:altLabel>GRTGAZ</skos:altLabel>
+    <skos:prefLabel>NaTran</skos:prefLabel>
+    <skos:altLabel>NATRAN_FR</skos:altLabel>
+    <skos:definition xml:lang="en">Renamed to NATRAN from GRTgaz FR</skos:definition>
     <cim:IdentifiedObject.mRID>21X-FR-A-A0A0A-S</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GRTgaz</cim:IdentifiedObject.name>
-    <cim:Names.name>GRTGAZ</cim:Names.name>
-    <cim:Names.name>FR440117620</cim:Names.name>
+    <cim:IdentifiedObject.name>NaTran</cim:IdentifiedObject.name>
+    <cim:Names.name>NATRAN_FR</cim:Names.name>
+    <cim:Names.name>FR27440117620</cim:Names.name>
+    <cim:IdentifiedObject.description>Renamed to NATRAN from GRTgaz FR</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-01-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-20</cim:DateAndOrTime.date>
     <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>FR440117620</schema:vatID>
+    <schema:vatID>FR27440117620</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

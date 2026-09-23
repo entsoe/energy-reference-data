@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000024287",
-    "@skos:prefLabel": "S Kolstad 47 Or X",
-    "@skos:altLabel": "NO-KOLSTAD47OR",
+    "@skos:prefLabel": "S Kolstad  47  Or X",
+    "@skos:altLabel": "NO-KOLSTAD47OR_X",
     "@cim:IdentifiedObject.mRID": "50TL000000024287",
-    "@cim:IdentifiedObject.name": "S Kolstad 47 Or X",
+    "@cim:IdentifiedObject.name": "S Kolstad  47  Or X",
     "@cim:Names.name": [
-        "NO-KOLSTAD47OR",
+        "NO-KOLSTAD47OR_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

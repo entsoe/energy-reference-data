@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-24" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000002025U" ;
-    cim:IdentifiedObject.name "Yara Porsgrunn APN" ;
+    cim:IdentifiedObject.name "S Årlifoss 2   L1  Forbruk" ;
     cim:Names.name "Load",
-        "NO-YARAPORSGRAPN" ;
+        "NO-ARLIFOSS2" ;
     dcterms:identifier "urn:eic:50WC00000002025U" ;
-    skos:altLabel "NO-YARAPORSGRAPN" ;
+    skos:altLabel "NO-ARLIFOSS2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Yara Porsgrunn APN" ;
+    skos:prefLabel "S Årlifoss 2   L1  Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

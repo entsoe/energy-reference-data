@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000063432",
     "@skos:prefLabel": "S Ålgård   T2 Transformator",
-    "@skos:altLabel": "NO-ALGARD__T2",
+    "@skos:altLabel": "NO-ALGARDT2",
     "@cim:IdentifiedObject.mRID": "50TT000000063432",
     "@cim:IdentifiedObject.name": "S Ålgård   T2 Transformator",
     "@cim:Names.name": [
-        "NO-ALGARD__T2",
+        "NO-ALGARDT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

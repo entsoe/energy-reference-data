@@ -19,13 +19,13 @@
     "@cim:Names.name": [
         "WE-ZCP-SP-ZOO",
         "PL6411006444",
-        "Grid Access Provider",
-        "Energy Supplier",
-        "Metered Data Responsible",
-        "System Operator",
         "Consumer",
+        "Energy Supplier",
         "Meter Administrator",
-        "Producer"
+        "Producer",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

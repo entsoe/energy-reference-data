@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27X-ENERGOVR---0" ;
     cim:IdentifiedObject.name "ENERGOVR s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ06629164",
-        "ENERGOVR" ;
+        "ENERGOVR",
+        "cz06629164" ;
     dcterms:identifier "urn:eic:27X-ENERGOVR---0" ;
-    schema1:vatID "CZ06629164" ;
+    schema1:vatID "cz06629164" ;
     skos:altLabel "ENERGOVR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENERGOVR s.r.o." ;

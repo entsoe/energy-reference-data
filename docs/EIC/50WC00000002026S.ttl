@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-24" ;
+    cim:DateAndOrTime.date "2025-12-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002026S" ;
     cim:IdentifiedObject.name "Odda Zinc Smelter" ;
     cim:Names.name "Load",
-        "NO-ODDAZINCSMELT" ;
+        "NO-ODDAZS" ;
     dcterms:identifier "urn:eic:50WC00000002026S" ;
-    skos:altLabel "NO-ODDAZINCSMELT" ;
+    skos:altLabel "NO-ODDAZS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Odda Zinc Smelter" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,23 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000SIMEA",
-    "@skos:prefLabel": "SIME Polska Sp. z o.o.",
-    "@skos:altLabel": "SIME_POLSKA",
+    "@skos:prefLabel": "ENTRI Polska Sp. z o.o.",
+    "@skos:altLabel": "ENTRI_POLSKA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Network User"
     },
     "@cim:IdentifiedObject.mRID": "53XPL000000SIMEA",
-    "@cim:IdentifiedObject.name": "SIME Polska Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "ENTRI Polska Sp. z o.o.",
     "@cim:Names.name": [
-        "SIME_POLSKA",
+        "ENTRI_POLSKA",
+        "A00029673.PL",
         "PL5262499440",
         "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-09-28",
+    "@cim:DateAndOrTime.date": "2025-11-19",
     "@schema:vatID": "PL5262499440",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

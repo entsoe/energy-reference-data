@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/45T000000000205T">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:45T000000000205T</dcterms:identifier>
+    <skos:prefLabel>Endrup-Klixb&#252;ll 2</skos:prefLabel>
+    <skos:altLabel>L_380-EDR-KLIX_2</skos:altLabel>
+    <skos:definition xml:lang="en">
+The following two codes should be deactivated/deleted, as they were created by mistake.
+45T000000000204V
+45T000000000205T
+The correct codes must be created as 10T codes, and the forms have already been submitted by email.
+Kind regards,
+Maria Heuer, 45 &#8211; Energinet</skos:definition>
+    <cim:IdentifiedObject.mRID>45T000000000205T</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Endrup-Klixb&#252;ll 2</cim:IdentifiedObject.name>
+    <cim:Names.name>L_380-EDR-KLIX_2</cim:Names.name>
+    <cim:IdentifiedObject.description>
+The following two codes should be deactivated/deleted, as they were created by mistake.
+45T000000000204V
+45T000000000205T
+The correct codes must be created as 10T codes, and the forms have already been submitted by email.
+Kind regards,
+Maria Heuer, 45 &#8211; Energinet</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-02-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Tieline</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

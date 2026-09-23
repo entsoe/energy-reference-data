@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XE-WERK-NET01A" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Mittelbaden AG & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE814101932",
-        "EWM" ;
+    cim:Names.name "DE814101932",
+        "EWM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XE-WERK-NET01A" ;
     schema1:vatID "DE814101932" ;
     skos:altLabel "EWM" ;

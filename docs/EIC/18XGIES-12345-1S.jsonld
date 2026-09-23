@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XGIES-12345-1S",
     "@skos:prefLabel": "HIDROELÉCTRICA DEL GIESTA, S.R.L.",
     "@skos:altLabel": "GIES",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGIES-12345-1S",
     "@cim:IdentifiedObject.name": "HIDROELÉCTRICA DEL GIESTA, S.R.L.",
     "@cim:Names.name": [
         "GIES",
         "ESB15349251",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-05-04",
     "@schema:vatID": "ESB15349251",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-06-19" ;
+    cim:DateAndOrTime.date "2026-02-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGKU-OE------T" ;
-    cim:IdentifiedObject.name "gemeinsames Kommunalunternehmen Oberes Egertal" ;
-    cim:Names.name "22311420317",
-        "Balance Group",
+    cim:IdentifiedObject.name "Gemeinsames Kommunalunternehmen oberes Egertal" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE251587792",
         "GKU-OE" ;
     dcterms:identifier "urn:eic:11XGKU-OE------T" ;
-    schema1:vatID "22311420317" ;
+    schema1:vatID "DE251587792" ;
     skos:altLabel "GKU-OE" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "gemeinsames Kommunalunternehmen Oberes Egertal" ;
+    skos:prefLabel "Gemeinsames Kommunalunternehmen oberes Egertal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

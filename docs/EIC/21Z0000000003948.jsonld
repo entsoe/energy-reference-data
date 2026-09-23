@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z0000000003948",
     "@skos:prefLabel": "Stranraer Exit Point",
     "@skos:altLabel": "STRANRAER-NI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Exit Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z0000000003948",
     "@cim:IdentifiedObject.name": "Stranraer Exit Point",
     "@cim:Names.name": [
         "STRANRAER-NI",
-        "Valid EIC Function needed"
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Exit Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

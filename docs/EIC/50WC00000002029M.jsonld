@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002029M",
-    "@skos:prefLabel": "Husnes Hall A",
-    "@skos:altLabel": "NO-HUSNESHALLA",
+    "@skos:prefLabel": "N Belbuan  66  Forbruk",
+    "@skos:altLabel": "NO-BELBUAN66",
     "@cim:IdentifiedObject.mRID": "50WC00000002029M",
-    "@cim:IdentifiedObject.name": "Husnes Hall A",
+    "@cim:IdentifiedObject.name": "N Belbuan  66  Forbruk",
     "@cim:Names.name": [
-        "NO-HUSNESHALLA",
+        "NO-BELBUAN66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-06-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

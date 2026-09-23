@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000517J",
-    "@skos:prefLabel": "M Asu      132 LR44 Industri",
+    "@skos:prefLabel": "N Asu      132 LR44 Industri",
     "@skos:altLabel": "NO-ASU132LR44NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000517J",
-    "@cim:IdentifiedObject.name": "M Asu      132 LR44 Industri",
+    "@cim:IdentifiedObject.name": "N Asu      132 LR44 Industri",
     "@cim:Names.name": [
         "NO-ASU132LR44NC",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11WD2KUM1000161L</dcterms:identifier>
-    <skos:prefLabel>Kuehtai-M1</skos:prefLabel>
+    <skos:prefLabel>Kuehtai-1-M1</skos:prefLabel>
     <skos:altLabel>KUEHTAI-M1_TIWAG</skos:altLabel>
     <cim:IdentifiedObject.mRID>11WD2KUM1000161L</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Kuehtai-M1</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Kuehtai-1-M1</cim:IdentifiedObject.name>
     <cim:Names.name>KUEHTAI-M1_TIWAG</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-04-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

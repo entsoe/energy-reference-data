@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSKROSTOCK-2-L",
-    "@skos:prefLabel": "Stromkontor Rostock GmbH",
-    "@skos:altLabel": "SKR-NETZ-GRUMPA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
+    "@skos:prefLabel": "Stromkontor Rostock Port GmbH",
+    "@skos:altLabel": "SKR-NETZ-KRUMPA",
     "@cim:IdentifiedObject.mRID": "11XSKROSTOCK-2-L",
-    "@cim:IdentifiedObject.name": "Stromkontor Rostock GmbH",
+    "@cim:IdentifiedObject.name": "Stromkontor Rostock Port GmbH",
     "@cim:Names.name": [
-        "SKR-NETZ-GRUMPA",
+        "SKR-NETZ-KRUMPA",
         "DE208984155",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-07-07",
+    "@cim:DateAndOrTime.date": "2024-12-19",
     "@schema:vatID": "DE208984155",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

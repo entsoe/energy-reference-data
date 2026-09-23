@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001748H" ;
     cim:IdentifiedObject.name "STOLSDALM1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STOLSDALM1___" ;
+        "NO-STOLSDALM1" ;
     dcterms:identifier "urn:eic:50WG00000001748H" ;
-    skos:altLabel "NO-STOLSDALM1___" ;
+    skos:altLabel "NO-STOLSDALM1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "STOLSDALM1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

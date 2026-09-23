@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Market Area" ;
     cim:IdentifiedObject.mRID "21Y000000000014L" ;
     cim:IdentifiedObject.name "Virtual area for balancing gas Shipper allocation" ;
     cim:Names.name "BVP",
-        "Valid EIC Function needed" ;
+        "Market Area" ;
     dcterms:identifier "urn:eic:21Y000000000014L" ;
     skos:altLabel "BVP" ;
-    skos:definition "Virtual Market Area"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Virtual area for balancing gas Shipper allocation" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

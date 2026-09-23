@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:28XSALONITANHOVG</dcterms:identifier>
-    <skos:prefLabel>SALONIT ANHOVO,d.d.</skos:prefLabel>
+    <skos:prefLabel>Alpacem Cement d.d.</skos:prefLabel>
     <skos:altLabel>SALONITANHOVO</skos:altLabel>
-    <skos:definition xml:lang="en">Consumer</skos:definition>
     <cim:IdentifiedObject.mRID>28XSALONITANHOVG</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SALONIT ANHOVO,d.d.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Alpacem Cement d.d.</cim:IdentifiedObject.name>
     <cim:Names.name>SALONITANHOVO</cim:Names.name>
     <cim:Names.name>SI71263187</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-06-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-09-16</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SI71263187</schema:vatID>

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG000000021730" ;
     cim:IdentifiedObject.name "ARLIFOSSG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ARLIFOSSG1___" ;
+        "NO-ARLIFOSSG1" ;
     dcterms:identifier "urn:eic:50WG000000021730" ;
-    skos:altLabel "NO-ARLIFOSSG1___" ;
+    skos:altLabel "NO-ARLIFOSSG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ARLIFOSSG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XENBW-REG-KWKV</dcterms:identifier>
     <skos:prefLabel>Netze BW GmbH</skos:prefLabel>
     <skos:altLabel>ENBW_REG_KWKG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XENBW-REG-KWKV</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Netze BW GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>ENBW_REG_KWKG</cim:Names.name>
     <cim:Names.name>DE200335418</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-02-04</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE200335418</schema:vatID>
   </skos:Concept>

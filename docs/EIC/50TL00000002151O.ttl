@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002151O" ;
     cim:IdentifiedObject.name "S 66 SørFron-T_Fron" ;
     cim:Names.name "Internal Line",
-        "NO-SORFRONTFRON" ;
+        "NO-66SORFRONT_FR" ;
     dcterms:identifier "urn:eic:50TL00000002151O" ;
-    skos:altLabel "NO-SORFRONTFRON" ;
+    skos:altLabel "NO-66SORFRONT_FR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 SørFron-T_Fron" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000054X",
-    "@skos:prefLabel": "S Kollsnes 132 T4 Forbruk",
-    "@skos:altLabel": "NO-KOLL132T4",
+    "@skos:prefLabel": "S Kollsnes 22  T4 Forbruk",
+    "@skos:altLabel": "NO-KOLLSNES22T4",
     "@cim:IdentifiedObject.mRID": "50WC00000000054X",
-    "@cim:IdentifiedObject.name": "S Kollsnes 132 T4 Forbruk",
+    "@cim:IdentifiedObject.name": "S Kollsnes 22  T4 Forbruk",
     "@cim:Names.name": [
-        "NO-KOLL132T4",
+        "NO-KOLLSNES22T4",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

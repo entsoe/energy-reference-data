@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000020291",
     "@skos:prefLabel": "Godal kraftverk",
-    "@skos:altLabel": "NO-GODAL_KRAFTVE",
+    "@skos:altLabel": "NO-GODALKRAFTVER",
     "@cim:IdentifiedObject.mRID": "50WP000000020291",
     "@cim:IdentifiedObject.name": "Godal kraftverk",
     "@cim:Names.name": [
-        "NO-GODAL_KRAFTVE",
+        "NO-GODALKRAFTVER",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

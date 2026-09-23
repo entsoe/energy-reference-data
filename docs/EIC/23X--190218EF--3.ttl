@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "23X--190218EF--3" ;
     cim:IdentifiedObject.name "Eurener Fund of Audentia Capital Sicav II Plc." ;
     cim:Names.name "EURENER_FUND",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--190218EF--3" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "EURENER_FUND" ;
     skos:definition "- No VAT available - Sub-fund of a Audentia Capital Sicav II Plc. - Tax Identification Number: 997650821"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

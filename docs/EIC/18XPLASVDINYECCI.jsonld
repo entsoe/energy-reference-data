@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPLASVDINYECCI",
     "@skos:prefLabel": "PLASVIDAVI INYECCION SL",
     "@skos:altLabel": "PVDIN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPLASVDINYECCI",
     "@cim:IdentifiedObject.name": "PLASVIDAVI INYECCION SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB97686679",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB97686679",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

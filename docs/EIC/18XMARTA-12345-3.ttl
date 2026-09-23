@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-06-10" ;
+    cim:DateAndOrTime.date "2026-03-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XMARTA-12345-3" ;
-    cim:IdentifiedObject.name "Hidroelectrica Santa Marta, S.L." ;
-    cim:Names.name "ESB588111980",
+    cim:IdentifiedObject.name "HIDROELÉCTRICA SANTA MARTA S.L." ;
+    cim:Names.name "ESB58111980",
         "MARTA",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XMARTA-12345-3" ;
-    schema1:vatID "ESB588111980" ;
+    schema1:vatID "ESB58111980" ;
     skos:altLabel "MARTA" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hidroelectrica Santa Marta, S.L." ;
+    skos:prefLabel "HIDROELÉCTRICA SANTA MARTA S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

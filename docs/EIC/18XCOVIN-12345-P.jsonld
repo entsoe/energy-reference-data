@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCOVIN-12345-P",
     "@skos:prefLabel": "COVIÑAS COOPERATIVA VALENCIANA",
     "@skos:altLabel": "COVIN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCOVIN-12345-P",
     "@cim:IdentifiedObject.name": "COVIÑAS COOPERATIVA VALENCIANA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF46031050",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-12-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF46031050",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

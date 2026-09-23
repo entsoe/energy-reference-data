@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRWESOL120759K" ;
     cim:IdentifiedObject.name "RWE Supply & Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813022070",
-        "RWESOL120759" ;
+    cim:Names.name "DE813022070",
+        "RWESOL120759",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XRWESOL120759K" ;
     schema1:vatID "DE813022070" ;
     skos:altLabel "RWESOL120759" ;

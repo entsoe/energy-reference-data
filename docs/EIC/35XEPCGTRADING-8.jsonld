@@ -12,27 +12,27 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:35XEPCGTRADING-8",
-    "@skos:prefLabel": "TRADING-EPCG",
+    "@skos:prefLabel": "Elektroprivreda Crne Gore AD Nikšić",
     "@skos:altLabel": "EPCGTRADING",
     "@skos:definition": {
         "@language": "en",
         "@value": "Epcg Functional Entity For Electricity Supply And Trading."
     },
     "@cim:IdentifiedObject.mRID": "35XEPCGTRADING-8",
-    "@cim:IdentifiedObject.name": "TRADING-EPCG",
+    "@cim:IdentifiedObject.name": "Elektroprivreda Crne Gore AD Nikšić",
     "@cim:Names.name": [
         "EPCGTRADING",
-        "02002230",
-        "Production Responsible party",
-        "Consumption Responsible Party",
+        "  02002230",
+        "Balance Responsible Party",
         "Capacity Trader",
-        "Balance Responsible Party"
+        "Consumption Responsible Party",
+        "Production Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Epcg Functional Entity For Electricity Supply And Trading.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-10-18",
-    "@schema:vatID": "02002230",
+    "@cim:DateAndOrTime.date": "2026-01-17",
+    "@schema:vatID": "  02002230",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

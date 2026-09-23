@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-21" ;
+    cim:DateAndOrTime.date "2026-01-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49T000000000047Z" ;
-    cim:IdentifiedObject.name "Bleiwijk - Vijfhuizen 380kV Oranje" ;
+    cim:IdentifiedObject.name "Bleiswijk - Vijfhuizen 380kV Oranje" ;
     cim:Names.name "BWK-VHZ380-O",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000047Z" ;
     skos:altLabel "BWK-VHZ380-O" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bleiwijk - Vijfhuizen 380kV Oranje" ;
+    skos:prefLabel "Bleiswijk - Vijfhuizen 380kV Oranje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

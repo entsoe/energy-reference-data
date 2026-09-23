@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000000517J" ;
-    cim:IdentifiedObject.name "M Asu      132 LR44 Industri" ;
+    cim:IdentifiedObject.name "N Asu      132 LR44 Industri" ;
     cim:Names.name "Load",
         "NO-ASU132LR44NC" ;
     dcterms:identifier "urn:eic:50WC00000000517J" ;
     skos:altLabel "NO-ASU132LR44NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Asu      132 LR44 Industri" ;
+    skos:prefLabel "N Asu      132 LR44 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCEPUE-12345-O" ;
-    cim:IdentifiedObject.name "CIA. ENERGETICA PUENTE DEL OBISPO,S.L." ;
+    cim:IdentifiedObject.name "COMPAÑIA ENERGETICA DE PUENTE OBISPO, S.L." ;
     cim:Names.name "CEPUE",
         "ESB91448514",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XCEPUE-12345-O" ;
     schema1:vatID "ESB91448514" ;
     skos:altLabel "CEPUE" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CIA. ENERGETICA PUENTE DEL OBISPO,S.L." ;
+    skos:prefLabel "COMPAÑIA ENERGETICA DE PUENTE OBISPO, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

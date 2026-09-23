@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNWSVERTRIEB-N" ;
     cim:IdentifiedObject.name "NWS Energie-Vertriebs AG & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE220648973",
-        "NWSVERTRIEB" ;
+    cim:Names.name "DE220648973",
+        "NWSVERTRIEB",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNWSVERTRIEB-N" ;
     schema1:vatID "DE220648973" ;
     skos:altLabel "NWSVERTRIEB" ;

@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000009830H",
-    "@skos:prefLabel": "Limited Lability Company PROMGAZ CITY",
+    "@skos:prefLabel": "PROMGAZ CITY Limited Lability Company ",
     "@skos:altLabel": "PROMGAZ_CITY_LLC",
     "@cim:IdentifiedObject.mRID": "56X930000009830H",
-    "@cim:IdentifiedObject.name": "Limited Lability Company PROMGAZ CITY",
+    "@cim:IdentifiedObject.name": "PROMGAZ CITY Limited Lability Company ",
     "@cim:Names.name": [
         "PROMGAZ_CITY_LLC",
         "415592726554",
@@ -24,7 +24,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-28",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "415592726554",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

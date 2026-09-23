@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-26" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation" ;
     cim:IdentifiedObject.mRID "12W-0000000431-4" ;
     cim:IdentifiedObject.name "KK Beznau" ;
-    cim:Names.name "Generation",
+    cim:Names.name "Generation Unit",
         "KKB-BEZNAU101-GE" ;
     dcterms:identifier "urn:eic:12W-0000000431-4" ;
     skos:altLabel "KKB-BEZNAU101-GE" ;
-    skos:definition "Generation"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KK Beznau" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

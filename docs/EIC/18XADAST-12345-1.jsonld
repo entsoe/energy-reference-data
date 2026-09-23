@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XADAST-12345-1",
     "@skos:prefLabel": "ADASTRA EXPLOTACIONES AGRARIAS S.L",
     "@skos:altLabel": "ADAST",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XADAST-12345-1",
     "@cim:IdentifiedObject.name": "ADASTRA EXPLOTACIONES AGRARIAS S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB85734747",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB85734747",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

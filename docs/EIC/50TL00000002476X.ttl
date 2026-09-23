@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002476X" ;
-    cim:IdentifiedObject.name "S Nes OEK 300 N2 X" ;
+    cim:IdentifiedObject.name "S Nes OEK  300 N2 X" ;
     cim:Names.name "Internal Line",
-        "NO-NESOEK300N2X" ;
+        "NO-NES_OEK300N2" ;
     dcterms:identifier "urn:eic:50TL00000002476X" ;
-    skos:altLabel "NO-NESOEK300N2X" ;
+    skos:altLabel "NO-NES_OEK300N2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Nes OEK 300 N2 X" ;
+    skos:prefLabel "S Nes OEK  300 N2 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

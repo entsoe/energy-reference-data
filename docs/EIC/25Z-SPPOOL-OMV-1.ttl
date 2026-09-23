@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-30" ;
+    cim:DateAndOrTime.date "2025-07-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "25Z-SPPOOL-OMV-1" ;
-    cim:IdentifiedObject.name "Storage Pool OMV Gas Storage Austria" ;
+    cim:IdentifiedObject.name "OMV Gas Storage Austria" ;
     cim:Names.name "Connection Point",
         "SPPOOL-OMV" ;
     dcterms:identifier "urn:eic:25Z-SPPOOL-OMV-1" ;
     skos:altLabel "SPPOOL-OMV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Storage Pool OMV Gas Storage Austria" ;
+    skos:prefLabel "OMV Gas Storage Austria" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

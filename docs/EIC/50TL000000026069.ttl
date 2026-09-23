@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000026069" ;
     cim:IdentifiedObject.name "S Aurland2 420 T1 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-AURLAND2T1" ;
+        "NO-AURLAND2420T1" ;
     dcterms:identifier "urn:eic:50TL000000026069" ;
-    skos:altLabel "NO-AURLAND2T1" ;
+    skos:altLabel "NO-AURLAND2420T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Aurland2 420 T1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

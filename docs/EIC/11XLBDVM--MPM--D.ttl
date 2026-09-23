@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLBDVM--MPM--D" ;
     cim:IdentifiedObject.name "LichtBlick AG" ;
-    cim:Names.name "Balance Group",
-        "DE266269060",
-        "LICHTBLICK-DVM" ;
+    cim:Names.name "DE266269060",
+        "LICHTBLICK-DVM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLBDVM--MPM--D" ;
     schema1:vatID "DE266269060" ;
     skos:altLabel "LICHTBLICK-DVM" ;

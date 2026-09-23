@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001630H",
-    "@skos:prefLabel": "M 66 Åsen-Oldereid",
-    "@skos:altLabel": "NO-ASENOLDEREID",
+    "@skos:prefLabel": "N 66 Åsen-Oldereid",
+    "@skos:altLabel": "NO-66ASENOLDEREI",
     "@cim:IdentifiedObject.mRID": "50TL00000001630H",
-    "@cim:IdentifiedObject.name": "M 66 Åsen-Oldereid",
+    "@cim:IdentifiedObject.name": "N 66 Åsen-Oldereid",
     "@cim:Names.name": [
-        "NO-ASENOLDEREID",
+        "NO-66ASENOLDEREI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Common platform for aFRR",
     "@cim:Names.name": [
         "AFRR_PLATFORM",
+        "N/A",
         "Platform Operator"
     ],
     "@cim:IdentifiedObject.description": "PICASSO is a new System pursuant to SOGL Art. 125 and 126  PICASSO is a new System pursuant to SOGL Art. 125 and 126 The platform has simmular tasks like other common platforms (e.g MFRR_Platform (10X1001C--00009H) or INPLATFORM (10X1001C--00011U)) The other common plattforms didn’t need a VAT code in their related informations. Please change tne Vat Code to “n/a”",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-02-11",
+    "@schema:vatID": "N/A",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

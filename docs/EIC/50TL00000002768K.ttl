@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002768K" ;
-    cim:IdentifiedObject.name "S 22 Ylja-Eidsfoss 2" ;
+    cim:IdentifiedObject.name "S 22 Ala-Lomen" ;
     cim:Names.name "Internal Line",
-        "NO-YLJAEIDSFO2" ;
+        "NO-22ALALOME" ;
     dcterms:identifier "urn:eic:50TL00000002768K" ;
-    skos:altLabel "NO-YLJAEIDSFO2" ;
+    skos:altLabel "NO-22ALALOME" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Ylja-Eidsfoss 2" ;
+    skos:prefLabel "S 22 Ala-Lomen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

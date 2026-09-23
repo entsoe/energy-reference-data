@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "48X000000000255O" ;
     cim:IdentifiedObject.name "LUZIRA DMCC" ;
     cim:Names.name "BUGOLOBI",
-        "Interconnection Trade Responsible" ;
+        "Interconnection Trade Responsible",
+        "n / a" ;
     dcterms:identifier "urn:eic:48X000000000255O" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "BUGOLOBI" ;
     skos:definition "A VAT number is not available for this company, so we are providing the Legal Entity Identifier (LEI) company registration number which is 984500O3EFBA8613AA78."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

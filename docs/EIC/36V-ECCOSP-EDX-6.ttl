@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/36V-ECCOSP-EDX-6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "For the purposes of the WP/S EccoSp platform and the installation of a new instance of edx" ;
+    cim:IdentifiedObject.mRID "36V-ECCOSP-EDX-6" ;
+    cim:IdentifiedObject.name "VP/S EccoSp NOSBiH" ;
+    cim:Names.name "Endpoint",
+        "VPSECCOSPBA" ;
+    dcterms:identifier "urn:eic:36V-ECCOSP-EDX-6" ;
+    skos:altLabel "VPSECCOSPBA" ;
+    skos:definition "For the purposes of the WP/S EccoSp platform and the installation of a new instance of edx"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VP/S EccoSp NOSBiH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

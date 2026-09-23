@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10V1001C--00302A",
-    "@skos:prefLabel": "Core CC tool ID test environment",
-    "@skos:altLabel": "CORE_ID_TEST",
+    "@skos:prefLabel": "Core CC tool DA test environment",
+    "@skos:altLabel": "CORE_NEMO_TEST",
     "@skos:definition": {
         "@language": "en",
-        "@value": "In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID"
+        "@value": "EIC IT-system for Core Day-Ahead NEMO integration environment"
     },
     "@cim:IdentifiedObject.mRID": "10V1001C--00302A",
-    "@cim:IdentifiedObject.name": "Core CC tool ID test environment",
+    "@cim:IdentifiedObject.name": "Core CC tool DA test environment",
     "@cim:Names.name": [
-        "CORE_ID_TEST",
+        "CORE_NEMO_TEST",
         "IT-system"
     ],
-    "@cim:IdentifiedObject.description": "In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID",
+    "@cim:IdentifiedObject.description": "EIC IT-system for Core Day-Ahead NEMO integration environment",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-27",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

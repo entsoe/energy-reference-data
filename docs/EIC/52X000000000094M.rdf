@@ -4,17 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:52X000000000094M</dcterms:identifier>
-    <skos:prefLabel>AOT Energy Netherlands BV</skos:prefLabel>
-    <skos:altLabel>AOTENBV</skos:altLabel>
+    <skos:prefLabel>Westgass Netherlands B.V.</skos:prefLabel>
+    <skos:altLabel>WESTGASSNL</skos:altLabel>
     <skos:definition xml:lang="en">Capacity Trader</skos:definition>
     <cim:IdentifiedObject.mRID>52X000000000094M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>AOT Energy Netherlands BV</cim:IdentifiedObject.name>
-    <cim:Names.name>AOTENBV</cim:Names.name>
+    <cim:IdentifiedObject.name>Westgass Netherlands B.V.</cim:IdentifiedObject.name>
+    <cim:Names.name>WESTGASSNL</cim:Names.name>
     <cim:Names.name>NL864185704B01</cim:Names.name>
     <cim:IdentifiedObject.description>Capacity Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-10-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL864185704B01</schema:vatID>
   </skos:Concept>

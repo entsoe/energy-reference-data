@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19V111100000007L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19V111100000007L" ;
+    cim:IdentifiedObject.name "PSE PDN ECP Production EndPoint" ;
+    cim:Names.name "Endpoint",
+        "PSE_PDN_ECP_SP" ;
+    dcterms:identifier "urn:eic:19V111100000007L" ;
+    skos:altLabel "PSE_PDN_ECP_SP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PSE PDN ECP Production EndPoint" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

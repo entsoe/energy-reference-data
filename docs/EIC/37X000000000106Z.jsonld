@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000106Z",
-    "@skos:prefLabel": "EAG Energie Abrechnungs- und Service GmbH",
-    "@skos:altLabel": "EAG_ENERGIE_ABRE",
+    "@skos:prefLabel": "MB Energy Last Mile GmbH ",
+    "@skos:altLabel": "MB_ENERGY_LAST_M",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000106Z",
-    "@cim:IdentifiedObject.name": "EAG Energie Abrechnungs- und Service GmbH",
+    "@cim:IdentifiedObject.name": "MB Energy Last Mile GmbH ",
     "@cim:Names.name": [
-        "EAG_ENERGIE_ABRE",
-        "DE288718212",
+        "MB_ENERGY_LAST_M",
+        "DE198317294",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-20",
-    "@schema:vatID": "DE288718212",
+    "@cim:DateAndOrTime.date": "2026-07-13",
+    "@schema:vatID": "DE198317294",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

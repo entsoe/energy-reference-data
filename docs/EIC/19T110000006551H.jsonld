@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006551H",
-    "@skos:prefLabel": "Łosnice-A1",
+    "@skos:prefLabel": "220/110kV Losnice AT1",
     "@skos:altLabel": "LOS-A1",
     "@cim:IdentifiedObject.mRID": "19T110000006551H",
-    "@cim:IdentifiedObject.name": "Łosnice-A1",
+    "@cim:IdentifiedObject.name": "220/110kV Losnice AT1",
     "@cim:Names.name": [
         "LOS-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

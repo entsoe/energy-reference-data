@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Function Missing" ;
     cim:IdentifiedObject.mRID "18XEEP-1234567-I" ;
     cim:IdentifiedObject.name "ENDESA ENERGIA, PORTUGAL" ;
     cim:Names.name "ENDP",
         "PT980245974",
-        "Valid EIC Function needed" ;
+        "Producer" ;
     dcterms:identifier "urn:eic:18XEEP-1234567-I" ;
     schema1:vatID "PT980245974" ;
     skos:altLabel "ENDP" ;
-    skos:definition "Function Missing"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENDESA ENERGIA, PORTUGAL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

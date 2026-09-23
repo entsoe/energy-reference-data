@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-12-02" ;
+    cim:DateAndOrTime.date "2026-07-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XLOMAS-1234-1J" ;
     cim:IdentifiedObject.name "SOLWINDET LAS LOMAS, S.L." ;
     cim:Names.name "ESB18607978",
         "LOMAS",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XLOMAS-1234-1J" ;
     schema1:vatID "ESB18607978" ;
     skos:altLabel "LOMAS" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SOLWINDET LAS LOMAS, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

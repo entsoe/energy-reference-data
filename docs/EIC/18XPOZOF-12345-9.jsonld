@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPOZOF-12345-9",
     "@skos:prefLabel": "COMUNIDAD DE AGUAS POZO DE LA FLORIDA",
     "@skos:altLabel": "POZOF",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPOZOF-12345-9",
     "@cim:IdentifiedObject.name": "COMUNIDAD DE AGUAS POZO DE LA FLORIDA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESE38053609",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESE38053609",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/29VSEL-VPS-PRODE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "We are involved in the “Data Exchange for VP/S via ECP on PCN” project. To successfully register and operate our new ECP endpoints, we need a new V-Code for the production endpoint that will be used to access the VP/S." ;
+    cim:IdentifiedObject.mRID "29VSEL-VPS-PRODE" ;
+    cim:IdentifiedObject.name "SELENE CC RCC VPS endpoint production" ;
+    cim:Names.name "Endpoint",
+        "SELRCC-VPS-PROD" ;
+    dcterms:identifier "urn:eic:29VSEL-VPS-PRODE" ;
+    skos:altLabel "SELRCC-VPS-PROD" ;
+    skos:definition "We are involved in the “Data Exchange for VP/S via ECP on PCN” project. To successfully register and operate our new ECP endpoints, we need a new V-Code for the production endpoint that will be used to access the VP/S."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SELENE CC RCC VPS endpoint production" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

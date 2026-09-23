@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001523Z",
     "@skos:prefLabel": "Dvergsdal Kraftv",
-    "@skos:altLabel": "NO-DVERGSDAL-KRA",
+    "@skos:altLabel": "NO-DVERGSDALKRAF",
     "@cim:IdentifiedObject.mRID": "50WP00000001523Z",
     "@cim:IdentifiedObject.name": "Dvergsdal Kraftv",
     "@cim:Names.name": [
-        "NO-DVERGSDAL-KRA",
+        "NO-DVERGSDALKRAF",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

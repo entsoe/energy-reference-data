@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XKOOP000187--4" ;
     cim:IdentifiedObject.name "Stadtwerke Flensburg GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE134645304",
-        "SWFLENSBURG-K" ;
+    cim:Names.name "DE134645304",
+        "SWFLENSBURG-K",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKOOP000187--4" ;
     schema1:vatID "DE134645304" ;
     skos:altLabel "SWFLENSBURG-K" ;

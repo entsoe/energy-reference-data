@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-05" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XE-WERK-STERNP" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Stern KG Bad Endorf" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE131156035",
         "E-WERK-STERN" ;
     dcterms:identifier "urn:eic:11XE-WERK-STERNP" ;

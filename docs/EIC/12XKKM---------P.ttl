@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2003-08-17" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XKKM---------P" ;
     cim:IdentifiedObject.name "BKW FMB Energie AG" ;
-    cim:Names.name "Balance Group",
-        "CH120839",
+    cim:Names.name "CHE-103.258.498",
+        "Capacity Trader",
         "KKM-ST" ;
     dcterms:identifier "urn:eic:12XKKM---------P" ;
-    schema1:vatID "CH120839" ;
+    schema1:vatID "CHE-103.258.498" ;
     skos:altLabel "KKM-ST" ;
     skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

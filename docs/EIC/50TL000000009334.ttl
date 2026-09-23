@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000009334" ;
-    cim:IdentifiedObject.name "M 22 Røstefoss-Kuråsfossen" ;
+    cim:IdentifiedObject.name "N 22 Røstefoss-Røros" ;
     cim:Names.name "Internal Line",
-        "NO-ROSTEFOSSKURA" ;
+        "NO-22ROSTEFOSSRO" ;
     dcterms:identifier "urn:eic:50TL000000009334" ;
-    skos:altLabel "NO-ROSTEFOSSKURA" ;
+    skos:altLabel "NO-22ROSTEFOSSRO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Røstefoss-Kuråsfossen" ;
+    skos:prefLabel "N 22 Røstefoss-Røros" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

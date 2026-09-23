@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002130W",
-    "@skos:prefLabel": "M 66 Skogmo-Fiskumfoss",
-    "@skos:altLabel": "NO-SKOGMOFISKUMF",
+    "@skos:prefLabel": "N 66 Skogmo-Fiskumfoss",
+    "@skos:altLabel": "NO-66SKOGMOFISKU",
     "@cim:IdentifiedObject.mRID": "50TL00000002130W",
-    "@cim:IdentifiedObject.name": "M 66 Skogmo-Fiskumfoss",
+    "@cim:IdentifiedObject.name": "N 66 Skogmo-Fiskumfoss",
     "@cim:Names.name": [
-        "NO-SKOGMOFISKUMF",
+        "NO-66SKOGMOFISKU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

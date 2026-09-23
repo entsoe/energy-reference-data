@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:47X0000000000649</dcterms:identifier>
-    <skos:prefLabel>PrePayPower Limited</skos:prefLabel>
+    <skos:prefLabel>Yuno Limited</skos:prefLabel>
     <skos:altLabel>IE0649</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsible Party, Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>47X0000000000649</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PrePayPower Limited</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Yuno Limited</cim:IdentifiedObject.name>
     <cim:Names.name>IE0649</cim:Names.name>
     <cim:Names.name>IE9731027C</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party, Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-09-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-10-03</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IE9731027C</schema:vatID>

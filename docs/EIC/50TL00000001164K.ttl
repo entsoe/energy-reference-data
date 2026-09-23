@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001164K" ;
-    cim:IdentifiedObject.name "M 420 Aura-Viklandet" ;
+    cim:IdentifiedObject.name "N 420 Aura-Viklandet" ;
     cim:Names.name "Internal Line",
-        "NO-AURAVIKLANDET" ;
+        "NO-420AURAVIKLAN" ;
     dcterms:identifier "urn:eic:50TL00000001164K" ;
-    skos:altLabel "NO-AURAVIKLANDET" ;
+    skos:altLabel "NO-420AURAVIKLAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Aura-Viklandet" ;
+    skos:prefLabel "N 420 Aura-Viklandet" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

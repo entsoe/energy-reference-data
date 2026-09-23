@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000542J" ;
     cim:IdentifiedObject.name "S 132 Nore 2-Eggedal" ;
     cim:Names.name "Internal Line",
-        "NO-NORE2EGGEDAL" ;
+        "NO-132NORE_2EGGE" ;
     dcterms:identifier "urn:eic:50TL00000000542J" ;
-    skos:altLabel "NO-NORE2EGGEDAL" ;
+    skos:altLabel "NO-132NORE_2EGGE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Nore 2-Eggedal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

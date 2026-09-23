@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260203-RM-H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "VAT number confirmed through VIES: NL002742744B34 Company Registration Number confirmed by KvK: 83052925" ;
+    cim:IdentifiedObject.mRID "23X--260203-RM-H" ;
+    cim:IdentifiedObject.name "RM de Gruijter" ;
+    cim:Names.name "Consumer",
+        "NL002742744B34",
+        "RM_DE_GRUIJTER" ;
+    dcterms:identifier "urn:eic:23X--260203-RM-H" ;
+    schema1:vatID "NL002742744B34" ;
+    skos:altLabel "RM_DE_GRUIJTER" ;
+    skos:definition "VAT number confirmed through VIES: NL002742744B34 Company Registration Number confirmed by KvK: 83052925"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RM de Gruijter" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

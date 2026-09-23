@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002033U",
-    "@skos:prefLabel": "M 66 Ogndal-Steinkjer2",
-    "@skos:altLabel": "NO-OGNDALSTEINK2",
+    "@skos:prefLabel": "N 66 Ogndal-Steinkjer2",
+    "@skos:altLabel": "NO-66OGNDALKJER2",
     "@cim:IdentifiedObject.mRID": "50TL00000002033U",
-    "@cim:IdentifiedObject.name": "M 66 Ogndal-Steinkjer2",
+    "@cim:IdentifiedObject.name": "N 66 Ogndal-Steinkjer2",
     "@cim:Names.name": [
-        "NO-OGNDALSTEINK2",
+        "NO-66OGNDALKJER2",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

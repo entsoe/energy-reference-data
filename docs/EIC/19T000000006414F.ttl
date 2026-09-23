@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006414F" ;
-    cim:IdentifiedObject.name "Żukowice-Polkowice" ;
+    cim:IdentifiedObject.name "220kV Polkowice-Zukowice" ;
     cim:Names.name "4809",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006414F" ;
     skos:altLabel "4809" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Żukowice-Polkowice" ;
+    skos:prefLabel "220kV Polkowice-Zukowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

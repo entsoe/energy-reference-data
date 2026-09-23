@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002944Q" ;
-    cim:IdentifiedObject.name "M 66 T_Malnes-Malnes" ;
+    cim:IdentifiedObject.name "N 66 T_Malnes-Malnes" ;
     cim:Names.name "Internal Line",
-        "NO-TMALNESMALNES" ;
+        "NO-66T_MALNES_MA" ;
     dcterms:identifier "urn:eic:50TL00000002944Q" ;
-    skos:altLabel "NO-TMALNESMALNES" ;
+    skos:altLabel "NO-66T_MALNES_MA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 T_Malnes-Malnes" ;
+    skos:prefLabel "N 66 T_Malnes-Malnes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

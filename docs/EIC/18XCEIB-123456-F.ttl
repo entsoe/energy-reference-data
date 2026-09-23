@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-10" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCEIB-123456-F" ;
     cim:IdentifiedObject.name "IBEROLCORENSE S.L" ;
     cim:Names.name "CEIB",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCEIB-123456-F" ;
     schema1:vatID "ESB12006623" ;
     skos:altLabel "CEIB" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "IBEROLCORENSE S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

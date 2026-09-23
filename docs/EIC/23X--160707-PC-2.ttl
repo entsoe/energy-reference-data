@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "23X--160707-PC-2" ;
     cim:IdentifiedObject.name "Panima Capital SPC - Panima 1" ;
     cim:Names.name "Capacity Trader",
-        "PANIMA_CAPITAL" ;
+        "PANIMA_CAPITAL",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--160707-PC-2" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "PANIMA_CAPITAL" ;
     skos:definition "Capacity Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

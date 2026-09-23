@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X0303858024104",
-    "@skos:prefLabel": "EUSEBIO ENERGIA S.R.L.",
-    "@skos:altLabel": "IT-EUSEBIOENERGI",
+    "@skos:prefLabel": "ASCO POWER",
+    "@skos:altLabel": "IT-ASCOPOWERSPA",
     "@cim:IdentifiedObject.mRID": "26X0303858024104",
-    "@cim:IdentifiedObject.name": "EUSEBIO ENERGIA S.R.L.",
+    "@cim:IdentifiedObject.name": "ASCO POWER",
     "@cim:Names.name": [
-        "IT-EUSEBIOENERGI",
-        "A0011404E.IT",
+        "IT-ASCOPOWERSPA",
         "IT03038580241",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-03-15",
+    "@cim:DateAndOrTime.date": "2026-08-17",
     "@schema:vatID": "IT03038580241",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

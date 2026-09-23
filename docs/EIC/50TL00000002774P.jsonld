@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002774P",
-    "@skos:prefLabel": "N 22 Storsteinnes-Kjeldalen",
-    "@skos:altLabel": "NO-STORSTEINNESK",
+    "@skos:prefLabel": "N 22 Nordkjosbotn-Kjeldalen",
+    "@skos:altLabel": "NO-22NORDKJDALEN",
     "@cim:IdentifiedObject.mRID": "50TL00000002774P",
-    "@cim:IdentifiedObject.name": "N 22 Storsteinnes-Kjeldalen",
+    "@cim:IdentifiedObject.name": "N 22 Nordkjosbotn-Kjeldalen",
     "@cim:Names.name": [
-        "NO-STORSTEINNESK",
+        "NO-22NORDKJDALEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

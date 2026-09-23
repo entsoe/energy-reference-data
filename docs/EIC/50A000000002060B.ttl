@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50A000000002060B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50A000000002060B" ;
+    cim:IdentifiedObject.name "Nibbedalen" ;
+    cim:Names.name "NO-NIBBEDAL",
+        "Substation" ;
+    dcterms:identifier "urn:eic:50A000000002060B" ;
+    skos:altLabel "NO-NIBBEDAL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Nibbedalen" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

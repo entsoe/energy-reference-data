@@ -12,19 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19X5262725362PLZ",
-    "@skos:prefLabel": "ONE SPÓŁKA AKCYJNA",
-    "@skos:altLabel": "ONE_SA",
+    "@skos:prefLabel": "WISE ENERGY SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "WISE_ENERGY_SA",
     "@cim:IdentifiedObject.mRID": "19X5262725362PLZ",
-    "@cim:IdentifiedObject.name": "ONE SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "WISE ENERGY SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
-        "ONE_SA",
+        "WISE_ENERGY_SA",
         "A0020088F.PL",
         "PL5262725362",
+        "Balance Responsible Party",
         "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-21",
+    "@cim:DateAndOrTime.date": "2025-09-05",
     "@schema:vatID": "PL5262725362",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

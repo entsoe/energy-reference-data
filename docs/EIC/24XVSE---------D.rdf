@@ -4,18 +4,23 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:24XVSE---------D</dcterms:identifier>
-    <skos:prefLabel>Vychodoslovenska energetika a.s.</skos:prefLabel>
-    <skos:altLabel>VSE-SK</skos:altLabel>
+    <skos:prefLabel>Energetika Slovensko, a.s.</skos:prefLabel>
+    <skos:altLabel>ENERGETIKA_SK</skos:altLabel>
     <skos:definition xml:lang="en">Distribution Company</skos:definition>
     <cim:IdentifiedObject.mRID>24XVSE---------D</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Vychodoslovenska energetika a.s.</cim:IdentifiedObject.name>
-    <cim:Names.name>VSE-SK</cim:Names.name>
+    <cim:IdentifiedObject.name>Energetika Slovensko, a.s.</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERGETIKA_SK</cim:Names.name>
     <cim:Names.name>SK2022730457</cim:Names.name>
     <cim:IdentifiedObject.description>Distribution Company</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-02-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SK2022730457</schema:vatID>
   </skos:Concept>

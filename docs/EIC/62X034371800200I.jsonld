@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/62X034371800200I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:62X034371800200I",
+    "@skos:prefLabel": "LLC EL ENERGO",
+    "@skos:altLabel": "ELENERGO",
+    "@cim:IdentifiedObject.mRID": "62X034371800200I",
+    "@cim:IdentifiedObject.name": "LLC EL ENERGO",
+    "@cim:Names.name": [
+        "ELENERGO",
+        "448997126599",
+        "Consumption Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-07-26",
+    "@schema:vatID": "448997126599",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

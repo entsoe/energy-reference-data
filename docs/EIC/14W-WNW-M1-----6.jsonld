@@ -16,7 +16,10 @@
     "@skos:altLabel": "WNW-M1",
     "@cim:IdentifiedObject.mRID": "14W-WNW-M1-----6",
     "@cim:IdentifiedObject.name": "FHKW Neudorf/Werndorf-M1",
-    "@cim:Names.name": "WNW-M1",
+    "@cim:Names.name": [
+        "WNW-M1",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

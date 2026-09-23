@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000382W" ;
-    cim:IdentifiedObject.name "Leśniów-Mikułowa" ;
+    cim:IdentifiedObject.name "220kV Lesniow-Mikulowa" ;
     cim:Names.name "4014",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000382W" ;
     skos:altLabel "4014" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Leśniów-Mikułowa" ;
+    skos:prefLabel "220kV Lesniow-Mikulowa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

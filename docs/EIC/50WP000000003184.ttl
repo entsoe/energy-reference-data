@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000003184" ;
-    cim:IdentifiedObject.name "Håverstad" ;
-    cim:Names.name "NO-HAVERSTA",
+    cim:IdentifiedObject.name "Håverstad Magasin" ;
+    cim:Names.name "NO-HAVERSTA_MAG",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000003184" ;
-    skos:altLabel "NO-HAVERSTA" ;
+    skos:altLabel "NO-HAVERSTA_MAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Håverstad" ;
+    skos:prefLabel "Håverstad Magasin" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

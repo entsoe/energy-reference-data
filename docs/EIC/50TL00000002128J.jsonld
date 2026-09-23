@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002128J",
-    "@skos:prefLabel": "S 66 Skogen-Nes_OEK",
-    "@skos:altLabel": "NO-SKOGENNESOEK",
+    "@skos:prefLabel": "S 66 T_Bråten-Nes_OEK",
+    "@skos:altLabel": "NO-66T_BRATS_OEK",
     "@cim:IdentifiedObject.mRID": "50TL00000002128J",
-    "@cim:IdentifiedObject.name": "S 66 Skogen-Nes_OEK",
+    "@cim:IdentifiedObject.name": "S 66 T_Bråten-Nes_OEK",
     "@cim:Names.name": [
-        "NO-SKOGENNESOEK",
+        "NO-66T_BRATS_OEK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:15X-MOLTRADING-F",
-    "@skos:prefLabel": "MOL Magyar Olaj- és Gázipari Nyrt.",
+    "@skos:prefLabel": "MOL Downstream Zrt.",
     "@skos:altLabel": "MOLTR-BC",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "15X-MOLTRADING-F",
-    "@cim:IdentifiedObject.name": "MOL Magyar Olaj- és Gázipari Nyrt.",
+    "@cim:IdentifiedObject.name": "MOL Downstream Zrt.",
     "@cim:Names.name": [
         "MOLTR-BC",
-        "HU10625790",
+        "32980183-4-44",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-03-01",
-    "@schema:vatID": "HU10625790",
+    "@cim:DateAndOrTime.date": "2026-07-01",
+    "@schema:vatID": "32980183-4-44",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

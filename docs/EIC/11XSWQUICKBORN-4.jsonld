@@ -16,7 +16,7 @@
     "@skos:altLabel": "SWQ",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Responsible Party"
+        "@value": "Dear Laima, can you deactivate the 11XSWQUICKBORN-4? \n\nI didn't working with the EIC-Tracking. \n\nThe new Party Code ist 11XSTWQ-HANDEL-Y (already approved).\nKind Regards Christina "
     },
     "@cim:IdentifiedObject.mRID": "11XSWQUICKBORN-4",
     "@cim:IdentifiedObject.name": "Stadtwerke Quickborn GmbH",
@@ -25,10 +25,10 @@
         "DE244526745",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Dear Laima, can you deactivate the 11XSWQUICKBORN-4? \n\nI didn't working with the EIC-Tracking. \n\nThe new Party Code ist 11XSTWQ-HANDEL-Y (already approved).\nKind Regards Christina ",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-12-19",
+    "@cim:DateAndOrTime.date": "2024-04-26",
     "@schema:vatID": "DE244526745",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

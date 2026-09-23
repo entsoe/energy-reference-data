@@ -14,16 +14,22 @@
     "@dcterms:identifier": "urn:eic:48X0000000002206",
     "@skos:prefLabel": "Arenko Cleantech Limited",
     "@skos:altLabel": "ARENKO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "New contact details.  Updated 07/08/2024\nArenko Cleantech Limited\nInternational\nHarmsworth House, 15 Bouverie Street, London, EC4Y 8DP\nOliver Guy\nog@arenko.group\n"
+    },
     "@cim:IdentifiedObject.mRID": "48X0000000002206",
     "@cim:IdentifiedObject.name": "Arenko Cleantech Limited",
     "@cim:Names.name": [
         "ARENKO",
         "GB275861466",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "New contact details.  Updated 07/08/2024\nArenko Cleantech Limited\nInternational\nHarmsworth House, 15 Bouverie Street, London, EC4Y 8DP\nOliver Guy\nog@arenko.group\n",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-09-25",
+    "@cim:DateAndOrTime.date": "2024-08-07",
     "@schema:vatID": "GB275861466",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "27X--CMEP-UCED-D" ;
     cim:IdentifiedObject.name "UCED Distribuce s.r.o." ;
-    cim:Names.name "CMEP",
+    cim:Names.name "Balance Responsible Party",
+        "CMEP",
         "CZ01907786" ;
     dcterms:identifier "urn:eic:27X--CMEP-UCED-D" ;
     schema1:vatID "CZ01907786" ;

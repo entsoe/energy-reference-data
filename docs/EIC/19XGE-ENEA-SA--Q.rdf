@@ -4,18 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XGE-ENEA-SA--Q</dcterms:identifier>
-    <skos:prefLabel>ENEA SPOLKA AKCYJNA</skos:prefLabel>
+    <skos:prefLabel>ENEA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
     <skos:altLabel>ENEA_SA</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
+    <skos:definition xml:lang="en">Has&#322;o: Ene@2024_EIC</skos:definition>
     <cim:IdentifiedObject.mRID>19XGE-ENEA-SA--Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENEA SPOLKA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENEA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
     <cim:Names.name>ENEA_SA</cim:Names.name>
     <cim:Names.name>PL7770020640</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Has&#322;o: Ene@2024_EIC</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-02-13</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7770020640</schema:vatID>
   </skos:Concept>

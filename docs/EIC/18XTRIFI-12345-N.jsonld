@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTRIFI-12345-N",
     "@skos:prefLabel": "TRITURATS DE FIBRES, S.L.",
     "@skos:altLabel": "TRIFI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XTRIFI-12345-N",
     "@cim:IdentifiedObject.name": "TRITURATS DE FIBRES, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB97187801",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-09-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB97187801",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

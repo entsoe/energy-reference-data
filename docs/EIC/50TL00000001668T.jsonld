@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001668T",
-    "@skos:prefLabel": "M 66 Bodin-Havna-2",
-    "@skos:altLabel": "NO-BODINHAVNA2",
+    "@skos:prefLabel": "N 66 Bodin-Havna-2",
+    "@skos:altLabel": "NO-66BODINHAVNA2",
     "@cim:IdentifiedObject.mRID": "50TL00000001668T",
-    "@cim:IdentifiedObject.name": "M 66 Bodin-Havna-2",
+    "@cim:IdentifiedObject.name": "N 66 Bodin-Havna-2",
     "@cim:Names.name": [
-        "NO-BODINHAVNA2",
+        "NO-66BODINHAVNA2",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

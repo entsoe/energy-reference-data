@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:12X-0000001861-Q</dcterms:identifier>
-    <skos:prefLabel>swissgrid AG</skos:prefLabel>
-    <skos:altLabel>BGCROSSBORDER-ST</skos:altLabel>
+    <skos:prefLabel>Swissgrid AG</skos:prefLabel>
+    <skos:altLabel>SWISSGRID-TSO</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party, Balance Group Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>12X-0000001861-Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>swissgrid AG</cim:IdentifiedObject.name>
-    <cim:Names.name>BGCROSSBORDER-ST</cim:Names.name>
+    <cim:IdentifiedObject.name>Swissgrid AG</cim:IdentifiedObject.name>
+    <cim:Names.name>SWISSGRID-TSO</cim:Names.name>
     <cim:Names.name>CHE112175457</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party, Balance Group Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-14</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CHE112175457</schema:vatID>

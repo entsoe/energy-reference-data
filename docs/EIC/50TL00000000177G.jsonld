@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000177G",
     "@skos:prefLabel": "S 132 Breivik-Loddefjord",
-    "@skos:altLabel": "NO-BREIVIKLODDEF",
+    "@skos:altLabel": "NO-132BREIVIKLOD",
     "@cim:IdentifiedObject.mRID": "50TL00000000177G",
     "@cim:IdentifiedObject.name": "S 132 Breivik-Loddefjord",
     "@cim:Names.name": [
-        "NO-BREIVIKLODDEF",
+        "NO-132BREIVIKLOD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

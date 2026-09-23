@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSWWEIMAR----5",
-    "@skos:prefLabel": "Stadtwerke Weimar Stadtversorgungs-GmbH",
+    "@skos:prefLabel": "Stadtwerke Weimar GmbH",
     "@skos:altLabel": "SWWEIMAR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWWEIMAR----5",
-    "@cim:IdentifiedObject.name": "Stadtwerke Weimar Stadtversorgungs-GmbH",
+    "@cim:IdentifiedObject.name": "Stadtwerke Weimar GmbH",
     "@cim:Names.name": [
         "SWWEIMAR",
         "DE150113597",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2026-01-23",
     "@schema:vatID": "DE150113597",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

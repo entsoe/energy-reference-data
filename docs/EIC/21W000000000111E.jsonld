@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21W000000000111E",
     "@skos:prefLabel": "Storengy Gas Storage Pool",
     "@skos:altLabel": "STORED-VIRT-STOR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Gas Storage Facility"
-    },
     "@cim:IdentifiedObject.mRID": "21W000000000111E",
     "@cim:IdentifiedObject.name": "Storengy Gas Storage Pool",
     "@cim:Names.name": [
         "STORED-VIRT-STOR",
-        "Gas Storage Facility"
+        "Resource Object"
     ],
-    "@cim:IdentifiedObject.description": "Gas Storage Facility",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-03",
+    "@cim:DateAndOrTime.date": "2024-06-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

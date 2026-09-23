@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000930R",
     "@skos:prefLabel": "Hofkvern",
-    "@skos:altLabel": "NO-HOFKVERN_PL",
+    "@skos:altLabel": "NO-HOFKVERN",
     "@cim:IdentifiedObject.mRID": "50WP00000000930R",
     "@cim:IdentifiedObject.name": "Hofkvern",
     "@cim:Names.name": [
-        "NO-HOFKVERN_PL",
+        "NO-HOFKVERN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

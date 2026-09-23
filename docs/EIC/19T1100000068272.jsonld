@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000068272",
-    "@skos:prefLabel": "220 kV Wyszków-Miłosna",
+    "@skos:prefLabel": "220kV Milosna-Wyszkow",
     "@skos:altLabel": "1202",
     "@cim:IdentifiedObject.mRID": "19T1100000068272",
-    "@cim:IdentifiedObject.name": "220 kV Wyszków-Miłosna",
+    "@cim:IdentifiedObject.name": "220kV Milosna-Wyszkow",
     "@cim:Names.name": [
         "1202",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-12-06",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

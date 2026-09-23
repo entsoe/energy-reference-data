@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000722I" ;
-    cim:IdentifiedObject.name "M Meldal   66  RT1 Forbruk" ;
+    cim:IdentifiedObject.name "N Meldal   66  RT1 Forbruk" ;
     cim:Names.name "Load",
         "NO-MELDAL66" ;
     dcterms:identifier "urn:eic:50WC00000000722I" ;
     skos:altLabel "NO-MELDAL66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Meldal   66  RT1 Forbruk" ;
+    skos:prefLabel "N Meldal   66  RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

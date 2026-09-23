@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000793V" ;
-    cim:IdentifiedObject.name "S 17 Rød K_Lab2" ;
+    cim:IdentifiedObject.name "S 17 Rød  K_Lab2" ;
     cim:Names.name "Internal Line",
-        "NO-RODKLAB2" ;
+        "NO-17RODK_LAB2" ;
     dcterms:identifier "urn:eic:50TL00000000793V" ;
-    skos:altLabel "NO-RODKLAB2" ;
+    skos:altLabel "NO-17RODK_LAB2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 17 Rød K_Lab2" ;
+    skos:prefLabel "S 17 Rød  K_Lab2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006431R",
-    "@skos:prefLabel": "Gdańsk Przyjaźń – Żarnowiec",
+    "@skos:prefLabel": "400kV Gdansk Przyjazn-Zarnowiec",
     "@skos:altLabel": "N406",
     "@cim:IdentifiedObject.mRID": "19T110000006431R",
-    "@cim:IdentifiedObject.name": "Gdańsk Przyjaźń – Żarnowiec",
+    "@cim:IdentifiedObject.name": "400kV Gdansk Przyjazn-Zarnowiec",
     "@cim:Names.name": [
         "N406",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-18",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

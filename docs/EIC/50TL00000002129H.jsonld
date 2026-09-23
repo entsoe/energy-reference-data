@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002129H",
-    "@skos:prefLabel": "S 66 Skogen-Nesbyen",
-    "@skos:altLabel": "NO-SKOGENNESBYEN",
+    "@skos:prefLabel": "S 66 T_Braten-T_Neo",
+    "@skos:altLabel": "NO-66T_BRATENT_N",
     "@cim:IdentifiedObject.mRID": "50TL00000002129H",
-    "@cim:IdentifiedObject.name": "S 66 Skogen-Nesbyen",
+    "@cim:IdentifiedObject.name": "S 66 T_Braten-T_Neo",
     "@cim:Names.name": [
-        "NO-SKOGENNESBYEN",
+        "NO-66T_BRATENT_N",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

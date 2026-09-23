@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001882R",
-    "@skos:prefLabel": "S 66 Kaggefoss-Bragernes",
-    "@skos:altLabel": "NO-KAGGEFOSSBRAG",
+    "@skos:prefLabel": "S 50 Kaggefoss-Lie",
+    "@skos:altLabel": "NO-50KAGGEFOSSLI",
     "@cim:IdentifiedObject.mRID": "50TL00000001882R",
-    "@cim:IdentifiedObject.name": "S 66 Kaggefoss-Bragernes",
+    "@cim:IdentifiedObject.name": "S 50 Kaggefoss-Lie",
     "@cim:Names.name": [
-        "NO-KAGGEFOSSBRAG",
+        "NO-50KAGGEFOSSLI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

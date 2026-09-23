@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000000115",
     "@skos:prefLabel": "AGDENES G102 HYDRO",
-    "@skos:altLabel": "NO-AGDENES_G102_",
+    "@skos:altLabel": "NO-AGDENESG102",
     "@cim:IdentifiedObject.mRID": "50WGI00000000115",
     "@cim:IdentifiedObject.name": "AGDENES G102 HYDRO",
     "@cim:Names.name": [
-        "NO-AGDENES_G102_",
+        "NO-AGDENESG102",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

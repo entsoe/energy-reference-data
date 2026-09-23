@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/34X-0000000127-3> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "34X-0000000127-3" ;
+    cim:IdentifiedObject.name "Privredno drustvo za trgovinu elektricnom energijom DEPEN d.o.o. Beograd" ;
+    cim:Names.name "114267284",
+        "DEPE",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:34X-0000000127-3" ;
+    schema1:vatID "114267284" ;
+    skos:altLabel "DEPE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Privredno drustvo za trgovinu elektricnom energijom DEPEN d.o.o. Beograd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

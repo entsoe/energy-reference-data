@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001030L",
     "@skos:prefLabel": "Ulvik IHK",
-    "@skos:altLabel": "NO-ULVIK-IHK_PL",
+    "@skos:altLabel": "NO-ULVIKIHK",
     "@cim:IdentifiedObject.mRID": "50WP00000001030L",
     "@cim:IdentifiedObject.name": "Ulvik IHK",
     "@cim:Names.name": [
-        "NO-ULVIK-IHK_PL",
+        "NO-ULVIKIHK",
         "Production Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2026-06-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

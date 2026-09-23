@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-POWTRADELLC3" ;
     cim:IdentifiedObject.name "Power Trade LLC" ;
     cim:Names.name "POWTRADELLC",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-POWTRADELLC3" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "POWTRADELLC" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/38X-AVP-WVXN1000> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "38X-AVP-WVXN1000" ;
+    cim:IdentifiedObject.name "Volton Technology OÜ" ;
+    cim:Names.name "Balance Responsible Party",
+        "Balancing Service Provider",
+        "EE102753909",
+        "EE_VOLTON_TECH",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:38X-AVP-WVXN1000" ;
+    schema1:vatID "EE102753909" ;
+    skos:altLabel "EE_VOLTON_TECH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Volton Technology OÜ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

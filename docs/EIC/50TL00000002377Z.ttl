@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-05-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002377Z" ;
-    cim:IdentifiedObject.name "S Førde 66 Er1 X" ;
+    cim:IdentifiedObject.name "N Førde-Erdal" ;
     cim:Names.name "Internal Line",
-        "NO-FORDE66ER1X" ;
+        "NO-FORDEERDAL" ;
     dcterms:identifier "urn:eic:50TL00000002377Z" ;
-    skos:altLabel "NO-FORDE66ER1X" ;
+    skos:altLabel "NO-FORDEERDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Førde 66 Er1 X" ;
+    skos:prefLabel "N Førde-Erdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

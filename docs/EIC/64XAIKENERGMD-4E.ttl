@@ -14,8 +14,10 @@
     cim:IdentifiedObject.name "S.R.L. \"AIK Energy\"" ;
     cim:Names.name "AIKENERGY_MD",
         "Balance Responsible Party",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:64XAIKENERGMD-4E" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "AIKENERGY_MD" ;
     skos:definition "According to the Solicitation Letter nr.06 / 05.11.2019 based on ANRE license nr. AC001414 from 24.10.2019."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XEGL-X0000000D" ;
     cim:IdentifiedObject.name "Elektrizitätsgesellschaft Laufenburg Austria GmbH" ;
-    cim:Names.name "Balance Group",
-        "EGL_X" ;
+    cim:Names.name "EGL_X",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:14XEGL-X0000000D" ;
     skos:altLabel "EGL_X" ;
     skos:definition "Balance Group"@en ;

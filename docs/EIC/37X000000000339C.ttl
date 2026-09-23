@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000339C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Distribution System Operator" ;
+    cim:IdentifiedObject.mRID "37X000000000339C" ;
+    cim:IdentifiedObject.name "Industriepark Neckarsulm Energie GmbH" ;
+    cim:Names.name "DE815680178",
+        "Distribution System Operator",
+        "INDUSTRIEPARK_NE" ;
+    dcterms:identifier "urn:eic:37X000000000339C" ;
+    schema1:vatID "DE815680178" ;
+    skos:altLabel "INDUSTRIEPARK_NE" ;
+    skos:definition "Distribution System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Industriepark Neckarsulm Energie GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

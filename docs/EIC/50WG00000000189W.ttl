@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000189W" ;
     cim:IdentifiedObject.name "BRANDHOLG106 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BRANDHOLG106_" ;
+        "NO-BRANDHOLG106" ;
     dcterms:identifier "urn:eic:50WG00000000189W" ;
-    skos:altLabel "NO-BRANDHOLG106_" ;
+    skos:altLabel "NO-BRANDHOLG106" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BRANDHOLG106 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

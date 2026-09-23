@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWHEIDENHEIMM</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Heidenheim Aktiengesellschaft</skos:prefLabel>
     <skos:altLabel>SWHEIDENHEIM</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWHEIDENHEIMM</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Heidenheim Aktiengesellschaft</cim:IdentifiedObject.name>
     <cim:Names.name>SWHEIDENHEIM</cim:Names.name>
     <cim:Names.name>DE145568319</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE145568319</schema:vatID>
   </skos:Concept>

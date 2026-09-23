@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XFUREY-12345-A</dcterms:identifier>
     <skos:prefLabel>FUNDACION RAMON REY ARDID</skos:prefLabel>
     <skos:altLabel>FUREY</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XFUREY-12345-A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FUNDACION RAMON REY ARDID</cim:IdentifiedObject.name>
     <cim:Names.name>FUREY</cim:Names.name>
     <cim:Names.name>ESG50491166</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG50491166</schema:vatID>

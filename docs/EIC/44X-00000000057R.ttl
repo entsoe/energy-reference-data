@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-04-09" ;
+    cim:DateAndOrTime.date "2023-12-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44X-00000000057R" ;
-    cim:IdentifiedObject.name "Tampereen Sähköverkko Oy" ;
+    cim:IdentifiedObject.name "Tampereen Energia Sähköverkko Oy" ;
     cim:Names.name "44TSVOY",
         "Distribution System Operator",
         "FI19506810" ;
@@ -18,6 +18,6 @@
     schema1:vatID "FI19506810" ;
     skos:altLabel "44TSVOY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tampereen Sähköverkko Oy" ;
+    skos:prefLabel "Tampereen Energia Sähköverkko Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

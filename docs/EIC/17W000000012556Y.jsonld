@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/17W000000012556Y",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:17W000000012556Y",
+    "@skos:prefLabel": "Laparan",
+    "@skos:altLabel": "FR_LA_LAPAR-P",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "LAPARH-CENTRALE HYDRAULIQUE DE LAPARAN-6;RTE-LAPARH6-LAPAR0000000000819;HYDLQ"
+    },
+    "@cim:IdentifiedObject.mRID": "17W000000012556Y",
+    "@cim:IdentifiedObject.name": "Laparan",
+    "@cim:Names.name": [
+        "FR_LA_LAPAR-P",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "LAPARH-CENTRALE HYDRAULIQUE DE LAPARAN-6;RTE-LAPARH6-LAPAR0000000000819;HYDLQ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-06-10",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

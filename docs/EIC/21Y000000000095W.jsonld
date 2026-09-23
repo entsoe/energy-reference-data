@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y000000000095W",
     "@skos:prefLabel": "PL - Domestic Gas Fields -  L-gas",
     "@skos:altLabel": "DOM_GAS_FLD_L_PL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregated Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y000000000095W",
     "@cim:IdentifiedObject.name": "PL - Domestic Gas Fields -  L-gas",
     "@cim:Names.name": [
         "DOM_GAS_FLD_L_PL",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregated Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

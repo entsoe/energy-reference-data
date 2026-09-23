@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-09-03" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "26X00000114046-B" ;
     cim:IdentifiedObject.name "ENERGIA CONSUMO CALANTE" ;
-    cim:Names.name "Consumption Responsible Party",
-        "IT-ENERGIA_CONSU",
-        "IT08684620969" ;
+    cim:Names.name "IT-ENERGIA_CONSU",
+        "IT08684620969",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:26X00000114046-B" ;
     schema1:vatID "IT08684620969" ;
     skos:altLabel "IT-ENERGIA_CONSU" ;

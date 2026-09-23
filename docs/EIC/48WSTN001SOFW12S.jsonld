@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48WSTN001SOFW12S",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48WSTN001SOFW12S",
+    "@skos:prefLabel": "SOFIA OFFSHORE WIND FARM 12",
+    "@skos:altLabel": "SOFOW12",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Contact Details \nSofia Offshore Wind Farm 12\nWindmill Hill Business Park, \nWhitehill way \nSwindon \nSN5 6PB\nAndrew Robbins\nandrew.robbins@rwe.com\nsofia_offshore_wind@rwe.com\nProduction unit\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48WSTN001SOFW12S",
+    "@cim:IdentifiedObject.name": "SOFIA OFFSHORE WIND FARM 12",
+    "@cim:Names.name": [
+        "SOFOW12",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "Contact Details \nSofia Offshore Wind Farm 12\nWindmill Hill Business Park, \nWhitehill way \nSwindon \nSN5 6PB\nAndrew Robbins\nandrew.robbins@rwe.com\nsofia_offshore_wind@rwe.com\nProduction unit\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-08-16",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

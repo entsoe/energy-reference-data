@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSW-BW-------Z",
     "@skos:prefLabel": "Stadtwerke Bad Windsheim",
     "@skos:altLabel": "SW_BW",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSW-BW-------Z",
     "@cim:IdentifiedObject.name": "Stadtwerke Bad Windsheim",
     "@cim:Names.name": [
         "SW_BW",
         "DE131948706",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2026-02-12",
     "@schema:vatID": "DE131948706",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

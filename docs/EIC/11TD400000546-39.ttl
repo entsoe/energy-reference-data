@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11TD400000546-39" ;
     cim:IdentifiedObject.name "Pkt_Rommelsbach-Metzingen_rt" ;
-    cim:Names.name "L-D4-D4-RB-ME_RT" ;
+    cim:Names.name "L-D4-D4-RB-ME_RT",
+        "Tieline" ;
     dcterms:identifier "urn:eic:11TD400000546-39" ;
     skos:altLabel "L-D4-D4-RB-ME_RT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -16,7 +16,7 @@
     "@skos:altLabel": "WATT_AND_VOLT",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Trade of Electricity  Transmission of electricity  Distribution of electricity  Retail sale of electrical household appliances "
+        "@value": "Trade of Electricity \nTransmission of electricity \nDistribution of electricity \nRetail sale of electrical household appliances "
     },
     "@cim:IdentifiedObject.mRID": "29XBLACKPEARL--T",
     "@cim:IdentifiedObject.name": "WATT AND VOLT EXPLOITATION OF ALTERNATIVE FORMS OF ENERGY SINGLE MEMBE",
@@ -27,10 +27,10 @@
         "Balance Responsible Party",
         "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "Trade of Electricity  Transmission of electricity  Distribution of electricity  Retail sale of electrical household appliances ",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Trade of Electricity \nTransmission of electricity \nDistribution of electricity \nRetail sale of electrical household appliances ",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-04-28",
+    "@cim:DateAndOrTime.date": "2024-01-11",
     "@schema:vatID": "EL998283692",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

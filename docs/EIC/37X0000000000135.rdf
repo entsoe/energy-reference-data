@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X0000000000135</dcterms:identifier>
-    <skos:prefLabel>Bocholter Energie- und Wasserversorgung GmbH</skos:prefLabel>
-    <skos:altLabel>BEW_GMBH</skos:altLabel>
+    <skos:prefLabel>stadtwerker GmbH</skos:prefLabel>
+    <skos:altLabel>STADTWERKER_GMBH</skos:altLabel>
     <skos:definition xml:lang="en">Grid Operator</skos:definition>
     <cim:IdentifiedObject.mRID>37X0000000000135</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Bocholter Energie- und Wasserversorgung GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>BEW_GMBH</cim:Names.name>
+    <cim:IdentifiedObject.name>stadtwerker GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>STADTWERKER_GMBH</cim:Names.name>
     <cim:Names.name>DE124167939</cim:Names.name>
     <cim:IdentifiedObject.description>Grid Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-02-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-30</cim:DateAndOrTime.date>
     <cim:Names.name>Grid Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE124167939</schema:vatID>

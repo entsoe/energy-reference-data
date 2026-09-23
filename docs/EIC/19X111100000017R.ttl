@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000017R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000017R" ;
+    cim:IdentifiedObject.name "PROMIKA MARCIN URBAN" ;
+    cim:Names.name "Balance Responsible Party",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL9820204516",
+        "PROMIKA",
+        "Resource Aggregator",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19X111100000017R" ;
+    schema1:vatID "PL9820204516" ;
+    skos:altLabel "PROMIKA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PROMIKA MARCIN URBAN" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

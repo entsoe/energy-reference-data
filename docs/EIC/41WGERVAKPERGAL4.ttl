@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WGERVAKPERGAL4> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """mindaugas.malonis@elektrum.lt    UAB "Vėjo miestas"   302478710    LT100005474615
+""" ;
+    cim:IdentifiedObject.mRID "41WGERVAKPERGAL4" ;
+    cim:IdentifiedObject.name "Pergalių vėjo parkas VE3 " ;
+    cim:Names.name "Generation Unit",
+        "PERGALIUVEJO3" ;
+    dcterms:identifier "urn:eic:41WGERVAKPERGAL4" ;
+    skos:altLabel "PERGALIUVEJO3" ;
+    skos:definition """mindaugas.malonis@elektrum.lt    UAB "Vėjo miestas"   302478710    LT100005474615
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Pergalių vėjo parkas VE3 " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

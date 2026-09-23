@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDBA-NHF-----A" ;
     cim:IdentifiedObject.name "NHF Netzgesellschaft Heilbronn-Franken mbH" ;
-    cim:Names.name "Balance Group",
-        "DE145763543",
-        "NHF-DBA" ;
+    cim:Names.name "DE145763543",
+        "NHF-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDBA-NHF-----A" ;
     schema1:vatID "DE145763543" ;
     skos:altLabel "NHF-DBA" ;

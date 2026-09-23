@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/25X-VVXGMBH----P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "25X-VVXGMBH----P" ;
+    cim:IdentifiedObject.name "VVx GmbH" ;
+    cim:Names.name "ATU83359768",
+        "Energy Supplier",
+        "Network User",
+        "VVXGMBH" ;
+    dcterms:identifier "urn:eic:25X-VVXGMBH----P" ;
+    schema1:vatID "ATU83359768" ;
+    skos:altLabel "VVXGMBH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VVx GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

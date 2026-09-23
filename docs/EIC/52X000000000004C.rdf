@@ -14,8 +14,9 @@
     <cim:IdentifiedObject.description>Distribution System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-02-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-25</cim:DateAndOrTime.date>
     <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL809561074B01</schema:vatID>
   </skos:Concept>

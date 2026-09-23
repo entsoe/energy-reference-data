@@ -1,0 +1,37 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W000AG-DEDF02C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """EDF Energy Customers Aggregated Unit at Miners Road 
+
+Contact Details 
+90 Whitfield St
+London
+W1T 4EZ
+Vicky Ling
+Victoria.ling@edfenergy.com""" ;
+    cim:IdentifiedObject.mRID "48W000AG-DEDF02C" ;
+    cim:IdentifiedObject.name "MINERS ROAD" ;
+    cim:Names.name "AG-DEDF02",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:48W000AG-DEDF02C" ;
+    skos:altLabel "AG-DEDF02" ;
+    skos:definition """EDF Energy Customers Aggregated Unit at Miners Road 
+
+Contact Details 
+90 Whitfield St
+London
+W1T 4EZ
+Vicky Ling
+Victoria.ling@edfenergy.com"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MINERS ROAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

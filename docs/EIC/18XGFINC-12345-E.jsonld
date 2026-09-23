@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGFINC-12345-E",
     "@skos:prefLabel": "GESTESA FINCAS S.L",
     "@skos:altLabel": "GFINC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGFINC-12345-E",
     "@cim:IdentifiedObject.name": "GESTESA FINCAS S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB84268408",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB84268408",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

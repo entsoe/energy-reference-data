@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240703--P-Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company registration number confirmed by ATHENS CHAMBER OF COMMERCE & INDUSTRY document: 137001901001" ;
+    cim:IdentifiedObject.mRID "23X--240703--P-Q" ;
+    cim:IdentifiedObject.name "PFIC LTD" ;
+    cim:Names.name "Consumer",
+        "Consumption Responsible Party",
+        "EL997521062",
+        "PFIC_LTD_GR" ;
+    dcterms:identifier "urn:eic:23X--240703--P-Q" ;
+    schema1:vatID "EL997521062" ;
+    skos:altLabel "PFIC_LTD_GR" ;
+    skos:definition "Company registration number confirmed by ATHENS CHAMBER OF COMMERCE & INDUSTRY document: 137001901001"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PFIC LTD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

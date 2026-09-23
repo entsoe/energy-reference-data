@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XEWHSTROM----5" ;
     cim:IdentifiedObject.name "Stadtwerke Gießen AG" ;
-    cim:Names.name "DE149322017",
+    cim:Names.name "Balance Responsible Party",
+        "DE149322017",
         "EWHSTROM" ;
     dcterms:identifier "urn:eic:11XEWHSTROM----5" ;
     schema1:vatID "DE149322017" ;

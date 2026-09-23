@@ -7,12 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-03" ;
+    cim:DateAndOrTime.date "2025-02-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-00000020A6-T" ;
     cim:IdentifiedObject.name "Varo Energy Marketing AG" ;
-    cim:Names.name "CHE193209953",
+    cim:Names.name "Balance Responsible Party",
+        "CHE193209953",
         "Capacity Trader",
+        "Energy Supplier",
         "VARO-ENERGY---ST" ;
     dcterms:identifier "urn:eic:12X-00000020A6-T" ;
     schema1:vatID "CHE193209953" ;

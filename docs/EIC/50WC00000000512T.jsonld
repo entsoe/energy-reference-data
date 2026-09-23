@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000512T",
-    "@skos:prefLabel": "M Asu      132 T11 Industri",
+    "@skos:prefLabel": "N Asu      132 T11 Industri",
     "@skos:altLabel": "NO-ASU132T11NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000512T",
-    "@cim:IdentifiedObject.name": "M Asu      132 T11 Industri",
+    "@cim:IdentifiedObject.name": "N Asu      132 T11 Industri",
     "@cim:Names.name": [
         "NO-ASU132T11NC",
         "Load"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

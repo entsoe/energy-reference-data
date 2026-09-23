@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000OLDHB-17> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Field Gaia
+Montacute Yards
+Shoreditch High Street
+London
+E1 6HU
+UK
+Matthew Garner
+industry-comms@field.energy
+""" ;
+    cim:IdentifiedObject.mRID "48W00000OLDHB-17" ;
+    cim:IdentifiedObject.name "FIELD-1" ;
+    cim:Names.name "FIELD-1",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W00000OLDHB-17" ;
+    skos:altLabel "FIELD-1" ;
+    skos:definition """Field Gaia
+Montacute Yards
+Shoreditch High Street
+London
+E1 6HU
+UK
+Matthew Garner
+industry-comms@field.energy
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FIELD-1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

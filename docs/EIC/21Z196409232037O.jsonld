@@ -13,16 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:21Z196409232037O",
     "@skos:prefLabel": "MEGALOPOLI",
-    "@skos:altLabel": "MEGALOPOLI",
+    "@skos:altLabel": "MEGALOPOLI-GR",
     "@cim:IdentifiedObject.mRID": "21Z196409232037O",
     "@cim:IdentifiedObject.name": "MEGALOPOLI",
     "@cim:Names.name": [
-        "MEGALOPOLI",
+        "MEGALOPOLI-GR",
+        "Connection Point",
         "Metering Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-11",
+    "@cim:DateAndOrTime.date": "2024-07-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

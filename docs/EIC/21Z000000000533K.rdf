@@ -5,13 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000533K</dcterms:identifier>
     <skos:prefLabel>TRIPOLI</skos:prefLabel>
-    <skos:altLabel>TRIPOLI</skos:altLabel>
+    <skos:altLabel>TRIPOLI-GR</skos:altLabel>
     <cim:IdentifiedObject.mRID>21Z000000000533K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TRIPOLI</cim:IdentifiedObject.name>
-    <cim:Names.name>TRIPOLI</cim:Names.name>
+    <cim:Names.name>TRIPOLI-GR</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-08</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000026174" ;
-    cim:IdentifiedObject.name "M Grytåga 132 Ti1 Kabel" ;
+    cim:IdentifiedObject.name "N Grytåga  132 Ti1 Kabel" ;
     cim:Names.name "Internal Line",
         "NO-GRYTAGA132TI1" ;
     dcterms:identifier "urn:eic:50TL000000026174" ;
     skos:altLabel "NO-GRYTAGA132TI1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Grytåga 132 Ti1 Kabel" ;
+    skos:prefLabel "N Grytåga  132 Ti1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

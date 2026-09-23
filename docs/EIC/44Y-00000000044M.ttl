@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-04-09" ;
+    cim:DateAndOrTime.date "2023-12-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44Y-00000000044M" ;
-    cim:IdentifiedObject.name "Tampereen Sähköverkko Oy" ;
+    cim:IdentifiedObject.name "Tampereen Energia Sähköverkko Oy" ;
     cim:Names.name "FI_TKS000",
         "Metering Grid Area" ;
     dcterms:identifier "urn:eic:44Y-00000000044M" ;
     skos:altLabel "FI_TKS000" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tampereen Sähköverkko Oy" ;
+    skos:prefLabel "Tampereen Energia Sähköverkko Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

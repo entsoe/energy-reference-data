@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-23" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000001682Z" ;
     cim:IdentifiedObject.name "S 66 Boylefoss-Flatenfoss" ;
     cim:Names.name "Internal Line",
-        "NO-BOYLEFOSSFLAT" ;
+        "NO-66BOYLEFOSSFL" ;
     dcterms:identifier "urn:eic:50TL00000001682Z" ;
-    skos:altLabel "NO-BOYLEFOSSFLAT" ;
+    skos:altLabel "NO-66BOYLEFOSSFL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Boylefoss-Flatenfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

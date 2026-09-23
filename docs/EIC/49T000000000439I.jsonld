@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000439I",
-    "@skos:prefLabel": "Hoogeveen - Hardenberg blauw 110 kV",
+    "@skos:prefLabel": "Hoogezand-Kropswolde - Kropswolde 110 kV Wit",
     "@skos:altLabel": "HGZK-KWD110-W",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000439I",
-    "@cim:IdentifiedObject.name": "Hoogeveen - Hardenberg blauw 110 kV",
+    "@cim:IdentifiedObject.name": "Hoogezand-Kropswolde - Kropswolde 110 kV Wit",
     "@cim:Names.name": [
         "HGZK-KWD110-W",
         "Internal Line"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-08-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

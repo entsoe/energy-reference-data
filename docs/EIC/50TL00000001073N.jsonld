@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001073N",
-    "@skos:prefLabel": "S 300 Nesflaten-Røldal",
-    "@skos:altLabel": "NO-NESFLATENROLD",
+    "@skos:prefLabel": "S 300 Røldal-Nesflaten",
+    "@skos:altLabel": "NO-300ROLDALNESF",
     "@cim:IdentifiedObject.mRID": "50TL00000001073N",
-    "@cim:IdentifiedObject.name": "S 300 Nesflaten-Røldal",
+    "@cim:IdentifiedObject.name": "S 300 Røldal-Nesflaten",
     "@cim:Names.name": [
-        "NO-NESFLATENROLD",
+        "NO-300ROLDALNESF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

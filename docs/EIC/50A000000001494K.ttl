@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000001494K" ;
-    cim:IdentifiedObject.name "Tangen Hafslund" ;
-    cim:Names.name "NO-TANGEN_H",
+    cim:IdentifiedObject.name "Tangen" ;
+    cim:Names.name "NO-TANGEN",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000001494K" ;
-    skos:altLabel "NO-TANGEN_H" ;
+    skos:altLabel "NO-TANGEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tangen Hafslund" ;
+    skos:prefLabel "Tangen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

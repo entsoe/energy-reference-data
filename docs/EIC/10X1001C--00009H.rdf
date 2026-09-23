@@ -9,10 +9,12 @@
     <cim:IdentifiedObject.mRID>10X1001C--00009H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Common platform for mFRR</cim:IdentifiedObject.name>
     <cim:Names.name>MFRR_PLATFORM</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-03-31</cim:DateAndOrTime.date>
     <cim:Names.name>Platform Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

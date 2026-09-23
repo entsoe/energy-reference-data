@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000000KWI",
     "@skos:prefLabel": "HERMANOS MARISTAS PROVINCIA IBERICA",
     "@skos:altLabel": "MARPI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000000KWI",
     "@cim:IdentifiedObject.name": "HERMANOS MARISTAS PROVINCIA IBERICA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESR2600408E",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-07-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESR2600408E",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

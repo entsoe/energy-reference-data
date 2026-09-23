@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22V20240926----B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22V20240926----B" ;
+    cim:IdentifiedObject.name "ELIA ECP VPR PROD" ;
+    cim:Names.name "BE_CORESO_VPR",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:22V20240926----B" ;
+    skos:altLabel "BE_CORESO_VPR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ELIA ECP VPR PROD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006423E" ;
-    cim:IdentifiedObject.name "Zamość-Dobrotwór" ;
+    cim:IdentifiedObject.name "220kV Dobrotwor-Zamosc" ;
     cim:Names.name "902",
         "Tieline" ;
     dcterms:identifier "urn:eic:19T000000006423E" ;
     skos:altLabel "902" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Zamość-Dobrotwór" ;
+    skos:prefLabel "220kV Dobrotwor-Zamosc" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

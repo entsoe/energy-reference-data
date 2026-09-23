@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-11" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XANLE-123456-I" ;
     cim:IdentifiedObject.name "ANCON LEVANTE S.L" ;
     cim:Names.name "ANLE",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XANLE-123456-I" ;
     schema1:vatID "ESB53491403" ;
     skos:altLabel "ANLE" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ANCON LEVANTE S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

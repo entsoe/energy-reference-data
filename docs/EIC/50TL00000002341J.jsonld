@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002341J",
-    "@skos:prefLabel": "S Bjølvo 12 ACC X",
-    "@skos:altLabel": "NO-BJOLVO12AX",
+    "@skos:prefLabel": "S Bjølvo   12  ACC X",
+    "@skos:altLabel": "NO-BJOLVO12ACC_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002341J",
-    "@cim:IdentifiedObject.name": "S Bjølvo 12 ACC X",
+    "@cim:IdentifiedObject.name": "S Bjølvo   12  ACC X",
     "@cim:Names.name": [
-        "NO-BJOLVO12AX",
+        "NO-BJOLVO12ACC_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

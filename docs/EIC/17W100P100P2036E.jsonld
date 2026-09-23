@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P2036E",
-    "@skos:prefLabel": "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE VAUGRIS",
+    "@skos:prefLabel": "VAUGRIS G1",
     "@skos:altLabel": "FR_HY-VAUG5-G1",
     "@skos:definition": {
         "@language": "en",
         "@value": "Generation Unit"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P2036E",
-    "@cim:IdentifiedObject.name": "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE VAUGRIS",
+    "@cim:IdentifiedObject.name": "VAUGRIS G1",
     "@cim:Names.name": [
         "FR_HY-VAUG5-G1",
         "Generation Unit"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-01",
+    "@cim:DateAndOrTime.date": "2024-12-31",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

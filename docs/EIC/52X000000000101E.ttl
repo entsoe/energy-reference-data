@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-31" ;
+    cim:DateAndOrTime.date "2026-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Capacity Trader Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "52X000000000101E" ;
     cim:IdentifiedObject.name "Eagle Seven Europe B.V." ;
-    cim:Names.name "862436722B01",
+    cim:Names.name "Balance Responsible Party",
         "Capacity Trader",
         "EAGLE_SEVEN_EU",
+        "NL862436722B01",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:52X000000000101E" ;
-    schema1:vatID "862436722B01" ;
+    schema1:vatID "NL862436722B01" ;
     skos:altLabel "EAGLE_SEVEN_EU" ;
     skos:definition "Capacity Trader Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

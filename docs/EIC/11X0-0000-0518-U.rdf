@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X0-0000-0518-U</dcterms:identifier>
-    <skos:prefLabel>TrailStone Renewables GmbH</skos:prefLabel>
+    <skos:prefLabel>Engelhart CTP Renewables GmbH</skos:prefLabel>
     <skos:altLabel>TSR</skos:altLabel>
     <cim:IdentifiedObject.mRID>11X0-0000-0518-U</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TrailStone Renewables GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Engelhart CTP Renewables GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>TSR</cim:Names.name>
     <cim:Names.name>DE815824732</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-14</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE815824732</schema:vatID>

@@ -4,16 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10Z-BG-GR-000011</dcterms:identifier>
-    <skos:prefLabel>Blagoevgrad-Thessaloniki</skos:prefLabel>
-    <skos:altLabel>M_BLAGOE-THESSAL</skos:altLabel>
-    <skos:definition xml:lang="en">Accounting Point</skos:definition>
+    <skos:prefLabel>Blagoevgrad-Lagadas</skos:prefLabel>
+    <skos:altLabel>M_BLAGOE-LAGADAS</skos:altLabel>
     <cim:IdentifiedObject.mRID>10Z-BG-GR-000011</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Blagoevgrad-Thessaloniki</cim:IdentifiedObject.name>
-    <cim:Names.name>M_BLAGOE-THESSAL</cim:Names.name>
-    <cim:IdentifiedObject.description>Accounting Point</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>Blagoevgrad-Lagadas</cim:IdentifiedObject.name>
+    <cim:Names.name>M_BLAGOE-LAGADAS</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-05-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-20</cim:DateAndOrTime.date>
     <cim:Names.name>Accounting Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "19T0000000004512" ;
     cim:IdentifiedObject.name "Jasiniec-Pątnów 1" ;
-    cim:Names.name "217" ;
+    cim:Names.name "217",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:19T0000000004512" ;
     skos:altLabel "217" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

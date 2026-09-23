@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-12-17" ;
+    cim:DateAndOrTime.date "2024-09-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44X-00000000163S" ;
     cim:IdentifiedObject.name "Suomen Hyötytuuli Oy" ;
     cim:Names.name "44HYOTYTUULI",
-        "FI14775229",
+        "FI34341823",
         "Producer" ;
     dcterms:identifier "urn:eic:44X-00000000163S" ;
-    schema1:vatID "FI14775229" ;
+    schema1:vatID "FI34341823" ;
     skos:altLabel "44HYOTYTUULI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Suomen Hyötytuuli Oy" ;

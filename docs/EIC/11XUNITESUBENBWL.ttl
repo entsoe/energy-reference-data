@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUNITESUBENBWL" ;
     cim:IdentifiedObject.name "unit energy stromvertrieb gmbh" ;
-    cim:Names.name "Balance Group",
-        "DE198954373",
-        "UNIT_E_ENBW" ;
+    cim:Names.name "DE198954373",
+        "UNIT_E_ENBW",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUNITESUBENBWL" ;
     schema1:vatID "DE198954373" ;
     skos:altLabel "UNIT_E_ENBW" ;

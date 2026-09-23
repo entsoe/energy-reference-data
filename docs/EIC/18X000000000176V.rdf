@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X000000000176V</dcterms:identifier>
     <skos:prefLabel>PROMOTORA DE HOTELES SA</skos:prefLabel>
     <skos:altLabel>HZURB</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X000000000176V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PROMOTORA DE HOTELES SA</cim:IdentifiedObject.name>
     <cim:Names.name>HZURB</cim:Names.name>
     <cim:Names.name>ESA10002665</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-09-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA10002665</schema:vatID>

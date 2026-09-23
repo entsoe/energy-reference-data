@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDOLLART-----7" ;
     cim:IdentifiedObject.name "DE Dollart Energie GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE284823125",
-        "DEDOLLART" ;
+    cim:Names.name "DE284823125",
+        "DEDOLLART",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDOLLART-----7" ;
     schema1:vatID "DE284823125" ;
     skos:altLabel "DEDOLLART" ;

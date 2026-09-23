@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000066199",
-    "@skos:prefLabel": "Poręba-A1",
+    "@skos:prefLabel": "220/110kV Poreba AT1",
     "@skos:altLabel": "PRB-A1",
     "@cim:IdentifiedObject.mRID": "19T1100000066199",
-    "@cim:IdentifiedObject.name": "Poręba-A1",
+    "@cim:IdentifiedObject.name": "220/110kV Poreba AT1",
     "@cim:Names.name": [
         "PRB-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001569H" ;
-    cim:IdentifiedObject.name "SPANNE  G103 HYDRO" ;
+    cim:IdentifiedObject.name "IMSLAND G2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SPANNE__G103_" ;
+        "NO-IMSLANDG2" ;
     dcterms:identifier "urn:eic:50WG00000001569H" ;
-    skos:altLabel "NO-SPANNE__G103_" ;
+    skos:altLabel "NO-IMSLANDG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SPANNE  G103 HYDRO" ;
+    skos:prefLabel "IMSLAND G2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

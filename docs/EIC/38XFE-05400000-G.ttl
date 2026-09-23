@@ -14,7 +14,8 @@
     cim:IdentifiedObject.name "Imatra Elekter AS" ;
     cim:Names.name "EE100396740",
         "EE_IMATRAELEKTER",
-        "Grid Operator" ;
+        "Grid Operator",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:38XFE-05400000-G" ;
     schema1:vatID "EE100396740" ;
     skos:altLabel "EE_IMATRAELEKTER" ;

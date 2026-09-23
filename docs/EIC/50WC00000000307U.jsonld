@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000307U",
-    "@skos:prefLabel": "M Evjen    66  RT1 Forbruk",
+    "@skos:prefLabel": "N Evjen    66  RT1 Forbruk",
     "@skos:altLabel": "NO-EVJEN66",
     "@cim:IdentifiedObject.mRID": "50WC00000000307U",
-    "@cim:IdentifiedObject.name": "M Evjen    66  RT1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Evjen    66  RT1 Forbruk",
     "@cim:Names.name": [
         "NO-EVJEN66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

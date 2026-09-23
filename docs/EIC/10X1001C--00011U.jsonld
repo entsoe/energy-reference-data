@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "European platform for imbalance netting",
     "@cim:Names.name": [
         "INPLATFORM",
+        "N/A",
         "Platform Operator"
     ],
     "@cim:IdentifiedObject.description": "n/a – IN platform will not issue or receive any invoices. Implementation of EB GL articles 22 & 22.1.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-12-03",
+    "@schema:vatID": "N/A",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

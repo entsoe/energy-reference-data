@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X00000000015YI",
     "@skos:prefLabel": "ESTACION DE SERVICIO BOO G2 S.L",
     "@skos:altLabel": "BOOG2",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X00000000015YI",
     "@cim:IdentifiedObject.name": "ESTACION DE SERVICIO BOO G2 S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB39681846",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB39681846",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

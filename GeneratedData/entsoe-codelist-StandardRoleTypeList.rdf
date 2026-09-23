@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardRoleTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardRoleTypeList</skos:prefLabel>
     <dcterms:identifier>ET0005</dcterms:identifier>
     <skos:definition xml:lang="en">Identification of the role played by a party.</skos:definition>
@@ -425,5 +425,19 @@ A party that is financially accountable for the reconciled volume of energy prod
     <dcterms:identifier>A59</dcterms:identifier>
     <skos:prefLabel>Permission administrator</skos:prefLabel>
     <skos:definition xml:lang="en">A party responsible for administrating a register of data access permissions for a set of metering points, making this information available to final customers and eligible parties in the sector, on request.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardRoleTypeList/A60">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardRoleTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardRoleTypeList"/>
+    <dcterms:identifier>A60</dcterms:identifier>
+    <skos:prefLabel>Data Provider</skos:prefLabel>
+    <skos:definition xml:lang="en">A party that has a mandate to provide information to other parties in the energy market.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardRoleTypeList/WK">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardRoleTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardRoleTypeList"/>
+    <dcterms:identifier>WK</dcterms:identifier>
+    <skos:prefLabel>Value added network provider</skos:prefLabel>
+    <skos:definition xml:lang="en">A party that provides interconnectivity services in an electronic data interchange environment.</skos:definition>
   </skos:Concept>
 </rdf:RDF>

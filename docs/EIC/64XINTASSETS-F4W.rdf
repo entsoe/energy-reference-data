@@ -10,6 +10,7 @@
     <cim:IdentifiedObject.mRID>64XINTASSETS-F4W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S.R.L. "Intra Assets"</cim:IdentifiedObject.name>
     <cim:Names.name>INTASSETS_F</cim:Names.name>
+    <cim:Names.name>N/A</cim:Names.name>
     <cim:IdentifiedObject.description>S.R.L. ''Intra Assets'' has no EU VAT code. Registration number (IDNO) - 1011600028241 Licence - AC nr. 001495; issued by ANRE on 03/12/2020.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
@@ -17,5 +18,6 @@
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>N/A</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

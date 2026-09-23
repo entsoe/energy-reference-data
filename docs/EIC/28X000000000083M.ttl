@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/28X000000000083M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "28X000000000083M" ;
+    cim:IdentifiedObject.name "DYNASTY POWER EUROPE" ;
+    cim:Names.name "Balance Responsible Party",
+        "DYNASTYPOWER",
+        "SI29552826" ;
+    dcterms:identifier "urn:eic:28X000000000083M" ;
+    schema1:vatID "SI29552826" ;
+    skos:altLabel "DYNASTYPOWER" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DYNASTY POWER EUROPE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

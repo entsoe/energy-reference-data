@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000020966",
-    "@skos:prefLabel": "M 66 Sagberget-Evjen",
-    "@skos:altLabel": "NO-SAGBERGETEVJE",
+    "@skos:prefLabel": "N 66 Sagberget-Evjen",
+    "@skos:altLabel": "NO-66SAGBERGETEV",
     "@cim:IdentifiedObject.mRID": "50TL000000020966",
-    "@cim:IdentifiedObject.name": "M 66 Sagberget-Evjen",
+    "@cim:IdentifiedObject.name": "N 66 Sagberget-Evjen",
     "@cim:Names.name": [
-        "NO-SAGBERGETEVJE",
+        "NO-66SAGBERGETEV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

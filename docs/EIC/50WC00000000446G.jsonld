@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000446G",
-    "@skos:prefLabel": "M Hamarhei 22  Forbruk",
-    "@skos:altLabel": "NO-HAMARHEI22",
+    "@skos:prefLabel": "N Hamarhei 22  Forbruk B",
+    "@skos:altLabel": "NO-HAMARHEI22B",
     "@cim:IdentifiedObject.mRID": "50WC00000000446G",
-    "@cim:IdentifiedObject.name": "M Hamarhei 22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Hamarhei 22  Forbruk B",
     "@cim:Names.name": [
-        "NO-HAMARHEI22",
+        "NO-HAMARHEI22B",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

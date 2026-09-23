@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000050861" ;
     cim:IdentifiedObject.name "S Kårstø   T2 Transformator" ;
-    cim:Names.name "NO-KARSTO__T2",
+    cim:Names.name "NO-KARSTOT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000050861" ;
-    skos:altLabel "NO-KARSTO__T2" ;
+    skos:altLabel "NO-KARSTOT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Kårstø   T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

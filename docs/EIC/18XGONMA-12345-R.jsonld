@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGONMA-12345-R",
     "@skos:prefLabel": "GONMATIC, S.L.",
     "@skos:altLabel": "GONMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGONMA-12345-R",
     "@cim:IdentifiedObject.name": "GONMATIC, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB78630118",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB78630118",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

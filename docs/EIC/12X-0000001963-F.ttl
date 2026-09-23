@@ -7,9 +7,9 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-26" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group Responsible Party, Consumer" ;
+    cim:DateAndOrTime.date "2026-04-08" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Balance Responsible Party, Consumer" ;
     cim:IdentifiedObject.mRID "12X-0000001963-F" ;
     cim:IdentifiedObject.name "fenaco Genossenschaft" ;
     cim:Names.name "Balance Responsible Party",
@@ -19,7 +19,7 @@
     dcterms:identifier "urn:eic:12X-0000001963-F" ;
     schema1:vatID "CHE106106123" ;
     skos:altLabel "FENACO_AGROLA-ST" ;
-    skos:definition "Balance Group Responsible Party, Consumer"@en ;
+    skos:definition "Balance Responsible Party, Consumer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "fenaco Genossenschaft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

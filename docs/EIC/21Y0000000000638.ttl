@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Entry Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000638" ;
     cim:IdentifiedObject.name "PL - Domestic Gas Fields" ;
     cim:Names.name "DOM_GAS_FIELD_PL",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y0000000000638" ;
     skos:altLabel "DOM_GAS_FIELD_PL" ;
-    skos:definition "Aggregated Entry Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PL - Domestic Gas Fields" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

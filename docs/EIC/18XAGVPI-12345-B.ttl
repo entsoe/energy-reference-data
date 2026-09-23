@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-11-20" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XAGVPI-12345-B" ;
     cim:IdentifiedObject.name "18XAGVPI-12345-B" ;
     cim:Names.name "AGVPI",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XAGVPI-12345-B" ;
     schema1:vatID "ES48286621F" ;
     skos:altLabel "AGVPI" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "18XAGVPI-12345-B" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

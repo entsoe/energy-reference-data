@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000003619",
     "@skos:prefLabel": "EVENSTADG3      HYDRO",
-    "@skos:altLabel": "NO-EVENSTADG3___",
+    "@skos:altLabel": "NO-EVENSTADG3",
     "@cim:IdentifiedObject.mRID": "50WG000000003619",
     "@cim:IdentifiedObject.name": "EVENSTADG3      HYDRO",
     "@cim:Names.name": [
-        "NO-EVENSTADG3___",
+        "NO-EVENSTADG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

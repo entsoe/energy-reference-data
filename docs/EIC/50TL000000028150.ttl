@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000028150" ;
-    cim:IdentifiedObject.name "S 50 Voss-Urdland" ;
+    cim:IdentifiedObject.name "S 50 Voss-Mæringen" ;
     cim:Names.name "Internal Line",
-        "NO-VOSSURDLAND" ;
+        "NO-50VOSSMARINGE" ;
     dcterms:identifier "urn:eic:50TL000000028150" ;
-    skos:altLabel "NO-VOSSURDLAND" ;
+    skos:altLabel "NO-50VOSSMARINGE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 50 Voss-Urdland" ;
+    skos:prefLabel "S 50 Voss-Mæringen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002639V",
-    "@skos:prefLabel": "S Follo 45 T3 Kabel",
+    "@skos:prefLabel": "S Follo    45  T3  Kabel",
     "@skos:altLabel": "NO-FOLLO45T3",
     "@cim:IdentifiedObject.mRID": "50TL00000002639V",
-    "@cim:IdentifiedObject.name": "S Follo 45 T3 Kabel",
+    "@cim:IdentifiedObject.name": "S Follo    45  T3  Kabel",
     "@cim:Names.name": [
         "NO-FOLLO45T3",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

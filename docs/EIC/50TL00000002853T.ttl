@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002853T" ;
     cim:IdentifiedObject.name "S 66 Nedre Tessa-Smådøla" ;
     cim:Names.name "Internal Line",
-        "NO-NETESSASMADOL" ;
+        "NO-22NE_TESSASMA" ;
     dcterms:identifier "urn:eic:50TL00000002853T" ;
-    skos:altLabel "NO-NETESSASMADOL" ;
+    skos:altLabel "NO-22NE_TESSASMA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Nedre Tessa-Smådøla" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002009R",
-    "@skos:prefLabel": "S 66 Myrvang-Tomasgård",
-    "@skos:altLabel": "NO-MYRVANGTOMASG",
+    "@skos:prefLabel": "N 66 Bo-Tomasgård",
+    "@skos:altLabel": "NO-66BOTOMASGARD",
     "@cim:IdentifiedObject.mRID": "50TL00000002009R",
-    "@cim:IdentifiedObject.name": "S 66 Myrvang-Tomasgård",
+    "@cim:IdentifiedObject.name": "N 66 Bo-Tomasgård",
     "@cim:Names.name": [
-        "NO-MYRVANGTOMASG",
+        "NO-66BOTOMASGARD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

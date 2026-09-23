@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000376C",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000376C",
+    "@skos:prefLabel": "Citadel European Power Ltd",
+    "@skos:altLabel": "CEPD",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "C/O Maples Corporate Services Limited, PO Box 309, \nUgland House, Grand Cayman, Cayman Islands, KY1-1104\nTanuja Sharma\namcomplianceeurope@citadel.com \n+442077439459\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000376C",
+    "@cim:IdentifiedObject.name": "Citadel European Power Ltd",
+    "@cim:Names.name": [
+        "CEPD",
+        "GB479110680",
+        "Balance Responsible Party",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "C/O Maples Corporate Services Limited, PO Box 309, \nUgland House, Grand Cayman, Cayman Islands, KY1-1104\nTanuja Sharma\namcomplianceeurope@citadel.com \n+442077439459\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-09-12",
+    "@schema:vatID": "GB479110680",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

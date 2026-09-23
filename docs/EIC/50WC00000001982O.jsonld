@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001982O",
-    "@skos:prefLabel": "N Fygle    2   LARM Last",
-    "@skos:altLabel": "NO-FYGLE2",
+    "@skos:prefLabel": "N BP Fygle 2   1L1 Forbruk",
+    "@skos:altLabel": "NO-BP_FYGLE2",
     "@cim:IdentifiedObject.mRID": "50WC00000001982O",
-    "@cim:IdentifiedObject.name": "N Fygle    2   LARM Last",
+    "@cim:IdentifiedObject.name": "N BP Fygle 2   1L1 Forbruk",
     "@cim:Names.name": [
-        "NO-FYGLE2",
+        "NO-BP_FYGLE2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

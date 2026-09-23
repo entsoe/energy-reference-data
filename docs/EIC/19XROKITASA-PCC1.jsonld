@@ -22,13 +22,19 @@
     "@cim:IdentifiedObject.name": "PCC Rokita Spolka Akcyjna",
     "@cim:Names.name": [
         "PCC_ROKITA_SA",
+        "A0008311Q.PL",
         "PL9170000015",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:IdentifiedObject.description": "Chemical Production.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-03-13",
+    "@cim:DateAndOrTime.date": "2026-04-08",
     "@schema:vatID": "PL9170000015",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19T110000006529A</dcterms:identifier>
-    <skos:prefLabel>K&#281;dzierzyn-A1</skos:prefLabel>
+    <skos:prefLabel>220/110kV Kedzierzyn AT1</skos:prefLabel>
     <skos:altLabel>KED-A1</skos:altLabel>
     <cim:IdentifiedObject.mRID>19T110000006529A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>K&#281;dzierzyn-A1</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>220/110kV Kedzierzyn AT1</cim:IdentifiedObject.name>
     <cim:Names.name>KED-A1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-11-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-20</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Z0000000003972</dcterms:identifier>
     <skos:prefLabel>Plinacro (HR)/PSP Okoli (HR)</skos:prefLabel>
     <skos:altLabel>PLINACRO-UGS-HR</skos:altLabel>
-    <skos:definition xml:lang="en">Storage Entrance And Exit Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z0000000003972</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Plinacro (HR)/PSP Okoli (HR)</cim:IdentifiedObject.name>
     <cim:Names.name>PLINACRO-UGS-HR</cim:Names.name>
-    <cim:IdentifiedObject.description>Storage Entrance And Exit Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-14</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

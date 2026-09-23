@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-09-25" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-0000001808-T" ;
     cim:IdentifiedObject.name "EKT Energie AG" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "CH668445",
         "EKT-BG-ST" ;
     dcterms:identifier "urn:eic:12X-0000001808-T" ;

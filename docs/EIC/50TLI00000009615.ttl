@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-12-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000009615" ;
-    cim:IdentifiedObject.name "M 22 Sundal-Tussa" ;
+    cim:IdentifiedObject.name "N 22 Sundal-Volda" ;
     cim:Names.name "Internal Line",
-        "NO-SUNDALTUSSA" ;
+        "NO-22SUNDALVOLDA" ;
     dcterms:identifier "urn:eic:50TLI00000009615" ;
-    skos:altLabel "NO-SUNDALTUSSA" ;
+    skos:altLabel "NO-22SUNDALVOLDA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Sundal-Tussa" ;
+    skos:prefLabel "N 22 Sundal-Volda" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

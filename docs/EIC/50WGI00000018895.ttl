@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WGI00000018895" ;
     cim:IdentifiedObject.name "TJONNEFOG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TJONNEFOG1___" ;
+        "NO-TJONNEFOG1" ;
     dcterms:identifier "urn:eic:50WGI00000018895" ;
-    skos:altLabel "NO-TJONNEFOG1___" ;
+    skos:altLabel "NO-TJONNEFOG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TJONNEFOG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

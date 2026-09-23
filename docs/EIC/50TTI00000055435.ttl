@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000055435" ;
     cim:IdentifiedObject.name "N Reed     T1 Transformator" ;
-    cim:Names.name "NO-REED____T1",
+    cim:Names.name "NO-REEDT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000055435" ;
-    skos:altLabel "NO-REED____T1" ;
+    skos:altLabel "NO-REEDT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Reed     T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

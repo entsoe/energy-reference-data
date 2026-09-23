@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A0000000016895" ;
-    cim:IdentifiedObject.name "Buvik" ;
-    cim:Names.name "NO-BUVIK",
+    cim:IdentifiedObject.name "Buvika" ;
+    cim:Names.name "NO-BUVIKA",
         "Substation" ;
     dcterms:identifier "urn:eic:50A0000000016895" ;
-    skos:altLabel "NO-BUVIK" ;
+    skos:altLabel "NO-BUVIKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Buvik" ;
+    skos:prefLabel "Buvika" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

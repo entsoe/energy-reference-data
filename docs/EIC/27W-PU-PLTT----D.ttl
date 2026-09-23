@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27W-PU-PLTT----D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27W-PU-PLTT----D" ;
+    cim:IdentifiedObject.name "Plzeňská teplárenská, a.s. - Teplárna" ;
+    cim:Names.name "PLTT",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:27W-PU-PLTT----D" ;
+    skos:altLabel "PLTT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Plzeňská teplárenská, a.s. - Teplárna" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

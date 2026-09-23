@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000068H" ;
     cim:IdentifiedObject.name "Neckermann Strom GmbH" ;
-    cim:Names.name "DE281994262",
+    cim:Names.name "Balance Responsible Party",
+        "DE281994262",
         "NECKERMANN_STROM" ;
     dcterms:identifier "urn:eic:37X000000000068H" ;
     schema1:vatID "DE281994262" ;

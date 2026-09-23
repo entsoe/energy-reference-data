@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T0000000010342> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49T0000000010342" ;
+    cim:IdentifiedObject.name "Tilburg 380 kV - Tilburg Noord 150 kV Trafo 412" ;
+    cim:Names.name "TLB-TBN150_TR412",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:49T0000000010342" ;
+    skos:altLabel "TLB-TBN150_TR412" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Tilburg 380 kV - Tilburg Noord 150 kV Trafo 412" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

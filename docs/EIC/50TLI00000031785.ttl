@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000031785" ;
-    cim:IdentifiedObject.name "S Feda 375 PT1 X" ;
+    cim:IdentifiedObject.name "S Feda     375 PT1 X" ;
     cim:Names.name "Internal Line",
-        "NO-FEDA375PT1X" ;
+        "NO-FEDA375PT1_X" ;
     dcterms:identifier "urn:eic:50TLI00000031785" ;
-    skos:altLabel "NO-FEDA375PT1X" ;
+    skos:altLabel "NO-FEDA375PT1_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Feda 375 PT1 X" ;
+    skos:prefLabel "S Feda     375 PT1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

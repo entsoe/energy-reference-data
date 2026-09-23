@@ -6,14 +6,29 @@
     <dcterms:identifier>urn:eic:48X0000000002206</dcterms:identifier>
     <skos:prefLabel>Arenko Cleantech Limited</skos:prefLabel>
     <skos:altLabel>ARENKO</skos:altLabel>
+    <skos:definition xml:lang="en">New contact details.  Updated 07/08/2024
+Arenko Cleantech Limited
+International
+Harmsworth House, 15 Bouverie Street, London, EC4Y 8DP
+Oliver Guy
+og@arenko.group
+</skos:definition>
     <cim:IdentifiedObject.mRID>48X0000000002206</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Arenko Cleantech Limited</cim:IdentifiedObject.name>
     <cim:Names.name>ARENKO</cim:Names.name>
     <cim:Names.name>GB275861466</cim:Names.name>
+    <cim:IdentifiedObject.description>New contact details.  Updated 07/08/2024
+Arenko Cleantech Limited
+International
+Harmsworth House, 15 Bouverie Street, London, EC4Y 8DP
+Oliver Guy
+og@arenko.group
+</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-09-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-08-07</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB275861466</schema:vatID>
   </skos:Concept>

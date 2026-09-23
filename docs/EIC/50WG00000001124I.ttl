@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001124I" ;
-    cim:IdentifiedObject.name "NEA     G104 HYDRO" ;
+    cim:IdentifiedObject.name "GAULA   G2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NEA_____G104_" ;
+        "NO-GAULAG2" ;
     dcterms:identifier "urn:eic:50WG00000001124I" ;
-    skos:altLabel "NO-NEA_____G104_" ;
+    skos:altLabel "NO-GAULAG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NEA     G104 HYDRO" ;
+    skos:prefLabel "GAULA   G2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

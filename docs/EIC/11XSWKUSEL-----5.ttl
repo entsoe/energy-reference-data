@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-03-15" ;
+    cim:DateAndOrTime.date "2025-02-27" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XSWKUSEL-----5" ;
     cim:IdentifiedObject.name "Stadtwerke Kusel GmbH" ;
     cim:Names.name "Balance Responsible Party",
-        "DE148641686",
+        "DE187768057",
         "SWKUSEL" ;
     dcterms:identifier "urn:eic:11XSWKUSEL-----5" ;
-    schema1:vatID "DE148641686" ;
+    schema1:vatID "DE187768057" ;
     skos:altLabel "SWKUSEL" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Kusel GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

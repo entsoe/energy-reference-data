@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002018Q",
-    "@skos:prefLabel": "N 66 Nedrefossen-Kilbotn",
-    "@skos:altLabel": "NO-NEDREFOSSENKI",
+    "@skos:prefLabel": "N 66 Tjeldsund-Kilbotn",
+    "@skos:altLabel": "NO-66TJELDSUND_K",
     "@cim:IdentifiedObject.mRID": "50TL00000002018Q",
-    "@cim:IdentifiedObject.name": "N 66 Nedrefossen-Kilbotn",
+    "@cim:IdentifiedObject.name": "N 66 Tjeldsund-Kilbotn",
     "@cim:Names.name": [
-        "NO-NEDREFOSSENKI",
+        "NO-66TJELDSUND_K",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

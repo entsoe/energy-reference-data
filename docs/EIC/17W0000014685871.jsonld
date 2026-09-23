@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W0000014685871",
-    "@skos:prefLabel": "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN",
-    "@skos:altLabel": "FR_TERF_CGRN",
+    "@skos:prefLabel": "COGENERATION NORMANDIE (AMFARD)",
+    "@skos:altLabel": "FR_T-AMFAR-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie"
+        "@value": "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie. Name change"
     },
     "@cim:IdentifiedObject.mRID": "17W0000014685871",
-    "@cim:IdentifiedObject.name": "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN",
+    "@cim:IdentifiedObject.name": "COGENERATION NORMANDIE (AMFARD)",
     "@cim:Names.name": [
-        "FR_TERF_CGRN",
+        "FR_T-AMFAR-P",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie",
+    "@cim:IdentifiedObject.description": "Nouveau code EIC demandé pour PU pour la cogénération de la raffinerie de Normandie. Name change",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-15",
+    "@cim:DateAndOrTime.date": "2026-01-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

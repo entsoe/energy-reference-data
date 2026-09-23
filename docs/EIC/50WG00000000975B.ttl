@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000975B" ;
-    cim:IdentifiedObject.name "LEIVDAL G105 HYDRO" ;
+    cim:IdentifiedObject.name "HOPLAND G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LEIVDAL_G105_" ;
+        "NO-HOPLANDG105" ;
     dcterms:identifier "urn:eic:50WG00000000975B" ;
-    skos:altLabel "NO-LEIVDAL_G105_" ;
+    skos:altLabel "NO-HOPLANDG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LEIVDAL G105 HYDRO" ;
+    skos:prefLabel "HOPLAND G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

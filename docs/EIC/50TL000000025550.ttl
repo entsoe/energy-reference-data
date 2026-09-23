@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000025550" ;
     cim:IdentifiedObject.name "N 420 Kvandal-Balsfjord" ;
     cim:Names.name "Internal Line",
-        "NO-KVANDALBALSFJ" ;
+        "NO-420KVANDALBAL" ;
     dcterms:identifier "urn:eic:50TL000000025550" ;
-    skos:altLabel "NO-KVANDALBALSFJ" ;
+    skos:altLabel "NO-420KVANDALBAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 420 Kvandal-Balsfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

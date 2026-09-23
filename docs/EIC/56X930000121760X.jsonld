@@ -12,25 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000121760X",
-    "@skos:prefLabel": "NATIONAL RESOURCESOF UKRAINE LLC",
+    "@skos:prefLabel": "NATIONAL RESOURCES OF UKRAINE LLC",
     "@skos:altLabel": "NRU_LLC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com"
-    },
     "@cim:IdentifiedObject.mRID": "56X930000121760X",
-    "@cim:IdentifiedObject.name": "NATIONAL RESOURCESOF UKRAINE LLC",
+    "@cim:IdentifiedObject.name": "NATIONAL RESOURCES OF UKRAINE LLC",
     "@cim:Names.name": [
         "NRU_LLC",
-        "44984717",
-        "Trade Responsible Party",
-        "Network User"
+        "449847123013",
+        "Network User",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-07-21",
-    "@schema:vatID": "44984717",
+    "@cim:DateAndOrTime.date": "2024-12-04",
+    "@schema:vatID": "449847123013",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

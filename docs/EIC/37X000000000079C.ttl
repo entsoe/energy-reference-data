@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000079C" ;
     cim:IdentifiedObject.name "Deutsche Erdgas Versorgungs GmbH" ;
-    cim:Names.name "DE283079004",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE283079004",
         "DEUTSCHEERDGAS" ;
     dcterms:identifier "urn:eic:37X000000000079C" ;
     schema1:vatID "DE283079004" ;

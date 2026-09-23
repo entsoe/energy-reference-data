@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XRECON-12345-P",
     "@skos:prefLabel": "REPRESENTANTES DE CONSUMIDORES EN EL MERCADO ELECTRICO, S.L.",
     "@skos:altLabel": "RECON",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XRECON-12345-P",
     "@cim:IdentifiedObject.name": "REPRESENTANTES DE CONSUMIDORES EN EL MERCADO ELECTRICO, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB73861908",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB73861908",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

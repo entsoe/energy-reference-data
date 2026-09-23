@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001092J",
-    "@skos:prefLabel": "S 300 Røldal-Novle",
-    "@skos:altLabel": "NO-ROLDALNOVLE",
+    "@skos:prefLabel": "S 300 Novle-Røldal",
+    "@skos:altLabel": "NO-300NOVLEROLDA",
     "@cim:IdentifiedObject.mRID": "50TL00000001092J",
-    "@cim:IdentifiedObject.name": "S 300 Røldal-Novle",
+    "@cim:IdentifiedObject.name": "S 300 Novle-Røldal",
     "@cim:Names.name": [
-        "NO-ROLDALNOVLE",
+        "NO-300NOVLEROLDA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

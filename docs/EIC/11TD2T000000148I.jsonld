@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11TD2T000000148I",
-    "@skos:prefLabel": "TTG/380-110/Landesbergen/Trafo210",
+    "@skos:prefLabel": "TTG/220-110/HANNOVER W/TRAFO 212",
     "@skos:altLabel": "T-D2-D2-11561863",
     "@cim:IdentifiedObject.mRID": "11TD2T000000148I",
-    "@cim:IdentifiedObject.name": "TTG/380-110/Landesbergen/Trafo210",
+    "@cim:IdentifiedObject.name": "TTG/220-110/HANNOVER W/TRAFO 212",
     "@cim:Names.name": [
         "T-D2-D2-11561863",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-17",
+    "@cim:DateAndOrTime.date": "2024-07-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

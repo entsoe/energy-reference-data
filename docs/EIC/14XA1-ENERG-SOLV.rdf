@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/14XA1-ENERG-SOLV">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:14XA1-ENERG-SOLV</dcterms:identifier>
+    <skos:prefLabel>A1 Telekom Austria AG</skos:prefLabel>
+    <skos:altLabel>A1ENERGYSOLUTION</skos:altLabel>
+    <cim:IdentifiedObject.mRID>14XA1-ENERG-SOLV</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>A1 Telekom Austria AG</cim:IdentifiedObject.name>
+    <cim:Names.name>A1ENERGYSOLUTION</cim:Names.name>
+    <cim:Names.name>ATU62895905</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-05-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>ATU62895905</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

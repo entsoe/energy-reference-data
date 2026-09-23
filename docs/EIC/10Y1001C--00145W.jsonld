@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/10Y1001C--00145W",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:10Y1001C--00145W",
+    "@skos:prefLabel": "Capacity Calculation Region Central Europe",
+    "@skos:altLabel": "CCR-CE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "On 19 March 2024, ACER adopted Decision No 04/2024 establishing a new Capacity Calculation Region by merging the former Italy North and Core CCRs. The new EIC code is requested to identify this region. "
+    },
+    "@cim:IdentifiedObject.mRID": "10Y1001C--00145W",
+    "@cim:IdentifiedObject.name": "Capacity Calculation Region Central Europe",
+    "@cim:Names.name": [
+        "CCR-CE",
+        "Capacity Calculation Region"
+    ],
+    "@cim:IdentifiedObject.description": "On 19 March 2024, ACER adopted Decision No 04/2024 establishing a new Capacity Calculation Region by merging the former Italy North and Core CCRs. The new EIC code is requested to identify this region. ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-08-04",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

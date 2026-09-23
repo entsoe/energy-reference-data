@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XSWLANGENSALZN" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Langensalza GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE152480915",
-        "SWLANGENSALZA" ;
+    cim:Names.name "DE152480915",
+        "SWLANGENSALZA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWLANGENSALZN" ;
     schema1:vatID "DE152480915" ;
     skos:altLabel "SWLANGENSALZA" ;

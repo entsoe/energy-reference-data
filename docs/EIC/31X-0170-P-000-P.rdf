@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:31X-0170-P-000-P</dcterms:identifier>
-    <skos:prefLabel>MODERATOR d.o.o.</skos:prefLabel>
-    <skos:altLabel>HR-MODERATOR</skos:altLabel>
+    <skos:prefLabel>RST-Pellet Udbina d.o.o.</skos:prefLabel>
+    <skos:altLabel>HR-RST-PE-UDBINA</skos:altLabel>
     <cim:IdentifiedObject.mRID>31X-0170-P-000-P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>MODERATOR d.o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>HR-MODERATOR</cim:Names.name>
+    <cim:IdentifiedObject.name>RST-Pellet Udbina d.o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>HR-RST-PE-UDBINA</cim:Names.name>
     <cim:Names.name>10160841858</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-05-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-23</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>10160841858</schema:vatID>

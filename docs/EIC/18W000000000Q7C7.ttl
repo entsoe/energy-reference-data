@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000Q7C7" ;
     cim:IdentifiedObject.name "MAXENC01" ;
-    cim:Names.name "ES-MAXENC01" ;
+    cim:Names.name "ES-MAXENC01",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18W000000000Q7C7" ;
     skos:altLabel "ES-MAXENC01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

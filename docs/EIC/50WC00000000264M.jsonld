@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000000264M",
     "@skos:prefLabel": "S Moflata  11  L1 Forbruk",
-    "@skos:altLabel": "NO-MOFLATA11",
+    "@skos:altLabel": "NO-MOFLATA11L1",
     "@cim:IdentifiedObject.mRID": "50WC00000000264M",
     "@cim:IdentifiedObject.name": "S Moflata  11  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-MOFLATA11",
+        "NO-MOFLATA11L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

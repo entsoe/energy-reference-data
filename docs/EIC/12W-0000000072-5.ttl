@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-04-09" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12W-0000000072-5" ;
     cim:IdentifiedObject.name "Kraftwerk Lötschen" ;
-    cim:Names.name "Generation",
-        "KW-LOETSCHEN-AS" ;
+    cim:Names.name "KW-LOETSCHEN-AS",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:12W-0000000072-5" ;
     skos:altLabel "KW-LOETSCHEN-AS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

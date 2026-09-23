@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PEG5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PEG5" ;
+    cim:IdentifiedObject.name "BD ENERGY A/S" ;
+    cim:Names.name "DK-BDENERGY",
+        "DKN0329059J",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PEG5" ;
+    schema1:vatID "DKN0329059J" ;
+    skos:altLabel "DK-BDENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BD ENERGY A/S" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

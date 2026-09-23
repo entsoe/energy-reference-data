@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000053429",
-    "@skos:prefLabel": "M Mosjøen  RT2 Transformator",
-    "@skos:altLabel": "NO-MOSJOEN_RT2",
+    "@skos:prefLabel": "N Mosjøen  RT2 Transformator",
+    "@skos:altLabel": "NO-MOSJOENRT2",
     "@cim:IdentifiedObject.mRID": "50TT000000053429",
-    "@cim:IdentifiedObject.name": "M Mosjøen  RT2 Transformator",
+    "@cim:IdentifiedObject.name": "N Mosjøen  RT2 Transformator",
     "@cim:Names.name": [
-        "NO-MOSJOEN_RT2",
+        "NO-MOSJOENRT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

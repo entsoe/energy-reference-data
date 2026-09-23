@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006721I" ;
-    cim:IdentifiedObject.name "Połaniec-Chmielów" ;
+    cim:IdentifiedObject.name "220kV Chmielow-Polaniec 2" ;
     cim:Names.name "2300",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006721I" ;
     skos:altLabel "2300" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Połaniec-Chmielów" ;
+    skos:prefLabel "220kV Chmielow-Polaniec 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

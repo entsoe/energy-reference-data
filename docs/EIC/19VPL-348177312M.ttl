@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-17" ;
+    cim:DateAndOrTime.date "2024-02-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19VPL-348177312M" ;
-    cim:IdentifiedObject.name "Operator Informacji Rynku Energii (OIRE)" ;
+    cim:IdentifiedObject.name "Centralny System Inf. Rynku Energii / Operator Inf. Rynku Energii" ;
     cim:Names.name "IT-system",
         "PL_DATA_HUB" ;
     dcterms:identifier "urn:eic:19VPL-348177312M" ;
     skos:altLabel "PL_DATA_HUB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Operator Informacji Rynku Energii (OIRE)" ;
+    skos:prefLabel "Centralny System Inf. Rynku Energii / Operator Inf. Rynku Energii" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

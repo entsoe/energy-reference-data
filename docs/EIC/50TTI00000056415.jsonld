@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TTI00000056415",
     "@skos:prefLabel": "S Savalen  T1 Transformator",
-    "@skos:altLabel": "NO-SAVALEN_T1",
+    "@skos:altLabel": "NO-SAVALENT1",
     "@cim:IdentifiedObject.mRID": "50TTI00000056415",
     "@cim:IdentifiedObject.name": "S Savalen  T1 Transformator",
     "@cim:Names.name": [
-        "NO-SAVALEN_T1",
+        "NO-SAVALENT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

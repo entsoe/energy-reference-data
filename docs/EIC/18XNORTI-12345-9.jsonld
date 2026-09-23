@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XNORTI-12345-9",
     "@skos:prefLabel": "NORTIA BUSINESS CORPORATION S.L.",
     "@skos:altLabel": "NORTI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNORTI-12345-9",
     "@cim:IdentifiedObject.name": "NORTIA BUSINESS CORPORATION S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB58654039",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB58654039",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

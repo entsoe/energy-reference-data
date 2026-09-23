@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000372K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-11" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description """10/06/24 - The Party have requested that the code be deleted/de-activated 
+
+Postboks 2051 Vika, 0125, Oslo, Norway
+Mr Luke Pattison
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000372K" ;
+    cim:IdentifiedObject.name "Dare Power Limited Norway Branch" ;
+    cim:Names.name "Balance Responsible Party",
+        "DPL-NO",
+        "GB363646480" ;
+    dcterms:identifier "urn:eic:48X000000000372K" ;
+    schema1:vatID "GB363646480" ;
+    skos:altLabel "DPL-NO" ;
+    skos:definition """10/06/24 - The Party have requested that the code be deleted/de-activated 
+
+Postboks 2051 Vika, 0125, Oslo, Norway
+Mr Luke Pattison
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dare Power Limited Norway Branch" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

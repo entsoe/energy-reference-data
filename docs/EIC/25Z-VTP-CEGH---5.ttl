@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/25Z-VTP-CEGH---5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-02" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "25Z-VTP-CEGH---5" ;
+    cim:IdentifiedObject.name "Central European Gas Hub AG" ;
+    cim:Names.name "VTP-CEGH",
+        "Virtual Trading Points" ;
+    dcterms:identifier "urn:eic:25Z-VTP-CEGH---5" ;
+    skos:altLabel "VTP-CEGH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Central European Gas Hub AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

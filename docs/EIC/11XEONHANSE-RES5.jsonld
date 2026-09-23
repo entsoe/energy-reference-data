@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XEONHANSE-RES5",
-    "@skos:prefLabel": "Schleswig-Holstein Netz AG",
+    "@skos:prefLabel": "Schleswig-Holstein Netz GmbH",
     "@skos:altLabel": "EONHANSE-RES",
     "@cim:IdentifiedObject.mRID": "11XEONHANSE-RES5",
-    "@cim:IdentifiedObject.name": "Schleswig-Holstein Netz AG",
+    "@cim:IdentifiedObject.name": "Schleswig-Holstein Netz GmbH",
     "@cim:Names.name": [
         "EONHANSE-RES",
-        "DE267393355",
+        "DE366371470",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-28",
-    "@schema:vatID": "DE267393355",
+    "@cim:DateAndOrTime.date": "2024-07-16",
+    "@schema:vatID": "DE366371470",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

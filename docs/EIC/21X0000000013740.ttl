@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-16" ;
+    cim:DateAndOrTime.date "2024-01-11" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "21X0000000013740" ;
-    cim:IdentifiedObject.name "AB Klaipedos nafta" ;
-    cim:Names.name "KLAIPEDOS-NAFTA",
+    cim:IdentifiedObject.name "AB \"KN Energies\"" ;
+    cim:Names.name "KN-ENERGIES",
         "LT106488917",
         "System Operator" ;
     dcterms:identifier "urn:eic:21X0000000013740" ;
     schema1:vatID "LT106488917" ;
-    skos:altLabel "KLAIPEDOS-NAFTA" ;
-    skos:definition "System Operator"@en ;
+    skos:altLabel "KN-ENERGIES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AB Klaipedos nafta" ;
+    skos:prefLabel "AB \"KN Energies\"" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

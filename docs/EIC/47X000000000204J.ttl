@@ -12,8 +12,10 @@
     cim:IdentifiedObject.mRID "47X000000000204J" ;
     cim:IdentifiedObject.name "Citadel Energy Investments (Ireland) Designated Activity Company" ;
     cim:Names.name "IE204J",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:47X000000000204J" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "IE204J" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Citadel Energy Investments (Ireland) Designated Activity Company" ;

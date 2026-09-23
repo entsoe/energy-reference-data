@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XZERE-123456-V",
     "@skos:prefLabel": "ZEREP CARBONICAS Y AGUAS S.A",
     "@skos:altLabel": "ZERE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XZERE-123456-V",
     "@cim:IdentifiedObject.name": "ZEREP CARBONICAS Y AGUAS S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA24293110",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA24293110",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26W-0911128MNTVE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "IM_0911128UP_MNTVRDSIRI_4" ;
+    cim:IdentifiedObject.mRID "26W-0911128MNTVE" ;
+    cim:IdentifiedObject.name "IM_0911128UP_MNTVRDSIRI_4" ;
+    cim:Names.name "911128_40079",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:26W-0911128MNTVE" ;
+    skos:altLabel "911128_40079" ;
+    skos:definition "IM_0911128UP_MNTVRDSIRI_4"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "IM_0911128UP_MNTVRDSIRI_4" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

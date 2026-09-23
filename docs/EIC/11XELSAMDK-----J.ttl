@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XELSAMDK-----J" ;
     cim:IdentifiedObject.name "DONG Energy A/S" ;
-    cim:Names.name "DE220468351",
-        "ELSAMDK",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE220468351",
+        "ELSAMDK" ;
     dcterms:identifier "urn:eic:11XELSAMDK-----J" ;
     schema1:vatID "DE220468351" ;
     skos:altLabel "ELSAMDK" ;

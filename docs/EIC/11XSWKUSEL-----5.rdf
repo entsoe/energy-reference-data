@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XSWKUSEL-----5</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Kusel GmbH</skos:prefLabel>
     <skos:altLabel>SWKUSEL</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWKUSEL-----5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Kusel GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWKUSEL</cim:Names.name>
-    <cim:Names.name>DE148641686</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
+    <cim:Names.name>DE187768057</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-03-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-27</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE148641686</schema:vatID>
+    <schema:vatID>DE187768057</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

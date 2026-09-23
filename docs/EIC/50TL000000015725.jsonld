@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000015725",
     "@skos:prefLabel": "S 50 Oltedal-Riska",
-    "@skos:altLabel": "NO-OLTEDALRISKA",
+    "@skos:altLabel": "NO-50OLTEDALRISK",
     "@cim:IdentifiedObject.mRID": "50TL000000015725",
     "@cim:IdentifiedObject.name": "S 50 Oltedal-Riska",
     "@cim:Names.name": [
-        "NO-OLTEDALRISKA",
+        "NO-50OLTEDALRISK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

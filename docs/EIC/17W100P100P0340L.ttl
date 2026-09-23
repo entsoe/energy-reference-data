@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-12" ;
+    cim:DateAndOrTime.date "2026-04-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Unit" ;
+    cim:IdentifiedObject.description "Production Unit Validation CIO" ;
     cim:IdentifiedObject.mRID "17W100P100P0340L" ;
-    cim:IdentifiedObject.name "CROIX-DE-METZ " ;
+    cim:IdentifiedObject.name "CROIX DE METZ" ;
     cim:Names.name "FR_GA-TOULMETZ-P",
         "Production Unit" ;
     dcterms:identifier "urn:eic:17W100P100P0340L" ;
     skos:altLabel "FR_GA-TOULMETZ-P" ;
-    skos:definition "Production Unit"@en ;
+    skos:definition "Production Unit Validation CIO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CROIX-DE-METZ " ;
+    skos:prefLabel "CROIX DE METZ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

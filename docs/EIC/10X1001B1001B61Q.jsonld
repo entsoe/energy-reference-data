@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Agency for the Cooperation of Energy Regulators",
     "@cim:Names.name": [
         "ACER",
-        "Platform Operator"
+        "37879260",
+        "Information Provider"
     ],
     "@cim:IdentifiedObject.description": "Platform Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-25",
+    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@schema:vatID": "37879260",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

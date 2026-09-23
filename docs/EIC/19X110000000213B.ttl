@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X110000000213B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X110000000213B" ;
+    cim:IdentifiedObject.name "GEPOL FOTO ENERGY Spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "GEPOLFOTOENERGY",
+        "PL6152046815",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19X110000000213B" ;
+    schema1:vatID "PL6152046815" ;
+    skos:altLabel "GEPOLFOTOENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GEPOL FOTO ENERGY Spółka z ograniczoną odpowiedzialnością" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

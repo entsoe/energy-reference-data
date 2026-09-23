@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XORTIZ-12345-6",
     "@skos:prefLabel": "TEXENCA",
     "@skos:altLabel": "ORTIZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XORTIZ-12345-6",
     "@cim:IdentifiedObject.name": "TEXENCA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESV61804019",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-11-25",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESV61804019",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

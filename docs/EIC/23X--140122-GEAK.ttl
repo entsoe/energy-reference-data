@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-01-20" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "23X--140122-GEAK" ;
     cim:IdentifiedObject.name "Gotlands Elförsäljning Aktiebolag" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "GOTLANDS_EA",
         "SE556528415401" ;
     dcterms:identifier "urn:eic:23X--140122-GEAK" ;

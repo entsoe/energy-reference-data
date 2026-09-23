@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002175A" ;
-    cim:IdentifiedObject.name "M 66 Strand-Salbotn" ;
+    cim:IdentifiedObject.name "N 66 Strand-Salbotn" ;
     cim:Names.name "Internal Line",
-        "NO-STRANDSALBOTN" ;
+        "NO-66STRANDSALBO" ;
     dcterms:identifier "urn:eic:50TL00000002175A" ;
-    skos:altLabel "NO-STRANDSALBOTN" ;
+    skos:altLabel "NO-66STRANDSALBO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Strand-Salbotn" ;
+    skos:prefLabel "N 66 Strand-Salbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

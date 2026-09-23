@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002848M",
-    "@skos:prefLabel": "S 66 Åsen-Stanavegen",
-    "@skos:altLabel": "NO-ASENSTANAVEGE",
+    "@skos:prefLabel": "S 66 Åsen-Sengjanes-1",
+    "@skos:altLabel": "NO-66ASENSENGJAN",
     "@cim:IdentifiedObject.mRID": "50TL00000002848M",
-    "@cim:IdentifiedObject.name": "S 66 Åsen-Stanavegen",
+    "@cim:IdentifiedObject.name": "S 66 Åsen-Sengjanes-1",
     "@cim:Names.name": [
-        "NO-ASENSTANAVEGE",
+        "NO-66ASENSENGJAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

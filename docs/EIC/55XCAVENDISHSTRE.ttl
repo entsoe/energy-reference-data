@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/55XCAVENDISHSTRE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "55XCAVENDISHSTRE" ;
+    cim:IdentifiedObject.name "CAVENDISH STRUCTURED MARKETS UK LTD" ;
+    cim:Names.name "CSML",
+        "GB516424702",
+        "Information Provider",
+        "Interconnection Trade Responsible",
+        "Resource Provider",
+        "Transmission Capacity Allocator" ;
+    dcterms:identifier "urn:eic:55XCAVENDISHSTRE" ;
+    schema1:vatID "GB516424702" ;
+    skos:altLabel "CSML" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CAVENDISH STRUCTURED MARKETS UK LTD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

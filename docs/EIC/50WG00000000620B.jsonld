@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000620B",
-    "@skos:prefLabel": "HAUGEN  G125 HYDRO",
-    "@skos:altLabel": "NO-HAUGEN__G125_",
+    "@skos:prefLabel": "STANDAL G125 HYDRO",
+    "@skos:altLabel": "NO-STANDALG125",
     "@cim:IdentifiedObject.mRID": "50WG00000000620B",
-    "@cim:IdentifiedObject.name": "HAUGEN  G125 HYDRO",
+    "@cim:IdentifiedObject.name": "STANDAL G125 HYDRO",
     "@cim:Names.name": [
-        "NO-HAUGEN__G125_",
+        "NO-STANDALG125",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000392C",
     "@skos:prefLabel": "SERENE LITTORAL/NORD_ATLANTIQUE (FR)",
     "@skos:altLabel": "SERENE_LITTORAL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000392C",
     "@cim:IdentifiedObject.name": "SERENE LITTORAL/NORD_ATLANTIQUE (FR)",
     "@cim:Names.name": [
         "SERENE_LITTORAL",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

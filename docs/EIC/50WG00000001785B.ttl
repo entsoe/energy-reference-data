@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001785B" ;
     cim:IdentifiedObject.name "SVABO   G115 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SVABO___G115_" ;
+        "NO-SVABOG115" ;
     dcterms:identifier "urn:eic:50WG00000001785B" ;
-    skos:altLabel "NO-SVABO___G115_" ;
+    skos:altLabel "NO-SVABOG115" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SVABO   G115 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

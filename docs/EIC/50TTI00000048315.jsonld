@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TTI00000048315",
     "@skos:prefLabel": "S Frogner  T6 Transformator",
-    "@skos:altLabel": "NO-FROGNER_T6",
+    "@skos:altLabel": "NO-FROGNERT6",
     "@cim:IdentifiedObject.mRID": "50TTI00000048315",
     "@cim:IdentifiedObject.name": "S Frogner  T6 Transformator",
     "@cim:Names.name": [
-        "NO-FROGNER_T6",
+        "NO-FROGNERT6",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

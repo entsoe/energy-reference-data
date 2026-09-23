@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001258S" ;
     cim:IdentifiedObject.name "Fossabekken" ;
-    cim:Names.name "NO-FOSSABEKKEN_P",
+    cim:Names.name "NO-FOSSABEKKEN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001258S" ;
-    skos:altLabel "NO-FOSSABEKKEN_P" ;
+    skos:altLabel "NO-FOSSABEKKEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fossabekken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

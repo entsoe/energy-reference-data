@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000003946Y",
-    "@skos:prefLabel": "Świebodzice-AT-2",
+    "@skos:prefLabel": "220/110kV Swiebodzice AT2",
     "@skos:altLabel": "SWI-A2",
     "@cim:IdentifiedObject.mRID": "19T000000003946Y",
-    "@cim:IdentifiedObject.name": "Świebodzice-AT-2",
+    "@cim:IdentifiedObject.name": "220/110kV Swiebodzice AT2",
     "@cim:Names.name": [
         "SWI-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

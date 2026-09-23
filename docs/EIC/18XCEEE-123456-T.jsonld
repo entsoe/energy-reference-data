@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XCEEE-123456-T",
-    "@skos:prefLabel": "Compañía Escandinava de Electricidad en España",
+    "@skos:prefLabel": "ESCANDINAVA DE ELECTRICIDAD SL.",
     "@skos:altLabel": "CEEE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCEEE-123456-T",
-    "@cim:IdentifiedObject.name": "Compañía Escandinava de Electricidad en España",
+    "@cim:IdentifiedObject.name": "ESCANDINAVA DE ELECTRICIDAD SL.",
     "@cim:Names.name": [
         "CEEE",
         "ESB85551273",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-03-10",
+    "@cim:DateAndOrTime.date": "2026-03-23",
     "@schema:vatID": "ESB85551273",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

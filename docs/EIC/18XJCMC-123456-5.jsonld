@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XJCMC-123456-5",
     "@skos:prefLabel": "JUAN CARLOS MARTINEZ CUEVAS",
     "@skos:altLabel": "JCMC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XJCMC-123456-5",
     "@cim:IdentifiedObject.name": "JUAN CARLOS MARTINEZ CUEVAS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES52637857B",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-09-26",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES52637857B",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

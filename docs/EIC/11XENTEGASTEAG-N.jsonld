@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XENTEGASTEAG-N",
-    "@skos:prefLabel": "ENTEGA STEAG Wärme GmbH",
+    "@skos:prefLabel": "Entega Iqony Wärme GmbH",
     "@skos:altLabel": "ENTEGA-STEAG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XENTEGASTEAG-N",
-    "@cim:IdentifiedObject.name": "ENTEGA STEAG Wärme GmbH",
+    "@cim:IdentifiedObject.name": "Entega Iqony Wärme GmbH",
     "@cim:Names.name": [
         "ENTEGA-STEAG",
         "DE301519190",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-10",
+    "@cim:DateAndOrTime.date": "2025-07-15",
     "@schema:vatID": "DE301519190",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

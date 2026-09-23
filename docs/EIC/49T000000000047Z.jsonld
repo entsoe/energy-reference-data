@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000047Z",
-    "@skos:prefLabel": "Bleiwijk - Vijfhuizen 380kV Oranje",
+    "@skos:prefLabel": "Bleiswijk - Vijfhuizen 380kV Oranje",
     "@skos:altLabel": "BWK-VHZ380-O",
     "@cim:IdentifiedObject.mRID": "49T000000000047Z",
-    "@cim:IdentifiedObject.name": "Bleiwijk - Vijfhuizen 380kV Oranje",
+    "@cim:IdentifiedObject.name": "Bleiswijk - Vijfhuizen 380kV Oranje",
     "@cim:Names.name": [
         "BWK-VHZ380-O",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-21",
+    "@cim:DateAndOrTime.date": "2026-01-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

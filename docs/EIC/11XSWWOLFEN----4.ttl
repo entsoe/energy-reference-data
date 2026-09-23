@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWWOLFEN----4" ;
     cim:IdentifiedObject.name "envia Mitteldeutsche Energie AG" ;
-    cim:Names.name "Balance Group",
-        "DE813427980",
-        "ENVIAM_VER_SWWOL" ;
+    cim:Names.name "DE813427980",
+        "ENVIAM_VER_SWWOL",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWWOLFEN----4" ;
     schema1:vatID "DE813427980" ;
     skos:altLabel "ENVIAM_VER_SWWOL" ;

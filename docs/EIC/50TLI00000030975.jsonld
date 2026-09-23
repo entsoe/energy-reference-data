@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000030975",
-    "@skos:prefLabel": "M 132 Kvenndalsfjellet-Harbaksfjellet",
-    "@skos:altLabel": "NO-KVENNDALHARBA",
+    "@skos:prefLabel": "N 132 Kvenndalsfjellet-Harbaksfjellet",
+    "@skos:altLabel": "NO-132KVENNDALHA",
     "@cim:IdentifiedObject.mRID": "50TLI00000030975",
-    "@cim:IdentifiedObject.name": "M 132 Kvenndalsfjellet-Harbaksfjellet",
+    "@cim:IdentifiedObject.name": "N 132 Kvenndalsfjellet-Harbaksfjellet",
     "@cim:Names.name": [
-        "NO-KVENNDALHARBA",
+        "NO-132KVENNDALHA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

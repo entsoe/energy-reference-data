@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001518S" ;
     cim:IdentifiedObject.name "Befring" ;
-    cim:Names.name "NO-BEFRING_PL",
+    cim:Names.name "NO-BEFRING",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001518S" ;
-    skos:altLabel "NO-BEFRING_PL" ;
+    skos:altLabel "NO-BEFRING" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Befring" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

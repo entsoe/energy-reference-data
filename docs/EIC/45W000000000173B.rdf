@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45W000000000173B</dcterms:identifier>
     <skos:prefLabel>Vesterhav Syd</skos:prefLabel>
-    <skos:altLabel>DK_VHS</skos:altLabel>
+    <skos:altLabel>DK_VHS_PU</skos:altLabel>
     <cim:IdentifiedObject.mRID>45W000000000173B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Vesterhav Syd</cim:IdentifiedObject.name>
-    <cim:Names.name>DK_VHS</cim:Names.name>
+    <cim:Names.name>DK_VHS_PU</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-03-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-29</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

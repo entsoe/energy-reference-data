@@ -7,15 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-08-03" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-09-17" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "NETWORK SERVICES MANAGEMENT" ;
     cim:IdentifiedObject.mRID "29X10001000100DL" ;
     cim:IdentifiedObject.name "ΒΟΩΤΗΣ ΑΝΑΝΕΩΣΙΜΕΣ ΠΗΓΕΣ ΕΝΕΡΓΕΙΑΣ ΑΕ" ;
-    cim:Names.name "A0017056E.GR",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
         "EL998697993",
-        "Production Responsible party",
+        "Production Responsible Party",
         "Trade Responsible Party",
         "WOOTIS" ;
     dcterms:identifier "urn:eic:29X10001000100DL" ;

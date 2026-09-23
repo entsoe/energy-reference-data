@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMAGNA-POWER-Y" ;
     cim:IdentifiedObject.name "MAGNA POWER Ltd." ;
-    cim:Names.name "Balance Group",
-        "MAGNA_POWER" ;
+    cim:Names.name "MAGNA_POWER",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMAGNA-POWER-Y" ;
     skos:altLabel "MAGNA_POWER" ;
     skos:definition "Balance Group"@en ;

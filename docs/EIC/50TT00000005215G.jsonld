@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005215G",
-    "@skos:prefLabel": "S Leirdøla T3 Transformator",
-    "@skos:altLabel": "NO-LEIRDOLAT3",
+    "@skos:prefLabel": "S Fonndøla T3 Transformator",
+    "@skos:altLabel": "NO-FONNDOLAT3",
     "@cim:IdentifiedObject.mRID": "50TT00000005215G",
-    "@cim:IdentifiedObject.name": "S Leirdøla T3 Transformator",
+    "@cim:IdentifiedObject.name": "S Fonndøla T3 Transformator",
     "@cim:Names.name": [
-        "NO-LEIRDOLAT3",
+        "NO-FONNDOLAT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

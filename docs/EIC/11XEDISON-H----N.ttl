@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Produktion, Verkauf, Handel Mit Elektrischer Energie." ;
     cim:IdentifiedObject.mRID "11XEDISON-H----N" ;
     cim:IdentifiedObject.name "Edison Energia S.p.A." ;
-    cim:Names.name "DE813409000",
-        "EDISON_H",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE813409000",
+        "EDISON_H" ;
     dcterms:identifier "urn:eic:11XEDISON-H----N" ;
     schema1:vatID "DE813409000" ;
     skos:altLabel "EDISON_H" ;

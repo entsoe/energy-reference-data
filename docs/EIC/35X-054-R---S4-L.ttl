@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-054-R---S4-L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-054-R---S4-L" ;
+    cim:IdentifiedObject.name "R-SOLAR DOO" ;
+    cim:Names.name "03487547",
+        "Producer",
+        "Production Responsible Party",
+        "R_SOLAR" ;
+    dcterms:identifier "urn:eic:35X-054-R---S4-L" ;
+    schema1:vatID "03487547" ;
+    skos:altLabel "R_SOLAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "R-SOLAR DOO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

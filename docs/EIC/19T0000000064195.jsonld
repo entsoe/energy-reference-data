@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000064195",
-    "@skos:prefLabel": "Plewiska-Leszno Gronowo",
+    "@skos:prefLabel": "220kV Leszno-Plewiska",
     "@skos:altLabel": "4213",
     "@cim:IdentifiedObject.mRID": "19T0000000064195",
-    "@cim:IdentifiedObject.name": "Plewiska-Leszno Gronowo",
+    "@cim:IdentifiedObject.name": "220kV Leszno-Plewiska",
     "@cim:Names.name": [
         "4213",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

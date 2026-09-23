@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "30XROCETGOVORA-M" ;
     cim:IdentifiedObject.name "CET GOVORA SA" ;
-    cim:Names.name "RO10102377",
+    cim:Names.name "Balance Responsible Party",
+        "RO10102377",
         "RO_GOVORA",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:30XROCETGOVORA-M" ;
     schema1:vatID "RO10102377" ;
     skos:altLabel "RO_GOVORA" ;

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Brp" ;
     cim:IdentifiedObject.mRID "30XROTOMIS-----V" ;
     cim:IdentifiedObject.name "SC TOMIS ENERGY SRL" ;
-    cim:Names.name "ROTOMIS",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "RO18621965",
+        "ROTOMIS" ;
     dcterms:identifier "urn:eic:30XROTOMIS-----V" ;
+    schema1:vatID "RO18621965" ;
     skos:altLabel "ROTOMIS" ;
     skos:definition "Brp"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,19 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W0000000000532",
-    "@skos:prefLabel": "UGS Epe-L-RWEGSW",
-    "@skos:altLabel": "EPE-L-RWEGSW",
+    "@skos:prefLabel": "UGS Epe DE RWEGSW",
+    "@skos:altLabel": "EPE-DE-RWEGSW",
     "@cim:IdentifiedObject.mRID": "21W0000000000532",
-    "@cim:IdentifiedObject.name": "UGS Epe-L-RWEGSW",
+    "@cim:IdentifiedObject.name": "UGS Epe DE RWEGSW",
     "@cim:Names.name": [
-        "EPE-L-RWEGSW",
-        "Storage Plant",
-        "Gas Storage Facility",
-        "Resource Object"
+        "EPE-DE-RWEGSW",
+        "Gas Storage Facility"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-08-17",
+    "@cim:DateAndOrTime.date": "2026-04-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

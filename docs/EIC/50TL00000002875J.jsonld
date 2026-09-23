@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002875J",
-    "@skos:prefLabel": "M 66 Moholt-Buran",
-    "@skos:altLabel": "NO-MOHOLTBURAN",
+    "@skos:prefLabel": "N 66 Moholt-Buran",
+    "@skos:altLabel": "NO-66MOHOLTBURAN",
     "@cim:IdentifiedObject.mRID": "50TL00000002875J",
-    "@cim:IdentifiedObject.name": "M 66 Moholt-Buran",
+    "@cim:IdentifiedObject.name": "N 66 Moholt-Buran",
     "@cim:Names.name": [
-        "NO-MOHOLTBURAN",
+        "NO-66MOHOLTBURAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

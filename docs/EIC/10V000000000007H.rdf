@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:10V000000000007H</dcterms:identifier>
     <skos:prefLabel>Central Clearing System for Reserves Tender Platform</skos:prefLabel>
     <skos:altLabel>CCS_RL</skos:altLabel>
-    <skos:definition xml:lang="en">It-System</skos:definition>
     <cim:IdentifiedObject.mRID>10V000000000007H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Central Clearing System for Reserves Tender Platform</cim:IdentifiedObject.name>
     <cim:Names.name>CCS_RL</cim:Names.name>
-    <cim:IdentifiedObject.description>It-System</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-01-28</cim:DateAndOrTime.date>
-    <cim:Names.name>It-System</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-12</cim:DateAndOrTime.date>
+    <cim:Names.name>IT-system</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

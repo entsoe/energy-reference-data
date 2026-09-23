@@ -6,15 +6,15 @@
     <dcterms:identifier>urn:eic:21Z000000000474A</dcterms:identifier>
     <skos:prefLabel>Melendugno</skos:prefLabel>
     <skos:altLabel>MELEND-TAP-SRG</skos:altLabel>
-    <skos:definition xml:lang="en">Interconnection Point</skos:definition>
+    <skos:definition xml:lang="en">Interconnection Point.  Connection point function manually updated from the ENTSOG LIO</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000474A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Melendugno</cim:IdentifiedObject.name>
     <cim:Names.name>MELEND-TAP-SRG</cim:Names.name>
-    <cim:IdentifiedObject.description>Interconnection Point</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Interconnection Point.  Connection point function manually updated from the ENTSOG LIO</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

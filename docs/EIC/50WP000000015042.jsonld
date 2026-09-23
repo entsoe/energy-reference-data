@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000015042",
     "@skos:prefLabel": "Hustveit",
-    "@skos:altLabel": "NO-HUSTVEIT_PL",
+    "@skos:altLabel": "NO-HUSTVEIT",
     "@cim:IdentifiedObject.mRID": "50WP000000015042",
     "@cim:IdentifiedObject.name": "Hustveit",
     "@cim:Names.name": [
-        "NO-HUSTVEIT_PL",
+        "NO-HUSTVEIT",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

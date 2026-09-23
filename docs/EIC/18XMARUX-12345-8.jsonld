@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMARUX-12345-8",
     "@skos:prefLabel": "CASIMIRO HERNANDEZ E HIJOS LA MARUXIÑA, S.A.",
     "@skos:altLabel": "MARUX",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMARUX-12345-8",
     "@cim:IdentifiedObject.name": "CASIMIRO HERNANDEZ E HIJOS LA MARUXIÑA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28646735",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-09-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28646735",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

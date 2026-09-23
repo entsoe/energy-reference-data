@@ -54,8 +54,8 @@
 <http://energy.referencedata.eu/StandardEicTypeList> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "ET0028" ;
-    dcterms:modified "2023-12-14" ;
+    dcterms:modified "2026-06-04" ;
     skos:definition "The coded identification of the type of an EIC code."@en ;
     skos:prefLabel "StandardEicTypeList" ;
-    dcat:version "91" .
+    dcat:version "95" .
 

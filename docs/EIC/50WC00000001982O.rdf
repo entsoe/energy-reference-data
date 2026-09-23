@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000001982O</dcterms:identifier>
-    <skos:prefLabel>N Fygle    2   LARM Last</skos:prefLabel>
-    <skos:altLabel>NO-FYGLE2</skos:altLabel>
+    <skos:prefLabel>N BP Fygle 2   1L1 Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-BP_FYGLE2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000001982O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>N Fygle    2   LARM Last</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-FYGLE2</cim:Names.name>
+    <cim:IdentifiedObject.name>N BP Fygle 2   1L1 Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-BP_FYGLE2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

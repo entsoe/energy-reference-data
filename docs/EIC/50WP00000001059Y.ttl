@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001059Y" ;
     cim:IdentifiedObject.name "Fjellet" ;
-    cim:Names.name "NO-FJELLET_PL",
+    cim:Names.name "NO-FJELLET",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001059Y" ;
-    skos:altLabel "NO-FJELLET_PL" ;
+    skos:altLabel "NO-FJELLET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fjellet" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

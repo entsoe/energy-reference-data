@@ -12,24 +12,26 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:24X-BUKOZA-ENERE",
-    "@skos:prefLabel": "BUKOZA ENERGO, a.s.",
-    "@skos:altLabel": "BE-SK",
+    "@skos:prefLabel": "BUKOCEL, a.s.",
+    "@skos:altLabel": "BUKOCEL-SK",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "24X-BUKOZA-ENERE",
-    "@cim:IdentifiedObject.name": "BUKOZA ENERGO, a.s.",
+    "@cim:IdentifiedObject.name": "BUKOCEL, a.s.",
     "@cim:Names.name": [
-        "BE-SK",
-        "SK2022491471",
+        "BUKOCEL-SK",
+        "SK7020000966",
+        "Energy Supplier",
+        "Producer",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-11-24",
-    "@schema:vatID": "SK2022491471",
+    "@cim:DateAndOrTime.date": "2024-01-03",
+    "@schema:vatID": "SK7020000966",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

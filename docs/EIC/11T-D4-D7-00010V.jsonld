@@ -16,7 +16,10 @@
     "@skos:altLabel": "TIENGNN",
     "@cim:IdentifiedObject.mRID": "11T-D4-D7-00010V",
     "@cim:IdentifiedObject.name": "AMP-TNG/380/Herbertingen-Tiengen/rt-Tiengen N  / Tiengen Nord",
-    "@cim:Names.name": "TIENGNN",
+    "@cim:Names.name": [
+        "TIENGNN",
+        "Internal Tie-Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Z-IRL-FR-00023> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Measuring point of CELTIC at Knockraha" ;
+    cim:IdentifiedObject.mRID "10Z-IRL-FR-00023" ;
+    cim:IdentifiedObject.name "CELTIC Knockraha" ;
+    cim:Names.name "Accounting Point",
+        "M_KRA-MARTY_IRL" ;
+    dcterms:identifier "urn:eic:10Z-IRL-FR-00023" ;
+    skos:altLabel "M_KRA-MARTY_IRL" ;
+    skos:definition "Measuring point of CELTIC at Knockraha"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CELTIC Knockraha" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

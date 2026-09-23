@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPINTA-12345-N",
     "@skos:prefLabel": "AGROPINTADO HERMANOS S.L.",
     "@skos:altLabel": "PINTA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPINTA-12345-N",
     "@cim:IdentifiedObject.name": "AGROPINTADO HERMANOS S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB30708515",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-05-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB30708515",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

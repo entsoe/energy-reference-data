@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021938" ;
-    cim:IdentifiedObject.name "S 66 Svøo-Hollemoen" ;
+    cim:IdentifiedObject.name "S 66 Svøo-T_Hollemoen" ;
     cim:Names.name "Internal Line",
-        "NO-SVOOHOLLEMOEN" ;
+        "NO-66SVOOT_HOLLE" ;
     dcterms:identifier "urn:eic:50TL000000021938" ;
-    skos:altLabel "NO-SVOOHOLLEMOEN" ;
+    skos:altLabel "NO-66SVOOT_HOLLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Svøo-Hollemoen" ;
+    skos:prefLabel "S 66 Svøo-T_Hollemoen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001023O",
-    "@skos:prefLabel": "MATRE   G102 HYDRO",
-    "@skos:altLabel": "NO-MATRE___G102_",
+    "@skos:prefLabel": "DALELVA G102 HYDRO",
+    "@skos:altLabel": "NO-DALELVAG102",
     "@cim:IdentifiedObject.mRID": "50WG00000001023O",
-    "@cim:IdentifiedObject.name": "MATRE   G102 HYDRO",
+    "@cim:IdentifiedObject.name": "DALELVA G102 HYDRO",
     "@cim:Names.name": [
-        "NO-MATRE___G102_",
+        "NO-DALELVAG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

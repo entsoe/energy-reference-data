@@ -16,7 +16,10 @@
     "@skos:altLabel": "RHEINAU-412",
     "@cim:IdentifiedObject.mRID": "11T0-0000-1338-8",
     "@cim:IdentifiedObject.name": "AMP / 380kV / Rheinau / Trafo 412",
-    "@cim:Names.name": "RHEINAU-412",
+    "@cim:Names.name": [
+        "RHEINAU-412",
+        "Transformer"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

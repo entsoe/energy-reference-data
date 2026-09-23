@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000890X",
-    "@skos:prefLabel": "M 22 Liabø-Valsøyfjord",
-    "@skos:altLabel": "NO-LIABOVALSOYFJ",
+    "@skos:prefLabel": "N 22 Liabø-Valsøyfjord",
+    "@skos:altLabel": "NO-22LIABOVALSOY",
     "@cim:IdentifiedObject.mRID": "50TL00000000890X",
-    "@cim:IdentifiedObject.name": "M 22 Liabø-Valsøyfjord",
+    "@cim:IdentifiedObject.name": "N 22 Liabø-Valsøyfjord",
     "@cim:Names.name": [
-        "NO-LIABOVALSOYFJ",
+        "NO-22LIABOVALSOY",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

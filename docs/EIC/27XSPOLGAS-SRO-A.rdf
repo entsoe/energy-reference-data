@@ -9,12 +9,12 @@
     <cim:IdentifiedObject.mRID>27XSPOLGAS-SRO-A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SPOLGAS s.r.o.</cim:IdentifiedObject.name>
     <cim:Names.name>SPOLGAS</cim:Names.name>
-    <cim:Names.name>CZ25456482</cim:Names.name>
+    <cim:Names.name>cz25456482</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-03-06</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>CZ25456482</schema:vatID>
+    <schema:vatID>cz25456482</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

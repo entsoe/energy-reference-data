@@ -1,0 +1,30 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--251117--V-6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """VAT number confirmed by the Certificate VAT Filer of the Tax Administration of Kosovo: 330288309
+Company Registration Number confirmed by the Certificate of Registration: 811159963
+""" ;
+    cim:IdentifiedObject.mRID "23X--251117--V-6" ;
+    cim:IdentifiedObject.name "VBS LLC" ;
+    cim:Names.name "330288309",
+        "Capacity Trader",
+        "Producer",
+        "VBS_XK" ;
+    dcterms:identifier "urn:eic:23X--251117--V-6" ;
+    schema1:vatID "330288309" ;
+    skos:altLabel "VBS_XK" ;
+    skos:definition """VAT number confirmed by the Certificate VAT Filer of the Tax Administration of Kosovo: 330288309
+Company Registration Number confirmed by the Certificate of Registration: 811159963
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VBS LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/11W0-0000-0942-U",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:11W0-0000-0942-U",
+    "@skos:prefLabel": "Batteriespeicher am DHE Dinslaken",
+    "@skos:altLabel": "SP-DIN-DHE",
+    "@cim:IdentifiedObject.mRID": "11W0-0000-0942-U",
+    "@cim:IdentifiedObject.name": "Batteriespeicher am DHE Dinslaken",
+    "@cim:Names.name": [
+        "SP-DIN-DHE",
+        "BESS"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-17",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

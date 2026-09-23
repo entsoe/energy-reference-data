@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000068086",
-    "@skos:prefLabel": "Piła Krzewina-Żydowo Kierzkowo",
+    "@skos:prefLabel": "220kV Pila Krzewina-Zydowo Kierzkowo",
     "@skos:altLabel": "219_PL",
     "@cim:IdentifiedObject.mRID": "19T1100000068086",
-    "@cim:IdentifiedObject.name": "Piła Krzewina-Żydowo Kierzkowo",
+    "@cim:IdentifiedObject.name": "220kV Pila Krzewina-Zydowo Kierzkowo",
     "@cim:Names.name": [
         "219_PL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

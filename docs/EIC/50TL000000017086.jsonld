@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000017086",
-    "@skos:prefLabel": "S 66 Dalane-Lindland",
-    "@skos:altLabel": "NO-DALANELINDLAN",
+    "@skos:prefLabel": "S 66 Sandbekk-Lindland",
+    "@skos:altLabel": "NO-66SANDBEKKLIN",
     "@cim:IdentifiedObject.mRID": "50TL000000017086",
-    "@cim:IdentifiedObject.name": "S 66 Dalane-Lindland",
+    "@cim:IdentifiedObject.name": "S 66 Sandbekk-Lindland",
     "@cim:Names.name": [
-        "NO-DALANELINDLAN",
+        "NO-66SANDBEKKLIN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

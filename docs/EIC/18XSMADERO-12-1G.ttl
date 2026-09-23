@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-20" ;
+    cim:DateAndOrTime.date "2026-08-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XSMADERO-12-1G" ;
     cim:IdentifiedObject.name "PARQUE EÓLICO SIERRA DEL MADERO, S.A." ;
     cim:Names.name "ESA42146092",
-        "Production Responsible party",
+        "Production Responsible Party",
         "SIEM" ;
     dcterms:identifier "urn:eic:18XSMADERO-12-1G" ;
     schema1:vatID "ESA42146092" ;
     skos:altLabel "SIEM" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PARQUE EÓLICO SIERRA DEL MADERO, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

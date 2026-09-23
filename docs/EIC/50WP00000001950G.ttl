@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001950G" ;
     cim:IdentifiedObject.name "Fausa G3" ;
-    cim:Names.name "NO-FAUSA_G3",
+    cim:Names.name "NO-FAUSAG3",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001950G" ;
-    skos:altLabel "NO-FAUSA_G3" ;
+    skos:altLabel "NO-FAUSAG3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fausa G3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

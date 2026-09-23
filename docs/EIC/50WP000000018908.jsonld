@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000018908",
     "@skos:prefLabel": "Litlevikjo Mini",
-    "@skos:altLabel": "NO-LITLEVIKJO_MI",
+    "@skos:altLabel": "NO-LITLEVIKJOMIN",
     "@cim:IdentifiedObject.mRID": "50WP000000018908",
     "@cim:IdentifiedObject.name": "Litlevikjo Mini",
     "@cim:Names.name": [
-        "NO-LITLEVIKJO_MI",
+        "NO-LITLEVIKJOMIN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

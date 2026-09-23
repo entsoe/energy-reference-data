@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000980I" ;
-    cim:IdentifiedObject.name "LINNVASSG1      HYDRO" ;
+    cim:IdentifiedObject.name "LINNVASSG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LINNVASSG1___" ;
+        "NO-LINNVASSG2" ;
     dcterms:identifier "urn:eic:50WG00000000980I" ;
-    skos:altLabel "NO-LINNVASSG1___" ;
+    skos:altLabel "NO-LINNVASSG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LINNVASSG1      HYDRO" ;
+    skos:prefLabel "LINNVASSG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

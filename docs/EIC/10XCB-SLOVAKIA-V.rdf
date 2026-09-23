@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>10XCB-SLOVAKIA-V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Slovenska elektrizacna prenosova sustava, a.s.</cim:IdentifiedObject.name>
     <cim:Names.name>CB-SLOVAKIA</cim:Names.name>
+    <cim:Names.name>SK2020261342</cim:Names.name>
     <cim:IdentifiedObject.description>Control Block</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-05-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Control Block</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-25</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>SK2020261342</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

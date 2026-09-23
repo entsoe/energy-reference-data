@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001408J",
-    "@skos:prefLabel": "M Thamshav 22  L1 Industri",
-    "@skos:altLabel": "NO-THAMSHAM22NC",
+    "@skos:prefLabel": "N Thamshav 22  L1 Industri",
+    "@skos:altLabel": "NO-THAMSHAV22T1N",
     "@cim:IdentifiedObject.mRID": "50WC00000001408J",
-    "@cim:IdentifiedObject.name": "M Thamshav 22  L1 Industri",
+    "@cim:IdentifiedObject.name": "N Thamshav 22  L1 Industri",
     "@cim:Names.name": [
-        "NO-THAMSHAM22NC",
+        "NO-THAMSHAV22T1N",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

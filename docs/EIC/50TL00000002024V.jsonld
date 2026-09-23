@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002024V",
-    "@skos:prefLabel": "N 66 Kautokeino-Nordreisa",
-    "@skos:altLabel": "NO-NORDREISAKAUT",
+    "@skos:prefLabel": "N 66 T_Reisavann-Nordreisa",
+    "@skos:altLabel": "NO-66T_REISAVANN",
     "@cim:IdentifiedObject.mRID": "50TL00000002024V",
-    "@cim:IdentifiedObject.name": "N 66 Kautokeino-Nordreisa",
+    "@cim:IdentifiedObject.name": "N 66 T_Reisavann-Nordreisa",
     "@cim:Names.name": [
-        "NO-NORDREISAKAUT",
+        "NO-66T_REISAVANN",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-09-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000585O",
-    "@skos:prefLabel": "HAFSL_KRG4      HYDRO",
-    "@skos:altLabel": "NO-HAFSL_KRG4___",
+    "@skos:prefLabel": "HAFSLUNDG4      HYDRO",
+    "@skos:altLabel": "NO-HAFSLUNDG4",
     "@cim:IdentifiedObject.mRID": "50WG00000000585O",
-    "@cim:IdentifiedObject.name": "HAFSL_KRG4      HYDRO",
+    "@cim:IdentifiedObject.name": "HAFSLUNDG4      HYDRO",
     "@cim:Names.name": [
-        "NO-HAFSL_KRG4___",
+        "NO-HAFSLUNDG4",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000094K" ;
     cim:IdentifiedObject.name "S 132 Akland-Holt" ;
     cim:Names.name "Internal Line",
-        "NO-AKLANDHOLT" ;
+        "NO-132AKLANDHOLT" ;
     dcterms:identifier "urn:eic:50TL00000000094K" ;
-    skos:altLabel "NO-AKLANDHOLT" ;
+    skos:altLabel "NO-132AKLANDHOLT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Akland-Holt" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

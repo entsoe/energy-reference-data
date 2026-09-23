@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSAMA-123456-6",
     "@skos:prefLabel": "COMERCIAL SAMA, S.A.",
     "@skos:altLabel": "SAMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSAMA-123456-6",
     "@cim:IdentifiedObject.name": "COMERCIAL SAMA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28077287",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28077287",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

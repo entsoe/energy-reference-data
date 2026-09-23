@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26W-2127658ROSA6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26W-2127658ROSA6" ;
+    cim:IdentifiedObject.name "IM_2127658UP_ROSAMARINA_1" ;
+    cim:Names.name "2127658_40276",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:26W-2127658ROSA6" ;
+    skos:altLabel "2127658_40276" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "IM_2127658UP_ROSAMARINA_1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

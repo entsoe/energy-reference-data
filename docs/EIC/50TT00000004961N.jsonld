@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004961N",
-    "@skos:prefLabel": "M Haugen   T2 Transformator",
-    "@skos:altLabel": "NO-HAUGEN__T2",
+    "@skos:prefLabel": "N Haugen   T2 Transformator",
+    "@skos:altLabel": "NO-HAUGENT2",
     "@cim:IdentifiedObject.mRID": "50TT00000004961N",
-    "@cim:IdentifiedObject.name": "M Haugen   T2 Transformator",
+    "@cim:IdentifiedObject.name": "N Haugen   T2 Transformator",
     "@cim:Names.name": [
-        "NO-HAUGEN__T2",
+        "NO-HAUGENT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

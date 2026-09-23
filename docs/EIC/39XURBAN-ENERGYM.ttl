@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XURBAN-ENERGYM> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XURBAN-ENERGYM" ;
+    cim:IdentifiedObject.name "Urban Energy Zrt." ;
+    cim:Names.name "HU32667332",
+        "Trade Responsible Party",
+        "URBAN_ENERGY" ;
+    dcterms:identifier "urn:eic:39XURBAN-ENERGYM" ;
+    schema1:vatID "HU32667332" ;
+    skos:altLabel "URBAN_ENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Urban Energy Zrt." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

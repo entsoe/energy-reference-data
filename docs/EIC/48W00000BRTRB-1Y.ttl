@@ -1,0 +1,41 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000BRTRB-1Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Alexander House  
+1 Mandarin Road
+Rainton Bridge Business Park 
+Sunderland, DH4 5RA
+Tom Reynolds
+tom.reynolds@edf-re.uk 
+EDFERAssetManagement@edf-re.uk 
+jerry.morris@edf-re.uk
+Generation Unit
+""" ;
+    cim:IdentifiedObject.mRID "48W00000BRTRB-1Y" ;
+    cim:IdentifiedObject.name "BRAINTREE BESS" ;
+    cim:Names.name "BRTRB-1",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W00000BRTRB-1Y" ;
+    skos:altLabel "BRTRB-1" ;
+    skos:definition """Alexander House  
+1 Mandarin Road
+Rainton Bridge Business Park 
+Sunderland, DH4 5RA
+Tom Reynolds
+tom.reynolds@edf-re.uk 
+EDFERAssetManagement@edf-re.uk 
+jerry.morris@edf-re.uk
+Generation Unit
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BRAINTREE BESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

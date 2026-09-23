@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240709-P--1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company registration number confirmed by the official document of Greek Chamber of Commerce: 059163004000" ;
+    cim:IdentifiedObject.mRID "23X--240709-P--1" ;
+    cim:IdentifiedObject.name "PROMETHAN SA METHAN DISTRIBUTION STATIONS" ;
+    cim:Names.name "EL997993041",
+        "LNG System Operator",
+        "Network User",
+        "PROMETHAN_MDS",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--240709-P--1" ;
+    schema1:vatID "EL997993041" ;
+    skos:altLabel "PROMETHAN_MDS" ;
+    skos:definition "Company registration number confirmed by the official document of Greek Chamber of Commerce: 059163004000"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PROMETHAN SA METHAN DISTRIBUTION STATIONS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

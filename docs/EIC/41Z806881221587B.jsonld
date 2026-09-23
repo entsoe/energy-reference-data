@@ -16,10 +16,13 @@
     "@skos:altLabel": "806881221587",
     "@cim:IdentifiedObject.mRID": "41Z806881221587B",
     "@cim:IdentifiedObject.name": "UAB Geotyrimų centras",
-    "@cim:Names.name": "806881221587",
+    "@cim:Names.name": [
+        "806881221587",
+        "Accounting Point"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-12-08",
+    "@cim:DateAndOrTime.date": "2025-01-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

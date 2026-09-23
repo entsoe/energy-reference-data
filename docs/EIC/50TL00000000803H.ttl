@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000803H" ;
-    cim:IdentifiedObject.name "M 22 Åmela-Steinsvik" ;
+    cim:IdentifiedObject.name "N 22 Åmela-Steinsvik" ;
     cim:Names.name "Internal Line",
-        "NO-AMELASTEINSVI" ;
+        "NO-22AMELASTEINS" ;
     dcterms:identifier "urn:eic:50TL00000000803H" ;
-    skos:altLabel "NO-AMELASTEINSVI" ;
+    skos:altLabel "NO-22AMELASTEINS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Åmela-Steinsvik" ;
+    skos:prefLabel "N 22 Åmela-Steinsvik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

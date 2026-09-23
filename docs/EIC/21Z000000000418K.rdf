@@ -4,17 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000418K</dcterms:identifier>
-    <skos:prefLabel>&#922;&#927;&#922;&#922;&#921;&#925;&#913;</skos:prefLabel>
+    <skos:prefLabel>KOKKINA</skos:prefLabel>
     <skos:altLabel>KOKKINA-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection With The Distribution System</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000418K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>&#922;&#927;&#922;&#922;&#921;&#925;&#913;</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>KOKKINA</cim:IdentifiedObject.name>
     <cim:Names.name>KOKKINA-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection With The Distribution System</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

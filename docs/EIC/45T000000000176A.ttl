@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "45T000000000176A" ;
     cim:IdentifiedObject.name "150kV Knabberup Landerupgård" ;
-    cim:Names.name "KNA_150I_LAG" ;
+    cim:Names.name "Internal Line",
+        "KNA_150I_LAG" ;
     dcterms:identifier "urn:eic:45T000000000176A" ;
     skos:altLabel "KNA_150I_LAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

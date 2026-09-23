@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-06-27" ;
+    cim:DateAndOrTime.date "2024-03-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "24X-ERUTRADING-O" ;
     cim:IdentifiedObject.name "LIMITED LIABILITY COMPANY ERU TRADING" ;
-    cim:Names.name "10000000216478",
+    cim:Names.name "403713226567",
         "ERUTRADING",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-ERUTRADING-O" ;
-    schema1:vatID "10000000216478" ;
+    schema1:vatID "403713226567" ;
     skos:altLabel "ERUTRADING" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

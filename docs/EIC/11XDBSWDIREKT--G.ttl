@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XDBSWDIREKT--G" ;
     cim:IdentifiedObject.name "Just Energy Deutschland GmbH" ;
-    cim:Names.name "DBSWDIREKT",
-        "DE292196973",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DBSWDIREKT",
+        "DE292196973" ;
     dcterms:identifier "urn:eic:11XDBSWDIREKT--G" ;
     schema1:vatID "DE292196973" ;
     skos:altLabel "DBSWDIREKT" ;

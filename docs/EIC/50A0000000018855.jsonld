@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A0000000018855",
-    "@skos:prefLabel": "Støls.Krv",
-    "@skos:altLabel": "NO-STOLS_KR",
+    "@skos:prefLabel": "Støl.elva",
+    "@skos:altLabel": "NO-STOLSDEL",
     "@cim:IdentifiedObject.mRID": "50A0000000018855",
-    "@cim:IdentifiedObject.name": "Støls.Krv",
+    "@cim:IdentifiedObject.name": "Støl.elva",
     "@cim:Names.name": [
-        "NO-STOLS_KR",
+        "NO-STOLSDEL",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

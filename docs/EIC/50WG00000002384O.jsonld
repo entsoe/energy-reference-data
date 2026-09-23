@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002384O",
     "@skos:prefLabel": "MYKLEBUSG101 HYDRO",
-    "@skos:altLabel": "NO-MYKLEBUSG101_",
+    "@skos:altLabel": "NO-MYKLEBUSG101",
     "@cim:IdentifiedObject.mRID": "50WG00000002384O",
     "@cim:IdentifiedObject.name": "MYKLEBUSG101 HYDRO",
     "@cim:Names.name": [
-        "NO-MYKLEBUSG101_",
+        "NO-MYKLEBUSG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

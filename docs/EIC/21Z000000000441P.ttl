@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-02" ;
+    cim:DateAndOrTime.date "2024-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000441P" ;
-    cim:IdentifiedObject.name "ALOUMINION II" ;
-    cim:Names.name "ALOUMINION-II-GR",
-        "Connection Point" ;
+    cim:IdentifiedObject.name "ALOYMINION II" ;
+    cim:Names.name "ALOYMINION-II-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000441P" ;
-    skos:altLabel "ALOUMINION-II-GR" ;
+    skos:altLabel "ALOYMINION-II-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ALOUMINION II" ;
+    skos:prefLabel "ALOYMINION II" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

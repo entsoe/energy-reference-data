@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "SC TOMIS ENERGY SRL",
     "@cim:Names.name": [
         "ROTOMIS",
-        "Valid EIC Function needed"
+        "RO18621965",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Brp",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-04",
+    "@schema:vatID": "RO18621965",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

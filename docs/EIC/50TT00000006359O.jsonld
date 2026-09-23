@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000006359O",
     "@skos:prefLabel": "S Klyve2   T1 Transformator",
-    "@skos:altLabel": "NO-KLYVE2__T1",
+    "@skos:altLabel": "NO-KLYVE2T1",
     "@cim:IdentifiedObject.mRID": "50TT00000006359O",
     "@cim:IdentifiedObject.name": "S Klyve2   T1 Transformator",
     "@cim:Names.name": [
-        "NO-KLYVE2__T1",
+        "NO-KLYVE2T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

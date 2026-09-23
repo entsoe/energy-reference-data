@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002784M",
-    "@skos:prefLabel": "M 22 Embla-Stadheim",
-    "@skos:altLabel": "NO-EMBLASTADHEIM",
+    "@skos:prefLabel": "N 22 Tomasgard-Stadheim",
+    "@skos:altLabel": "NO-22TOMASGARDST",
     "@cim:IdentifiedObject.mRID": "50TL00000002784M",
-    "@cim:IdentifiedObject.name": "M 22 Embla-Stadheim",
+    "@cim:IdentifiedObject.name": "N 22 Tomasgard-Stadheim",
     "@cim:Names.name": [
-        "NO-EMBLASTADHEIM",
+        "NO-22TOMASGARDST",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

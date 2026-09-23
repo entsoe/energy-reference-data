@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XEEP-1234567-I",
     "@skos:prefLabel": "ENDESA ENERGIA, PORTUGAL",
     "@skos:altLabel": "ENDP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Function Missing"
-    },
     "@cim:IdentifiedObject.mRID": "18XEEP-1234567-I",
     "@cim:IdentifiedObject.name": "ENDESA ENERGIA, PORTUGAL",
     "@cim:Names.name": [
         "ENDP",
         "PT980245974",
-        "Valid EIC Function needed"
+        "Producer"
     ],
-    "@cim:IdentifiedObject.description": "Function Missing",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "PT980245974",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-30" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000000206-B" ;
     cim:IdentifiedObject.name "SBB Vernayaz" ;
-    cim:Names.name "Generation Unit",
+    cim:Names.name "Production Unit",
         "SBB-VERNAYAZ-AS" ;
     dcterms:identifier "urn:eic:12W-0000000206-B" ;
     skos:altLabel "SBB-VERNAYAZ-AS" ;
-    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SBB Vernayaz" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

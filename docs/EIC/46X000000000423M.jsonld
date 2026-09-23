@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46X000000000423M",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46X000000000423M",
+    "@skos:prefLabel": "Berry Energi AB",
+    "@skos:altLabel": "BERRY_ENERGI_AB",
+    "@cim:IdentifiedObject.mRID": "46X000000000423M",
+    "@cim:IdentifiedObject.name": "Berry Energi AB",
+    "@cim:Names.name": [
+        "BERRY_ENERGI_AB",
+        "SE559340001201",
+        "Energy Supplier"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-05",
+    "@schema:vatID": "SE559340001201",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

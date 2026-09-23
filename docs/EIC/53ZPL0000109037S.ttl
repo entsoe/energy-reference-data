@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53ZPL0000109037S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53ZPL0000109037S" ;
+    cim:IdentifiedObject.name "Punkt Wyjścia do SYNTHOS" ;
+    cim:Names.name "109037_OSD_STHS",
+        "Connection Point" ;
+    dcterms:identifier "urn:eic:53ZPL0000109037S" ;
+    skos:altLabel "109037_OSD_STHS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Punkt Wyjścia do SYNTHOS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

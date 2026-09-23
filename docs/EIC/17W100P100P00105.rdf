@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:17W100P100P00105</dcterms:identifier>
-    <skos:prefLabel>EMILE HUCHET 7</skos:prefLabel>
+    <skos:prefLabel>SAINT AVOLD 7</skos:prefLabel>
     <skos:altLabel>FR_GA-EHUCT7-G</skos:altLabel>
-    <skos:definition xml:lang="en">Generation Unit</skos:definition>
+    <skos:definition xml:lang="en">Generation Unit Validation CIO</skos:definition>
     <cim:IdentifiedObject.mRID>17W100P100P00105</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EMILE HUCHET 7</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>SAINT AVOLD 7</cim:IdentifiedObject.name>
     <cim:Names.name>FR_GA-EHUCT7-G</cim:Names.name>
-    <cim:IdentifiedObject.description>Generation Unit</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Generation Unit Validation CIO</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-08-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-07</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPCARN-12345-U",
     "@skos:prefLabel": "PROFESIONALES DE LA CARNE S.L",
     "@skos:altLabel": "PCARN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPCARN-12345-U",
     "@cim:IdentifiedObject.name": "PROFESIONALES DE LA CARNE S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB99015349",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-28",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB99015349",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

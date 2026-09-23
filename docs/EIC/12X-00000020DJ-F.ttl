@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020DJ-F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020DJ-F" ;
+    cim:IdentifiedObject.name "Polyxena Energy AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "CHE-439.325.403",
+        "POLYXENA-ST" ;
+    dcterms:identifier "urn:eic:12X-00000020DJ-F" ;
+    schema1:vatID "CHE-439.325.403" ;
+    skos:altLabel "POLYXENA-ST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Polyxena Energy AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

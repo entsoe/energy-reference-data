@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WKUSPARK2KLAIT">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WKUSPARK2KLAIT</dcterms:identifier>
+    <skos:prefLabel>Klaip&#279;da Unlimited Sun (KUS)  PV parkas 2 projektas 11,5MW  PV parkas 2 projektas 11,5MW</skos:prefLabel>
+    <skos:altLabel>KLAIPEDAUNLIM2</skos:altLabel>
+    <skos:definition xml:lang="en">UAB "Elektrum Lietuva" 301506046 LT100003800414       
+Saul&#279;s parkas: Klaip&#279;da Unlimited Sun (KUS) PV parkas 2 projektas 11,5MW   
+ Adresas:  Toleiki&#371; k., Dovil&#371; sen., Klaip&#279;dos r. sav.   
+Koordinat&#279;s: 55.660739, 21.278277 
+Eso objekto nr: 50266903</skos:definition>
+    <cim:IdentifiedObject.mRID>41WKUSPARK2KLAIT</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Klaip&#279;da Unlimited Sun (KUS)  PV parkas 2 projektas 11,5MW  PV parkas 2 projektas 11,5MW</cim:IdentifiedObject.name>
+    <cim:Names.name>KLAIPEDAUNLIM2</cim:Names.name>
+    <cim:IdentifiedObject.description>UAB "Elektrum Lietuva" 301506046 LT100003800414       
+Saul&#279;s parkas: Klaip&#279;da Unlimited Sun (KUS) PV parkas 2 projektas 11,5MW   
+ Adresas:  Toleiki&#371; k., Dovil&#371; sen., Klaip&#279;dos r. sav.   
+Koordinat&#279;s: 55.660739, 21.278277 
+Eso objekto nr: 50266903</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-07-24</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

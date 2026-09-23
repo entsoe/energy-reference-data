@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-01-13" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEWERKEHANIELW" ;
-    cim:IdentifiedObject.name "E-Werke Haniel Haimhausen OHG" ;
-    cim:Names.name "Balance Group",
+    cim:IdentifiedObject.name "E-Werke Haniel Haimhausen GmbH & Co. KG" ;
+    cim:Names.name "Balance Responsible Party",
         "DE203048277",
         "EWERKEHANIEL" ;
     dcterms:identifier "urn:eic:11XEWERKEHANIELW" ;
     schema1:vatID "DE203048277" ;
     skos:altLabel "EWERKEHANIEL" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "E-Werke Haniel Haimhausen OHG" ;
+    skos:prefLabel "E-Werke Haniel Haimhausen GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

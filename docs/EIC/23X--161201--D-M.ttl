@@ -7,18 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-12-01" ;
+    cim:DateAndOrTime.date "2026-06-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "23X--161201--D-M" ;
-    cim:IdentifiedObject.name "PUBLIC GAS CORPORATION OF GREECE (DEPA) S.A." ;
+    cim:IdentifiedObject.name "DEPA COMMERCIAL SINGLE MEMBER SOCIETE ANONYME" ;
     cim:Names.name "A0004373H.GR",
-        "DEPA_SA",
+        "DEPA_C_SMSA",
         "EL094229666",
+        "Energy Supplier",
         "Network User" ;
     dcterms:identifier "urn:eic:23X--161201--D-M" ;
     schema1:vatID "EL094229666" ;
-    skos:altLabel "DEPA_SA" ;
+    skos:altLabel "DEPA_C_SMSA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PUBLIC GAS CORPORATION OF GREECE (DEPA) S.A." ;
+    skos:prefLabel "DEPA COMMERCIAL SINGLE MEMBER SOCIETE ANONYME" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

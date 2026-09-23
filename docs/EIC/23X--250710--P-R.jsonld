@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250710--P-R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250710--P-R",
+    "@skos:prefLabel": "Petraco Oil Company SA",
+    "@skos:altLabel": "PETRACO_OIL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register."
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250710--P-R",
+    "@cim:IdentifiedObject.name": "Petraco Oil Company SA",
+    "@cim:Names.name": [
+        "PETRACO_OIL",
+        "A0020603N.NL",
+        "CHE410059505",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-07-10",
+    "@schema:vatID": "CHE410059505",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -16,7 +16,10 @@
     "@skos:altLabel": "443A",
     "@cim:IdentifiedObject.mRID": "14T-380-0-0443AO",
     "@cim:IdentifiedObject.name": "380kV line Duernr.-Wien Suedost",
-    "@cim:Names.name": "443A",
+    "@cim:Names.name": [
+        "443A",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-11-26",

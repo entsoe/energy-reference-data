@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000433A",
     "@skos:prefLabel": "FLESAKERG110 HYDRO",
-    "@skos:altLabel": "NO-FLESAKERG110_",
+    "@skos:altLabel": "NO-FLESAKERG110",
     "@cim:IdentifiedObject.mRID": "50WG00000000433A",
     "@cim:IdentifiedObject.name": "FLESAKERG110 HYDRO",
     "@cim:Names.name": [
-        "NO-FLESAKERG110_",
+        "NO-FLESAKERG110",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

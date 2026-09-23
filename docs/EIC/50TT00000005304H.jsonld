@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005304H",
-    "@skos:prefLabel": "M Meråker  T2 Transformator",
-    "@skos:altLabel": "NO-MERAKER_T2",
+    "@skos:prefLabel": "N Meråker  T2 Transformator",
+    "@skos:altLabel": "NO-MERAKERT2",
     "@cim:IdentifiedObject.mRID": "50TT00000005304H",
-    "@cim:IdentifiedObject.name": "M Meråker  T2 Transformator",
+    "@cim:IdentifiedObject.name": "N Meråker  T2 Transformator",
     "@cim:Names.name": [
-        "NO-MERAKER_T2",
+        "NO-MERAKERT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

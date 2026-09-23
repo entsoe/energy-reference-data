@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-08" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "41Z0040135920727" ;
     cim:IdentifiedObject.name "UAB EE Emerald Holding" ;
-    cim:Names.name "004013592072" ;
+    cim:Names.name "004013592072",
+        "Accounting Point" ;
     dcterms:identifier "urn:eic:41Z0040135920727" ;
     skos:altLabel "004013592072" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XHOTBU-12345-Q",
     "@skos:prefLabel": "GLOBAL INTERNACIONAL HOTELS BUSINESS, S.A.",
     "@skos:altLabel": "HOTBU",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XHOTBU-12345-Q",
     "@cim:IdentifiedObject.name": "GLOBAL INTERNACIONAL HOTELS BUSINESS, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA41390022",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA41390022",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

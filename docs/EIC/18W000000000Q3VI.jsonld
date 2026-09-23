@@ -16,7 +16,10 @@
     "@skos:altLabel": "ES-ISEOCDC01",
     "@cim:IdentifiedObject.mRID": "18W000000000Q3VI",
     "@cim:IdentifiedObject.name": "ISEOCDC01",
-    "@cim:Names.name": "ES-ISEOCDC01",
+    "@cim:Names.name": [
+        "ES-ISEOCDC01",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-08-29",

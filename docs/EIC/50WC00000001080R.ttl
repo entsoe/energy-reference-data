@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001080R" ;
-    cim:IdentifiedObject.name "N Båtsfjor 22  AX Forbruk" ;
+    cim:IdentifiedObject.name "N Båtsfjor 22  Bv Forbruk" ;
     cim:Names.name "Load",
-        "NO-BATSFJORD22AX" ;
+        "NO-BATSFJOR22BV" ;
     dcterms:identifier "urn:eic:50WC00000001080R" ;
-    skos:altLabel "NO-BATSFJORD22AX" ;
+    skos:altLabel "NO-BATSFJOR22BV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Båtsfjor 22  AX Forbruk" ;
+    skos:prefLabel "N Båtsfjor 22  Bv Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

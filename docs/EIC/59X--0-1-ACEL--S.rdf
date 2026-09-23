@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:59X--0-1-ACEL--S</dcterms:identifier>
-    <skos:prefLabel>Acel Energie S.r.l.</skos:prefLabel>
-    <skos:altLabel>ACEL_ENERGIE</skos:altLabel>
+    <skos:prefLabel>ACINQUE ENERGIA S.R.L.</skos:prefLabel>
+    <skos:altLabel>ACINQUEENERGIA</skos:altLabel>
     <cim:IdentifiedObject.mRID>59X--0-1-ACEL--S</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Acel Energie S.r.l.</cim:IdentifiedObject.name>
-    <cim:Names.name>ACEL_ENERGIE</cim:Names.name>
+    <cim:IdentifiedObject.name>ACINQUE ENERGIA S.R.L.</cim:IdentifiedObject.name>
+    <cim:Names.name>ACINQUEENERGIA</cim:Names.name>
     <cim:Names.name>IT03773040138</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-07-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-29</cim:DateAndOrTime.date>
     <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT03773040138</schema:vatID>

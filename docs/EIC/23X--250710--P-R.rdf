@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/23X--250710--P-R">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:23X--250710--P-R</dcterms:identifier>
+    <skos:prefLabel>Petraco Oil Company SA</skos:prefLabel>
+    <skos:altLabel>PETRACO_OIL</skos:altLabel>
+    <skos:definition xml:lang="en">Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register.</skos:definition>
+    <cim:IdentifiedObject.mRID>23X--250710--P-R</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Petraco Oil Company SA</cim:IdentifiedObject.name>
+    <cim:Names.name>PETRACO_OIL</cim:Names.name>
+    <cim:Names.name>A0020603N.NL</cim:Names.name>
+    <cim:Names.name>CHE410059505</cim:Names.name>
+    <cim:IdentifiedObject.description>Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-07-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>CHE410059505</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

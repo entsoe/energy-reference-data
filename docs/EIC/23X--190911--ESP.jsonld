@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Engie Energy Marketing Singapore Pte Ltd",
     "@cim:Names.name": [
         "ENGIE_SINGAPORE",
+        "n / a",
         "LNG System Operator"
     ],
     "@cim:IdentifiedObject.description": "Company is incorporated in Singapore. There is no EU VAT available. Company registration number: 201907856R Registration number confirmed through an official document by ACRA.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-09-11",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

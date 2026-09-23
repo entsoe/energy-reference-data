@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XP-BAJO-00000T</dcterms:identifier>
     <skos:prefLabel>Comunidad General de Regantes del Paramo Bajo</skos:prefLabel>
     <skos:altLabel>PBAJO</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XP-BAJO-00000T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Comunidad General de Regantes del Paramo Bajo</cim:IdentifiedObject.name>
     <cim:Names.name>PBAJO</cim:Names.name>
     <cim:Names.name>ESG24075624</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-01-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG24075624</schema:vatID>

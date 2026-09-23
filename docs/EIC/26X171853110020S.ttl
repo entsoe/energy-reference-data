@@ -7,27 +7,27 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-29" ;
+    cim:DateAndOrTime.date "2024-11-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X171853110020S" ;
-    cim:IdentifiedObject.name "LIDERA ENERGIA ITALIA S.R.L." ;
+    cim:IdentifiedObject.name "GREENING ENERGY ITALIA" ;
     cim:Names.name "Balance Group Responsible Party",
         "Balance Responsible Party",
         "Balancing Service Provider",
         "Consumption Responsible Party",
         "Grid Access Provider",
-        "IT-LIDERAENERGIA",
+        "IT-GREENINGENERG",
         "IT17185311002",
         "Imbalance Settlement Responsible",
         "Market Operator",
         "Network User",
-        "Production Responsible party",
+        "Production Responsible Party",
         "Storage System Operator",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:26X171853110020S" ;
     schema1:vatID "IT17185311002" ;
-    skos:altLabel "IT-LIDERAENERGIA" ;
+    skos:altLabel "IT-GREENINGENERG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LIDERA ENERGIA ITALIA S.R.L." ;
+    skos:prefLabel "GREENING ENERGY ITALIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

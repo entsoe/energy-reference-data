@@ -9,10 +9,12 @@
     <cim:IdentifiedObject.mRID>55XSOLTRONJERSEM</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Soltron Jersey Limited</cim:IdentifiedObject.name>
     <cim:Names.name>SOLTRONJERSEY</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-01-17</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000003120" ;
-    cim:IdentifiedObject.name "M Buås     132 RT1 Forbruk" ;
+    cim:IdentifiedObject.name "N Buås     132 RT1 Forbruk" ;
     cim:Names.name "Load",
         "NO-BUAS132" ;
     dcterms:identifier "urn:eic:50WC000000003120" ;
     skos:altLabel "NO-BUAS132" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Buås     132 RT1 Forbruk" ;
+    skos:prefLabel "N Buås     132 RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-11-15" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Transmission System Operator For Gas" ;
     cim:IdentifiedObject.mRID "21X-DE-B-A0A0A-1" ;
     cim:IdentifiedObject.name "Eni Gas Transport Deutschland" ;
     cim:Names.name "ENI-D",
-        "Valid EIC Function needed" ;
+        "NOT KNOWN",
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X-DE-B-A0A0A-1" ;
+    schema1:vatID "NOT KNOWN" ;
     skos:altLabel "ENI-D" ;
     skos:definition "Transmission System Operator For Gas"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

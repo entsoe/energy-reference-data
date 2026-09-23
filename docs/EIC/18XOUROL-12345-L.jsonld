@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XOUROL-12345-L",
-    "@skos:prefLabel": "HIDROELÉCTRICA DE OUROL, S.L.",
+    "@skos:prefLabel": "HIDROELECTRICA DE OUROL S.L.",
     "@skos:altLabel": "OUROL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XOUROL-12345-L",
-    "@cim:IdentifiedObject.name": "HIDROELÉCTRICA DE OUROL, S.L.",
+    "@cim:IdentifiedObject.name": "HIDROELECTRICA DE OUROL S.L.",
     "@cim:Names.name": [
         "OUROL",
         "ESB27240050",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-05-04",
     "@schema:vatID": "ESB27240050",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

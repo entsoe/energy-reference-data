@@ -7,13 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-28" ;
+    cim:DateAndOrTime.date "2025-01-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Market Balance Area" ;
     cim:IdentifiedObject.mRID "10Y1001A1001A82H" ;
     cim:IdentifiedObject.name "Germany_Luxemburg" ;
     cim:Names.name "Bidding Zone",
         "DE_LU",
+        "LFC Area",
         "Scheduling Area" ;
     dcterms:identifier "urn:eic:10Y1001A1001A82H" ;
     skos:altLabel "DE_LU" ;

@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Azerbaijan Gas Supply Company Limited",
     "@cim:Names.name": [
         "AGSC_LTD",
+        "8223214537327206",
         "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-06-23",
+    "@cim:DateAndOrTime.date": "2024-12-22",
+    "@schema:vatID": "8223214537327206",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

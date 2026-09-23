@@ -6,15 +6,17 @@
     <dcterms:identifier>urn:eic:10XCB-ROMANIA--Q</dcterms:identifier>
     <skos:prefLabel>Control Block Romania Operator</skos:prefLabel>
     <skos:altLabel>CB-RO-OP</skos:altLabel>
-    <skos:definition xml:lang="en">Control Block Operator</skos:definition>
+    <skos:definition xml:lang="en">Control Block Operator. EIC code can be deactivated. Approval by EIC Participant.</skos:definition>
     <cim:IdentifiedObject.mRID>10XCB-ROMANIA--Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Control Block Romania Operator</cim:IdentifiedObject.name>
     <cim:Names.name>CB-RO-OP</cim:Names.name>
-    <cim:IdentifiedObject.description>Control Block Operator</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Names.name>NOVAT</cim:Names.name>
+    <cim:IdentifiedObject.description>Control Block Operator. EIC code can be deactivated. Approval by EIC Participant.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Coordination Center Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NOVAT</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

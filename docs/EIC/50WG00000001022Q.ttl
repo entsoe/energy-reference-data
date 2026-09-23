@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001022Q" ;
     cim:IdentifiedObject.name "MATRE   G103 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MATRE___G103_" ;
+        "NO-MATREG103" ;
     dcterms:identifier "urn:eic:50WG00000001022Q" ;
-    skos:altLabel "NO-MATRE___G103_" ;
+    skos:altLabel "NO-MATREG103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MATRE   G103 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

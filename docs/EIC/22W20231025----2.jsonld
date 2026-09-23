@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22W20231025----2",
-    "@skos:prefLabel": "Seraing GT",
-    "@skos:altLabel": "BE_GU_SERAING_GT",
+    "@skos:prefLabel": "LUMINUS  SERAING GT3",
+    "@skos:altLabel": "BE_GU_SERAINGGT3",
     "@cim:IdentifiedObject.mRID": "22W20231025----2",
-    "@cim:IdentifiedObject.name": "Seraing GT",
+    "@cim:IdentifiedObject.name": "LUMINUS  SERAING GT3",
     "@cim:Names.name": [
-        "BE_GU_SERAING_GT",
+        "BE_GU_SERAINGGT3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-27",
+    "@cim:DateAndOrTime.date": "2025-05-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

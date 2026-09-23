@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49X0000000000890> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49X0000000000890" ;
+    cim:IdentifiedObject.name "Xonoxx Technologies Trading and Facilities B.V." ;
+    cim:Names.name "Capacity Trader",
+        "NL865303083B01",
+        "XONOXX_TTF" ;
+    dcterms:identifier "urn:eic:49X0000000000890" ;
+    schema1:vatID "NL865303083B01" ;
+    skos:altLabel "XONOXX_TTF" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Xonoxx Technologies Trading and Facilities B.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

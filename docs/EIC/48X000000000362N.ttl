@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000362N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "X or Party Code for Ocker Hill Battery " ;
+    cim:IdentifiedObject.mRID "48X000000000362N" ;
+    cim:IdentifiedObject.name "HD143OCK LIMITED " ;
+    cim:Names.name "GB345331223",
+        "OCKERHILL",
+        "Producer",
+        "Storage System Operator" ;
+    dcterms:identifier "urn:eic:48X000000000362N" ;
+    schema1:vatID "GB345331223" ;
+    skos:altLabel "OCKERHILL" ;
+    skos:definition "X or Party Code for Ocker Hill Battery "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HD143OCK LIMITED " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

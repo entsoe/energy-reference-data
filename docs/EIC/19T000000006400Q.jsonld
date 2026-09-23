@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006400Q",
-    "@skos:prefLabel": "Skawina-Rzeszów",
+    "@skos:prefLabel": "400kV Rzeszow-Skawina",
     "@skos:altLabel": "421",
     "@cim:IdentifiedObject.mRID": "19T000000006400Q",
-    "@cim:IdentifiedObject.name": "Skawina-Rzeszów",
+    "@cim:IdentifiedObject.name": "400kV Rzeszow-Skawina",
     "@cim:Names.name": [
         "421",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

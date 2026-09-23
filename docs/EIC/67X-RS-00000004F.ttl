@@ -1,0 +1,45 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/67X-RS-00000004F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """SK ENERGO DOO BEOGRAD
+LJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA
+Tax No.: 113172592
+ID No.: 21816787
+Ind. code: 4690 
+SK ENERGO DOO deals with international trade in natural gas and other energy products. 
+RESPONSIBLE PERSON: SAVO MARKOVIĆ
+PHONE: +381 64 8774242
+E-mail: savo@smaa.cz
+
+""" ;
+    cim:IdentifiedObject.mRID "67X-RS-00000004F" ;
+    cim:IdentifiedObject.name "SK ENERGO DOO BEOGRAD" ;
+    cim:Names.name "RS113172592",
+        "SKENERGO",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:67X-RS-00000004F" ;
+    schema1:vatID "RS113172592" ;
+    skos:altLabel "SKENERGO" ;
+    skos:definition """SK ENERGO DOO BEOGRAD
+LJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA
+Tax No.: 113172592
+ID No.: 21816787
+Ind. code: 4690 
+SK ENERGO DOO deals with international trade in natural gas and other energy products. 
+RESPONSIBLE PERSON: SAVO MARKOVIĆ
+PHONE: +381 64 8774242
+E-mail: savo@smaa.cz
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SK ENERGO DOO BEOGRAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000292Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000292Q" ;
+    cim:IdentifiedObject.name "ML Energy ApS" ;
+    cim:Names.name "46498526",
+        "Balance Responsible Party",
+        "DKML_ENERGY" ;
+    dcterms:identifier "urn:eic:45X000000000292Q" ;
+    schema1:vatID "46498526" ;
+    skos:altLabel "DKML_ENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ML Energy ApS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

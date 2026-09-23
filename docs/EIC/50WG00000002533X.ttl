@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002533X" ;
     cim:IdentifiedObject.name "RINGEDALG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-RINGEDALG2___" ;
+        "NO-RINGEDALG2" ;
     dcterms:identifier "urn:eic:50WG00000002533X" ;
-    skos:altLabel "NO-RINGEDALG2___" ;
+    skos:altLabel "NO-RINGEDALG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "RINGEDALG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

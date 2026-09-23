@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000016028",
-    "@skos:prefLabel": "MOSKOG  G113 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G113_",
+    "@skos:prefLabel": "HOLSEN  G113 HYDRO",
+    "@skos:altLabel": "NO-HOLSENG113",
     "@cim:IdentifiedObject.mRID": "50WG000000016028",
-    "@cim:IdentifiedObject.name": "MOSKOG  G113 HYDRO",
+    "@cim:IdentifiedObject.name": "HOLSEN  G113 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G113_",
+        "NO-HOLSENG113",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

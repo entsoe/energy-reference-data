@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XNIVA-123456-O",
     "@skos:prefLabel": "NIVAPLAST RECICLADOS",
     "@skos:altLabel": "NIVA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNIVA-123456-O",
     "@cim:IdentifiedObject.name": "NIVAPLAST RECICLADOS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB19560408",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-08-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB19560408",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

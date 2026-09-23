@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-06-15" ;
+    cim:DateAndOrTime.date "2024-06-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "16XG9TEL-------K" ;
-    cim:IdentifiedObject.name "G9Telecom, SA" ;
-    cim:Names.name "G9TELECOM",
+    cim:IdentifiedObject.name "G9, SA" ;
+    cim:Names.name "G9",
         "PT504435302",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:16XG9TEL-------K" ;
     schema1:vatID "PT504435302" ;
-    skos:altLabel "G9TELECOM" ;
+    skos:altLabel "G9" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "G9Telecom, SA" ;
+    skos:prefLabel "G9, SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

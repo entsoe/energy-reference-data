@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000023C",
-    "@skos:prefLabel": "Ens-Lelystad 380 Zwart",
+    "@skos:prefLabel": "Lelystad-Ens 380kV Zwart",
     "@skos:altLabel": "LLS-ENS380-Z",
     "@cim:IdentifiedObject.mRID": "49T000000000023C",
-    "@cim:IdentifiedObject.name": "Ens-Lelystad 380 Zwart",
+    "@cim:IdentifiedObject.name": "Lelystad-Ens 380kV Zwart",
     "@cim:Names.name": [
         "LLS-ENS380-Z",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-06-28",
+    "@cim:DateAndOrTime.date": "2024-03-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

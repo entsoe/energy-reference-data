@@ -12,23 +12,27 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:45X0000000000723",
-    "@skos:prefLabel": "Biogas Express AS",
+    "@skos:prefLabel": "Biogem A/S",
     "@skos:altLabel": "BIOGASEXPRESS",
     "@skos:definition": {
         "@language": "en",
         "@value": "Biomethane Trader"
     },
     "@cim:IdentifiedObject.mRID": "45X0000000000723",
-    "@cim:IdentifiedObject.name": "Biogas Express AS",
+    "@cim:IdentifiedObject.name": "Biogem A/S",
     "@cim:Names.name": [
         "BIOGASEXPRESS",
         "DK38636685",
-        "Network User"
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Consumer",
+        "Network User",
+        "Producer"
     ],
     "@cim:IdentifiedObject.description": "Biomethane Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-08-19",
+    "@cim:DateAndOrTime.date": "2025-03-18",
     "@schema:vatID": "DK38636685",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC00000001363F" ;
-    cim:IdentifiedObject.name "S Aurskog  66  L1 Forbruk" ;
+    cim:IdentifiedObject.name "S Aurskog  66  T2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-AURSKOG66L1" ;
+        "NO-AURSKOG66T2" ;
     dcterms:identifier "urn:eic:50WC00000001363F" ;
-    skos:altLabel "NO-AURSKOG66L1" ;
+    skos:altLabel "NO-AURSKOG66T2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Aurskog  66  L1 Forbruk" ;
+    skos:prefLabel "S Aurskog  66  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

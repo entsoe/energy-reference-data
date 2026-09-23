@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002718Z" ;
-    cim:IdentifiedObject.name "M 22 Åmela-Dravlaus" ;
+    cim:IdentifiedObject.name "N 22 Åmela-Dravlaus" ;
     cim:Names.name "Internal Line",
-        "NO-AMELADRAVLAUS" ;
+        "NO-22AMELADRAVLA" ;
     dcterms:identifier "urn:eic:50TL00000002718Z" ;
-    skos:altLabel "NO-AMELADRAVLAUS" ;
+    skos:altLabel "NO-22AMELADRAVLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Åmela-Dravlaus" ;
+    skos:prefLabel "N 22 Åmela-Dravlaus" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

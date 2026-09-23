@@ -7,16 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-04-15" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trader" ;
+    cim:IdentifiedObject.description "Company registration number: 0109160-2 confirmed by the extract from the trade register" ;
     cim:IdentifiedObject.mRID "23XFORTUMPOWER-W" ;
     cim:IdentifiedObject.name "Fortum Power & Heat OY" ;
-    cim:Names.name "FORTUMPOWER",
-        "Valid EIC Function needed" ;
+    cim:Names.name "A0001899F.FI",
+        "Balance Responsible Party",
+        "Balancing Service Provider",
+        "FI01091602",
+        "FORTUMPOWER" ;
     dcterms:identifier "urn:eic:23XFORTUMPOWER-W" ;
+    schema1:vatID "FI01091602" ;
     skos:altLabel "FORTUMPOWER" ;
-    skos:definition "Trader"@en ;
+    skos:definition "Company registration number: 0109160-2 confirmed by the extract from the trade register"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fortum Power & Heat OY" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

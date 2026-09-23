@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001708N",
     "@skos:prefLabel": "Skogn",
-    "@skos:altLabel": "NO-SKOGN_PL",
+    "@skos:altLabel": "NO-SKOGN",
     "@cim:IdentifiedObject.mRID": "50WP00000001708N",
     "@cim:IdentifiedObject.name": "Skogn",
     "@cim:Names.name": [
-        "NO-SKOGN_PL",
+        "NO-SKOGN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2026-08-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

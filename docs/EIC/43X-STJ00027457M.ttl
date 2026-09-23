@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00027457M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00027457M" ;
+    cim:IdentifiedObject.name "KURZEMES GAĻSAIMNIEKS SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV42103022606",
+        "STJ00027457M" ;
+    dcterms:identifier "urn:eic:43X-STJ00027457M" ;
+    schema1:vatID "LV42103022606" ;
+    skos:altLabel "STJ00027457M" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KURZEMES GAĻSAIMNIEKS SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

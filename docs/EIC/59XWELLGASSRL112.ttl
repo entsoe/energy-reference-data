@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XWELLGASSRL112> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "now the company should have obtained the VIES certification. " ;
+    cim:IdentifiedObject.mRID "59XWELLGASSRL112" ;
+    cim:IdentifiedObject.name "WELLGAS SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "IT14049660963",
+        "WELLGASSRL" ;
+    dcterms:identifier "urn:eic:59XWELLGASSRL112" ;
+    schema1:vatID "IT14049660963" ;
+    skos:altLabel "WELLGASSRL" ;
+    skos:definition "now the company should have obtained the VIES certification. "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "WELLGAS SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

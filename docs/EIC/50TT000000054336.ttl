@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000054336" ;
     cim:IdentifiedObject.name "S Nygard   T1 Transformator" ;
-    cim:Names.name "NO-NYGARD__T1",
+    cim:Names.name "NO-NYGARDT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000054336" ;
-    skos:altLabel "NO-NYGARD__T1" ;
+    skos:altLabel "NO-NYGARDT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Nygard   T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

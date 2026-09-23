@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLOBO-123456-L",
     "@skos:prefLabel": "Almendra y Miel S.A",
     "@skos:altLabel": "LOBO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLOBO-123456-L",
     "@cim:IdentifiedObject.name": "Almendra y Miel S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA03040284",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA03040284",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

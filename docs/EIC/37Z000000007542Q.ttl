@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z000000007542Q" ;
     cim:IdentifiedObject.name "Bergkamen, Fritz-Husemann-Straße" ;
-    cim:Names.name "37Z000000007542Q" ;
+    cim:Names.name "37Z000000007542Q",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z000000007542Q" ;
     skos:altLabel "37Z000000007542Q" ;
     skos:definition "Connection Point"@en ;

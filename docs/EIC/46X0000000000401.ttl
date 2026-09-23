@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X0000000000401> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X0000000000401" ;
+    cim:IdentifiedObject.name "OX2 Construction AB" ;
+    cim:Names.name "OX2_CONSTRUCTION",
+        "Producer",
+        "SE556807525201" ;
+    dcterms:identifier "urn:eic:46X0000000000401" ;
+    schema1:vatID "SE556807525201" ;
+    skos:altLabel "OX2_CONSTRUCTION" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "OX2 Construction AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

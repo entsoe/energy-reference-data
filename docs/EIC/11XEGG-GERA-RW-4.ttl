@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XEGG-GERA-RW-4" ;
     cim:IdentifiedObject.name "Energieversorgung Gera GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE150518454",
-        "EGG_RW" ;
+    cim:Names.name "DE150518454",
+        "EGG_RW",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEGG-GERA-RW-4" ;
     schema1:vatID "DE150518454" ;
     skos:altLabel "EGG_RW" ;

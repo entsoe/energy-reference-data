@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-KW-KO2-EVN-5" ;
     cim:IdentifiedObject.name "Kraftwerk Korneuburg" ;
-    cim:Names.name "KO2-KW" ;
+    cim:Names.name "Generation Unit",
+        "KO2-KW" ;
     dcterms:identifier "urn:eic:14W-KW-KO2-EVN-5" ;
     skos:altLabel "KO2-KW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

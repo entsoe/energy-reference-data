@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002791P",
-    "@skos:prefLabel": "M 22 Bjerka-Kjensvatn",
-    "@skos:altLabel": "NO-BJERKAKJENSVA",
+    "@skos:prefLabel": "N 22 Bjerka-Kjensvatn",
+    "@skos:altLabel": "NO-22BJERKAKJENS",
     "@cim:IdentifiedObject.mRID": "50TL00000002791P",
-    "@cim:IdentifiedObject.name": "M 22 Bjerka-Kjensvatn",
+    "@cim:IdentifiedObject.name": "N 22 Bjerka-Kjensvatn",
     "@cim:Names.name": [
-        "NO-BJERKAKJENSVA",
+        "NO-22BJERKAKJENS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

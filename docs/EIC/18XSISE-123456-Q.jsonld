@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSISE-123456-Q",
     "@skos:prefLabel": "Siderúrgica Sevillana, S.A.",
     "@skos:altLabel": "SISE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSISE-123456-Q",
     "@cim:IdentifiedObject.name": "Siderúrgica Sevillana, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA41014200",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-05-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA41014200",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

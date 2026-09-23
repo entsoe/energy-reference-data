@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Elektricity Trader (Sk: N8Kup A Predaj Elektriny)" ;
     cim:IdentifiedObject.mRID "24X-ENERGO-SOL-T" ;
     cim:IdentifiedObject.name "Energo Solutions, s.r.o." ;
     cim:Names.name "ENERGOSOLUTIONS",
         "SK2021512823",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-ENERGO-SOL-T" ;
     schema1:vatID "SK2021512823" ;
     skos:altLabel "ENERGOSOLUTIONS" ;

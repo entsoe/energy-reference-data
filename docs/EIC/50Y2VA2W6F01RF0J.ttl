@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50Y2VA2W6F01RF0J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50Y2VA2W6F01RF0J" ;
+    cim:IdentifiedObject.name "Virtual Bidding Zone SE1-SE2-SE3-FIN-DK1-SE4-DK2-DE-NL-GB for Mari" ;
+    cim:Names.name "Bidding Zone",
+        "UTLAND_VB_MARI" ;
+    dcterms:identifier "urn:eic:50Y2VA2W6F01RF0J" ;
+    skos:altLabel "UTLAND_VB_MARI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Virtual Bidding Zone SE1-SE2-SE3-FIN-DK1-SE4-DK2-DE-NL-GB for Mari" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

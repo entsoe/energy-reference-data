@@ -13,8 +13,8 @@
     cim:IdentifiedObject.mRID "11XBBF-BFG-THF-D" ;
     cim:IdentifiedObject.name "Berliner Flughafen-Gesellschaft mbH  Flughafen Tempelhof" ;
     cim:Names.name "BFG_THF",
-        "Balance Group",
-        "DE138543600" ;
+        "DE138543600",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XBBF-BFG-THF-D" ;
     schema1:vatID "DE138543600" ;
     skos:altLabel "BFG_THF" ;

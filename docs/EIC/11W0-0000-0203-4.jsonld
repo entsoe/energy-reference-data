@@ -16,7 +16,10 @@
     "@skos:altLabel": "GTSREN1",
     "@cim:IdentifiedObject.mRID": "11W0-0000-0203-4",
     "@cim:IdentifiedObject.name": "GTSREN1",
-    "@cim:Names.name": "GTSREN1",
+    "@cim:Names.name": [
+        "GTSREN1",
+        "Production Plant"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

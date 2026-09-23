@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A10",
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A16",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
@@ -9,154 +9,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
             },
-            "@dcterms:identifier": "A10",
-            "@skos:prefLabel": "Other resource capacity mechanism",
+            "@dcterms:identifier": "A16",
+            "@skos:prefLabel": "Capacity Steering",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "This is any other kind of market resource capacity mechanism."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A07",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A07",
-            "@skos:prefLabel": "Standard mFRR product eligible for direct and scheduled activation",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Standard mFRR product eligible for direct as well as scheduled activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A01",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A01",
-            "@skos:prefLabel": "Standard balancing product",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A harmonised balancing product defined by all TSOs for the exchange of balancing services."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A11",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A11",
-            "@skos:prefLabel": "Fast activation product",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The fast activation product shall be considered as a fall-back solution for situations where coordination with all parties is no longer possible due to insufficient time and the regular product could not be properly applied."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A05",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A05",
-            "@skos:prefLabel": "Standard mFRR product eligible for scheduled activation",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Standard mFRR product eligible for scheduled activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A03",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A03",
-            "@skos:prefLabel": "Product from integrated scheduling process",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "From the EBGL Article 2 (19), means an iterative process that uses at least integrated scheduling process bids that contain commercial data, complex technical data of individual power generating facilities or demand facilities and explicitly includes the start-up characteristics, the latest control area adequacy analysis and the operational security limits as an input to the process."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A04",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A04",
-            "@skos:prefLabel": "Local balancing product",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A balancing product that is neither standard nor specific. This type may be applicable only in the interim period until standard and specific products have been defined within the given scheduling area."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList",
-            "@type": [
-                "@skos:ConceptScheme",
-                "@dcat:Dataset"
-            ],
-            "@dcterms:modified": "2023-12-14",
-            "@dcat:version": "91",
-            "@skos:prefLabel": "StandardMarketProductTypeList",
-            "@dcterms:identifier": "ET0008",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The identification of the type of a product on a market view"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A08",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A08",
-            "@skos:prefLabel": "Market wide resource capacity mechanism",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "This is a market-wide resource capacity mechanism where all resource capacity required to ensure security of supply receives payment. These mechanisms are open for participation to all capacity resources contributing to adequacy."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A09",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
-            },
-            "@dcterms:identifier": "A09",
-            "@skos:prefLabel": "Strategic reserve resource capacity mechanism",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "This is a market resource capacity mechanism that is kept outside of the electricity market and only used if the market participants do not offer enough generation to meet short-term demand."
+                "@value": "Indicates the capacity steering product."
             }
         },
         {
@@ -176,6 +33,197 @@
             }
         },
         {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A07",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A07",
+            "@skos:prefLabel": "Standard mFRR product eligible for direct and scheduled activation",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Standard mFRR product eligible for direct as well as scheduled activation."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A10",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A10",
+            "@skos:prefLabel": "Other resource capacity mechanism",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "This is any other kind of market resource capacity mechanism."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList",
+            "@type": [
+                "@skos:ConceptScheme",
+                "@dcat:Dataset"
+            ],
+            "@dcterms:modified": "2026-06-04",
+            "@dcat:version": "95",
+            "@skos:prefLabel": "StandardMarketProductTypeList",
+            "@dcterms:identifier": "ET0008",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The identification of the type of a product on a market view"
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A04",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A04",
+            "@skos:prefLabel": "Local balancing product",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A balancing product that is neither standard nor specific. This type may be applicable only in the interim period until standard and specific products have been defined within the given scheduling area."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A08",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A08",
+            "@skos:prefLabel": "Market wide resource capacity mechanism",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "This is a market-wide resource capacity mechanism where all resource capacity required to ensure security of supply receives payment. These mechanisms are open for participation to all capacity resources contributing to adequacy."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A01",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A01",
+            "@skos:prefLabel": "Standard balancing product",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A harmonised balancing product defined by all TSOs for the exchange of balancing services."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A05",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A05",
+            "@skos:prefLabel": "Standard mFRR product eligible for scheduled activation",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Standard mFRR product eligible for scheduled activation."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A12",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A12",
+            "@skos:prefLabel": "Remedial Action Cost Sharing Polluter Pays",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Cost sharing of coordinated remedial action measures (redispatch and countertrading) under the polluter pays principle."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A09",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A09",
+            "@skos:prefLabel": "Strategic reserve resource capacity mechanism",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "This is a market resource capacity mechanism that is kept outside of the electricity market and only used if the market participants do not offer enough generation to meet short-term demand."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A14",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A14",
+            "@skos:prefLabel": "Dynamic product",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The market product type is dynamic. E.g. used in the Frequency Containment Reserve (FCR) market for entities that can provide continuous response and comply with dynamic requirements."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A03",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A03",
+            "@skos:prefLabel": "Product from integrated scheduling process",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "From the EBGL Article 2 (19), means an iterative process that uses at least integrated scheduling process bids that contain commercial data, complex technical data of individual power generating facilities or demand facilities and explicitly includes the start-up characteristics, the latest control area adequacy analysis and the operational security limits as an input to the process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A11",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A11",
+            "@skos:prefLabel": "Fast activation product",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The fast activation product shall be considered as a fall-back solution for situations where coordination with all parties is no longer possible due to insufficient time and the regular product could not be properly applied."
+            }
+        },
+        {
             "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A06",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -189,6 +237,38 @@
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Standard mFRR product eligible for direct activation."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A13",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A13",
+            "@skos:prefLabel": "Static product",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The market product type is static. E.g. used in the Frequency Containment Reserve (FCR) market for entities that have difficulties to comply with dynamic requirements, such as activation/deactivation performance and dynamic stability. "
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList/A15",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardMarketProductTypeList"
+            },
+            "@dcterms:identifier": "A15",
+            "@skos:prefLabel": "RedispatchA15)",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Indicates the redispatch product."
             }
         }
     ],

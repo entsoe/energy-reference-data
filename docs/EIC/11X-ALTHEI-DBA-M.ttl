@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-ALTHEI-DBA-M" ;
     cim:IdentifiedObject.name "ÜberlandZentrale Wörth/Altheim AG" ;
-    cim:Names.name "Balance Group",
-        "DE128943819",
-        "UEZW-DBA" ;
+    cim:Names.name "DE128943819",
+        "UEZW-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-ALTHEI-DBA-M" ;
     schema1:vatID "DE128943819" ;
     skos:altLabel "UEZW-DBA" ;

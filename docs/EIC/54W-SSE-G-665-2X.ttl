@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/54W-SSE-G-665-2X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "54W-SSE-G-665-2X" ;
+    cim:IdentifiedObject.name "SUNNY SIDE ENERGY G" ;
+    cim:Names.name "Generation Unit",
+        "SUNNY_SIDE_G" ;
+    dcterms:identifier "urn:eic:54W-SSE-G-665-2X" ;
+    skos:altLabel "SUNNY_SIDE_G" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SUNNY SIDE ENERGY G" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

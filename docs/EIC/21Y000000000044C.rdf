@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Y000000000044C</dcterms:identifier>
     <skos:prefLabel>Final consumers (BE) (Fluxys) Power Plants H-zone</skos:prefLabel>
     <skos:altLabel>FLXBEHPP</skos:altLabel>
-    <skos:definition xml:lang="en">Aggregated Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Y000000000044C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Final consumers (BE) (Fluxys) Power Plants H-zone</cim:IdentifiedObject.name>
     <cim:Names.name>FLXBEHPP</cim:Names.name>
-    <cim:IdentifiedObject.description>Aggregated Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Local Market Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

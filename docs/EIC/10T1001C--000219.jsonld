@@ -16,7 +16,10 @@
     "@skos:altLabel": "L_MEI-RUETHI_SCH",
     "@cim:IdentifiedObject.mRID": "10T1001C--000219",
     "@cim:IdentifiedObject.name": "Meiningen-Ruthi schwartz 220",
-    "@cim:Names.name": "L_MEI-RUETHI_SCH",
+    "@cim:Names.name": [
+        "L_MEI-RUETHI_SCH",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-07-30",

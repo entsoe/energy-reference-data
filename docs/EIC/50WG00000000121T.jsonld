@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000121T",
-    "@skos:prefLabel": "BJORDAL G1      HYDRO",
-    "@skos:altLabel": "NO-BJORDAL_G1___",
+    "@skos:prefLabel": "BJORDAL G2      HYDRO",
+    "@skos:altLabel": "NO-BJORDALG2",
     "@cim:IdentifiedObject.mRID": "50WG00000000121T",
-    "@cim:IdentifiedObject.name": "BJORDAL G1      HYDRO",
+    "@cim:IdentifiedObject.name": "BJORDAL G2      HYDRO",
     "@cim:Names.name": [
-        "NO-BJORDAL_G1___",
+        "NO-BJORDALG2",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

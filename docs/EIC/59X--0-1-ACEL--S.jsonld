@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:59X--0-1-ACEL--S",
-    "@skos:prefLabel": "Acel Energie S.r.l.",
-    "@skos:altLabel": "ACEL_ENERGIE",
+    "@skos:prefLabel": "ACINQUE ENERGIA S.R.L.",
+    "@skos:altLabel": "ACINQUEENERGIA",
     "@cim:IdentifiedObject.mRID": "59X--0-1-ACEL--S",
-    "@cim:IdentifiedObject.name": "Acel Energie S.r.l.",
+    "@cim:IdentifiedObject.name": "ACINQUE ENERGIA S.R.L.",
     "@cim:Names.name": [
-        "ACEL_ENERGIE",
+        "ACINQUEENERGIA",
         "IT03773040138",
         "Market Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-07-05",
+    "@cim:DateAndOrTime.date": "2024-10-29",
     "@schema:vatID": "IT03773040138",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

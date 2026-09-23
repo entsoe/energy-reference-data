@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XTOTALGLOBAL-R" ;
     cim:IdentifiedObject.name "Total Global Steel Limited" ;
-    cim:Names.name "Balance Group",
-        "GB749755475",
-        "TGS" ;
+    cim:Names.name "GB749755475",
+        "TGS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XTOTALGLOBAL-R" ;
     schema1:vatID "GB749755475" ;
     skos:altLabel "TGS" ;

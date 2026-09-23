@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/10VENTSOE-OPDE1R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:10VENTSOE-OPDE1R",
+    "@skos:prefLabel": "ENTSO-E OPDE Archive Production",
+    "@skos:altLabel": "ENTSOE_OPDE_CT01",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "ENTSO-E Project - ECCO SP Layer on TSCNET - OPDE Operator Support"
+    },
+    "@cim:IdentifiedObject.mRID": "10VENTSOE-OPDE1R",
+    "@cim:IdentifiedObject.name": "ENTSO-E OPDE Archive Production",
+    "@cim:Names.name": [
+        "ENTSOE_OPDE_CT01",
+        "Endpoint"
+    ],
+    "@cim:IdentifiedObject.description": "ENTSO-E Project - ECCO SP Layer on TSCNET - OPDE Operator Support",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-07-03",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

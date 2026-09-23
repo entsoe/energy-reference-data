@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--240125-RZ-H",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--240125-RZ-H",
+    "@skos:prefLabel": "RZ Partners Trading LP",
+    "@skos:altLabel": "RZ_PARTNERS_TRAD",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "EIN-number: 92-1410269, confirmed by the certificate of IRS, department of the treasury internal revenue service, Philadelphia, US"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--240125-RZ-H",
+    "@cim:IdentifiedObject.name": "RZ Partners Trading LP",
+    "@cim:Names.name": [
+        "RZ_PARTNERS_TRAD",
+        "921410269 ",
+        "Capacity Trader"
+    ],
+    "@cim:IdentifiedObject.description": "EIN-number: 92-1410269, confirmed by the certificate of IRS, department of the treasury internal revenue service, Philadelphia, US",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-01-29",
+    "@schema:vatID": "921410269 ",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

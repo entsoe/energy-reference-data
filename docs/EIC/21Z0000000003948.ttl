@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-02" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Exit Point" ;
     cim:IdentifiedObject.mRID "21Z0000000003948" ;
     cim:IdentifiedObject.name "Stranraer Exit Point" ;
-    cim:Names.name "STRANRAER-NI",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Metering Point",
+        "STRANRAER-NI" ;
     dcterms:identifier "urn:eic:21Z0000000003948" ;
     skos:altLabel "STRANRAER-NI" ;
-    skos:definition "Exit Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stranraer Exit Point" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/60X0000000001482> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "60X0000000001482" ;
+    cim:IdentifiedObject.name "FUNDPOLE CAPITAL SRL" ;
+    cim:Names.name "FPCAPITAL",
+        "Network User",
+        "RO40544281",
+        "Resource Provider" ;
+    dcterms:identifier "urn:eic:60X0000000001482" ;
+    schema1:vatID "RO40544281" ;
+    skos:altLabel "FPCAPITAL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FUNDPOLE CAPITAL SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000007197" ;
-    cim:IdentifiedObject.name "M Løkken   66  RT1 Forbruk" ;
+    cim:IdentifiedObject.name "N Løkken   66  RT1 Forbruk" ;
     cim:Names.name "Load",
         "NO-LOKKEN66" ;
     dcterms:identifier "urn:eic:50WC000000007197" ;
     skos:altLabel "NO-LOKKEN66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Løkken   66  RT1 Forbruk" ;
+    skos:prefLabel "N Løkken   66  RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

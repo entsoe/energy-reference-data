@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCRTAB-12345-E",
     "@skos:prefLabel": "COMUNIDAD DE REGANTES 'EMBALSE TORRE DE ABRAHAM'",
     "@skos:altLabel": "CRTAB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCRTAB-12345-E",
     "@cim:IdentifiedObject.name": "COMUNIDAD DE REGANTES 'EMBALSE TORRE DE ABRAHAM'",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG13037809",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG13037809",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

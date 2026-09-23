@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000392E",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000392E",
+    "@skos:prefLabel": "SOFIA OFFSHORE WIND",
+    "@skos:altLabel": "SOFIAX",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Contact:\nAndrew Robbins\nandrew.robbins@rwe.com\n+447500226763RWE\nWindmill Hill Business Park, \nWhitehill way \nSwindon \nSN5 6PB\nsofia_offshore_wind@rwe.com\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000392E",
+    "@cim:IdentifiedObject.name": "SOFIA OFFSHORE WIND",
+    "@cim:Names.name": [
+        "SOFIAX",
+        "GB524921354",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "Contact:\nAndrew Robbins\nandrew.robbins@rwe.com\n+447500226763RWE\nWindmill Hill Business Park, \nWhitehill way \nSwindon \nSN5 6PB\nsofia_offshore_wind@rwe.com\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-08-13",
+    "@schema:vatID": "GB524921354",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

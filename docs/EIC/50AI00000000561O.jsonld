@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50AI00000000561O",
-    "@skos:prefLabel": "Hollemoen",
-    "@skos:altLabel": "NO-HOLLEMOE",
+    "@skos:prefLabel": "Holdemoen",
+    "@skos:altLabel": "NO-HOLDEMOE",
     "@cim:IdentifiedObject.mRID": "50AI00000000561O",
-    "@cim:IdentifiedObject.name": "Hollemoen",
+    "@cim:IdentifiedObject.name": "Holdemoen",
     "@cim:Names.name": [
-        "NO-HOLLEMOE",
+        "NO-HOLDEMOE",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

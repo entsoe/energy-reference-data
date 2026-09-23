@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000000210-P",
     "@skos:prefLabel": "SBB Etzelwerk",
     "@skos:altLabel": "SBB-ETZELWERK-AS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation Unit"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000000210-P",
     "@cim:IdentifiedObject.name": "SBB Etzelwerk",
     "@cim:Names.name": [
         "SBB-ETZELWERK-AS",
-        "Generation Unit"
+        "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-30",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

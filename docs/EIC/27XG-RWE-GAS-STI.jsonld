@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27XG-RWE-GAS-STI",
-    "@skos:prefLabel": "RWE Gas Storage, s.r.o.",
-    "@skos:altLabel": "RWE-GAS-STORAGE",
+    "@skos:prefLabel": "Gas Storage CZ, s.r.o.",
+    "@skos:altLabel": "GAS-STORAGE-CZ",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party Resource Provider"
     },
     "@cim:IdentifiedObject.mRID": "27XG-RWE-GAS-STI",
-    "@cim:IdentifiedObject.name": "RWE Gas Storage, s.r.o.",
+    "@cim:IdentifiedObject.name": "Gas Storage CZ, s.r.o.",
     "@cim:Names.name": [
-        "RWE-GAS-STORAGE",
+        "GAS-STORAGE-CZ",
         "CZ27892077",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party Resource Provider",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-02",
     "@schema:vatID": "CZ27892077",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

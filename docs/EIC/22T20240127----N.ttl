@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22T20240127----N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22T20240127----N" ;
+    cim:IdentifiedObject.name "DI 150 208 BERINGODSH LI" ;
+    cim:Names.name "BE208_BERIN_GODS",
+        "Internal Line" ;
+    dcterms:identifier "urn:eic:22T20240127----N" ;
+    skos:altLabel "BE208_BERIN_GODS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DI 150 208 BERINGODSH LI" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

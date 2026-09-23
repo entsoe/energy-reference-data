@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMSA-1234567-M",
     "@skos:prefLabel": "MINERA DEL SANTO ANGEL S.L.",
     "@skos:altLabel": "MSA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMSA-1234567-M",
     "@cim:IdentifiedObject.name": "MINERA DEL SANTO ANGEL S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB41390386",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-02-18",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB41390386",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XUFGENPEN----R" ;
     cim:IdentifiedObject.name "GENERACION PENINSULAR S.L." ;
-    cim:Names.name "Balance Group",
-        "ESB83686154",
-        "UFGENPEN" ;
+    cim:Names.name "ESB83686154",
+        "UFGENPEN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUFGENPEN----R" ;
     schema1:vatID "ESB83686154" ;
     skos:altLabel "UFGENPEN" ;

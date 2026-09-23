@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PGE3> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PGE3" ;
+    cim:IdentifiedObject.name "BKW FMB ENERGIE AG" ;
+    cim:Names.name "CH-12XBKW-HANDEL",
+        "CH103258498",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PGE3" ;
+    schema1:vatID "CH103258498" ;
+    skos:altLabel "CH-12XBKW-HANDEL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BKW FMB ENERGIE AG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

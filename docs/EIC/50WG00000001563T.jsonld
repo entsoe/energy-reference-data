@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001563T",
     "@skos:prefLabel": "SPANNE  G119 HYDRO",
-    "@skos:altLabel": "NO-SPANNE__G119_",
+    "@skos:altLabel": "NO-SPANNEG119",
     "@cim:IdentifiedObject.mRID": "50WG00000001563T",
     "@cim:IdentifiedObject.name": "SPANNE  G119 HYDRO",
     "@cim:Names.name": [
-        "NO-SPANNE__G119_",
+        "NO-SPANNEG119",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

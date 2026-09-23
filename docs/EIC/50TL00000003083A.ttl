@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003083A" ;
-    cim:IdentifiedObject.name "M 132 Åfjord-Hubakken" ;
+    cim:IdentifiedObject.name "N 132 Åfjord-Hubakken" ;
     cim:Names.name "Internal Line",
-        "NO-AFJORDHUBAKKE" ;
+        "NO-132AFJORDHUBA" ;
     dcterms:identifier "urn:eic:50TL00000003083A" ;
-    skos:altLabel "NO-AFJORDHUBAKKE" ;
+    skos:altLabel "NO-132AFJORDHUBA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Åfjord-Hubakken" ;
+    skos:prefLabel "N 132 Åfjord-Hubakken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

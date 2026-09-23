@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000820I",
-    "@skos:prefLabel": "M Strand   66  Forbruk",
-    "@skos:altLabel": "NO-STRAND66",
+    "@skos:prefLabel": "N Strand   66  T1 Forbruk",
+    "@skos:altLabel": "NO-STRAND66T1",
     "@cim:IdentifiedObject.mRID": "50WC00000000820I",
-    "@cim:IdentifiedObject.name": "M Strand   66  Forbruk",
+    "@cim:IdentifiedObject.name": "N Strand   66  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-STRAND66",
+        "NO-STRAND66T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

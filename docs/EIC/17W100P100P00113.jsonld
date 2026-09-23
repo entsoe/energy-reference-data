@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P00113",
-    "@skos:prefLabel": "EMILE HUCHET 8",
+    "@skos:prefLabel": "SAINT AVOLD 8",
     "@skos:altLabel": "FR_GA-EHUCT8-G",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Generation Unit"
+        "@value": "Generation Unit Validation CIO"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P00113",
-    "@cim:IdentifiedObject.name": "EMILE HUCHET 8",
+    "@cim:IdentifiedObject.name": "SAINT AVOLD 8",
     "@cim:Names.name": [
         "FR_GA-EHUCT8-G",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
+    "@cim:IdentifiedObject.description": "Generation Unit Validation CIO",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-08-20",
+    "@cim:DateAndOrTime.date": "2026-04-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

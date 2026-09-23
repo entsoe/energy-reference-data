@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003028I",
-    "@skos:prefLabel": "S 132 Grindsdalen-Dragsvik",
-    "@skos:altLabel": "NO-GRINDSDALENDR",
+    "@skos:prefLabel": "N 132 Grindsdalen-Dragsvik",
+    "@skos:altLabel": "NO-132GRINDGSVIK",
     "@cim:IdentifiedObject.mRID": "50TL00000003028I",
-    "@cim:IdentifiedObject.name": "S 132 Grindsdalen-Dragsvik",
+    "@cim:IdentifiedObject.name": "N 132 Grindsdalen-Dragsvik",
     "@cim:Names.name": [
-        "NO-GRINDSDALENDR",
+        "NO-132GRINDGSVIK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

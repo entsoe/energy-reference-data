@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-02-14" ;
+    cim:DateAndOrTime.date "2025-03-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001179Z" ;
-    cim:IdentifiedObject.name "Narturgas Fyn A/S" ;
+    cim:IdentifiedObject.name "Energi Fyn Energihandel A/S" ;
     cim:Names.name "DK27116469",
-        "NATURGAS-FYN",
+        "ENERGI_FYN",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001179Z" ;
     schema1:vatID "DK27116469" ;
-    skos:altLabel "NATURGAS-FYN" ;
+    skos:altLabel "ENERGI_FYN" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Narturgas Fyn A/S" ;
+    skos:prefLabel "Energi Fyn Energihandel A/S" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

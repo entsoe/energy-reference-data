@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002044P",
-    "@skos:prefLabel": "M 66 Ormsetfoss-Follafoss",
-    "@skos:altLabel": "NO-ORMSETFOSSFOL",
+    "@skos:prefLabel": "N 66 Ormsetfoss-Follafoss",
+    "@skos:altLabel": "NO-66ORMSETFOSSF",
     "@cim:IdentifiedObject.mRID": "50TL00000002044P",
-    "@cim:IdentifiedObject.name": "M 66 Ormsetfoss-Follafoss",
+    "@cim:IdentifiedObject.name": "N 66 Ormsetfoss-Follafoss",
     "@cim:Names.name": [
-        "NO-ORMSETFOSSFOL",
+        "NO-66ORMSETFOSSF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

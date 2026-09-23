@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-01" ;
+    cim:DateAndOrTime.date "2025-08-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Internal Line" ;
     cim:IdentifiedObject.mRID "46TAC0000000166K" ;
-    cim:IdentifiedObject.name "Porjus-Grundfors" ;
+    cim:IdentifiedObject.name "Porjusberget-Grundfors" ;
     cim:Names.name "Internal Line",
-        "PORJUS-GRUNDF" ;
+        "PORJUSBER-GRUNDF" ;
     dcterms:identifier "urn:eic:46TAC0000000166K" ;
-    skos:altLabel "PORJUS-GRUNDF" ;
+    skos:altLabel "PORJUSBER-GRUNDF" ;
     skos:definition "Internal Line"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Porjus-Grundfors" ;
+    skos:prefLabel "Porjusberget-Grundfors" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

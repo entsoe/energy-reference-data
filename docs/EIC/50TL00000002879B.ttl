@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002879B" ;
-    cim:IdentifiedObject.name "M 66 Buran-Lade" ;
+    cim:IdentifiedObject.name "N 66 Buran-Lade" ;
     cim:Names.name "Internal Line",
-        "NO-BURANLADE" ;
+        "NO-66BURANLADE" ;
     dcterms:identifier "urn:eic:50TL00000002879B" ;
-    skos:altLabel "NO-BURANLADE" ;
+    skos:altLabel "NO-66BURANLADE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Buran-Lade" ;
+    skos:prefLabel "N 66 Buran-Lade" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

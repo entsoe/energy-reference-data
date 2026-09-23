@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVER-AC-NETZ-4" ;
     cim:IdentifiedObject.name "STAWAG Netz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE814121361",
-        "STAWAG-VER-AC" ;
+    cim:Names.name "DE814121361",
+        "STAWAG-VER-AC",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVER-AC-NETZ-4" ;
     schema1:vatID "DE814121361" ;
     skos:altLabel "STAWAG-VER-AC" ;

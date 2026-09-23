@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:56X930000119590Z</dcterms:identifier>
-    <skos:prefLabel>Limited Lability Company GLOBAL ENERGY SOLUTIONS</skos:prefLabel>
+    <skos:prefLabel> GLOBAL ENERGY SOLUTIONS Limited Lability Company</skos:prefLabel>
     <skos:altLabel>GES_LLC</skos:altLabel>
     <cim:IdentifiedObject.mRID>56X930000119590Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Limited Lability Company GLOBAL ENERGY SOLUTIONS</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name> GLOBAL ENERGY SOLUTIONS Limited Lability Company</cim:IdentifiedObject.name>
     <cim:Names.name>GES_LLC</cim:Names.name>
     <cim:Names.name>448232426595</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-07-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-02</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

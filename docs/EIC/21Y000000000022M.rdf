@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Y000000000022M</dcterms:identifier>
-    <skos:prefLabel>Virtual area for yearly flexable contract transfers</skos:prefLabel>
+    <skos:prefLabel>	Virtual area for yearly flexable contract transfer</skos:prefLabel>
     <skos:altLabel>NOMFLXYR</skos:altLabel>
-    <skos:definition xml:lang="en">Virtual Market Area</skos:definition>
     <cim:IdentifiedObject.mRID>21Y000000000022M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Virtual area for yearly flexable contract transfers</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>	Virtual area for yearly flexable contract transfer</cim:IdentifiedObject.name>
     <cim:Names.name>NOMFLXYR</cim:Names.name>
-    <cim:IdentifiedObject.description>Virtual Market Area</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-06-25</cim:DateAndOrTime.date>
+    <cim:Names.name>Market Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

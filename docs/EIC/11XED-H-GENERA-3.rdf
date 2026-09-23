@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XED-H-GENERA-3</dcterms:identifier>
-    <skos:prefLabel>Energiedienst Holding AG</skos:prefLabel>
+    <skos:prefLabel>naturenergie holding AG</skos:prefLabel>
     <skos:altLabel>ED_H</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XED-H-GENERA-3</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Energiedienst Holding AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>naturenergie holding AG</cim:IdentifiedObject.name>
     <cim:Names.name>ED_H</cim:Names.name>
     <cim:Names.name>DE142693600</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-04</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE142693600</schema:vatID>

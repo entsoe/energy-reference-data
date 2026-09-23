@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-26" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000000013-Q" ;
     cim:IdentifiedObject.name "AG KW Wägital" ;
     cim:Names.name "AKW-AS",
-        "Generation Unit" ;
+        "Production Unit" ;
     dcterms:identifier "urn:eic:12W-0000000013-Q" ;
     skos:altLabel "AKW-AS" ;
-    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "AG KW Wägital" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

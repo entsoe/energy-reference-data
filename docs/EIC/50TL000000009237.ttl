@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000009237" ;
     cim:IdentifiedObject.name "S 22 Osfallet-Osa" ;
     cim:Names.name "Internal Line",
-        "NO-OSFALLETOSA" ;
+        "NO-22OSFALLETOSA" ;
     dcterms:identifier "urn:eic:50TL000000009237" ;
-    skos:altLabel "NO-OSFALLETOSA" ;
+    skos:altLabel "NO-22OSFALLETOSA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Osfallet-Osa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

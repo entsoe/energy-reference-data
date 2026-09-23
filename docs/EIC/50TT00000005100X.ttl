@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005100X" ;
-    cim:IdentifiedObject.name "N Kjøllefj T1 Transformator" ;
-    cim:Names.name "NO-KJOLLEFJT1",
+    cim:IdentifiedObject.name "N Kjøllefj T3 Transformator" ;
+    cim:Names.name "NO-KJOLLEFJT3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005100X" ;
-    skos:altLabel "NO-KJOLLEFJT1" ;
+    skos:altLabel "NO-KJOLLEFJT3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Kjøllefj T1 Transformator" ;
+    skos:prefLabel "N Kjøllefj T3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

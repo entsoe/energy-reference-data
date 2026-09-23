@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005096Z",
-    "@skos:prefLabel": "M Kjelbotn T1 Transformator",
+    "@skos:prefLabel": "N Kjelbotn T1 Transformator",
     "@skos:altLabel": "NO-KJELBOTNT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005096Z",
-    "@cim:IdentifiedObject.name": "M Kjelbotn T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Kjelbotn T1 Transformator",
     "@cim:Names.name": [
         "NO-KJELBOTNT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XPOWER2EN-A--N" ;
     cim:IdentifiedObject.name "Power2Energy GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE283222031",
-        "P2EA" ;
+    cim:Names.name "DE283222031",
+        "P2EA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XPOWER2EN-A--N" ;
     schema1:vatID "DE283222031" ;
     skos:altLabel "P2EA" ;

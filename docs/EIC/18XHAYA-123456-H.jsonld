@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XHAYA-123456-H",
     "@skos:prefLabel": "CAPITAN HAYA, S.A.",
     "@skos:altLabel": "HAYA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XHAYA-123456-H",
     "@cim:IdentifiedObject.name": "CAPITAN HAYA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES81653016",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES81653016",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

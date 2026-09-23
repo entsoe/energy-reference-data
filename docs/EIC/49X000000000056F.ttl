@@ -7,18 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-23" ;
+    cim:DateAndOrTime.date "2026-08-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49X000000000056F" ;
-    cim:IdentifiedObject.name "PZEM Energy Company B.V." ;
+    cim:IdentifiedObject.name "TTEP Energy B.V." ;
     cim:Names.name "Balance Responsible Party",
         "Capacity Trader",
-        "NL809135735B01",
-        "PZEM_ENERGY_COMP" ;
+        "EP_COMMODOTIESBV",
+        "NL809135735B01" ;
     dcterms:identifier "urn:eic:49X000000000056F" ;
     schema1:vatID "NL809135735B01" ;
-    skos:altLabel "PZEM_ENERGY_COMP" ;
+    skos:altLabel "EP_COMMODOTIESBV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PZEM Energy Company B.V." ;
+    skos:prefLabel "TTEP Energy B.V." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

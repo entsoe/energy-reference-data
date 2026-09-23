@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-VIRTUALPP01N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-VIRTUALPP01N" ;
+    cim:IdentifiedObject.name "Virtual Power Plant (VPP)" ;
+    cim:Names.name "Generation Unit",
+        "VIRTUALPP01N" ;
+    dcterms:identifier "urn:eic:43W-VIRTUALPP01N" ;
+    skos:altLabel "VIRTUALPP01N" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Virtual Power Plant (VPP)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

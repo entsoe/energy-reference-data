@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:34X-0000000042-F",
-    "@skos:prefLabel": "Kurum Energija D.O.O. Veternik",
+    "@skos:prefLabel": "ELECTRON TRADE 021 DOO",
     "@skos:altLabel": "KUEN",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "34X-0000000042-F",
-    "@cim:IdentifiedObject.name": "Kurum Energija D.O.O. Veternik",
+    "@cim:IdentifiedObject.name": "ELECTRON TRADE 021 DOO",
     "@cim:Names.name": [
         "KUEN",
         "108525493",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-28",
+    "@cim:DateAndOrTime.date": "2024-03-01",
     "@schema:vatID": "108525493",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000011187" ;
     cim:IdentifiedObject.name "Røndøla" ;
-    cim:Names.name "NO-RONDOLA_PL",
+    cim:Names.name "NO-ROENDOELA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000011187" ;
-    skos:altLabel "NO-RONDOLA_PL" ;
+    skos:altLabel "NO-ROENDOELA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Røndøla" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

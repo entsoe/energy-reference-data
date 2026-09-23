@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-23" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-02-05" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "SK2121993874 was corrected due to not correct EIC code it will be deactivated. " ;
     cim:IdentifiedObject.mRID "42X-CINQUE-SRO-0" ;
     cim:IdentifiedObject.name "Cinque s.r.o." ;
-    cim:Names.name "CINQUE",
+    cim:Names.name "212",
+        "CINQUE",
         "Network User",
-        "SK2121993874",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:42X-CINQUE-SRO-0" ;
-    schema1:vatID "SK2121993874" ;
+    schema1:vatID "212" ;
     skos:altLabel "CINQUE" ;
+    skos:definition "SK2121993874 was corrected due to not correct EIC code it will be deactivated. "@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Cinque s.r.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XISA-1234567-0",
     "@skos:prefLabel": "Inversiones Sinfín Agrícola S.L",
     "@skos:altLabel": "ISA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XISA-1234567-0",
     "@cim:IdentifiedObject.name": "Inversiones Sinfín Agrícola S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB78457892",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-09-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB78457892",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "23X--190911--ESP" ;
     cim:IdentifiedObject.name "Engie Energy Marketing Singapore Pte Ltd" ;
     cim:Names.name "ENGIE_SINGAPORE",
-        "LNG System Operator" ;
+        "LNG System Operator",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--190911--ESP" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "ENGIE_SINGAPORE" ;
     skos:definition "Company is incorporated in Singapore. There is no EU VAT available. Company registration number: 201907856R Registration number confirmed through an official document by ACRA."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

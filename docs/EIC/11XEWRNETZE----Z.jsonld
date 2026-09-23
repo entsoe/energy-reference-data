@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XEWRNETZE----Z",
     "@skos:prefLabel": "EWR Netze GmbH",
     "@skos:altLabel": "EWRNETZE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEWRNETZE----Z",
     "@cim:IdentifiedObject.name": "EWR Netze GmbH",
     "@cim:Names.name": [
         "EWRNETZE",
         "DE255506169",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-10-26",
+    "@cim:DateAndOrTime.date": "2024-09-15",
     "@schema:vatID": "DE255506169",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

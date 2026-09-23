@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000000007-I",
     "@skos:prefLabel": "Electra-Massa",
     "@skos:altLabel": "BITSCH-AS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation Unit"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000000007-I",
     "@cim:IdentifiedObject.name": "Electra-Massa",
     "@cim:Names.name": [
         "BITSCH-AS",
-        "Generation Unit"
+        "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-26",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/28X0000000000997> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "28X0000000000997" ;
+    cim:IdentifiedObject.name "ENERGOLINK" ;
+    cim:Names.name "Balance Responsible Party",
+        "ENERGOLINK",
+        "SI22694749" ;
+    dcterms:identifier "urn:eic:28X0000000000997" ;
+    schema1:vatID "SI22694749" ;
+    skos:altLabel "ENERGOLINK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENERGOLINK" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

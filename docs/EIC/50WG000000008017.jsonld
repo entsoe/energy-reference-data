@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000008017",
     "@skos:prefLabel": "KANNDALEG1      HYDRO",
-    "@skos:altLabel": "NO-KANNDALEG1___",
+    "@skos:altLabel": "NO-KANNDALEG1",
     "@cim:IdentifiedObject.mRID": "50WG000000008017",
     "@cim:IdentifiedObject.name": "KANNDALEG1      HYDRO",
     "@cim:Names.name": [
-        "NO-KANNDALEG1___",
+        "NO-KANNDALEG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

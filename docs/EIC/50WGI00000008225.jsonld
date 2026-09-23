@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000008225",
     "@skos:prefLabel": "KISTEFOSG2      HYDRO",
-    "@skos:altLabel": "NO-KISTEFOSG2___",
+    "@skos:altLabel": "NO-KISTEFOSG2",
     "@cim:IdentifiedObject.mRID": "50WGI00000008225",
     "@cim:IdentifiedObject.name": "KISTEFOSG2      HYDRO",
     "@cim:Names.name": [
-        "NO-KISTEFOSG2___",
+        "NO-KISTEFOSG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

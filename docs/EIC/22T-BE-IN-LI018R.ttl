@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-12-07" ;
+    cim:DateAndOrTime.date "2024-05-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "22T-BE-IN-LI018R" ;
-    cim:IdentifiedObject.name "380.11 GRAMME-VANEYCK" ;
-    cim:Names.name "BE11_GRAMM_VANYK",
+    cim:IdentifiedObject.name "380.11 GRAMME-LIXHE" ;
+    cim:Names.name "BE11_GRAMM_LIXHE",
         "Internal Line" ;
     dcterms:identifier "urn:eic:22T-BE-IN-LI018R" ;
-    skos:altLabel "BE11_GRAMM_VANYK" ;
+    skos:altLabel "BE11_GRAMM_LIXHE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "380.11 GRAMME-VANEYCK" ;
+    skos:prefLabel "380.11 GRAMME-LIXHE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XTRADERECY365N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XTRADERECY365N" ;
+    cim:IdentifiedObject.name "Trade & Recycling 365 Kft" ;
+    cim:Names.name "Balance Responsible Party",
+        "HU32519040",
+        "TR365" ;
+    dcterms:identifier "urn:eic:39XTRADERECY365N" ;
+    schema1:vatID "HU32519040" ;
+    skos:altLabel "TR365" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Trade & Recycling 365 Kft" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

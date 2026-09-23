@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XENERGYST----R" ;
     cim:IdentifiedObject.name "ENERGY SALES AND TRADING LTD" ;
     cim:Names.name "ENERGYST",
         "GB152899036",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XENERGYST----R" ;
     schema1:vatID "GB152899036" ;
     skos:altLabel "ENERGYST" ;

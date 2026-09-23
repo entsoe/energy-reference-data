@@ -22,10 +22,11 @@
     "@cim:IdentifiedObject.name": "Sweden",
     "@cim:Names.name": [
         "SE",
-        "Member State",
         "Control Area",
+        "LFC Area",
+        "Member State",
         "Scheduling Area",
-        "LFC Area"
+        "Market Balance Area"
     ],
     "@cim:IdentifiedObject.description": "Control Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45Z000000000017K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45Z000000000017K" ;
+    cim:IdentifiedObject.name "Tjele-Kristiansand 2" ;
+    cim:Names.name "Metering Point",
+        "TJE-KSD_2" ;
+    dcterms:identifier "urn:eic:45Z000000000017K" ;
+    skos:altLabel "TJE-KSD_2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Tjele-Kristiansand 2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

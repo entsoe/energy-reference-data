@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10YDE-SE4-VBZ-01> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "EIC required for the virtual bidding zone representing exchanges between DE and SE4 via Baltic Cable. The new virtual bidding zone is being introduced due to the pending go-live of Advanced Hybrid Coupling in the Core CCR." ;
+    cim:IdentifiedObject.mRID "10YDE-SE4-VBZ-01" ;
+    cim:IdentifiedObject.name "TTG–SE4 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
+    cim:Names.name "Border Area",
+        "TTG-VBZ-SE4" ;
+    dcterms:identifier "urn:eic:10YDE-SE4-VBZ-01" ;
+    skos:altLabel "TTG-VBZ-SE4" ;
+    skos:definition "EIC required for the virtual bidding zone representing exchanges between DE and SE4 via Baltic Cable. The new virtual bidding zone is being introduced due to the pending go-live of Advanced Hybrid Coupling in the Core CCR."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TTG–SE4 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

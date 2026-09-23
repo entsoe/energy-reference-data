@@ -9,12 +9,12 @@
     <cim:IdentifiedObject.mRID>27XLONDONCREDITJ</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>LONDON CREDIT s.r.o.</cim:IdentifiedObject.name>
     <cim:Names.name>LONDONCREDIT</cim:Names.name>
-    <cim:Names.name>CZ24133086</cim:Names.name>
+    <cim:Names.name>cz24133086</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-01-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>CZ24133086</schema:vatID>
+    <schema:vatID>cz24133086</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

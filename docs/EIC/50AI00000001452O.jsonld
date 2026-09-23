@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50AI00000001452O",
-    "@skos:prefLabel": "T_Rørvik",
-    "@skos:altLabel": "NO-T_RORVIK",
+    "@skos:prefLabel": "T_Saltbotn",
+    "@skos:altLabel": "NO-T_SALTBO",
     "@cim:IdentifiedObject.mRID": "50AI00000001452O",
-    "@cim:IdentifiedObject.name": "T_Rørvik",
+    "@cim:IdentifiedObject.name": "T_Saltbotn",
     "@cim:Names.name": [
-        "NO-T_RORVIK",
+        "NO-T_SALTBO",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

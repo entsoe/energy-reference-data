@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25X-DRMALEKGMBHL",
-    "@skos:prefLabel": "Dr. Malek GmbH, 3500 Krems, Gartengasse 2/20",
+    "@skos:prefLabel": "Dr. Malek GmbH",
     "@skos:altLabel": "MALEK",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "25X-DRMALEKGMBHL",
-    "@cim:IdentifiedObject.name": "Dr. Malek GmbH, 3500 Krems, Gartengasse 2/20",
+    "@cim:IdentifiedObject.name": "Dr. Malek GmbH",
     "@cim:Names.name": [
         "MALEK",
         "ATU66909946",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-19",
+    "@cim:DateAndOrTime.date": "2026-04-29",
     "@schema:vatID": "ATU66909946",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

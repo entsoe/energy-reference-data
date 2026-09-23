@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000000598",
     "@skos:prefLabel": "AURA    G101 HYDRO",
-    "@skos:altLabel": "NO-AURA____G101_",
+    "@skos:altLabel": "NO-AURAG101",
     "@cim:IdentifiedObject.mRID": "50WG000000000598",
     "@cim:IdentifiedObject.name": "AURA    G101 HYDRO",
     "@cim:Names.name": [
-        "NO-AURA____G101_",
+        "NO-AURAG101",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

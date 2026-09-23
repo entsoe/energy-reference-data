@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000026506",
-    "@skos:prefLabel": "N Bjørkåse 22 G1 Kabel",
-    "@skos:altLabel": "NO-BJORKASE22G1K",
+    "@skos:prefLabel": "N Bjørkåse 22  G1 Kabel",
+    "@skos:altLabel": "NO-BJORKASE22G1",
     "@cim:IdentifiedObject.mRID": "50TL000000026506",
-    "@cim:IdentifiedObject.name": "N Bjørkåse 22 G1 Kabel",
+    "@cim:IdentifiedObject.name": "N Bjørkåse 22  G1 Kabel",
     "@cim:Names.name": [
-        "NO-BJORKASE22G1K",
+        "NO-BJORKASE22G1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

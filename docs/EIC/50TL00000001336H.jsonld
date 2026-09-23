@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001336H",
-    "@skos:prefLabel": "S 47 Halmstad-Råde",
-    "@skos:altLabel": "NO-HALMSTADRADE",
+    "@skos:prefLabel": "S 132 Halmstad-Råde",
+    "@skos:altLabel": "NO-132HALMSTADFJ",
     "@cim:IdentifiedObject.mRID": "50TL00000001336H",
-    "@cim:IdentifiedObject.name": "S 47 Halmstad-Råde",
+    "@cim:IdentifiedObject.name": "S 132 Halmstad-Råde",
     "@cim:Names.name": [
-        "NO-HALMSTADRADE",
+        "NO-132HALMSTADFJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

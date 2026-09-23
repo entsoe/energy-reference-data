@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y000000000095W" ;
     cim:IdentifiedObject.name "PL - Domestic Gas Fields -  L-gas" ;
     cim:Names.name "DOM_GAS_FLD_L_PL",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y000000000095W" ;
     skos:altLabel "DOM_GAS_FLD_L_PL" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PL - Domestic Gas Fields -  L-gas" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

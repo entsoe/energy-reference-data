@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDES01-------Z" ;
     cim:IdentifiedObject.name "Dalkia Energie Service GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE812642489",
-        "DES01" ;
+    cim:Names.name "DE812642489",
+        "DES01",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDES01-------Z" ;
     schema1:vatID "DE812642489" ;
     skos:altLabel "DES01" ;

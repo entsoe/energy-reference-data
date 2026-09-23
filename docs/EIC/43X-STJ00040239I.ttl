@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00040239I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00040239I" ;
+    cim:IdentifiedObject.name "AGROLATS SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV50003349121",
+        "STJ00040239I" ;
+    dcterms:identifier "urn:eic:43X-STJ00040239I" ;
+    schema1:vatID "LV50003349121" ;
+    skos:altLabel "STJ00040239I" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AGROLATS SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

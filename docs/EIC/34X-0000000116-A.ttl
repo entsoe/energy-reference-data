@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/34X-0000000116-A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "34X-0000000116-A" ;
+    cim:IdentifiedObject.name "GRINNOVATION d.o.o. Beograd-Sopot" ;
+    cim:Names.name "111336825",
+        "GRNN",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:34X-0000000116-A" ;
+    schema1:vatID "111336825" ;
+    skos:altLabel "GRNN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GRINNOVATION d.o.o. Beograd-Sopot" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

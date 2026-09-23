@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:49T000000000439I</dcterms:identifier>
-    <skos:prefLabel>Hoogeveen - Hardenberg blauw 110 kV</skos:prefLabel>
+    <skos:prefLabel>Hoogezand-Kropswolde - Kropswolde 110 kV Wit</skos:prefLabel>
     <skos:altLabel>HGZK-KWD110-W</skos:altLabel>
     <skos:definition xml:lang="en">System Operator</skos:definition>
     <cim:IdentifiedObject.mRID>49T000000000439I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Hoogeveen - Hardenberg blauw 110 kV</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Hoogezand-Kropswolde - Kropswolde 110 kV Wit</cim:IdentifiedObject.name>
     <cim:Names.name>HGZK-KWD110-W</cim:Names.name>
     <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-05-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-05</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

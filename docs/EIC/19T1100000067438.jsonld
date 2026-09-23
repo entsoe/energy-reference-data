@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067438",
-    "@skos:prefLabel": "Łagisza-Blachownia",
+    "@skos:prefLabel": "220kV Blachownia-Lagisza",
     "@skos:altLabel": "3002",
     "@cim:IdentifiedObject.mRID": "19T1100000067438",
-    "@cim:IdentifiedObject.name": "Łagisza-Blachownia",
+    "@cim:IdentifiedObject.name": "220kV Blachownia-Lagisza",
     "@cim:Names.name": [
         "3002",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

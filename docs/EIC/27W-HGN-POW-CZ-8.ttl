@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27W-HGN-POW-CZ-8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27W-HGN-POW-CZ-8" ;
+    cim:IdentifiedObject.name "HGN Power CZ s.r.o." ;
+    cim:Names.name "HGN-POW",
+        "Resource Capacity Market Unit" ;
+    dcterms:identifier "urn:eic:27W-HGN-POW-CZ-8" ;
+    skos:altLabel "HGN-POW" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HGN Power CZ s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

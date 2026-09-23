@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000221C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000221C" ;
+    cim:IdentifiedObject.name "Momentum Energy Jutlandia Development K/S" ;
+    cim:Names.name "37205850",
+        "Energy Supplier",
+        "MOMENTUM-ENERGY" ;
+    dcterms:identifier "urn:eic:45X000000000221C" ;
+    schema1:vatID "37205850" ;
+    skos:altLabel "MOMENTUM-ENERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Momentum Energy Jutlandia Development K/S" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

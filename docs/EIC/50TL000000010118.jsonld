@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000010118",
     "@skos:prefLabel": "S 300 Duge-Roskrepp",
-    "@skos:altLabel": "NO-DUGEROSKREPP",
+    "@skos:altLabel": "NO-300DUGEROSKRE",
     "@cim:IdentifiedObject.mRID": "50TL000000010118",
     "@cim:IdentifiedObject.name": "S 300 Duge-Roskrepp",
     "@cim:Names.name": [
-        "NO-DUGEROSKREPP",
+        "NO-300DUGEROSKRE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

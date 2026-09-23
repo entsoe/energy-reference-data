@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000413U</dcterms:identifier>
-    <skos:prefLabel>&#924;OTOR OIL</skos:prefLabel>
+    <skos:prefLabel>MOTOR OIL</skos:prefLabel>
     <skos:altLabel>MOTOR-OIL-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection With The Final Consumer</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000413U</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>&#924;OTOR OIL</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>MOTOR OIL</cim:IdentifiedObject.name>
     <cim:Names.name>MOTOR-OIL-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection With The Final Consumer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

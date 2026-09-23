@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27X-RPCOMM-SRO-K" ;
     cim:IdentifiedObject.name "RIGHT POWER COMMODITIES s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ03606554",
-        "RPCOM" ;
+        "RPCOM",
+        "cz03606554" ;
     dcterms:identifier "urn:eic:27X-RPCOMM-SRO-K" ;
-    schema1:vatID "CZ03606554" ;
+    schema1:vatID "cz03606554" ;
     skos:altLabel "RPCOM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "RIGHT POWER COMMODITIES s.r.o." ;

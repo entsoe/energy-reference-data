@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43WAOXTRADESES4S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43WAOXTRADESES4S" ;
+    cim:IdentifiedObject.name "AOX_SES_4" ;
+    cim:Names.name "AOXTRADESES4S",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:43WAOXTRADESES4S" ;
+    skos:altLabel "AOXTRADESES4S" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AOX_SES_4" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

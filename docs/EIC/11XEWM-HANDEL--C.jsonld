@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XEWM-HANDEL--C",
     "@skos:prefLabel": "Elektrizitätswerk Mittelbaden AG & Co. KG",
     "@skos:altLabel": "EWM-HANDEL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XEWM-HANDEL--C",
     "@cim:IdentifiedObject.name": "Elektrizitätswerk Mittelbaden AG & Co. KG",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE814101932",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-09",
+    "@cim:DateAndOrTime.date": "2026-01-23",
     "@schema:vatID": "DE814101932",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

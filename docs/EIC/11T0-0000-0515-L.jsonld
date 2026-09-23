@@ -16,7 +16,10 @@
     "@skos:altLabel": "ODENWDO",
     "@cim:IdentifiedObject.mRID": "11T0-0000-0515-L",
     "@cim:IdentifiedObject.name": "AMP / 220kV / Beerfelden - Urberach / Odenwald Ost",
-    "@cim:Names.name": "ODENWDO",
+    "@cim:Names.name": [
+        "ODENWDO",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

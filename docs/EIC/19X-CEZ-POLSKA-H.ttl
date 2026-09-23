@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-04-11" ;
+    cim:DateAndOrTime.date "2026-03-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19X-CEZ-POLSKA-H" ;
-    cim:IdentifiedObject.name "CEZ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "RESINVEST ENERGY POLSKA SP. Z O.O." ;
     cim:Names.name "Balance Responsible Party",
-        "CEZ_POLSKA",
-        "PL5252374406" ;
+        "Energy Supplier",
+        "PL5252374406",
+        "RE-POLSKA" ;
     dcterms:identifier "urn:eic:19X-CEZ-POLSKA-H" ;
     schema1:vatID "PL5252374406" ;
-    skos:altLabel "CEZ_POLSKA" ;
+    skos:altLabel "RE-POLSKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CEZ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "RESINVEST ENERGY POLSKA SP. Z O.O." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

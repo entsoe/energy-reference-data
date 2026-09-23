@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000005611" ;
     cim:IdentifiedObject.name "GRYTTEN G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GRYTTEN_G105_" ;
+        "NO-GRYTTENG105" ;
     dcterms:identifier "urn:eic:50WG000000005611" ;
-    skos:altLabel "NO-GRYTTEN_G105_" ;
+    skos:altLabel "NO-GRYTTENG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GRYTTEN G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

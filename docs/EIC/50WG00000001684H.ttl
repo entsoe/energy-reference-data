@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-08-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001684H" ;
-    cim:IdentifiedObject.name "STOKKELAG148 HYDRO" ;
+    cim:IdentifiedObject.name "TAU     G148 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STOKKELAG148_" ;
+        "NO-TAUG148" ;
     dcterms:identifier "urn:eic:50WG00000001684H" ;
-    skos:altLabel "NO-STOKKELAG148_" ;
+    skos:altLabel "NO-TAUG148" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STOKKELAG148 HYDRO" ;
+    skos:prefLabel "TAU     G148 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

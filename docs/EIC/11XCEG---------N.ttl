@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCEG---------N" ;
     cim:IdentifiedObject.name "Centrica Energie GmbH" ;
-    cim:Names.name "Balance Group",
-        "CENTRICA",
-        "DE814697111" ;
+    cim:Names.name "CENTRICA",
+        "DE814697111",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCEG---------N" ;
     schema1:vatID "DE814697111" ;
     skos:altLabel "CENTRICA" ;

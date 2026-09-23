@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000026514",
-    "@skos:prefLabel": "N Varanger 22 T3 kabel",
+    "@skos:prefLabel": "N Varanger 22  T3 kabel",
     "@skos:altLabel": "NO-VARANGER22T3",
     "@cim:IdentifiedObject.mRID": "50TL000000026514",
-    "@cim:IdentifiedObject.name": "N Varanger 22 T3 kabel",
+    "@cim:IdentifiedObject.name": "N Varanger 22  T3 kabel",
     "@cim:Names.name": [
         "NO-VARANGER22T3",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

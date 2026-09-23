@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG00000000092A" ;
     cim:IdentifiedObject.name "BARDUFOSG105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BARDUFOSG105_" ;
+        "NO-BARDUFOSG105" ;
     dcterms:identifier "urn:eic:50WG00000000092A" ;
-    skos:altLabel "NO-BARDUFOSG105_" ;
+    skos:altLabel "NO-BARDUFOSG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BARDUFOSG105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

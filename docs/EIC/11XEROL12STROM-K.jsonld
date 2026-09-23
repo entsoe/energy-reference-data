@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XEROL12STROM-K",
     "@skos:prefLabel": "Stadtwerkenergie Ostwestfalen-Lippe GmbH",
     "@skos:altLabel": "EROL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XEROL12STROM-K",
     "@cim:IdentifiedObject.name": "Stadtwerkenergie Ostwestfalen-Lippe GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE262753341",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-11",
+    "@cim:DateAndOrTime.date": "2025-04-07",
     "@schema:vatID": "DE262753341",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

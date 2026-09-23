@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P8IJ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Deactivation request as duplicated with 47X000000000330E, which had VAT code without the prefix. Uncorrectly allowed creation as the same VAT was used, with the only difference of the prefix. " ;
+    cim:IdentifiedObject.mRID "18X000000000P8IJ" ;
+    cim:IdentifiedObject.name "CFP COMMODITIES LIMITED" ;
+    cim:Names.name "IE-CFPENERGY",
+        "IE3686266AH",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P8IJ" ;
+    schema1:vatID "IE3686266AH" ;
+    skos:altLabel "IE-CFPENERGY" ;
+    skos:definition "Deactivation request as duplicated with 47X000000000330E, which had VAT code without the prefix. Uncorrectly allowed creation as the same VAT was used, with the only difference of the prefix. "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CFP COMMODITIES LIMITED" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

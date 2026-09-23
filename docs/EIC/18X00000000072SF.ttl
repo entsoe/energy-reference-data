@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-12-01" ;
+    cim:DateAndOrTime.date "2025-11-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X00000000072SF" ;
-    cim:IdentifiedObject.name "NATURWATIO S.L.U." ;
+    cim:IdentifiedObject.name "WAQBAW ENERGIA Y NATURALEZA SL" ;
     cim:Names.name "ESB87489993",
         "NATUR",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESB87489993" ;
     skos:altLabel "NATUR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NATURWATIO S.L.U." ;
+    skos:prefLabel "WAQBAW ENERGIA Y NATURALEZA SL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

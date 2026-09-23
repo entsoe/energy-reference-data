@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000026506" ;
-    cim:IdentifiedObject.name "N Bjørkåse 22 G1 Kabel" ;
+    cim:IdentifiedObject.name "N Bjørkåse 22  G1 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-BJORKASE22G1K" ;
+        "NO-BJORKASE22G1" ;
     dcterms:identifier "urn:eic:50TL000000026506" ;
-    skos:altLabel "NO-BJORKASE22G1K" ;
+    skos:altLabel "NO-BJORKASE22G1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Bjørkåse 22 G1 Kabel" ;
+    skos:prefLabel "N Bjørkåse 22  G1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

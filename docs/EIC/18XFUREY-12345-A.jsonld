@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFUREY-12345-A",
     "@skos:prefLabel": "FUNDACION RAMON REY ARDID",
     "@skos:altLabel": "FUREY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFUREY-12345-A",
     "@cim:IdentifiedObject.name": "FUNDACION RAMON REY ARDID",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG50491166",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-18",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG50491166",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

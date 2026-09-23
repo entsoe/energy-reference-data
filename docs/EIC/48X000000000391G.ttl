@@ -1,0 +1,47 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000391G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """C/O Brockwell Energy Limited 
+The Eagle Building-Third Floor,
+19 Rose Street, 
+Edinburgh, 
+EH2 2PR
+
+Contact Details
+Neil Young
+Neil.young@brockwellenergy.co.uk
+0131 370 0000
+Richard.buckland@brockwellenergy.co.uk
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000391G" ;
+    cim:IdentifiedObject.name "NORTH KYLE WIND FARM LIMITED " ;
+    cim:Names.name "GB431495107",
+        "NORKYLWF",
+        "Producer" ;
+    dcterms:identifier "urn:eic:48X000000000391G" ;
+    schema1:vatID "GB431495107" ;
+    skos:altLabel "NORKYLWF" ;
+    skos:definition """C/O Brockwell Energy Limited 
+The Eagle Building-Third Floor,
+19 Rose Street, 
+Edinburgh, 
+EH2 2PR
+
+Contact Details
+Neil Young
+Neil.young@brockwellenergy.co.uk
+0131 370 0000
+Richard.buckland@brockwellenergy.co.uk
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NORTH KYLE WIND FARM LIMITED " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,16 +7,31 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-31" ;
+    cim:DateAndOrTime.date "2024-02-15" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact details:
+
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+""" ;
     cim:IdentifiedObject.mRID "48X000000000353O" ;
     cim:IdentifiedObject.name "Hirwaun Power Limited" ;
-    cim:Names.name "GB744326437",
+    cim:Names.name "Balance Responsible Party",
+        "GB744326437",
         "HPL",
-        "Party Connected To Grid" ;
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:48X000000000353O" ;
     schema1:vatID "GB744326437" ;
     skos:altLabel "HPL" ;
+    skos:definition """Contact details:
+
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Hirwaun Power Limited" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

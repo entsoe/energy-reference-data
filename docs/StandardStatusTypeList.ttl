@@ -89,7 +89,7 @@ In this case the resources are no longer available to all Acquiring System Opera
 
 <http://energy.referencedata.eu/StandardStatusTypeList/A13> a skos:Concept ;
     dcterms:identifier "A13" ;
-    skos:definition "The information has been withdrawn by the submitter."@en ;
+    skos:definition "The information or action has been withdrawn by the submitter."@en ;
     skos:inScheme <http://energy.referencedata.eu/StandardStatusTypeList> ;
     skos:prefLabel "Withdrawn" ;
     skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .
@@ -514,11 +514,32 @@ In this case the resources are no longer available to all Acquiring System Opera
     skos:prefLabel "Delta" ;
     skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .
 
+<http://energy.referencedata.eu/StandardStatusTypeList/A74> a skos:Concept ;
+    dcterms:identifier "A74" ;
+    skos:definition "The object or action was validated."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardStatusTypeList> ;
+    skos:prefLabel "Validated" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .
+
+<http://energy.referencedata.eu/StandardStatusTypeList/A75> a skos:Concept ;
+    dcterms:identifier "A75" ;
+    skos:definition "The object or action was invalid."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardStatusTypeList> ;
+    skos:prefLabel "Invalid" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .
+
+<http://energy.referencedata.eu/StandardStatusTypeList/A76> a skos:Concept ;
+    dcterms:identifier "A76" ;
+    skos:definition "The object or action was timed out."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardStatusTypeList> ;
+    skos:prefLabel "Timed out" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .
+
 <http://energy.referencedata.eu/StandardStatusTypeList> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "ET0025" ;
-    dcterms:modified "2023-12-14" ;
+    dcterms:modified "2026-06-04" ;
     skos:definition "The condition or position of an object with regard to its standing."@en ;
     skos:prefLabel "StandardStatusTypeList" ;
-    dcat:version "91" .
+    dcat:version "95" .
 

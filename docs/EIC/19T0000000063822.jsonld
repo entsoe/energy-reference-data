@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000063822",
-    "@skos:prefLabel": "Stanisławów-Miłosna 2",
+    "@skos:prefLabel": "400kV Milosna-Stanislawow 2",
     "@skos:altLabel": "E203",
     "@cim:IdentifiedObject.mRID": "19T0000000063822",
-    "@cim:IdentifiedObject.name": "Stanisławów-Miłosna 2",
+    "@cim:IdentifiedObject.name": "400kV Milosna-Stanislawow 2",
     "@cim:Names.name": [
         "E203",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000051904" ;
     cim:IdentifiedObject.name "ITTERBECK" ;
-    cim:Names.name "37Z0000000051904" ;
+    cim:Names.name "37Z0000000051904",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000051904" ;
     skos:altLabel "37Z0000000051904" ;
     skos:definition "Connection Point"@en ;

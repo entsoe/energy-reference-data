@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000008176",
-    "@skos:prefLabel": "S 22 Blåfalli 3-Åkraelva",
-    "@skos:altLabel": "NO-BLAFALLI3AKRA",
+    "@skos:prefLabel": "S 22 Opstveit-Åkraelva",
+    "@skos:altLabel": "NO-22OPSTVEIT_3A",
     "@cim:IdentifiedObject.mRID": "50TL000000008176",
-    "@cim:IdentifiedObject.name": "S 22 Blåfalli 3-Åkraelva",
+    "@cim:IdentifiedObject.name": "S 22 Opstveit-Åkraelva",
     "@cim:Names.name": [
-        "NO-BLAFALLI3AKRA",
+        "NO-22OPSTVEIT_3A",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

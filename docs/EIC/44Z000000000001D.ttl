@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/44Z000000000001D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "44Z000000000001D" ;
+    cim:IdentifiedObject.name "Rauma_Finnbole" ;
+    cim:Names.name "Metering Point",
+        "RAUMA_FBL" ;
+    dcterms:identifier "urn:eic:44Z000000000001D" ;
+    skos:altLabel "RAUMA_FBL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Rauma_Finnbole" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

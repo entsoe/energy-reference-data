@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WGI0000002944I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-01" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "50WGI0000002944I" ;
+    cim:IdentifiedObject.name "STORD   G108 THERM" ;
+    cim:Names.name "Generation Unit",
+        "NO-STORDG108" ;
+    dcterms:identifier "urn:eic:50WGI0000002944I" ;
+    skos:altLabel "NO-STORDG108" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "STORD   G108 THERM" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

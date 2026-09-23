@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XALEVASTR-KFTK> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XALEVASTR-KFTK" ;
+    cim:IdentifiedObject.name "ALEVASTRADING Kft" ;
+    cim:Names.name "ALEVASTRADING",
+        "Balance Responsible Party",
+        "HU32450095" ;
+    dcterms:identifier "urn:eic:39XALEVASTR-KFTK" ;
+    schema1:vatID "HU32450095" ;
+    skos:altLabel "ALEVASTRADING" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ALEVASTRADING Kft" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

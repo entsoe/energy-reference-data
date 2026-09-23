@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSPAR2-12345-O",
     "@skos:prefLabel": "SPAR 2000 SL",
     "@skos:altLabel": "SPAR2",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSPAR2-12345-O",
     "@cim:IdentifiedObject.name": "SPAR 2000 SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB35627371",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB35627371",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

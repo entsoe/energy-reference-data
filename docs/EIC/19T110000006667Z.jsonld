@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006667Z",
-    "@skos:prefLabel": "Wrzosowa-A3",
+    "@skos:prefLabel": "220/110kV Wrzosowa AT3",
     "@skos:altLabel": "WRZ-A3",
     "@cim:IdentifiedObject.mRID": "19T110000006667Z",
-    "@cim:IdentifiedObject.name": "Wrzosowa-A3",
+    "@cim:IdentifiedObject.name": "220/110kV Wrzosowa AT3",
     "@cim:Names.name": [
         "WRZ-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

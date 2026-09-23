@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X24SIEBENEPM-0</dcterms:identifier>
-    <skos:prefLabel>Stadtwerke Kiel AG</skos:prefLabel>
+    <skos:prefLabel>Stadtwerke Kiel Aktiengesellschaft</skos:prefLabel>
     <skos:altLabel>24SIEBEN-EPM</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11X24SIEBENEPM-0</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stadtwerke Kiel AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Stadtwerke Kiel Aktiengesellschaft</cim:IdentifiedObject.name>
     <cim:Names.name>24SIEBEN-EPM</cim:Names.name>
     <cim:Names.name>DE811195284</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-10-05</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-12</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811195284</schema:vatID>
   </skos:Concept>

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/16XDOUROCOM----Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "16XDOUROCOM----Y" ;
+    cim:IdentifiedObject.name "Dourogás Comercial, SA." ;
+    cim:Names.name "DOUROCOM",
+        "PT518398331",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:16XDOUROCOM----Y" ;
+    schema1:vatID "PT518398331" ;
+    skos:altLabel "DOUROCOM" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dourogás Comercial, SA." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

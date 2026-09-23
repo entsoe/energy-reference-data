@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Energiehandel Und Lieferung An Kunden" ;
     cim:IdentifiedObject.mRID "11XREMU--------7" ;
     cim:IdentifiedObject.name "Remu Energy Trade" ;
-    cim:Names.name "DE218677956",
-        "REMU",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE218677956",
+        "REMU" ;
     dcterms:identifier "urn:eic:11XREMU--------7" ;
     schema1:vatID "DE218677956" ;
     skos:altLabel "REMU" ;

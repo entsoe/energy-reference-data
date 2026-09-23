@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000020453",
     "@skos:prefLabel": "Sagelva NTE",
-    "@skos:altLabel": "NO-SAGELVA_NTE",
+    "@skos:altLabel": "NO-SAGELVANTE",
     "@cim:IdentifiedObject.mRID": "50WP000000020453",
     "@cim:IdentifiedObject.name": "Sagelva NTE",
     "@cim:Names.name": [
-        "NO-SAGELVA_NTE",
+        "NO-SAGELVANTE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

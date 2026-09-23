@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P0340L",
-    "@skos:prefLabel": "CROIX-DE-METZ ",
+    "@skos:prefLabel": "CROIX DE METZ",
     "@skos:altLabel": "FR_GA-TOULMETZ-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Production Unit"
+        "@value": "Production Unit Validation CIO"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P0340L",
-    "@cim:IdentifiedObject.name": "CROIX-DE-METZ ",
+    "@cim:IdentifiedObject.name": "CROIX DE METZ",
     "@cim:Names.name": [
         "FR_GA-TOULMETZ-P",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Production Unit",
+    "@cim:IdentifiedObject.description": "Production Unit Validation CIO",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-12",
+    "@cim:DateAndOrTime.date": "2026-04-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

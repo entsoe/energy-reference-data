@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000948S",
-    "@skos:prefLabel": "S 22 Sollia-Einunna",
-    "@skos:altLabel": "NO-SOLLIAEINUNNA",
+    "@skos:prefLabel": "S 22 Alvdal-Einunna",
+    "@skos:altLabel": "NO-22ALVDALEINUN",
     "@cim:IdentifiedObject.mRID": "50TL00000000948S",
-    "@cim:IdentifiedObject.name": "S 22 Sollia-Einunna",
+    "@cim:IdentifiedObject.name": "S 22 Alvdal-Einunna",
     "@cim:Names.name": [
-        "NO-SOLLIAEINUNNA",
+        "NO-22ALVDALEINUN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

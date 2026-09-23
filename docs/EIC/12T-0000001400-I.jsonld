@@ -13,7 +13,7 @@
     },
     "@dcterms:identifier": "urn:eic:12T-0000001400-I",
     "@skos:prefLabel": "220 kV Chavalon-Roche Y/Mast 33 2",
-    "@skos:altLabel": "0",
+    "@skos:altLabel": "2CHAV-ROCHYM33IL",
     "@skos:definition": {
         "@language": "en",
         "@value": "Internal Line"
@@ -21,13 +21,13 @@
     "@cim:IdentifiedObject.mRID": "12T-0000001400-I",
     "@cim:IdentifiedObject.name": "220 kV Chavalon-Roche Y/Mast 33 2",
     "@cim:Names.name": [
-        "0",
+        "2CHAV-ROCHYM33IL",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "Internal Line",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-10",
+    "@cim:DateAndOrTime.date": "2025-06-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

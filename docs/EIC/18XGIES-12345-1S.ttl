@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XGIES-12345-1S" ;
     cim:IdentifiedObject.name "HIDROELÉCTRICA DEL GIESTA, S.R.L." ;
     cim:Names.name "ESB15349251",
         "GIES",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XGIES-12345-1S" ;
     schema1:vatID "ESB15349251" ;
     skos:altLabel "GIES" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HIDROELÉCTRICA DEL GIESTA, S.R.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

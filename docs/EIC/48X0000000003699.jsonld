@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X0000000003699",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X0000000003699",
+    "@skos:prefLabel": "Axle Energy Limited",
+    "@skos:altLabel": "AXLE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "128 City Road\nLondon\nEC1V 2NX\nUK\nKarl Bach\nkarl@axle.energy\n+44 7864543243\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X0000000003699",
+    "@cim:IdentifiedObject.name": "Axle Energy Limited",
+    "@cim:Names.name": [
+        "AXLE",
+        "GB441984865",
+        "Balancing Service Provider"
+    ],
+    "@cim:IdentifiedObject.description": "128 City Road\nLondon\nEC1V 2NX\nUK\nKarl Bach\nkarl@axle.energy\n+44 7864543243\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-03-21",
+    "@schema:vatID": "GB441984865",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

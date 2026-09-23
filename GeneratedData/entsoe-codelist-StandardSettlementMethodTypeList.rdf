@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardSettlementMethodTypeList">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
+    <skos:prefLabel>StandardSettlementMethodTypeList</skos:prefLabel>
+    <dcterms:identifier>
+        </dcterms:identifier>
+    <skos:definition xml:lang="en">
+        </skos:definition>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardSettlementMethodTypeList/E01">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardSettlementMethodTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardSettlementMethodTypeList"/>
+    <dcterms:identifier>E01</dcterms:identifier>
+    <skos:prefLabel>Profiled</skos:prefLabel>
+    <skos:definition xml:lang="en">The settlement method regards profiled metered accounting points.</skos:definition>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardSettlementMethodTypeList/E02">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardSettlementMethodTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardSettlementMethodTypeList"/>
+    <dcterms:identifier>E02</dcterms:identifier>
+    <skos:prefLabel>Non-profiled</skos:prefLabel>
+    <skos:definition xml:lang="en">The settlement method regards continuous metered (non-profiled) accounting points.</skos:definition>
+  </skos:Concept>
+</rdf:RDF>

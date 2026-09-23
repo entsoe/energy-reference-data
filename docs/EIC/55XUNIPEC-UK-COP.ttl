@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/55XUNIPEC-UK-COP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "55XUNIPEC-UK-COP" ;
+    cim:IdentifiedObject.name "UNIPEC UK CO LIMITED" ;
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
+        "GB678165201",
+        "LNG System Operator",
+        "Trade Responsible Party",
+        "UNIPEC_UK" ;
+    dcterms:identifier "urn:eic:55XUNIPEC-UK-COP" ;
+    schema1:vatID "GB678165201" ;
+    skos:altLabel "UNIPEC_UK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UNIPEC UK CO LIMITED" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>23X--190822-TI-K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TRANSPACIFIC INVESTMENT GROUP PTE LTD</cim:IdentifiedObject.name>
     <cim:Names.name>TRANSPACIFIC_IG</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>The company is registered in Singapore where VAT is not applicable, only registration number. Company Registration Number: 200917747M Confirmed by an official excerpt from Accounting and Corporate Regulatory Authority (ACRA)</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-08-22</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XVERSA-12345-X</dcterms:identifier>
     <skos:prefLabel>SALA VERSALLES, S.A.</skos:prefLabel>
     <skos:altLabel>VERSA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XVERSA-12345-X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SALA VERSALLES, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>VERSA</cim:Names.name>
     <cim:Names.name>ESA81239063</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA81239063</schema:vatID>

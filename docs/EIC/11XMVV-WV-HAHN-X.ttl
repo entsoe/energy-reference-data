@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMVV-WV-HAHN-X" ;
     cim:IdentifiedObject.name "MVV Energie AG" ;
-    cim:Names.name "Balance Group",
-        "DE811244542",
-        "MVV-WV-HAHN" ;
+    cim:Names.name "DE811244542",
+        "MVV-WV-HAHN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMVV-WV-HAHN-X" ;
     schema1:vatID "DE811244542" ;
     skos:altLabel "MVV-WV-HAHN" ;

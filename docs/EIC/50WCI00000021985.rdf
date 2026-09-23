@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WCI00000021985</dcterms:identifier>
     <skos:prefLabel>S Martin L 100 L1 Industri</skos:prefLabel>
-    <skos:altLabel>NO-MARTIN100L1NC</skos:altLabel>
+    <skos:altLabel>NO-MARTIN_L100L1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WCI00000021985</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S Martin L 100 L1 Industri</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-MARTIN100L1NC</cim:Names.name>
+    <cim:Names.name>NO-MARTIN_L100L1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

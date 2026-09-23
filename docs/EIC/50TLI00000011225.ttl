@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000011225" ;
-    cim:IdentifiedObject.name "S 300 T_Sundsbarm-Sundsbarm" ;
+    cim:IdentifiedObject.name "S 300 T_Flatin-Sundsbarm" ;
     cim:Names.name "Internal Line",
-        "NO-TSUNDSBARMSUN" ;
+        "NO-300T_FLATIN_S" ;
     dcterms:identifier "urn:eic:50TLI00000011225" ;
-    skos:altLabel "NO-TSUNDSBARMSUN" ;
+    skos:altLabel "NO-300T_FLATIN_S" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 300 T_Sundsbarm-Sundsbarm" ;
+    skos:prefLabel "S 300 T_Flatin-Sundsbarm" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

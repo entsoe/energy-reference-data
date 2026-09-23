@@ -12,22 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:30XRODALKIA----B",
-    "@skos:prefLabel": "SC DALKIA TERMO PRAHOVA SRL",
+    "@skos:prefLabel": "VEOLIA ENERGIE PRAHOVA SRL",
     "@skos:altLabel": "DALKIA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Party"
     },
     "@cim:IdentifiedObject.mRID": "30XRODALKIA----B",
-    "@cim:IdentifiedObject.name": "SC DALKIA TERMO PRAHOVA SRL",
+    "@cim:IdentifiedObject.name": "VEOLIA ENERGIE PRAHOVA SRL",
     "@cim:Names.name": [
         "DALKIA",
-        "Valid EIC Function needed"
+        "RO16372612",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-03",
+    "@schema:vatID": "RO16372612",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

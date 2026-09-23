@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XAQUAGESTAST1L</dcterms:identifier>
     <skos:prefLabel>aquagest ptfa s.a</skos:prefLabel>
     <skos:altLabel>AQU</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XAQUAGESTAST1L</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>aquagest ptfa s.a</cim:IdentifiedObject.name>
     <cim:Names.name>AQU</cim:Names.name>
     <cim:Names.name>ESA28220606</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-11-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA28220606</schema:vatID>

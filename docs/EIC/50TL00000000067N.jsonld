@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000067N",
-    "@skos:prefLabel": "S 12 Hydro Høyanger-Høyanger kr.st. 54",
-    "@skos:altLabel": "NO-HYDROHOYHOY54",
+    "@skos:prefLabel": "N 12 Hydro Høyanger-Høyanger kr.st. 54",
+    "@skos:altLabel": "NO-12HYDRO_KR54",
     "@cim:IdentifiedObject.mRID": "50TL00000000067N",
-    "@cim:IdentifiedObject.name": "S 12 Hydro Høyanger-Høyanger kr.st. 54",
+    "@cim:IdentifiedObject.name": "N 12 Hydro Høyanger-Høyanger kr.st. 54",
     "@cim:Names.name": [
-        "NO-HYDROHOYHOY54",
+        "NO-12HYDRO_KR54",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,12 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-09-20" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2024-04-04" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X930000121320O" ;
     cim:IdentifiedObject.name "ANTHRAZIT GMBH" ;
     cim:Names.name "ANTHRAZIT_GMBH",
-        "DE325582986" ;
+        "DE325582986",
+        "Network User",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:56X930000121320O" ;
     schema1:vatID "DE325582986" ;
     skos:altLabel "ANTHRAZIT_GMBH" ;

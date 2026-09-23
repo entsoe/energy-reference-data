@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XKNV---------G" ;
     cim:IdentifiedObject.name "Kooperation Niedersächsischer Versorgungsunternehmen" ;
-    cim:Names.name "Balance Group",
-        "CH182610",
-        "KNV" ;
+    cim:Names.name "CH182610",
+        "KNV",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKNV---------G" ;
     schema1:vatID "CH182610" ;
     skos:altLabel "KNV" ;

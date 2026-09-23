@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46WPU00000001784",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46WPU00000001784",
+    "@skos:prefLabel": "82772 Korskrogen, Laforsens kraftverk 0, Sweden",
+    "@skos:altLabel": "82772_LAFORSENS",
+    "@cim:IdentifiedObject.mRID": "46WPU00000001784",
+    "@cim:IdentifiedObject.name": "82772 Korskrogen, Laforsens kraftverk 0, Sweden",
+    "@cim:Names.name": [
+        "82772_LAFORSENS",
+        "Production Unit"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-10-22",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

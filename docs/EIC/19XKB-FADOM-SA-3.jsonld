@@ -12,12 +12,13 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XKB-FADOM-SA-3",
-    "@skos:prefLabel": "KORPORACJA BUDOWLANA FADOM SPÓŁKA AKCYJNA",
-    "@skos:altLabel": "KB-FADOM-SA",
+    "@skos:prefLabel": "SDE FADOM SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "SDE-FADOM-SA",
     "@cim:IdentifiedObject.mRID": "19XKB-FADOM-SA-3",
-    "@cim:IdentifiedObject.name": "KORPORACJA BUDOWLANA FADOM SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "SDE FADOM SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
-        "KB-FADOM-SA",
+        "SDE-FADOM-SA",
+        "A0011473J.PL",
         "PL6510003555",
         "Energy Supplier",
         "Meter Administrator",
@@ -27,7 +28,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-14",
+    "@cim:DateAndOrTime.date": "2026-08-17",
     "@schema:vatID": "PL6510003555",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

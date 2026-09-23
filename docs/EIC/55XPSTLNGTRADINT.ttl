@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-01" ;
+    cim:DateAndOrTime.date "2026-04-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "55XPSTLNGTRADINT" ;
-    cim:IdentifiedObject.name "PST LNG TRADING LIMITED" ;
+    cim:IdentifiedObject.name "ORLEN LNG TRADING LIMITED" ;
     cim:Names.name "GB431490612",
         "Network User",
-        "PSTLNGTRADING" ;
+        "ORLENLNGTRADING" ;
     dcterms:identifier "urn:eic:55XPSTLNGTRADINT" ;
     schema1:vatID "GB431490612" ;
-    skos:altLabel "PSTLNGTRADING" ;
+    skos:altLabel "ORLENLNGTRADING" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PST LNG TRADING LIMITED" ;
+    skos:prefLabel "ORLEN LNG TRADING LIMITED" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

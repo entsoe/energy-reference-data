@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18WVITOVP3-123-I" ;
     cim:IdentifiedObject.name "VITOL SA" ;
-    cim:Names.name "VITOVP3" ;
+    cim:Names.name "Production Unit",
+        "VITOVP3" ;
     dcterms:identifier "urn:eic:18WVITOVP3-123-I" ;
     skos:altLabel "VITOVP3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

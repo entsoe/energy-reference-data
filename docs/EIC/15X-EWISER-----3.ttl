@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-10-21" ;
+    cim:DateAndOrTime.date "2024-04-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15X-EWISER-----3" ;
-    cim:IdentifiedObject.name "EWISER Energy Trade Kft." ;
+    cim:IdentifiedObject.name "Electron Energy Trade Kft." ;
     cim:Names.name "Balance Responsible Party",
         "EWISER",
         "HU26721486" ;
@@ -18,6 +18,6 @@
     schema1:vatID "HU26721486" ;
     skos:altLabel "EWISER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EWISER Energy Trade Kft." ;
+    skos:prefLabel "Electron Energy Trade Kft." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

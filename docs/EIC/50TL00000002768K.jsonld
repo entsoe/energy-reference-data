@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002768K",
-    "@skos:prefLabel": "S 22 Ylja-Eidsfoss 2",
-    "@skos:altLabel": "NO-YLJAEIDSFO2",
+    "@skos:prefLabel": "S 22 Ala-Lomen",
+    "@skos:altLabel": "NO-22ALALOME",
     "@cim:IdentifiedObject.mRID": "50TL00000002768K",
-    "@cim:IdentifiedObject.name": "S 22 Ylja-Eidsfoss 2",
+    "@cim:IdentifiedObject.name": "S 22 Ala-Lomen",
     "@cim:Names.name": [
-        "NO-YLJAEIDSFO2",
+        "NO-22ALALOME",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

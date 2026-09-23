@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XESALZ-12345-7",
     "@skos:prefLabel": "ESTACION DE SERVICIO A.L.Z., S.L.",
     "@skos:altLabel": "ESALZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XESALZ-12345-7",
     "@cim:IdentifiedObject.name": "ESTACION DE SERVICIO A.L.Z., S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB46394094",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-21",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB46394094",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

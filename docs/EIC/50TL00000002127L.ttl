@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002127L" ;
-    cim:IdentifiedObject.name "S 66 Skogen-Nes_BK" ;
+    cim:IdentifiedObject.name "S 66 T_Bråten-Nes_BK" ;
     cim:Names.name "Internal Line",
-        "NO-SKOGENNESBK" ;
+        "NO-66T_BRATES_BK" ;
     dcterms:identifier "urn:eic:50TL00000002127L" ;
-    skos:altLabel "NO-SKOGENNESBK" ;
+    skos:altLabel "NO-66T_BRATES_BK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Skogen-Nes_BK" ;
+    skos:prefLabel "S 66 T_Bråten-Nes_BK" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

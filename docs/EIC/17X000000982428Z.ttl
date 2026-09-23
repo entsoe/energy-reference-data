@@ -7,8 +7,9 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-12-21" ;
+    cim:DateAndOrTime.date "2025-06-11" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Update status" ;
     cim:IdentifiedObject.mRID "17X000000982428Z" ;
     cim:IdentifiedObject.name "GreenYellow Energy Supply and Services France" ;
     cim:Names.name "Energy Supplier",
@@ -17,6 +18,7 @@
     dcterms:identifier "urn:eic:17X000000982428Z" ;
     schema1:vatID "FR67853869840" ;
     skos:altLabel "FR_GYESSFR" ;
+    skos:definition "Update status"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GreenYellow Energy Supply and Services France" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

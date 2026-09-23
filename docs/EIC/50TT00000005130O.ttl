@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005130O" ;
-    cim:IdentifiedObject.name "M Korgen   RT1 Transformator" ;
-    cim:Names.name "NO-KORGEN__RT1",
+    cim:IdentifiedObject.name "N Korgen   RT1 Transformator" ;
+    cim:Names.name "NO-KORGENRT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005130O" ;
-    skos:altLabel "NO-KORGEN__RT1" ;
+    skos:altLabel "NO-KORGENRT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Korgen   RT1 Transformator" ;
+    skos:prefLabel "N Korgen   RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

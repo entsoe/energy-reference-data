@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000D7AC",
-    "@skos:prefLabel": "Enerkore S. Coop. Pequeña",
+    "@skos:prefLabel": "ENERKORE SL",
     "@skos:altLabel": "EKORE",
     "@cim:IdentifiedObject.mRID": "18X000000000D7AC",
-    "@cim:IdentifiedObject.name": "Enerkore S. Coop. Pequeña",
+    "@cim:IdentifiedObject.name": "ENERKORE SL",
     "@cim:Names.name": [
         "EKORE",
-        "ESF95936282",
+        "ESB95936282",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-12-18",
-    "@schema:vatID": "ESF95936282",
+    "@cim:DateAndOrTime.date": "2025-08-12",
+    "@schema:vatID": "ESB95936282",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

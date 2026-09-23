@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002202X",
-    "@skos:prefLabel": "S 66 T_Bråten-Vafos",
-    "@skos:altLabel": "NO-TBRATENVAFOS",
+    "@skos:prefLabel": "S 66 T_Vafoss-Vafoss",
+    "@skos:altLabel": "NO-66T_VAFOSSVAF",
     "@cim:IdentifiedObject.mRID": "50TL00000002202X",
-    "@cim:IdentifiedObject.name": "S 66 T_Bråten-Vafos",
+    "@cim:IdentifiedObject.name": "S 66 T_Vafoss-Vafoss",
     "@cim:Names.name": [
-        "NO-TBRATENVAFOS",
+        "NO-66T_VAFOSSVAF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

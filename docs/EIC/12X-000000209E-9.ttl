@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-06" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-000000209E-9" ;
-    cim:IdentifiedObject.name "Trisolaris AG" ;
-    cim:Names.name "CHE154481776",
+    cim:IdentifiedObject.name "Second Foundation Trading AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "CHE154481776",
         "Capacity Trader",
         "TRISOLARIS----ST" ;
     dcterms:identifier "urn:eic:12X-000000209E-9" ;
     schema1:vatID "CHE154481776" ;
     skos:altLabel "TRISOLARIS----ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Trisolaris AG" ;
+    skos:prefLabel "Second Foundation Trading AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

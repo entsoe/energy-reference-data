@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/38X-AVP-MG8Q100O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "38X-AVP-MG8Q100O" ;
+    cim:IdentifiedObject.name "Kiloflow OÜ" ;
+    cim:Names.name "A00265044.EE",
+        "Capacity Trader",
+        "EE102982097",
+        "EE_KILOFLOW" ;
+    dcterms:identifier "urn:eic:38X-AVP-MG8Q100O" ;
+    schema1:vatID "EE102982097" ;
+    skos:altLabel "EE_KILOFLOW" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Kiloflow OÜ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

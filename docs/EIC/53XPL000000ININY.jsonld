@@ -16,18 +16,20 @@
     "@skos:altLabel": "INFUSION_INTL",
     "@skos:definition": {
         "@language": "en",
-        "@value": "The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code."
+        "@value": "The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number."
     },
     "@cim:IdentifiedObject.mRID": "53XPL000000ININY",
     "@cim:IdentifiedObject.name": "Infusion International INC",
     "@cim:Names.name": [
         "INFUSION_INTL",
+        "AFZ/OS/1273",
         "Network User"
     ],
-    "@cim:IdentifiedObject.description": "The company registered in UAE. According to local (UAE) regulations they are treated as offshore company and they function in so called free zone. No possibility for them to get the VAT code.",
+    "@cim:IdentifiedObject.description": "The company registered in UAE (at Ajman Free Zone as Offshore Company with Limited Libility under certificate no AFZ/OS/1273). Registration number is provideed as unique identification number.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-10-04",
+    "@cim:DateAndOrTime.date": "2025-05-09",
+    "@schema:vatID": "AFZ/OS/1273",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

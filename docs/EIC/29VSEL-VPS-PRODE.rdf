@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/29VSEL-VPS-PRODE">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:29VSEL-VPS-PRODE</dcterms:identifier>
+    <skos:prefLabel>SELENE CC RCC VPS endpoint production</skos:prefLabel>
+    <skos:altLabel>SELRCC-VPS-PROD</skos:altLabel>
+    <skos:definition xml:lang="en">We are involved in the &#8220;Data Exchange for VP/S via ECP on PCN&#8221; project. To successfully register and operate our new ECP endpoints, we need a new V-Code for the production endpoint that will be used to access the VP/S.</skos:definition>
+    <cim:IdentifiedObject.mRID>29VSEL-VPS-PRODE</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>SELENE CC RCC VPS endpoint production</cim:IdentifiedObject.name>
+    <cim:Names.name>SELRCC-VPS-PROD</cim:Names.name>
+    <cim:IdentifiedObject.description>We are involved in the &#8220;Data Exchange for VP/S via ECP on PCN&#8221; project. To successfully register and operate our new ECP endpoints, we need a new V-Code for the production endpoint that will be used to access the VP/S.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-08-29</cim:DateAndOrTime.date>
+    <cim:Names.name>Endpoint</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

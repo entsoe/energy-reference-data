@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-26" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000000026-D" ;
     cim:IdentifiedObject.name "Officine Idroelettriche di Blenio SA (Ofible)" ;
-    cim:Names.name "Generation Unit",
-        "KW-BLENIO-AS" ;
+    cim:Names.name "KW-BLENIO-AS",
+        "Production Plant" ;
     dcterms:identifier "urn:eic:12W-0000000026-D" ;
     skos:altLabel "KW-BLENIO-AS" ;
-    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Officine Idroelettriche di Blenio SA (Ofible)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

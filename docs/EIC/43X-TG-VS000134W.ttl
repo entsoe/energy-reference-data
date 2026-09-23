@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-10-28" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-VS000134W" ;
     cim:IdentifiedObject.name "Vats SIA" ;
-    cim:Names.name "41203008173",
-        "Balance Responsible Party",
-        "LV-TGVS20" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-TGVS20",
+        "LV41203008173" ;
     dcterms:identifier "urn:eic:43X-TG-VS000134W" ;
-    schema1:vatID "41203008173" ;
+    schema1:vatID "LV41203008173" ;
     skos:altLabel "LV-TGVS20" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vats SIA" ;

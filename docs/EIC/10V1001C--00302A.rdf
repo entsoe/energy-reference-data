@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10V1001C--00302A</dcterms:identifier>
-    <skos:prefLabel>Core CC tool ID test environment</skos:prefLabel>
-    <skos:altLabel>CORE_ID_TEST</skos:altLabel>
-    <skos:definition xml:lang="en">In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID</skos:definition>
+    <skos:prefLabel>Core CC tool DA test environment</skos:prefLabel>
+    <skos:altLabel>CORE_NEMO_TEST</skos:altLabel>
+    <skos:definition xml:lang="en">EIC IT-system for Core Day-Ahead NEMO integration environment</skos:definition>
     <cim:IdentifiedObject.mRID>10V1001C--00302A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Core CC tool ID test environment</cim:IdentifiedObject.name>
-    <cim:Names.name>CORE_ID_TEST</cim:Names.name>
-    <cim:IdentifiedObject.description>In the context of the implementation of the Intraday Auction Core need to perform integration testing with XBID</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>Core CC tool DA test environment</cim:IdentifiedObject.name>
+    <cim:Names.name>CORE_NEMO_TEST</cim:Names.name>
+    <cim:IdentifiedObject.description>EIC IT-system for Core Day-Ahead NEMO integration environment</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>IT-system</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

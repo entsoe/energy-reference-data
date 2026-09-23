@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000219Q",
     "@skos:prefLabel": "S 132 Fall-Raufoss",
-    "@skos:altLabel": "NO-FALLRAUFOSS",
+    "@skos:altLabel": "NO-132FALLRAUFOS",
     "@cim:IdentifiedObject.mRID": "50TL00000000219Q",
     "@cim:IdentifiedObject.name": "S 132 Fall-Raufoss",
     "@cim:Names.name": [
-        "NO-FALLRAUFOSS",
+        "NO-132FALLRAUFOS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-12-18" ;
+    cim:DateAndOrTime.date "2025-08-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000D7AC" ;
-    cim:IdentifiedObject.name "Enerkore S. Coop. Pequeña" ;
+    cim:IdentifiedObject.name "ENERKORE SL" ;
     cim:Names.name "EKORE",
-        "ESF95936282",
+        "ESB95936282",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000D7AC" ;
-    schema1:vatID "ESF95936282" ;
+    schema1:vatID "ESB95936282" ;
     skos:altLabel "EKORE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Enerkore S. Coop. Pequeña" ;
+    skos:prefLabel "ENERKORE SL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

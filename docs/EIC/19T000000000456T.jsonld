@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000000456T",
-    "@skos:prefLabel": "Ostrołęka-Olsztyn",
+    "@skos:prefLabel": "220kV Olsztyn-Ostroleka",
     "@skos:altLabel": "221",
     "@cim:IdentifiedObject.mRID": "19T000000000456T",
-    "@cim:IdentifiedObject.name": "Ostrołęka-Olsztyn",
+    "@cim:IdentifiedObject.name": "220kV Olsztyn-Ostroleka",
     "@cim:Names.name": [
         "221",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

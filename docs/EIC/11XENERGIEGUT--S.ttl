@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-02-11" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XENERGIEGUT--S" ;
     cim:IdentifiedObject.name "energieGUT GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE812805240",
-        "SWDU-ENERGIEGUT" ;
+    cim:Names.name "DE812805240",
+        "SWDU-ENERGIEGUT",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XENERGIEGUT--S" ;
     schema1:vatID "DE812805240" ;
     skos:altLabel "SWDU-ENERGIEGUT" ;

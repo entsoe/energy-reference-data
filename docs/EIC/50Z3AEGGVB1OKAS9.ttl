@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50Z3AEGGVB1OKAS9> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50Z3AEGGVB1OKAS9" ;
+    cim:IdentifiedObject.name "Eidskog_Charlottenberg" ;
+    cim:Names.name "Metering Point",
+        "NO_EIDSKOG_CHG" ;
+    dcterms:identifier "urn:eic:50Z3AEGGVB1OKAS9" ;
+    skos:altLabel "NO_EIDSKOG_CHG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Eidskog_Charlottenberg" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

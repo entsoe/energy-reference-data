@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001409X</dcterms:identifier>
     <skos:prefLabel>R&#229;ss&#229;foss</skos:prefLabel>
-    <skos:altLabel>NO-RASSAFOS_PL</skos:altLabel>
+    <skos:altLabel>NO-RAASSAAFOSS</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001409X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>R&#229;ss&#229;foss</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-RASSAFOS_PL</cim:Names.name>
+    <cim:Names.name>NO-RAASSAAFOSS</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

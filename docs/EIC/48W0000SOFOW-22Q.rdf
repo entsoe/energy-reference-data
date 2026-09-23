@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/48W0000SOFOW-22Q">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:48W0000SOFOW-22Q</dcterms:identifier>
+    <skos:prefLabel>SOFIA OFFSHORE WIND FARM 22</skos:prefLabel>
+    <skos:altLabel>SOFOW-22</skos:altLabel>
+    <skos:definition xml:lang="en">Contact
+Windmill Hill Business Park, 
+Whitehill way 
+Swindon 
+SN5 6PB
+Andrew Robbins
+andrew.robbins@rwe.com
+sofia_offshore_wind@rwe.com
+</skos:definition>
+    <cim:IdentifiedObject.mRID>48W0000SOFOW-22Q</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>SOFIA OFFSHORE WIND FARM 22</cim:IdentifiedObject.name>
+    <cim:Names.name>SOFOW-22</cim:Names.name>
+    <cim:IdentifiedObject.description>Contact
+Windmill Hill Business Park, 
+Whitehill way 
+Swindon 
+SN5 6PB
+Andrew Robbins
+andrew.robbins@rwe.com
+sofia_offshore_wind@rwe.com
+</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-08-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

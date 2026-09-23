@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001415M",
-    "@skos:prefLabel": "S Dal      66  L2 Forbruk",
-    "@skos:altLabel": "NO-DAL66L2",
+    "@skos:prefLabel": "S Dal      66  T2 Forbruk",
+    "@skos:altLabel": "NO-DAL66T2",
     "@cim:IdentifiedObject.mRID": "50WC00000001415M",
-    "@cim:IdentifiedObject.name": "S Dal      66  L2 Forbruk",
+    "@cim:IdentifiedObject.name": "S Dal      66  T2 Forbruk",
     "@cim:Names.name": [
-        "NO-DAL66L2",
+        "NO-DAL66T2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

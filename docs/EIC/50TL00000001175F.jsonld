@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001175F",
-    "@skos:prefLabel": "M 420 Fræna-Nyhamna",
-    "@skos:altLabel": "NO-FRAENANYHAMNA",
+    "@skos:prefLabel": "N 420 Fræna-Nyhamna",
+    "@skos:altLabel": "NO-420FRAENANYHA",
     "@cim:IdentifiedObject.mRID": "50TL00000001175F",
-    "@cim:IdentifiedObject.name": "M 420 Fræna-Nyhamna",
+    "@cim:IdentifiedObject.name": "N 420 Fræna-Nyhamna",
     "@cim:Names.name": [
-        "NO-FRAENANYHAMNA",
+        "NO-420FRAENANYHA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

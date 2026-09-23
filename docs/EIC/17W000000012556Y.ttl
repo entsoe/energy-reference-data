@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000000012556Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "LAPARH-CENTRALE HYDRAULIQUE DE LAPARAN-6;RTE-LAPARH6-LAPAR0000000000819;HYDLQ" ;
+    cim:IdentifiedObject.mRID "17W000000012556Y" ;
+    cim:IdentifiedObject.name "Laparan" ;
+    cim:Names.name "FR_LA_LAPAR-P",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:17W000000012556Y" ;
+    skos:altLabel "FR_LA_LAPAR-P" ;
+    skos:definition "LAPARH-CENTRALE HYDRAULIQUE DE LAPARAN-6;RTE-LAPARH6-LAPAR0000000000819;HYDLQ"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Laparan" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

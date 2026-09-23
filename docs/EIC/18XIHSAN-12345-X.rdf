@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:18XIHSAN-12345-X</dcterms:identifier>
     <skos:prefLabel>INSTALACIONES HIDR&#193;ULICAS SAN ANTONIO S.L.</skos:prefLabel>
     <skos:altLabel>IHSAN</skos:altLabel>
-    <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XIHSAN-12345-X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>INSTALACIONES HIDR&#193;ULICAS SAN ANTONIO S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>IHSAN</cim:Names.name>
     <cim:Names.name>ESB81690554</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-01-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-02-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB81690554</schema:vatID>
   </skos:Concept>

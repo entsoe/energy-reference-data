@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGENRE-12345-O",
     "@skos:prefLabel": "GENERAL DE RESIDENCIAS GERIATRICAS, S.L.",
     "@skos:altLabel": "GENRE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGENRE-12345-O",
     "@cim:IdentifiedObject.name": "GENERAL DE RESIDENCIAS GERIATRICAS, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB22211429",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-02-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB22211429",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

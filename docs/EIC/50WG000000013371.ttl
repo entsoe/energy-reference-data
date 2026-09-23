@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000013371" ;
     cim:IdentifiedObject.name "REPVAG  G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-REPVAG__G1___" ;
+        "NO-REPVAGG1" ;
     dcterms:identifier "urn:eic:50WG000000013371" ;
-    skos:altLabel "NO-REPVAG__G1___" ;
+    skos:altLabel "NO-REPVAGG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "REPVAG  G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

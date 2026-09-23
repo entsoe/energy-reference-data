@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X000000001210U</dcterms:identifier>
-    <skos:prefLabel>PZEM Energy BV</skos:prefLabel>
-    <skos:altLabel>PZEM_ENERGY_BV</skos:altLabel>
+    <skos:prefLabel>ZEH Energy BV</skos:prefLabel>
+    <skos:altLabel>ZEH_ENERGY_BV</skos:altLabel>
     <cim:IdentifiedObject.mRID>21X000000001210U</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PZEM Energy BV</cim:IdentifiedObject.name>
-    <cim:Names.name>PZEM_ENERGY_BV</cim:Names.name>
+    <cim:IdentifiedObject.name>ZEH Energy BV</cim:IdentifiedObject.name>
+    <cim:Names.name>ZEH_ENERGY_BV</cim:Names.name>
     <cim:Names.name>NL812290793B01</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-12-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-01-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL812290793B01</schema:vatID>
   </skos:Concept>

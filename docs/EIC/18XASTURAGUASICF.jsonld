@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XASTURAGUASICF",
     "@skos:prefLabel": "ASTURAGUA SICA",
     "@skos:altLabel": "AST",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XASTURAGUASICF",
     "@cim:IdentifiedObject.name": "ASTURAGUA SICA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA66141201",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA66141201",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-21" ;
+    cim:DateAndOrTime.date "2024-05-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "42X-NAFTAGAZ-SK0" ;
     cim:IdentifiedObject.name "Nafta-Gaz Slovakia, s.r.o." ;
     cim:Names.name "NGS",
-        "Network User",
-        "SK2120252761" ;
+        "SK2120252761",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:42X-NAFTAGAZ-SK0" ;
     schema1:vatID "SK2120252761" ;
     skos:altLabel "NGS" ;

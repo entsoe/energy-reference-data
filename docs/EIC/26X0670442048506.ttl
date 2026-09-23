@@ -7,17 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-10" ;
+    cim:DateAndOrTime.date "2024-10-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X0670442048506" ;
     cim:IdentifiedObject.name "VOLTY S.R.L." ;
-    cim:Names.name "A0013858R.IT",
+    cim:Names.name "IT-VOLTYSRLSRL",
         "IT06704420485",
-        "Market Operator",
-        "VOLTY" ;
+        "Market Operator" ;
     dcterms:identifier "urn:eic:26X0670442048506" ;
     schema1:vatID "IT06704420485" ;
-    skos:altLabel "VOLTY" ;
+    skos:altLabel "IT-VOLTYSRLSRL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VOLTY S.R.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

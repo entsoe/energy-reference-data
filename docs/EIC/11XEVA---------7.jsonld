@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XEVA---------7",
     "@skos:prefLabel": "Elektrizitätsgenossenschaft Vogling & Angrenzer eG",
     "@skos:altLabel": "EVA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEVA---------7",
     "@cim:IdentifiedObject.name": "Elektrizitätsgenossenschaft Vogling & Angrenzer eG",
     "@cim:Names.name": [
         "EVA",
         "DE131565637",
-        "balance group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-09",
+    "@cim:DateAndOrTime.date": "2024-11-27",
     "@schema:vatID": "DE131565637",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

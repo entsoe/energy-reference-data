@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCIPRI-12345-7</dcterms:identifier>
     <skos:prefLabel>CIPRIANO MOLINA ALBERO, S.L.</skos:prefLabel>
     <skos:altLabel>CIPRI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCIPRI-12345-7</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CIPRIANO MOLINA ALBERO, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>CIPRI</cim:Names.name>
     <cim:Names.name>ESB03047586</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-09-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB03047586</schema:vatID>

@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSWGOTHA-----5",
-    "@skos:prefLabel": "Stadtwerke Gotha GmbH",
+    "@skos:prefLabel": "Gothaer Stadtwerke ENERGIE GmbH",
     "@skos:altLabel": "SWGOTHA",
     "@cim:IdentifiedObject.mRID": "11XSWGOTHA-----5",
-    "@cim:IdentifiedObject.name": "Stadtwerke Gotha GmbH",
+    "@cim:IdentifiedObject.name": "Gothaer Stadtwerke ENERGIE GmbH",
     "@cim:Names.name": [
         "SWGOTHA",
         "DE150097146",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-21",
+    "@cim:DateAndOrTime.date": "2025-01-21",
     "@schema:vatID": "DE150097146",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

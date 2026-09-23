@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/67X-RS-00000005D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:67X-RS-00000005D",
+    "@skos:prefLabel": "YUGOROSGAZ  JSC BELGRADE SERBIA",
+    "@skos:altLabel": "YUGOROSGAZ",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "EU VAT code: Not Applicable\n\nSerbian Tax Identification Number (TIN/PIB): RS100044239\n\nJoint Stock Company engaged in natural gas supply and trading activities in the Republic of Serbia. Registered market participant."
+    },
+    "@cim:IdentifiedObject.mRID": "67X-RS-00000005D",
+    "@cim:IdentifiedObject.name": "YUGOROSGAZ  JSC BELGRADE SERBIA",
+    "@cim:Names.name": [
+        "YUGOROSGAZ",
+        "RS100044239",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "EU VAT code: Not Applicable\n\nSerbian Tax Identification Number (TIN/PIB): RS100044239\n\nJoint Stock Company engaged in natural gas supply and trading activities in the Republic of Serbia. Registered market participant.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-06-25",
+    "@schema:vatID": "RS100044239",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

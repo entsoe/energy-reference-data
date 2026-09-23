@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067357",
-    "@skos:prefLabel": "Kielce-Radkowice",
+    "@skos:prefLabel": "220kV Kielce-Radkowice",
     "@skos:altLabel": "2406",
     "@cim:IdentifiedObject.mRID": "19T1100000067357",
-    "@cim:IdentifiedObject.name": "Kielce-Radkowice",
+    "@cim:IdentifiedObject.name": "220kV Kielce-Radkowice",
     "@cim:Names.name": [
         "2406",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

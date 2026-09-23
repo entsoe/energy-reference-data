@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-08-24" ;
+    cim:DateAndOrTime.date "2026-02-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001130S" ;
-    cim:IdentifiedObject.name "PGNiG Supply and Trading GmbH" ;
+    cim:IdentifiedObject.name "ORLEN Energy Trading GmbH" ;
     cim:Names.name "DE275882757",
         "PST",
         "Trade Responsible Party" ;
@@ -20,6 +20,6 @@
     skos:altLabel "PST" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PGNiG Supply and Trading GmbH" ;
+    skos:prefLabel "ORLEN Energy Trading GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

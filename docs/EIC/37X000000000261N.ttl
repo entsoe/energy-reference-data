@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-15" ;
+    cim:DateAndOrTime.date "2026-06-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Supplier" ;
     cim:IdentifiedObject.mRID "37X000000000261N" ;
-    cim:IdentifiedObject.name "OrangeGas Germany GmbH" ;
+    cim:IdentifiedObject.name "OG Clean Fuels GmbH" ;
     cim:Names.name "DE314145634",
         "Energy Supplier",
-        "ORANGEGAS_GERMAN" ;
+        "OG_CLEAN_FUELS_G" ;
     dcterms:identifier "urn:eic:37X000000000261N" ;
     schema1:vatID "DE314145634" ;
-    skos:altLabel "ORANGEGAS_GERMAN" ;
+    skos:altLabel "OG_CLEAN_FUELS_G" ;
     skos:definition "Energy Supplier"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "OrangeGas Germany GmbH" ;
+    skos:prefLabel "OG Clean Fuels GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

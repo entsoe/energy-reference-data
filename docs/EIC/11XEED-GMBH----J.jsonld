@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "EED_GMBH",
         "DE134658024",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "balance group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "DE134658024",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

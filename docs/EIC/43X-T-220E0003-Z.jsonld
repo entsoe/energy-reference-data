@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:43X-T-220E0003-Z",
-    "@skos:prefLabel": "SIA \"220 Enerģija\"",
+    "@skos:prefLabel": "Alexela SIA",
     "@skos:altLabel": "LV-220E",
     "@cim:IdentifiedObject.mRID": "43X-T-220E0003-Z",
-    "@cim:IdentifiedObject.name": "SIA \"220 Enerģija\"",
+    "@cim:IdentifiedObject.name": "Alexela SIA",
     "@cim:Names.name": [
         "LV-220E",
         "LV40103752971",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-08-30",
+    "@cim:DateAndOrTime.date": "2024-05-08",
     "@schema:vatID": "LV40103752971",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

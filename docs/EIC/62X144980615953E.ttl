@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X144980615953E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X144980615953E" ;
+    cim:IdentifiedObject.name "LLC ENERHETYK UA" ;
+    cim:Names.name "445641419181",
+        "Consumption Responsible Party",
+        "ENERHETYKUA" ;
+    dcterms:identifier "urn:eic:62X144980615953E" ;
+    schema1:vatID "445641419181" ;
+    skos:altLabel "ENERHETYKUA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LLC ENERHETYK UA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

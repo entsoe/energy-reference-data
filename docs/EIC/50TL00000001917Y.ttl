@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001917Y" ;
     cim:IdentifiedObject.name "N 66 Kvaløy-Gimle" ;
     cim:Names.name "Internal Line",
-        "NO-KVALOYGIMLE" ;
+        "NO-66KVALOYGIMLE" ;
     dcterms:identifier "urn:eic:50TL00000001917Y" ;
-    skos:altLabel "NO-KVALOYGIMLE" ;
+    skos:altLabel "NO-66KVALOYGIMLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 66 Kvaløy-Gimle" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "ENERKATE s.r.o.",
     "@cim:Names.name": [
         "ENERKATE",
-        "CZ06574742",
+        "cz06574742",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-01-22",
-    "@schema:vatID": "CZ06574742",
+    "@schema:vatID": "cz06574742",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

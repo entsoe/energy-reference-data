@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "Azienda Elettrica Ticinese",
     "@cim:Names.name": [
         "AET",
-        "CH184770",
-        "Balance Group Responsible Party"
+        "CHE-108.954.547",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Energiehandel",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-20",
-    "@schema:vatID": "CH184770",
+    "@cim:DateAndOrTime.date": "2024-01-22",
+    "@schema:vatID": "CHE-108.954.547",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

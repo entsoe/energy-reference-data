@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005301N",
     "@skos:prefLabel": "N Melkøya  T501 Transformator",
-    "@skos:altLabel": "NO-MELKOYA_T501",
+    "@skos:altLabel": "NO-MELKOYAT501",
     "@cim:IdentifiedObject.mRID": "50TT00000005301N",
     "@cim:IdentifiedObject.name": "N Melkøya  T501 Transformator",
     "@cim:Names.name": [
-        "NO-MELKOYA_T501",
+        "NO-MELKOYAT501",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-06-30" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XREZIA-ITA---K" ;
     cim:IdentifiedObject.name "Repower Italia S.p.A." ;
-    cim:Names.name "Balance Group",
-        "CH652378",
+    cim:Names.name "CH652378",
+        "Capacity Trader",
         "RE-ITALIA-ST" ;
     dcterms:identifier "urn:eic:12XREZIA-ITA---K" ;
     schema1:vatID "CH652378" ;

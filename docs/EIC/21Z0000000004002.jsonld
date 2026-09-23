@@ -13,21 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:21Z0000000004002",
     "@skos:prefLabel": "Empelde",
-    "@skos:altLabel": "EMPLELDE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point To Storage"
-    },
+    "@skos:altLabel": "EMPELDE",
     "@cim:IdentifiedObject.mRID": "21Z0000000004002",
     "@cim:IdentifiedObject.name": "Empelde",
     "@cim:Names.name": [
-        "EMPLELDE",
-        "Valid EIC Function needed"
+        "EMPELDE",
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point To Storage",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A0000000018855" ;
-    cim:IdentifiedObject.name "Støls.Krv" ;
-    cim:Names.name "NO-STOLS_KR",
+    cim:IdentifiedObject.name "Støl.elva" ;
+    cim:Names.name "NO-STOLSDEL",
         "Substation" ;
     dcterms:identifier "urn:eic:50A0000000018855" ;
-    skos:altLabel "NO-STOLS_KR" ;
+    skos:altLabel "NO-STOLSDEL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Støls.Krv" ;
+    skos:prefLabel "Støl.elva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

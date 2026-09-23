@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-08-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000409R" ;
-    cim:IdentifiedObject.name "Groningen Hunze - Groningen Bornholmstraat zwart 110 kV (TR113)" ;
+    cim:IdentifiedObject.name "Groningen Hunze - Hogezand-Kropswolde 110 kV Wit" ;
     cim:Names.name "GNHU-HGZK110-W",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000409R" ;
     skos:altLabel "GNHU-HGZK110-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Groningen Hunze - Groningen Bornholmstraat zwart 110 kV (TR113)" ;
+    skos:prefLabel "Groningen Hunze - Hogezand-Kropswolde 110 kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

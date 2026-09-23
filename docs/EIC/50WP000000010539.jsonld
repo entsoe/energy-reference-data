@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000010539",
     "@skos:prefLabel": "Sund",
-    "@skos:altLabel": "NO-SUND_PL",
+    "@skos:altLabel": "NO-SUND",
     "@cim:IdentifiedObject.mRID": "50WP000000010539",
     "@cim:IdentifiedObject.name": "Sund",
     "@cim:Names.name": [
-        "NO-SUND_PL",
+        "NO-SUND",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

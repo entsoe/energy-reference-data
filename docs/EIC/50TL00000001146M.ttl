@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001146M" ;
-    cim:IdentifiedObject.name "M 300 Verdal-Tunnsjødal" ;
+    cim:IdentifiedObject.name "N 300 Verdal-Tunnsjødal" ;
     cim:Names.name "Internal Line",
-        "NO-VERDALTUNNSJO" ;
+        "NO-300VERDALTUNN" ;
     dcterms:identifier "urn:eic:50TL00000001146M" ;
-    skos:altLabel "NO-VERDALTUNNSJO" ;
+    skos:altLabel "NO-300VERDALTUNN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 300 Verdal-Tunnsjødal" ;
+    skos:prefLabel "N 300 Verdal-Tunnsjødal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

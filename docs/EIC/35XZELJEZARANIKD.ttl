@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-02" ;
+    cim:DateAndOrTime.date "2026-02-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Steel Factory." ;
     cim:IdentifiedObject.mRID "35XZELJEZARANIKD" ;
-    cim:IdentifiedObject.name "ZELJEZARA NIKSIC" ;
-    cim:Names.name "02880474",
+    cim:IdentifiedObject.name "EPCG-Željezara Nikšić d.o.o." ;
+    cim:Names.name "03530272",
         "Balance Responsible Party",
         "Consumption Responsible Party",
         "ZELJEZARANIK" ;
     dcterms:identifier "urn:eic:35XZELJEZARANIKD" ;
-    schema1:vatID "02880474" ;
+    schema1:vatID "03530272" ;
     skos:altLabel "ZELJEZARANIK" ;
     skos:definition "Steel Factory."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ZELJEZARA NIKSIC" ;
+    skos:prefLabel "EPCG-Željezara Nikšić d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000001803D",
     "@skos:prefLabel": "N Goliat   110 E07 Industri",
-    "@skos:altLabel": "NO-GOLIAT110E07",
+    "@skos:altLabel": "NO-GOLIAT110E07N",
     "@cim:IdentifiedObject.mRID": "50WC00000001803D",
     "@cim:IdentifiedObject.name": "N Goliat   110 E07 Industri",
     "@cim:Names.name": [
-        "NO-GOLIAT110E07",
+        "NO-GOLIAT110E07N",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

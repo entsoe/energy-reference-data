@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002700H",
-    "@skos:prefLabel": "N 22 Kvandal-Hesjeberg",
-    "@skos:altLabel": "NO-KVANDALHESJEB",
+    "@skos:prefLabel": "N 22 Fossan Hålogala-Hesjeberg",
+    "@skos:altLabel": "NO-22FOSSAN_HHES",
     "@cim:IdentifiedObject.mRID": "50TL00000002700H",
-    "@cim:IdentifiedObject.name": "N 22 Kvandal-Hesjeberg",
+    "@cim:IdentifiedObject.name": "N 22 Fossan Hålogala-Hesjeberg",
     "@cim:Names.name": [
-        "NO-KVANDALHESJEB",
+        "NO-22FOSSAN_HHES",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

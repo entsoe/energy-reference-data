@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Wholesaler With Power Fuel (Velkoobchodnik S Pohonnymi Hmotami)" ;
     cim:IdentifiedObject.mRID "24X-ENVIROCHEM-E" ;
     cim:IdentifiedObject.name "ENVIROCHEM Slovakia, s.r.o." ;
     cim:Names.name "ENVI",
+        "Energy Supplier",
         "SK2021792058",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-ENVIROCHEM-E" ;
     schema1:vatID "SK2021792058" ;
     skos:altLabel "ENVI" ;

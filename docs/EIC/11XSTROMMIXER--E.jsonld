@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSTROMMIXER--E",
     "@skos:prefLabel": "PROENGENO GmbH & Co. KG",
     "@skos:altLabel": "STROMMIXER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTROMMIXER--E",
     "@cim:IdentifiedObject.name": "PROENGENO GmbH & Co. KG",
     "@cim:Names.name": [
         "STROMMIXER",
         "DE813310275",
-        "balance group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-17",
+    "@cim:DateAndOrTime.date": "2024-09-23",
     "@schema:vatID": "DE813310275",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

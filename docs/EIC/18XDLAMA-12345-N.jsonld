@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XDLAMA-12345-N",
     "@skos:prefLabel": "DESALADORA LA MARINA S.L.U.",
     "@skos:altLabel": "DLAMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDLAMA-12345-N",
     "@cim:IdentifiedObject.name": "DESALADORA LA MARINA S.L.U.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB73463341",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-09-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB73463341",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

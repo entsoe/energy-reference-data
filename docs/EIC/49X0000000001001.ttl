@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49X0000000001001> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49X0000000001001" ;
+    cim:IdentifiedObject.name "Flexia B.V." ;
+    cim:Names.name "Balance Responsible Party",
+        "FLEXIA",
+        "NL864618268B01" ;
+    dcterms:identifier "urn:eic:49X0000000001001" ;
+    schema1:vatID "NL864618268B01" ;
+    skos:altLabel "FLEXIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Flexia B.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

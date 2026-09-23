@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WC000000014746" ;
-    cim:IdentifiedObject.name "S Ajer     66  Forbruk" ;
+    cim:IdentifiedObject.name "S Ajer     66  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-AJER66" ;
+        "NO-AJER66T1" ;
     dcterms:identifier "urn:eic:50WC000000014746" ;
-    skos:altLabel "NO-AJER66" ;
+    skos:altLabel "NO-AJER66T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Ajer     66  Forbruk" ;
+    skos:prefLabel "S Ajer     66  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

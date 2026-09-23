@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Liberec Property s.r.o.",
     "@cim:Names.name": [
         "LIBERECPRPTY",
-        "CZ04607295",
+        "cz04607295",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-02-10",
-    "@schema:vatID": "CZ04607295",
+    "@schema:vatID": "cz04607295",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

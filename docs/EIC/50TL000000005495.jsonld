@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000005495",
-    "@skos:prefLabel": "S 132 Øie-Tinfos",
-    "@skos:altLabel": "NO-OIETINFOS",
+    "@skos:prefLabel": "S 110 Øie-Tinfos",
+    "@skos:altLabel": "NO-110OIETINFOS",
     "@cim:IdentifiedObject.mRID": "50TL000000005495",
-    "@cim:IdentifiedObject.name": "S 132 Øie-Tinfos",
+    "@cim:IdentifiedObject.name": "S 110 Øie-Tinfos",
     "@cim:Names.name": [
-        "NO-OIETINFOS",
+        "NO-110OIETINFOS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

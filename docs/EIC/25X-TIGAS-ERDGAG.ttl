@@ -7,11 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-11" ;
+    cim:DateAndOrTime.date "2025-04-30" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Update Contact Person and functions -IO" ;
     cim:IdentifiedObject.mRID "25X-TIGAS-ERDGAG" ;
-    cim:IdentifiedObject.name "TIGAS-Erdgas Tirol GmbH" ;
+    cim:IdentifiedObject.name "TIGAS-Wärme Tirol GmbH" ;
     cim:Names.name "ATU37376807",
         "Balance Responsible Party",
         "Capacity Trader",
@@ -19,8 +18,7 @@
     dcterms:identifier "urn:eic:25X-TIGAS-ERDGAG" ;
     schema1:vatID "ATU37376807" ;
     skos:altLabel "TIGAS" ;
-    skos:definition "Update Contact Person and functions -IO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TIGAS-Erdgas Tirol GmbH" ;
+    skos:prefLabel "TIGAS-Wärme Tirol GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

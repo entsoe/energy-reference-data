@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19XZEUPPOZYTON-7",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19XZEUPPOZYTON-7",
+    "@skos:prefLabel": "ZAKŁAD ELEKTRONICZNYCH URZĄDZEŃ POMIAROWYCH \"POZYTON\" SPÓŁKA Z OGRANI",
+    "@skos:altLabel": "POZYTON",
+    "@cim:IdentifiedObject.mRID": "19XZEUPPOZYTON-7",
+    "@cim:IdentifiedObject.name": "ZAKŁAD ELEKTRONICZNYCH URZĄDZEŃ POMIAROWYCH \"POZYTON\" SPÓŁKA Z OGRANI",
+    "@cim:Names.name": [
+        "POZYTON",
+        "PL5730301857",
+        "System Operator"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-10-24",
+    "@schema:vatID": "PL5730301857",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

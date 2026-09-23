@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-04-06" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:DateAndOrTime.date "2025-04-11" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XEMSERV002---8" ;
-    cim:IdentifiedObject.name "em.serv GmbH" ;
+    cim:IdentifiedObject.name "Scholt Energy Deutschland GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE268629584",
         "EMSERV" ;
     dcterms:identifier "urn:eic:11XEMSERV002---8" ;
     schema1:vatID "DE268629584" ;
     skos:altLabel "EMSERV" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "em.serv GmbH" ;
+    skos:prefLabel "Scholt Energy Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

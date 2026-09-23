@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000000012954M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "PORTIH-CENTRALE HYDRAULIQUE DE PORTILLON-5;RTE-PORTIH5-PORTI0000000000915;HYDLQ" ;
+    cim:IdentifiedObject.mRID "17W000000012954M" ;
+    cim:IdentifiedObject.name "Portillon" ;
+    cim:Names.name "FR_LA_PORTI-P",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:17W000000012954M" ;
+    skos:altLabel "FR_LA_PORTI-P" ;
+    skos:definition "PORTIH-CENTRALE HYDRAULIQUE DE PORTILLON-5;RTE-PORTIH5-PORTI0000000000915;HYDLQ"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Portillon" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardCodingSchemeTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardCodingSchemeTypeList</skos:prefLabel>
     <dcterms:identifier>ET0004</dcterms:identifier>
     <skos:definition xml:lang="en">Codification scheme used to identify the coding scheme used for the set of coded values to identify specific objects.</skos:definition>
@@ -22,12 +22,19 @@
     <skos:prefLabel>CGM</skos:prefLabel>
     <skos:definition xml:lang="en">The coding scheme used for Common Grid Model Exchange Standard (CGMES).</skos:definition>
   </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/StandardCodingSchemeTypeList/A03">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardCodingSchemeTypeList"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardCodingSchemeTypeList"/>
+    <dcterms:identifier>A03</dcterms:identifier>
+    <skos:prefLabel>ISO</skos:prefLabel>
+    <skos:definition xml:lang="en">The coding scheme for the preceding attribute is a code maintained by International Organization for Standardization (ISO), such as “ISO 3166 &lt;i&gt;English&lt;/i&gt; &lt;i&gt;country names and code elements&lt;/i&gt;”.</skos:definition>
+  </skos:Concept>
   <skos:Concept rdf:about="http://energy.referencedata.eu/StandardCodingSchemeTypeList/A10">
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardCodingSchemeTypeList"/>
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/StandardCodingSchemeTypeList"/>
     <dcterms:identifier>A10</dcterms:identifier>
-    <skos:prefLabel>GS1</skos:prefLabel>
-    <skos:definition xml:lang="en">The coding scheme for the preceding attribute is the Global Location Number (GLN 13) or Global Service Relation Number (GSRN 18), maintained by GS1.</skos:definition>
+    <skos:prefLabel>Coding scheme which are part of GS1 system</skos:prefLabel>
+    <skos:definition xml:lang="en">The coding schemes maintained by GS1.</skos:definition>
   </skos:Concept>
   <skos:Concept rdf:about="http://energy.referencedata.eu/StandardCodingSchemeTypeList/NAD">
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/StandardCodingSchemeTypeList"/>

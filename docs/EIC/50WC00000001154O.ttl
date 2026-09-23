@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001154O" ;
-    cim:IdentifiedObject.name "M Fossegre 66  Forbruk" ;
+    cim:IdentifiedObject.name "N Fossegre 66  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-FOSSEGRENDA66" ;
+        "NO-FOSSEGRE66T3" ;
     dcterms:identifier "urn:eic:50WC00000001154O" ;
-    skos:altLabel "NO-FOSSEGRENDA66" ;
+    skos:altLabel "NO-FOSSEGRE66T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Fossegre 66  Forbruk" ;
+    skos:prefLabel "N Fossegre 66  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

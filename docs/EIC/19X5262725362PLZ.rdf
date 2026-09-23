@@ -4,16 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19X5262725362PLZ</dcterms:identifier>
-    <skos:prefLabel>ONE SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
-    <skos:altLabel>ONE_SA</skos:altLabel>
+    <skos:prefLabel>WISE ENERGY SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>WISE_ENERGY_SA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19X5262725362PLZ</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ONE SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
-    <cim:Names.name>ONE_SA</cim:Names.name>
+    <cim:IdentifiedObject.name>WISE ENERGY SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>WISE_ENERGY_SA</cim:Names.name>
     <cim:Names.name>A0020088F.PL</cim:Names.name>
     <cim:Names.name>PL5262725362</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-09-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5262725362</schema:vatID>

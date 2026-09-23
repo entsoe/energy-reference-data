@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000014246</dcterms:identifier>
-    <skos:prefLabel>SAMNANGEG102 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-SAMNANGEG102_</skos:altLabel>
+    <skos:prefLabel>DYRKOLBOG102 HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-DYRKOLBOG102</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000014246</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SAMNANGEG102 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SAMNANGEG102_</cim:Names.name>
+    <cim:IdentifiedObject.name>DYRKOLBOG102 HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-DYRKOLBOG102</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-28</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

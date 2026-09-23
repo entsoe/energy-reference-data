@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005485O" ;
     cim:IdentifiedObject.name "S Osa      T2 Transformator" ;
-    cim:Names.name "NO-OSA_____T2",
+    cim:Names.name "NO-OSAT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005485O" ;
-    skos:altLabel "NO-OSA_____T2" ;
+    skos:altLabel "NO-OSAT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Osa      T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

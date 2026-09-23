@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "MTAS",
         "SK2020122555",
-        "Valid EIC Function needed"
+        "Producer",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Produce Of Heat And Elektricity (Sk: Vyroba Tepla A Elektriny)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-14",
     "@schema:vatID": "SK2020122555",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

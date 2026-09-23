@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-06-13" ;
+    cim:DateAndOrTime.date "2025-12-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XEXPOR-12345-9" ;
     cim:IdentifiedObject.name "EXPLOTACION PORCINA INTEGRAL, S.A." ;
     cim:Names.name "ESA81184129",
         "EXPOR",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XEXPOR-12345-9" ;
     schema1:vatID "ESA81184129" ;
     skos:altLabel "EXPOR" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EXPLOTACION PORCINA INTEGRAL, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

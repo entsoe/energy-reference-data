@@ -4,19 +4,32 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000ELSNW</dcterms:identifier>
-    <skos:prefLabel>ELSEN S.A.</skos:prefLabel>
+    <skos:prefLabel>ELSEN S.A. w upad&#322;o&#347;ci</skos:prefLabel>
     <skos:altLabel>ELSEN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumer, Distribution System Operator, Network User, Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000ELSNW</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELSEN S.A.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ELSEN S.A. w upad&#322;o&#347;ci</cim:IdentifiedObject.name>
     <cim:Names.name>ELSEN</cim:Names.name>
+    <cim:Names.name>A00039664.PL</cim:Names.name>
     <cim:Names.name>PL9491729613</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumer, Distribution System Operator, Network User, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-24</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Grid Operator</cim:Names.name>
+    <cim:Names.name>Information Provider</cim:Names.name>
+    <cim:Names.name>Measurement Service Provider</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
+    <cim:Names.name>Metering Point Administrator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL9491729613</schema:vatID>
   </skos:Concept>

@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-31" ;
+    cim:DateAndOrTime.date "2025-03-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein" ;
     cim:IdentifiedObject.mRID "12X-0000002006-W" ;
-    cim:IdentifiedObject.name "Sev.en Commodities AG" ;
-    cim:Names.name "60481",
-        "Balance Responsible Party",
+    cim:IdentifiedObject.name "Powertica Commodities AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "LI60481",
         "SEVENCOMMO-AG-ST",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:12X-0000002006-W" ;
-    schema1:vatID "60481" ;
+    schema1:vatID "LI60481" ;
     skos:altLabel "SEVENCOMMO-AG-ST" ;
     skos:definition "2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sev.en Commodities AG" ;
+    skos:prefLabel "Powertica Commodities AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

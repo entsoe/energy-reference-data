@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000002301" ;
-    cim:IdentifiedObject.name "M 132 Finneidfjord-Kangsliåga" ;
+    cim:IdentifiedObject.name "N 22 Finneidfjord-Kangsliåga" ;
     cim:Names.name "Internal Line",
-        "NO-FINNEIDFJORDK" ;
+        "NO-22FINNEIDFJOR" ;
     dcterms:identifier "urn:eic:50TL000000002301" ;
-    skos:altLabel "NO-FINNEIDFJORDK" ;
+    skos:altLabel "NO-22FINNEIDFJOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Finneidfjord-Kangsliåga" ;
+    skos:prefLabel "N 22 Finneidfjord-Kangsliåga" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

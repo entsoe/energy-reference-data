@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000022780" ;
-    cim:IdentifiedObject.name "M 66 Ulvund-Skar" ;
+    cim:IdentifiedObject.name "N 66 Ulvund-Skar" ;
     cim:Names.name "Internal Line",
-        "NO-ULVUNDSKAR" ;
+        "NO-66ULVUNDSKAR" ;
     dcterms:identifier "urn:eic:50TL000000022780" ;
-    skos:altLabel "NO-ULVUNDSKAR" ;
+    skos:altLabel "NO-66ULVUNDSKAR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Ulvund-Skar" ;
+    skos:prefLabel "N 66 Ulvund-Skar" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

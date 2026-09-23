@@ -7,17 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-17" ;
+    cim:DateAndOrTime.date "2025-10-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XZAEL-ENERGO-E" ;
-    cim:IdentifiedObject.name "'ZAEL - ENERGO' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:IdentifiedObject.name "ZAEL - ENERGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
         "PL8942824490",
+        "System Operator",
         "ZAEL-ENERGO" ;
     dcterms:identifier "urn:eic:19XZAEL-ENERGO-E" ;
     schema1:vatID "PL8942824490" ;
     skos:altLabel "ZAEL-ENERGO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "'ZAEL - ENERGO' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "ZAEL - ENERGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000003813",
-    "@skos:prefLabel": "FANA    G117 HYDRO",
-    "@skos:altLabel": "NO-FANA____G117_",
+    "@skos:prefLabel": "TRENGEREG117 HYDRO",
+    "@skos:altLabel": "NO-TRENGEREG117",
     "@cim:IdentifiedObject.mRID": "50WG000000003813",
-    "@cim:IdentifiedObject.name": "FANA    G117 HYDRO",
+    "@cim:IdentifiedObject.name": "TRENGEREG117 HYDRO",
     "@cim:Names.name": [
-        "NO-FANA____G117_",
+        "NO-TRENGEREG117",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

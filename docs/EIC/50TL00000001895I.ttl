@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001895I" ;
     cim:IdentifiedObject.name "N 66 Kjøpsvik-Pæsa" ;
     cim:Names.name "Internal Line",
-        "NO-KJOPSVIKPASA6" ;
+        "NO-66KJOPSVIKPAS" ;
     dcterms:identifier "urn:eic:50TL00000001895I" ;
-    skos:altLabel "NO-KJOPSVIKPASA6" ;
+    skos:altLabel "NO-66KJOPSVIKPAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 66 Kjøpsvik-Pæsa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

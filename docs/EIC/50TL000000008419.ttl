@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008419" ;
-    cim:IdentifiedObject.name "S 22 Follum-Hønefoss 1" ;
+    cim:IdentifiedObject.name "S 22 Hønefoss 2-Hønefoss 1" ;
     cim:Names.name "Internal Line",
-        "NO-FOLLUMHONEFO1" ;
+        "NO-22HONEFOSS_2H" ;
     dcterms:identifier "urn:eic:50TL000000008419" ;
-    skos:altLabel "NO-FOLLUMHONEFO1" ;
+    skos:altLabel "NO-22HONEFOSS_2H" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Follum-Hønefoss 1" ;
+    skos:prefLabel "S 22 Hønefoss 2-Hønefoss 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

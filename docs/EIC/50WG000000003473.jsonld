@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000003473",
     "@skos:prefLabel": "EVANGER G3      HYDRO",
-    "@skos:altLabel": "NO-EVANGER_G3___",
+    "@skos:altLabel": "NO-EVANGERG3",
     "@cim:IdentifiedObject.mRID": "50WG000000003473",
     "@cim:IdentifiedObject.name": "EVANGER G3      HYDRO",
     "@cim:Names.name": [
-        "NO-EVANGER_G3___",
+        "NO-EVANGERG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

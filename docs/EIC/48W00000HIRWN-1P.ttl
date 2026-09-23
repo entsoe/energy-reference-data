@@ -1,0 +1,37 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000HIRWN-1P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """NG BMU ID HIRWN-1
+
+Wholesale Market Compliance
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+wholesalemarketcompliance@drax.com
+""" ;
+    cim:IdentifiedObject.mRID "48W00000HIRWN-1P" ;
+    cim:IdentifiedObject.name "HIRWN-1" ;
+    cim:Names.name "Generation Unit",
+        "HIRWAUN" ;
+    dcterms:identifier "urn:eic:48W00000HIRWN-1P" ;
+    skos:altLabel "HIRWAUN" ;
+    skos:definition """NG BMU ID HIRWN-1
+
+Wholesale Market Compliance
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+wholesalemarketcompliance@drax.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HIRWN-1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

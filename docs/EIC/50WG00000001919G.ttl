@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001919G" ;
     cim:IdentifiedObject.name "TROLLHEIG103 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TROLLHEIG103_" ;
+        "NO-TROLLHEIG103" ;
     dcterms:identifier "urn:eic:50WG00000001919G" ;
-    skos:altLabel "NO-TROLLHEIG103_" ;
+    skos:altLabel "NO-TROLLHEIG103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TROLLHEIG103 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

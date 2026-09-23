@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000226F" ;
     cim:IdentifiedObject.name "BRUNSTADG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BRUNSTADG1___" ;
+        "NO-BRUNSTADG1" ;
     dcterms:identifier "urn:eic:50WG00000000226F" ;
-    skos:altLabel "NO-BRUNSTADG1___" ;
+    skos:altLabel "NO-BRUNSTADG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BRUNSTADG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

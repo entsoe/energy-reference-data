@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-01-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Lng Operator" ;
     cim:IdentifiedObject.mRID "23X--160608-AP-P" ;
     cim:IdentifiedObject.name "Australia Pacific LNG Processing Pty Limited" ;
     cim:Names.name "AU43141937948",
         "AUSTRALIA_P_LNG",
-        "Valid EIC Function needed" ;
+        "LNG System Operator" ;
     dcterms:identifier "urn:eic:23X--160608-AP-P" ;
     schema1:vatID "AU43141937948" ;
     skos:altLabel "AUSTRALIA_P_LNG" ;

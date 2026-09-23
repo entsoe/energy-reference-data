@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000026Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000026Q" ;
+    cim:IdentifiedObject.name "ELEKTROWNIA WIATROWA WOLA RACIBOROWSKA SP ZOO" ;
+    cim:Names.name "ELEKTROWNIA_WIAT",
+        "PL7811866754",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19X111100000026Q" ;
+    schema1:vatID "PL7811866754" ;
+    skos:altLabel "ELEKTROWNIA_WIAT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ELEKTROWNIA WIATROWA WOLA RACIBOROWSKA SP ZOO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

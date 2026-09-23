@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000010207",
-    "@skos:prefLabel": "S 300 Fana-Lille Sotra",
-    "@skos:altLabel": "NO-FANALILLESOTR",
+    "@skos:prefLabel": "S 300 Fana-Breivik",
+    "@skos:altLabel": "NO-300FANABREIVI",
     "@cim:IdentifiedObject.mRID": "50TL000000010207",
-    "@cim:IdentifiedObject.name": "S 300 Fana-Lille Sotra",
+    "@cim:IdentifiedObject.name": "S 300 Fana-Breivik",
     "@cim:Names.name": [
-        "NO-FANALILLESOTR",
+        "NO-300FANABREIVI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

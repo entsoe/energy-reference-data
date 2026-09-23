@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCEDEP-12345-W",
     "@skos:prefLabel": "CEDEPA DE DON BENITO, S.L.",
     "@skos:altLabel": "CEDEP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCEDEP-12345-W",
     "@cim:IdentifiedObject.name": "CEDEPA DE DON BENITO, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB06211239",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB06211239",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

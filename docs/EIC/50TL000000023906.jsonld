@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000023906",
-    "@skos:prefLabel": "S H. Høyan 12 AB C",
-    "@skos:altLabel": "NO-HHOYANG12AB",
+    "@skos:prefLabel": "N H. Høyan 12  AB C",
+    "@skos:altLabel": "NO-H_HOYANG12AB",
     "@cim:IdentifiedObject.mRID": "50TL000000023906",
-    "@cim:IdentifiedObject.name": "S H. Høyan 12 AB C",
+    "@cim:IdentifiedObject.name": "N H. Høyan 12  AB C",
     "@cim:Names.name": [
-        "NO-HHOYANG12AB",
+        "NO-H_HOYANG12AB",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

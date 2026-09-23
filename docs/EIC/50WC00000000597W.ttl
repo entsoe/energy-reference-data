@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-03-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000597W" ;
     cim:IdentifiedObject.name "S Dokka Tr 22  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-DOKKA_TR22" ;
+        "NO-DOKKA_TR22L1" ;
     dcterms:identifier "urn:eic:50WC00000000597W" ;
-    skos:altLabel "NO-DOKKA_TR22" ;
+    skos:altLabel "NO-DOKKA_TR22L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Dokka Tr 22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

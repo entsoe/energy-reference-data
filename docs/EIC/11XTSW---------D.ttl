@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XTSW---------D" ;
     cim:IdentifiedObject.name "TSW Trierer Stahlwerke GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE811209394",
-        "TSW" ;
+    cim:Names.name "DE811209394",
+        "TSW",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XTSW---------D" ;
     schema1:vatID "DE811209394" ;
     skos:altLabel "TSW" ;

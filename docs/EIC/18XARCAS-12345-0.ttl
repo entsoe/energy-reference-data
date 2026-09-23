@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-11-22" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XARCAS-12345-0" ;
     cim:IdentifiedObject.name "Pizarras Las Arcas, S.L" ;
     cim:Names.name "ARCAS",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XARCAS-12345-0" ;
     schema1:vatID "ESB32190027" ;
     skos:altLabel "ARCAS" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Pizarras Las Arcas, S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

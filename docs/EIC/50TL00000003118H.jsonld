@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003118H",
-    "@skos:prefLabel": "N 132 Kleppstad-BP_Fygle",
-    "@skos:altLabel": "NO-KLEPPSTADBPFY",
+    "@skos:prefLabel": "N 132 Kleppstad-BP_Fygle(om/Valberg)",
+    "@skos:altLabel": "NO-132KLEPPYGLE1",
     "@cim:IdentifiedObject.mRID": "50TL00000003118H",
-    "@cim:IdentifiedObject.name": "N 132 Kleppstad-BP_Fygle",
+    "@cim:IdentifiedObject.name": "N 132 Kleppstad-BP_Fygle(om/Valberg)",
     "@cim:Names.name": [
-        "NO-KLEPPSTADBPFY",
+        "NO-132KLEPPYGLE1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

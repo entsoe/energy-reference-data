@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000017847",
     "@skos:prefLabel": "Oterholt-MTE",
-    "@skos:altLabel": "NO-OTERHOLT-MTE",
+    "@skos:altLabel": "NO-OTERHOLT_MTE",
     "@cim:IdentifiedObject.mRID": "50WP000000017847",
     "@cim:IdentifiedObject.name": "Oterholt-MTE",
     "@cim:Names.name": [
-        "NO-OTERHOLT-MTE",
+        "NO-OTERHOLT_MTE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000001677S</dcterms:identifier>
     <skos:prefLabel>N 66 Botelvatn-Drag</skos:prefLabel>
-    <skos:altLabel>NO-BOTELVATNDRAG</skos:altLabel>
+    <skos:altLabel>NO-66BOTELVATNDR</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000001677S</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>N 66 Botelvatn-Drag</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-BOTELVATNDRAG</cim:Names.name>
+    <cim:Names.name>NO-66BOTELVATNDR</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

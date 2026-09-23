@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006783X" ;
-    cim:IdentifiedObject.name "Halemba-Punkt Rozgałęźny XHB" ;
+    cim:IdentifiedObject.name "220kV Halemba-Punkt Rozgalezny XHB" ;
     cim:Names.name "3004B",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006783X" ;
     skos:altLabel "3004B" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Halemba-Punkt Rozgałęźny XHB" ;
+    skos:prefLabel "220kV Halemba-Punkt Rozgalezny XHB" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

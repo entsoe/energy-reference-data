@@ -5,16 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21V000000000003V</dcterms:identifier>
     <skos:prefLabel>GAZ-SYSTEM ISO</skos:prefLabel>
-    <skos:altLabel>GS-ISO</skos:altLabel>
-    <skos:definition xml:lang="en">Gas Transmission Operator</skos:definition>
+    <skos:altLabel>GAZ-SYSTEM_ISO</skos:altLabel>
     <cim:IdentifiedObject.mRID>21V000000000003V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GAZ-SYSTEM ISO</cim:IdentifiedObject.name>
-    <cim:Names.name>GS-ISO</cim:Names.name>
-    <cim:IdentifiedObject.description>Gas Transmission Operator</cim:IdentifiedObject.description>
+    <cim:Names.name>GAZ-SYSTEM_ISO</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-30</cim:DateAndOrTime.date>
+    <cim:Names.name>Location</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

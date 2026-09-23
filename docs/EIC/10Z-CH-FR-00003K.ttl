@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-05-11" ;
+    cim:DateAndOrTime.date "2024-03-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Accounting Point" ;
     cim:IdentifiedObject.mRID "10Z-CH-FR-00003K" ;
-    cim:IdentifiedObject.name "Chamoson-Bois Tollot" ;
+    cim:IdentifiedObject.name "Romanel-Bois Tollot" ;
     cim:Names.name "Accounting Point",
         "M_CHAMOS-BOISTOL" ;
     dcterms:identifier "urn:eic:10Z-CH-FR-00003K" ;
     skos:altLabel "M_CHAMOS-BOISTOL" ;
     skos:definition "Accounting Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Chamoson-Bois Tollot" ;
+    skos:prefLabel "Romanel-Bois Tollot" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

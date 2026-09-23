@@ -12,7 +12,9 @@
     cim:IdentifiedObject.mRID "68XAIKENERGY-MDB" ;
     cim:IdentifiedObject.name "AIK ENERGY MD" ;
     cim:Names.name "0610906",
-        "AIK-ENERGY-MD" ;
+        "AIK-ENERGY-MD",
+        "Network User",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:68XAIKENERGY-MDB" ;
     schema1:vatID "0610906" ;
     skos:altLabel "AIK-ENERGY-MD" ;

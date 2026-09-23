@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-11-13" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWBADPYRMONT4" ;
-    cim:IdentifiedObject.name "Stadtwerke Bad Pyrmont" ;
-    cim:Names.name "Balance Group",
-        "CH182610",
+    cim:IdentifiedObject.name "Stadtwerke Bad Pyrmont GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE270460452",
         "SWBADPYRMONT" ;
     dcterms:identifier "urn:eic:11XSWBADPYRMONT4" ;
-    schema1:vatID "CH182610" ;
+    schema1:vatID "DE270460452" ;
     skos:altLabel "SWBADPYRMONT" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stadtwerke Bad Pyrmont" ;
+    skos:prefLabel "Stadtwerke Bad Pyrmont GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

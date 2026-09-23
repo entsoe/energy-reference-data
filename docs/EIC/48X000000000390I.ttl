@@ -1,0 +1,41 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000390I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """22 King Street, St. James
+London
+SW1Y 6QY
+Rasmus Hansen
+rhansen@akereos.com
++4522242294
+jlondon@akereos.com
+
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000390I" ;
+    cim:IdentifiedObject.name "Akereos Commodities" ;
+    cim:Names.name "AKEREOS",
+        "Balance Responsible Party",
+        "GB469333072" ;
+    dcterms:identifier "urn:eic:48X000000000390I" ;
+    schema1:vatID "GB469333072" ;
+    skos:altLabel "AKEREOS" ;
+    skos:definition """22 King Street, St. James
+London
+SW1Y 6QY
+Rasmus Hansen
+rhansen@akereos.com
++4522242294
+jlondon@akereos.com
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Akereos Commodities" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

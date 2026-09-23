@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ000635022> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ000635022" ;
+    cim:IdentifiedObject.name "GREN JELGAVA SIA" ;
+    cim:Names.name "LV50003549231",
+        "Producer",
+        "STJ000635022" ;
+    dcterms:identifier "urn:eic:43X-STJ000635022" ;
+    schema1:vatID "LV50003549231" ;
+    skos:altLabel "STJ000635022" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GREN JELGAVA SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

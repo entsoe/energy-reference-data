@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000933L",
     "@skos:prefLabel": "Jordalskraft",
-    "@skos:altLabel": "NO-JORDALSKRAFT_",
+    "@skos:altLabel": "NO-JORDALSKRAFT",
     "@cim:IdentifiedObject.mRID": "50WP00000000933L",
     "@cim:IdentifiedObject.name": "Jordalskraft",
     "@cim:Names.name": [
-        "NO-JORDALSKRAFT_",
+        "NO-JORDALSKRAFT",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

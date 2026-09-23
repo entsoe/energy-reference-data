@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001468N" ;
-    cim:IdentifiedObject.name "SAVALEN G103 HYDRO" ;
+    cim:IdentifiedObject.name "RENDALENG103 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SAVALEN_G103_" ;
+        "NO-RENDALENG103" ;
     dcterms:identifier "urn:eic:50WG00000001468N" ;
-    skos:altLabel "NO-SAVALEN_G103_" ;
+    skos:altLabel "NO-RENDALENG103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SAVALEN G103 HYDRO" ;
+    skos:prefLabel "RENDALENG103 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "23X--170512--M-V" ;
     cim:IdentifiedObject.name "MTSP Kosovo LLC" ;
     cim:Names.name "Capacity Trader",
-        "MTSP_KOSOVO" ;
+        "MTSP_KOSOVO",
+        "n / a" ;
     dcterms:identifier "urn:eic:23X--170512--M-V" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "MTSP_KOSOVO" ;
     skos:definition "Certificate from Tax Administration of Kosovo VAT filer Tax number: 330165028"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

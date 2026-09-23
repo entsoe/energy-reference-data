@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005044H",
-    "@skos:prefLabel": "M Hustad   T03 Transformator",
-    "@skos:altLabel": "NO-HUSTAD__T03",
+    "@skos:prefLabel": "N Hustad   T03 Transformator",
+    "@skos:altLabel": "NO-HUSTADT03",
     "@cim:IdentifiedObject.mRID": "50TT00000005044H",
-    "@cim:IdentifiedObject.name": "M Hustad   T03 Transformator",
+    "@cim:IdentifiedObject.name": "N Hustad   T03 Transformator",
     "@cim:Names.name": [
-        "NO-HUSTAD__T03",
+        "NO-HUSTADT03",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XSYNECO-GREV-2" ;
     cim:IdentifiedObject.name "Syneco Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE219741801",
-        "SYNECO_GREV" ;
+    cim:Names.name "DE219741801",
+        "SYNECO_GREV",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSYNECO-GREV-2" ;
     schema1:vatID "DE219741801" ;
     skos:altLabel "SYNECO_GREV" ;

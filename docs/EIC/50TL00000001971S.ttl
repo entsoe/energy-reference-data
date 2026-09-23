@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001971S" ;
-    cim:IdentifiedObject.name "M 66 Løkken-Meldal" ;
+    cim:IdentifiedObject.name "N 66 Løkken-Meldal" ;
     cim:Names.name "Internal Line",
-        "NO-LOKKENMELDAL" ;
+        "NO-66LOKKENMELDA" ;
     dcterms:identifier "urn:eic:50TL00000001971S" ;
-    skos:altLabel "NO-LOKKENMELDAL" ;
+    skos:altLabel "NO-66LOKKENMELDA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Løkken-Meldal" ;
+    skos:prefLabel "N 66 Løkken-Meldal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

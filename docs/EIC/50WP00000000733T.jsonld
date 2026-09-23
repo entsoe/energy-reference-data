@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000733T",
-    "@skos:prefLabel": "TBO RKA",
-    "@skos:altLabel": "NO-TBO_RKA",
+    "@skos:prefLabel": "Tjeldbergodden",
+    "@skos:altLabel": "NO-TJELDBER_V01",
     "@cim:IdentifiedObject.mRID": "50WP00000000733T",
-    "@cim:IdentifiedObject.name": "TBO RKA",
+    "@cim:IdentifiedObject.name": "Tjeldbergodden",
     "@cim:Names.name": [
-        "NO-TBO_RKA",
+        "NO-TJELDBER_V01",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

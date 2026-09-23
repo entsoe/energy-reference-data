@@ -12,7 +12,9 @@
     cim:IdentifiedObject.description "Capacity Trader,Consumer" ;
     cim:IdentifiedObject.mRID "52X000000000093O" ;
     cim:IdentifiedObject.name "Flow Traders B.V." ;
-    cim:Names.name "FLOWTRADERSBV",
+    cim:Names.name "Capacity Trader",
+        "Consumer",
+        "FLOWTRADERSBV",
         "NL800322526B01" ;
     dcterms:identifier "urn:eic:52X000000000093O" ;
     schema1:vatID "NL800322526B01" ;

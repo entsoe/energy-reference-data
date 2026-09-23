@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-14" ;
+    cim:DateAndOrTime.date "2025-03-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19X-PL-GGL-GL--9" ;
-    cim:IdentifiedObject.name "Green-Lights spółka z ograniczoną odpowiedzialnością" ;
-    cim:Names.name "Energy Supplier",
+    cim:IdentifiedObject.name "\"Green Lights\" spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "Balance Responsible Party",
+        "Energy Supplier",
         "GREEN-LIGHTS",
         "Grid Access Provider",
         "Meter Administrator",
@@ -22,6 +23,6 @@
     schema1:vatID "PL5213256789" ;
     skos:altLabel "GREEN-LIGHTS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Green-Lights spółka z ograniczoną odpowiedzialnością" ;
+    skos:prefLabel "\"Green Lights\" spółka z ograniczoną odpowiedzialnością" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

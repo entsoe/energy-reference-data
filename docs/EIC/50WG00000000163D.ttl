@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000163D" ;
-    cim:IdentifiedObject.name "BLAFALLIG142 HYDRO" ;
+    cim:IdentifiedObject.name "HATTEBERG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BLAFALLIG142_" ;
+        "NO-HATTEBERG2" ;
     dcterms:identifier "urn:eic:50WG00000000163D" ;
-    skos:altLabel "NO-BLAFALLIG142_" ;
+    skos:altLabel "NO-HATTEBERG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BLAFALLIG142 HYDRO" ;
+    skos:prefLabel "HATTEBERG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

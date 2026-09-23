@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XANDA2-12345-C",
-    "@skos:prefLabel": "ANDASOL 2 CENTRAL TERMOSOLAR DOS, S.A.",
+    "@skos:prefLabel": "ANDASOL-2 CENTRAL TERMOSOLAR DOS, S.L.",
     "@skos:altLabel": "ANDA2",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XANDA2-12345-C",
-    "@cim:IdentifiedObject.name": "ANDASOL 2 CENTRAL TERMOSOLAR DOS, S.A.",
+    "@cim:IdentifiedObject.name": "ANDASOL-2 CENTRAL TERMOSOLAR DOS, S.L.",
     "@cim:Names.name": [
         "ANDA2",
-        "ESA01291228",
-        "Production Responsible party"
+        "ESB01291228",
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-08-14",
-    "@schema:vatID": "ESA01291228",
+    "@cim:DateAndOrTime.date": "2024-02-29",
+    "@schema:vatID": "ESB01291228",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

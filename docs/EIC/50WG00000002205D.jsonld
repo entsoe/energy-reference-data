@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002205D",
     "@skos:prefLabel": "ASNES   G105 HYDRO",
-    "@skos:altLabel": "NO-ASNES___G105_",
+    "@skos:altLabel": "NO-ASNESG105",
     "@cim:IdentifiedObject.mRID": "50WG00000002205D",
     "@cim:IdentifiedObject.name": "ASNES   G105 HYDRO",
     "@cim:Names.name": [
-        "NO-ASNES___G105_",
+        "NO-ASNESG105",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-06-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

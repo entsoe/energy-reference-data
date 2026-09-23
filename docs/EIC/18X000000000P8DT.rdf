@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/18X000000000P8DT">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:18X000000000P8DT</dcterms:identifier>
+    <skos:prefLabel>LINAMAR LIGHT METALS ZARAGOZA S.A.U</skos:prefLabel>
+    <skos:altLabel>ES-LINAMAR</skos:altLabel>
+    <cim:IdentifiedObject.mRID>18X000000000P8DT</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>LINAMAR LIGHT METALS ZARAGOZA S.A.U</cim:IdentifiedObject.name>
+    <cim:Names.name>ES-LINAMAR</cim:Names.name>
+    <cim:Names.name>ESA28044188</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-07-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>ESA28044188</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

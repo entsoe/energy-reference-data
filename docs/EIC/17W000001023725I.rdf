@@ -6,14 +6,14 @@
     <dcterms:identifier>urn:eic:17W000001023725I</dcterms:identifier>
     <skos:prefLabel>COMPAGNIE ELECTRIQUE DE BRETAGNE</skos:prefLabel>
     <skos:altLabel>FR_LANDIVISIAUGU</skos:altLabel>
-    <skos:definition xml:lang="en">CCGT TotalEnergies Landivisiau</skos:definition>
+    <skos:definition xml:lang="en">CCGT TotalEnergies Landivisiau Validation CIO</skos:definition>
     <cim:IdentifiedObject.mRID>17W000001023725I</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>COMPAGNIE ELECTRIQUE DE BRETAGNE</cim:IdentifiedObject.name>
     <cim:Names.name>FR_LANDIVISIAUGU</cim:Names.name>
-    <cim:IdentifiedObject.description>CCGT TotalEnergies Landivisiau</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>CCGT TotalEnergies Landivisiau Validation CIO</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-06-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-17</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

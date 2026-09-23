@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000013325" ;
     cim:IdentifiedObject.name "Skogelva" ;
-    cim:Names.name "NO-SKOGELVA_PL",
+    cim:Names.name "NO-SKOGELVA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000013325" ;
-    skos:altLabel "NO-SKOGELVA_PL" ;
+    skos:altLabel "NO-SKOGELVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Skogelva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

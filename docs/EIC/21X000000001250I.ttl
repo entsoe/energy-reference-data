@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-08-05" ;
+    cim:DateAndOrTime.date "2026-05-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "21X000000001250I" ;
-    cim:IdentifiedObject.name "Stogit Spa" ;
+    cim:IdentifiedObject.name "Snam Stoccaggio SpA" ;
     cim:Names.name "IT13271380159",
-        "STOGIT",
+        "SNAM-STOCCAGGIO",
         "System Operator" ;
     dcterms:identifier "urn:eic:21X000000001250I" ;
     schema1:vatID "IT13271380159" ;
-    skos:altLabel "STOGIT" ;
+    skos:altLabel "SNAM-STOCCAGGIO" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stogit Spa" ;
+    skos:prefLabel "Snam Stoccaggio SpA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

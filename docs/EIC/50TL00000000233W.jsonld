@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000233W",
     "@skos:prefLabel": "S 132 Firingen-Kaldnes",
-    "@skos:altLabel": "NO-FIRINGENKALDN",
+    "@skos:altLabel": "NO-132FIRINGENKA",
     "@cim:IdentifiedObject.mRID": "50TL00000000233W",
     "@cim:IdentifiedObject.name": "S 132 Firingen-Kaldnes",
     "@cim:Names.name": [
-        "NO-FIRINGENKALDN",
+        "NO-132FIRINGENKA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

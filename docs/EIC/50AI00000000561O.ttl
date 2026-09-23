@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50AI00000000561O" ;
-    cim:IdentifiedObject.name "Hollemoen" ;
-    cim:Names.name "NO-HOLLEMOE",
+    cim:IdentifiedObject.name "Holdemoen" ;
+    cim:Names.name "NO-HOLDEMOE",
         "Substation" ;
     dcterms:identifier "urn:eic:50AI00000000561O" ;
-    skos:altLabel "NO-HOLLEMOE" ;
+    skos:altLabel "NO-HOLDEMOE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hollemoen" ;
+    skos:prefLabel "Holdemoen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

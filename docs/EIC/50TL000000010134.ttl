@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000010134" ;
     cim:IdentifiedObject.name "S 300 Eidsborg-Vinje" ;
     cim:Names.name "Internal Line",
-        "NO-EIDSBORGVINJE" ;
+        "NO-300EIDSBORGVI" ;
     dcterms:identifier "urn:eic:50TL000000010134" ;
-    skos:altLabel "NO-EIDSBORGVINJE" ;
+    skos:altLabel "NO-300EIDSBORGVI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Eidsborg-Vinje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

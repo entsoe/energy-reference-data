@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-08-12" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "48XGDF-SUEZ-SAL2" ;
     cim:IdentifiedObject.name "GDF SUEZ Sales Limited" ;
-    cim:Names.name "Consumption Responsible Party",
-        "GB741911934",
-        "GDF_SUEZ_SALES" ;
+    cim:Names.name "GB741911934",
+        "GDF_SUEZ_SALES",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:48XGDF-SUEZ-SAL2" ;
     schema1:vatID "GB741911934" ;
     skos:altLabel "GDF_SUEZ_SALES" ;

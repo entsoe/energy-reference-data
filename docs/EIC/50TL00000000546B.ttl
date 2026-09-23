@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000546B" ;
-    cim:IdentifiedObject.name "M 132 Nørve-Sentrum TK" ;
+    cim:IdentifiedObject.name "N 132 Nørve-Sentrum TK" ;
     cim:Names.name "Internal Line",
-        "NO-NORVESENTRUMT" ;
+        "NO-132NORVESENTR" ;
     dcterms:identifier "urn:eic:50TL00000000546B" ;
-    skos:altLabel "NO-NORVESENTRUMT" ;
+    skos:altLabel "NO-132NORVESENTR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Nørve-Sentrum TK" ;
+    skos:prefLabel "N 132 Nørve-Sentrum TK" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

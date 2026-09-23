@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-01-19" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWS-V-------U" ;
-    cim:IdentifiedObject.name "Stadtwerke Staßfurt GmbH (Vertrieb)" ;
-    cim:Names.name "Balance Group",
-        "DE139489230",
-        "SWSTASSFURT_V" ;
+    cim:IdentifiedObject.name "Stadtwerke Staßfurt GmbH" ;
+    cim:Names.name "DE139489230",
+        "SWSTASSFURT_V",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSWS-V-------U" ;
     schema1:vatID "DE139489230" ;
     skos:altLabel "SWSTASSFURT_V" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stadtwerke Staßfurt GmbH (Vertrieb)" ;
+    skos:prefLabel "Stadtwerke Staßfurt GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

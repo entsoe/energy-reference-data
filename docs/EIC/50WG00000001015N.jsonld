@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001015N",
     "@skos:prefLabel": "MARKA   G101 HYDRO",
-    "@skos:altLabel": "NO-MARKA___G101_",
+    "@skos:altLabel": "NO-MARKAG101",
     "@cim:IdentifiedObject.mRID": "50WG00000001015N",
     "@cim:IdentifiedObject.name": "MARKA   G101 HYDRO",
     "@cim:Names.name": [
-        "NO-MARKA___G101_",
+        "NO-MARKAG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

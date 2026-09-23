@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:35XCOTEE-MNE---2",
-    "@skos:prefLabel": "COTEE",
+    "@skos:prefLabel": "Crnogorski operator tržišta električne energije d.o.o.",
     "@skos:altLabel": "COTEE_DOO_PG",
     "@skos:definition": {
         "@language": "en",
         "@value": "MONTENEGRIN ELECTRICITY MARKET OPERATOR - COTEE"
     },
     "@cim:IdentifiedObject.mRID": "35XCOTEE-MNE---2",
-    "@cim:IdentifiedObject.name": "COTEE",
+    "@cim:IdentifiedObject.name": "Crnogorski operator tržišta električne energije d.o.o.",
     "@cim:Names.name": [
         "COTEE_DOO_PG",
         "02849096",
@@ -29,7 +29,7 @@
     "@cim:IdentifiedObject.description": "MONTENEGRIN ELECTRICITY MARKET OPERATOR - COTEE",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-04-19",
+    "@cim:DateAndOrTime.date": "2026-02-25",
     "@schema:vatID": "02849096",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

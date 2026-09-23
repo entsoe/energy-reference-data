@@ -12,19 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X-FR-A-A0A0A-S",
-    "@skos:prefLabel": "GRTgaz",
-    "@skos:altLabel": "GRTGAZ",
+    "@skos:prefLabel": "NaTran",
+    "@skos:altLabel": "NATRAN_FR",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Renamed to NATRAN from GRTgaz FR"
+    },
     "@cim:IdentifiedObject.mRID": "21X-FR-A-A0A0A-S",
-    "@cim:IdentifiedObject.name": "GRTgaz",
+    "@cim:IdentifiedObject.name": "NaTran",
     "@cim:Names.name": [
-        "GRTGAZ",
-        "FR440117620",
+        "NATRAN_FR",
+        "FR27440117620",
         "System Operator"
     ],
+    "@cim:IdentifiedObject.description": "Renamed to NATRAN from GRTgaz FR",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-01-25",
-    "@schema:vatID": "FR440117620",
+    "@cim:DateAndOrTime.date": "2025-02-20",
+    "@schema:vatID": "FR27440117620",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

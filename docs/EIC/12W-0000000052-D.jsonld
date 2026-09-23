@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000000052-D",
     "@skos:prefLabel": "Kernkraftwerk Leibstadt",
     "@skos:altLabel": "KKW-LEIBSTADT-AS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation Unit"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000000052-D",
     "@cim:IdentifiedObject.name": "Kernkraftwerk Leibstadt",
     "@cim:Names.name": [
         "KKW-LEIBSTADT-AS",
-        "Generation Unit"
+        "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-26",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

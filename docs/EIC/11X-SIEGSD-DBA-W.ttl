@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-SIEGSD-DBA-W" ;
     cim:IdentifiedObject.name "Elektrizitätsgenossenschaft Vogling & Angrenzer eG" ;
-    cim:Names.name "Balance Group",
-        "DE131565637",
-        "EVA-DBA" ;
+    cim:Names.name "DE131565637",
+        "EVA-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-SIEGSD-DBA-W" ;
     schema1:vatID "DE131565637" ;
     skos:altLabel "EVA-DBA" ;

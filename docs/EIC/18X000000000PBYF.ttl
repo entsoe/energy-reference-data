@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PBYF> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PBYF" ;
+    cim:IdentifiedObject.name "URSO SOLAR, S.L." ;
+    cim:Names.name "Balance Responsible Party",
+        "ES-URSOS",
+        "ESB90351586",
+        "Producer" ;
+    dcterms:identifier "urn:eic:18X000000000PBYF" ;
+    schema1:vatID "ESB90351586" ;
+    skos:altLabel "ES-URSOS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "URSO SOLAR, S.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

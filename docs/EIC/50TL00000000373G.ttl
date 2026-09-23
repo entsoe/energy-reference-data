@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000373G" ;
-    cim:IdentifiedObject.name "S 132 Hydro_2-Knardalstrand7" ;
+    cim:IdentifiedObject.name "S 132 Herøya_2-Knardalstrand7" ;
     cim:Names.name "Internal Line",
-        "NO-HYDRO2KNARDA7" ;
+        "NO-132HEROYRAND7" ;
     dcterms:identifier "urn:eic:50TL00000000373G" ;
-    skos:altLabel "NO-HYDRO2KNARDA7" ;
+    skos:altLabel "NO-132HEROYRAND7" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Hydro_2-Knardalstrand7" ;
+    skos:prefLabel "S 132 Herøya_2-Knardalstrand7" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

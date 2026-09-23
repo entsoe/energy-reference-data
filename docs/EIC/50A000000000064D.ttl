@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000000064D" ;
-    cim:IdentifiedObject.name "Aukland" ;
-    cim:Names.name "NO-AUKLAND",
+    cim:IdentifiedObject.name "Augland" ;
+    cim:Names.name "NO-AUGLAND",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000000064D" ;
-    skos:altLabel "NO-AUKLAND" ;
+    skos:altLabel "NO-AUGLAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Aukland" ;
+    skos:prefLabel "Augland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

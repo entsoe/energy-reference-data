@@ -1,0 +1,36 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X0000000003877> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """First Floor River Court The Old Mill Office, Mill Lane, Godalming, Surrey, United Kingdom, GU7 1EZ
+Alex Calver 
+alex@constantineenergystorage.com
+07432577766
+mike@constantineenergystorage.com
+""" ;
+    cim:IdentifiedObject.mRID "48X0000000003877" ;
+    cim:IdentifiedObject.name "HD144WHI Ltd" ;
+    cim:Names.name "GB379814249",
+        "Producer",
+        "Storage System Operator",
+        "WHITEGATE" ;
+    dcterms:identifier "urn:eic:48X0000000003877" ;
+    schema1:vatID "GB379814249" ;
+    skos:altLabel "WHITEGATE" ;
+    skos:definition """First Floor River Court The Old Mill Office, Mill Lane, Godalming, Surrey, United Kingdom, GU7 1EZ
+Alex Calver 
+alex@constantineenergystorage.com
+07432577766
+mike@constantineenergystorage.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "HD144WHI Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

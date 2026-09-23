@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000024209",
     "@skos:prefLabel": "EIDUM   G105 HYDRO",
-    "@skos:altLabel": "NO-EIDUM___G105_",
+    "@skos:altLabel": "NO-EIDUMG105",
     "@cim:IdentifiedObject.mRID": "50WG000000024209",
     "@cim:IdentifiedObject.name": "EIDUM   G105 HYDRO",
     "@cim:Names.name": [
-        "NO-EIDUM___G105_",
+        "NO-EIDUMG105",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

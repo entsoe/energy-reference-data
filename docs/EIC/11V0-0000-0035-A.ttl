@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11V0-0000-0035-A" ;
     cim:IdentifiedObject.name "ECP Endpoint CORE NEMOs" ;
-    cim:Names.name "11VAMPRCORENEMOS" ;
+    cim:Names.name "11VAMPRCORENEMOS",
+        "Endpoint" ;
     dcterms:identifier "urn:eic:11V0-0000-0035-A" ;
     skos:altLabel "11VAMPRCORENEMOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

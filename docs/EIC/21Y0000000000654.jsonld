@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000654",
     "@skos:prefLabel": "Gas mixing facilities (PL)",
     "@skos:altLabel": "GAS_MIX_FAC_PL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregated Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000654",
     "@cim:IdentifiedObject.name": "Gas mixing facilities (PL)",
     "@cim:Names.name": [
         "GAS_MIX_FAC_PL",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregated Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

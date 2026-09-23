@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WCI00000002235" ;
-    cim:IdentifiedObject.name "S Lista    33  Industri" ;
+    cim:IdentifiedObject.name "S Lista    33  A1 Industri" ;
     cim:Names.name "Load",
-        "NO-LISTA33NC" ;
+        "NO-LISTA33A1" ;
     dcterms:identifier "urn:eic:50WCI00000002235" ;
-    skos:altLabel "NO-LISTA33NC" ;
+    skos:altLabel "NO-LISTA33A1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Lista    33  Industri" ;
+    skos:prefLabel "S Lista    33  A1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

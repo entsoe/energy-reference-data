@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001689L" ;
-    cim:IdentifiedObject.name "M 66 Bratli-Namsos" ;
+    cim:IdentifiedObject.name "N 66 Bratli-Namsos" ;
     cim:Names.name "Internal Line",
-        "NO-BRATLINAMSOS" ;
+        "NO-66BRATLINAMSO" ;
     dcterms:identifier "urn:eic:50TL00000001689L" ;
-    skos:altLabel "NO-BRATLINAMSOS" ;
+    skos:altLabel "NO-66BRATLINAMSO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Bratli-Namsos" ;
+    skos:prefLabel "N 66 Bratli-Namsos" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000000156",
-    "@skos:prefLabel": "S Askehaug 66  K1 Forbruk",
-    "@skos:altLabel": "NO-ASKEHAUG66T2",
+    "@skos:prefLabel": "S Kullerød 66  T1 Forbruk",
+    "@skos:altLabel": "NO-KULLEROD66T1",
     "@cim:IdentifiedObject.mRID": "50WC000000000156",
-    "@cim:IdentifiedObject.name": "S Askehaug 66  K1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Kullerød 66  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-ASKEHAUG66T2",
+        "NO-KULLEROD66T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

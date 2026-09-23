@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000651E" ;
     cim:IdentifiedObject.name "N 132 Skogfoss-Varangerbotn" ;
     cim:Names.name "Internal Line",
-        "NO-SKOGFOSSVARAN" ;
+        "NO-132SKOGFOSSVA" ;
     dcterms:identifier "urn:eic:50TL00000000651E" ;
-    skos:altLabel "NO-SKOGFOSSVARAN" ;
+    skos:altLabel "NO-132SKOGFOSSVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Skogfoss-Varangerbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12X-00000020BO-8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12X-00000020BO-8" ;
+    cim:IdentifiedObject.name "Winpertrade GmbH" ;
+    cim:Names.name "CHE-446.289.221",
+        "Capacity Trader",
+        "WINPERTRADE-ST" ;
+    dcterms:identifier "urn:eic:12X-00000020BO-8" ;
+    schema1:vatID "CHE-446.289.221" ;
+    skos:altLabel "WINPERTRADE-ST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Winpertrade GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

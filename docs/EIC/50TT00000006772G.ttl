@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TT00000006772G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TT00000006772G" ;
+    cim:IdentifiedObject.name "S Ås       T2 Transformator" ;
+    cim:Names.name "NO-AAST2",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:50TT00000006772G" ;
+    skos:altLabel "NO-AAST2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S Ås       T2 Transformator" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

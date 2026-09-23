@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:17X000000982428Z",
     "@skos:prefLabel": "GreenYellow Energy Supply and Services France",
     "@skos:altLabel": "FR_GYESSFR",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Update status"
+    },
     "@cim:IdentifiedObject.mRID": "17X000000982428Z",
     "@cim:IdentifiedObject.name": "GreenYellow Energy Supply and Services France",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "FR67853869840",
         "Energy Supplier"
     ],
+    "@cim:IdentifiedObject.description": "Update status",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-12-21",
+    "@cim:DateAndOrTime.date": "2025-06-11",
     "@schema:vatID": "FR67853869840",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XENERGBAL7102U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "41XENERGBAL7102U" ;
+    cim:IdentifiedObject.name "UAB ENERGY BALANCING" ;
+    cim:Names.name "Balance Responsible Party",
+        "ENERGYBALANCING",
+        "LT100017936710" ;
+    dcterms:identifier "urn:eic:41XENERGBAL7102U" ;
+    schema1:vatID "LT100017936710" ;
+    skos:altLabel "ENERGYBALANCING" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UAB ENERGY BALANCING" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

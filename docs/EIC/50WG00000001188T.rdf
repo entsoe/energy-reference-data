@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000001188T</dcterms:identifier>
-    <skos:prefLabel>NORE_1  G102 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-NORE_1__G102_</skos:altLabel>
+    <skos:prefLabel>UVDAL_2 G102 HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-UVDAL_2G102</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000001188T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>NORE_1  G102 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-NORE_1__G102_</cim:Names.name>
+    <cim:IdentifiedObject.name>UVDAL_2 G102 HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-UVDAL_2G102</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-28</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

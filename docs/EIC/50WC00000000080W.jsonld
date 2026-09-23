@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000080W",
-    "@skos:prefLabel": "S Fjære    132 Forbruk",
-    "@skos:altLabel": "NO-FJARE132",
+    "@skos:prefLabel": "S Fjære    132 T3 Forbruk",
+    "@skos:altLabel": "NO-FJARE132T3",
     "@cim:IdentifiedObject.mRID": "50WC00000000080W",
-    "@cim:IdentifiedObject.name": "S Fjære    132 Forbruk",
+    "@cim:IdentifiedObject.name": "S Fjære    132 T3 Forbruk",
     "@cim:Names.name": [
-        "NO-FJARE132",
+        "NO-FJARE132T3",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

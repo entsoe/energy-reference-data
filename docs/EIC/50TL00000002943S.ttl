@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002943S" ;
-    cim:IdentifiedObject.name "M 66 Sømna-Trongsundet" ;
+    cim:IdentifiedObject.name "N 66 Sømna-Trongsundet" ;
     cim:Names.name "Internal Line",
-        "NO-SOMNATRONGSUN" ;
+        "NO-66SOMNATRONGS" ;
     dcterms:identifier "urn:eic:50TL00000002943S" ;
-    skos:altLabel "NO-SOMNATRONGSUN" ;
+    skos:altLabel "NO-66SOMNATRONGS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Sømna-Trongsundet" ;
+    skos:prefLabel "N 66 Sømna-Trongsundet" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

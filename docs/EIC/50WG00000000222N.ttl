@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000222N" ;
     cim:IdentifiedObject.name "BROKKE  G104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BROKKE__G104_" ;
+        "NO-BROKKEG104" ;
     dcterms:identifier "urn:eic:50WG00000000222N" ;
-    skos:altLabel "NO-BROKKE__G104_" ;
+    skos:altLabel "NO-BROKKEG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BROKKE  G104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

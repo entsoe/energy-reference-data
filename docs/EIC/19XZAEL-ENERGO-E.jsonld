@@ -12,18 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XZAEL-ENERGO-E",
-    "@skos:prefLabel": "'ZAEL - ENERGO' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:prefLabel": "ZAEL - ENERGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@skos:altLabel": "ZAEL-ENERGO",
     "@cim:IdentifiedObject.mRID": "19XZAEL-ENERGO-E",
-    "@cim:IdentifiedObject.name": "'ZAEL - ENERGO' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@cim:IdentifiedObject.name": "ZAEL - ENERGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
         "ZAEL-ENERGO",
         "PL8942824490",
-        "Balance Responsible Party"
+        "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-10-17",
+    "@cim:DateAndOrTime.date": "2025-10-22",
     "@schema:vatID": "PL8942824490",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

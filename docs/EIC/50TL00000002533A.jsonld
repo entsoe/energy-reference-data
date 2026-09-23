@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002533A",
-    "@skos:prefLabel": "M Ulset 132 L1 X",
-    "@skos:altLabel": "NO-ULSET132L1X",
+    "@skos:prefLabel": "N Ulset    132 L1 X",
+    "@skos:altLabel": "NO-ULSET132L1_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002533A",
-    "@cim:IdentifiedObject.name": "M Ulset 132 L1 X",
+    "@cim:IdentifiedObject.name": "N Ulset    132 L1 X",
     "@cim:Names.name": [
-        "NO-ULSET132L1X",
+        "NO-ULSET132L1_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

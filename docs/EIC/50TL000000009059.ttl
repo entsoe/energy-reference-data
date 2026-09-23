@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000009059" ;
-    cim:IdentifiedObject.name "M 22 Muoidejohka-Steinåga" ;
+    cim:IdentifiedObject.name "N 22 Muoidejohka-Steinåga" ;
     cim:Names.name "Internal Line",
-        "NO-MUOIDEJOHKAST" ;
+        "NO-22MUOIDEJOHKA" ;
     dcterms:identifier "urn:eic:50TL000000009059" ;
-    skos:altLabel "NO-MUOIDEJOHKAST" ;
+    skos:altLabel "NO-22MUOIDEJOHKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Muoidejohka-Steinåga" ;
+    skos:prefLabel "N 22 Muoidejohka-Steinåga" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

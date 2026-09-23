@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000016052",
-    "@skos:prefLabel": "MOSKOG  G176 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G176_",
+    "@skos:prefLabel": "OVREBO  G176 HYDRO",
+    "@skos:altLabel": "NO-OVREBOG176",
     "@cim:IdentifiedObject.mRID": "50WG000000016052",
-    "@cim:IdentifiedObject.name": "MOSKOG  G176 HYDRO",
+    "@cim:IdentifiedObject.name": "OVREBO  G176 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G176_",
+        "NO-OVREBOG176",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

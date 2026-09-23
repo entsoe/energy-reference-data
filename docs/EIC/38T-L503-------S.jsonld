@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38T-L503-------S",
-    "@skos:prefLabel": "L503 Harku-Sindi ",
-    "@skos:altLabel": "L503_HARKU_SINDI",
+    "@skos:prefLabel": "L503 Lihula-Harku",
+    "@skos:altLabel": "L503_LIHULA_HARK",
     "@cim:IdentifiedObject.mRID": "38T-L503-------S",
-    "@cim:IdentifiedObject.name": "L503 Harku-Sindi ",
+    "@cim:IdentifiedObject.name": "L503 Lihula-Harku",
     "@cim:Names.name": [
-        "L503_HARKU_SINDI",
+        "L503_LIHULA_HARK",
         "Internal Tie-Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-05",
+    "@cim:DateAndOrTime.date": "2026-03-03",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

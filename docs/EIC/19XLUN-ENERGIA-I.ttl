@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-21" ;
+    cim:DateAndOrTime.date "2026-08-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XLUN-ENERGIA-I" ;
-    cim:IdentifiedObject.name "EEP PROJEKT 4 SP. Z O.O." ;
+    cim:IdentifiedObject.name "Aarx Energy Spółka z ograniczoną odpowiedzialnością" ;
     cim:Names.name "A0019920C.PL",
+        "AARX_ENERRGY",
         "Balance Responsible Party",
         "Energy Supplier",
-        "LUNEOS_ENERGIA",
         "PL8513221101" ;
     dcterms:identifier "urn:eic:19XLUN-ENERGIA-I" ;
     schema1:vatID "PL8513221101" ;
-    skos:altLabel "LUNEOS_ENERGIA" ;
+    skos:altLabel "AARX_ENERRGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EEP PROJEKT 4 SP. Z O.O." ;
+    skos:prefLabel "Aarx Energy Spółka z ograniczoną odpowiedzialnością" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

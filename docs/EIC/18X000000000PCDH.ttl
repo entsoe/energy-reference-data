@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PCDH> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PCDH" ;
+    cim:IdentifiedObject.name "CARLOTEÑA DE ASADOS SL" ;
+    cim:Names.name "Consumer",
+        "ES-CARLO",
+        "ESB14468292" ;
+    dcterms:identifier "urn:eic:18X000000000PCDH" ;
+    schema1:vatID "ESB14468292" ;
+    skos:altLabel "ES-CARLO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CARLOTEÑA DE ASADOS SL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

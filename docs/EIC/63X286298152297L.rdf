@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/63X286298152297L">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:63X286298152297L</dcterms:identifier>
+    <skos:prefLabel>Tumbleweed Partners</skos:prefLabel>
+    <skos:altLabel>FRG_POOL_GRTGAZ</skos:altLabel>
+    <skos:definition xml:lang="en">Tumbleweed Partners offre un soutien aux compagnies souhaitant mener des op&#233;rations de trading physique gazier en France et en Europe. Ce soutien est autant sur les aspects legaux / r&#233;glementaires, que sur les aspects op&#233;rationnels / techniques, y compris l'acc&#232;s aux r&#233;seaux de transport gazier.</skos:definition>
+    <cim:IdentifiedObject.mRID>63X286298152297L</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Tumbleweed Partners</cim:IdentifiedObject.name>
+    <cim:Names.name>FRG_POOL_GRTGAZ</cim:Names.name>
+    <cim:Names.name>FR96814739694</cim:Names.name>
+    <cim:IdentifiedObject.description>Tumbleweed Partners offre un soutien aux compagnies souhaitant mener des op&#233;rations de trading physique gazier en France et en Europe. Ce soutien est autant sur les aspects legaux / r&#233;glementaires, que sur les aspects op&#233;rationnels / techniques, y compris l'acc&#232;s aux r&#233;seaux de transport gazier.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Information Provider</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>FR96814739694</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

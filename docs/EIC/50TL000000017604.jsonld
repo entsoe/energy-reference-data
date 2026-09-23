@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000017604",
-    "@skos:prefLabel": "S 66 Førde-Tefre",
-    "@skos:altLabel": "NO-FORDETEFRE",
+    "@skos:prefLabel": "N 66 Førde-Tefre",
+    "@skos:altLabel": "NO-66FORDETEFRE",
     "@cim:IdentifiedObject.mRID": "50TL000000017604",
-    "@cim:IdentifiedObject.name": "S 66 Førde-Tefre",
+    "@cim:IdentifiedObject.name": "N 66 Førde-Tefre",
     "@cim:Names.name": [
-        "NO-FORDETEFRE",
+        "NO-66FORDETEFRE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

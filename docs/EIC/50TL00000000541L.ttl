@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-09-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TL00000000541L" ;
     cim:IdentifiedObject.name "N 132 Nordreisa-Guolas2" ;
     cim:Names.name "Internal Line",
-        "NO-NORDREGUOLAS2" ;
+        "NO-132NORDREISAG" ;
     dcterms:identifier "urn:eic:50TL00000000541L" ;
-    skos:altLabel "NO-NORDREGUOLAS2" ;
+    skos:altLabel "NO-132NORDREISAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Nordreisa-Guolas2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

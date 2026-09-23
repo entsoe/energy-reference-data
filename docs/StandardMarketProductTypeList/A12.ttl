@@ -1,0 +1,10 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A12> a skos:Concept ;
+    dcterms:identifier "A12" ;
+    skos:definition "Cost sharing of coordinated remedial action measures (redispatch and countertrading) under the polluter pays principle."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Remedial Action Cost Sharing Polluter Pays" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+

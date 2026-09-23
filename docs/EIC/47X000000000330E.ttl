@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-27" ;
+    cim:DateAndOrTime.date "2024-08-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "47X000000000330E" ;
     cim:IdentifiedObject.name "CFP Commodities Limited" ;
     cim:Names.name "3686266AH",
-        "IE330E",
-        "Trade Responsible Party" ;
+        "Balance Responsible Party",
+        "IE330E" ;
     dcterms:identifier "urn:eic:47X000000000330E" ;
     schema1:vatID "3686266AH" ;
     skos:altLabel "IE330E" ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000026698" ;
     cim:IdentifiedObject.name "MAR     G102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MAR_____G102_" ;
+        "NO-MARG102" ;
     dcterms:identifier "urn:eic:50WG000000026698" ;
-    skos:altLabel "NO-MAR_____G102_" ;
+    skos:altLabel "NO-MARG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MAR     G102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

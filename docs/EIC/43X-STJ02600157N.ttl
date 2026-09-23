@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02600157N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02600157N" ;
+    cim:IdentifiedObject.name "SPD A SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV40103222135",
+        "STJ02600157N" ;
+    dcterms:identifier "urn:eic:43X-STJ02600157N" ;
+    schema1:vatID "LV40103222135" ;
+    skos:altLabel "STJ02600157N" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SPD A SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

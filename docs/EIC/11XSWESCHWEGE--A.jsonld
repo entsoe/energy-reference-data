@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSWESCHWEGE--A",
     "@skos:prefLabel": "Stadtwerke Eschwege GmbH",
     "@skos:altLabel": "SW_ESCHWEGE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWESCHWEGE--A",
     "@cim:IdentifiedObject.name": "Stadtwerke Eschwege GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE219098160",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-24",
+    "@cim:DateAndOrTime.date": "2026-05-06",
     "@schema:vatID": "DE219098160",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -16,7 +16,10 @@
     "@skos:altLabel": "HYGESTE",
     "@cim:IdentifiedObject.mRID": "18WHYGESTE-123-L",
     "@cim:IdentifiedObject.name": "GESTERNOVA",
-    "@cim:Names.name": "HYGESTE",
+    "@cim:Names.name": [
+        "HYGESTE",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-07-22",

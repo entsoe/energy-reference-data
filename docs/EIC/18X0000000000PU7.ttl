@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-12" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18X0000000000PU7" ;
     cim:IdentifiedObject.name "HIJOS DE ALFONSO GARRIDO DELGADO S.A" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18X0000000000PU7" ;
     schema1:vatID "ESA21007570" ;
     skos:altLabel "HIJOSDE" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "HIJOS DE ALFONSO GARRIDO DELGADO S.A" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X5832852118901> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X5832852118901" ;
+    cim:IdentifiedObject.name "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"FORGE EZ\"" ;
+    cim:Names.name "411442510051",
+        "Consumption Responsible Party",
+        "TOV_FORGE_EZ" ;
+    dcterms:identifier "urn:eic:62X5832852118901" ;
+    schema1:vatID "411442510051" ;
+    skos:altLabel "TOV_FORGE_EZ" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"FORGE EZ\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

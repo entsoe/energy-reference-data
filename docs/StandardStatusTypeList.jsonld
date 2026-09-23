@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A67",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A05",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -9,15 +9,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A67",
-            "@skos:prefLabel": "Available if linked bid activated",
+            "@dcterms:identifier": "A05",
+            "@skos:prefLabel": "Active",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Bid available if linked bid activated."
+                "@value": "The object being reported is currently active."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A19",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A26",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -25,15 +25,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A19",
-            "@skos:prefLabel": "Curative",
+            "@dcterms:identifier": "A26",
+            "@skos:prefLabel": "Absolute",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The remedial action is applied after an outage has occurred, in order to maintain the operational security."
+                "@value": "The quantity being described is an absolute value."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A53",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A02",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -41,15 +41,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A53",
-            "@skos:prefLabel": "For voltage optimization",
+            "@dcterms:identifier": "A02",
+            "@skos:prefLabel": "Final",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Describes an element which needs to be optimized by a voltage optimization process."
+                "@value": "The document is in a definitive state."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A36",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A30",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -57,15 +57,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A36",
-            "@skos:prefLabel": "Planned",
+            "@dcterms:identifier": "A30",
+            "@skos:prefLabel": "Substituted",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Is planned."
+                "@value": "Substituted pre-processing data."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A71",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A43",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -73,15 +73,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A71",
-            "@skos:prefLabel": "Available for DA if linked bid subject to DA",
+            "@dcterms:identifier": "A43",
+            "@skos:prefLabel": "Setpoint schedule",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Bid available for direct activation if linked bid subject to direct activation."
+                "@value": "The code for the power setpoint mode of operation of the HVDC link."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A58",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A73",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -89,123 +89,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A58",
-            "@skos:prefLabel": "Not available for DA if linked bid subject to SA",
+            "@dcterms:identifier": "A73",
+            "@skos:prefLabel": "Delta",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Bid not available for direct activation if linked bid subject to scheduled activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A49",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A49",
-            "@skos:prefLabel": "To be monitored",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an element which needs to be monitored by an optimization process."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A34",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A34",
-            "@skos:prefLabel": "Rejected",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The document rejected by one or more parties."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A13",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A13",
-            "@skos:prefLabel": "Withdrawn",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The information has been withdrawn by the submitter."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A35",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A35",
-            "@skos:prefLabel": "Preliminary",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Indicative information only for initial planning purposes."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A29",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A29",
-            "@skos:prefLabel": "Pre Processed",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "to be process"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A47",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A47",
-            "@skos:prefLabel": "Exporting element",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "An exporting network element from which the flow measurement comes out."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A65",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A65",
-            "@skos:prefLabel": "Conditionally available",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid available as long as none of the conditions associated with the linked bids materialise."
+                "@value": "Describes a status representing a difference between two values."
             }
         },
         {
@@ -241,7 +129,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A39",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A58",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -249,43 +137,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A39",
-            "@skos:prefLabel": "Could Be Used",
+            "@dcterms:identifier": "A58",
+            "@skos:prefLabel": "Not available for DA if linked bid subject to SA",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The object defined in the series could be used."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A12",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A12",
-            "@skos:prefLabel": "RGCE agreed",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The information has been agreed within the ENTSO-E Regional Group Continental Europe process."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A18",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A18",
-            "@skos:prefLabel": "Preventive",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The remedial action is applied to prevent an outage."
+                "@value": "Bid not available for direct activation if linked bid subject to scheduled activation."
             }
         },
         {
@@ -305,7 +161,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A11",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A60",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -313,15 +169,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A11",
-            "@skos:prefLabel": "Unavailable",
+            "@dcterms:identifier": "A60",
+            "@skos:prefLabel": "Not available if linked bid subject to DA",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The volumes (one or more) are unavailable."
+                "@value": "Bid not available if linked bid subject to direct activation."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A31",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A17",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -329,11 +185,59 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A31",
-            "@skos:prefLabel": "Modified",
+            "@dcterms:identifier": "A17",
+            "@skos:prefLabel": "Reactivation",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Modified pre-processing data by RSC or CGMA platform."
+                "@value": "The action requested to be carried out is to reactivate a previously deactivated object."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A47",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A47",
+            "@skos:prefLabel": "Exporting element",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "An exporting network element from which the flow measurement comes out."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A03",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A03",
+            "@skos:prefLabel": "Deactivated",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The object being reported has been deactivated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A27",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A27",
+            "@skos:prefLabel": "Curative or preventive",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The remedial action can be applied to prevent an outage or after an outage has occurred in order to maintain the operational security."
             }
         },
         {
@@ -369,246 +273,6 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A04",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A04",
-            "@skos:prefLabel": "Reactivated",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The object being reported has been reactivated."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A54",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A54",
-            "@skos:prefLabel": "Presolved",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an active constraint that limits the exchanges. It is part of the presolved domain."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A09",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A09",
-            "@skos:prefLabel": "Cancelled",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The tender indicated in the time series has been completely cancelled.\nIn this case the resources are no longer available to all Acquiring System Operators"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A57",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A57",
-            "@skos:prefLabel": "Not available for DA if linked bid subject to DA",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid not available for direct activation if linked bid subject to direct activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A16",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A16",
-            "@skos:prefLabel": "Deactivation",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The action requested to be carried out is to deactivate an existing object."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A70",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A70",
-            "@skos:prefLabel": "Available if linked bid subject to DA",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid available if linked bid subject to direct activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A72",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A72",
-            "@skos:prefLabel": "Available for DA if linked bid subject to SA",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid available for direct activation if linked bid subject to scheduled activation."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A22",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A22",
-            "@skos:prefLabel": "Close",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The action being described consists of connecting the network element  to the transmission network."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A24",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A24",
-            "@skos:prefLabel": "Start",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The action being described consists of starting the production or consumption connected to a network element."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A41",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A41",
-            "@skos:prefLabel": "Individual Network Data",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The network data provided in the document or series concerns the the unique TSO area describes by the document or series."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A64",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A64",
-            "@skos:prefLabel": "Relevant",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an asset which is considered as relevant."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A30",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A30",
-            "@skos:prefLabel": "Substituted",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Substituted pre-processing data."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A51",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A51",
-            "@skos:prefLabel": "Relative to previous point in time",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The quantity being described is a relative value to a previous point in time."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A14",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A14",
-            "@skos:prefLabel": "Creation",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The action requested to be carried out is the creation of a new object."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A50",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A50",
-            "@skos:prefLabel": "To be included in capacity calculation",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an element which needs to be taken into account in a capacity calculation process."
-            }
-        },
-        {
             "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A68",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
@@ -622,118 +286,6 @@
             "@skos:definition": {
                 "@language": "en",
                 "@value": "Bid available if linked bid rejected."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A56",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A56",
-            "@skos:prefLabel": "Not available if linked bid rejected",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid not available if linked bid rejected."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A37",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A37",
-            "@skos:prefLabel": "Confirmed",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The status is  confirmed."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A48",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A48",
-            "@skos:prefLabel": "To be optimized",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an element which needs to be optimized by an optimization process."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A66",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A66",
-            "@skos:prefLabel": "Conditionally unavailable",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid unavailable as long as none of the conditions associated with the linked bids materialise."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A46",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A46",
-            "@skos:prefLabel": "Importing element",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "An importing network element in which the flow measurement enters."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A55",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A55",
-            "@skos:prefLabel": "Not available if linked bid activated",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Bid not available if linked bid activated."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A63",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A63",
-            "@skos:prefLabel": "Interesting",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes an asset which is considered as interesting."
             }
         },
         {
@@ -753,7 +305,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A60",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A70",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -761,15 +313,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A60",
-            "@skos:prefLabel": "Not available if linked bid subject to DA",
+            "@dcterms:identifier": "A70",
+            "@skos:prefLabel": "Available if linked bid subject to DA",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Bid not available if linked bid subject to direct activation."
+                "@value": "Bid available if linked bid subject to direct activation."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A26",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A04",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -777,15 +329,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A26",
-            "@skos:prefLabel": "Absolute",
+            "@dcterms:identifier": "A04",
+            "@skos:prefLabel": "Reactivated",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The quantity being described is an absolute value."
+                "@value": "The object being reported has been reactivated."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A44",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A46",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -793,122 +345,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A44",
-            "@skos:prefLabel": "Proportional external signal",
+            "@dcterms:identifier": "A46",
+            "@skos:prefLabel": "Importing element",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The code for the proportional external signal mode of operation of the HVDC link."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList",
-            "@type": [
-                "@skos:ConceptScheme",
-                "@dcat:Dataset"
-            ],
-            "@dcterms:modified": "2023-12-14",
-            "@dcat:version": "91",
-            "@skos:prefLabel": "StandardStatusTypeList",
-            "@dcterms:identifier": "ET0025",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The condition or position of an object with regard to its standing."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A73",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A73",
-            "@skos:prefLabel": "Delta",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Describes a status representing a difference between two values."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A06",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A06",
-            "@skos:prefLabel": "Available",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The volumes (one or more) are available."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A62",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A62",
-            "@skos:prefLabel": "Secondary market",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "A value is traded for the second or next times between two parties."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A10",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A10",
-            "@skos:prefLabel": "Ordered",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The quantities in the time series are to be activated."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A38",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A38",
-            "@skos:prefLabel": "Shall Be Used",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The object defined in the series shall be used."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A32",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A32",
-            "@skos:prefLabel": "Result",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Result"
+                "@value": "An importing network element in which the flow measurement enters."
             }
         },
         {
@@ -928,7 +369,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A52",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A72",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -936,15 +377,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A52",
-            "@skos:prefLabel": "For flow optimization",
+            "@dcterms:identifier": "A72",
+            "@skos:prefLabel": "Available for DA if linked bid subject to SA",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "Describes an element which needs to be optimized by a flow optimization process."
+                "@value": "Bid available for direct activation if linked bid subject to scheduled activation."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A07",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A16",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -952,15 +393,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A07",
-            "@skos:prefLabel": "Activated",
+            "@dcterms:identifier": "A16",
+            "@skos:prefLabel": "Deactivation",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The quantities in the time series have been activated."
+                "@value": "The action requested to be carried out is to deactivate an existing object."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A61",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A64",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -968,15 +409,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A61",
-            "@skos:prefLabel": "Primary market",
+            "@dcterms:identifier": "A64",
+            "@skos:prefLabel": "Relevant",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "A value is traded for the first time."
+                "@value": "Describes an asset which is considered as relevant."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A17",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A09",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -984,43 +425,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A17",
-            "@skos:prefLabel": "Reactivation",
+            "@dcterms:identifier": "A09",
+            "@skos:prefLabel": "Cancelled",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The action requested to be carried out is to reactivate a previously deactivated object."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A28",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A28",
-            "@skos:prefLabel": "Unshared bid",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "Used to indicate that the bid cannot be shared."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A42",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A42",
-            "@skos:prefLabel": "Common Network Data",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The network data provided in the document or series concerns the whole area describes by the document or series."
+                "@value": "The tender indicated in the time series has been completely cancelled.\nIn this case the resources are no longer available to all Acquiring System Operators"
             }
         },
         {
@@ -1056,7 +465,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A01",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A38",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -1064,27 +473,11 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A01",
-            "@skos:prefLabel": "Intermediate",
+            "@dcterms:identifier": "A38",
+            "@skos:prefLabel": "Shall Be Used",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The document is in a non finalized state."
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A27",
-            "@type": "@skos:Concept",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
-            },
-            "@dcterms:identifier": "A27",
-            "@skos:prefLabel": "Curative or preventive",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "The remedial action can be applied to prevent an outage or after an outage has occurred in order to maintain the operational security."
+                "@value": "The object defined in the series shall be used."
             }
         },
         {
@@ -1104,7 +497,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A02",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A24",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -1112,15 +505,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A02",
-            "@skos:prefLabel": "Final",
+            "@dcterms:identifier": "A24",
+            "@skos:prefLabel": "Start",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The document is in a definitive state."
+                "@value": "The action being described consists of starting the production or consumption connected to a network element."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A05",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A19",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -1128,15 +521,15 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A05",
-            "@skos:prefLabel": "Active",
+            "@dcterms:identifier": "A19",
+            "@skos:prefLabel": "Curative",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The object being reported is currently active."
+                "@value": "The remedial action is applied after an outage has occurred, in order to maintain the operational security."
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A03",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A22",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -1144,11 +537,170 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A03",
-            "@skos:prefLabel": "Deactivated",
+            "@dcterms:identifier": "A22",
+            "@skos:prefLabel": "Close",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The object being reported has been deactivated."
+                "@value": "The action being described consists of connecting the network element  to the transmission network."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A11",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A11",
+            "@skos:prefLabel": "Unavailable",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The volumes (one or more) are unavailable."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A52",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A52",
+            "@skos:prefLabel": "For flow optimization",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an element which needs to be optimized by a flow optimization process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A07",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A07",
+            "@skos:prefLabel": "Activated",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The quantities in the time series have been activated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A63",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A63",
+            "@skos:prefLabel": "Interesting",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an asset which is considered as interesting."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A06",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A06",
+            "@skos:prefLabel": "Available",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The volumes (one or more) are available."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A65",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A65",
+            "@skos:prefLabel": "Conditionally available",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid available as long as none of the conditions associated with the linked bids materialise."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A54",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A54",
+            "@skos:prefLabel": "Presolved",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an active constraint that limits the exchanges. It is part of the presolved domain."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList",
+            "@type": [
+                "@skos:ConceptScheme",
+                "@dcat:Dataset"
+            ],
+            "@dcterms:modified": "2026-06-04",
+            "@dcat:version": "95",
+            "@skos:prefLabel": "StandardStatusTypeList",
+            "@dcterms:identifier": "ET0025",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The condition or position of an object with regard to its standing."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A41",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A41",
+            "@skos:prefLabel": "Individual Network Data",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The network data provided in the document or series concerns the the unique TSO area describes by the document or series."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A57",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A57",
+            "@skos:prefLabel": "Not available for DA if linked bid subject to DA",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid not available for direct activation if linked bid subject to direct activation."
             }
         },
         {
@@ -1168,7 +720,7 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A43",
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A28",
             "@type": "@skos:Concept",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
@@ -1176,11 +728,507 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
             },
-            "@dcterms:identifier": "A43",
-            "@skos:prefLabel": "Setpoint schedule",
+            "@dcterms:identifier": "A28",
+            "@skos:prefLabel": "Unshared bid",
             "@skos:definition": {
                 "@language": "en",
-                "@value": "The code for the power setpoint mode of operation of the HVDC link."
+                "@value": "Used to indicate that the bid cannot be shared."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A76",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A76",
+            "@skos:prefLabel": "Timed out",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The object or action was timed out."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A71",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A71",
+            "@skos:prefLabel": "Available for DA if linked bid subject to DA",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid available for direct activation if linked bid subject to direct activation."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A51",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A51",
+            "@skos:prefLabel": "Relative to previous point in time",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The quantity being described is a relative value to a previous point in time."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A55",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A55",
+            "@skos:prefLabel": "Not available if linked bid activated",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid not available if linked bid activated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A31",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A31",
+            "@skos:prefLabel": "Modified",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Modified pre-processing data by RSC or CGMA platform."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A67",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A67",
+            "@skos:prefLabel": "Available if linked bid activated",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid available if linked bid activated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A48",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A48",
+            "@skos:prefLabel": "To be optimized",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an element which needs to be optimized by an optimization process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A49",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A49",
+            "@skos:prefLabel": "To be monitored",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an element which needs to be monitored by an optimization process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A35",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A35",
+            "@skos:prefLabel": "Preliminary",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Indicative information only for initial planning purposes."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A56",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A56",
+            "@skos:prefLabel": "Not available if linked bid rejected",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid not available if linked bid rejected."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A18",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A18",
+            "@skos:prefLabel": "Preventive",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The remedial action is applied to prevent an outage."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A42",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A42",
+            "@skos:prefLabel": "Common Network Data",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The network data provided in the document or series concerns the whole area describes by the document or series."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A61",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A61",
+            "@skos:prefLabel": "Primary market",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A value is traded for the first time."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A62",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A62",
+            "@skos:prefLabel": "Secondary market",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "A value is traded for the second or next times between two parties."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A12",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A12",
+            "@skos:prefLabel": "RGCE agreed",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The information has been agreed within the ENTSO-E Regional Group Continental Europe process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A53",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A53",
+            "@skos:prefLabel": "For voltage optimization",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an element which needs to be optimized by a voltage optimization process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A75",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A75",
+            "@skos:prefLabel": "Invalid",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The object or action was invalid."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A50",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A50",
+            "@skos:prefLabel": "To be included in capacity calculation",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Describes an element which needs to be taken into account in a capacity calculation process."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A37",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A37",
+            "@skos:prefLabel": "Confirmed",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The status is  confirmed."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A10",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A10",
+            "@skos:prefLabel": "Ordered",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The quantities in the time series are to be activated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A39",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A39",
+            "@skos:prefLabel": "Could Be Used",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The object defined in the series could be used."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A01",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A01",
+            "@skos:prefLabel": "Intermediate",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The document is in a non finalized state."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A34",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A34",
+            "@skos:prefLabel": "Rejected",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The document rejected by one or more parties."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A44",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A44",
+            "@skos:prefLabel": "Proportional external signal",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The code for the proportional external signal mode of operation of the HVDC link."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A13",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A13",
+            "@skos:prefLabel": "Withdrawn",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The information or action has been withdrawn by the submitter."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A74",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A74",
+            "@skos:prefLabel": "Validated",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The object or action was validated."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A29",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A29",
+            "@skos:prefLabel": "Pre Processed",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "to be process"
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A66",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A66",
+            "@skos:prefLabel": "Conditionally unavailable",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Bid unavailable as long as none of the conditions associated with the linked bids materialise."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A36",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A36",
+            "@skos:prefLabel": "Planned",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Is planned."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A14",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A14",
+            "@skos:prefLabel": "Creation",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "The action requested to be carried out is the creation of a new object."
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/StandardStatusTypeList/A32",
+            "@type": "@skos:Concept",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/StandardStatusTypeList"
+            },
+            "@dcterms:identifier": "A32",
+            "@skos:prefLabel": "Result",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "Result"
             }
         }
     ],

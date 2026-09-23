@@ -4,18 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XVORTEXOBROT-I</dcterms:identifier>
-    <skos:prefLabel>VORTEX ENERGY - OBR&#211;T SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI</skos:prefLabel>
-    <skos:altLabel>VORTEX-OBROT</skos:altLabel>
-    <skos:definition xml:lang="en">Faks: +48914843111</skos:definition>
+    <skos:prefLabel>ZENERA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>ZENERA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XVORTEXOBROT-I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>VORTEX ENERGY - OBR&#211;T SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI</cim:IdentifiedObject.name>
-    <cim:Names.name>VORTEX-OBROT</cim:Names.name>
+    <cim:IdentifiedObject.name>ZENERA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>ZENERA</cim:Names.name>
     <cim:Names.name>PL8513207816</cim:Names.name>
-    <cim:IdentifiedObject.description>Faks: +48914843111</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-06-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Resource Aggregator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8513207816</schema:vatID>
   </skos:Concept>

@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XNUFRG-1234-1A",
-    "@skos:prefLabel": "S.AT N. 1596 NUFRI",
+    "@skos:prefLabel": "SAT N 1596 NUFRI",
     "@skos:altLabel": "NUFRI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNUFRG-1234-1A",
-    "@cim:IdentifiedObject.name": "S.AT N. 1596 NUFRI",
+    "@cim:IdentifiedObject.name": "SAT N 1596 NUFRI",
     "@cim:Names.name": [
         "NUFRI",
         "ESF25011461",
-        "Production Responsible party"
+        "Consumption Responsible Party",
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-12-15",
+    "@cim:DateAndOrTime.date": "2025-03-31",
     "@schema:vatID": "ESF25011461",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

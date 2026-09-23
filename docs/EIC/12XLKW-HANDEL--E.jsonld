@@ -22,14 +22,14 @@
     "@cim:IdentifiedObject.name": "Liechtensteinische Kraftwerke",
     "@cim:Names.name": [
         "LKW-HANDEL",
-        "CH050761",
-        "Balance Group Responsible Party"
+        "CHE-271.508.945",
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Elektrizitã¤Tsversorger",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-25",
-    "@schema:vatID": "CH050761",
+    "@cim:DateAndOrTime.date": "2024-01-22",
+    "@schema:vatID": "CHE-271.508.945",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

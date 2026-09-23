@@ -1,0 +1,21 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/69WA305CT90R5DIQ">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:69WA305CT90R5DIQ</dcterms:identifier>
+    <skos:prefLabel>DHEKELIA ICE1 UNIT 2</skos:prefLabel>
+    <skos:altLabel>DHEK-ICE1_2</skos:altLabel>
+    <cim:IdentifiedObject.mRID>69WA305CT90R5DIQ</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>DHEKELIA ICE1 UNIT 2</cim:IdentifiedObject.name>
+    <cim:Names.name>DHEK-ICE1_2</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-04-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation</cim:Names.name>
+    <cim:Names.name>Generation Unit</cim:Names.name>
+    <cim:Names.name>Production Unit</cim:Names.name>
+    <cim:Names.name>Resource Object</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

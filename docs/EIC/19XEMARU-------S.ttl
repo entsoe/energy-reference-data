@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XEMARU-------S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XEMARU-------S" ;
+    cim:IdentifiedObject.name "EMARU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "EMARU_SP_Z_O_O_",
+        "PL7790022211",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19XEMARU-------S" ;
+    schema1:vatID "PL7790022211" ;
+    skos:altLabel "EMARU_SP_Z_O_O_" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EMARU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,7 +12,9 @@
     cim:IdentifiedObject.mRID "60X000000000131J" ;
     cim:IdentifiedObject.name "ENERGOCOM SA - CHISINAU - SUCURSALA OTOPENI" ;
     cim:Names.name "ENERGOCOMSUCURSA",
-        "RO46871606" ;
+        "Network User",
+        "RO46871606",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:60X000000000131J" ;
     schema1:vatID "RO46871606" ;
     skos:altLabel "ENERGOCOMSUCURSA" ;

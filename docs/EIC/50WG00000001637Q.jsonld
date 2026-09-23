@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001637Q",
-    "@skos:prefLabel": "MOSKOG  G148 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G148_",
+    "@skos:prefLabel": "STAKALDEG148 HYDRO",
+    "@skos:altLabel": "NO-STAKALDEG148",
     "@cim:IdentifiedObject.mRID": "50WG00000001637Q",
-    "@cim:IdentifiedObject.name": "MOSKOG  G148 HYDRO",
+    "@cim:IdentifiedObject.name": "STAKALDEG148 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G148_",
+        "NO-STAKALDEG148",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

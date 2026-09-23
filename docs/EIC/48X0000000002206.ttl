@@ -7,16 +7,31 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-09-25" ;
+    cim:DateAndOrTime.date "2024-08-07" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """New contact details.  Updated 07/08/2024
+Arenko Cleantech Limited
+International
+Harmsworth House, 15 Bouverie Street, London, EC4Y 8DP
+Oliver Guy
+og@arenko.group
+""" ;
     cim:IdentifiedObject.mRID "48X0000000002206" ;
     cim:IdentifiedObject.name "Arenko Cleantech Limited" ;
     cim:Names.name "ARENKO",
         "Balance Responsible Party",
-        "GB275861466" ;
+        "GB275861466",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:48X0000000002206" ;
     schema1:vatID "GB275861466" ;
     skos:altLabel "ARENKO" ;
+    skos:definition """New contact details.  Updated 07/08/2024
+Arenko Cleantech Limited
+International
+Harmsworth House, 15 Bouverie Street, London, EC4Y 8DP
+Oliver Guy
+og@arenko.group
+"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Arenko Cleantech Limited" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

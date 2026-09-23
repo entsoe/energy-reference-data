@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:31X-0149-T-000-K</dcterms:identifier>
-    <skos:prefLabel>ENNA Opskrba d.o.o.</skos:prefLabel>
-    <skos:altLabel>HR-ENNA-OPSKRBA</skos:altLabel>
+    <skos:prefLabel>ENNA Next d.o.o.</skos:prefLabel>
+    <skos:altLabel>HR-ENNA-NEXT</skos:altLabel>
     <cim:IdentifiedObject.mRID>31X-0149-T-000-K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENNA Opskrba d.o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>HR-ENNA-OPSKRBA</cim:Names.name>
+    <cim:IdentifiedObject.name>ENNA Next d.o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>HR-ENNA-NEXT</cim:Names.name>
     <cim:Names.name>HR61700516273</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-05-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-09-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HR61700516273</schema:vatID>

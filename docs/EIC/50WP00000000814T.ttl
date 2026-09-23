@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000814T" ;
-    cim:IdentifiedObject.name "Via" ;
-    cim:Names.name "NO-VIA",
+    cim:IdentifiedObject.name "Tafjord8" ;
+    cim:Names.name "NO-TAFJORD8",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000814T" ;
-    skos:altLabel "NO-VIA" ;
+    skos:altLabel "NO-TAFJORD8" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Via" ;
+    skos:prefLabel "Tafjord8" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

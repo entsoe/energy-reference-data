@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X130495410090X",
-    "@skos:prefLabel": "METAENERGIAPRODUZIONE SRL",
-    "@skos:altLabel": "METAENERGIAPROD",
+    "@skos:prefLabel": "IME POWER SRL",
+    "@skos:altLabel": "IT-IMEPOWERSRLSR",
     "@cim:IdentifiedObject.mRID": "26X130495410090X",
-    "@cim:IdentifiedObject.name": "METAENERGIAPRODUZIONE SRL",
+    "@cim:IdentifiedObject.name": "IME POWER SRL",
     "@cim:Names.name": [
-        "METAENERGIAPROD",
-        "A00191563.IT",
+        "IT-IMEPOWERSRLSR",
         "IT13049541009",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-04-18",
+    "@cim:DateAndOrTime.date": "2026-08-10",
     "@schema:vatID": "IT13049541009",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

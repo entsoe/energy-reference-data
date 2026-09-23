@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39X003227481100V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39X003227481100V" ;
+    cim:IdentifiedObject.name "Blue Sky Trading Solutions Korlátolt Felelősségű Társaság" ;
+    cim:Names.name "BLUESKY",
+        "HU32274811",
+        "Market Operator",
+        "Network User",
+        "Platform Operator" ;
+    dcterms:identifier "urn:eic:39X003227481100V" ;
+    schema1:vatID "HU32274811" ;
+    skos:altLabel "BLUESKY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Blue Sky Trading Solutions Korlátolt Felelősségű Társaság" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000989V",
     "@skos:prefLabel": "Skar",
-    "@skos:altLabel": "NO-SKAR_PL",
+    "@skos:altLabel": "NO-SKAR",
     "@cim:IdentifiedObject.mRID": "50WP00000000989V",
     "@cim:IdentifiedObject.name": "Skar",
     "@cim:Names.name": [
-        "NO-SKAR_PL",
+        "NO-SKAR",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

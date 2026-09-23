@@ -16,7 +16,10 @@
     "@skos:altLabel": "VKING-1",
     "@cim:IdentifiedObject.mRID": "48W00000VKING-1Q",
     "@cim:IdentifiedObject.name": "VIKING  BMU 1",
-    "@cim:Names.name": "VKING-1",
+    "@cim:Names.name": [
+        "VKING-1",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-03-29",

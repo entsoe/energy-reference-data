@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "RIGHT POWER COMMODITIES s.r.o.",
     "@cim:Names.name": [
         "RPCOM",
-        "CZ03606554",
+        "cz03606554",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-03-14",
-    "@schema:vatID": "CZ03606554",
+    "@schema:vatID": "cz03606554",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

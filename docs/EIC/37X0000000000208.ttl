@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-18" ;
+    cim:DateAndOrTime.date "2024-11-05" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Supplier" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X0000000000208" ;
-    cim:IdentifiedObject.name "Solvay Chemicals GmbH" ;
-    cim:Names.name "DE811120809",
-        "Energy Supplier",
-        "SOLVAYCHEMICALS" ;
+    cim:IdentifiedObject.name "Solvay GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE120955409",
+        "SOLVAY_GMBH" ;
     dcterms:identifier "urn:eic:37X0000000000208" ;
-    schema1:vatID "DE811120809" ;
-    skos:altLabel "SOLVAYCHEMICALS" ;
-    skos:definition "Balance Supplier"@en ;
+    schema1:vatID "DE120955409" ;
+    skos:altLabel "SOLVAY_GMBH" ;
+    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Solvay Chemicals GmbH" ;
+    skos:prefLabel "Solvay GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

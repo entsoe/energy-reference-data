@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005299L" ;
     cim:IdentifiedObject.name "N Melkøya  T301 Transformator" ;
-    cim:Names.name "NO-MELKOYA_T301",
+    cim:Names.name "NO-MELKOYAT301",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005299L" ;
-    skos:altLabel "NO-MELKOYA_T301" ;
+    skos:altLabel "NO-MELKOYAT301" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Melkøya  T301 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

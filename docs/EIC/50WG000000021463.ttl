@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000021463" ;
     cim:IdentifiedObject.name "OVRE_VING2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-OVRE_VING2___" ;
+        "NO-OVRE_VING2" ;
     dcterms:identifier "urn:eic:50WG000000021463" ;
-    skos:altLabel "NO-OVRE_VING2___" ;
+    skos:altLabel "NO-OVRE_VING2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "OVRE_VING2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
