@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-03-21" ;
+    cim:DateAndOrTime.date "2017-06-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "55XUNICREDITBNKQ" ;
-    cim:IdentifiedObject.name "UNICREDIT BANK GmbH" ;
-    cim:Names.name "DE129273380",
+    cim:IdentifiedObject.name "UNICREDIT BANK AG" ;
+    cim:Names.name "GB736178710",
         "Trade Responsible Party",
-        "UNICREDITBANK" ;
+        "UNICREDITBANKAG" ;
     dcterms:identifier "urn:eic:55XUNICREDITBNKQ" ;
-    schema1:vatID "DE129273380" ;
-    skos:altLabel "UNICREDITBANK" ;
+    schema1:vatID "GB736178710" ;
+    skos:altLabel "UNICREDITBANKAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "UNICREDIT BANK GmbH" ;
+    skos:prefLabel "UNICREDIT BANK AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

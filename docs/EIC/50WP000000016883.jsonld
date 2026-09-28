@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000016883",
     "@skos:prefLabel": "Usta",
-    "@skos:altLabel": "NO-USTA_V01",
+    "@skos:altLabel": "NO-USTA_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000016883",
     "@cim:IdentifiedObject.name": "Usta",
     "@cim:Names.name": [
-        "NO-USTA_V01",
+        "NO-USTA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

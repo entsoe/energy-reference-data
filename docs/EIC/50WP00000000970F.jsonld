@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000970F",
     "@skos:prefLabel": "Myklebustdalen",
-    "@skos:altLabel": "NO-MYKLEBUSDALEN",
+    "@skos:altLabel": "NO-MYKLEBUSTDALE",
     "@cim:IdentifiedObject.mRID": "50WP00000000970F",
     "@cim:IdentifiedObject.name": "Myklebustdalen",
     "@cim:Names.name": [
-        "NO-MYKLEBUSDALEN",
+        "NO-MYKLEBUSTDALE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-25",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000004783",
-    "@skos:prefLabel": "S Frøystul 11  ST1 Forbruk",
-    "@skos:altLabel": "NO-FROYSTUL11ST1",
+    "@skos:prefLabel": "S Frøystul 11  Forbruk",
+    "@skos:altLabel": "NO-FROYSTUL11",
     "@cim:IdentifiedObject.mRID": "50WC000000004783",
-    "@cim:IdentifiedObject.name": "S Frøystul 11  ST1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Frøystul 11  Forbruk",
     "@cim:Names.name": [
-        "NO-FROYSTUL11ST1",
+        "NO-FROYSTUL11",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000030880",
     "@skos:prefLabel": "S 132 Pipervika-Prestegata",
-    "@skos:altLabel": "NO-132PIPERVIKAP",
+    "@skos:altLabel": "NO-PIPERVIKAPRES",
     "@cim:IdentifiedObject.mRID": "50TL000000030880",
     "@cim:IdentifiedObject.name": "S 132 Pipervika-Prestegata",
     "@cim:Names.name": [
-        "NO-132PIPERVIKAP",
+        "NO-PIPERVIKAPRES",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

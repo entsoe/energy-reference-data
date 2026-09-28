@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:35XKOMBALUMPODGS",
-    "@skos:prefLabel": "UNIPROM KAP d.o.o.",
+    "@skos:prefLabel": "KOMBINAT ALUMINIJUMA PODGORICA",
     "@skos:altLabel": "KOMBALUMPODG",
     "@skos:definition": {
         "@language": "en",
         "@value": "Aluminum Smelter."
     },
     "@cim:IdentifiedObject.mRID": "35XKOMBALUMPODGS",
-    "@cim:IdentifiedObject.name": "UNIPROM KAP d.o.o.",
+    "@cim:IdentifiedObject.name": "KOMBINAT ALUMINIJUMA PODGORICA",
     "@cim:Names.name": [
         "KOMBALUMPODG",
         "02983133",
@@ -29,7 +29,7 @@
     "@cim:IdentifiedObject.description": "Aluminum Smelter.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-02-25",
+    "@cim:DateAndOrTime.date": "2022-11-02",
     "@schema:vatID": "02983133",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

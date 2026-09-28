@@ -22,14 +22,12 @@
     "@cim:IdentifiedObject.name": "SC ECOPROD ENERGY SRL",
     "@cim:Names.name": [
         "ECOPROD",
-        "RO17631367",
-        "Capacity Trader"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-03",
-    "@schema:vatID": "RO17631367",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

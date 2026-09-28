@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X-UTILITY1---Y",
-    "@skos:prefLabel": "Octopus Energy Germany Operations GmbH",
+    "@skos:prefLabel": "Shell Energy Retail GmbH",
     "@skos:altLabel": "UTILTIY",
     "@cim:IdentifiedObject.mRID": "11X-UTILITY1---Y",
-    "@cim:IdentifiedObject.name": "Octopus Energy Germany Operations GmbH",
+    "@cim:IdentifiedObject.name": "Shell Energy Retail GmbH",
     "@cim:Names.name": [
         "UTILTIY",
         "DE815563371",
         "Balance Responsible Party"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-01-31",
+    "@cim:DateAndOrTime.date": "2020-10-26",
     "@schema:vatID": "DE815563371",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

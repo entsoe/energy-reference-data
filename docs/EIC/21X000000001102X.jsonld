@@ -12,24 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001102X",
-    "@skos:prefLabel": "GAZPROM",
+    "@skos:prefLabel": "OAO GAZPROM",
     "@skos:altLabel": "GAZPROM-MOSCOW",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001102X",
-    "@cim:IdentifiedObject.name": "GAZPROM",
+    "@cim:IdentifiedObject.name": "OAO GAZPROM",
     "@cim:Names.name": [
         "GAZPROM-MOSCOW",
-        "7736050003",
-        "Trade Responsible Party"
+        "System Operator"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-17",
-    "@schema:vatID": "7736050003",
+    "@cim:DateAndOrTime.date": "2011-05-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

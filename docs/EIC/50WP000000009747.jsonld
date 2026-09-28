@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000009747",
     "@skos:prefLabel": "Rosendal",
-    "@skos:altLabel": "NO-ROSENDAL",
+    "@skos:altLabel": "NO-ROSENDAL_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000009747",
     "@cim:IdentifiedObject.name": "Rosendal",
     "@cim:Names.name": [
-        "NO-ROSENDAL",
+        "NO-ROSENDAL_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

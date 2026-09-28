@@ -12,20 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XLUN-ENERGIA-I",
-    "@skos:prefLabel": "Aarx Energy Spółka z ograniczoną odpowiedzialnością",
-    "@skos:altLabel": "AARX_ENERRGY",
+    "@skos:prefLabel": "EEP PROJEKT 4 SP. Z O.O.",
+    "@skos:altLabel": "LUNEOS_ENERGIA",
     "@cim:IdentifiedObject.mRID": "19XLUN-ENERGIA-I",
-    "@cim:IdentifiedObject.name": "Aarx Energy Spółka z ograniczoną odpowiedzialnością",
+    "@cim:IdentifiedObject.name": "EEP PROJEKT 4 SP. Z O.O.",
     "@cim:Names.name": [
-        "AARX_ENERRGY",
+        "LUNEOS_ENERGIA",
         "A0019920C.PL",
         "PL8513221101",
-        "Balance Responsible Party",
-        "Energy Supplier"
+        "Energy Supplier",
+        "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-27",
+    "@cim:DateAndOrTime.date": "2022-12-21",
     "@schema:vatID": "PL8513221101",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

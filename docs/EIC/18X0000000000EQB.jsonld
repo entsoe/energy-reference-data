@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X0000000000EQB",
     "@skos:prefLabel": "OSUNA MISSION SL",
     "@skos:altLabel": "OSUNA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X0000000000EQB",
     "@cim:IdentifiedObject.name": "OSUNA MISSION SL",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB91172221",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-07-07",
     "@schema:vatID": "ESB91172221",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

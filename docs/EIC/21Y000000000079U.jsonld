@@ -12,17 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Y000000000079U",
-    "@skos:prefLabel": "MBA group",
-    "@skos:altLabel": "MBA-1",
+    "@skos:prefLabel": "Virtual Trading Point Lithuania",
+    "@skos:altLabel": "VTP-LT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Virtual Trading Point"
+    },
     "@cim:IdentifiedObject.mRID": "21Y000000000079U",
-    "@cim:IdentifiedObject.name": "MBA group",
+    "@cim:IdentifiedObject.name": "Virtual Trading Point Lithuania",
     "@cim:Names.name": [
-        "MBA-1",
-        "Market Area"
+        "VTP-LT",
+        "Valid EIC Function needed"
     ],
+    "@cim:IdentifiedObject.description": "Virtual Trading Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-24",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

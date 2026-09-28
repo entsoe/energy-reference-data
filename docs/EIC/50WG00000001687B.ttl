@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-08-15" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001687B" ;
-    cim:IdentifiedObject.name "HETLAND G133 HYDRO" ;
+    cim:IdentifiedObject.name "STOKKELAG133 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HETLANDG133" ;
+        "NO-STOKKELAG133_" ;
     dcterms:identifier "urn:eic:50WG00000001687B" ;
-    skos:altLabel "NO-HETLANDG133" ;
+    skos:altLabel "NO-STOKKELAG133_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HETLAND G133 HYDRO" ;
+    skos:prefLabel "STOKKELAG133 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -22,14 +22,12 @@
     "@cim:IdentifiedObject.name": "BOTAS",
     "@cim:Names.name": [
         "BOTAS",
-        "1810023608",
-        "System Operator"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Transmission System Operator For Gas",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-07",
-    "@schema:vatID": "1810023608",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

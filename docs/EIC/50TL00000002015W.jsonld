@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002015W",
-    "@skos:prefLabel": "N 66 Naustdal-Erdal",
-    "@skos:altLabel": "NO-66NAUSTDALERD",
+    "@skos:prefLabel": "S 66 Naustdal-Førde",
+    "@skos:altLabel": "NO-NAUSTDALFORDE",
     "@cim:IdentifiedObject.mRID": "50TL00000002015W",
-    "@cim:IdentifiedObject.name": "N 66 Naustdal-Erdal",
+    "@cim:IdentifiedObject.name": "S 66 Naustdal-Førde",
     "@cim:Names.name": [
-        "NO-66NAUSTDALERD",
+        "NO-NAUSTDALFORDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-05-29",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

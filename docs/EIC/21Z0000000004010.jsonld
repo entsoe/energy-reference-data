@@ -12,17 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z0000000004010",
-    "@skos:prefLabel": "Speicher Sandhausen",
+    "@skos:prefLabel": "Sandhausen",
     "@skos:altLabel": "SP_SANDHAUSEN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Gas Storage As Part Of The Gas Transmission Network"
+    },
     "@cim:IdentifiedObject.mRID": "21Z0000000004010",
-    "@cim:IdentifiedObject.name": "Speicher Sandhausen",
+    "@cim:IdentifiedObject.name": "Sandhausen",
     "@cim:Names.name": [
         "SP_SANDHAUSEN",
-        "Accounting Point"
+        "Valid EIC Function needed"
     ],
+    "@cim:IdentifiedObject.description": "Gas Storage As Part Of The Gas Transmission Network",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-04",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

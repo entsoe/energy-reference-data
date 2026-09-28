@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003142K",
-    "@skos:prefLabel": "N 420 Surna-Viklandet",
-    "@skos:altLabel": "NO-420SURNAVIKLA",
+    "@skos:prefLabel": "M 420 Surna-Viklandet",
+    "@skos:altLabel": "NO-SURNAVIKLANDE",
     "@cim:IdentifiedObject.mRID": "50TL00000003142K",
-    "@cim:IdentifiedObject.name": "N 420 Surna-Viklandet",
+    "@cim:IdentifiedObject.name": "M 420 Surna-Viklandet",
     "@cim:Names.name": [
-        "NO-420SURNAVIKLA",
+        "NO-SURNAVIKLANDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

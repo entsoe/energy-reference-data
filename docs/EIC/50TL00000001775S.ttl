@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001775S" ;
     cim:IdentifiedObject.name "S 66 Funnefoss-Vormsund" ;
     cim:Names.name "Internal Line",
-        "NO-66FUNNEFOSSVO" ;
+        "NO-FUNNEFOSSVORM" ;
     dcterms:identifier "urn:eic:50TL00000001775S" ;
-    skos:altLabel "NO-66FUNNEFOSSVO" ;
+    skos:altLabel "NO-FUNNEFOSSVORM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Funnefoss-Vormsund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000021803",
-    "@skos:prefLabel": "BYRO    G124 HYDRO",
-    "@skos:altLabel": "NO-BYROG124",
+    "@skos:prefLabel": "EVANGER G124 HYDRO",
+    "@skos:altLabel": "NO-EVANGER_G124_",
     "@cim:IdentifiedObject.mRID": "50WG000000021803",
-    "@cim:IdentifiedObject.name": "BYRO    G124 HYDRO",
+    "@cim:IdentifiedObject.name": "EVANGER G124 HYDRO",
     "@cim:Names.name": [
-        "NO-BYROG124",
+        "NO-EVANGER_G124_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

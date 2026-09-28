@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000003C" ;
-    cim:IdentifiedObject.name "N 22 Tafjord7-Tafjord" ;
+    cim:IdentifiedObject.name "M 10 Saudebotn-Tafjord3" ;
     cim:Names.name "Internal Line",
-        "NO-22TAFJORD7TAF" ;
+        "NO-SAUDEBOTNTAFJ" ;
     dcterms:identifier "urn:eic:50TL00000000003C" ;
-    skos:altLabel "NO-22TAFJORD7TAF" ;
+    skos:altLabel "NO-SAUDEBOTNTAFJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 22 Tafjord7-Tafjord" ;
+    skos:prefLabel "M 10 Saudebotn-Tafjord3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001870Y" ;
-    cim:IdentifiedObject.name "N 66 Hundhammerfjellet-Strand" ;
+    cim:IdentifiedObject.name "M 66 Hundhammerfjellet-Strand" ;
     cim:Names.name "Internal Line",
-        "NO-66HUNDHAMMERF" ;
+        "NO-HUNDHAMMERFJE" ;
     dcterms:identifier "urn:eic:50TL00000001870Y" ;
-    skos:altLabel "NO-66HUNDHAMMERF" ;
+    skos:altLabel "NO-HUNDHAMMERFJE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Hundhammerfjellet-Strand" ;
+    skos:prefLabel "M 66 Hundhammerfjellet-Strand" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

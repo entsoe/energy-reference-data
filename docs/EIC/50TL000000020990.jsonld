@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000020990",
-    "@skos:prefLabel": "N 66 Saltbotn-T_Salbotn",
-    "@skos:altLabel": "NO-66SALTBOTNT_S",
+    "@skos:prefLabel": "M 66 Saltbotn-T_Rørvik",
+    "@skos:altLabel": "NO-SALTBOTNTRORV",
     "@cim:IdentifiedObject.mRID": "50TL000000020990",
-    "@cim:IdentifiedObject.name": "N 66 Saltbotn-T_Salbotn",
+    "@cim:IdentifiedObject.name": "M 66 Saltbotn-T_Rørvik",
     "@cim:Names.name": [
-        "NO-66SALTBOTNT_S",
+        "NO-SALTBOTNTRORV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-17",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

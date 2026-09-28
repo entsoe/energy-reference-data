@@ -16,18 +16,18 @@
     "@skos:altLabel": "MELEND-TAP-SRG",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO"
+        "@value": "Interconnection Point"
     },
     "@cim:IdentifiedObject.mRID": "21Z000000000474A",
     "@cim:IdentifiedObject.name": "Melendugno",
     "@cim:Names.name": [
         "MELEND-TAP-SRG",
-        "Connection Point"
+        "Valid EIC Function needed"
     ],
-    "@cim:IdentifiedObject.description": "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO",
+    "@cim:IdentifiedObject.description": "Interconnection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-18",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

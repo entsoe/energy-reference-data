@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001194W",
-    "@skos:prefLabel": "Skeiane",
-    "@skos:altLabel": "NO-SKEIANE",
+    "@skos:prefLabel": "Skeiene",
+    "@skos:altLabel": "NO-SKEIENE",
     "@cim:IdentifiedObject.mRID": "50A000000001194W",
-    "@cim:IdentifiedObject.name": "Skeiane",
+    "@cim:IdentifiedObject.name": "Skeiene",
     "@cim:Names.name": [
-        "NO-SKEIANE",
+        "NO-SKEIENE",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W0000000001148",
-    "@skos:prefLabel": "UGS Jemgum SEFE Storage",
-    "@skos:altLabel": "JEMGUM-SEFE",
+    "@skos:prefLabel": "UGS Jemgum Astora",
+    "@skos:altLabel": "JEMGUM-ASTORA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Gas Storage Facility"
     },
     "@cim:IdentifiedObject.mRID": "21W0000000001148",
-    "@cim:IdentifiedObject.name": "UGS Jemgum SEFE Storage",
+    "@cim:IdentifiedObject.name": "UGS Jemgum Astora",
     "@cim:Names.name": [
-        "JEMGUM-SEFE",
+        "JEMGUM-ASTORA",
         "Gas Storage Facility"
     ],
     "@cim:IdentifiedObject.description": "Gas Storage Facility",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-11",
+    "@cim:DateAndOrTime.date": "2016-03-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

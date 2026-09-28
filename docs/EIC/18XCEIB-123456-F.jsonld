@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XCEIB-123456-F",
     "@skos:prefLabel": "IBEROLCORENSE S.L",
     "@skos:altLabel": "CEIB",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XCEIB-123456-F",
     "@cim:IdentifiedObject.name": "IBEROLCORENSE S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB12006623",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-11-10",
     "@schema:vatID": "ESB12006623",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

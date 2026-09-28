@@ -1,0 +1,21 @@
+{
+    "@id": "http://energy.referencedata.eu/PropertyReference/FuelStorage.energyStorage",
+    "@type": [
+        "@skos:Concept",
+        "@nc:PropertyReference"
+    ],
+    "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:definition": "Amount of energy available in the storage.",
+    "@skos:prefLabel": "FuelStorage.energyStorage",
+    "@dcterms:identifier": "urn:uuid:5f56ae88-d0ca-474a-b2e3-102c6f4fa7b2",
+    "@nc:PropertyReference.name": "FuelStorage.energyStorage",
+    "@nc:PropertyReference.mRID": "5f56ae88-d0ca-474a-b2e3-102c6f4fa7b2",
+    "@context": {
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@nc": "http://entsoe.eu/ns/nc#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@dcterms": "http://purl.org/dc/terms/#"
+    }
+}

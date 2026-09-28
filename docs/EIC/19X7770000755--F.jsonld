@@ -19,13 +19,13 @@
     "@cim:Names.name": [
         "VEOLIA_POZNAN",
         "PL7770000755",
-        "Consumer",
-        "Energy Supplier",
-        "Meter Administrator",
         "Producer",
-        "System Operator",
         "Grid Access Provider",
-        "Metered Data Responsible"
+        "Consumer",
+        "Metered Data Responsible",
+        "Meter Administrator",
+        "System Operator",
+        "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000486Q",
     "@skos:prefLabel": "FROLAND G3      HYDRO",
-    "@skos:altLabel": "NO-FROLANDG3",
+    "@skos:altLabel": "NO-FROLAND_G3___",
     "@cim:IdentifiedObject.mRID": "50WG00000000486Q",
     "@cim:IdentifiedObject.name": "FROLAND G3      HYDRO",
     "@cim:Names.name": [
-        "NO-FROLANDG3",
+        "NO-FROLAND_G3___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

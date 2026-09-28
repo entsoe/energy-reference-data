@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000016014",
     "@skos:prefLabel": "Krutlet",
-    "@skos:altLabel": "NO-KRUTLET",
+    "@skos:altLabel": "NO-KRUTLET_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000016014",
     "@cim:IdentifiedObject.name": "Krutlet",
     "@cim:Names.name": [
-        "NO-KRUTLET",
+        "NO-KRUTLET_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

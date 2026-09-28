@@ -12,19 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:43X-TG-AOX00060P",
-    "@skos:prefLabel": "AOX Trade SIA",
+    "@skos:prefLabel": "SIA AOX Trade ",
     "@skos:altLabel": "LV-AOXT45",
     "@cim:IdentifiedObject.mRID": "43X-TG-AOX00060P",
-    "@cim:IdentifiedObject.name": "AOX Trade SIA",
+    "@cim:IdentifiedObject.name": "SIA AOX Trade ",
     "@cim:Names.name": [
         "LV-AOXT45",
-        "LV40203343967",
-        "Balance Responsible Party"
+        "40203343967",
+        "Balance Responsible Party",
+        "Balance Group Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-05-08",
-    "@schema:vatID": "LV40203343967",
+    "@cim:DateAndOrTime.date": "2021-09-13",
+    "@schema:vatID": "40203343967",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

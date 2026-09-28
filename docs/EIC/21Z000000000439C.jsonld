@@ -18,12 +18,11 @@
     "@cim:IdentifiedObject.name": "ATHENS",
     "@cim:Names.name": [
         "ATHENS-GR",
-        "Connection Point",
-        "Metering Point"
+        "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-07",
+    "@cim:DateAndOrTime.date": "2015-09-01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

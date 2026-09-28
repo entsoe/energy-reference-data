@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003014T",
-    "@skos:prefLabel": "N 132 Bleikvassli-Øvre Røssåga-1",
-    "@skos:altLabel": "NO-132BLEIKSAGA1",
+    "@skos:prefLabel": "M 132 Bleikvassli-Øvre Røssåga-1",
+    "@skos:altLabel": "NO-BLEIKVOVRERO1",
     "@cim:IdentifiedObject.mRID": "50TL00000003014T",
-    "@cim:IdentifiedObject.name": "N 132 Bleikvassli-Øvre Røssåga-1",
+    "@cim:IdentifiedObject.name": "M 132 Bleikvassli-Øvre Røssåga-1",
     "@cim:Names.name": [
-        "NO-132BLEIKSAGA1",
+        "NO-BLEIKVOVRERO1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

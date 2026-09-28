@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000021101",
     "@skos:prefLabel": "S 66 Savalen-Alvdal",
-    "@skos:altLabel": "NO-66SAVALENALVD",
+    "@skos:altLabel": "NO-SAVALENALVDAL",
     "@cim:IdentifiedObject.mRID": "50TL000000021101",
     "@cim:IdentifiedObject.name": "S 66 Savalen-Alvdal",
     "@cim:Names.name": [
-        "NO-66SAVALENALVD",
+        "NO-SAVALENALVDAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

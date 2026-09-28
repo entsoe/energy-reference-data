@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:44X-00000000164Q",
-    "@skos:prefLabel": "Mind Energy Oy",
-    "@skos:altLabel": "44MINDENERGY",
+    "@skos:prefLabel": "Energia Myynti Suomi Oy",
+    "@skos:altLabel": "44ENERGIASUOMI",
     "@cim:IdentifiedObject.mRID": "44X-00000000164Q",
-    "@cim:IdentifiedObject.name": "Mind Energy Oy",
+    "@cim:IdentifiedObject.name": "Energia Myynti Suomi Oy",
     "@cim:Names.name": [
-        "44MINDENERGY",
+        "44ENERGIASUOMI",
         "FI21169673",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-04",
+    "@cim:DateAndOrTime.date": "2020-12-18",
     "@schema:vatID": "FI21169673",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

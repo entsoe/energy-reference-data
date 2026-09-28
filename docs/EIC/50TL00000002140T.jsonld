@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002140T",
-    "@skos:prefLabel": "N 66 Smørfjord-Snefjord",
-    "@skos:altLabel": "NO-66SMORFJORDSN",
+    "@skos:prefLabel": "N 66 Smørfjord-Havøysund",
+    "@skos:altLabel": "NO-SMORFJORDHAVO",
     "@cim:IdentifiedObject.mRID": "50TL00000002140T",
-    "@cim:IdentifiedObject.name": "N 66 Smørfjord-Snefjord",
+    "@cim:IdentifiedObject.name": "N 66 Smørfjord-Havøysund",
     "@cim:Names.name": [
-        "NO-66SMORFJORDSN",
+        "NO-SMORFJORDHAVO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

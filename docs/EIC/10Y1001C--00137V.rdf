@@ -14,8 +14,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-05-12</cim:DateAndOrTime.date>
-    <cim:Names.name>Capacity Calculation Region</cim:Names.name>
     <cim:Names.name>Outage Coordination Region</cim:Names.name>
+    <cim:Names.name>Capacity Calculation Region</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

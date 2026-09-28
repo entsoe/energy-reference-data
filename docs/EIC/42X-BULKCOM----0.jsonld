@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/42X-BULKCOM----0",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:42X-BULKCOM----0",
+    "@skos:prefLabel": "Bulkcom s.r.o.",
+    "@skos:altLabel": "BULKOM",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&SID=2&P=0&lan=en) and has applied for the EU VAT code on 5th of May 2023."
+    },
+    "@cim:IdentifiedObject.mRID": "42X-BULKCOM----0",
+    "@cim:IdentifiedObject.name": "Bulkcom s.r.o.",
+    "@cim:Names.name": [
+        "BULKOM",
+        "54705444",
+        "Trade Responsible Party",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&SID=2&P=0&lan=en) and has applied for the EU VAT code on 5th of May 2023.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2023-05-16",
+    "@schema:vatID": "54705444",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

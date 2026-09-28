@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000847E",
     "@skos:prefLabel": "Øvre Markevatn",
-    "@skos:altLabel": "NO-OVRE_MAR",
+    "@skos:altLabel": "NO-OVRE_MA",
     "@cim:IdentifiedObject.mRID": "50WP00000000847E",
     "@cim:IdentifiedObject.name": "Øvre Markevatn",
     "@cim:Names.name": [
-        "NO-OVRE_MAR",
+        "NO-OVRE_MA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

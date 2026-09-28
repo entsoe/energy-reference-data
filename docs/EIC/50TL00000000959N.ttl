@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000959N" ;
-    cim:IdentifiedObject.name "N 22 Stranda-Furset" ;
+    cim:IdentifiedObject.name "M 22 Stranda-Furset" ;
     cim:Names.name "Internal Line",
-        "NO-22STRANDAFURS" ;
+        "NO-STRANDAFURSET" ;
     dcterms:identifier "urn:eic:50TL00000000959N" ;
-    skos:altLabel "NO-22STRANDAFURS" ;
+    skos:altLabel "NO-STRANDAFURSET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 22 Stranda-Furset" ;
+    skos:prefLabel "M 22 Stranda-Furset" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

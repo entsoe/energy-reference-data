@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X-UKR-ZAKHID-4",
-    "@skos:prefLabel": "DTEK WESTENERGY JSC",
-    "@skos:altLabel": "DTEK_WESTENERGY",
+    "@skos:prefLabel": "OJSC â€žZakhidenergoâ€œ",
+    "@skos:altLabel": "UKR_ZAKHID",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "23X-UKR-ZAKHID-4",
-    "@cim:IdentifiedObject.name": "DTEK WESTENERGY JSC",
+    "@cim:IdentifiedObject.name": "OJSC â€žZakhidenergoâ€œ",
     "@cim:Names.name": [
-        "DTEK_WESTENERGY",
+        "UKR_ZAKHID",
         "23269555",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-02-01",
+    "@cim:DateAndOrTime.date": "2010-01-19",
     "@schema:vatID": "23269555",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

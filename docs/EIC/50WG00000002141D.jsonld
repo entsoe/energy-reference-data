@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002141D",
     "@skos:prefLabel": "OVRE_SVUG1      HYDRO",
-    "@skos:altLabel": "NO-OVRE_SVUG1",
+    "@skos:altLabel": "NO-OVRE_SVUG1___",
     "@cim:IdentifiedObject.mRID": "50WG00000002141D",
     "@cim:IdentifiedObject.name": "OVRE_SVUG1      HYDRO",
     "@cim:Names.name": [
-        "NO-OVRE_SVUG1",
+        "NO-OVRE_SVUG1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

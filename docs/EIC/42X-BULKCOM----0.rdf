@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/42X-BULKCOM----0">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:42X-BULKCOM----0</dcterms:identifier>
+    <skos:prefLabel>Bulkcom s.r.o.</skos:prefLabel>
+    <skos:altLabel>BULKOM</skos:altLabel>
+    <skos:definition xml:lang="en">The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&amp;SID=2&amp;P=0&amp;lan=en) and has applied for the EU VAT code on 5th of May 2023.</skos:definition>
+    <cim:IdentifiedObject.mRID>42X-BULKCOM----0</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Bulkcom s.r.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>BULKOM</cim:Names.name>
+    <cim:Names.name>54705444</cim:Names.name>
+    <cim:IdentifiedObject.description>The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&amp;SID=2&amp;P=0&amp;lan=en) and has applied for the EU VAT code on 5th of May 2023.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2023-05-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>54705444</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

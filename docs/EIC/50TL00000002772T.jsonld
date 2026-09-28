@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002772T",
-    "@skos:prefLabel": "N 22 Snåsa-Bruvollelva",
-    "@skos:altLabel": "NO-22SNASABRUVOL",
+    "@skos:prefLabel": "M 22 Snåsa-Bruvollelva",
+    "@skos:altLabel": "NO-SNASABRUVOLLE",
     "@cim:IdentifiedObject.mRID": "50TL00000002772T",
-    "@cim:IdentifiedObject.name": "N 22 Snåsa-Bruvollelva",
+    "@cim:IdentifiedObject.name": "M 22 Snåsa-Bruvollelva",
     "@cim:Names.name": [
-        "NO-22SNASABRUVOL",
+        "NO-SNASABRUVOLLE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

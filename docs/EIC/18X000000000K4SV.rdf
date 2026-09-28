@@ -13,9 +13,9 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2021-03-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <cim:Names.name>Market Operator</cim:Names.name>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB06583751</schema:vatID>
   </skos:Concept>

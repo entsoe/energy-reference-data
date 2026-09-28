@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000002307J",
     "@skos:prefLabel": "S 66 Vestbygata-Leirsund",
-    "@skos:altLabel": "NO-66VESTBYGATAL",
+    "@skos:altLabel": "NO-VESTBYGATALEI",
     "@cim:IdentifiedObject.mRID": "50TL00000002307J",
     "@cim:IdentifiedObject.name": "S 66 Vestbygata-Leirsund",
     "@cim:Names.name": [
-        "NO-66VESTBYGATAL",
+        "NO-VESTBYGATALEI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

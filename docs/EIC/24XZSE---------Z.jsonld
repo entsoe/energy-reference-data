@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "ZSE-ENERGIA",
         "SK2022249295",
-        "Balance Group Responsible Party",
         "Capacity Trader",
-        "Energy Supplier",
-        "Production Responsible Party",
+        "Balancing Service Provider",
         "Trade Responsible Party",
-        "Balancing Service Provider"
+        "Production Responsible party",
+        "Energy Supplier",
+        "Balance Group Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Distributive Network Operator (Prevadzkovatel Distribucnej Sustavy)",
     "@cim:Document.docStatus": "A05",

@@ -19,12 +19,12 @@
     "@cim:Names.name": [
         "FPM",
         "PL6350000593",
-        "Consumer",
-        "Energy Supplier",
         "Meter Administrator",
-        "System Operator",
+        "Consumer",
         "Grid Access Provider",
-        "Metered Data Responsible"
+        "Metered Data Responsible",
+        "System Operator",
+        "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

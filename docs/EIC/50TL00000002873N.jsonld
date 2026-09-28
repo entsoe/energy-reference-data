@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002873N",
-    "@skos:prefLabel": "N 66 Nordreisa-T_Storslett",
-    "@skos:altLabel": "NO-66NORDREISAT",
+    "@skos:prefLabel": "N 66 Nordreisa-Storslett",
+    "@skos:altLabel": "NO-NORDREISASTOR",
     "@cim:IdentifiedObject.mRID": "50TL00000002873N",
-    "@cim:IdentifiedObject.name": "N 66 Nordreisa-T_Storslett",
+    "@cim:IdentifiedObject.name": "N 66 Nordreisa-Storslett",
     "@cim:Names.name": [
-        "NO-66NORDREISAT",
+        "NO-NORDREISASTOR",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-23",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

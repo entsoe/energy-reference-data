@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001469F",
-    "@skos:prefLabel": "Saurdal Pumpe",
-    "@skos:altLabel": "NO-SAURDAL_PUMP",
+    "@skos:prefLabel": "Saurdal",
+    "@skos:altLabel": "NO-SAURDAL_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000001469F",
-    "@cim:IdentifiedObject.name": "Saurdal Pumpe",
+    "@cim:IdentifiedObject.name": "Saurdal",
     "@cim:Names.name": [
-        "NO-SAURDAL_PUMP",
+        "NO-SAURDAL_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

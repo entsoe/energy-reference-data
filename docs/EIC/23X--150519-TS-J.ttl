@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-01-08" ;
+    cim:DateAndOrTime.date "2015-05-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Producer" ;
     cim:IdentifiedObject.mRID "23X--150519-TS-J" ;
-    cim:IdentifiedObject.name "Tampereen Energia Oy" ;
+    cim:IdentifiedObject.name "Tampereen Sähkölaitos Oy" ;
     cim:Names.name "FI01537918",
         "Producer",
-        "TAMPEREEN_ENER" ;
+        "TAMPEREEN_S" ;
     dcterms:identifier "urn:eic:23X--150519-TS-J" ;
     schema1:vatID "FI01537918" ;
-    skos:altLabel "TAMPEREEN_ENER" ;
+    skos:altLabel "TAMPEREEN_S" ;
     skos:definition "Producer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Tampereen Energia Oy" ;
+    skos:prefLabel "Tampereen Sähkölaitos Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001494K",
-    "@skos:prefLabel": "Tangen",
-    "@skos:altLabel": "NO-TANGEN",
+    "@skos:prefLabel": "Tangen Hafslund",
+    "@skos:altLabel": "NO-TANGEN_H",
     "@cim:IdentifiedObject.mRID": "50A000000001494K",
-    "@cim:IdentifiedObject.name": "Tangen",
+    "@cim:IdentifiedObject.name": "Tangen Hafslund",
     "@cim:Names.name": [
-        "NO-TANGEN",
+        "NO-TANGEN_H",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

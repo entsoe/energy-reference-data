@@ -12,19 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XID-CAPACITY-9",
-    "@skos:prefLabel": "Deutsche Börse Aktiengesellschaft",
+    "@skos:prefLabel": "Deutsche Börse Systems AG",
     "@skos:altLabel": "DBS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11XID-CAPACITY-9",
-    "@cim:IdentifiedObject.name": "Deutsche Börse Aktiengesellschaft",
+    "@cim:IdentifiedObject.name": "Deutsche Börse Systems AG",
     "@cim:Names.name": [
         "DBS",
-        "DE114151950",
+        "DE812210046",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-04-22",
-    "@schema:vatID": "DE114151950",
+    "@cim:DateAndOrTime.date": "2010-08-04",
+    "@schema:vatID": "DE812210046",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

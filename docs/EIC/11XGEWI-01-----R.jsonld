@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XGEWI-01-----R",
-    "@skos:prefLabel": "GEWI GmbH",
+    "@skos:prefLabel": "GEWI AG",
     "@skos:altLabel": "GEWI-01",
     "@cim:IdentifiedObject.mRID": "11XGEWI-01-----R",
-    "@cim:IdentifiedObject.name": "GEWI GmbH",
+    "@cim:IdentifiedObject.name": "GEWI AG",
     "@cim:Names.name": [
         "GEWI-01",
         "DE267752484",
-        "Trade Responsible Party"
+        "Balance Group"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-20",
+    "@cim:DateAndOrTime.date": "2018-10-18",
     "@schema:vatID": "DE267752484",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

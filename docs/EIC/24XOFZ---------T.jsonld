@@ -23,14 +23,12 @@
     "@cim:Names.name": [
         "OFZ",
         "SK2020131476",
-        "Consumer",
-        "Energy Supplier",
-        "Trade Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Consumer - Production Of Ferroalloy (Sk: Vyroba Ferozliatin)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-05-14",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "SK2020131476",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002133R",
-    "@skos:prefLabel": "N Deknepol 22  L1 Forbruk",
-    "@skos:altLabel": "NO-DEKNEPOLN22L1",
+    "@skos:prefLabel": "S Degnepol 22  L1 Forbruk",
+    "@skos:altLabel": "NO-DEGNEPOLLEN22",
     "@cim:IdentifiedObject.mRID": "50WC00000002133R",
-    "@cim:IdentifiedObject.name": "N Deknepol 22  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Degnepol 22  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-DEKNEPOLN22L1",
+        "NO-DEGNEPOLLEN22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XCANDY-12345-A",
     "@skos:prefLabel": "CANDY SPAIN, S.L.",
     "@skos:altLabel": "CANDY",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XCANDY-12345-A",
     "@cim:IdentifiedObject.name": "CANDY SPAIN, S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB30065221",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-12-21",
     "@schema:vatID": "ESB30065221",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

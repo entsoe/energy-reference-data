@@ -12,19 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XEWE--ENERGIAH",
-    "@skos:prefLabel": "ELENGER DYSTRYBUCJA SP. Z O.O.",
-    "@skos:altLabel": "ELENGER_DYSTRY",
+    "@skos:prefLabel": "EWE ENERGIA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "@skos:altLabel": "EWE_ENERGIA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "19XEWE--ENERGIAH",
-    "@cim:IdentifiedObject.name": "ELENGER DYSTRYBUCJA SP. Z O.O.",
+    "@cim:IdentifiedObject.name": "EWE ENERGIA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
     "@cim:Names.name": [
-        "ELENGER_DYSTRY",
-        "A0002022Z.PL",
+        "EWE_ENERGIA",
         "PL7781359052",
-        "Energy Supplier"
+        "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-21",
+    "@cim:DateAndOrTime.date": "2013-02-08",
     "@schema:vatID": "PL7781359052",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000120211Y",
-    "@skos:prefLabel": "“DCM Energy” LIMITED LIABILITY COMPANY",
+    "@skos:prefLabel": "LIMITED LIABILITY COMPANY “DCM Energy”",
     "@skos:altLabel": "DCM_ENERGY",
     "@cim:IdentifiedObject.mRID": "56X930000120211Y",
-    "@cim:IdentifiedObject.name": "“DCM Energy” LIMITED LIABILITY COMPANY",
+    "@cim:IdentifiedObject.name": "LIMITED LIABILITY COMPANY “DCM Energy”",
     "@cim:Names.name": [
         "DCM_ENERGY",
         "448123303187",
-        "Network User",
-        "Trade Responsible Party"
+        "Trade Responsible Party",
+        "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-02",
+    "@cim:DateAndOrTime.date": "2023-02-07",
     "@schema:vatID": "448123303187",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

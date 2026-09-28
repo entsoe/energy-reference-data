@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X148743310030Q",
-    "@skos:prefLabel": "MOOREN",
-    "@skos:altLabel": "IT-MOORENSRL",
+    "@skos:prefLabel": "SINERGIA SRL",
+    "@skos:altLabel": "IT-SINERGIASRLSR",
     "@cim:IdentifiedObject.mRID": "26X148743310030Q",
-    "@cim:IdentifiedObject.name": "MOOREN",
+    "@cim:IdentifiedObject.name": "SINERGIA SRL",
     "@cim:Names.name": [
-        "IT-MOORENSRL",
-        "A0015164A.IT",
+        "IT-SINERGIASRLSR",
         "IT14874331003",
         "Market Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-04-14",
+    "@cim:DateAndOrTime.date": "2022-03-09",
     "@schema:vatID": "IT14874331003",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

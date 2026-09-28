@@ -12,20 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:60X0000000000389",
-    "@skos:prefLabel": "NEOGAS GRID SA",
-    "@skos:altLabel": "NGG",
+    "@skos:prefLabel": "SC PREMIER ENERGY SRL",
+    "@skos:altLabel": "PREMIER-ENERGY",
     "@cim:IdentifiedObject.mRID": "60X0000000000389",
-    "@cim:IdentifiedObject.name": "NEOGAS GRID SA",
+    "@cim:IdentifiedObject.name": "SC PREMIER ENERGY SRL",
     "@cim:Names.name": [
-        "NGG",
+        "PREMIER-ENERGY",
         "RO20914495",
+        "Resource Provider",
         "Distribution System Operator",
-        "Network User",
-        "Resource Provider"
+        "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-01-17",
+    "@cim:DateAndOrTime.date": "2017-02-02",
     "@schema:vatID": "RO20914495",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

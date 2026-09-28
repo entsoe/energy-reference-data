@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000228P" ;
-    cim:IdentifiedObject.name "N 132 Fauske-Rognan" ;
+    cim:IdentifiedObject.name "M 132 Fauske-Rognan" ;
     cim:Names.name "Internal Line",
-        "NO-132FAUSKEROGN" ;
+        "NO-FAUSKEROGNAN1" ;
     dcterms:identifier "urn:eic:50TL00000000228P" ;
-    skos:altLabel "NO-132FAUSKEROGN" ;
+    skos:altLabel "NO-FAUSKEROGNAN1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 132 Fauske-Rognan" ;
+    skos:prefLabel "M 132 Fauske-Rognan" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

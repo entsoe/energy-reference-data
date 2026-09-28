@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003063G",
-    "@skos:prefLabel": "N 132 Åskåra-Lunden",
-    "@skos:altLabel": "NO-132ASKARALUND",
+    "@skos:prefLabel": "S 132 Åskåra-Lunden",
+    "@skos:altLabel": "NO-ASKARALUNDEN",
     "@cim:IdentifiedObject.mRID": "50TL00000003063G",
-    "@cim:IdentifiedObject.name": "N 132 Åskåra-Lunden",
+    "@cim:IdentifiedObject.name": "S 132 Åskåra-Lunden",
     "@cim:Names.name": [
-        "NO-132ASKARALUND",
+        "NO-ASKARALUNDEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

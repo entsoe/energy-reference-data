@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003024Q",
-    "@skos:prefLabel": "S 132 Svelgfoss-Notodden",
-    "@skos:altLabel": "NO-132SVELGFOSSN",
+    "@skos:prefLabel": "S 132 Svelgfoss-Lienveien",
+    "@skos:altLabel": "NO-SVELGFOSSLIEN",
     "@cim:IdentifiedObject.mRID": "50TL00000003024Q",
-    "@cim:IdentifiedObject.name": "S 132 Svelgfoss-Notodden",
+    "@cim:IdentifiedObject.name": "S 132 Svelgfoss-Lienveien",
     "@cim:Names.name": [
-        "NO-132SVELGFOSSN",
+        "NO-SVELGFOSSLIEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

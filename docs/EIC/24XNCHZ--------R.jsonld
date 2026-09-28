@@ -23,13 +23,12 @@
     "@cim:Names.name": [
         "NCHZ",
         "SK2020468417",
-        "Producer",
-        "Trade Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Chemical Producer (Sk: Vyrobca Chemickej Produkcie)",
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-05-21",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "SK2020468417",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

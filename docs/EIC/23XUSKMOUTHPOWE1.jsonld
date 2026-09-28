@@ -12,24 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23XUSKMOUTHPOWE1",
-    "@skos:prefLabel": "SIMEC USKMOUTH POWER LIMITED",
+    "@skos:prefLabel": "Uskmouth Power Company Limited",
     "@skos:altLabel": "USKMOUTHPOWER",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trader"
     },
     "@cim:IdentifiedObject.mRID": "23XUSKMOUTHPOWE1",
-    "@cim:IdentifiedObject.name": "SIMEC USKMOUTH POWER LIMITED",
+    "@cim:IdentifiedObject.name": "Uskmouth Power Company Limited",
     "@cim:Names.name": [
         "USKMOUTHPOWER",
-        "GB209555792",
-        "Trade Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-22",
-    "@schema:vatID": "GB209555792",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

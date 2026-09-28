@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002081J",
-    "@skos:prefLabel": "S 22 Vikedal-Vågaåna",
-    "@skos:altLabel": "NO-22VIKEDALVAGA",
+    "@skos:prefLabel": "S 66 Rødne-Vågaåna",
+    "@skos:altLabel": "NO-RODNEVAGAANA",
     "@cim:IdentifiedObject.mRID": "50TL00000002081J",
-    "@cim:IdentifiedObject.name": "S 22 Vikedal-Vågaåna",
+    "@cim:IdentifiedObject.name": "S 66 Rødne-Vågaåna",
     "@cim:Names.name": [
-        "NO-22VIKEDALVAGA",
+        "NO-RODNEVAGAANA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

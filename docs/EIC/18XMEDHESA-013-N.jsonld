@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XMEDHESA-013-N",
     "@skos:prefLabel": "MEDHESA",
     "@skos:altLabel": "MEDHE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XMEDHESA-013-N",
     "@cim:IdentifiedObject.name": "MEDHESA",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB28811362",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2013-07-18",
     "@schema:vatID": "ESB28811362",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

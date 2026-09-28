@@ -22,13 +22,13 @@
     "@cim:IdentifiedObject.name": "Bulgaria",
     "@cim:Names.name": [
         "BG",
-        "Bidding Zone",
-        "Control Area",
-        "LFC Area",
-        "LFC Block",
         "Member State",
+        "LFC Area",
         "Scheduling Area",
-        "Control Block"
+        "LFC Block",
+        "Control Block",
+        "Bidding Zone",
+        "Control Area"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Control Block, Market Balance Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",

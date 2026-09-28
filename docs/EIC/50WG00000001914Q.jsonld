@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001914Q",
     "@skos:prefLabel": "TROLLHEIG108 HYDRO",
-    "@skos:altLabel": "NO-TROLLHEIG108",
+    "@skos:altLabel": "NO-TROLLHEIG108_",
     "@cim:IdentifiedObject.mRID": "50WG00000001914Q",
     "@cim:IdentifiedObject.name": "TROLLHEIG108 HYDRO",
     "@cim:Names.name": [
-        "NO-TROLLHEIG108",
+        "NO-TROLLHEIG108_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

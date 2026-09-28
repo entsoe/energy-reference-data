@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP000000005209",
-    "@skos:prefLabel": "Kaldestad Kraft",
-    "@skos:altLabel": "NO-KALDESTAD_KRA",
+    "@skos:prefLabel": "Norheimsund",
+    "@skos:altLabel": "NO-NORHEIMS",
     "@cim:IdentifiedObject.mRID": "50WP000000005209",
-    "@cim:IdentifiedObject.name": "Kaldestad Kraft",
+    "@cim:IdentifiedObject.name": "Norheimsund",
     "@cim:Names.name": [
-        "NO-KALDESTAD_KRA",
+        "NO-NORHEIMS",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

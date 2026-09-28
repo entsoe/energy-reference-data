@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000005190",
     "@skos:prefLabel": "GJOVIK  G105 HYDRO",
-    "@skos:altLabel": "NO-GJOVIKG105",
+    "@skos:altLabel": "NO-GJOVIK__G105_",
     "@cim:IdentifiedObject.mRID": "50WG000000005190",
     "@cim:IdentifiedObject.name": "GJOVIK  G105 HYDRO",
     "@cim:Names.name": [
-        "NO-GJOVIKG105",
+        "NO-GJOVIK__G105_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

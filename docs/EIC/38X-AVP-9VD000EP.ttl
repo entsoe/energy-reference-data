@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-01-31" ;
+    cim:DateAndOrTime.date "2016-09-02" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "38X-AVP-9VD000EP" ;
-    cim:IdentifiedObject.name "AS Elenger Grupp" ;
+    cim:IdentifiedObject.name "AS Eesti Gaas" ;
     cim:Names.name "Balance Responsible Party",
         "EE100072174",
-        "EE_ELENGER",
-        "Energy Supplier",
-        "Trade Responsible Party" ;
+        "EE_EESTIGAAS" ;
     dcterms:identifier "urn:eic:38X-AVP-9VD000EP" ;
     schema1:vatID "EE100072174" ;
-    skos:altLabel "EE_ELENGER" ;
+    skos:altLabel "EE_EESTIGAAS" ;
+    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AS Elenger Grupp" ;
+    skos:prefLabel "AS Eesti Gaas" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

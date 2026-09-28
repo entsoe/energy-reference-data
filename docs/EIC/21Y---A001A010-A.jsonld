@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:21Y---A001A010-A",
     "@skos:prefLabel": "PSV",
     "@skos:altLabel": "PSV-IT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Virtual Trading Point"
+    },
     "@cim:IdentifiedObject.mRID": "21Y---A001A010-A",
     "@cim:IdentifiedObject.name": "PSV",
     "@cim:Names.name": [
         "PSV-IT",
-        "Market Area"
+        "Valid EIC Function needed"
     ],
+    "@cim:IdentifiedObject.description": "Virtual Trading Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-24",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

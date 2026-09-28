@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:33X-INTERENERGOU",
-    "@skos:prefLabel": "Kelag International dooel Skopje",
-    "@skos:altLabel": "KELAG-INT-SK",
+    "@skos:prefLabel": "INTERENERGO MAKEDONIJA Ltd Skopje",
+    "@skos:altLabel": "INTERENERGO-MK",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "33X-INTERENERGOU",
-    "@cim:IdentifiedObject.name": "Kelag International dooel Skopje",
+    "@cim:IdentifiedObject.name": "INTERENERGO MAKEDONIJA Ltd Skopje",
     "@cim:Names.name": [
-        "KELAG-INT-SK",
+        "INTERENERGO-MK",
         "4030007639776",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-01-16",
+    "@cim:DateAndOrTime.date": "2014-12-22",
     "@schema:vatID": "4030007639776",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

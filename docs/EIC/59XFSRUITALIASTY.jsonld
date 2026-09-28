@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:59XFSRUITALIASTY",
-    "@skos:prefLabel": "Snam LNG Srl",
-    "@skos:altLabel": "SNAMLNGSRL",
+    "@skos:prefLabel": "FSRU ITALIA SRL",
+    "@skos:altLabel": "FSRUITALIASRL",
     "@cim:IdentifiedObject.mRID": "59XFSRUITALIASTY",
-    "@cim:IdentifiedObject.name": "Snam LNG Srl",
+    "@cim:IdentifiedObject.name": "FSRU ITALIA SRL",
     "@cim:Names.name": [
-        "SNAMLNGSRL",
+        "FSRUITALIASRL",
         "IT11313580968",
         "LNG System Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-05-18",
+    "@cim:DateAndOrTime.date": "2023-02-08",
     "@schema:vatID": "IT11313580968",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

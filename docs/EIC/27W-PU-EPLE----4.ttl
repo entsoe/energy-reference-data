@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-06-24" ;
+    cim:DateAndOrTime.date "2021-11-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "27W-PU-EPLE----4" ;
-    cim:IdentifiedObject.name "Plzeňská teplárenská, a.s. - Energetika" ;
-    cim:Names.name "PLTE",
+    cim:IdentifiedObject.name "EPLE" ;
+    cim:Names.name "EPLE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:27W-PU-EPLE----4" ;
-    skos:altLabel "PLTE" ;
+    skos:altLabel "EPLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Plzeňská teplárenská, a.s. - Energetika" ;
+    skos:prefLabel "EPLE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

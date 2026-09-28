@@ -12,26 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000BMGRY",
-    "@skos:prefLabel": "INEON Olszowiak Sp. k.",
-    "@skos:altLabel": "INEON",
+    "@skos:prefLabel": "BM Group sp. z o.o. Sp. k.",
+    "@skos:altLabel": "BM_GROUP",
     "@skos:definition": {
         "@language": "en",
         "@value": "Network User"
     },
     "@cim:IdentifiedObject.mRID": "53XPL000000BMGRY",
-    "@cim:IdentifiedObject.name": "INEON Olszowiak Sp. k.",
+    "@cim:IdentifiedObject.name": "BM Group sp. z o.o. Sp. k.",
     "@cim:Names.name": [
-        "INEON",
-        "A00136767.PL",
+        "BM_GROUP",
         "PL6222782756",
-        "Balance Responsible Party",
-        "Network User",
-        "Trade Responsible Party"
+        "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-03-10",
+    "@cim:DateAndOrTime.date": "2016-10-28",
     "@schema:vatID": "PL6222782756",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000011195",
     "@skos:prefLabel": "Tveråkraft",
-    "@skos:altLabel": "NO-TVERAAKRAFT",
+    "@skos:altLabel": "NO-TVERAKRAFT_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000011195",
     "@cim:IdentifiedObject.name": "Tveråkraft",
     "@cim:Names.name": [
-        "NO-TVERAAKRAFT",
+        "NO-TVERAKRAFT_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

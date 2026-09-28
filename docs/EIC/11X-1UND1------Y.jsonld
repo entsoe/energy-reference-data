@@ -12,19 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X-1UND1------Y",
-    "@skos:prefLabel": "NEO Energy DE GmbH",
+    "@skos:prefLabel": "1&1 Energy GmbH",
     "@skos:altLabel": "1UND1",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11X-1UND1------Y",
-    "@cim:IdentifiedObject.name": "NEO Energy DE GmbH",
+    "@cim:IdentifiedObject.name": "1&1 Energy GmbH",
     "@cim:Names.name": [
         "1UND1",
-        "DE455964968",
+        "DE304439118",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-20",
-    "@schema:vatID": "DE455964968",
+    "@cim:DateAndOrTime.date": "2016-03-11",
+    "@schema:vatID": "DE304439118",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

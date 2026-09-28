@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000850P",
     "@skos:prefLabel": "Øvre Svultingen",
-    "@skos:altLabel": "NO-OVRE_SVU",
+    "@skos:altLabel": "NO-OVRE_SV",
     "@cim:IdentifiedObject.mRID": "50WP00000000850P",
     "@cim:IdentifiedObject.name": "Øvre Svultingen",
     "@cim:Names.name": [
-        "NO-OVRE_SVU",
+        "NO-OVRE_SV",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

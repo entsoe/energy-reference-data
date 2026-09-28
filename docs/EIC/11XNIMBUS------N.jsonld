@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:11XNIMBUS------N",
     "@skos:prefLabel": "N.E. Nimbus Energie GmbH",
     "@skos:altLabel": "NIMBUS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11XNIMBUS------N",
     "@cim:IdentifiedObject.name": "N.E. Nimbus Energie GmbH",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "DE296424987",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-19",
+    "@cim:DateAndOrTime.date": "2014-11-01",
     "@schema:vatID": "DE296424987",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

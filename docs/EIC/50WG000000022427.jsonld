@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000022427",
-    "@skos:prefLabel": "SKRIPELAG1      HYDRO",
-    "@skos:altLabel": "NO-SKRIPELAG1",
+    "@skos:prefLabel": "BROKKE  G105 HYDRO",
+    "@skos:altLabel": "NO-BROKKE__G105_",
     "@cim:IdentifiedObject.mRID": "50WG000000022427",
-    "@cim:IdentifiedObject.name": "SKRIPELAG1      HYDRO",
+    "@cim:IdentifiedObject.name": "BROKKE  G105 HYDRO",
     "@cim:Names.name": [
-        "NO-SKRIPELAG1",
+        "NO-BROKKE__G105_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

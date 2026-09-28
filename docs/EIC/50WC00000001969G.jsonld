@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001969G",
-    "@skos:prefLabel": "N Bjerka   2   L1  Forbruk",
+    "@skos:prefLabel": "M Bjerka   2   LARM Last",
     "@skos:altLabel": "NO-BJERKA2",
     "@cim:IdentifiedObject.mRID": "50WC00000001969G",
-    "@cim:IdentifiedObject.name": "N Bjerka   2   L1  Forbruk",
+    "@cim:IdentifiedObject.name": "M Bjerka   2   LARM Last",
     "@cim:Names.name": [
         "NO-BJERKA2",
         "Load"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-16",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

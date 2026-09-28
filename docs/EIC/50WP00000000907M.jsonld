@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000907M",
     "@skos:prefLabel": "Midtunkraft",
-    "@skos:altLabel": "NO-MIDTUNKRAFT",
+    "@skos:altLabel": "NO-MIDTUNKRAFT_P",
     "@cim:IdentifiedObject.mRID": "50WP00000000907M",
     "@cim:IdentifiedObject.name": "Midtunkraft",
     "@cim:Names.name": [
-        "NO-MIDTUNKRAFT",
+        "NO-MIDTUNKRAFT_P",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

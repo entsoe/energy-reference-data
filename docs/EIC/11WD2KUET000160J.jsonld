@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11WD2KUET000160J",
-    "@skos:prefLabel": "Kuehtai-1-KW",
-    "@skos:altLabel": "KUEHTAI-1_TIWAG",
+    "@skos:prefLabel": "Kuehtai-KW",
+    "@skos:altLabel": "KUEHTAI_TIWAG",
     "@cim:IdentifiedObject.mRID": "11WD2KUET000160J",
-    "@cim:IdentifiedObject.name": "Kuehtai-1-KW",
+    "@cim:IdentifiedObject.name": "Kuehtai-KW",
     "@cim:Names.name": [
-        "KUEHTAI-1_TIWAG",
+        "KUEHTAI_TIWAG",
         "Generation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-21",
+    "@cim:DateAndOrTime.date": "2021-04-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

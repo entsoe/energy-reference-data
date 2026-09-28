@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000012Y",
-    "@skos:prefLabel": "NISSERDAG1      HYDRO",
-    "@skos:altLabel": "NO-NISSERDAG1",
+    "@skos:prefLabel": "AKLAND  G101 HYDRO",
+    "@skos:altLabel": "NO-AKLAND__G101_",
     "@cim:IdentifiedObject.mRID": "50WG00000000012Y",
-    "@cim:IdentifiedObject.name": "NISSERDAG1      HYDRO",
+    "@cim:IdentifiedObject.name": "AKLAND  G101 HYDRO",
     "@cim:Names.name": [
-        "NO-NISSERDAG1",
+        "NO-AKLAND__G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

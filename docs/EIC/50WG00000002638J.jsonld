@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002638J",
-    "@skos:prefLabel": "TIMBRA  G1      HYDRO",
-    "@skos:altLabel": "NO-TIMBRAG1",
+    "@skos:prefLabel": "SKEI    G102 HYDRO",
+    "@skos:altLabel": "NO-SKEI____G102_",
     "@cim:IdentifiedObject.mRID": "50WG00000002638J",
-    "@cim:IdentifiedObject.name": "TIMBRA  G1      HYDRO",
+    "@cim:IdentifiedObject.name": "SKEI    G102 HYDRO",
     "@cim:Names.name": [
-        "NO-TIMBRAG1",
+        "NO-SKEI____G102_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

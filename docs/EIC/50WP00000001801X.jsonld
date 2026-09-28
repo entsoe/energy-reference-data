@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001801X",
     "@skos:prefLabel": "Flaen Mølle",
-    "@skos:altLabel": "NO-FLAENMOELLE",
+    "@skos:altLabel": "NO-FLAEN_MOELLE",
     "@cim:IdentifiedObject.mRID": "50WP00000001801X",
     "@cim:IdentifiedObject.name": "Flaen Mølle",
     "@cim:Names.name": [
-        "NO-FLAENMOELLE",
+        "NO-FLAEN_MOELLE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

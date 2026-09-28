@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000635Z",
     "@skos:prefLabel": "HAUGEN  G111 HYDRO",
-    "@skos:altLabel": "NO-HAUGENG111",
+    "@skos:altLabel": "NO-HAUGEN__G111_",
     "@cim:IdentifiedObject.mRID": "50WG00000000635Z",
     "@cim:IdentifiedObject.name": "HAUGEN  G111 HYDRO",
     "@cim:Names.name": [
-        "NO-HAUGENG111",
+        "NO-HAUGEN__G111_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000937X",
     "@skos:prefLabel": "N 22 Sandvika-Saltdalelva",
-    "@skos:altLabel": "NO-22SANDVIKASAL",
+    "@skos:altLabel": "NO-SANDVIKASALTD",
     "@cim:IdentifiedObject.mRID": "50TL00000000937X",
     "@cim:IdentifiedObject.name": "N 22 Sandvika-Saltdalelva",
     "@cim:Names.name": [
-        "NO-22SANDVIKASAL",
+        "NO-SANDVIKASALTD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

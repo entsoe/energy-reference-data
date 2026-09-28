@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XFERL-12345--K",
     "@skos:prefLabel": "Ferloga, SL",
     "@skos:altLabel": "FERL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XFERL-12345--K",
     "@cim:IdentifiedObject.name": "Ferloga, SL",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB24049272",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2013-07-24",
     "@schema:vatID": "ESB24049272",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

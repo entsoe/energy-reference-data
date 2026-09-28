@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002861U",
-    "@skos:prefLabel": "N 66 Øksenelvane-Lunden",
-    "@skos:altLabel": "NO-66OKSENELVANE",
+    "@skos:prefLabel": "S 66 Øksenelvane-Lunden",
+    "@skos:altLabel": "NO-OKSENELVANELU",
     "@cim:IdentifiedObject.mRID": "50TL00000002861U",
-    "@cim:IdentifiedObject.name": "N 66 Øksenelvane-Lunden",
+    "@cim:IdentifiedObject.name": "S 66 Øksenelvane-Lunden",
     "@cim:Names.name": [
-        "NO-66OKSENELVANE",
+        "NO-OKSENELVANELU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

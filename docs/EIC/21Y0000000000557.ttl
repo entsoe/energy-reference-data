@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-06-21" ;
+    cim:DateAndOrTime.date "2016-10-18" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Aggregate Exit Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000557" ;
-    cim:IdentifiedObject.name "DEL OTHERNET IT" ;
+    cim:IdentifiedObject.name "Delivery to other networks Italy" ;
     cim:Names.name "DEL_OTHERNET_IT",
-        "Local Market Area" ;
+        "Valid EIC Function needed" ;
     dcterms:identifier "urn:eic:21Y0000000000557" ;
     skos:altLabel "DEL_OTHERNET_IT" ;
+    skos:definition "Aggregate Exit Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DEL OTHERNET IT" ;
+    skos:prefLabel "Delivery to other networks Italy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

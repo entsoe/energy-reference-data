@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000517I",
-    "@skos:prefLabel": "N 132 Moskog-Skei",
-    "@skos:altLabel": "NO-132MOSKOGSKEI",
+    "@skos:prefLabel": "S 132 Moskog-Skei",
+    "@skos:altLabel": "NO-MOSKOGSKEI",
     "@cim:IdentifiedObject.mRID": "50TL00000000517I",
-    "@cim:IdentifiedObject.name": "N 132 Moskog-Skei",
+    "@cim:IdentifiedObject.name": "S 132 Moskog-Skei",
     "@cim:Names.name": [
-        "NO-132MOSKOGSKEI",
+        "NO-MOSKOGSKEI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

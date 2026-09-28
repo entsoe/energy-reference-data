@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001212L",
     "@skos:prefLabel": "OFOTEN  G101 HYDRO",
-    "@skos:altLabel": "NO-OFOTENG101",
+    "@skos:altLabel": "NO-OFOTEN__G101_",
     "@cim:IdentifiedObject.mRID": "50WG00000001212L",
     "@cim:IdentifiedObject.name": "OFOTEN  G101 HYDRO",
     "@cim:Names.name": [
-        "NO-OFOTENG101",
+        "NO-OFOTEN__G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

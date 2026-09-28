@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-08-02" ;
+    cim:DateAndOrTime.date "2016-10-18" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Notional Point" ;
     cim:IdentifiedObject.mRID "21Z0000000003964" ;
-    cim:IdentifiedObject.name "Carrickfergus Internal Connection Point" ;
+    cim:IdentifiedObject.name "Carrickfergus Exit Point" ;
     cim:Names.name "CARRICK-NI",
-        "Connection Point" ;
+        "Valid EIC Function needed" ;
     dcterms:identifier "urn:eic:21Z0000000003964" ;
     skos:altLabel "CARRICK-NI" ;
+    skos:definition "Notional Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Carrickfergus Internal Connection Point" ;
+    skos:prefLabel "Carrickfergus Exit Point" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

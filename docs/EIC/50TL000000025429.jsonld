@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000025429",
-    "@skos:prefLabel": "N 420 Høyanger-Sogndal",
-    "@skos:altLabel": "NO-420HOYANGERSO",
+    "@skos:prefLabel": "M 420 Høyanger-Sogndal",
+    "@skos:altLabel": "NO-HOYANGERSOGND",
     "@cim:IdentifiedObject.mRID": "50TL000000025429",
-    "@cim:IdentifiedObject.name": "N 420 Høyanger-Sogndal",
+    "@cim:IdentifiedObject.name": "M 420 Høyanger-Sogndal",
     "@cim:Names.name": [
-        "NO-420HOYANGERSO",
+        "NO-HOYANGERSOGND",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

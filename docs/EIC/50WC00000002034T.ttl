@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002034T" ;
-    cim:IdentifiedObject.name "N Buvika   66  RT1 Forbruk" ;
+    cim:IdentifiedObject.name "INOVYN Norge Rafsnes" ;
     cim:Names.name "Load",
-        "NO-BUVIKA66" ;
+        "NO-INOVYNNORGERA" ;
     dcterms:identifier "urn:eic:50WC00000002034T" ;
-    skos:altLabel "NO-BUVIKA66" ;
+    skos:altLabel "NO-INOVYNNORGERA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Buvika   66  RT1 Forbruk" ;
+    skos:prefLabel "INOVYN Norge Rafsnes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

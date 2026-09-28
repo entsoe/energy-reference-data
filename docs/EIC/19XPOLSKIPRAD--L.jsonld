@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XPOLSKIPRAD--L",
-    "@skos:prefLabel": "ELEKTRA SPÓŁKA AKCYJNA",
-    "@skos:altLabel": "ELEKTRA",
+    "@skos:prefLabel": "POLSKI PRAD SPOLKA AKCYJNA",
+    "@skos:altLabel": "POLSKI_PRAD_SA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "19XPOLSKIPRAD--L",
-    "@cim:IdentifiedObject.name": "ELEKTRA SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "POLSKI PRAD SPOLKA AKCYJNA",
     "@cim:Names.name": [
-        "ELEKTRA",
+        "POLSKI_PRAD_SA",
         "PL7010379536",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-24",
+    "@cim:DateAndOrTime.date": "2013-07-10",
     "@schema:vatID": "PL7010379536",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

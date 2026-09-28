@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000027154",
-    "@skos:prefLabel": "N 22 Sesselva-Kjelbotn",
-    "@skos:altLabel": "NO-22SESSELVAKJE",
+    "@skos:prefLabel": "M 22 Sess-Kjelbotn",
+    "@skos:altLabel": "NO-SESSKJELBOTN",
     "@cim:IdentifiedObject.mRID": "50TL000000027154",
-    "@cim:IdentifiedObject.name": "N 22 Sesselva-Kjelbotn",
+    "@cim:IdentifiedObject.name": "M 22 Sess-Kjelbotn",
     "@cim:Names.name": [
-        "NO-22SESSELVAKJE",
+        "NO-SESSKJELBOTN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-07",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

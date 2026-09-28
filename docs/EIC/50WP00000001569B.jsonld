@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001569B",
     "@skos:prefLabel": "Utigardselva",
-    "@skos:altLabel": "NO-UTIGARDSELVA",
+    "@skos:altLabel": "NO-UTIGARDSELVA_",
     "@cim:IdentifiedObject.mRID": "50WP00000001569B",
     "@cim:IdentifiedObject.name": "Utigardselva",
     "@cim:Names.name": [
-        "NO-UTIGARDSELVA",
+        "NO-UTIGARDSELVA_",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X0000000001I7X",
     "@skos:prefLabel": "AGROTECNICAS LOS ANTONIOS S.L",
     "@skos:altLabel": "AGROT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X0000000001I7X",
     "@cim:IdentifiedObject.name": "AGROTECNICAS LOS ANTONIOS S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB50639210",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "ESB50639210",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

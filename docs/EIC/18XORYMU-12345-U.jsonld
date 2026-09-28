@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XORYMU-12345-U",
     "@skos:prefLabel": "ORYMU ARTES GRAFICAS S.A.",
     "@skos:altLabel": "ORYMU",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XORYMU-12345-U",
     "@cim:IdentifiedObject.name": "ORYMU ARTES GRAFICAS S.A.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESA78319746",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2014-03-05",
     "@schema:vatID": "ESA78319746",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

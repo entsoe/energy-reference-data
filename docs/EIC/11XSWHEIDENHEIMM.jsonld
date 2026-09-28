@@ -14,16 +14,21 @@
     "@dcterms:identifier": "urn:eic:11XSWHEIDENHEIMM",
     "@skos:prefLabel": "Stadtwerke Heidenheim Aktiengesellschaft",
     "@skos:altLabel": "SWHEIDENHEIM",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Group"
+    },
     "@cim:IdentifiedObject.mRID": "11XSWHEIDENHEIMM",
     "@cim:IdentifiedObject.name": "Stadtwerke Heidenheim Aktiengesellschaft",
     "@cim:Names.name": [
         "SWHEIDENHEIM",
         "DE145568319",
-        "Balance Responsible Party"
+        "Balance Group"
     ],
+    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-09-23",
+    "@cim:DateAndOrTime.date": "2005-12-06",
     "@schema:vatID": "DE145568319",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

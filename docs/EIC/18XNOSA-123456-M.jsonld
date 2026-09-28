@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XNOSA-123456-M",
     "@skos:prefLabel": "NOSA ENERXIA SCG",
     "@skos:altLabel": "NOSA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Trade Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XNOSA-123456-M",
     "@cim:IdentifiedObject.name": "NOSA ENERXIA SCG",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESF94090792",
         "Trade Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-03",
+    "@cim:DateAndOrTime.date": "2014-11-19",
     "@schema:vatID": "ESF94090792",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

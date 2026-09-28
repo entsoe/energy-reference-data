@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-05-20" ;
+    cim:DateAndOrTime.date "2016-10-18" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Production Responsible Party, Transmission System Operator" ;
     cim:IdentifiedObject.mRID "18XRGNSA-12345-V" ;
-    cim:IdentifiedObject.name "REGASIFICADORA DEL NOROESTE S.A." ;
+    cim:IdentifiedObject.name "Regasificadora del Noroeste S.A." ;
     cim:Names.name "ESA15685324",
-        "Producer",
+        "Production Responsible party",
         "RGNSA" ;
     dcterms:identifier "urn:eic:18XRGNSA-12345-V" ;
     schema1:vatID "ESA15685324" ;
     skos:altLabel "RGNSA" ;
+    skos:definition "Production Responsible Party, Transmission System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "REGASIFICADORA DEL NOROESTE S.A." ;
+    skos:prefLabel "Regasificadora del Noroeste S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001989Q",
     "@skos:prefLabel": "Tunga Sol",
-    "@skos:altLabel": "NO-TUNGASOL",
+    "@skos:altLabel": "NO-TUNGA_SOL",
     "@cim:IdentifiedObject.mRID": "50WP00000001989Q",
     "@cim:IdentifiedObject.name": "Tunga Sol",
     "@cim:Names.name": [
-        "NO-TUNGASOL",
+        "NO-TUNGA_SOL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

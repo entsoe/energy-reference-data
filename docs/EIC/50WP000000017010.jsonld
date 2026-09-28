@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000017010",
     "@skos:prefLabel": "Ecopro",
-    "@skos:altLabel": "NO-ECOPRO",
+    "@skos:altLabel": "NO-ECOPRO_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000017010",
     "@cim:IdentifiedObject.name": "Ecopro",
     "@cim:Names.name": [
-        "NO-ECOPRO",
+        "NO-ECOPRO_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

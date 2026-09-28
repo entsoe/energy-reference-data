@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000011284",
     "@skos:prefLabel": "Bruelva",
-    "@skos:altLabel": "NO-BRUELVA",
+    "@skos:altLabel": "NO-BRUELVA_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000011284",
     "@cim:IdentifiedObject.name": "Bruelva",
     "@cim:Names.name": [
-        "NO-BRUELVA",
+        "NO-BRUELVA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

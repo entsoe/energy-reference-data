@@ -12,12 +12,12 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XPADRESEXPRESV",
-    "@skos:prefLabel": "PAD RES DYSTRYBUCJA ZACHÓD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI",
-    "@skos:altLabel": "PAD_RES_ZACHOD",
+    "@skos:prefLabel": "EXPRESS CASH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "EXPRESS_CASH",
     "@cim:IdentifiedObject.mRID": "19XPADRESEXPRESV",
-    "@cim:IdentifiedObject.name": "PAD RES DYSTRYBUCJA ZACHÓD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCI",
+    "@cim:IdentifiedObject.name": "EXPRESS CASH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "PAD_RES_ZACHOD",
+        "EXPRESS_CASH",
         "PL5222910797",
         "Meter Administrator",
         "System Operator",
@@ -26,7 +26,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-04-23",
+    "@cim:DateAndOrTime.date": "2023-06-27",
     "@schema:vatID": "PL5222910797",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

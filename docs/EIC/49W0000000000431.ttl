@@ -11,8 +11,7 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49W0000000000431" ;
     cim:IdentifiedObject.name "Diemen" ;
-    cim:Names.name "DM",
-        "Production Unit" ;
+    cim:Names.name "DM" ;
     dcterms:identifier "urn:eic:49W0000000000431" ;
     skos:altLabel "DM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

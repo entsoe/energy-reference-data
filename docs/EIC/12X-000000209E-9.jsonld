@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:12X-000000209E-9",
-    "@skos:prefLabel": "Second Foundation Trading AG",
+    "@skos:prefLabel": "Trisolaris AG",
     "@skos:altLabel": "TRISOLARIS----ST",
     "@cim:IdentifiedObject.mRID": "12X-000000209E-9",
-    "@cim:IdentifiedObject.name": "Second Foundation Trading AG",
+    "@cim:IdentifiedObject.name": "Trisolaris AG",
     "@cim:Names.name": [
         "TRISOLARIS----ST",
         "CHE154481776",
-        "Balance Responsible Party",
         "Capacity Trader"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-12",
+    "@cim:DateAndOrTime.date": "2023-03-06",
     "@schema:vatID": "CHE154481776",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

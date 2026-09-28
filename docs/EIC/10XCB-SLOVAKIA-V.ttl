@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-10-25" ;
+    cim:DateAndOrTime.date "2008-05-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Control Block" ;
     cim:IdentifiedObject.mRID "10XCB-SLOVAKIA-V" ;
     cim:IdentifiedObject.name "Slovenska elektrizacna prenosova sustava, a.s." ;
     cim:Names.name "CB-SLOVAKIA",
-        "SK2020261342",
-        "System Operator" ;
+        "Control Block" ;
     dcterms:identifier "urn:eic:10XCB-SLOVAKIA-V" ;
-    schema1:vatID "SK2020261342" ;
     skos:altLabel "CB-SLOVAKIA" ;
     skos:definition "Control Block"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

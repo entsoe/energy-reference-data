@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001682L",
-    "@skos:prefLabel": "VAGLE   G139 HYDRO",
-    "@skos:altLabel": "NO-VAGLEG139",
+    "@skos:prefLabel": "STOKKELAG139 HYDRO",
+    "@skos:altLabel": "NO-STOKKELAG139_",
     "@cim:IdentifiedObject.mRID": "50WG00000001682L",
-    "@cim:IdentifiedObject.name": "VAGLE   G139 HYDRO",
+    "@cim:IdentifiedObject.name": "STOKKELAG139 HYDRO",
     "@cim:Names.name": [
-        "NO-VAGLEG139",
+        "NO-STOKKELAG139_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-06-20",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

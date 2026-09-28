@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000008805",
-    "@skos:prefLabel": "N 22 Langvann-Sundsfjord",
-    "@skos:altLabel": "NO-22LANGVANNSUN",
+    "@skos:prefLabel": "M 22 Langvann-Sundsfjord",
+    "@skos:altLabel": "NO-LANGVANNSUNDS",
     "@cim:IdentifiedObject.mRID": "50TLI00000008805",
-    "@cim:IdentifiedObject.name": "N 22 Langvann-Sundsfjord",
+    "@cim:IdentifiedObject.name": "M 22 Langvann-Sundsfjord",
     "@cim:Names.name": [
-        "NO-22LANGVANNSUN",
+        "NO-LANGVANNSUNDS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

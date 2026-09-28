@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--171012--S-7",
-    "@skos:prefLabel": "Andel Energi A/S",
-    "@skos:altLabel": "ANDEL_ENERGI",
+    "@skos:prefLabel": "SEAS-NVE Strømmen A/S",
+    "@skos:altLabel": "SEAS-NVE_STROMM",
     "@cim:IdentifiedObject.mRID": "23X--171012--S-7",
-    "@cim:IdentifiedObject.name": "Andel Energi A/S",
+    "@cim:IdentifiedObject.name": "SEAS-NVE Strømmen A/S",
     "@cim:Names.name": [
-        "ANDEL_ENERGI",
+        "SEAS-NVE_STROMM",
         "A00000093.DK",
         "DK24213528",
-        "Balance Responsible Party"
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-12-11",
+    "@cim:DateAndOrTime.date": "2017-10-12",
     "@schema:vatID": "DK24213528",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

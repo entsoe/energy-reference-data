@@ -16,13 +16,10 @@
     "@skos:altLabel": "CELSC02",
     "@cim:IdentifiedObject.mRID": "18W00000000079IS",
     "@cim:IdentifiedObject.name": "FERIMETSABADELL",
-    "@cim:Names.name": [
-        "CELSC02",
-        "Production Unit"
-    ],
+    "@cim:Names.name": "CELSC02",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2020-07-22",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

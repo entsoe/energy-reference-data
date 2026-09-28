@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000405T",
     "@skos:prefLabel": "N 132 Kilbotn-Medkila",
-    "@skos:altLabel": "NO-132KILBOTNMED",
+    "@skos:altLabel": "NO-KILBOTNMEDKIL",
     "@cim:IdentifiedObject.mRID": "50TL00000000405T",
     "@cim:IdentifiedObject.name": "N 132 Kilbotn-Medkila",
     "@cim:Names.name": [
-        "NO-132KILBOTNMED",
+        "NO-KILBOTNMEDKIL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

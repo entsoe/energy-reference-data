@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000145P",
-    "@skos:prefLabel": "NEXOGAS Energie GmbH ",
-    "@skos:altLabel": "NEXOGAS_ENERGIE_",
+    "@skos:prefLabel": "WELTEC Energie GmbH",
+    "@skos:altLabel": "WELTEC_ENERGIE_G",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000145P",
-    "@cim:IdentifiedObject.name": "NEXOGAS Energie GmbH ",
+    "@cim:IdentifiedObject.name": "WELTEC Energie GmbH",
     "@cim:Names.name": [
-        "NEXOGAS_ENERGIE_",
+        "WELTEC_ENERGIE_G",
         "DE272994352",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-12-05",
+    "@cim:DateAndOrTime.date": "2021-11-03",
     "@schema:vatID": "DE272994352",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

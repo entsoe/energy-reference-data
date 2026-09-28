@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group, Balance Supplier" ;
     cim:IdentifiedObject.mRID "12X-0000001911-4" ;
     cim:IdentifiedObject.name "Energi Danmark A/S" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Balance Group",
+        "Balance Supplier",
         "DK17225898",
         "ENERGI-DK-ST" ;
     dcterms:identifier "urn:eic:12X-0000001911-4" ;

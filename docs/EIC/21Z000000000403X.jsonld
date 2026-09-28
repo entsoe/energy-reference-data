@@ -22,13 +22,12 @@
     "@cim:IdentifiedObject.name": "AG. THEODOROI",
     "@cim:Names.name": [
         "AG-THEODOROI-GR",
-        "Connection Point",
-        "Metering Point"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Connection With The Distribution System",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-06",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

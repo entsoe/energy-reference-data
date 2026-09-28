@@ -7,16 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-09-10" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2010-10-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTW-CRAI-HKWL" ;
     cim:IdentifiedObject.name "Stadtwerke Crailsheim GmbH" ;
-    cim:Names.name "DE145206528",
-        "STW_CR_BHKW",
-        "Trade Responsible Party" ;
+    cim:Names.name "Balance Group",
+        "DE145206528",
+        "STW_CR_BHKW" ;
     dcterms:identifier "urn:eic:11XSTW-CRAI-HKWL" ;
     schema1:vatID "DE145206528" ;
     skos:altLabel "STW_CR_BHKW" ;
+    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Crailsheim GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

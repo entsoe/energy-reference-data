@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000003008O",
     "@skos:prefLabel": "S 132Høgef_TS-T_Berlifoss",
-    "@skos:altLabel": "NO-132HOGEF_TST",
+    "@skos:altLabel": "NO-HOGEFTSTBERLI",
     "@cim:IdentifiedObject.mRID": "50TL00000003008O",
     "@cim:IdentifiedObject.name": "S 132Høgef_TS-T_Berlifoss",
     "@cim:Names.name": [
-        "NO-132HOGEF_TST",
+        "NO-HOGEFTSTBERLI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

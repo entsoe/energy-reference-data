@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:DateAndOrTime.date "2023-05-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "62X105879157725C" ;
-    cim:IdentifiedObject.name "COMPANY LIMITED LIABILITY \"SOUTH ENERGY SUPPLY COMPANY\"" ;
+    cim:IdentifiedObject.name "TOV \"PIVDENNA ENERGOPOSTACHALNA KOMPANIIA\"" ;
     cim:Names.name "423518015517",
         "Consumption Responsible Party",
-        "SESC_LTD" ;
+        "PIVDENNA_EK" ;
     dcterms:identifier "urn:eic:62X105879157725C" ;
     schema1:vatID "423518015517" ;
-    skos:altLabel "SESC_LTD" ;
+    skos:altLabel "PIVDENNA_EK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "COMPANY LIMITED LIABILITY \"SOUTH ENERGY SUPPLY COMPANY\"" ;
+    skos:prefLabel "TOV \"PIVDENNA ENERGOPOSTACHALNA KOMPANIIA\"" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

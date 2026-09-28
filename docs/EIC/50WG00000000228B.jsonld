@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000228B",
     "@skos:prefLabel": "BRYGGJA G101 HYDRO",
-    "@skos:altLabel": "NO-BRYGGJAG101",
+    "@skos:altLabel": "NO-BRYGGJA_G101_",
     "@cim:IdentifiedObject.mRID": "50WG00000000228B",
     "@cim:IdentifiedObject.name": "BRYGGJA G101 HYDRO",
     "@cim:Names.name": [
-        "NO-BRYGGJAG101",
+        "NO-BRYGGJA_G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

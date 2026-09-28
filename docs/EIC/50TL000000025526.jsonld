@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000025526",
-    "@skos:prefLabel": "N 420 Ogndal-Verdal",
-    "@skos:altLabel": "NO-420OGNDALVERD",
+    "@skos:prefLabel": "M 420 Ogndal-Verdal",
+    "@skos:altLabel": "NO-OGNDALVERDAL",
     "@cim:IdentifiedObject.mRID": "50TL000000025526",
-    "@cim:IdentifiedObject.name": "N 420 Ogndal-Verdal",
+    "@cim:IdentifiedObject.name": "M 420 Ogndal-Verdal",
     "@cim:Names.name": [
-        "NO-420OGNDALVERD",
+        "NO-OGNDALVERDAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

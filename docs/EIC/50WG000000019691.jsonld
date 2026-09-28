@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000019691",
     "@skos:prefLabel": "TVEITEN G101 HYDRO",
-    "@skos:altLabel": "NO-TVEITENG101",
+    "@skos:altLabel": "NO-TVEITEN_G101_",
     "@cim:IdentifiedObject.mRID": "50WG000000019691",
     "@cim:IdentifiedObject.name": "TVEITEN G101 HYDRO",
     "@cim:Names.name": [
-        "NO-TVEITENG101",
+        "NO-TVEITEN_G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -19,12 +19,12 @@
     "@cim:Names.name": [
         "SOLPE",
         "ESB87852760",
-        "Capacity Trader",
-        "Consumption Responsible Party",
         "Market Operator",
-        "Production Responsible Party",
         "Trade Responsible Party",
-        "Grid Access Provider"
+        "Consumption Responsible Party",
+        "Production Responsible party",
+        "Grid Access Provider",
+        "Capacity Trader"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

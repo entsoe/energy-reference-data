@@ -19,12 +19,12 @@
     "@cim:Names.name": [
         "OZCSA",
         "PL6220005712",
-        "Energy Supplier",
         "Meter Administrator",
-        "Producer",
-        "System Operator",
         "Grid Access Provider",
-        "Metered Data Responsible"
+        "System Operator",
+        "Metered Data Responsible",
+        "Producer",
+        "Energy Supplier"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

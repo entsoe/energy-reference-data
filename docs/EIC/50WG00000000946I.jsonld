@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000946I",
-    "@skos:prefLabel": "BREIVE  G101 HYDRO",
-    "@skos:altLabel": "NO-BREIVEG101",
+    "@skos:prefLabel": "LEIRDOLAG107 HYDRO",
+    "@skos:altLabel": "NO-LEIRDOLAG107_",
     "@cim:IdentifiedObject.mRID": "50WG00000000946I",
-    "@cim:IdentifiedObject.name": "BREIVE  G101 HYDRO",
+    "@cim:IdentifiedObject.name": "LEIRDOLAG107 HYDRO",
     "@cim:Names.name": [
-        "NO-BREIVEG101",
+        "NO-LEIRDOLAG107_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

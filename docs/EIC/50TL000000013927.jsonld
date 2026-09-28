@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000013927",
-    "@skos:prefLabel": "S 47 Navestad-T_K-H 3",
-    "@skos:altLabel": "NO-47NAVESTADT_K",
+    "@skos:prefLabel": "S 47 Navestad-T_Navestad",
+    "@skos:altLabel": "NO-NAVESTADTNAVE",
     "@cim:IdentifiedObject.mRID": "50TL000000013927",
-    "@cim:IdentifiedObject.name": "S 47 Navestad-T_K-H 3",
+    "@cim:IdentifiedObject.name": "S 47 Navestad-T_Navestad",
     "@cim:Names.name": [
-        "NO-47NAVESTADT_K",
+        "NO-NAVESTADTNAVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

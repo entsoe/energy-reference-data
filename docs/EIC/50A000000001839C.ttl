@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2021-02-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000001839C" ;
-    cim:IdentifiedObject.name "Haraheia" ;
-    cim:Names.name "NO-HARAHEIA",
+    cim:IdentifiedObject.name "Roan Vindpark" ;
+    cim:Names.name "NO-ROAN_VIN",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000001839C" ;
-    skos:altLabel "NO-HARAHEIA" ;
+    skos:altLabel "NO-ROAN_VIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Haraheia" ;
+    skos:prefLabel "Roan Vindpark" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

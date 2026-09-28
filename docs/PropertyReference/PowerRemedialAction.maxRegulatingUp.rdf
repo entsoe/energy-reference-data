@@ -1,0 +1,12 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:nc="http://entsoe.eu/ns/nc#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcterms="http://purl.org/dc/terms/#">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PropertyReference/PowerRemedialAction.maxRegulatingUp">
+    <skos:topConceptOf>http://energy.referencedata.eu/PropertyReference</skos:topConceptOf>
+    <skos:inScheme>http://energy.referencedata.eu/PropertyReference</skos:inScheme>
+    <rdf:type rdf:resource="http://entsoe.eu/ns/nc#PropertyReference"/>
+    <skos:definition>Maximum net amount of active power that the remedial action can regulate up.</skos:definition>
+    <skos:prefLabel>PowerRemedialAction.maxRegulatingUp</skos:prefLabel>
+    <dcterms:identifier>urn:uuid:e4834fe8-beb6-4593-8308-1f3c2952ac94</dcterms:identifier>
+    <nc:PropertyReference.name>PowerRemedialAction.maxRegulatingUp</nc:PropertyReference.name>
+    <nc:PropertyReference.mRID>e4834fe8-beb6-4593-8308-1f3c2952ac94</nc:PropertyReference.mRID>
+  </skos:Concept>
+</rdf:RDF>

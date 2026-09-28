@@ -18,11 +18,11 @@
     "@cim:IdentifiedObject.name": "SZOREG_HEXUM_UGS",
     "@cim:Names.name": [
         "SZOREG_UGS",
-        "Accounting Point",
         "Connection Point",
+        "Virtual Trading Points",
         "Metering Point",
-        "Virtual Interconnection Points",
-        "Virtual Trading Points"
+        "Accounting Point",
+        "Virtual Interconnection Points"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

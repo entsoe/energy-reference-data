@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Greece",
     "@cim:Names.name": [
         "GR",
-        "Bidding Zone",
-        "Control Area",
-        "LFC Area",
-        "LFC Block",
         "Member State",
-        "Scheduling Area"
+        "Scheduling Area",
+        "Bidding Zone",
+        "LFC Area",
+        "Control Area",
+        "LFC Block"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Market Balance Area, Member State, Scheduling Area, Control Area",
     "@cim:Document.docStatus": "A05",

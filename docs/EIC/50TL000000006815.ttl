@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000006815" ;
     cim:IdentifiedObject.name "S 132 Storsand-Tofte" ;
     cim:Names.name "Internal Line",
-        "NO-132STORSANDTO" ;
+        "NO-STORSANDTOFTE" ;
     dcterms:identifier "urn:eic:50TL000000006815" ;
-    skos:altLabel "NO-132STORSANDTO" ;
+    skos:altLabel "NO-STORSANDTOFTE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Storsand-Tofte" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

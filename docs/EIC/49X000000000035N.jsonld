@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49X000000000035N",
-    "@skos:prefLabel": "STX Commodities B.V.",
-    "@skos:altLabel": "STXCOMMODITIESBV",
+    "@skos:prefLabel": "STX Services B.V.",
+    "@skos:altLabel": "STXSERVICESBV",
     "@cim:IdentifiedObject.mRID": "49X000000000035N",
-    "@cim:IdentifiedObject.name": "STX Commodities B.V.",
+    "@cim:IdentifiedObject.name": "STX Services B.V.",
     "@cim:Names.name": [
-        "STXCOMMODITIESBV",
+        "STXSERVICESBV",
         "NL817985177B01",
-        "Balance Responsible Party"
+        "Capacity Trader"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-17",
+    "@cim:DateAndOrTime.date": "2018-05-29",
     "@schema:vatID": "NL817985177B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

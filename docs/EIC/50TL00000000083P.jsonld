@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000083P",
-    "@skos:prefLabel": "N 132 Agdenes-Snillfjord",
-    "@skos:altLabel": "NO-132AGDENESSNI",
+    "@skos:prefLabel": "M 132 Agdenes-Snillfjord",
+    "@skos:altLabel": "NO-AGDENESSNILLF",
     "@cim:IdentifiedObject.mRID": "50TL00000000083P",
-    "@cim:IdentifiedObject.name": "N 132 Agdenes-Snillfjord",
+    "@cim:IdentifiedObject.name": "M 132 Agdenes-Snillfjord",
     "@cim:Names.name": [
-        "NO-132AGDENESSNI",
+        "NO-AGDENESSNILLF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

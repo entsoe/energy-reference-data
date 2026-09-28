@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000939T",
-    "@skos:prefLabel": "N 22 Slind-Julskaret",
-    "@skos:altLabel": "NO-22SLINDJULSKA",
+    "@skos:prefLabel": "M 22 Selbu-Julskaret",
+    "@skos:altLabel": "NO-SELBUJULSKARE",
     "@cim:IdentifiedObject.mRID": "50TL00000000939T",
-    "@cim:IdentifiedObject.name": "N 22 Slind-Julskaret",
+    "@cim:IdentifiedObject.name": "M 22 Selbu-Julskaret",
     "@cim:Names.name": [
-        "NO-22SLINDJULSKA",
+        "NO-SELBUJULSKARE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

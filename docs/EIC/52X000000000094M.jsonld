@@ -12,23 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:52X000000000094M",
-    "@skos:prefLabel": "Westgass Netherlands B.V.",
-    "@skos:altLabel": "WESTGASSNL",
+    "@skos:prefLabel": "AOT Energy Netherlands BV",
+    "@skos:altLabel": "AOTENBV",
     "@skos:definition": {
         "@language": "en",
         "@value": "Capacity Trader"
     },
     "@cim:IdentifiedObject.mRID": "52X000000000094M",
-    "@cim:IdentifiedObject.name": "Westgass Netherlands B.V.",
+    "@cim:IdentifiedObject.name": "AOT Energy Netherlands BV",
     "@cim:Names.name": [
-        "WESTGASSNL",
-        "NL864185704B01",
-        "Capacity Trader"
+        "AOTENBV",
+        "NL864185704B01"
     ],
     "@cim:IdentifiedObject.description": "Capacity Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-07-07",
+    "@cim:DateAndOrTime.date": "2022-10-10",
     "@schema:vatID": "NL864185704B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

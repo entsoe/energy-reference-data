@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006399M",
-    "@skos:prefLabel": "400kV Skawina-Tarnow",
+    "@skos:prefLabel": "Skawina-Tarnów",
     "@skos:altLabel": "G008",
     "@cim:IdentifiedObject.mRID": "19T000000006399M",
-    "@cim:IdentifiedObject.name": "400kV Skawina-Tarnow",
+    "@cim:IdentifiedObject.name": "Skawina-Tarnów",
     "@cim:Names.name": [
         "G008",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-17",
+    "@cim:DateAndOrTime.date": "2020-06-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

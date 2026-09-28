@@ -12,22 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:29XTHESSALPOWERA",
-    "@skos:prefLabel": "ENERWAVE SOCIETE ANONYME",
-    "@skos:altLabel": "ENERWAVE",
+    "@skos:prefLabel": "ELPEDISON ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+    "@skos:altLabel": "ELPEDISON",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party, Producer, Trade Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "29XTHESSALPOWERA",
-    "@cim:IdentifiedObject.name": "ENERWAVE SOCIETE ANONYME",
+    "@cim:IdentifiedObject.name": "ELPEDISON ΠΑΡΑΓΩΓΗ ΗΛΕΚΤΡΙΚΗΣ ΕΝΕΡΓΕΙΑΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
     "@cim:Names.name": [
-        "ENERWAVE",
-        "A0002988W.GR",
+        "ELPEDISON",
         "EL999717970",
         "Balance Responsible Party",
-        "Energy Supplier",
-        "Producer",
-        "Energy Trader"
+        "Trade Responsible Party",
+        "Producer"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party, Producer, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-08",
+    "@cim:DateAndOrTime.date": "2015-09-02",
     "@schema:vatID": "EL999717970",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

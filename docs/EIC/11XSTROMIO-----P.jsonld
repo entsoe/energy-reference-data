@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSTROMIO-----P",
-    "@skos:prefLabel": "Grünwelt Energie Stromversorgungsgesellschaft mbH",
+    "@skos:prefLabel": "Stromio GmbH",
     "@skos:altLabel": "STROMIO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Group"
+    },
     "@cim:IdentifiedObject.mRID": "11XSTROMIO-----P",
-    "@cim:IdentifiedObject.name": "Grünwelt Energie Stromversorgungsgesellschaft mbH",
+    "@cim:IdentifiedObject.name": "Stromio GmbH",
     "@cim:Names.name": [
         "STROMIO",
         "DE815091293",
-        "Balance Responsible Party"
+        "Balance Group"
     ],
+    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-07-21",
+    "@cim:DateAndOrTime.date": "2013-02-27",
     "@schema:vatID": "DE815091293",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

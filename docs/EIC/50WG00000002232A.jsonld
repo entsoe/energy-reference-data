@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002232A",
     "@skos:prefLabel": "LISLEVATG1      HYDRO",
-    "@skos:altLabel": "NO-LISLEVATG1",
+    "@skos:altLabel": "NO-LISLEVATG1___",
     "@cim:IdentifiedObject.mRID": "50WG00000002232A",
     "@cim:IdentifiedObject.name": "LISLEVATG1      HYDRO",
     "@cim:Names.name": [
-        "NO-LISLEVATG1",
+        "NO-LISLEVATG1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

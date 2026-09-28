@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XRESI-EON-WW-K",
-    "@skos:prefLabel": "Westfalen Weser Netz GmbH",
+    "@skos:prefLabel": "Westfalen Weser Netz AG",
     "@skos:altLabel": "EWA-RESI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Group"
+    },
     "@cim:IdentifiedObject.mRID": "11XRESI-EON-WW-K",
-    "@cim:IdentifiedObject.name": "Westfalen Weser Netz GmbH",
+    "@cim:IdentifiedObject.name": "Westfalen Weser Netz AG",
     "@cim:Names.name": [
         "EWA-RESI",
         "DE126229505",
-        "Trade Responsible Party"
+        "Balance Group"
     ],
+    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-19",
+    "@cim:DateAndOrTime.date": "2013-11-06",
     "@schema:vatID": "DE126229505",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

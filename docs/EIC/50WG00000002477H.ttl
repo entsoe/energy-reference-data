@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002477H" ;
     cim:IdentifiedObject.name "ROD     G112 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-RODG112" ;
+        "NO-ROD_____G112_" ;
     dcterms:identifier "urn:eic:50WG00000002477H" ;
-    skos:altLabel "NO-RODG112" ;
+    skos:altLabel "NO-ROD_____G112_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ROD     G112 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

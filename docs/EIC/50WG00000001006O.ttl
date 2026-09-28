@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001006O" ;
-    cim:IdentifiedObject.name "MIDTFJELG2      WIND" ;
+    cim:IdentifiedObject.name "LYSEBOTNG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MIDTFJELG2" ;
+        "NO-LYSEBOTNG2___" ;
     dcterms:identifier "urn:eic:50WG00000001006O" ;
-    skos:altLabel "NO-MIDTFJELG2" ;
+    skos:altLabel "NO-LYSEBOTNG2___" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MIDTFJELG2      WIND" ;
+    skos:prefLabel "LYSEBOTNG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

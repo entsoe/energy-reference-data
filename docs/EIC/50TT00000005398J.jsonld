@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005398J",
     "@skos:prefLabel": "N Neiden   T1 Transformator",
-    "@skos:altLabel": "NO-NEIDENT1",
+    "@skos:altLabel": "NO-NEIDEN__T1",
     "@cim:IdentifiedObject.mRID": "50TT00000005398J",
     "@cim:IdentifiedObject.name": "N Neiden   T1 Transformator",
     "@cim:Names.name": [
-        "NO-NEIDENT1",
+        "NO-NEIDEN__T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-03-28" ;
+    cim:DateAndOrTime.date "2020-11-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XCORRENTESK--6" ;
-    cim:IdentifiedObject.name "TRADEN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "ENTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SP. K" ;
     cim:Names.name "Balance Responsible Party",
-        "PL1182112454",
-        "TRADEN_PL" ;
+        "ENTRADESPK_PL",
+        "PL1182112454" ;
     dcterms:identifier "urn:eic:19XCORRENTESK--6" ;
     schema1:vatID "PL1182112454" ;
-    skos:altLabel "TRADEN_PL" ;
+    skos:altLabel "ENTRADESPK_PL" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TRADEN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "ENTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SP. K" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

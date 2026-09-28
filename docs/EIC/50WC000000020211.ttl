@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000020211" ;
-    cim:IdentifiedObject.name "S Sogndal  2   L1  Forbruk" ;
+    cim:IdentifiedObject.name "Hydro Aluminium Årdal" ;
     cim:Names.name "Load",
-        "NO-SOGNDAL2" ;
+        "NO-HYDROALUARDAL" ;
     dcterms:identifier "urn:eic:50WC000000020211" ;
-    skos:altLabel "NO-SOGNDAL2" ;
+    skos:altLabel "NO-HYDROALUARDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Sogndal  2   L1  Forbruk" ;
+    skos:prefLabel "Hydro Aluminium Årdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

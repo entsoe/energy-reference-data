@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22W20231026----X",
-    "@skos:prefLabel": "LUMINUS  SERAING ST2",
-    "@skos:altLabel": "BE_GU_SERAINGST2",
+    "@skos:prefLabel": "Seraing ST",
+    "@skos:altLabel": "BE_GU_SERAING_ST",
     "@cim:IdentifiedObject.mRID": "22W20231026----X",
-    "@cim:IdentifiedObject.name": "LUMINUS  SERAING ST2",
+    "@cim:IdentifiedObject.name": "Seraing ST",
     "@cim:Names.name": [
-        "BE_GU_SERAINGST2",
+        "BE_GU_SERAING_ST",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-02",
+    "@cim:DateAndOrTime.date": "2023-10-27",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

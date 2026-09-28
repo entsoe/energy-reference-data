@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XAPOLO-12345-3",
     "@skos:prefLabel": "APOLOCUATRO S.L",
     "@skos:altLabel": "APOLO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XAPOLO-12345-3",
     "@cim:IdentifiedObject.name": "APOLOCUATRO S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB22245690",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-04-04",
     "@schema:vatID": "ESB22245690",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X00000000003EV",
     "@skos:prefLabel": "CENTRAL DE FRANQUICIAS EL RINCON S.L",
     "@skos:altLabel": "CFRAN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X00000000003EV",
     "@cim:IdentifiedObject.name": "CENTRAL DE FRANQUICIAS EL RINCON S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB50754597",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-06-14",
     "@schema:vatID": "ESB50754597",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

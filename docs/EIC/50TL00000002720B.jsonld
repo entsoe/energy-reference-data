@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002720B",
-    "@skos:prefLabel": "S 22 Ertsmyra-Osen",
-    "@skos:altLabel": "NO-22ERTSOSEN",
+    "@skos:prefLabel": "S 22 Finså-Osen",
+    "@skos:altLabel": "NO-FINSAOSEN",
     "@cim:IdentifiedObject.mRID": "50TL00000002720B",
-    "@cim:IdentifiedObject.name": "S 22 Ertsmyra-Osen",
+    "@cim:IdentifiedObject.name": "S 22 Finså-Osen",
     "@cim:Names.name": [
-        "NO-22ERTSOSEN",
+        "NO-FINSAOSEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

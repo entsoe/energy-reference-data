@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/42X-BULKCOM----0> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-05-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&SID=2&P=0&lan=en) and has applied for the EU VAT code on 5th of May 2023." ;
+    cim:IdentifiedObject.mRID "42X-BULKCOM----0" ;
+    cim:IdentifiedObject.name "Bulkcom s.r.o." ;
+    cim:Names.name "54705444",
+        "BULKOM",
+        "Energy Supplier",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:42X-BULKCOM----0" ;
+    schema1:vatID "54705444" ;
+    skos:altLabel "BULKOM" ;
+    skos:definition "The company does not have a valit EU VAT code yet. The company is registered in Business Register of Slovakia under ID 54 705 444 (https://www.orsr.sk/vypis.asp?ID=641955&SID=2&P=0&lan=en) and has applied for the EU VAT code on 5th of May 2023."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bulkcom s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

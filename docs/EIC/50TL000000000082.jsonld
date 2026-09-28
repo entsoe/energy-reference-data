@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000000082",
     "@skos:prefLabel": "S 110 Ålefjær-Timenes",
-    "@skos:altLabel": "NO-110ALEFJARTIM",
+    "@skos:altLabel": "NO-ALEFJARTIMENE",
     "@cim:IdentifiedObject.mRID": "50TL000000000082",
     "@cim:IdentifiedObject.name": "S 110 Ålefjær-Timenes",
     "@cim:Names.name": [
-        "NO-110ALEFJARTIM",
+        "NO-ALEFJARTIMENE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

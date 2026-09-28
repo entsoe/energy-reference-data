@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "WVAG-SBK002",
         "DE114230598",
-        "Balance Responsible Party"
+        "Balance Group"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-03",
+    "@cim:DateAndOrTime.date": "2011-05-10",
     "@schema:vatID": "DE114230598",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

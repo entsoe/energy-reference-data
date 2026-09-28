@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W000000000078N",
-    "@skos:prefLabel": "UGS Haidach - SEFE Storage",
-    "@skos:altLabel": "HAIDACH-SEFE",
+    "@skos:prefLabel": "UGS Haidach - Astora",
+    "@skos:altLabel": "HAIDACH-ASTORA",
     "@cim:IdentifiedObject.mRID": "21W000000000078N",
-    "@cim:IdentifiedObject.name": "UGS Haidach - SEFE Storage",
+    "@cim:IdentifiedObject.name": "UGS Haidach - Astora",
     "@cim:Names.name": [
-        "HAIDACH-SEFE",
-        "Gas Storage Facility"
+        "HAIDACH-ASTORA",
+        "Resource Object"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-11",
+    "@cim:DateAndOrTime.date": "2019-01-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

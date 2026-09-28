@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000016905",
-    "@skos:prefLabel": "N 66 Bratsberg-Moholt",
-    "@skos:altLabel": "NO-66BRATSBERGMO",
+    "@skos:prefLabel": "M 66 Bratsberg-Moholt",
+    "@skos:altLabel": "NO-BRATSBERGMOHO",
     "@cim:IdentifiedObject.mRID": "50TLI00000016905",
-    "@cim:IdentifiedObject.name": "N 66 Bratsberg-Moholt",
+    "@cim:IdentifiedObject.name": "M 66 Bratsberg-Moholt",
     "@cim:Names.name": [
-        "NO-66BRATSBERGMO",
+        "NO-BRATSBERGMOHO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

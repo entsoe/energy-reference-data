@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000491A",
-    "@skos:prefLabel": "S 132 Merkesvik-Blomøy",
-    "@skos:altLabel": "NO-132MERKESVIKB",
+    "@skos:prefLabel": "S 132 Merkesvik-Kollsnes",
+    "@skos:altLabel": "NO-MERKESVIKKOLL",
     "@cim:IdentifiedObject.mRID": "50TL00000000491A",
-    "@cim:IdentifiedObject.name": "S 132 Merkesvik-Blomøy",
+    "@cim:IdentifiedObject.name": "S 132 Merkesvik-Kollsnes",
     "@cim:Names.name": [
-        "NO-132MERKESVIKB",
+        "NO-MERKESVIKKOLL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

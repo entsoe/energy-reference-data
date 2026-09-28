@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000029114",
     "@skos:prefLabel": "S 66 Spanne-Klovning",
-    "@skos:altLabel": "NO-66SPANNEKLOVN",
+    "@skos:altLabel": "NO-SPANNEKLOVNIN",
     "@cim:IdentifiedObject.mRID": "50TL000000029114",
     "@cim:IdentifiedObject.name": "S 66 Spanne-Klovning",
     "@cim:Names.name": [
-        "NO-66SPANNEKLOVN",
+        "NO-SPANNEKLOVNIN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

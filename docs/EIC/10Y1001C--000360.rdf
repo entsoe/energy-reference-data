@@ -12,8 +12,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-10-30</cim:DateAndOrTime.date>
-    <cim:Names.name>Border Area</cim:Names.name>
     <cim:Names.name>Metering Grid Area</cim:Names.name>
+    <cim:Names.name>Border Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

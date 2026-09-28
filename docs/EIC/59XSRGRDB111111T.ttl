@@ -11,11 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "59XSRGRDB111111T" ;
     cim:IdentifiedObject.name "SNAM RETE GAS S.P.A." ;
-    cim:Names.name "Market Operator",
-        "SRGRDB",
-        "n / a" ;
+    cim:Names.name "SRGRDB" ;
     dcterms:identifier "urn:eic:59XSRGRDB111111T" ;
-    schema1:vatID "n / a" ;
     skos:altLabel "SRGRDB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SNAM RETE GAS S.P.A." ;

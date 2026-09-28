@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XHELLO-12345-3",
     "@skos:prefLabel": "hello sales",
     "@skos:altLabel": "HELLO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XHELLO-12345-3",
     "@cim:IdentifiedObject.name": "hello sales",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB93447621",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-04-05",
     "@schema:vatID": "ESB93447621",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

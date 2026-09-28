@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP000000008678",
-    "@skos:prefLabel": "Årøy Magasin",
-    "@skos:altLabel": "NO-AROY_MAG",
+    "@skos:prefLabel": "Årøy",
+    "@skos:altLabel": "NO-AROY",
     "@cim:IdentifiedObject.mRID": "50WP000000008678",
-    "@cim:IdentifiedObject.name": "Årøy Magasin",
+    "@cim:IdentifiedObject.name": "Årøy",
     "@cim:Names.name": [
-        "NO-AROY_MAG",
+        "NO-AROY",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

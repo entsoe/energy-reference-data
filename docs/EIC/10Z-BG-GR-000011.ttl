@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-03-20" ;
+    cim:DateAndOrTime.date "2012-05-10" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Accounting Point" ;
     cim:IdentifiedObject.mRID "10Z-BG-GR-000011" ;
-    cim:IdentifiedObject.name "Blagoevgrad-Lagadas" ;
+    cim:IdentifiedObject.name "Blagoevgrad-Thessaloniki" ;
     cim:Names.name "Accounting Point",
-        "M_BLAGOE-LAGADAS" ;
+        "M_BLAGOE-THESSAL" ;
     dcterms:identifier "urn:eic:10Z-BG-GR-000011" ;
-    skos:altLabel "M_BLAGOE-LAGADAS" ;
+    skos:altLabel "M_BLAGOE-THESSAL" ;
+    skos:definition "Accounting Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Blagoevgrad-Lagadas" ;
+    skos:prefLabel "Blagoevgrad-Thessaloniki" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

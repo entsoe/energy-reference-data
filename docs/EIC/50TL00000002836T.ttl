@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002836T" ;
-    cim:IdentifiedObject.name "N 66 Holandsvika-Drevvatn" ;
+    cim:IdentifiedObject.name "M 66 Holandsvika-Drevvatn" ;
     cim:Names.name "Internal Line",
-        "NO-66HOLANDVVATN" ;
+        "NO-HOLANDDREVVAT" ;
     dcterms:identifier "urn:eic:50TL00000002836T" ;
-    skos:altLabel "NO-66HOLANDVVATN" ;
+    skos:altLabel "NO-HOLANDDREVVAT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Holandsvika-Drevvatn" ;
+    skos:prefLabel "M 66 Holandsvika-Drevvatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

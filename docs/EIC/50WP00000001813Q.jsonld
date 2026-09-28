@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001813Q",
-    "@skos:prefLabel": "Sesselva",
-    "@skos:altLabel": "NO-SESSELVA",
+    "@skos:prefLabel": "Sess",
+    "@skos:altLabel": "NO-SESS",
     "@cim:IdentifiedObject.mRID": "50WP00000001813Q",
-    "@cim:IdentifiedObject.name": "Sesselva",
+    "@cim:IdentifiedObject.name": "Sess",
     "@cim:Names.name": [
-        "NO-SESSELVA",
+        "NO-SESS",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-07",
+    "@cim:DateAndOrTime.date": "2020-06-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XVISAM-12345-9",
     "@skos:prefLabel": "SAMOYEDO, S.L.",
     "@skos:altLabel": "VISAM",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XVISAM-12345-9",
     "@cim:IdentifiedObject.name": "SAMOYEDO, S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB23533342",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2010-04-27",
     "@schema:vatID": "ESB23533342",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

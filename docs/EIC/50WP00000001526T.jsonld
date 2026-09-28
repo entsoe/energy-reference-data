@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001526T",
     "@skos:prefLabel": "Fløtre Mikrokraftv",
-    "@skos:altLabel": "NO-FLOETREMIKROK",
+    "@skos:altLabel": "NO-FLOTRE-MIKROK",
     "@cim:IdentifiedObject.mRID": "50WP00000001526T",
     "@cim:IdentifiedObject.name": "Fløtre Mikrokraftv",
     "@cim:Names.name": [
-        "NO-FLOETREMIKROK",
+        "NO-FLOTRE-MIKROK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

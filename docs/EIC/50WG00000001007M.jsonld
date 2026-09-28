@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001007M",
-    "@skos:prefLabel": "FLESAKERG119 HYDRO",
-    "@skos:altLabel": "NO-FLESAKERG119",
+    "@skos:prefLabel": "LYSEBOTNG1      HYDRO",
+    "@skos:altLabel": "NO-LYSEBOTNG1___",
     "@cim:IdentifiedObject.mRID": "50WG00000001007M",
-    "@cim:IdentifiedObject.name": "FLESAKERG119 HYDRO",
+    "@cim:IdentifiedObject.name": "LYSEBOTNG1      HYDRO",
     "@cim:Names.name": [
-        "NO-FLESAKERG119",
+        "NO-LYSEBOTNG1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

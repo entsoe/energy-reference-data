@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002880Q",
-    "@skos:prefLabel": "N 66 Belbuan-Lade",
-    "@skos:altLabel": "NO-66BELBUANLADE",
+    "@skos:prefLabel": "M 66 Belbuan-Lade",
+    "@skos:altLabel": "NO-BELBUANLADE",
     "@cim:IdentifiedObject.mRID": "50TL00000002880Q",
-    "@cim:IdentifiedObject.name": "N 66 Belbuan-Lade",
+    "@cim:IdentifiedObject.name": "M 66 Belbuan-Lade",
     "@cim:Names.name": [
-        "NO-66BELBUANLADE",
+        "NO-BELBUANLADE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-06-23" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002029M" ;
-    cim:IdentifiedObject.name "N Belbuan  66  Forbruk" ;
+    cim:IdentifiedObject.name "Husnes Hall A" ;
     cim:Names.name "Load",
-        "NO-BELBUAN66" ;
+        "NO-HUSNESHALLA" ;
     dcterms:identifier "urn:eic:50WC00000002029M" ;
-    skos:altLabel "NO-BELBUAN66" ;
+    skos:altLabel "NO-HUSNESHALLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Belbuan  66  Forbruk" ;
+    skos:prefLabel "Husnes Hall A" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

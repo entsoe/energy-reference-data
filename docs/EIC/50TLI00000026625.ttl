@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000026625" ;
-    cim:IdentifiedObject.name "N Verdal   300 Tu1 X" ;
+    cim:IdentifiedObject.name "M Verdal 300 Tu1 X" ;
     cim:Names.name "Internal Line",
-        "NO-VERDAL300TU1" ;
+        "NO-VERDAL300TU1X" ;
     dcterms:identifier "urn:eic:50TLI00000026625" ;
-    skos:altLabel "NO-VERDAL300TU1" ;
+    skos:altLabel "NO-VERDAL300TU1X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Verdal   300 Tu1 X" ;
+    skos:prefLabel "M Verdal 300 Tu1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

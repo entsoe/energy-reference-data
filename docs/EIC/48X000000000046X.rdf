@@ -13,8 +13,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2021-07-07</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Metered Data Responsible</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>345415802</schema:vatID>
   </skos:Concept>

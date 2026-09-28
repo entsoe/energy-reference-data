@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000194G",
     "@skos:prefLabel": "S 132 Dokka-Fall",
-    "@skos:altLabel": "NO-132DOKKAFALL",
+    "@skos:altLabel": "NO-DOKKAFALL",
     "@cim:IdentifiedObject.mRID": "50TL00000000194G",
     "@cim:IdentifiedObject.name": "S 132 Dokka-Fall",
     "@cim:Names.name": [
-        "NO-132DOKKAFALL",
+        "NO-DOKKAFALL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
