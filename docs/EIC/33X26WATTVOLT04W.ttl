@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-06-13" ;
+    cim:DateAndOrTime.date "2019-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "33X26WATTVOLT04W" ;
-    cim:IdentifiedObject.name "ENERJEKS DOOEL Skopje" ;
+    cim:IdentifiedObject.name "WATTANDVOLT DOOEL Skopje" ;
     cim:Names.name "4080018577559",
-        "ENERJEKS",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "WATTANDVOLT" ;
     dcterms:identifier "urn:eic:33X26WATTVOLT04W" ;
     schema1:vatID "4080018577559" ;
-    skos:altLabel "ENERJEKS" ;
+    skos:altLabel "WATTANDVOLT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENERJEKS DOOEL Skopje" ;
+    skos:prefLabel "WATTANDVOLT DOOEL Skopje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003172B",
-    "@skos:prefLabel": "N 17 Glomfjord-Fykanvann",
-    "@skos:altLabel": "NO-17GLOMFJORDFY",
+    "@skos:prefLabel": "M 17 Glomfjord-Fykanvann",
+    "@skos:altLabel": "NO-GLOMFJORDFYKA",
     "@cim:IdentifiedObject.mRID": "50TL00000003172B",
-    "@cim:IdentifiedObject.name": "N 17 Glomfjord-Fykanvann",
+    "@cim:IdentifiedObject.name": "M 17 Glomfjord-Fykanvann",
     "@cim:Names.name": [
-        "NO-17GLOMFJORDFY",
+        "NO-GLOMFJORDFYKA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000015822",
     "@skos:prefLabel": "S 50 Stokkeland-Vagle2",
-    "@skos:altLabel": "NO-50STOKKELANDV",
+    "@skos:altLabel": "NO-STOKKELANDVA2",
     "@cim:IdentifiedObject.mRID": "50TL000000015822",
     "@cim:IdentifiedObject.name": "S 50 Stokkeland-Vagle2",
     "@cim:Names.name": [
-        "NO-50STOKKELANDV",
+        "NO-STOKKELANDVA2",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-03-07",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

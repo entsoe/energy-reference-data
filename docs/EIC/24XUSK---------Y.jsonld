@@ -23,14 +23,12 @@
     "@cim:Names.name": [
         "USSKE",
         "SK2020052837",
-        "Consumer",
-        "Producer",
-        "Trade Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Consumer - Steel Making (Sk: Vyroba Ocele)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-05-14",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "SK2020052837",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

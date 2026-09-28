@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002769I",
-    "@skos:prefLabel": "N 22 Bjugn-Valsneset Vimle",
-    "@skos:altLabel": "NO-22BJUGNVALSN",
+    "@skos:prefLabel": "M 22 Valsneset-Valsneset Vimle",
+    "@skos:altLabel": "NO-VALSNESETVALS",
     "@cim:IdentifiedObject.mRID": "50TL00000002769I",
-    "@cim:IdentifiedObject.name": "N 22 Bjugn-Valsneset Vimle",
+    "@cim:IdentifiedObject.name": "M 22 Valsneset-Valsneset Vimle",
     "@cim:Names.name": [
-        "NO-22BJUGNVALSN",
+        "NO-VALSNESETVALS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

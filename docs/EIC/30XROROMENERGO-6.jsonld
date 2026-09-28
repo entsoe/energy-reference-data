@@ -22,14 +22,12 @@
     "@cim:IdentifiedObject.name": "SC ROMENERGO SA",
     "@cim:Names.name": [
         "ROMENERGO",
-        "RO2795183",
-        "Capacity Trader"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-04",
-    "@schema:vatID": "RO2795183",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

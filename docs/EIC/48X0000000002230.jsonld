@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:48X0000000002230",
-    "@skos:prefLabel": "Energy One UK ",
-    "@skos:altLabel": "ENERGY_ONE_UK",
+    "@skos:prefLabel": "Contigo",
+    "@skos:altLabel": "CONTIGO",
     "@cim:IdentifiedObject.mRID": "48X0000000002230",
-    "@cim:IdentifiedObject.name": "Energy One UK ",
+    "@cim:IdentifiedObject.name": "Contigo",
     "@cim:Names.name": [
-        "ENERGY_ONE_UK",
+        "CONTIGO",
         "GB02769279",
         "Information Provider"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-13",
+    "@cim:DateAndOrTime.date": "2018-10-30",
     "@schema:vatID": "GB02769279",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

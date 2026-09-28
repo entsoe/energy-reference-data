@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002034T",
-    "@skos:prefLabel": "N Buvika   66  RT1 Forbruk",
-    "@skos:altLabel": "NO-BUVIKA66",
+    "@skos:prefLabel": "INOVYN Norge Rafsnes",
+    "@skos:altLabel": "NO-INOVYNNORGERA",
     "@cim:IdentifiedObject.mRID": "50WC00000002034T",
-    "@cim:IdentifiedObject.name": "N Buvika   66  RT1 Forbruk",
+    "@cim:IdentifiedObject.name": "INOVYN Norge Rafsnes",
     "@cim:Names.name": [
-        "NO-BUVIKA66",
+        "NO-INOVYNNORGERA",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2022-11-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

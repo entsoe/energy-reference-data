@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XTYLMESA00007Q",
-    "@skos:prefLabel": "TEJAS BORJA SAU",
+    "@skos:prefLabel": "TEJAS Y L.DEL MEDITERRANEO, S.A.",
     "@skos:altLabel": "TYLME",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Production Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XTYLMESA00007Q",
-    "@cim:IdentifiedObject.name": "TEJAS BORJA SAU",
+    "@cim:IdentifiedObject.name": "TEJAS Y L.DEL MEDITERRANEO, S.A.",
     "@cim:Names.name": [
         "TYLME",
         "ESA46068599",
-        "Production Responsible Party"
+        "Production Responsible party"
     ],
+    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-07",
+    "@cim:DateAndOrTime.date": "2008-11-03",
     "@schema:vatID": "ESA46068599",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

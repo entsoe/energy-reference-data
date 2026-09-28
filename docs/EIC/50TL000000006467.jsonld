@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000006467",
     "@skos:prefLabel": "N 132 Skjomen-Narvik",
-    "@skos:altLabel": "NO-132SKJOMENNAR",
+    "@skos:altLabel": "NO-SKJOMENNARVIK",
     "@cim:IdentifiedObject.mRID": "50TL000000006467",
     "@cim:IdentifiedObject.name": "N 132 Skjomen-Narvik",
     "@cim:Names.name": [
-        "NO-132SKJOMENNAR",
+        "NO-SKJOMENNARVIK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002021N",
     "@skos:prefLabel": "VAMMA   G10     HYDRO",
-    "@skos:altLabel": "NO-VAMMAG10",
+    "@skos:altLabel": "NO-VAMMA___G10__",
     "@cim:IdentifiedObject.mRID": "50WG00000002021N",
     "@cim:IdentifiedObject.name": "VAMMA   G10     HYDRO",
     "@cim:Names.name": [
-        "NO-VAMMAG10",
+        "NO-VAMMA___G10__",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

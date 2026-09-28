@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002368M",
     "@skos:prefLabel": "STORELVAG2      HYDRO",
-    "@skos:altLabel": "NO-STORELVAG2",
+    "@skos:altLabel": "NO-STORELVAG2___",
     "@cim:IdentifiedObject.mRID": "50WG00000002368M",
     "@cim:IdentifiedObject.name": "STORELVAG2      HYDRO",
     "@cim:Names.name": [
-        "NO-STORELVAG2",
+        "NO-STORELVAG2___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000012167",
     "@skos:prefLabel": "Langdalselv",
-    "@skos:altLabel": "NO-LANGDALSELV",
+    "@skos:altLabel": "NO-LANGDALSELV_P",
     "@cim:IdentifiedObject.mRID": "50WP000000012167",
     "@cim:IdentifiedObject.name": "Langdalselv",
     "@cim:Names.name": [
-        "NO-LANGDALSELV",
+        "NO-LANGDALSELV_P",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

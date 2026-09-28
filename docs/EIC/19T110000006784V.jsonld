@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006784V",
-    "@skos:prefLabel": "220kV Punkt Rozgalezny XHB-Lagisza",
+    "@skos:prefLabel": "Punkt Rozgałęźny XHB-Łagisza",
     "@skos:altLabel": "3004K",
     "@cim:IdentifiedObject.mRID": "19T110000006784V",
-    "@cim:IdentifiedObject.name": "220kV Punkt Rozgalezny XHB-Lagisza",
+    "@cim:IdentifiedObject.name": "Punkt Rozgałęźny XHB-Łagisza",
     "@cim:Names.name": [
         "3004K",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-20",
+    "@cim:DateAndOrTime.date": "2021-11-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,8 +12,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-01-17</cim:DateAndOrTime.date>
-    <cim:Names.name>LNG terminal</cim:Names.name>
     <cim:Names.name>Storage Plant</cim:Names.name>
+    <cim:Names.name>LNG terminal</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001606E",
     "@skos:prefLabel": "S 50 Voss-Rognsfoss",
-    "@skos:altLabel": "NO-50VOSSROGNSFO",
+    "@skos:altLabel": "NO-VOSSROGNSFOSS",
     "@cim:IdentifiedObject.mRID": "50TL00000001606E",
     "@cim:IdentifiedObject.name": "S 50 Voss-Rognsfoss",
     "@cim:Names.name": [
-        "NO-50VOSSROGNSFO",
+        "NO-VOSSROGNSFOSS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

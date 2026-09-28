@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XENDANET-----6",
-    "@skos:prefLabel": "endanet GmbH",
+    "@skos:prefLabel": "En/Da/Net GmbH",
     "@skos:altLabel": "ENDANET",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11XENDANET-----6",
-    "@cim:IdentifiedObject.name": "endanet GmbH",
+    "@cim:IdentifiedObject.name": "En/Da/Net GmbH",
     "@cim:Names.name": [
         "ENDANET",
         "DE209329836",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-03",
+    "@cim:DateAndOrTime.date": "2016-10-26",
     "@schema:vatID": "DE209329836",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001169A",
     "@skos:prefLabel": "S 420 Bamble-Grenland",
-    "@skos:altLabel": "NO-420BAMBLEGREN",
+    "@skos:altLabel": "NO-BAMBLEGRENLAN",
     "@cim:IdentifiedObject.mRID": "50TL00000001169A",
     "@cim:IdentifiedObject.name": "S 420 Bamble-Grenland",
     "@cim:Names.name": [
-        "NO-420BAMBLEGREN",
+        "NO-BAMBLEGRENLAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

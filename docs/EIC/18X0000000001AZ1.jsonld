@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X0000000001AZ1",
     "@skos:prefLabel": "TRANSFORMADOS TORRES MARTI S.L.U",
     "@skos:altLabel": "TRANS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X0000000001AZ1",
     "@cim:IdentifiedObject.name": "TRANSFORMADOS TORRES MARTI S.L.U",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB22232490",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-10-05",
     "@schema:vatID": "ESB22232490",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

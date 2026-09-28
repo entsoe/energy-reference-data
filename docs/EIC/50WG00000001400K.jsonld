@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001400K",
-    "@skos:prefLabel": "JORDA   G1      HYDRO",
-    "@skos:altLabel": "NO-JORDAG1",
+    "@skos:prefLabel": "ROYKAS  G102 HYDRO",
+    "@skos:altLabel": "NO-ROYKAS__G102_",
     "@cim:IdentifiedObject.mRID": "50WG00000001400K",
-    "@cim:IdentifiedObject.name": "JORDA   G1      HYDRO",
+    "@cim:IdentifiedObject.name": "ROYKAS  G102 HYDRO",
     "@cim:Names.name": [
-        "NO-JORDAG1",
+        "NO-ROYKAS__G102_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-07-31",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000027435",
-    "@skos:prefLabel": "N 22 Holandsvika-Kvassteinåga",
-    "@skos:altLabel": "NO-22HOLANDSVIKA",
+    "@skos:prefLabel": "M 22 Skravlåga-Kvassteinåga",
+    "@skos:altLabel": "NO-SKRAVLAGAKVAS",
     "@cim:IdentifiedObject.mRID": "50TLI00000027435",
-    "@cim:IdentifiedObject.name": "N 22 Holandsvika-Kvassteinåga",
+    "@cim:IdentifiedObject.name": "M 22 Skravlåga-Kvassteinåga",
     "@cim:Names.name": [
-        "NO-22HOLANDSVIKA",
+        "NO-SKRAVLAGAKVAS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000002600L",
     "@skos:prefLabel": "S 420 Solberg-Brenntangen Nord Kabel X",
-    "@skos:altLabel": "NO-420SOLBEORD_X",
+    "@skos:altLabel": "NO-SOLBBRENNTANX",
     "@cim:IdentifiedObject.mRID": "50TL00000002600L",
     "@cim:IdentifiedObject.name": "S 420 Solberg-Brenntangen Nord Kabel X",
     "@cim:Names.name": [
-        "NO-420SOLBEORD_X",
+        "NO-SOLBBRENNTANX",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

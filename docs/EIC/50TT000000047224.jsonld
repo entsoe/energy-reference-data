@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000047224",
     "@skos:prefLabel": "S EVM      T11 Transformator",
-    "@skos:altLabel": "NO-EVMT11",
+    "@skos:altLabel": "NO-EVM_____T11",
     "@cim:IdentifiedObject.mRID": "50TT000000047224",
     "@cim:IdentifiedObject.name": "S EVM      T11 Transformator",
     "@cim:Names.name": [
-        "NO-EVMT11",
+        "NO-EVM_____T11",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

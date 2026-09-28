@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-04-09" ;
+    cim:DateAndOrTime.date "2021-08-30" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000002800-O" ;
     cim:IdentifiedObject.name "KW Ryburg-Schwörstadt CH" ;
-    cim:Names.name "KW-RYB-SCHW---AS",
-        "Production Unit" ;
+    cim:Names.name "Generation Unit",
+        "KW-RYB-SCHW---AS" ;
     dcterms:identifier "urn:eic:12W-0000002800-O" ;
     skos:altLabel "KW-RYB-SCHW---AS" ;
+    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KW Ryburg-Schwörstadt CH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

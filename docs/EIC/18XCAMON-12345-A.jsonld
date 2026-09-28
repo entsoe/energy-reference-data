@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XCAMON-12345-A",
     "@skos:prefLabel": "COMUNIDAD GENERAL DE USUARIOS DEL CANAL DE MONTIJO",
     "@skos:altLabel": "CAMON",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XCAMON-12345-A",
     "@cim:IdentifiedObject.name": "COMUNIDAD GENERAL DE USUARIOS DEL CANAL DE MONTIJO",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESG06525141",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-04-15",
     "@schema:vatID": "ESG06525141",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004852S",
     "@skos:prefLabel": "N Gandvik  T1 Transformator",
-    "@skos:altLabel": "NO-GANDVIKT1",
+    "@skos:altLabel": "NO-GANDVIK_T1",
     "@cim:IdentifiedObject.mRID": "50TT00000004852S",
     "@cim:IdentifiedObject.name": "N Gandvik  T1 Transformator",
     "@cim:Names.name": [
-        "NO-GANDVIKT1",
+        "NO-GANDVIK_T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

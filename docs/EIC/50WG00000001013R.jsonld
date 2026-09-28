@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001013R",
-    "@skos:prefLabel": "BESSAKERG2      WIND",
-    "@skos:altLabel": "NO-BESSAKERG2",
+    "@skos:prefLabel": "LOVENSKJG1      HYDRO",
+    "@skos:altLabel": "NO-LOVENSKJG1___",
     "@cim:IdentifiedObject.mRID": "50WG00000001013R",
-    "@cim:IdentifiedObject.name": "BESSAKERG2      WIND",
+    "@cim:IdentifiedObject.name": "LOVENSKJG1      HYDRO",
     "@cim:Names.name": [
-        "NO-BESSAKERG2",
+        "NO-LOVENSKJG1___",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-16",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

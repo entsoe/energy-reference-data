@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-04-02" ;
+    cim:DateAndOrTime.date "2021-04-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "22X20131122----9" ;
-    cim:IdentifiedObject.name "FLEXCITY BELGIUM" ;
+    cim:IdentifiedObject.name "ENERFLEXY" ;
     cim:Names.name "BE0880270050",
-        "BE_FLEXCITYBE",
+        "BE_ENERFLEXY",
         "Balance Responsible Party" ;
     dcterms:identifier "urn:eic:22X20131122----9" ;
     schema1:vatID "BE0880270050" ;
-    skos:altLabel "BE_FLEXCITYBE" ;
+    skos:altLabel "BE_ENERFLEXY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FLEXCITY BELGIUM" ;
+    skos:prefLabel "ENERFLEXY" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

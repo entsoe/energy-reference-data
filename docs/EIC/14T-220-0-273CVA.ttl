@@ -11,8 +11,7 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14T-220-0-273CVA" ;
     cim:IdentifiedObject.name "220-0-273CV" ;
-    cim:Names.name "220-0-273CV",
-        "Internal Line" ;
+    cim:Names.name "220-0-273CV" ;
     dcterms:identifier "urn:eic:14T-220-0-273CVA" ;
     skos:altLabel "220-0-273CV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-06-16" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002150C" ;
     cim:IdentifiedObject.name "ABJORA  G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ABJORAG1" ;
+        "NO-ABJORA__G1___" ;
     dcterms:identifier "urn:eic:50WG00000002150C" ;
-    skos:altLabel "NO-ABJORAG1" ;
+    skos:altLabel "NO-ABJORA__G1___" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ABJORA  G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

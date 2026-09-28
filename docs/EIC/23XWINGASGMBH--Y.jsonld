@@ -12,19 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23XWINGASGMBH--Y",
-    "@skos:prefLabel": "SEFE Energy GmbH",
-    "@skos:altLabel": "SEFE_ENERGY_GMBH",
+    "@skos:prefLabel": "Wingas GmbH",
+    "@skos:altLabel": "WINGASGMBH",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Trade Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "23XWINGASGMBH--Y",
-    "@cim:IdentifiedObject.name": "SEFE Energy GmbH",
+    "@cim:IdentifiedObject.name": "Wingas GmbH",
     "@cim:Names.name": [
-        "SEFE_ENERGY_GMBH",
+        "WINGASGMBH",
         "DE282663709",
-        "Balance Responsible Party",
         "Trade Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-04",
+    "@cim:DateAndOrTime.date": "2013-02-25",
     "@schema:vatID": "DE282663709",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

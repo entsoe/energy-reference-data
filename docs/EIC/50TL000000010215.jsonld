@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000010215",
-    "@skos:prefLabel": "S 300 Samnanger-Fana",
-    "@skos:altLabel": "NO-300SAMNANGERF",
+    "@skos:prefLabel": "S 300 Fana-Samnanger",
+    "@skos:altLabel": "NO-FANASAMNANGER",
     "@cim:IdentifiedObject.mRID": "50TL000000010215",
-    "@cim:IdentifiedObject.name": "S 300 Samnanger-Fana",
+    "@cim:IdentifiedObject.name": "S 300 Fana-Samnanger",
     "@cim:Names.name": [
-        "NO-300SAMNANGERF",
+        "NO-FANASAMNANGER",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

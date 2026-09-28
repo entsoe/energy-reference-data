@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002187Q",
-    "@skos:prefLabel": "AUSTDOLAG1      HYDRO",
-    "@skos:altLabel": "NO-AUSTDOLAG1",
+    "@skos:prefLabel": "ASEN    G103 HYDRO",
+    "@skos:altLabel": "NO-ASEN____G103_",
     "@cim:IdentifiedObject.mRID": "50WG00000002187Q",
-    "@cim:IdentifiedObject.name": "AUSTDOLAG1      HYDRO",
+    "@cim:IdentifiedObject.name": "ASEN    G103 HYDRO",
     "@cim:Names.name": [
-        "NO-AUSTDOLAG1",
+        "NO-ASEN____G103_",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-16",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

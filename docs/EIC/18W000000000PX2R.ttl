@@ -11,8 +11,7 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000PX2R" ;
     cim:IdentifiedObject.name "MASICBI" ;
-    cim:Names.name "ES-MASICBI",
-        "Production Unit" ;
+    cim:Names.name "ES-MASICBI" ;
     dcterms:identifier "urn:eic:18W000000000PX2R" ;
     skos:altLabel "ES-MASICBI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

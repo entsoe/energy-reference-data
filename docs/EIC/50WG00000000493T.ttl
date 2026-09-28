@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-04-24" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000493T" ;
-    cim:IdentifiedObject.name "SOLBJORNG102 HYDRO" ;
+    cim:IdentifiedObject.name "FYGLE   G102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SOLBJORNG102" ;
+        "NO-FYGLE___G102_" ;
     dcterms:identifier "urn:eic:50WG00000000493T" ;
-    skos:altLabel "NO-SOLBJORNG102" ;
+    skos:altLabel "NO-FYGLE___G102_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SOLBJORNG102 HYDRO" ;
+    skos:prefLabel "FYGLE   G102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

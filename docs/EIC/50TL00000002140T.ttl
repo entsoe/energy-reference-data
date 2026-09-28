@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002140T" ;
-    cim:IdentifiedObject.name "N 66 Smørfjord-Snefjord" ;
+    cim:IdentifiedObject.name "N 66 Smørfjord-Havøysund" ;
     cim:Names.name "Internal Line",
-        "NO-66SMORFJORDSN" ;
+        "NO-SMORFJORDHAVO" ;
     dcterms:identifier "urn:eic:50TL00000002140T" ;
-    skos:altLabel "NO-66SMORFJORDSN" ;
+    skos:altLabel "NO-SMORFJORDHAVO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Smørfjord-Snefjord" ;
+    skos:prefLabel "N 66 Smørfjord-Havøysund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,20 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-10-14" ;
+    cim:DateAndOrTime.date "2017-03-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Generation & Trading." ;
     cim:IdentifiedObject.mRID "19XPKESA-------Z" ;
-    cim:IdentifiedObject.name "TAURON WYTWARZANIE SPÓŁKA AKCYJNA" ;
-    cim:Names.name "A0001926A.PL",
+    cim:IdentifiedObject.name "POLUDNIOWY KONCERN ENERGETYCZNY Spolka Akcyjna" ;
+    cim:Names.name "Balance Responsible Party",
         "PKE_SA",
-        "PL6321792812",
-        "Producer" ;
+        "PL6321792812" ;
     dcterms:identifier "urn:eic:19XPKESA-------Z" ;
     schema1:vatID "PL6321792812" ;
     skos:altLabel "PKE_SA" ;
     skos:definition "Energy Generation & Trading."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TAURON WYTWARZANIE SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "POLUDNIOWY KONCERN ENERGETYCZNY Spolka Akcyjna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

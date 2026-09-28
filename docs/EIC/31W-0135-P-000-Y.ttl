@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31W-0135-P-000-Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31W-0135-P-000-Y" ;
+    cim:IdentifiedObject.name "SE PLISKOVO 35 kV" ;
+    cim:Names.name "HR-SE-PLISKOVO",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:31W-0135-P-000-Y" ;
+    skos:altLabel "HR-SE-PLISKOVO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SE PLISKOVO 35 kV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

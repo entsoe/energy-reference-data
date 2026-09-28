@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000027138",
-    "@skos:prefLabel": "N 22 Vedeld-Tenneelva",
-    "@skos:altLabel": "NO-22VEDELDTENNE",
+    "@skos:prefLabel": "M 22 Vedeld-Tenneelva",
+    "@skos:altLabel": "NO-VEDELDTENNEEL",
     "@cim:IdentifiedObject.mRID": "50TL000000027138",
-    "@cim:IdentifiedObject.name": "N 22 Vedeld-Tenneelva",
+    "@cim:IdentifiedObject.name": "M 22 Vedeld-Tenneelva",
     "@cim:Names.name": [
-        "NO-22VEDELDTENNE",
+        "NO-VEDELDTENNEEL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

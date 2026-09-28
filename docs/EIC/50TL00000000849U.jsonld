@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000849U",
-    "@skos:prefLabel": "N 22 Gjerdsvik-Gursken",
-    "@skos:altLabel": "NO-22GJERDSVIKGU",
+    "@skos:prefLabel": "M 22 Gjerdsvik-Gursken",
+    "@skos:altLabel": "NO-GJERDSVIKGURS",
     "@cim:IdentifiedObject.mRID": "50TL00000000849U",
-    "@cim:IdentifiedObject.name": "N 22 Gjerdsvik-Gursken",
+    "@cim:IdentifiedObject.name": "M 22 Gjerdsvik-Gursken",
     "@cim:Names.name": [
-        "NO-22GJERDSVIKGU",
+        "NO-GJERDSVIKGURS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

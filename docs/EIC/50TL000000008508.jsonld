@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000008508",
-    "@skos:prefLabel": "N 22 Grytdalen-Valsøyfjord",
-    "@skos:altLabel": "NO-22GRYTDALENVA",
+    "@skos:prefLabel": "M 22 Grytdalen-Valsøyfjord",
+    "@skos:altLabel": "NO-GRYTDALENVALS",
     "@cim:IdentifiedObject.mRID": "50TL000000008508",
-    "@cim:IdentifiedObject.name": "N 22 Grytdalen-Valsøyfjord",
+    "@cim:IdentifiedObject.name": "M 22 Grytdalen-Valsøyfjord",
     "@cim:Names.name": [
-        "NO-22GRYTDALENVA",
+        "NO-GRYTDALENVALS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

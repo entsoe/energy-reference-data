@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002032X" ;
-    cim:IdentifiedObject.name "N Buran    12  T2 Forbruk" ;
+    cim:IdentifiedObject.name "Eramet Kvinesdal" ;
     cim:Names.name "Load",
-        "NO-BURAN12T2" ;
+        "NO-ERAMETKVINESD" ;
     dcterms:identifier "urn:eic:50WC00000002032X" ;
-    skos:altLabel "NO-BURAN12T2" ;
+    skos:altLabel "NO-ERAMETKVINESD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Buran    12  T2 Forbruk" ;
+    skos:prefLabel "Eramet Kvinesdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

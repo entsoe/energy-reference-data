@@ -1,0 +1,21 @@
+{
+    "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.scannedThresholdMargin",
+    "@type": [
+        "@skos:Concept",
+        "@nc:PropertyReference"
+    ],
+    "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:definition": "Threshold percentage that a scanned element can be overloaded, on a given element, on top of any overload prior to optimisation (default= 5%). e.g. Initial loading of the element is 110%, with a 5% scanned threshold margin, the new maximum is 115% of the limit (e.g. PATL, TATL, etc).\nThe allowed value range is [0,100].",
+    "@skos:prefLabel": "AssessedElement.scannedThresholdMargin",
+    "@dcterms:identifier": "urn:uuid:9ad1b962-8d49-4676-9ab7-ab3b0c23f6ac",
+    "@nc:PropertyReference.name": "AssessedElement.scannedThresholdMargin",
+    "@nc:PropertyReference.mRID": "9ad1b962-8d49-4676-9ab7-ab3b0c23f6ac",
+    "@context": {
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@nc": "http://entsoe.eu/ns/nc#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@dcterms": "http://purl.org/dc/terms/#"
+    }
+}

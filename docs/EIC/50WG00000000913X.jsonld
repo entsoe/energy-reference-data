@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000913X",
-    "@skos:prefLabel": "SKODDEBEG101 HYDRO",
-    "@skos:altLabel": "NO-SKODDEBEG101",
+    "@skos:prefLabel": "KVITNES G101 HYDRO",
+    "@skos:altLabel": "NO-KVITNES_G101_",
     "@cim:IdentifiedObject.mRID": "50WG00000000913X",
-    "@cim:IdentifiedObject.name": "SKODDEBEG101 HYDRO",
+    "@cim:IdentifiedObject.name": "KVITNES G101 HYDRO",
     "@cim:Names.name": [
-        "NO-SKODDEBEG101",
+        "NO-KVITNES_G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

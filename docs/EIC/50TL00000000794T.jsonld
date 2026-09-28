@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000794T",
-    "@skos:prefLabel": "S 20  Steinsland-Åsebotn",
-    "@skos:altLabel": "NO-20STEINSLANDA",
+    "@skos:prefLabel": "S 20 Steinsland-Åsebotn",
+    "@skos:altLabel": "NO-STEINSLANDASE",
     "@cim:IdentifiedObject.mRID": "50TL00000000794T",
-    "@cim:IdentifiedObject.name": "S 20  Steinsland-Åsebotn",
+    "@cim:IdentifiedObject.name": "S 20 Steinsland-Åsebotn",
     "@cim:Names.name": [
-        "NO-20STEINSLANDA",
+        "NO-STEINSLANDASE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

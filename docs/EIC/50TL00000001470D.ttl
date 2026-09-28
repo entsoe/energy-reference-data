@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001470D" ;
-    cim:IdentifiedObject.name "S 47 T_Kambo-Moss1" ;
+    cim:IdentifiedObject.name "S 47 T_Peterson-Moss" ;
     cim:Names.name "Internal Line",
-        "NO-47T_KM_MOSS" ;
+        "NO-TPETERSONMOSS" ;
     dcterms:identifier "urn:eic:50TL00000001470D" ;
-    skos:altLabel "NO-47T_KM_MOSS" ;
+    skos:altLabel "NO-TPETERSONMOSS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 T_Kambo-Moss1" ;
+    skos:prefLabel "S 47 T_Peterson-Moss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

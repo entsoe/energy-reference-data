@@ -19,11 +19,12 @@
     "@cim:Names.name": [
         "ES-XLE",
         "ESB16821449",
-        "Trade Responsible Party"
+        "Trade Responsible Party",
+        "Capacity Trader"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-02-12",
+    "@cim:DateAndOrTime.date": "2021-09-20",
     "@schema:vatID": "ESB16821449",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

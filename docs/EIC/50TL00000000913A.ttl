@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000913A" ;
-    cim:IdentifiedObject.name "N 22 Nedre Fiskumfoss-Øvre Fiskumfoss" ;
+    cim:IdentifiedObject.name "M 22 Nedre Fiskumfoss-Øvre Fiskumfoss" ;
     cim:Names.name "Internal Line",
-        "NO-22NEDREFMFOSS" ;
+        "NO-NFISKUMFOFISK" ;
     dcterms:identifier "urn:eic:50TL00000000913A" ;
-    skos:altLabel "NO-22NEDREFMFOSS" ;
+    skos:altLabel "NO-NFISKUMFOFISK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 22 Nedre Fiskumfoss-Øvre Fiskumfoss" ;
+    skos:prefLabel "M 22 Nedre Fiskumfoss-Øvre Fiskumfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

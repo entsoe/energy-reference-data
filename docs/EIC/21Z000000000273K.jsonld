@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000273K",
-    "@skos:prefLabel": "STOGIT Adriatica",
-    "@skos:altLabel": "SSO_FACILITY",
+    "@skos:prefLabel": "EdisonStoccaggi",
+    "@skos:altLabel": "EDISONSTOCCAGGIO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Connection Point"
     },
     "@cim:IdentifiedObject.mRID": "21Z000000000273K",
-    "@cim:IdentifiedObject.name": "STOGIT Adriatica",
+    "@cim:IdentifiedObject.name": "EdisonStoccaggi",
     "@cim:Names.name": [
-        "SSO_FACILITY",
+        "EDISONSTOCCAGGIO",
         "Connection Point"
     ],
     "@cim:IdentifiedObject.description": "Connection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-20",
+    "@cim:DateAndOrTime.date": "2013-08-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

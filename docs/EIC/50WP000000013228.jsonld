@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000013228",
     "@skos:prefLabel": "Tveitafoss",
-    "@skos:altLabel": "NO-TVEITAFOSS",
+    "@skos:altLabel": "NO-TVEITAFOSS_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000013228",
     "@cim:IdentifiedObject.name": "Tveitafoss",
     "@cim:Names.name": [
-        "NO-TVEITAFOSS",
+        "NO-TVEITAFOSS_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

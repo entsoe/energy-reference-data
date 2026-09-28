@@ -12,25 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38XAJ-03300000-A",
-    "@skos:prefLabel": "Gren Tartu AS",
-    "@skos:altLabel": "EE_GREN_TARTU",
+    "@skos:prefLabel": "ANNE SOOJUS AS",
+    "@skos:altLabel": "ANNE_SOOJUS",
     "@skos:definition": {
         "@language": "en",
         "@value": "Grid Operator, Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "38XAJ-03300000-A",
-    "@cim:IdentifiedObject.name": "Gren Tartu AS",
+    "@cim:IdentifiedObject.name": "ANNE SOOJUS AS",
     "@cim:Names.name": [
-        "EE_GREN_TARTU",
-        "10641763",
-        "Grid Operator",
-        "Trade Responsible Party"
+        "ANNE_SOOJUS",
+        "EE100271810",
+        "Trade Responsible Party",
+        "Grid Operator"
     ],
     "@cim:IdentifiedObject.description": "Grid Operator, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-12-04",
-    "@schema:vatID": "10641763",
+    "@cim:DateAndOrTime.date": "2015-02-10",
+    "@schema:vatID": "EE100271810",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

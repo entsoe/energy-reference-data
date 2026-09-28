@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X0000000000208",
-    "@skos:prefLabel": "Solvay GmbH",
-    "@skos:altLabel": "SOLVAY_GMBH",
+    "@skos:prefLabel": "Solvay Chemicals GmbH",
+    "@skos:altLabel": "SOLVAYCHEMICALS",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Responsible Party"
+        "@value": "Balance Supplier"
     },
     "@cim:IdentifiedObject.mRID": "37X0000000000208",
-    "@cim:IdentifiedObject.name": "Solvay GmbH",
+    "@cim:IdentifiedObject.name": "Solvay Chemicals GmbH",
     "@cim:Names.name": [
-        "SOLVAY_GMBH",
-        "DE120955409",
-        "Balance Responsible Party"
+        "SOLVAYCHEMICALS",
+        "DE811120809",
+        "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
+    "@cim:IdentifiedObject.description": "Balance Supplier",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-05",
-    "@schema:vatID": "DE120955409",
+    "@cim:DateAndOrTime.date": "2015-09-18",
+    "@schema:vatID": "DE811120809",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

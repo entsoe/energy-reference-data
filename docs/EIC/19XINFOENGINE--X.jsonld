@@ -12,19 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XINFOENGINE--X",
-    "@skos:prefLabel": "InfoEngine Spółka Akcyjna",
-    "@skos:altLabel": "INFOENGINE_SA",
+    "@skos:prefLabel": "WSEINFOENGINE SPOLKA AKCYJNA",
+    "@skos:altLabel": "WSEINFOENGINE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "19XINFOENGINE--X",
-    "@cim:IdentifiedObject.name": "InfoEngine Spółka Akcyjna",
+    "@cim:IdentifiedObject.name": "WSEINFOENGINE SPOLKA AKCYJNA",
     "@cim:Names.name": [
-        "INFOENGINE_SA",
-        "A0001568A.PL",
+        "WSEINFOENGINE",
         "PL5262753803",
-        "Market Operator"
+        "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-06-26",
+    "@cim:DateAndOrTime.date": "2013-08-10",
     "@schema:vatID": "PL5262753803",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

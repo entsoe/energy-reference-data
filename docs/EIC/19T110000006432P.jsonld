@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006432P",
-    "@skos:prefLabel": "400kV Gdansk Przyjazn-Zydowo Kierzkowo",
+    "@skos:prefLabel": "Żydowo Kierzkowo – Gdańsk Przyjaźń",
     "@skos:altLabel": "N010",
     "@cim:IdentifiedObject.mRID": "19T110000006432P",
-    "@cim:IdentifiedObject.name": "400kV Gdansk Przyjazn-Zydowo Kierzkowo",
+    "@cim:IdentifiedObject.name": "Żydowo Kierzkowo – Gdańsk Przyjaźń",
     "@cim:Names.name": [
         "N010",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-17",
+    "@cim:DateAndOrTime.date": "2020-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

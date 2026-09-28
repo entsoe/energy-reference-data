@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000591T",
-    "@skos:prefLabel": "SKONNINGG1      HYDRO",
-    "@skos:altLabel": "NO-SKONNINGG1",
+    "@skos:prefLabel": "HALDEN  G101 HYDRO",
+    "@skos:altLabel": "NO-HALDEN__G101_",
     "@cim:IdentifiedObject.mRID": "50WG00000000591T",
-    "@cim:IdentifiedObject.name": "SKONNINGG1      HYDRO",
+    "@cim:IdentifiedObject.name": "HALDEN  G101 HYDRO",
     "@cim:Names.name": [
-        "NO-SKONNINGG1",
+        "NO-HALDEN__G101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000557T",
     "@skos:prefLabel": "GRYTTEN G109 HYDRO",
-    "@skos:altLabel": "NO-GRYTTENG109",
+    "@skos:altLabel": "NO-GRYTTEN_G109_",
     "@cim:IdentifiedObject.mRID": "50WG00000000557T",
     "@cim:IdentifiedObject.name": "GRYTTEN G109 HYDRO",
     "@cim:Names.name": [
-        "NO-GRYTTENG109",
+        "NO-GRYTTEN_G109_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -23,13 +23,12 @@
     "@cim:Names.name": [
         "NASDAQ_S",
         "6630001268",
-        "Balance Responsible Party",
-        "Market Operator"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party Market Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-11",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "6630001268",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,15 @@
+@prefix dcterms1: <http://purl.org/dc/terms/#> .
+@prefix nc: <http://entsoe.eu/ns/nc#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/PropertyReference/IdentifiedObject.mRID> a nc:PropertyReference,
+        skos:Concept ;
+    nc:PropertyReference.mRID "704202ac-974e-4576-a9e7-84581df72c59" ;
+    nc:PropertyReference.name "IdentifiedObject.mRID" ;
+    dcterms1:identifier "urn:uuid:704202ac-974e-4576-a9e7-84581df72c59" ;
+    skos:definition """Master resource identifier issued by a model authority. The mRID is unique within an exchange context. Global uniqueness is easily achieved by using a UUID, as specified in RFC 4122, for the mRID. The use of UUID is strongly recommended.
+For CIMXML data files in RDF syntax conforming to IEC 61970-552, the mRID is mapped to rdf:ID or rdf:about attributes that identify CIM object elements.""" ;
+    skos:inScheme "http://energy.referencedata.eu/PropertyReference" ;
+    skos:prefLabel "IdentifiedObject.mRID" ;
+    skos:topConceptOf "http://energy.referencedata.eu/PropertyReference" .
+

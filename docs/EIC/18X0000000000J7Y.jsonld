@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X0000000000J7Y",
     "@skos:prefLabel": "AREA DE SERVICIO VIRGEN DE LA PEÑA S.L",
     "@skos:altLabel": "VIRGEN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X0000000000J7Y",
     "@cim:IdentifiedObject.name": "AREA DE SERVICIO VIRGEN DE LA PEÑA S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB39499942",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-07-19",
     "@schema:vatID": "ESB39499942",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

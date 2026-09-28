@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000009165",
-    "@skos:prefLabel": "S Grønland 50  T3 Forbruk",
-    "@skos:altLabel": "NO-GRONLAND50T3",
+    "@skos:prefLabel": "S Grønland 50  Forbruk",
+    "@skos:altLabel": "NO-GRONLAND50",
     "@cim:IdentifiedObject.mRID": "50WC000000009165",
-    "@cim:IdentifiedObject.name": "S Grønland 50  T3 Forbruk",
+    "@cim:IdentifiedObject.name": "S Grønland 50  Forbruk",
     "@cim:Names.name": [
-        "NO-GRONLAND50T3",
+        "NO-GRONLAND50",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

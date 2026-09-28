@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XLEVINDPLASTIM",
     "@skos:prefLabel": "LEVANTINA INDUSTRIAL DEL PLASTICO, S.A.",
     "@skos:altLabel": "LINPL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XLEVINDPLASTIM",
     "@cim:IdentifiedObject.name": "LEVANTINA INDUSTRIAL DEL PLASTICO, S.A.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESA03220787",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-07-31",
     "@schema:vatID": "ESA03220787",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

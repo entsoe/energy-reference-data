@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:21Y000000000045A",
     "@skos:prefLabel": "Final consumers (BE) (Fluxys) Industrial clients L-zone",
     "@skos:altLabel": "FLXBELINDUST",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Aggregated Point F"
+    },
     "@cim:IdentifiedObject.mRID": "21Y000000000045A",
     "@cim:IdentifiedObject.name": "Final consumers (BE) (Fluxys) Industrial clients L-zone",
     "@cim:Names.name": [
         "FLXBELINDUST",
-        "Local Market Area"
+        "Valid EIC Function needed"
     ],
+    "@cim:IdentifiedObject.description": "Aggregated Point F",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-11",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

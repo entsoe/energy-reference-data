@@ -12,22 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X142538610000W",
-    "@skos:prefLabel": "E-GAP SRL SOCIETA' BENEFIT",
-    "@skos:altLabel": "IT-E-GAPSRLSOCIE",
+    "@skos:prefLabel": "E-GAP SRL",
+    "@skos:altLabel": "E-GAP",
     "@cim:IdentifiedObject.mRID": "26X142538610000W",
-    "@cim:IdentifiedObject.name": "E-GAP SRL SOCIETA' BENEFIT",
+    "@cim:IdentifiedObject.name": "E-GAP SRL",
     "@cim:Names.name": [
-        "IT-E-GAPSRLSOCIE",
+        "E-GAP",
         "IT14253861000",
-        "Energy Supplier",
-        "Market Operator",
-        "Producer",
-        "Storage System Operator",
-        "Balancing Service Provider"
+        "Storage System Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-18",
+    "@cim:DateAndOrTime.date": "2023-07-06",
     "@schema:vatID": "IT14253861000",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2021-02-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A0000000014082" ;
-    cim:IdentifiedObject.name "T_Haugholt" ;
-    cim:Names.name "NO-T_HAUGHOLT",
+    cim:IdentifiedObject.name "T_Holtane" ;
+    cim:Names.name "NO-T_HOLTAN",
         "Substation" ;
     dcterms:identifier "urn:eic:50A0000000014082" ;
-    skos:altLabel "NO-T_HAUGHOLT" ;
+    skos:altLabel "NO-T_HOLTAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "T_Haugholt" ;
+    skos:prefLabel "T_Holtane" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

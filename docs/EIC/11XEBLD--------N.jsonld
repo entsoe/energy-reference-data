@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:11XEBLD--------N",
     "@skos:prefLabel": "EBLD Schweiz Strom GmbH",
     "@skos:altLabel": "EBLD",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11XEBLD--------N",
     "@cim:IdentifiedObject.name": "EBLD Schweiz Strom GmbH",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "DE268638180",
         "Balance Responsible Party"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-03-31",
+    "@cim:DateAndOrTime.date": "2014-04-10",
     "@schema:vatID": "DE268638180",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:39XWIEEHUNGARIAQ",
-    "@skos:prefLabel": "SEFE Central & Eastern Europe Kft",
-    "@skos:altLabel": "SEFECEE",
+    "@skos:prefLabel": "WIEE Hungary Ltd.",
+    "@skos:altLabel": "HUFWIEE",
     "@skos:definition": {
         "@language": "en",
         "@value": "Interconnection Trade Responsible"
     },
     "@cim:IdentifiedObject.mRID": "39XWIEEHUNGARIAQ",
-    "@cim:IdentifiedObject.name": "SEFE Central & Eastern Europe Kft",
+    "@cim:IdentifiedObject.name": "WIEE Hungary Ltd.",
     "@cim:Names.name": [
-        "SEFECEE",
+        "HUFWIEE",
         "HU22916862",
         "Interconnection Trade Responsible"
     ],
     "@cim:IdentifiedObject.description": "Interconnection Trade Responsible",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-11-12",
+    "@cim:DateAndOrTime.date": "2020-01-09",
     "@schema:vatID": "HU22916862",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-06-24" ;
+    cim:DateAndOrTime.date "2016-10-18" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Virtual Trading Point" ;
     cim:IdentifiedObject.mRID "21Y000000000079U" ;
-    cim:IdentifiedObject.name "MBA group" ;
-    cim:Names.name "MBA-1",
-        "Market Area" ;
+    cim:IdentifiedObject.name "Virtual Trading Point Lithuania" ;
+    cim:Names.name "VTP-LT",
+        "Valid EIC Function needed" ;
     dcterms:identifier "urn:eic:21Y000000000079U" ;
-    skos:altLabel "MBA-1" ;
+    skos:altLabel "VTP-LT" ;
+    skos:definition "Virtual Trading Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MBA group" ;
+    skos:prefLabel "Virtual Trading Point Lithuania" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

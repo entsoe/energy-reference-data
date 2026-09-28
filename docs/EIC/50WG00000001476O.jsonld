@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001476O",
     "@skos:prefLabel": "SIMA    G1      HYDRO",
-    "@skos:altLabel": "NO-SIMAG1",
+    "@skos:altLabel": "NO-SIMA____G1___",
     "@cim:IdentifiedObject.mRID": "50WG00000001476O",
     "@cim:IdentifiedObject.name": "SIMA    G1      HYDRO",
     "@cim:Names.name": [
-        "NO-SIMAG1",
+        "NO-SIMA____G1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

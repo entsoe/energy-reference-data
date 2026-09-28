@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002015X" ;
-    cim:IdentifiedObject.name "S Holtane  2  L1 Forbruk" ;
+    cim:IdentifiedObject.name "HA-Sunndal SU3" ;
     cim:Names.name "Load",
-        "NO-HOLTANE2" ;
+        "NO-HA-SUNNDALSU3" ;
     dcterms:identifier "urn:eic:50WC00000002015X" ;
-    skos:altLabel "NO-HOLTANE2" ;
+    skos:altLabel "NO-HA-SUNNDALSU3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Holtane  2  L1 Forbruk" ;
+    skos:prefLabel "HA-Sunndal SU3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

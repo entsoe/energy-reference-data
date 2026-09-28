@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001351L",
-    "@skos:prefLabel": "S 47 KH-T-Gleng",
-    "@skos:altLabel": "NO-47KHT_GLENG",
+    "@skos:prefLabel": "S 47 KH-Gleng1",
+    "@skos:altLabel": "NO-KHGLENG1",
     "@cim:IdentifiedObject.mRID": "50TL00000001351L",
-    "@cim:IdentifiedObject.name": "S 47 KH-T-Gleng",
+    "@cim:IdentifiedObject.name": "S 47 KH-Gleng1",
     "@cim:Names.name": [
-        "NO-47KHT_GLENG",
+        "NO-KHGLENG1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

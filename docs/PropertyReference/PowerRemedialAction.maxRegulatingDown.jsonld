@@ -1,0 +1,21 @@
+{
+    "@id": "http://energy.referencedata.eu/PropertyReference/PowerRemedialAction.maxRegulatingDown",
+    "@type": [
+        "@skos:Concept",
+        "@nc:PropertyReference"
+    ],
+    "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
+    "@skos:definition": "Maximum net amount of active power that the remedial action can regulate down.",
+    "@skos:prefLabel": "PowerRemedialAction.maxRegulatingDown",
+    "@dcterms:identifier": "urn:uuid:dd5c8924-e090-4554-9fb4-5b08cf76db46",
+    "@nc:PropertyReference.name": "PowerRemedialAction.maxRegulatingDown",
+    "@nc:PropertyReference.mRID": "dd5c8924-e090-4554-9fb4-5b08cf76db46",
+    "@context": {
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@nc": "http://entsoe.eu/ns/nc#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@dcterms": "http://purl.org/dc/terms/#"
+    }
+}

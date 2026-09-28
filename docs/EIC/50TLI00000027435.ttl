@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000027435" ;
-    cim:IdentifiedObject.name "N 22 Holandsvika-Kvassteinåga" ;
+    cim:IdentifiedObject.name "M 22 Skravlåga-Kvassteinåga" ;
     cim:Names.name "Internal Line",
-        "NO-22HOLANDSVIKA" ;
+        "NO-SKRAVLAGAKVAS" ;
     dcterms:identifier "urn:eic:50TLI00000027435" ;
-    skos:altLabel "NO-22HOLANDSVIKA" ;
+    skos:altLabel "NO-SKRAVLAGAKVAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 22 Holandsvika-Kvassteinåga" ;
+    skos:prefLabel "M 22 Skravlåga-Kvassteinåga" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

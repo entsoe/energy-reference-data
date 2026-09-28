@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-03-04" ;
+    cim:DateAndOrTime.date "2022-11-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000020203" ;
-    cim:IdentifiedObject.name "S Skei     2   L1  Forbruk" ;
+    cim:IdentifiedObject.name "Troll A Electric motors and utilities" ;
     cim:Names.name "Load",
-        "NO-SKEI2" ;
+        "NO-TROLLAELECTRI" ;
     dcterms:identifier "urn:eic:50WC000000020203" ;
-    skos:altLabel "NO-SKEI2" ;
+    skos:altLabel "NO-TROLLAELECTRI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Skei     2   L1  Forbruk" ;
+    skos:prefLabel "Troll A Electric motors and utilities" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

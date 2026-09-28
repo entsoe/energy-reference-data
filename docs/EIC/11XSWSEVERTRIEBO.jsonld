@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:11XSWSEVERTRIEBO",
     "@skos:prefLabel": "SWS Energie GmbH",
     "@skos:altLabel": "SWS-ENERGIE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "11XSWSEVERTRIEBO",
     "@cim:IdentifiedObject.name": "SWS Energie GmbH",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "DE162140905",
         "Balance Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-04",
+    "@cim:DateAndOrTime.date": "2013-08-08",
     "@schema:vatID": "DE162140905",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

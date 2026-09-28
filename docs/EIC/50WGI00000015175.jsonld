@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000015175",
     "@skos:prefLabel": "SKREE   G1      HYDRO",
-    "@skos:altLabel": "NO-SKREEG1",
+    "@skos:altLabel": "NO-SKREE___G1___",
     "@cim:IdentifiedObject.mRID": "50WGI00000015175",
     "@cim:IdentifiedObject.name": "SKREE   G1      HYDRO",
     "@cim:Names.name": [
-        "NO-SKREEG1",
+        "NO-SKREE___G1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

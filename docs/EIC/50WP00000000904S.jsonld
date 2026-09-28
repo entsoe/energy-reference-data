@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000904S",
     "@skos:prefLabel": "Follsjå",
-    "@skos:altLabel": "NO-FOLLSJAA",
+    "@skos:altLabel": "NO-FOLLSJA_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000000904S",
     "@cim:IdentifiedObject.name": "Follsjå",
     "@cim:Names.name": [
-        "NO-FOLLSJAA",
+        "NO-FOLLSJA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

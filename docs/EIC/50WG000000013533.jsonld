@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000013533",
-    "@skos:prefLabel": "FOSSUM  G1      HYDRO",
-    "@skos:altLabel": "NO-FOSSUMG1",
+    "@skos:prefLabel": "ROD     G103 HYDRO",
+    "@skos:altLabel": "NO-ROD_____G103_",
     "@cim:IdentifiedObject.mRID": "50WG000000013533",
-    "@cim:IdentifiedObject.name": "FOSSUM  G1      HYDRO",
+    "@cim:IdentifiedObject.name": "ROD     G103 HYDRO",
     "@cim:Names.name": [
-        "NO-FOSSUMG1",
+        "NO-ROD_____G103_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10T-BG-GR-00001B",
-    "@skos:prefLabel": "Blagoevgrad-Lagadas",
-    "@skos:altLabel": "L_BLAGOE-LAGADAS",
+    "@skos:prefLabel": "Blagoevgrad-Thessaloniki",
+    "@skos:altLabel": "L_BLAGOE-THESSAL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Tieline"
+    },
     "@cim:IdentifiedObject.mRID": "10T-BG-GR-00001B",
-    "@cim:IdentifiedObject.name": "Blagoevgrad-Lagadas",
+    "@cim:IdentifiedObject.name": "Blagoevgrad-Thessaloniki",
     "@cim:Names.name": [
-        "L_BLAGOE-LAGADAS",
+        "L_BLAGOE-THESSAL",
         "Tieline"
     ],
+    "@cim:IdentifiedObject.description": "Tieline",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-20",
+    "@cim:DateAndOrTime.date": "2012-04-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

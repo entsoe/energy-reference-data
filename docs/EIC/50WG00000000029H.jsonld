@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000029H",
-    "@skos:prefLabel": "JORUNDLAG103 HYDRO",
-    "@skos:altLabel": "NO-JORUNDLAG103",
+    "@skos:prefLabel": "MONEHAGEG103 HYDRO",
+    "@skos:altLabel": "NO-MONEHAGEG103_",
     "@cim:IdentifiedObject.mRID": "50WG00000000029H",
-    "@cim:IdentifiedObject.name": "JORUNDLAG103 HYDRO",
+    "@cim:IdentifiedObject.name": "MONEHAGEG103 HYDRO",
     "@cim:Names.name": [
-        "NO-JORUNDLAG103",
+        "NO-MONEHAGEG103_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

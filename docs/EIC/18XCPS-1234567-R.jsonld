@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XCPS-1234567-R",
     "@skos:prefLabel": "CPS",
     "@skos:altLabel": "CPS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XCPS-1234567-R",
     "@cim:IdentifiedObject.name": "CPS",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB32395550",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-05-07",
     "@schema:vatID": "ESB32395550",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

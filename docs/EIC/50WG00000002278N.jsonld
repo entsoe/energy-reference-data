@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002278N",
     "@skos:prefLabel": "BERGSELVG1      HYDRO",
-    "@skos:altLabel": "NO-BERGSELVG1",
+    "@skos:altLabel": "NO-BERGSELVG1___",
     "@cim:IdentifiedObject.mRID": "50WG00000002278N",
     "@cim:IdentifiedObject.name": "BERGSELVG1      HYDRO",
     "@cim:Names.name": [
-        "NO-BERGSELVG1",
+        "NO-BERGSELVG1___",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-16",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

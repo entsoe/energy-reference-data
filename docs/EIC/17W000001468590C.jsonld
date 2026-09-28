@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W000001468590C",
-    "@skos:prefLabel": "COGENERATION NORMANDIE (AMFARD) TRAIN 15",
-    "@skos:altLabel": "FR_T-AMFAR15-G",
+    "@skos:prefLabel": "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN / TRAIN 15",
+    "@skos:altLabel": "FR_TERF_CGRN_T15",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Nouveau code EIC demandé pour GU2 pour le train 2 (15) de la cogénération de la raffinerie de Normandie. Name change"
+        "@value": "Nouveau code EIC demandé pour GU2 pour le train 2 (15) de la cogénération de la raffinerie de Normandie"
     },
     "@cim:IdentifiedObject.mRID": "17W000001468590C",
-    "@cim:IdentifiedObject.name": "COGENERATION NORMANDIE (AMFARD) TRAIN 15",
+    "@cim:IdentifiedObject.name": "TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN / TRAIN 15",
     "@cim:Names.name": [
-        "FR_T-AMFAR15-G",
+        "FR_TERF_CGRN_T15",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Nouveau code EIC demandé pour GU2 pour le train 2 (15) de la cogénération de la raffinerie de Normandie. Name change",
+    "@cim:IdentifiedObject.description": "Nouveau code EIC demandé pour GU2 pour le train 2 (15) de la cogénération de la raffinerie de Normandie",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-01-19",
+    "@cim:DateAndOrTime.date": "2023-02-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

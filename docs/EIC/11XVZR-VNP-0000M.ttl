@@ -7,16 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-11-07" ;
+    cim:DateAndOrTime.date "2012-10-10" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVZR-VNP-0000M" ;
     cim:IdentifiedObject.name "Verteilnetz Plauen GmbH" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Balance Group",
         "DE274233514",
         "VNP" ;
     dcterms:identifier "urn:eic:11XVZR-VNP-0000M" ;
     schema1:vatID "DE274233514" ;
     skos:altLabel "VNP" ;
+    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Verteilnetz Plauen GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001388F",
     "@skos:prefLabel": "Skjærlivatn",
-    "@skos:altLabel": "NO-SKJAERLIVATN",
+    "@skos:altLabel": "NO-SKJARLIVATN_P",
     "@cim:IdentifiedObject.mRID": "50WP00000001388F",
     "@cim:IdentifiedObject.name": "Skjærlivatn",
     "@cim:Names.name": [
-        "NO-SKJAERLIVATN",
+        "NO-SKJARLIVATN_P",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

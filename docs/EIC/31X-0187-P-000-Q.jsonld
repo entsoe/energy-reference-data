@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:31X-0187-P-000-Q",
-    "@skos:prefLabel": "RST Energy d.o.o.",
-    "@skos:altLabel": "HR-RST-ENERGY",
+    "@skos:prefLabel": "LIKA ENERGO EKO d.o.o.",
+    "@skos:altLabel": "HR-LIKA-ENER-EKO",
     "@cim:IdentifiedObject.mRID": "31X-0187-P-000-Q",
-    "@cim:IdentifiedObject.name": "RST Energy d.o.o.",
+    "@cim:IdentifiedObject.name": "LIKA ENERGO EKO d.o.o.",
     "@cim:Names.name": [
-        "HR-RST-ENERGY",
+        "HR-LIKA-ENER-EKO",
         "HR84637584071",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-07-04",
+    "@cim:DateAndOrTime.date": "2022-09-09",
     "@schema:vatID": "HR84637584071",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

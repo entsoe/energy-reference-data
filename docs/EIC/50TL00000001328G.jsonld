@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001328G",
-    "@skos:prefLabel": "S 47 Gleng-T-Gleng",
-    "@skos:altLabel": "NO-47GLENGT_GLEN",
+    "@skos:prefLabel": "S 47 Gleng-Borregå2",
+    "@skos:altLabel": "NO-GLENGBORREGA2",
     "@cim:IdentifiedObject.mRID": "50TL00000001328G",
-    "@cim:IdentifiedObject.name": "S 47 Gleng-T-Gleng",
+    "@cim:IdentifiedObject.name": "S 47 Gleng-Borregå2",
     "@cim:Names.name": [
-        "NO-47GLENGT_GLEN",
+        "NO-GLENGBORREGA2",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

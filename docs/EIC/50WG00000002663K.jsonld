@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002663K",
-    "@skos:prefLabel": "IMSLAND G104 HYDRO",
-    "@skos:altLabel": "NO-IMSLANDG104",
+    "@skos:prefLabel": "SAURDAL G104 HYDRO",
+    "@skos:altLabel": "NO-SAURDAL_G104_",
     "@cim:IdentifiedObject.mRID": "50WG00000002663K",
-    "@cim:IdentifiedObject.name": "IMSLAND G104 HYDRO",
+    "@cim:IdentifiedObject.name": "SAURDAL G104 HYDRO",
     "@cim:Names.name": [
-        "NO-IMSLANDG104",
+        "NO-SAURDAL_G104_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

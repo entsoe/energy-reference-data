@@ -12,19 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XEW-FISCHER--I",
-    "@skos:prefLabel": "FischerStrom GmbH & Co. KG",
+    "@skos:prefLabel": "FischerStrom KG",
     "@skos:altLabel": "E-WERK-FISCHER",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Group"
+    },
     "@cim:IdentifiedObject.mRID": "11XEW-FISCHER--I",
-    "@cim:IdentifiedObject.name": "FischerStrom GmbH & Co. KG",
+    "@cim:IdentifiedObject.name": "FischerStrom KG",
     "@cim:Names.name": [
         "E-WERK-FISCHER",
-        "DE247338562",
-        "Balance Responsible Party"
+        "15621720535",
+        "Balance Group"
     ],
+    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-06-24",
-    "@schema:vatID": "DE247338562",
+    "@cim:DateAndOrTime.date": "2017-08-21",
+    "@schema:vatID": "15621720535",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

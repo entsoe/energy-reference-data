@@ -11,8 +11,7 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11Y0-0000-0825-6" ;
     cim:IdentifiedObject.name "International" ;
-    cim:Names.name "Balance Group",
-        "INTERNATIONAL" ;
+    cim:Names.name "INTERNATIONAL" ;
     dcterms:identifier "urn:eic:11Y0-0000-0825-6" ;
     skos:altLabel "INTERNATIONAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

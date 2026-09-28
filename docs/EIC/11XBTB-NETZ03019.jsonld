@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XBTB-NETZ03019",
-    "@skos:prefLabel": "BTB Energie GmbH",
+    "@skos:prefLabel": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
     "@skos:altLabel": "BTB_BERLIN",
     "@cim:IdentifiedObject.mRID": "11XBTB-NETZ03019",
-    "@cim:IdentifiedObject.name": "BTB Energie GmbH",
+    "@cim:IdentifiedObject.name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
     "@cim:Names.name": [
         "BTB_BERLIN",
         "DE136561825",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-07-03",
+    "@cim:DateAndOrTime.date": "2023-05-11",
     "@schema:vatID": "DE136561825",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

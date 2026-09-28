@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000001305" ;
     cim:IdentifiedObject.name "S 132 Åsnes-Kongsvinger" ;
     cim:Names.name "Internal Line",
-        "NO-132ASNESKONGS" ;
+        "NO-ASNESKONGSVIN" ;
     dcterms:identifier "urn:eic:50TL000000001305" ;
-    skos:altLabel "NO-132ASNESKONGS" ;
+    skos:altLabel "NO-ASNESKONGSVIN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Åsnes-Kongsvinger" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XINIPE-12345-2",
     "@skos:prefLabel": "INIPEL S.L.",
     "@skos:altLabel": "INIPE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XINIPE-12345-2",
     "@cim:IdentifiedObject.name": "INIPEL S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB30302855",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2013-04-29",
     "@schema:vatID": "ESB30302855",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

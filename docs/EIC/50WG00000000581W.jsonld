@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000581W",
-    "@skos:prefLabel": "OVRE_SVUG101 HYDRO",
-    "@skos:altLabel": "NO-OVRE_SVUG101",
+    "@skos:prefLabel": "H_HOYANGG101 HYDRO",
+    "@skos:altLabel": "NO-H_HOYANGG101_",
     "@cim:IdentifiedObject.mRID": "50WG00000000581W",
-    "@cim:IdentifiedObject.name": "OVRE_SVUG101 HYDRO",
+    "@cim:IdentifiedObject.name": "H_HOYANGG101 HYDRO",
     "@cim:Names.name": [
-        "NO-OVRE_SVUG101",
+        "NO-H_HOYANGG101_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

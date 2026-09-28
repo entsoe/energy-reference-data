@@ -12,18 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10Y1001A1001A94A",
-    "@skos:prefLabel": "Baltic Area",
+    "@skos:prefLabel": "Synchronous area of Baltic states",
     "@skos:altLabel": "SYN_BALTICS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Synchronous Area"
+    },
     "@cim:IdentifiedObject.mRID": "10Y1001A1001A94A",
-    "@cim:IdentifiedObject.name": "Baltic Area",
+    "@cim:IdentifiedObject.name": "Synchronous area of Baltic states",
     "@cim:Names.name": [
         "SYN_BALTICS",
         "LFC Area",
-        "LFC Block"
+        "LFC Block",
+        "Synchronous Area"
     ],
+    "@cim:IdentifiedObject.description": "Synchronous Area",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-02-19",
+    "@cim:DateAndOrTime.date": "2022-09-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

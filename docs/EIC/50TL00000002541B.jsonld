@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002541B",
-    "@skos:prefLabel": "N 420 Ålfoten-Moskog",
-    "@skos:altLabel": "NO-420ALFOTENMOS",
+    "@skos:prefLabel": "S 420 Ålfoten-Moskog",
+    "@skos:altLabel": "NO-ALFOTENMOSKOG",
     "@cim:IdentifiedObject.mRID": "50TL00000002541B",
-    "@cim:IdentifiedObject.name": "N 420 Ålfoten-Moskog",
+    "@cim:IdentifiedObject.name": "S 420 Ålfoten-Moskog",
     "@cim:Names.name": [
-        "NO-420ALFOTENMOS",
+        "NO-ALFOTENMOSKOG",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -15,8 +15,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-07-12</cim:DateAndOrTime.date>
-    <cim:Names.name>Capacity Trader</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE307856352</schema:vatID>
   </skos:Concept>

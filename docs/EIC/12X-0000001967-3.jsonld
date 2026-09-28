@@ -16,21 +16,21 @@
     "@skos:altLabel": "TRAFIGURA-ST",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Network User, Transmission Capacity Allocator"
+        "@value": "Balance Group Responsible Party, Network User, Transmission Capacity Allocator"
     },
     "@cim:IdentifiedObject.mRID": "12X-0000001967-3",
     "@cim:IdentifiedObject.name": "Trafigura Trading (Europe) Sàrl",
     "@cim:Names.name": [
         "TRAFIGURA-ST",
         "CHE116301376",
+        "Trade Responsible Party",
         "Balance Responsible Party",
-        "Capacity Trader",
-        "Trade Responsible Party"
+        "Balance Group Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Network User, Transmission Capacity Allocator",
+    "@cim:IdentifiedObject.description": "Balance Group Responsible Party, Network User, Transmission Capacity Allocator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-01-22",
+    "@cim:DateAndOrTime.date": "2023-03-09",
     "@schema:vatID": "CHE116301376",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -11,8 +11,7 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11T0-0000-1379-Q" ;
     cim:IdentifiedObject.name "TTG / 380kV / Dörpen West - Y-Niederlange / Emsland Ost-Weiss" ;
-    cim:Names.name "EMSLDOW-DOERPENW",
-        "Internal Line" ;
+    cim:Names.name "EMSLDOW-DOERPENW" ;
     dcterms:identifier "urn:eic:11T0-0000-1379-Q" ;
     skos:altLabel "EMSLDOW-DOERPENW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

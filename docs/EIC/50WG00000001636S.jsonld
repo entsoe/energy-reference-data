@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001636S",
-    "@skos:prefLabel": "OVREBO  G166 HYDRO",
-    "@skos:altLabel": "NO-OVREBOG166",
+    "@skos:prefLabel": "MOSKOG  G166 HYDRO",
+    "@skos:altLabel": "NO-MOSKOG__G166_",
     "@cim:IdentifiedObject.mRID": "50WG00000001636S",
-    "@cim:IdentifiedObject.name": "OVREBO  G166 HYDRO",
+    "@cim:IdentifiedObject.name": "MOSKOG  G166 HYDRO",
     "@cim:Names.name": [
-        "NO-OVREBOG166",
+        "NO-MOSKOG__G166_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

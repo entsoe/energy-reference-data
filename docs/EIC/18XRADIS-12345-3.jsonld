@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XRADIS-12345-3",
     "@skos:prefLabel": "ELECTRONICOS RADISA, S.L.",
     "@skos:altLabel": "RADIS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XRADIS-12345-3",
     "@cim:IdentifiedObject.name": "ELECTRONICOS RADISA, S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB37337268",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-10-09",
     "@schema:vatID": "ESB37337268",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

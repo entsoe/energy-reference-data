@@ -12,8 +12,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-03-22</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Plant</cim:Names.name>
     <cim:Names.name>Resource Object</cim:Names.name>
+    <cim:Names.name>Production Plant</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000409M",
-    "@skos:prefLabel": "S Rønn SKK 132 Ro2 Industri",
-    "@skos:altLabel": "NO-RONNSKK132RO2",
+    "@skos:prefLabel": "S Rønn SKK 132 Industri",
+    "@skos:altLabel": "NO-RONNINGEN_SKK",
     "@cim:IdentifiedObject.mRID": "50WC00000000409M",
-    "@cim:IdentifiedObject.name": "S Rønn SKK 132 Ro2 Industri",
+    "@cim:IdentifiedObject.name": "S Rønn SKK 132 Industri",
     "@cim:Names.name": [
-        "NO-RONNSKK132RO2",
+        "NO-RONNINGEN_SKK",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

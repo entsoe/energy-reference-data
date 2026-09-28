@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000010385",
     "@skos:prefLabel": "Svatsum 2",
-    "@skos:altLabel": "NO-SVATSUM2",
+    "@skos:altLabel": "NO-SVATSUM-2_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000010385",
     "@cim:IdentifiedObject.name": "Svatsum 2",
     "@cim:Names.name": [
-        "NO-SVATSUM2",
+        "NO-SVATSUM-2_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

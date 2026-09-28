@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XAQUAGESTAST1L",
     "@skos:prefLabel": "aquagest ptfa s.a",
     "@skos:altLabel": "AQU",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XAQUAGESTAST1L",
     "@cim:IdentifiedObject.name": "aquagest ptfa s.a",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESA28220606",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2013-11-21",
     "@schema:vatID": "ESA28220606",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

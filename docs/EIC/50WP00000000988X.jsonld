@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000988X",
-    "@skos:prefLabel": "Meisal Elv",
-    "@skos:altLabel": "NO-MEISAL_ELV",
+    "@skos:prefLabel": "Meisal",
+    "@skos:altLabel": "NO-MEISAL_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000000988X",
-    "@cim:IdentifiedObject.name": "Meisal Elv",
+    "@cim:IdentifiedObject.name": "Meisal",
     "@cim:Names.name": [
-        "NO-MEISAL_ELV",
+        "NO-MEISAL_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

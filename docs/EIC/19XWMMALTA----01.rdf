@@ -14,8 +14,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-03-13</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6292248855</schema:vatID>
   </skos:Concept>

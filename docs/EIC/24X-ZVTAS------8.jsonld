@@ -23,14 +23,12 @@
     "@cim:Names.name": [
         "ZVTAS",
         "SK2020070030",
-        "Energy Supplier",
-        "Producer",
-        "Trade Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Function Missing",
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-05-21",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "SK2020070030",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

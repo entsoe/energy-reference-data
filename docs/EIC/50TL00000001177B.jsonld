@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001177B",
     "@skos:prefLabel": "S 420 Grenland-Rød",
-    "@skos:altLabel": "NO-420GRENLANDRO",
+    "@skos:altLabel": "NO-GRENLANDROD",
     "@cim:IdentifiedObject.mRID": "50TL00000001177B",
     "@cim:IdentifiedObject.name": "S 420 Grenland-Rød",
     "@cim:Names.name": [
-        "NO-420GRENLANDRO",
+        "NO-GRENLANDROD",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

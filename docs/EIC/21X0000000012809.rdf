@@ -15,8 +15,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2014-01-13</cim:DateAndOrTime.date>
-    <cim:Names.name>Consumer</cim:Names.name>
     <cim:Names.name>Party Connected To Grid</cim:Names.name>
+    <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FR82439436569</schema:vatID>
   </skos:Concept>

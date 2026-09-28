@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XINASS-12345-8",
     "@skos:prefLabel": "inAsset Networks SL",
     "@skos:altLabel": "INASS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XINASS-12345-8",
     "@cim:IdentifiedObject.name": "inAsset Networks SL",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB54403621",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-07-09",
     "@schema:vatID": "ESB54403621",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

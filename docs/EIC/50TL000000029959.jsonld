@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000029959",
     "@skos:prefLabel": "S 132 Dokken-Koengen",
-    "@skos:altLabel": "NO-132DOKKENKOEN",
+    "@skos:altLabel": "NO-DOKKENKOENGEN",
     "@cim:IdentifiedObject.mRID": "50TL000000029959",
     "@cim:IdentifiedObject.name": "S 132 Dokken-Koengen",
     "@cim:Names.name": [
-        "NO-132DOKKENKOEN",
+        "NO-DOKKENKOENGEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

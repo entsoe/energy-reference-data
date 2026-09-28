@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001186A",
     "@skos:prefLabel": "S 420 Kristiansand-Brokke",
-    "@skos:altLabel": "NO-420KRISTROKKE",
+    "@skos:altLabel": "NO-KRISTIANSBROK",
     "@cim:IdentifiedObject.mRID": "50TL00000001186A",
     "@cim:IdentifiedObject.name": "S 420 Kristiansand-Brokke",
     "@cim:Names.name": [
-        "NO-420KRISTROKKE",
+        "NO-KRISTIANSBROK",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

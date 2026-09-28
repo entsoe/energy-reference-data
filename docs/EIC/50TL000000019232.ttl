@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000019232" ;
     cim:IdentifiedObject.name "S 66 Kviteseid-Osen" ;
     cim:Names.name "Internal Line",
-        "NO-66KVITESEIDOS" ;
+        "NO-KVITESEIDOSEN" ;
     dcterms:identifier "urn:eic:50TL000000019232" ;
-    skos:altLabel "NO-66KVITESEIDOS" ;
+    skos:altLabel "NO-KVITESEIDOSEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Kviteseid-Osen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

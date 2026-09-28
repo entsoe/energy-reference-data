@@ -11,8 +11,7 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "25Z-EMEXTR----1E" ;
     cim:IdentifiedObject.name "EMEX Trade GmbH" ;
-    cim:Names.name "EMEXVTP",
-        "Virtual Trading Points" ;
+    cim:Names.name "EMEXVTP" ;
     dcterms:identifier "urn:eic:25Z-EMEXTR----1E" ;
     skos:altLabel "EMEXVTP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

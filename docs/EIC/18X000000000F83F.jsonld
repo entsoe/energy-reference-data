@@ -12,18 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000F83F",
-    "@skos:prefLabel": "VIAJES EL CORTE INGLES S.A.",
-    "@skos:altLabel": "ES-VIAJECORTE",
+    "@skos:prefLabel": "INTERXION ESPAÑA, SAU",
+    "@skos:altLabel": "PRU_AC",
     "@cim:IdentifiedObject.mRID": "18X000000000F83F",
-    "@cim:IdentifiedObject.name": "VIAJES EL CORTE INGLES S.A.",
+    "@cim:IdentifiedObject.name": "INTERXION ESPAÑA, SAU",
     "@cim:Names.name": [
-        "ES-VIAJECORTE",
-        "ESA28229813",
-        "Consumption Responsible Party"
+        "PRU_AC",
+        "ESA28229813"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-01-25",
+    "@cim:DateAndOrTime.date": "2022-08-05",
     "@schema:vatID": "ESA28229813",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

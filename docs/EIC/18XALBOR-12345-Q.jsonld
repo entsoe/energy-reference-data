@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XALBOR-12345-Q",
     "@skos:prefLabel": "E.S.ALBORACHE, S.L.",
     "@skos:altLabel": "ALBOR",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XALBOR-12345-Q",
     "@cim:IdentifiedObject.name": "E.S.ALBORACHE, S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB96318647",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2014-10-21",
     "@schema:vatID": "ESB96318647",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

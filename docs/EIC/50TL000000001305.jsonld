@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000001305",
     "@skos:prefLabel": "S 132 Åsnes-Kongsvinger",
-    "@skos:altLabel": "NO-132ASNESKONGS",
+    "@skos:altLabel": "NO-ASNESKONGSVIN",
     "@cim:IdentifiedObject.mRID": "50TL000000001305",
     "@cim:IdentifiedObject.name": "S 132 Åsnes-Kongsvinger",
     "@cim:Names.name": [
-        "NO-132ASNESKONGS",
+        "NO-ASNESKONGSVIN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

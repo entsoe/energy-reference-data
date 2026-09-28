@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000006018D",
     "@skos:prefLabel": "S Vafos    T1 Transformator",
-    "@skos:altLabel": "NO-VAFOSST1",
+    "@skos:altLabel": "NO-VAFOS___T1",
     "@cim:IdentifiedObject.mRID": "50TT00000006018D",
     "@cim:IdentifiedObject.name": "S Vafos    T1 Transformator",
     "@cim:Names.name": [
-        "NO-VAFOSST1",
+        "NO-VAFOS___T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

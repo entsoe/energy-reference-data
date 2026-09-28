@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-08-28" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000014246" ;
-    cim:IdentifiedObject.name "DYRKOLBOG102 HYDRO" ;
+    cim:IdentifiedObject.name "SAMNANGEG102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-DYRKOLBOG102" ;
+        "NO-SAMNANGEG102_" ;
     dcterms:identifier "urn:eic:50WG000000014246" ;
-    skos:altLabel "NO-DYRKOLBOG102" ;
+    skos:altLabel "NO-SAMNANGEG102_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DYRKOLBOG102 HYDRO" ;
+    skos:prefLabel "SAMNANGEG102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

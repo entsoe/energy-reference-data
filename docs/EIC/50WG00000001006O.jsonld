@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001006O",
-    "@skos:prefLabel": "MIDTFJELG2      WIND",
-    "@skos:altLabel": "NO-MIDTFJELG2",
+    "@skos:prefLabel": "LYSEBOTNG2      HYDRO",
+    "@skos:altLabel": "NO-LYSEBOTNG2___",
     "@cim:IdentifiedObject.mRID": "50WG00000001006O",
-    "@cim:IdentifiedObject.name": "MIDTFJELG2      WIND",
+    "@cim:IdentifiedObject.name": "LYSEBOTNG2      HYDRO",
     "@cim:Names.name": [
-        "NO-MIDTFJELG2",
+        "NO-LYSEBOTNG2___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-12",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

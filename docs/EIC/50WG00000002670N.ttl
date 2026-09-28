@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002670N" ;
-    cim:IdentifiedObject.name "SANDAL_FG2      HYDRO" ;
+    cim:IdentifiedObject.name "MOSKOG  G144 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SANDAL_FG2" ;
+        "NO-MOSKOG__G144_" ;
     dcterms:identifier "urn:eic:50WG00000002670N" ;
-    skos:altLabel "NO-SANDAL_FG2" ;
+    skos:altLabel "NO-MOSKOG__G144_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SANDAL_FG2      HYDRO" ;
+    skos:prefLabel "MOSKOG  G144 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

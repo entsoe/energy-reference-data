@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001062J",
-    "@skos:prefLabel": "Central European Gas Hub AG",
+    "@skos:prefLabel": "CEGH",
     "@skos:altLabel": "CEGH",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Trade Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "21X000000001062J",
-    "@cim:IdentifiedObject.name": "Central European Gas Hub AG",
+    "@cim:IdentifiedObject.name": "CEGH",
     "@cim:Names.name": [
         "CEGH",
         "ATU50735307",
-        "Market Area Operator"
+        "Trade Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-06",
+    "@cim:DateAndOrTime.date": "2010-07-10",
     "@schema:vatID": "ATU50735307",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

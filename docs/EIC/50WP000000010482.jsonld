@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000010482",
     "@skos:prefLabel": "KA-Brekke",
-    "@skos:altLabel": "NO-KA_BREKKE",
+    "@skos:altLabel": "NO-KA-BREKKE_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000010482",
     "@cim:IdentifiedObject.name": "KA-Brekke",
     "@cim:Names.name": [
-        "NO-KA_BREKKE",
+        "NO-KA-BREKKE_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

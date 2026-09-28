@@ -11,8 +11,7 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WHYEONUR-123-0" ;
     cim:IdentifiedObject.name "E.ON COMERCIALIZADOR DE ÚLTIMO RECURSO, S.L" ;
-    cim:Names.name "HYEONUR",
-        "Production Unit" ;
+    cim:Names.name "HYEONUR" ;
     dcterms:identifier "urn:eic:18WHYEONUR-123-0" ;
     skos:altLabel "HYEONUR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

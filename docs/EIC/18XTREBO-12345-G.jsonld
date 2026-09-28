@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XTREBO-12345-G",
     "@skos:prefLabel": "TREBOLIN PLASTICOS, S.L.",
     "@skos:altLabel": "TREBO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XTREBO-12345-G",
     "@cim:IdentifiedObject.name": "TREBOLIN PLASTICOS, S.L.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB30058648",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2013-04-29",
     "@schema:vatID": "ESB30058648",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

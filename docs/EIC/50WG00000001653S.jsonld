@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001653S",
-    "@skos:prefLabel": "SANDAL_FG1      HYDRO",
-    "@skos:altLabel": "NO-SANDAL_FG1",
+    "@skos:prefLabel": "MOSKOG  G145 HYDRO",
+    "@skos:altLabel": "NO-MOSKOG__G145_",
     "@cim:IdentifiedObject.mRID": "50WG00000001653S",
-    "@cim:IdentifiedObject.name": "SANDAL_FG1      HYDRO",
+    "@cim:IdentifiedObject.name": "MOSKOG  G145 HYDRO",
     "@cim:Names.name": [
-        "NO-SANDAL_FG1",
+        "NO-MOSKOG__G145_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

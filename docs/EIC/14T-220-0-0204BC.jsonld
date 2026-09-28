@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:14T-220-0-0204BC",
     "@skos:prefLabel": "220kV line Hausruck-Sattledt",
-    "@skos:altLabel": "0204C",
+    "@skos:altLabel": "204B",
     "@cim:IdentifiedObject.mRID": "14T-220-0-0204BC",
     "@cim:IdentifiedObject.name": "220kV line Hausruck-Sattledt",
     "@cim:Names.name": [
-        "0204C",
+        "204B",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-12-21",
+    "@cim:DateAndOrTime.date": "2021-07-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

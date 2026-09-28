@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Portugal",
     "@cim:Names.name": [
         "PT",
-        "Bidding Zone",
-        "Control Area",
         "LFC Area",
+        "Scheduling Area",
+        "Control Area",
         "LFC Block",
         "Member State",
-        "Scheduling Area"
+        "Bidding Zone"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Control Block, Market Balance Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",

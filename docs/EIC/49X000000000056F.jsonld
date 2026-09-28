@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49X000000000056F",
-    "@skos:prefLabel": "TTEP Energy B.V.",
-    "@skos:altLabel": "EP_COMMODOTIESBV",
+    "@skos:prefLabel": "PZEM Energy Company B.V.",
+    "@skos:altLabel": "PZEM_ENERGY_COMP",
     "@cim:IdentifiedObject.mRID": "49X000000000056F",
-    "@cim:IdentifiedObject.name": "TTEP Energy B.V.",
+    "@cim:IdentifiedObject.name": "PZEM Energy Company B.V.",
     "@cim:Names.name": [
-        "EP_COMMODOTIESBV",
+        "PZEM_ENERGY_COMP",
         "NL809135735B01",
         "Balance Responsible Party",
         "Capacity Trader"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-10",
+    "@cim:DateAndOrTime.date": "2021-11-23",
     "@schema:vatID": "NL809135735B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

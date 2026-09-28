@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000017418",
-    "@skos:prefLabel": "N 66 Falkelv-Salhuselva",
-    "@skos:altLabel": "NO-66FALKELVSALH",
+    "@skos:prefLabel": "N 66 Falkelv-Botn",
+    "@skos:altLabel": "NO-FALKELVBOTN",
     "@cim:IdentifiedObject.mRID": "50TL000000017418",
-    "@cim:IdentifiedObject.name": "N 66 Falkelv-Salhuselva",
+    "@cim:IdentifiedObject.name": "N 66 Falkelv-Botn",
     "@cim:Names.name": [
-        "NO-66FALKELVSALH",
+        "NO-FALKELVBOTN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

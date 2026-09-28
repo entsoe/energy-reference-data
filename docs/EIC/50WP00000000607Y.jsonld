@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000607Y",
-    "@skos:prefLabel": "Saurdal Magasin",
-    "@skos:altLabel": "NO-SAUAL_MAG_V01",
+    "@skos:prefLabel": "Saurdal",
+    "@skos:altLabel": "NO-SAURDAL",
     "@cim:IdentifiedObject.mRID": "50WP00000000607Y",
-    "@cim:IdentifiedObject.name": "Saurdal Magasin",
+    "@cim:IdentifiedObject.name": "Saurdal",
     "@cim:Names.name": [
-        "NO-SAUAL_MAG_V01",
+        "NO-SAURDAL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

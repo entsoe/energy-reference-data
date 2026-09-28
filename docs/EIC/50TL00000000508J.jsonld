@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000508J",
     "@skos:prefLabel": "S 132 Mongstad-Seim",
-    "@skos:altLabel": "NO-132MONGSTADSE",
+    "@skos:altLabel": "NO-MONGSTADSEIM",
     "@cim:IdentifiedObject.mRID": "50TL00000000508J",
     "@cim:IdentifiedObject.name": "S 132 Mongstad-Seim",
     "@cim:Names.name": [
-        "NO-132MONGSTADSE",
+        "NO-MONGSTADSEIM",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-06-27",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

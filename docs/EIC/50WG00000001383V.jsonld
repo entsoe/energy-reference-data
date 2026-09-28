@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001383V",
-    "@skos:prefLabel": "NORDBOANG1      HYDRO",
-    "@skos:altLabel": "NO-NORDBOANG1",
+    "@skos:prefLabel": "ROD     G121 HYDRO",
+    "@skos:altLabel": "NO-ROD_____G121_",
     "@cim:IdentifiedObject.mRID": "50WG00000001383V",
-    "@cim:IdentifiedObject.name": "NORDBOANG1      HYDRO",
+    "@cim:IdentifiedObject.name": "ROD     G121 HYDRO",
     "@cim:Names.name": [
-        "NO-NORDBOANG1",
+        "NO-ROD_____G121_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

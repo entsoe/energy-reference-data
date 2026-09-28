@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:nc="http://entsoe.eu/ns/nc#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcterms="http://purl.org/dc/terms/#">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PropertyReference/IdentifiedObject.mRID">
+    <skos:topConceptOf>http://energy.referencedata.eu/PropertyReference</skos:topConceptOf>
+    <skos:inScheme>http://energy.referencedata.eu/PropertyReference</skos:inScheme>
+    <rdf:type rdf:resource="http://entsoe.eu/ns/nc#PropertyReference"/>
+    <skos:definition>Master resource identifier issued by a model authority. The mRID is unique within an exchange context. Global uniqueness is easily achieved by using a UUID, as specified in RFC 4122, for the mRID. The use of UUID is strongly recommended.
+For CIMXML data files in RDF syntax conforming to IEC 61970-552, the mRID is mapped to rdf:ID or rdf:about attributes that identify CIM object elements.</skos:definition>
+    <skos:prefLabel>IdentifiedObject.mRID</skos:prefLabel>
+    <dcterms:identifier>urn:uuid:704202ac-974e-4576-a9e7-84581df72c59</dcterms:identifier>
+    <nc:PropertyReference.name>IdentifiedObject.mRID</nc:PropertyReference.name>
+    <nc:PropertyReference.mRID>704202ac-974e-4576-a9e7-84581df72c59</nc:PropertyReference.mRID>
+  </skos:Concept>
+</rdf:RDF>

@@ -14,8 +14,8 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-12-21</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6151814382</schema:vatID>
   </skos:Concept>

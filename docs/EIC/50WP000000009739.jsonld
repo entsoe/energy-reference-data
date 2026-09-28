@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000009739",
     "@skos:prefLabel": "Rimbareid",
-    "@skos:altLabel": "NO-RIMBAREID",
+    "@skos:altLabel": "NO-RIMBAREID_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000009739",
     "@cim:IdentifiedObject.name": "Rimbareid",
     "@cim:Names.name": [
-        "NO-RIMBAREID",
+        "NO-RIMBAREID_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

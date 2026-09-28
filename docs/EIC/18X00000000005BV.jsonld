@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X00000000005BV",
     "@skos:prefLabel": "GALLO ROJO S.L",
     "@skos:altLabel": "GALLO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X00000000005BV",
     "@cim:IdentifiedObject.name": "GALLO ROJO S.L",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB50074913",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-06-15",
     "@schema:vatID": "ESB50074913",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

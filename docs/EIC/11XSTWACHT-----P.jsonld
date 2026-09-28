@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSTWACHT-----P",
-    "@skos:prefLabel": "STAWAG - Stadt- und Städteregionswerke Aachen AG",
+    "@skos:prefLabel": "STAWAG Stadtwerke Aachen Aktiengesellschaft",
     "@skos:altLabel": "STAWAG-STWACH",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Group"
+    },
     "@cim:IdentifiedObject.mRID": "11XSTWACHT-----P",
-    "@cim:IdentifiedObject.name": "STAWAG - Stadt- und Städteregionswerke Aachen AG",
+    "@cim:IdentifiedObject.name": "STAWAG Stadtwerke Aachen Aktiengesellschaft",
     "@cim:Names.name": [
         "STAWAG-STWACH",
         "DE811163786",
-        "Trade Responsible Party"
+        "Balance Group"
     ],
+    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-20",
+    "@cim:DateAndOrTime.date": "2014-10-07",
     "@schema:vatID": "DE811163786",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

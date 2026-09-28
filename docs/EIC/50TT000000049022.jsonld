@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000049022",
     "@skos:prefLabel": "N Guolas   T4 Transformator",
-    "@skos:altLabel": "NO-GUOLAST4",
+    "@skos:altLabel": "NO-GUOLAS__T4",
     "@cim:IdentifiedObject.mRID": "50TT000000049022",
     "@cim:IdentifiedObject.name": "N Guolas   T4 Transformator",
     "@cim:Names.name": [
-        "NO-GUOLAST4",
+        "NO-GUOLAS__T4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XRIVEL-12345-Y",
     "@skos:prefLabel": "RIVELSA, S.L.U",
     "@skos:altLabel": "RIVEL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XRIVEL-12345-Y",
     "@cim:IdentifiedObject.name": "RIVELSA, S.L.U",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB28106383",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2015-11-17",
     "@schema:vatID": "ESB28106383",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

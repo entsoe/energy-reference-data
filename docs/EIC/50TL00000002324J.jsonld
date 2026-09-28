@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002324J",
-    "@skos:prefLabel": "N 8 Nedalsfoss-Sylsjø",
-    "@skos:altLabel": "NO-8NEDALSFOSSSY",
+    "@skos:prefLabel": "M 8 Nedalsfoss-Sylsjø",
+    "@skos:altLabel": "NO-NEDALSFOSSSYL",
     "@cim:IdentifiedObject.mRID": "50TL00000002324J",
-    "@cim:IdentifiedObject.name": "N 8 Nedalsfoss-Sylsjø",
+    "@cim:IdentifiedObject.name": "M 8 Nedalsfoss-Sylsjø",
     "@cim:Names.name": [
-        "NO-8NEDALSFOSSSY",
+        "NO-NEDALSFOSSSYL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000062371",
-    "@skos:prefLabel": "S Haugsnes T8A Transformator",
-    "@skos:altLabel": "NO-HAUGSNEST8A",
+    "@skos:prefLabel": "S Haugsnes T2 Transformator",
+    "@skos:altLabel": "NO-HAUGSNEST2",
     "@cim:IdentifiedObject.mRID": "50TT000000062371",
-    "@cim:IdentifiedObject.name": "S Haugsnes T8A Transformator",
+    "@cim:IdentifiedObject.name": "S Haugsnes T2 Transformator",
     "@cim:Names.name": [
-        "NO-HAUGSNEST8A",
+        "NO-HAUGSNEST2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

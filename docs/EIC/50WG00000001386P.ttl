@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-08-28" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001386P" ;
-    cim:IdentifiedObject.name "BJORDALEG109 HYDRO" ;
+    cim:IdentifiedObject.name "ROD     G109 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BJORDALEG109" ;
+        "NO-ROD_____G109_" ;
     dcterms:identifier "urn:eic:50WG00000001386P" ;
-    skos:altLabel "NO-BJORDALEG109" ;
+    skos:altLabel "NO-ROD_____G109_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BJORDALEG109 HYDRO" ;
+    skos:prefLabel "ROD     G109 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

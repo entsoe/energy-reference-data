@@ -19,15 +19,11 @@
     "@cim:Names.name": [
         "PSSEMO",
         "PL5832992983",
-        "Energy Supplier",
-        "Meter Administrator",
-        "System Operator",
-        "Grid Access Provider",
-        "Metered Data Responsible"
+        "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-30",
+    "@cim:DateAndOrTime.date": "2022-08-11",
     "@schema:vatID": "PL5832992983",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

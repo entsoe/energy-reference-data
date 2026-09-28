@@ -15,10 +15,10 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-12-14</cim:DateAndOrTime.date>
     <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
     <cim:Names.name>Grid Access Provider</cim:Names.name>
-    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5490001468</schema:vatID>
   </skos:Concept>

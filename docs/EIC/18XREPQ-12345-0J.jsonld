@@ -12,18 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XREPQ-12345-0J",
-    "@skos:prefLabel": "REPSOL MATERIALS, S.A.",
+    "@skos:prefLabel": "REPSOL QUÍMICA, S.A.",
     "@skos:altLabel": "REPQ",
     "@cim:IdentifiedObject.mRID": "18XREPQ-12345-0J",
-    "@cim:IdentifiedObject.name": "REPSOL MATERIALS, S.A.",
+    "@cim:IdentifiedObject.name": "REPSOL QUÍMICA, S.A.",
     "@cim:Names.name": [
         "REPQ",
         "ESA28122992",
-        "Production Responsible Party"
+        "Producer",
+        "Consumption Responsible Party",
+        "Production Responsible party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-01-20",
+    "@cim:DateAndOrTime.date": "2018-12-04",
     "@schema:vatID": "ESA28122992",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

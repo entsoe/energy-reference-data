@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000006095W",
-    "@skos:prefLabel": "N Alsten   RT2 Transformator",
-    "@skos:altLabel": "NO-ALSTENRT2",
+    "@skos:prefLabel": "M Alsten   RT2 Transformator",
+    "@skos:altLabel": "NO-ALSTEN__RT2",
     "@cim:IdentifiedObject.mRID": "50TT00000006095W",
-    "@cim:IdentifiedObject.name": "N Alsten   RT2 Transformator",
+    "@cim:IdentifiedObject.name": "M Alsten   RT2 Transformator",
     "@cim:Names.name": [
-        "NO-ALSTENRT2",
+        "NO-ALSTEN__RT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

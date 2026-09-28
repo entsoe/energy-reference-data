@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000011638",
-    "@skos:prefLabel": "FLA     G113 HYDRO",
-    "@skos:altLabel": "NO-FLAG113",
+    "@skos:prefLabel": "NES_OEK G113 HYDRO",
+    "@skos:altLabel": "NO-NES_OEK_G113_",
     "@cim:IdentifiedObject.mRID": "50WG000000011638",
-    "@cim:IdentifiedObject.name": "FLA     G113 HYDRO",
+    "@cim:IdentifiedObject.name": "NES_OEK G113 HYDRO",
     "@cim:Names.name": [
-        "NO-FLAG113",
+        "NO-NES_OEK_G113_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

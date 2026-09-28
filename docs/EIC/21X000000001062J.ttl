@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2024-07-06" ;
+    cim:DateAndOrTime.date "2010-07-10" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001062J" ;
-    cim:IdentifiedObject.name "Central European Gas Hub AG" ;
+    cim:IdentifiedObject.name "CEGH" ;
     cim:Names.name "ATU50735307",
         "CEGH",
-        "Market Area Operator" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001062J" ;
     schema1:vatID "ATU50735307" ;
     skos:altLabel "CEGH" ;
+    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Central European Gas Hub AG" ;
+    skos:prefLabel "CEGH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

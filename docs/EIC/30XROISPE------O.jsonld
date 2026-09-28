@@ -22,14 +22,12 @@
     "@cim:IdentifiedObject.name": "SC ISPE SA",
     "@cim:Names.name": [
         "ROISPE",
-        "RO8630885",
-        "Balance Responsible Party"
+        "Valid EIC Function needed"
     ],
     "@cim:IdentifiedObject.description": "Brp",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-03",
-    "@schema:vatID": "RO8630885",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000562Y",
-    "@skos:prefLabel": "Hellefoss Vest",
-    "@skos:altLabel": "NO-HELLEF_V",
+    "@skos:prefLabel": "Hellefoss",
+    "@skos:altLabel": "NO-HELLEFOS",
     "@cim:IdentifiedObject.mRID": "50A000000000562Y",
-    "@cim:IdentifiedObject.name": "Hellefoss Vest",
+    "@cim:IdentifiedObject.name": "Hellefoss",
     "@cim:Names.name": [
-        "NO-HELLEF_V",
+        "NO-HELLEFOS",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2021-02-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2026-08-28" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002964K" ;
-    cim:IdentifiedObject.name "S 132 Hamar omformerstasjon-Jessnes" ;
+    cim:IdentifiedObject.name "S 132 Furnes-Jessnes" ;
     cim:Names.name "Internal Line",
-        "NO-132HAMAROMFJE" ;
+        "NO-FURNESJESSNES" ;
     dcterms:identifier "urn:eic:50TL00000002964K" ;
-    skos:altLabel "NO-132HAMAROMFJE" ;
+    skos:altLabel "NO-FURNESJESSNES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Hamar omformerstasjon-Jessnes" ;
+    skos:prefLabel "S 132 Furnes-Jessnes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

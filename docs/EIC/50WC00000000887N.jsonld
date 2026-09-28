@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000887N",
-    "@skos:prefLabel": "N Melkøya  110 L2 Industri",
-    "@skos:altLabel": "NO-MELKOYA110L2",
+    "@skos:prefLabel": "N Melkøya  132 Industri",
+    "@skos:altLabel": "NO-MELKO110132NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000887N",
-    "@cim:IdentifiedObject.name": "N Melkøya  110 L2 Industri",
+    "@cim:IdentifiedObject.name": "N Melkøya  132 Industri",
     "@cim:Names.name": [
-        "NO-MELKOYA110L2",
+        "NO-MELKO110132NC",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

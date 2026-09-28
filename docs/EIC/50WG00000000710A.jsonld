@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000710A",
-    "@skos:prefLabel": "SUVDAL  G1      HYDRO",
-    "@skos:altLabel": "NO-SUVDALG1",
+    "@skos:prefLabel": "HOLTAN  G111 HYDRO",
+    "@skos:altLabel": "NO-HOLTAN__G111_",
     "@cim:IdentifiedObject.mRID": "50WG00000000710A",
-    "@cim:IdentifiedObject.name": "SUVDAL  G1      HYDRO",
+    "@cim:IdentifiedObject.name": "HOLTAN  G111 HYDRO",
     "@cim:Names.name": [
-        "NO-SUVDALG1",
+        "NO-HOLTAN__G111_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000009423",
-    "@skos:prefLabel": "N 22 Sjøfossen-Sundsfjord",
-    "@skos:altLabel": "NO-22SJOFOSSENSU",
+    "@skos:prefLabel": "M 22 Sjøfossen-Sundsfjord",
+    "@skos:altLabel": "NO-SJOFOSSENSUND",
     "@cim:IdentifiedObject.mRID": "50TL000000009423",
-    "@cim:IdentifiedObject.name": "N 22 Sjøfossen-Sundsfjord",
+    "@cim:IdentifiedObject.name": "M 22 Sjøfossen-Sundsfjord",
     "@cim:Names.name": [
-        "NO-22SJOFOSSENSU",
+        "NO-SJOFOSSENSUND",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

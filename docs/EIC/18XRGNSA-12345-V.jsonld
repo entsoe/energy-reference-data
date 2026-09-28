@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XRGNSA-12345-V",
-    "@skos:prefLabel": "REGASIFICADORA DEL NOROESTE S.A.",
+    "@skos:prefLabel": "Regasificadora del Noroeste S.A.",
     "@skos:altLabel": "RGNSA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Production Responsible Party, Transmission System Operator"
+    },
     "@cim:IdentifiedObject.mRID": "18XRGNSA-12345-V",
-    "@cim:IdentifiedObject.name": "REGASIFICADORA DEL NOROESTE S.A.",
+    "@cim:IdentifiedObject.name": "Regasificadora del Noroeste S.A.",
     "@cim:Names.name": [
         "RGNSA",
         "ESA15685324",
-        "Producer"
+        "Production Responsible party"
     ],
+    "@cim:IdentifiedObject.description": "Production Responsible Party, Transmission System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-05-20",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "ESA15685324",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

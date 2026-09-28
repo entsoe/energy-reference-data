@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000027162",
-    "@skos:prefLabel": "N 22 Govddesåga-Steinåga",
-    "@skos:altLabel": "NO-22GOVDDESAGAS",
+    "@skos:prefLabel": "M 22 Govddesåga-Steinåga",
+    "@skos:altLabel": "NO-GOVDDESAGASTE",
     "@cim:IdentifiedObject.mRID": "50TL000000027162",
-    "@cim:IdentifiedObject.name": "N 22 Govddesåga-Steinåga",
+    "@cim:IdentifiedObject.name": "M 22 Govddesåga-Steinåga",
     "@cim:Names.name": [
-        "NO-22GOVDDESAGAS",
+        "NO-GOVDDESAGASTE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

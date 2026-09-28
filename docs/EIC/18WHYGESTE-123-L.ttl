@@ -11,8 +11,7 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WHYGESTE-123-L" ;
     cim:IdentifiedObject.name "GESTERNOVA" ;
-    cim:Names.name "HYGESTE",
-        "Production Unit" ;
+    cim:Names.name "HYGESTE" ;
     dcterms:identifier "urn:eic:18WHYGESTE-123-L" ;
     skos:altLabel "HYGESTE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

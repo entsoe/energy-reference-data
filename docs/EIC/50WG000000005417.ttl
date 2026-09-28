@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000005417" ;
-    cim:IdentifiedObject.name "OSLANDSBG1      HYDRO" ;
+    cim:IdentifiedObject.name "GROV    G114 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-OSLANDSBG1" ;
+        "NO-GROV____G114_" ;
     dcterms:identifier "urn:eic:50WG000000005417" ;
-    skos:altLabel "NO-OSLANDSBG1" ;
+    skos:altLabel "NO-GROV____G114_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "OSLANDSBG1      HYDRO" ;
+    skos:prefLabel "GROV    G114 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

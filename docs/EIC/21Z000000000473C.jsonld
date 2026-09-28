@@ -16,18 +16,18 @@
     "@skos:altLabel": "NEAM-TAP-DESFA",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO"
+        "@value": "Interconnection Point"
     },
     "@cim:IdentifiedObject.mRID": "21Z000000000473C",
     "@cim:IdentifiedObject.name": "Nea Messimvria",
     "@cim:Names.name": [
         "NEAM-TAP-DESFA",
-        "Connection Point"
+        "Valid EIC Function needed"
     ],
-    "@cim:IdentifiedObject.description": "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO",
+    "@cim:IdentifiedObject.description": "Interconnection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-07-06",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

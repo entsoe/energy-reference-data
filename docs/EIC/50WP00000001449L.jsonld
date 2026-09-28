@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001449L",
     "@skos:prefLabel": "Mago D",
-    "@skos:altLabel": "NO-MAGOD",
+    "@skos:altLabel": "NO-MAGO-D_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000001449L",
     "@cim:IdentifiedObject.name": "Mago D",
     "@cim:Names.name": [
-        "NO-MAGOD",
+        "NO-MAGO-D_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

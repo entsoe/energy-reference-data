@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002255C",
-    "@skos:prefLabel": "N 66 Øydegard-Tingvoll",
-    "@skos:altLabel": "NO-66OYDEGARDTIN",
+    "@skos:prefLabel": "M 66 TingvollLia-Øydegard",
+    "@skos:altLabel": "NO-TINGVOLLLIAOY",
     "@cim:IdentifiedObject.mRID": "50TL00000002255C",
-    "@cim:IdentifiedObject.name": "N 66 Øydegard-Tingvoll",
+    "@cim:IdentifiedObject.name": "M 66 TingvollLia-Øydegard",
     "@cim:Names.name": [
-        "NO-66OYDEGARDTIN",
+        "NO-TINGVOLLLIAOY",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

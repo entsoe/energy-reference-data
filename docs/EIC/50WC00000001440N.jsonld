@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001440N",
-    "@skos:prefLabel": "N Svabo    22  T13G Forbruk",
-    "@skos:altLabel": "NO-SVABO22T13G",
+    "@skos:prefLabel": "M Svabo    22  Forbruk",
+    "@skos:altLabel": "NO-SVABO22",
     "@cim:IdentifiedObject.mRID": "50WC00000001440N",
-    "@cim:IdentifiedObject.name": "N Svabo    22  T13G Forbruk",
+    "@cim:IdentifiedObject.name": "M Svabo    22  Forbruk",
     "@cim:Names.name": [
-        "NO-SVABO22T13G",
+        "NO-SVABO22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-04",
+    "@cim:DateAndOrTime.date": "2020-10-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

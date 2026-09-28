@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001785P",
-    "@skos:prefLabel": "N 66 Gillesvåg-Åsen",
-    "@skos:altLabel": "NO-66GILLESVAGAS",
+    "@skos:prefLabel": "M 66 Gillesvåg-Åsen",
+    "@skos:altLabel": "NO-GILLESVAGASEN",
     "@cim:IdentifiedObject.mRID": "50TL00000001785P",
-    "@cim:IdentifiedObject.name": "N 66 Gillesvåg-Åsen",
+    "@cim:IdentifiedObject.name": "M 66 Gillesvåg-Åsen",
     "@cim:Names.name": [
-        "NO-66GILLESVAGAS",
+        "NO-GILLESVAGASEN",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-05-16",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001191Y",
-    "@skos:prefLabel": "Gjedrem & Holmen",
-    "@skos:altLabel": "NO-GJEDREM_HOLME",
+    "@skos:prefLabel": "Gjedrem",
+    "@skos:altLabel": "NO-GJEDREM_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000001191Y",
-    "@cim:IdentifiedObject.name": "Gjedrem & Holmen",
+    "@cim:IdentifiedObject.name": "Gjedrem",
     "@cim:Names.name": [
-        "NO-GJEDREM_HOLME",
+        "NO-GJEDREM_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

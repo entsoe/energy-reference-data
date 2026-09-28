@@ -12,17 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Y---A001A004-2",
-    "@skos:prefLabel": "EXX-ETF-DK",
-    "@skos:altLabel": "EXX-ETF-DK",
+    "@skos:prefLabel": "Exchange NordPool",
+    "@skos:altLabel": "NPTF-DK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Virtual Trading Point"
+    },
     "@cim:IdentifiedObject.mRID": "21Y---A001A004-2",
-    "@cim:IdentifiedObject.name": "EXX-ETF-DK",
+    "@cim:IdentifiedObject.name": "Exchange NordPool",
     "@cim:Names.name": [
-        "EXX-ETF-DK",
-        "Market Area"
+        "NPTF-DK",
+        "Valid EIC Function needed"
     ],
+    "@cim:IdentifiedObject.description": "Virtual Trading Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-06-25",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

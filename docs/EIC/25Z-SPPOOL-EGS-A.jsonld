@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25Z-SPPOOL-EGS-A",
-    "@skos:prefLabel": "Uniper Energy Storage Austria",
+    "@skos:prefLabel": "Storage Pool Uniper Energy Storage",
     "@skos:altLabel": "SPPOOL-EGS",
     "@cim:IdentifiedObject.mRID": "25Z-SPPOOL-EGS-A",
-    "@cim:IdentifiedObject.name": "Uniper Energy Storage Austria",
+    "@cim:IdentifiedObject.name": "Storage Pool Uniper Energy Storage",
     "@cim:Names.name": [
         "SPPOOL-EGS",
         "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-07-15",
+    "@cim:DateAndOrTime.date": "2021-07-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

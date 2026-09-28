@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002538N",
-    "@skos:prefLabel": "ULEFOSS G103 HYDRO",
-    "@skos:altLabel": "NO-ULEFOSSG103",
+    "@skos:prefLabel": "VRANGFOSG103 HYDRO",
+    "@skos:altLabel": "NO-VRANGFOSG103_",
     "@cim:IdentifiedObject.mRID": "50WG00000002538N",
-    "@cim:IdentifiedObject.name": "ULEFOSS G103 HYDRO",
+    "@cim:IdentifiedObject.name": "VRANGFOSG103 HYDRO",
     "@cim:Names.name": [
-        "NO-ULEFOSSG103",
+        "NO-VRANGFOSG103_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

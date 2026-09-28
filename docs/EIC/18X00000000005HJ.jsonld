@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18X00000000005HJ",
     "@skos:prefLabel": "PANIFICADORA INDUSTRIAL DE FUENLABRADA S.A",
     "@skos:altLabel": "PANIF",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18X00000000005HJ",
     "@cim:IdentifiedObject.name": "PANIFICADORA INDUSTRIAL DE FUENLABRADA S.A",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESA28369056",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2016-06-15",
     "@schema:vatID": "ESA28369056",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

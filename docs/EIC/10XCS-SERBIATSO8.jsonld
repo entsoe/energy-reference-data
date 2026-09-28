@@ -13,18 +13,22 @@
     },
     "@dcterms:identifier": "urn:eic:10XCS-SERBIATSO8",
     "@skos:prefLabel": "JP Elektromreža Srbije",
-    "@skos:altLabel": "EMSTSO",
+    "@skos:altLabel": "EMS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Transmission System Operator, Control Area Operator, Control Block Operator, Transmission Capacity Allocator"
+    },
     "@cim:IdentifiedObject.mRID": "10XCS-SERBIATSO8",
     "@cim:IdentifiedObject.name": "JP Elektromreža Srbije",
     "@cim:Names.name": [
-        "EMSTSO",
+        "EMS",
         "103921661",
-        "Market Operator",
-        "System Operator"
+        "Transmission Capacity Allocator"
     ],
+    "@cim:IdentifiedObject.description": "Transmission System Operator, Control Area Operator, Control Block Operator, Transmission Capacity Allocator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-10-24",
+    "@cim:DateAndOrTime.date": "2016-10-18",
     "@schema:vatID": "103921661",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

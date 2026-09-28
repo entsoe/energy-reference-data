@@ -15,8 +15,8 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2014-10-22</cim:DateAndOrTime.date>
-    <cim:Names.name>Nomination Validator</cim:Names.name>
     <cim:Names.name>Party Connected To Grid</cim:Names.name>
+    <cim:Names.name>Nomination Validator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FR23489967794</schema:vatID>
   </skos:Concept>

@@ -12,17 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10Z-BG-GR-000011",
-    "@skos:prefLabel": "Blagoevgrad-Lagadas",
-    "@skos:altLabel": "M_BLAGOE-LAGADAS",
+    "@skos:prefLabel": "Blagoevgrad-Thessaloniki",
+    "@skos:altLabel": "M_BLAGOE-THESSAL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Accounting Point"
+    },
     "@cim:IdentifiedObject.mRID": "10Z-BG-GR-000011",
-    "@cim:IdentifiedObject.name": "Blagoevgrad-Lagadas",
+    "@cim:IdentifiedObject.name": "Blagoevgrad-Thessaloniki",
     "@cim:Names.name": [
-        "M_BLAGOE-LAGADAS",
+        "M_BLAGOE-THESSAL",
         "Accounting Point"
     ],
+    "@cim:IdentifiedObject.description": "Accounting Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-03-20",
+    "@cim:DateAndOrTime.date": "2012-05-10",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

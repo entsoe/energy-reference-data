@@ -1,0 +1,14 @@
+@prefix dcterms1: <http://purl.org/dc/terms/#> .
+@prefix nc: <http://entsoe.eu/ns/nc#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/PropertyReference/InfeedLimit.valueW> a nc:PropertyReference,
+        skos:Concept ;
+    nc:PropertyReference.mRID "a680a1dd-d4d9-4ac5-b6ff-bcb955f1a2e0" ;
+    nc:PropertyReference.name "InfeedLimit.valueW" ;
+    dcterms1:identifier "urn:uuid:a680a1dd-d4d9-4ac5-b6ff-bcb955f1a2e0" ;
+    skos:definition "Value of active power limit. The attribute shall be a positive value or zero." ;
+    skos:inScheme "http://energy.referencedata.eu/PropertyReference" ;
+    skos:prefLabel "InfeedLimit.valueW" ;
+    skos:topConceptOf "http://energy.referencedata.eu/PropertyReference" .
+

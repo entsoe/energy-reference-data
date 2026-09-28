@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000020461",
     "@skos:prefLabel": "Skagerak Enelab",
-    "@skos:altLabel": "NO-SKAGERAKENELA",
+    "@skos:altLabel": "NO-SKAGERAK_ENEL",
     "@cim:IdentifiedObject.mRID": "50WP000000020461",
     "@cim:IdentifiedObject.name": "Skagerak Enelab",
     "@cim:Names.name": [
-        "NO-SKAGERAKENELA",
+        "NO-SKAGERAK_ENEL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

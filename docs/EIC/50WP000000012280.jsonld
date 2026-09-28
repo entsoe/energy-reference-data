@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000012280",
     "@skos:prefLabel": "Geisdøla",
-    "@skos:altLabel": "NO-GEISDOELA",
+    "@skos:altLabel": "NO-GEISDOLA_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000012280",
     "@cim:IdentifiedObject.name": "Geisdøla",
     "@cim:Names.name": [
-        "NO-GEISDOELA",
+        "NO-GEISDOLA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

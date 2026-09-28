@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001369J",
     "@skos:prefLabel": "Gåslunelva",
-    "@skos:altLabel": "NO-GAASLUNELVA",
+    "@skos:altLabel": "NO-GASLUNELVA_PL",
     "@cim:IdentifiedObject.mRID": "50WP00000001369J",
     "@cim:IdentifiedObject.name": "Gåslunelva",
     "@cim:Names.name": [
-        "NO-GAASLUNELVA",
+        "NO-GASLUNELVA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

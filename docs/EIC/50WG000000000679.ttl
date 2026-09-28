@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000000679" ;
-    cim:IdentifiedObject.name "KJOSFOSSG2      HYDRO" ;
+    cim:IdentifiedObject.name "AURLAND1G102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KJOSFOSSG2" ;
+        "NO-AURLAND1G102_" ;
     dcterms:identifier "urn:eic:50WG000000000679" ;
-    skos:altLabel "NO-KJOSFOSSG2" ;
+    skos:altLabel "NO-AURLAND1G102_" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KJOSFOSSG2      HYDRO" ;
+    skos:prefLabel "AURLAND1G102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

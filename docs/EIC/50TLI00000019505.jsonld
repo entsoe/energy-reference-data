@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000019505",
-    "@skos:prefLabel": "N 66 Levanger-Skogn",
-    "@skos:altLabel": "NO-66LEVANGERSKO",
+    "@skos:prefLabel": "M 66 Levanger-Skogn",
+    "@skos:altLabel": "NO-LEVANGERSKOGN",
     "@cim:IdentifiedObject.mRID": "50TLI00000019505",
-    "@cim:IdentifiedObject.name": "N 66 Levanger-Skogn",
+    "@cim:IdentifiedObject.name": "M 66 Levanger-Skogn",
     "@cim:Names.name": [
-        "NO-66LEVANGERSKO",
+        "NO-LEVANGERSKOGN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

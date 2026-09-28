@@ -12,18 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XACOR-123456-O",
-    "@skos:prefLabel": "ACOR, S.COOP",
+    "@skos:prefLabel": "SDAD. COOP. GENERAL AGROPECUARIA ACOR",
     "@skos:altLabel": "ACOR",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Production Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XACOR-123456-O",
-    "@cim:IdentifiedObject.name": "ACOR, S.COOP",
+    "@cim:IdentifiedObject.name": "SDAD. COOP. GENERAL AGROPECUARIA ACOR",
     "@cim:Names.name": [
         "ACOR",
         "ESF47005368",
-        "Production Responsible Party"
+        "Production Responsible party"
     ],
+    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-06-03",
+    "@cim:DateAndOrTime.date": "2011-02-16",
     "@schema:vatID": "ESF47005368",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

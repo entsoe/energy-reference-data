@@ -12,24 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000CRMTO",
-    "@skos:prefLabel": "Omne Energia S.A.",
-    "@skos:altLabel": "OMNE_ENERGIA",
+    "@skos:prefLabel": "Cryogas M&T Poland S.A.",
+    "@skos:altLabel": "CRYOGASMTPOLAND",
     "@skos:definition": {
         "@language": "en",
         "@value": "Network User"
     },
     "@cim:IdentifiedObject.mRID": "53XPL000000CRMTO",
-    "@cim:IdentifiedObject.name": "Omne Energia S.A.",
+    "@cim:IdentifiedObject.name": "Cryogas M&T Poland S.A.",
     "@cim:Names.name": [
-        "OMNE_ENERGIA",
-        "A0003267G.PL",
+        "CRYOGASMTPOLAND",
         "PL5252520546",
         "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-03-03",
+    "@cim:DateAndOrTime.date": "2015-09-23",
     "@schema:vatID": "PL5252520546",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

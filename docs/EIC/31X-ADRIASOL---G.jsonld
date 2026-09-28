@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:31X-ADRIASOL---G",
-    "@skos:prefLabel": "ADRIA SOL d.o.o.",
+    "@skos:prefLabel": "Adria Sol d.o.o.",
     "@skos:altLabel": "ADRIASOL-HR",
     "@cim:IdentifiedObject.mRID": "31X-ADRIASOL---G",
-    "@cim:IdentifiedObject.name": "ADRIA SOL d.o.o.",
+    "@cim:IdentifiedObject.name": "Adria Sol d.o.o.",
     "@cim:Names.name": [
         "ADRIASOL-HR",
         "HR47042943341",
-        "Balance Responsible Party",
-        "Producer"
+        "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-08-23",
+    "@cim:DateAndOrTime.date": "2019-04-01",
     "@schema:vatID": "HR47042943341",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

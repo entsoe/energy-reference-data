@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:18XMAREN-1234--H",
     "@skos:prefLabel": "MARE NOSTRUM OIL MANAGEMENT, S.L.U.",
     "@skos:altLabel": "MAREN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumption Responsible Party"
+    },
     "@cim:IdentifiedObject.mRID": "18XMAREN-1234--H",
     "@cim:IdentifiedObject.name": "MARE NOSTRUM OIL MANAGEMENT, S.L.U.",
     "@cim:Names.name": [
@@ -21,9 +25,10 @@
         "ESB85920403",
         "Consumption Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@cim:DateAndOrTime.date": "2014-10-17",
     "@schema:vatID": "ESB85920403",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

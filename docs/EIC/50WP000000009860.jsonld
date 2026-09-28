@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000009860",
     "@skos:prefLabel": "Heina",
-    "@skos:altLabel": "NO-HEINA",
+    "@skos:altLabel": "NO-HEINA_PL",
     "@cim:IdentifiedObject.mRID": "50WP000000009860",
     "@cim:IdentifiedObject.name": "Heina",
     "@cim:Names.name": [
-        "NO-HEINA",
+        "NO-HEINA_PL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

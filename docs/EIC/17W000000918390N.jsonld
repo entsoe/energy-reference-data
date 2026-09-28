@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W000000918390N",
-    "@skos:prefLabel": "BAYET MORANDES (LES)",
+    "@skos:prefLabel": "BAYET MORANT 1",
     "@skos:altLabel": "FR_GA-MORANT1-G",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Validation CIO"
-    },
     "@cim:IdentifiedObject.mRID": "17W000000918390N",
-    "@cim:IdentifiedObject.name": "BAYET MORANDES (LES)",
+    "@cim:IdentifiedObject.name": "BAYET MORANT 1",
     "@cim:Names.name": [
         "FR_GA-MORANT1-G",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Validation CIO",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-04-07",
+    "@cim:DateAndOrTime.date": "2019-09-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

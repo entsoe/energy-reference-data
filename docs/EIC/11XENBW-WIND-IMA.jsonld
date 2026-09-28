@@ -13,17 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:11XENBW-WIND-IMA",
     "@skos:prefLabel": "TransnetBW GmbH",
-    "@skos:altLabel": "TNG_WIND_IM",
+    "@skos:altLabel": "ENBW_WIND_IM",
     "@cim:IdentifiedObject.mRID": "11XENBW-WIND-IMA",
     "@cim:IdentifiedObject.name": "TransnetBW GmbH",
     "@cim:Names.name": [
-        "TNG_WIND_IM",
+        "ENBW_WIND_IM",
         "DE191008872",
-        "Production Responsible Party"
+        "Balance Group"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2024-12-02",
+    "@cim:DateAndOrTime.date": "2022-04-20",
     "@schema:vatID": "DE191008872",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

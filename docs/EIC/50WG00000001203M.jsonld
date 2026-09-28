@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001203M",
     "@skos:prefLabel": "NYGAARD G1      HYDRO",
-    "@skos:altLabel": "NO-NYGAARDG1",
+    "@skos:altLabel": "NO-NYGAARD_G1___",
     "@cim:IdentifiedObject.mRID": "50WG00000001203M",
     "@cim:IdentifiedObject.name": "NYGAARD G1      HYDRO",
     "@cim:Names.name": [
-        "NO-NYGAARDG1",
+        "NO-NYGAARD_G1___",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

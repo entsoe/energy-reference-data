@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000012812",
-    "@skos:prefLabel": "MELDAL  G143 HYDRO",
-    "@skos:altLabel": "NO-MELDALG143",
+    "@skos:prefLabel": "ORKDAL  G143 HYDRO",
+    "@skos:altLabel": "NO-ORKDAL__G143_",
     "@cim:IdentifiedObject.mRID": "50WG000000012812",
-    "@cim:IdentifiedObject.name": "MELDAL  G143 HYDRO",
+    "@cim:IdentifiedObject.name": "ORKDAL  G143 HYDRO",
     "@cim:Names.name": [
-        "NO-MELDALG143",
+        "NO-ORKDAL__G143_",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-08-28",
+    "@cim:DateAndOrTime.date": "2020-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000003050P",
     "@skos:prefLabel": "S 132 Langedalen-Arnavågen",
-    "@skos:altLabel": "NO-132LANGEVAGEN",
+    "@skos:altLabel": "NO-LANGEDALENARN",
     "@cim:IdentifiedObject.mRID": "50TL00000003050P",
     "@cim:IdentifiedObject.name": "S 132 Langedalen-Arnavågen",
     "@cim:Names.name": [
-        "NO-132LANGEVAGEN",
+        "NO-LANGEDALENARN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

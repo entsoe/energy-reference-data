@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002718Z",
-    "@skos:prefLabel": "N 22 Åmela-Dravlaus",
-    "@skos:altLabel": "NO-22AMELADRAVLA",
+    "@skos:prefLabel": "M 22 Åmela-Dravlaus",
+    "@skos:altLabel": "NO-AMELADRAVLAUS",
     "@cim:IdentifiedObject.mRID": "50TL00000002718Z",
-    "@cim:IdentifiedObject.name": "N 22 Åmela-Dravlaus",
+    "@cim:IdentifiedObject.name": "M 22 Åmela-Dravlaus",
     "@cim:Names.name": [
-        "NO-22AMELADRAVLA",
+        "NO-AMELADRAVLAUS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2020-11-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

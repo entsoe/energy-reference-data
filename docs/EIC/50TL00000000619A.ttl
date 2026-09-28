@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:DateAndOrTime.date "2020-11-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000619A" ;
-    cim:IdentifiedObject.name "N 132 Selbu-Hersjøen" ;
+    cim:IdentifiedObject.name "M 132 Selbu-Hersjøen" ;
     cim:Names.name "Internal Line",
-        "NO-132SELBUHERSJ" ;
+        "NO-SELBUHERSJOEN" ;
     dcterms:identifier "urn:eic:50TL00000000619A" ;
-    skos:altLabel "NO-132SELBUHERSJ" ;
+    skos:altLabel "NO-SELBUHERSJOEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 132 Selbu-Hersjøen" ;
+    skos:prefLabel "M 132 Selbu-Hersjøen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

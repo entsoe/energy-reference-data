@@ -12,23 +12,27 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:29XMYTILINEOSSA2",
-    "@skos:prefLabel": "Metlen Energy & Metals ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.",
-    "@skos:altLabel": "29XMYTILINEOSSA2",
+    "@skos:prefLabel": "MYTILINEOS GROUP OF COMPANIES SOCIETE ANONYME",
+    "@skos:altLabel": "MYTILINEOS_SA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Consumer, electricity production, supply and trading"
+    },
     "@cim:IdentifiedObject.mRID": "29XMYTILINEOSSA2",
-    "@cim:IdentifiedObject.name": "Metlen Energy & Metals ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.",
+    "@cim:IdentifiedObject.name": "MYTILINEOS GROUP OF COMPANIES SOCIETE ANONYME",
     "@cim:Names.name": [
-        "29XMYTILINEOSSA2",
-        "A00139156.GR",
+        "MYTILINEOS_SA",
         "EL094316669",
-        "Balance Responsible Party",
-        "Consumer",
+        "Trade Responsible Party",
         "Producer",
-        "Production Responsible Party",
-        "Trade Responsible Party"
+        "Consumer",
+        "Balance Responsible Party",
+        "Production Responsible party"
     ],
+    "@cim:IdentifiedObject.description": "Consumer, electricity production, supply and trading",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2026-05-15",
+    "@cim:DateAndOrTime.date": "2022-10-31",
     "@schema:vatID": "EL094316669",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

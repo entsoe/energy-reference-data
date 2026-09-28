@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000283Y",
-    "@skos:prefLabel": "Hellefoss Vest",
-    "@skos:altLabel": "NO-HELLEFOSS_VES",
+    "@skos:prefLabel": "Holmen",
+    "@skos:altLabel": "NO-HOLMEN",
     "@cim:IdentifiedObject.mRID": "50WP00000000283Y",
-    "@cim:IdentifiedObject.name": "Hellefoss Vest",
+    "@cim:IdentifiedObject.name": "Holmen",
     "@cim:Names.name": [
-        "NO-HELLEFOSS_VES",
+        "NO-HOLMEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2025-02-21",
+    "@cim:DateAndOrTime.date": "2019-08-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
