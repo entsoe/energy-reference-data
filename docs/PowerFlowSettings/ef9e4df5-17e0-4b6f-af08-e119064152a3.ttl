@@ -1,0 +1,38 @@
+@prefix cim: <http://cim.ucaiug.io/ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/PowerFlowSettings/ef9e4df5-17e0-4b6f-af08-e119064152a3> a cim:PowerFlowSettings,
+        skos:Concept ;
+    cim:IdentifiedObject.description "to be used by EMF in the merging process (CGM Build process)" ;
+    cim:IdentifiedObject.mRID "ef9e4df5-17e0-4b6f-af08-e119064152a3" ;
+    cim:IdentifiedObject.name "CGM Relaxed set" ;
+    cim:PowerFlowSettings.activePowerTolerance "0.5" ;
+    cim:PowerFlowSettings.algorithmKind cim:PowerFlowAlgorithmKind.fullNewtonRaphson ;
+    cim:PowerFlowSettings.continuousControlPriority "1" ;
+    cim:PowerFlowSettings.excludeFromLimitCheck cim:LimitCheckExclusionKind.initialViolation ;
+    cim:PowerFlowSettings.flatStart "true" ;
+    cim:PowerFlowSettings.flatStartInitialisationKind cim:FlatStartInitialisationKind.allNodesOneCondition ;
+    cim:PowerFlowSettings.impedanceThreshold "0.00003" ;
+    cim:PowerFlowSettings.interchangeControlEnabled "true" ;
+    cim:PowerFlowSettings.loadVoltageDependency "false" ;
+    cim:PowerFlowSettings.maxIterationsInnerLoop "50" ;
+    cim:PowerFlowSettings.maxIterationsOuterLoop "50" ;
+    cim:PowerFlowSettings.reactivePowerTolerance "0.5" ;
+    cim:PowerFlowSettings.respectActivePowerLimits "true" ;
+    cim:PowerFlowSettings.respectReactivePowerLimits "false" ;
+    cim:PowerFlowSettings.shiftKind cim:PowerShiftKind.conformLoadShift ;
+    cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.generationDistributionParticipationFactor ;
+    cim:PowerFlowSettings.switchedShuntControl "true" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
+    cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
+    cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
+    cim:PowerFlowSettings.transformerRatioTapControl "true" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.voltageTolerance "0.0001" ;
+    dcterms:identifier "urn:uuid:ef9e4df5-17e0-4b6f-af08-e119064152a3" ;
+    skos:definition "to be used by EMF in the merging process (CGM Build process)"@en ;
+    skos:inScheme <http://energy.referencedata.eu/PowerFlowSettings> ;
+    skos:prefLabel "CGM Relaxed set" ;
+    skos:topConceptOf <http://energy.referencedata.eu/PowerFlowSettings> .
+

@@ -2,8 +2,8 @@
 <rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/StandardClassificationTypeList">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2023-12-14</dcterms:modified>
-    <dcat:version>91</dcat:version>
+    <dcterms:modified>2026-06-04</dcterms:modified>
+    <dcat:version>95</dcat:version>
     <skos:prefLabel>StandardClassificationTypeList</skos:prefLabel>
     <dcterms:identifier>ET0013</dcterms:identifier>
     <skos:definition xml:lang="en">Indicates the classification mechanism used to group a set of objects together. The grouping may be of a detailed or a summary nature.</skos:definition>

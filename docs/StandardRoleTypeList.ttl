@@ -420,11 +420,25 @@ A party that is financially accountable for the reconciled volume of energy prod
     skos:prefLabel "Permission administrator" ;
     skos:topConceptOf <http://energy.referencedata.eu/StandardRoleTypeList> .
 
+<http://energy.referencedata.eu/StandardRoleTypeList/A60> a skos:Concept ;
+    dcterms:identifier "A60" ;
+    skos:definition "A party that has a mandate to provide information to other parties in the energy market."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardRoleTypeList> ;
+    skos:prefLabel "Data Provider" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardRoleTypeList> .
+
+<http://energy.referencedata.eu/StandardRoleTypeList/WK> a skos:Concept ;
+    dcterms:identifier "WK" ;
+    skos:definition "A party that provides interconnectivity services in an electronic data interchange environment."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardRoleTypeList> ;
+    skos:prefLabel "Value added network provider" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardRoleTypeList> .
+
 <http://energy.referencedata.eu/StandardRoleTypeList> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "ET0005" ;
-    dcterms:modified "2023-12-14" ;
+    dcterms:modified "2026-06-04" ;
     skos:definition "Identification of the role played by a party."@en ;
     skos:prefLabel "StandardRoleTypeList" ;
-    dcat:version "91" .
+    dcat:version "95" .
 

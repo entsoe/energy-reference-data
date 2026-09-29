@@ -8,118 +8,164 @@
     <dcat:keyword>PFS</dcat:keyword>
     <skos:definition xml:lang="en">List of commonly used Power Flow Settings</skos:definition>
   </skos:ConceptScheme>
-  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/9fe9b47b-468f-488a-bf35-0cf998b5ed2b">
-    <cim:IdentifiedObject.mRID>9fe9b47b-468f-488a-bf35-0cf998b5ed2b</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>IGM Convergence</cim:IdentifiedObject.name>
-    <cim:IdentifiedObject.description>CGM Process - IGM Convergence check before merging to CGM</cim:IdentifiedObject.description>
-    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/6efbd4ac-fbbf-42f8-a498-8dc819735be5">
+    <cim:IdentifiedObject.mRID>6efbd4ac-fbbf-42f8-a498-8dc819735be5</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>IGM Creation Set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used when TSOs are creating their IGMs for the purpose of CGM Build process</cim:IdentifiedObject.description>
     <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
     <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
+    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.conformLoadDistribution"/>
     <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
     <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
     <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
-    <cim:PowerFlowSettings.voltageAngleLimit>10</cim:PowerFlowSettings.voltageAngleLimit>
-    <cim:PowerFlowSettings.impedanceThreshold>1e-05</cim:PowerFlowSettings.impedanceThreshold>
-    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
     <cim:PowerFlowSettings.respectReactivePowerLimits>true</cim:PowerFlowSettings.respectReactivePowerLimits>
-    <cim:PowerFlowSettings.transformerRatioTapControlPriority>1</cim:PowerFlowSettings.transformerRatioTapControlPriority>
-    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>1</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
-    <cim:PowerFlowSettings.switchedShuntControlPriority>2</cim:PowerFlowSettings.switchedShuntControlPriority>
-    <cim:PowerFlowSettings.staticVarCompensatorControlPriority>2</cim:PowerFlowSettings.staticVarCompensatorControlPriority>
+    <cim:PowerFlowSettings.respectActivePowerLimits>false</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
+    <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>30</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerRatioTapControlPriority>3</cim:PowerFlowSettings.transformerRatioTapControlPriority>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>false</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.switchedShuntControlPriority>4</cim:PowerFlowSettings.switchedShuntControlPriority>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
+    <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
+    <skos:prefLabel>IGM Creation Set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used when TSOs are creating their IGMs for the purpose of CGM Build process</skos:definition>
+    <dcterms:identifier>urn:uuid:6efbd4ac-fbbf-42f8-a498-8dc819735be5</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/b768cbab-ceb2-4fdb-877a-cb3f6d4ad711">
+    <cim:IdentifiedObject.mRID>b768cbab-ceb2-4fdb-877a-cb3f6d4ad711</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>IGM Validation Set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used when validating IGMs as part of CGM Build process</cim:IdentifiedObject.description>
+    <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
+    <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
     <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionParticipationFactor"/>
-    <cim:PowerFlowSettings.interchangeControlEnabled>false</cim:PowerFlowSettings.interchangeControlEnabled>
-    <cim:PowerFlowSettings.maxIterationsInnerLoop>20</cim:PowerFlowSettings.maxIterationsInnerLoop>
-    <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
-    <skos:prefLabel>IGM Convergence</skos:prefLabel>
-    <skos:definition xml:lang="en">CGM Process - IGM Convergence check before merging to CGM</skos:definition>
-    <dcterms:identifier>urn:uuid:9fe9b47b-468f-488a-bf35-0cf998b5ed2b</dcterms:identifier>
-    <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
-    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
-  </skos:Concept>
-  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/e4068581-713b-4d37-88e7-bca1fd78a8f7">
-    <cim:IdentifiedObject.mRID>e4068581-713b-4d37-88e7-bca1fd78a8f7</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CGM Creation Default</cim:IdentifiedObject.name>
-    <cim:IdentifiedObject.description>CGM Process - Default settings to use when creating a CGM</cim:IdentifiedObject.description>
-    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
-    <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
-    <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
     <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
     <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
     <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
-    <cim:PowerFlowSettings.voltageAngleLimit>10</cim:PowerFlowSettings.voltageAngleLimit>
-    <cim:PowerFlowSettings.impedanceThreshold>1e-05</cim:PowerFlowSettings.impedanceThreshold>
-    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
     <cim:PowerFlowSettings.respectReactivePowerLimits>true</cim:PowerFlowSettings.respectReactivePowerLimits>
-    <cim:PowerFlowSettings.transformerRatioTapControlPriority>1</cim:PowerFlowSettings.transformerRatioTapControlPriority>
-    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>1</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
-    <cim:PowerFlowSettings.switchedShuntControlPriority>2</cim:PowerFlowSettings.switchedShuntControlPriority>
-    <cim:PowerFlowSettings.staticVarCompensatorControlPriority>2</cim:PowerFlowSettings.staticVarCompensatorControlPriority>
-    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"/>
-    <cim:PowerFlowSettings.interchangeControlEnabled>true</cim:PowerFlowSettings.interchangeControlEnabled>
+    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
     <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
-    <cim:PowerFlowSettings.maxIterationsOuterLoop>15</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>30</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerRatioTapControlPriority>3</cim:PowerFlowSettings.transformerRatioTapControlPriority>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>false</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.switchedShuntControlPriority>4</cim:PowerFlowSettings.switchedShuntControlPriority>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
     <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
-    <skos:prefLabel>CGM Creation Default</skos:prefLabel>
-    <skos:definition xml:lang="en">CGM Process - Default settings to use when creating a CGM</skos:definition>
-    <dcterms:identifier>urn:uuid:e4068581-713b-4d37-88e7-bca1fd78a8f7</dcterms:identifier>
+    <skos:prefLabel>IGM Validation Set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used when validating IGMs as part of CGM Build process</skos:definition>
+    <dcterms:identifier>urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711</dcterms:identifier>
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
   </skos:Concept>
-  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/0722a865-678e-4539-99a3-460e42d87b39">
-    <cim:IdentifiedObject.mRID>0722a865-678e-4539-99a3-460e42d87b39</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CGM Creation Relaxed 1</cim:IdentifiedObject.name>
-    <cim:IdentifiedObject.description>CGM Process - Relaxed settings with controls on transformers and shunts disabled. To be used when creating a CGM and CGM creation fails with Default settings</cim:IdentifiedObject.description>
-    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/23573ff8-f567-48c6-ab93-3df92afb3c35">
+    <cim:IdentifiedObject.mRID>23573ff8-f567-48c6-ab93-3df92afb3c35</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>CGM set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used by EMF in the merging process (CGM Build process)</cim:IdentifiedObject.description>
     <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
     <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
+    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionParticipationFactor"/>
     <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
     <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
     <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
-    <cim:PowerFlowSettings.voltageAngleLimit>10</cim:PowerFlowSettings.voltageAngleLimit>
-    <cim:PowerFlowSettings.impedanceThreshold>1e-05</cim:PowerFlowSettings.impedanceThreshold>
-    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
     <cim:PowerFlowSettings.respectReactivePowerLimits>true</cim:PowerFlowSettings.respectReactivePowerLimits>
-    <cim:PowerFlowSettings.transformerRatioTapControlPriority>0</cim:PowerFlowSettings.transformerRatioTapControlPriority>
-    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>0</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
-    <cim:PowerFlowSettings.switchedShuntControlPriority>0</cim:PowerFlowSettings.switchedShuntControlPriority>
-    <cim:PowerFlowSettings.staticVarCompensatorControlPriority>0</cim:PowerFlowSettings.staticVarCompensatorControlPriority>
-    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"/>
+    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
+    <cim:PowerFlowSettings.maxIterationsInnerLoop>50</cim:PowerFlowSettings.maxIterationsInnerLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>50</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerRatioTapControlPriority>3</cim:PowerFlowSettings.transformerRatioTapControlPriority>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>true</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>2</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.switchedShuntControlPriority>4</cim:PowerFlowSettings.switchedShuntControlPriority>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
     <cim:PowerFlowSettings.interchangeControlEnabled>true</cim:PowerFlowSettings.interchangeControlEnabled>
-    <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
-    <cim:PowerFlowSettings.maxIterationsOuterLoop>15</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.shiftKind rdf:resource="http://cim.ucaiug.io/ns#PowerShiftKind.conformLoadShift"/>
     <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
-    <skos:prefLabel>CGM Creation Relaxed 1</skos:prefLabel>
-    <skos:definition xml:lang="en">CGM Process - Relaxed settings with controls on transformers and shunts disabled. To be used when creating a CGM and CGM creation fails with Default settings</skos:definition>
-    <dcterms:identifier>urn:uuid:0722a865-678e-4539-99a3-460e42d87b39</dcterms:identifier>
+    <skos:prefLabel>CGM set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used by EMF in the merging process (CGM Build process)</skos:definition>
+    <dcterms:identifier>urn:uuid:23573ff8-f567-48c6-ab93-3df92afb3c35</dcterms:identifier>
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
   </skos:Concept>
-  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/af5ae620-edb8-46b3-a69f-a2d29b9610eb">
-    <cim:IdentifiedObject.mRID>af5ae620-edb8-46b3-a69f-a2d29b9610eb</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CGM Creation Relaxed 2</cim:IdentifiedObject.name>
-    <cim:IdentifiedObject.description>CGM Process - Relaxed settings with controls on transformers and shunts disabled and reactive power limits disabled. To be used when creating a CGM and CGM creation fails with CGM Creation Relaxed 1</cim:IdentifiedObject.description>
-    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/ef9e4df5-17e0-4b6f-af08-e119064152a3">
+    <cim:IdentifiedObject.mRID>ef9e4df5-17e0-4b6f-af08-e119064152a3</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>CGM Relaxed set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used by EMF in the merging process (CGM Build process)</cim:IdentifiedObject.description>
     <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
     <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
+    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionParticipationFactor"/>
     <cim:PowerFlowSettings.activePowerTolerance>0.5</cim:PowerFlowSettings.activePowerTolerance>
     <cim:PowerFlowSettings.reactivePowerTolerance>0.5</cim:PowerFlowSettings.reactivePowerTolerance>
     <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
-    <cim:PowerFlowSettings.voltageAngleLimit>10</cim:PowerFlowSettings.voltageAngleLimit>
-    <cim:PowerFlowSettings.impedanceThreshold>1e-05</cim:PowerFlowSettings.impedanceThreshold>
-    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
     <cim:PowerFlowSettings.respectReactivePowerLimits>false</cim:PowerFlowSettings.respectReactivePowerLimits>
-    <cim:PowerFlowSettings.transformerRatioTapControlPriority>0</cim:PowerFlowSettings.transformerRatioTapControlPriority>
-    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>0</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
-    <cim:PowerFlowSettings.switchedShuntControlPriority>0</cim:PowerFlowSettings.switchedShuntControlPriority>
-    <cim:PowerFlowSettings.staticVarCompensatorControlPriority>0</cim:PowerFlowSettings.staticVarCompensatorControlPriority>
-    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"/>
+    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
+    <cim:PowerFlowSettings.maxIterationsInnerLoop>50</cim:PowerFlowSettings.maxIterationsInnerLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>50</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerRatioTapControlPriority>3</cim:PowerFlowSettings.transformerRatioTapControlPriority>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>true</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.transformerPhaseTapControlPriority>2</cim:PowerFlowSettings.transformerPhaseTapControlPriority>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.switchedShuntControlPriority>4</cim:PowerFlowSettings.switchedShuntControlPriority>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
     <cim:PowerFlowSettings.interchangeControlEnabled>true</cim:PowerFlowSettings.interchangeControlEnabled>
-    <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
-    <cim:PowerFlowSettings.maxIterationsOuterLoop>15</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.shiftKind rdf:resource="http://cim.ucaiug.io/ns#PowerShiftKind.conformLoadShift"/>
     <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
-    <skos:prefLabel>CGM Creation Relaxed 2</skos:prefLabel>
-    <skos:definition xml:lang="en">CGM Process - Relaxed settings with controls on transformers and shunts disabled and reactive power limits disabled. To be used when creating a CGM and CGM creation fails with CGM Creation Relaxed 1</skos:definition>
-    <dcterms:identifier>urn:uuid:af5ae620-edb8-46b3-a69f-a2d29b9610eb</dcterms:identifier>
+    <skos:prefLabel>CGM Relaxed set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used by EMF in the merging process (CGM Build process)</skos:definition>
+    <dcterms:identifier>urn:uuid:ef9e4df5-17e0-4b6f-af08-e119064152a3</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://energy.referencedata.eu/PowerFlowSettings/d4c45d75-8ac5-450d-ab24-d10f3155352a">
+    <cim:IdentifiedObject.mRID>d4c45d75-8ac5-450d-ab24-d10f3155352a</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Model Debug set</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>to be used for testing and model debug sessions. No business process is expected to run using these settings. It is not the only set of settings that can be used for the model debug. It is considered 1st choice. Main feature, control is disabled.</cim:IdentifiedObject.description>
+    <cim:PowerFlowSettings.algorithmKind rdf:resource="http://cim.ucaiug.io/ns#PowerFlowAlgorithmKind.fullNewtonRaphson"/>
+    <cim:PowerFlowSettings.flatStart>true</cim:PowerFlowSettings.flatStart>
+    <cim:PowerFlowSettings.flatStartInitialisationKind rdf:resource="http://cim.ucaiug.io/ns#FlatStartInitialisationKind.allNodesOneCondition"/>
+    <cim:PowerFlowSettings.slackDistributionKind rdf:resource="http://cim.ucaiug.io/ns#SlackDistributionKind.generationDistributionParticipationFactor"/>
+    <cim:PowerFlowSettings.activePowerTolerance>0.1</cim:PowerFlowSettings.activePowerTolerance>
+    <cim:PowerFlowSettings.reactivePowerTolerance>0.1</cim:PowerFlowSettings.reactivePowerTolerance>
+    <cim:PowerFlowSettings.voltageTolerance>0.0001</cim:PowerFlowSettings.voltageTolerance>
+    <cim:PowerFlowSettings.impedanceThreshold>0.00003</cim:PowerFlowSettings.impedanceThreshold>
+    <cim:PowerFlowSettings.loadVoltageDependency>false</cim:PowerFlowSettings.loadVoltageDependency>
+    <cim:PowerFlowSettings.respectReactivePowerLimits>true</cim:PowerFlowSettings.respectReactivePowerLimits>
+    <cim:PowerFlowSettings.respectActivePowerLimits>true</cim:PowerFlowSettings.respectActivePowerLimits>
+    <cim:PowerFlowSettings.excludeFromLimitCheck rdf:resource="http://cim.ucaiug.io/ns#LimitCheckExclusionKind.initialViolation"/>
+    <cim:PowerFlowSettings.maxIterationsInnerLoop>30</cim:PowerFlowSettings.maxIterationsInnerLoop>
+    <cim:PowerFlowSettings.maxIterationsOuterLoop>30</cim:PowerFlowSettings.maxIterationsOuterLoop>
+    <cim:PowerFlowSettings.transformerRatioTapControl>true</cim:PowerFlowSettings.transformerRatioTapControl>
+    <cim:PowerFlowSettings.transformerPhaseTapControl>true</cim:PowerFlowSettings.transformerPhaseTapControl>
+    <cim:PowerFlowSettings.switchedShuntControl>true</cim:PowerFlowSettings.switchedShuntControl>
+    <cim:PowerFlowSettings.continuousControlPriority>1</cim:PowerFlowSettings.continuousControlPriority>
+    <cim:PowerFlowSettings.interchangeControlEnabled>true</cim:PowerFlowSettings.interchangeControlEnabled>
+    <cim:PowerFlowSettings.shiftKind rdf:resource="http://cim.ucaiug.io/ns#PowerShiftKind.conformLoadShift"/>
+    <rdf:type rdf:resource="http://cim.ucaiug.io/ns#PowerFlowSettings"/>
+    <skos:prefLabel>Model Debug set</skos:prefLabel>
+    <skos:definition xml:lang="en">to be used for testing and model debug sessions. No business process is expected to run using these settings. It is not the only set of settings that can be used for the model debug. It is considered 1st choice. Main feature, control is disabled.</skos:definition>
+    <dcterms:identifier>urn:uuid:d4c45d75-8ac5-450d-ab24-d10f3155352a</dcterms:identifier>
     <skos:inScheme rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/PowerFlowSettings"/>
   </skos:Concept>

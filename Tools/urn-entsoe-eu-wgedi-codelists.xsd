@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xsd:schema xmlns:ecl="urn:entsoe.eu:wgedi:codelists" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:entsoe.eu:wgedi:codelists" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:adms="http://www.w3.org/ns/adms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcterms="http://purl.org/dc/terms/#" xmlns:ecl="urn:entsoe.eu:wgedi:codelists" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:entsoe.eu:wgedi:codelists" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:include schemaLocation="urn-entsoe-eu-local-extension-types.xsd" />
   <xsd:annotation>
     <xsd:documentation>
-      <Version>91</Version>
+      <Version>95</Version>
       <Title>Complete compilation of ENTSO-E Code Lists used by ENTSO-E XML electronic documents and CIM XML electronic documents.</Title>
-      <Release>0</Release>
-      <ReleaseDate>2023-12-14</ReleaseDate>
+      <Release>1</Release>
+      <ReleaseDate>2026-06-04</ReleaseDate>
     </xsd:documentation>
   </xsd:annotation>
   <xsd:simpleType name="StandardAllocationModeTypeList">
@@ -424,6 +424,547 @@
             <CodeDescription>
               <Title>Minimum remaining available margin target</Title>
               <Definition>Target capacity for exchanges by deducing the exchanges not related to the region.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A37">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Average voltage</Title>
+              <Definition>Average voltage on two connecting nodes of a critical network element resulting from AC load flow calculation with applied reactive power constraints (U).</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A38">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Average power factor</Title>
+              <Definition>Average power factor on two connecting nodes of a critical network element resulting from AC load flow calculation (cos phi).</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A39">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Lower ramp rate</Title>
+              <Definition>The maximum rate that the output can be lowered by.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A40">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Raise ramp rate</Title>
+              <Definition>The maximum rate that the output can be raised by.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A41">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Negative reference flow</Title>
+              <Definition>The amount of power negatively affected by a contingency that reflects a situation with scheduled exchanges from a reference situation. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A42">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Negative flow due to non-costly remedial actions</Title>
+              <Definition>Negative expected flow change due to non-costly remedial actions.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardAreaTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>ET0013</Uid>
+        <Definition>The coded identification of the type of area or domain.</Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="A01">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Bidding Zone</Title>
+              <Definition>A Bidding Zone (BZ) is the largest geographical area within which market participants are able to exchange energy without capacity allocation.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A02">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Metering Grid Area</Title>
+              <Definition>A Metering Grid Area (MGA) is a physical area where consumption, production and exchange can be measured. It is delimited by the placement of meters for continuous measurement for input to, and withdrawal from the area. 
+&lt;b&gt;Additional information:&lt;/b&gt;
+It can be used to establish volumes that cannot be measured such as network losses.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Capacity Calculation Region</Title>
+              <Definition>HEMRM definition: 
+The Capacity Calculation Region is the geographic area in which coordinated capacity calculation is applied. 
+Based on: Consolidated text: Commission Regulation (EU) 2015/1222. 
+&lt;b&gt;Additional information:&lt;/b&gt; 
+The transmission capacity between Bidding Zones, included in the Capacity Calculation Region, is given to the Balance Responsible Parties through an implicit capacity allocation process or through an explicit allocation auction.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A04">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Control Area</Title>
+              <Definition>HEMRM definition: 
+A coherent part of the interconnected system, operated by a single System Operator and shall include connected physical loads and/or generation units if any. 
+Source: Consolidated text: Commission Regulation (EU) No 543/2013.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A05">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Coordination Center Zone</Title>
+              <Definition>HEMRM definition: 
+The composition of a number of LFC Blocks under the responsibility of the same Coordination Centre Operator. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A06">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>FRR Sharing Region</Title>
+              <Definition>HEMRM definition: 
+A set of LFC Areas of the same synchronous area, but not necessarily the same Bidding Zone. All LFC Areas of a FRR Sharing Region share a certain amount of FRR with each other.  
+Based on: Consolidated text: Commission Regulation (EU) 2017/1485, Article 168.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A07">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>ITC</Title>
+              <Definition>EIC definition: 
+A cross border tariff market is composed of a group of System Operators that accept a common set of rules for the invoicing of energy flows over the border. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A08">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>LFC Area</Title>
+              <Definition>HEMRM definition: 
+A part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC Areas, operated by one or more TSOs fulfilling the obligations of load-frequency control. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A09">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>LFC Block</Title>
+              <Definition>HEMRM definition: 
+A part of a synchronous area or an entire synchronous area, physically demarcated by points of measurement at interconnectors to other LFC Blocks, consisting of one or more LFC Areas, operated by one or more TSOs fulfilling the obligations of load-frequency control. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485 </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A10">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Local Market Area</Title>
+              <Definition>EIC definition: 
+A Market Area where there is no transmission capacity restrictions between the Market Balance Areas. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A11">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Market Area</Title>
+              <Definition>EIC definition: 
+An area made up of several Market Balance Areas interconnected through AC or DC links. Trade is allowed between different Market Balance Areas with common market rules for trading across the interconnection. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A12">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Outage Coordination Region</Title>
+              <Definition>EIC definition: 
+A combination of Control Areas for which all the System Operators directly involved define procedures to monitor and where necessary, coordinate the availability status of relevant assets in all timeframes. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A13">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>R G C E Interconnected Group</Title>
+              <Definition>HEMRM definition: 
+The composition of a number of Coordination Centre Zones, operating under RGCE (Regional Group Continental Europe) rules, where the exchange and compensation programmes within the zone must sum up to zero. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A14">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Regional Outage Area</Title>
+              <Definition>EIC definition: 
+A combination of control areas for which TSOs implement outage coordination procedure. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A15">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Scheduling Area</Title>
+              <Definition>HEMRM definition: 
+An area within which the TSOs' obligations regarding scheduling apply due to operational or organisational needs. 
+Source: Consolidated text: Commission Regulation (EU) 2017/1485. 
+&lt;b&gt;Additional information:  &lt;/b&gt;
+This area consists of one or more Metering Grid Areas with common market rules for which the settlement responsible party carries out an imbalance settlement and which has the same price for imbalance. 
+This covers both Imbalance Area and Imbalance Price Area from the Consolidated text: Commission Regulation (EU) 2017/2195. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A16">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Synchronous Area</Title>
+              <Definition>HEMRM definition: 
+An area covered by synchronously interconnected LFC blocks. 
+Based on: Commission Regulation (EU) 2016/631, Art. 2 - Definitions. 
+&lt;b&gt;Additional information&lt;/b&gt;:  
+Examples of Synchronous Areas are Continental Europe, Great Britain, Ireland-Northern Ireland, Nordic and the power systems of Lithuania, Latvia and Estonia, together referred to as ‘Baltic’ which are part of a wider synchronous area (IPS/UPS). </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A17">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Accounting Point</Title>
+              <Definition>HEMRM definition: 
+A domain under balance responsibility where Energy Supplier change can take place and for which commercial business processes are defined.  
+&lt;b&gt;Additional information: &lt;/b&gt;
+This is a type of Metering Point. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A18">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Connection Point</Title>
+              <Definition>EIC definition: 
+The interface at which the power generating module, demand facility, distribution system or HVDC system is connected to a transmission system, offshore network, distribution system, including closed distribution systems, or HVDC system, as identified in the connection agreement. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A19">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Exchange Point</Title>
+              <Definition>HEMRM definition: 
+A domain for establishing energy exchange between two Metering Grid Areas.  
+&lt;b&gt;Additional information: &lt;/b&gt;
+This is a type of Metering Point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A20">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Metering Point</Title>
+              <Definition>HEMRM definition: 
+An entity where energy products are measured or computed. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A21">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Virtual Interconnection Points</Title>
+              <Definition>EIC definition: 
+Two or more interconnection points which connect the same two adjacent entry-exit systems, integrated together for the purposes of providing a single capacity service. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A22">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Virtual Trading Points</Title>
+              <Definition>EIC definition: 
+Virtual Trading Point: Trading location where (gas) energy can be traded between network users (Shippers) themselves and/or with traders. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A23">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>AC/DC Convertor</Title>
+              <Definition>EIC definition: 
+AC/DC converters are electrical circuits that transform alternating current (AC) into direct current (DC) and vice versa. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A24">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Busbar Coupler</Title>
+              <Definition>EIC definition: 
+Bus coupler is a device which is used to couple one bus to the other without any interruption in power supply and without creating hazardous arcs. Bus coupler is a breaker used to couple two busbars in order to perform maintenance on other circuit breakers associated with that busbar. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A25">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Compressor Station</Title>
+              <Definition>EIC definition: 
+Facility in the gas transmission system that allows the control of the gas flow and to increase the pressure in the high pressure pipe lines. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A26">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Corridor</Title>
+              <Definition>EIC definition: 
+Set of two or more tielines, describing a multi-circuit connection. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A27">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Flow Control Station</Title>
+              <Definition>EIC definition: 
+Facility in the gas transmission system that allows the regulation of pressure and the gas flow in the high pressure pipe lines. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A28">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Gas Treatment Facility</Title>
+              <Definition>EIC definition: 
+
+Facility in the gas transmission system that allows processing of the gas in order to meet the required physical and chemical specifications. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A29">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Internal Line</Title>
+              <Definition>EIC definition: 
+A transmission line that does not cross different areas. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A30">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Internal Tie-Line</Title>
+              <Definition>EIC definition: 
+Line is a line between two scheduling areas within the same bidding zone. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A31">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Odorization Facility</Title>
+              <Definition>EIC definition: 
+Facility in the gas transmission system that allows the addition of odorant to natural gas for leak detection awareness. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A32">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Transformer</Title>
+              <Definition>EIC definition: 
+A Static piece of apparatus with two or more windings which, by electromagnetic induction, transforms a system of alternating voltage and current into another system of voltage and current usually of different values and at the same frequency for the purpose of transmitting electrical power. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A33">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Endpoint</Title>
+              <Definition>EIC definition: 
+Unique identification of Endpoint within single ECP network. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A34">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>IT-system</Title>
+              <Definition>EIC definition: 
+Common IT system for market parties. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A35">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>IT-topic</Title>
+              <Definition>EIC definition: 
+An IT-topic is a functional address, which allows a sender to address multiple recipients at the same time. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A36">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Location</Title>
+              <Definition>EIC definition: 
+An endpoint, or IT-system. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A37">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Busbar</Title>
+              <Definition>EIC definition: 
+A busbar is a system of electrical conductors in a generating or receiving substation on which power is concentrated for distribution. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A38">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Dynamic reactive power device</Title>
+              <Definition>EIC definition: 
+A dynamic reactive power device is an equipment capable of measuring the reactive power consumed in the phase in which it is installed and providing the reactive power required in a gradual way, from zero to maximum capacitive and/or from zero to the maximum inductive. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A39">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Harmonic Filter</Title>
+              <Definition>EIC definition: 
+A harmonic filter reduces the harmonic currents flowing in the power system from the source and thereby reduce the harmonic voltage distortion in the system. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A40">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Substation</Title>
+              <Definition>EIC definition: 
+Facility equipment that steps up or steps down the voltage in utility power lines. Voltage is stepped up where power is sent through long distance transmission lines, and stepped down where the power is to enter local distribution lines. They can be classified as normal outside substation, armoured substation and underground substation. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A41">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Bidding Zone Border</Title>
+              <Definition>HEMRM definition: 
+Defines the aggregated connection capacity between two Bidding Zones. 
+A market area (Which defines the aggregated connection capacity between two Bidding Zones) where the transmission capacity between the Bidding Zones is given to the Balance Responsible Parties according to rules carried out by a Transmission Capacity Allocator. Trade between Bidding Zones is carried out on a bilateral or unilateral basis. </Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -1073,7 +1614,7 @@
           <xsd:documentation>
             <CodeDescription>
               <Title>Nuclear light water reactor</Title>
-              <Definition>A unit in which the heat source is a light-water reactor (LWR) that is a type of thermal-neutron reactor that uses normal water, as both its coolant and neutron moderator – furthermore a solid form of fissile elements is used as fuel. </Definition>
+              <Definition>A unit in which the heat source is a light-water reactor (LWR) that is a type of thermal-neutron reactor that uses normal water, as both its coolant and neutron moderator � furthermore a solid form of fissile elements is used as fuel. </Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -1314,6 +1855,26 @@
             <CodeDescription>
               <Title>Chlor-alkali electrolysis by-product</Title>
               <Definition>Alkali electrolysis product.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B75">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>ACDC converter</Title>
+              <Definition>ACDC converters are electrical circuits that transform alternating current (AC) into direct current (DC) and vice versa.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B76">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Converter</Title>
+              <Definition>Electrical device that converts current between AC and DC.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -3212,7 +3773,7 @@ Critical network elements are displayed in details and their impact on the marke
           <xsd:documentation>
             <CodeDescription>
               <Title>Outage (OUT)</Title>
-              <Definition>Outage process: Element is out of operation due to planned maintenance or due to an unplanned/forced outage. Outage may be used as a synonym for unavailability. </Definition>
+              <Definition>Outage process where the element is out of operation due to planned maintenance or an unplanned outage. Outage may be used as a synonym for unavailability.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -4222,7 +4783,7 @@ Critical network elements are displayed in details and their impact on the marke
           <xsd:documentation>
             <CodeDescription>
               <Title>Faster than standard FAT</Title>
-              <Definition>Bids that can support a “Full Activation Time” (FAT) that is faster than standard FAT. Fast activation can be done for bids with activation time shorter than the minimum requirement for the standard product. When circumstances call for it, the TSO can order activation of such bids on a shorter notice.</Definition>
+              <Definition>Bids that can support a �Full Activation Time� (FAT) that is faster than standard FAT. Fast activation can be done for bids with activation time shorter than the minimum requirement for the standard product. When circumstances call for it, the TSO can order activation of such bids on a shorter notice.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -4323,6 +4884,36 @@ Critical network elements are displayed in details and their impact on the marke
             <CodeDescription>
               <Title>Permission administration details</Title>
               <Definition>A timeseries describing permission details such as authorisations, licenses or related regulatory requirements.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="C94">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Maximum capacity value of AC border flow</Title>
+              <Definition>Maximum flow on an AC border between two areas (capacity)</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="C95">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Initial forecast value of AC border flow</Title>
+              <Definition>Initial flow on an AC border between two areas (forecast)</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="C96">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Forced outage (FO)</Title>
+              <Definition>Outage process where the element is out of operation due to a forced outage. </Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -4437,12 +5028,22 @@ Critical network elements are displayed in details and their impact on the marke
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="A03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>ISO</Title>
+              <Definition>The coding scheme for the preceding attribute is a code maintained by International Organization for Standardization (ISO), such as “ISO 3166 &lt;i&gt;English&lt;/i&gt; &lt;i&gt;country names and code elements&lt;/i&gt;”.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
       <xsd:enumeration value="A10">
         <xsd:annotation>
           <xsd:documentation>
             <CodeDescription>
-              <Title>GS1</Title>
-              <Definition>The coding scheme for the preceding attribute is the Global Location Number (GLN 13) or Global Service Relation Number (GSRN 18), maintained by GS1.</Definition>
+              <Title>Coding scheme which are part of GS1 system</Title>
+              <Definition>The coding schemes maintained by GS1.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -4913,6 +5514,167 @@ Critical network elements are displayed in details and their impact on the marke
             <CodeDescription>
               <Title>Ukraine National coding scheme</Title>
               <Definition>The National coding scheme of the country in question.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardconnectionCategoryTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>ET0013</Uid>
+        <Definition>The coded identification of the connection category, e.g. low voltage, where the meter operates..</Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="E03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Maximum voltage</Title>
+              <Definition>A maximum voltage connection category.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E04">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>High voltage</Title>
+              <Definition>A high voltage connection category.
+</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E05">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Medium voltage</Title>
+              <Definition>A medium voltage connection category.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E06">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Low voltage</Title>
+              <Definition>A low voltage connection category.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E07">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>High voltage / transformation</Title>
+              <Definition>A high voltage connection category with transformation.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E08">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Medium voltage / transformation</Title>
+              <Definition>A  medium voltage connection category with transformation</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E09">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Low voltage / transformation</Title>
+              <Definition>A low voltage  connection category with transformation</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E10">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Low pressure</Title>
+              <Definition>A low pressure connection category</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E11">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>High pressure</Title>
+              <Definition>A high pressure connection category</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E12">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Medium pressure</Title>
+              <Definition>A medium pressure connection category</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardCustomerTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>ET0013</Uid>
+        <Definition>The coded identification of the type of customer such as household customer or company customer.</Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="A01">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Household customer</Title>
+              <Definition>The customer is a household customer.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A02">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Deceased household customer</Title>
+              <Definition>The customer is a deceased household customer. May be used for handling an estate of a deceased person, because the market parties often handle these customers in a different way as other customers.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Company customer</Title>
+              <Definition>The customer is a company customer.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A04">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Estate company customer</Title>
+              <Definition>The customer is an estate company customer. May be used when a company customer is bankrupt and the debtor's contract must be terminated.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -5670,6 +6432,57 @@ The significance of this type is dependent on area specific coded working method
       </xsd:enumeration>
     </xsd:restriction>
   </xsd:simpleType>
+  <xsd:simpleType name="StandardFlowCommodityOptionTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>
+        </Uid>
+        <Definition>The option of flow commodity, such as production, consumption, combined or exchange. </Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="E17">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Consumption</Title>
+              <Definition>The coded identification of the type of entity, e.g. consumption metering point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E18">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Production</Title>
+              <Definition>The coded identification of the type of entity, e.g. production metering point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E19">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Combined</Title>
+              <Definition>The coded identification of the type of entity, e.g. combined consumption and production metering point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E20">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Exchange</Title>
+              <Definition>The coded identification of the type of entity, e.g. exchange metering point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
   <xsd:simpleType name="StandardFuelTypeList">
     <xsd:annotation>
       <xsd:documentation>
@@ -6225,6 +7038,57 @@ Methane , Hydrogen (fossil sourced) ,Phosphor gas ,Oxy gas and other types.</Def
             <CodeDescription>
               <Title>Hydrogen</Title>
               <Definition>Hydrogen energy source.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardGridAgreementTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>
+        </Uid>
+        <Definition>Contract dirctly</Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="E01">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Grid usage contract directly between Grid Access Provider and Customer</Title>
+              <Definition>The grid usage contract is a contract directly between the grid access provider and the customer.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E02">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Grid usage contract  directly between Energy Supplier and Grid Access Provider</Title>
+              <Definition>The grid usage contract is a contract directly between the energy supplier and the grid access provider.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Grid usage contract  between Grid Access Provider and Customer through Energy Supplier</Title>
+              <Definition>The grid usage contract is a contract between the grid access provider and customer through the energy supplier.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E04">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>No grid usage contract</Title>
+              <Definition>There is no grid usage contract that must be signed by the customer.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -7792,6 +8656,26 @@ This enumeration is used in the XML instances based on IEC 62325.</Definition>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="B51">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Transmission inventory document</Title>
+              <Definition>A document providing a transmission inventory.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B52">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Transmission inventory</Title>
+              <Definition>A document providing statistics on the transmission grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:simpleType name="StandardMarketProductTypeList">
@@ -7908,6 +8792,56 @@ This enumeration is used in the XML instances based on IEC 62325.</Definition>
             <CodeDescription>
               <Title>Fast activation product</Title>
               <Definition>The fast activation product shall be considered as a fall-back solution for situations where coordination with all parties is no longer possible due to insufficient time and the regular product could not be properly applied.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A12">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Remedial Action Cost Sharing Polluter Pays</Title>
+              <Definition>Cost sharing of coordinated remedial action measures (redispatch and countertrading) under the polluter pays principle.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A13">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Static product</Title>
+              <Definition>The market product type is static. E.g. used in the Frequency Containment Reserve (FCR) market for entities that have difficulties to comply with dynamic requirements, such as activation/deactivation performance and dynamic stability. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A14">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Dynamic product</Title>
+              <Definition>The market product type is dynamic. E.g. used in the Frequency Containment Reserve (FCR) market for entities that can provide continuous response and comply with dynamic requirements.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A15">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>RedispatchA15)</Title>
+              <Definition>Indicates the redispatch product.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A16">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Capacity Steering</Title>
+              <Definition>Indicates the capacity steering product.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -8646,6 +9580,16 @@ This enumeration is used in the XML instances based on IEC 62325.</Definition>
         <xsd:annotation>
           <xsd:documentation>
             <CodeDescription>
+              <Title>Congestion Management Settlement</Title>
+              <Definition>The information provided concerns the Financial Settlement of congestion management for a given period.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A36">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
               <Title>Creation</Title>
               <Definition>The process being described is for the creation of information.</Definition>
             </CodeDescription>
@@ -9032,6 +9976,16 @@ This enumeration is used in the XML instances based on IEC 62325.</Definition>
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="A75">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Permission administration</Title>
+              <Definition>Administration of permissions to access and/or use data.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:simpleType name="StandardQualityTypeList">
@@ -9098,6 +10052,16 @@ This enumeration is used in the XML instances based on IEC 62325.</Definition>
             <CodeDescription>
               <Title>Calculated</Title>
               <Definition>The contents of the object are calculated. The code is typically used when a value is calculated based on several other known values.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A07">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Temporary</Title>
+              <Definition>The content of the object is temporary. The code is typically used when there is communication trouble to a meter and a more correct value is expected later. </Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -10624,6 +11588,159 @@ In the case of a Final Confirmation Report this is informing the recipient that 
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="B71">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>(Explicit) Permission from the customer</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: The data subject has given consent to the processing of his or her personal data for one or more specific purposes.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B72">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>In execution of a contract with the customer (Execution of contract)</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B73">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Legal obligations</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for compliance with a legal obligation to which the controller is subject.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B74">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>In protection of vital interests of the customer</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary in order to protect the vital interests of the data subject or of another natural person.
+</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B75">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>In order to perform a duty of common (national) interest</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B76">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Justified interest of the dataprocessee</Title>
+              <Definition>Based on the regulation (EU) 2016/679 (GDPR) Article 6, Lawfulness of processing: Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child
+</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B77">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Fulfilment of purpose</Title>
+              <Definition>The purpose of the object or action has been fulfilled.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B78">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Reach of end timestamp</Title>
+              <Definition>The object or action has reached its end timestamp.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B79">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Revocation</Title>
+              <Definition>Revocation of the action or object.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B80">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Termination</Title>
+              <Definition>Termination of the action or object.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B81">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>No valid grid access contract</Title>
+              <Definition>There is no valid grid access contract for a specific metering point. There is no valid grid access contract for a specific metering point.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B82">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Customer move-out</Title>
+              <Definition>A customer has moved out. </Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B83">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Capacity increased by TSO</Title>
+              <Definition>Describes a capacity that was increased by a TSO</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B84">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Reference values applied</Title>
+              <Definition>Reference values applied on time series through reconciliation</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="B85">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Reference missing or outdated</Title>
+              <Definition>Reference values missing or outdated.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:simpleType name="StandardRightsTypeList">
@@ -11299,6 +12416,58 @@ A party that is financially accountable for the reconciled volume of energy prod
           </xsd:documentation>
         </xsd:annotation>
       </xsd:enumeration>
+      <xsd:enumeration value="A60">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Data Provider</Title>
+              <Definition>A party that has a mandate to provide information to other parties in the energy market.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="WK">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Value added network provider</Title>
+              <Definition>A party that provides interconnectivity services in an electronic data interchange environment.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardSettlementMethodTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>
+        </Uid>
+        <Definition>
+        </Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="E01">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Profiled</Title>
+              <Definition>The settlement method regards profiled metered accounting points.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="E02">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Non-profiled</Title>
+              <Definition>The settlement method regards continuous metered (non-profiled) accounting points.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
     </xsd:restriction>
   </xsd:simpleType>
   <xsd:simpleType name="StandardStatusTypeList">
@@ -11435,7 +12604,7 @@ In this case the resources are no longer available to all Acquiring System Opera
           <xsd:documentation>
             <CodeDescription>
               <Title>Withdrawn</Title>
-              <Definition>The information has been withdrawn by the submitter.</Definition>
+              <Definition>The information or action has been withdrawn by the submitter.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -12036,6 +13205,116 @@ In this case the resources are no longer available to all Acquiring System Opera
             <CodeDescription>
               <Title>Delta</Title>
               <Definition>Describes a status representing a difference between two values.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A74">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Validated</Title>
+              <Definition>The object or action was validated.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A75">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Invalid</Title>
+              <Definition>The object or action was invalid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A76">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Timed out</Title>
+              <Definition>The object or action was timed out.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="StandardSubAreaTypeList">
+    <xsd:annotation>
+      <xsd:documentation>
+        <Uid>ET0013</Uid>
+        <Definition>The coded identification of the area sub-type, such as the type of Metering Grid Area.</Definition>
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:NMTOKEN">
+      <xsd:enumeration value="A01">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Regional</Title>
+              <Definition>The domain represents a regional grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A02">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Industrial</Title>
+              <Definition>The domain represents an industrial grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A03">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Distribution</Title>
+              <Definition>The domain represents a distribution grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A04">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Non-concessional</Title>
+              <Definition>The domain represents a non-concessional grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A05">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Production</Title>
+              <Definition>The domain represents the production in a grid.</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A06">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Transmission (main/central grid)</Title>
+              <Definition>The domain represents a transmission (main/central grid).</Definition>
+            </CodeDescription>
+          </xsd:documentation>
+        </xsd:annotation>
+      </xsd:enumeration>
+      <xsd:enumeration value="A07">
+        <xsd:annotation>
+          <xsd:documentation>
+            <CodeDescription>
+              <Title>Sub-Grid Area</Title>
+              <Definition>The domain represent a sub-gid area, i.e. a domain that is not part of the imbalance settlement, but where a supplier change can take place.</Definition>
             </CodeDescription>
           </xsd:documentation>
         </xsd:annotation>
@@ -14130,6 +15409,9 @@ Therefore, you are kindly advised to refer to the MessageType enumeration, which
   <xsd:simpleType name="AnalogTypeList">
     <xsd:union memberTypes="ecl:StandardAnalogTypeList ecl:LocalAnalogType" />
   </xsd:simpleType>
+  <xsd:simpleType name="AreaTypeList">
+    <xsd:union memberTypes="ecl:StandardAreaTypeList ecl:LocalAreaType" />
+  </xsd:simpleType>
   <xsd:simpleType name="AssetTypeList">
     <xsd:union memberTypes="ecl:StandardAssetTypeList ecl:LocalAssetType" />
   </xsd:simpleType>
@@ -14147,6 +15429,12 @@ Therefore, you are kindly advised to refer to the MessageType enumeration, which
   </xsd:simpleType>
   <xsd:simpleType name="CodingSchemeTypeList">
     <xsd:union memberTypes="ecl:StandardCodingSchemeTypeList ecl:LocalCodingSchemeType" />
+  </xsd:simpleType>
+  <xsd:simpleType name="connectionCategoryTypeList">
+    <xsd:union memberTypes="ecl:StandardconnectionCategoryTypeList ecl:LocalconnectionCategoryType" />
+  </xsd:simpleType>
+  <xsd:simpleType name="CustomerTypeList">
+    <xsd:union memberTypes="ecl:StandardCustomerTypeList ecl:LocalCustomerType" />
   </xsd:simpleType>
   <xsd:simpleType name="CoordinateSystemTypeList">
     <xsd:union memberTypes="ecl:StandardCoordinateSystemTypeList ecl:LocalCoordinateSystemType" />
@@ -14169,8 +15457,14 @@ Therefore, you are kindly advised to refer to the MessageType enumeration, which
   <xsd:simpleType name="EnergyProductTypeList">
     <xsd:union memberTypes="ecl:StandardEnergyProductTypeList ecl:LocalEnergyProductType" />
   </xsd:simpleType>
+  <xsd:simpleType name="FlowCommodityOptionTypeList">
+    <xsd:union memberTypes="ecl:StandardFlowCommodityOptionTypeList ecl:LocalFlowCommodityOptionType" />
+  </xsd:simpleType>
   <xsd:simpleType name="FuelTypeList">
     <xsd:union memberTypes="ecl:StandardFuelTypeList ecl:LocalFuelType" />
+  </xsd:simpleType>
+  <xsd:simpleType name="GridAgreementTypeList">
+    <xsd:union memberTypes="ecl:StandardGridAgreementTypeList ecl:LocalGridAgreementType" />
   </xsd:simpleType>
   <xsd:simpleType name="HVDCModeTypeList">
     <xsd:union memberTypes="ecl:StandardHVDCModeTypeList ecl:LocalHVDCModeType" />
@@ -14214,8 +15508,14 @@ Therefore, you are kindly advised to refer to the MessageType enumeration, which
   <xsd:simpleType name="RoleTypeList">
     <xsd:union memberTypes="ecl:StandardRoleTypeList ecl:LocalRoleType" />
   </xsd:simpleType>
+  <xsd:simpleType name="SettlementMethodTypeList">
+    <xsd:union memberTypes="ecl:StandardSettlementMethodTypeList ecl:LocalSettlementMethodType" />
+  </xsd:simpleType>
   <xsd:simpleType name="StatusTypeList">
     <xsd:union memberTypes="ecl:StandardStatusTypeList ecl:LocalStatusType" />
+  </xsd:simpleType>
+  <xsd:simpleType name="SubAreaTypeList">
+    <xsd:union memberTypes="ecl:StandardSubAreaTypeList ecl:LocalSubAreaType" />
   </xsd:simpleType>
   <xsd:simpleType name="TarifTypeTypeList">
     <xsd:union memberTypes="ecl:StandardTarifTypeTypeList ecl:LocalTarifTypeType" />
