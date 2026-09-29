@@ -62,7 +62,7 @@ def get_metadata_from_xml(xml, include_namespace=False, include_root=False):
 
     return properties_dict
 
-def get_allocated_eic(allocated_eic_url="https://www.entsoe.eu/fileadmin/user_upload/edi/library/eic/allocated-eic-codes.xml"):
+def get_allocated_eic(allocated_eic_url="https://eepublicdownloads.blob.core.windows.net/cio-lio/xml/allocated-eic-codes.xml"):
     allocated_eic = requests.get(allocated_eic_url)
     xml_tree = etree.fromstring(allocated_eic.content)
     return xml_tree

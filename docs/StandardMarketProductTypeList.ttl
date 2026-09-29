@@ -79,11 +79,46 @@
     skos:prefLabel "Fast activation product" ;
     skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
 
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A12> a skos:Concept ;
+    dcterms:identifier "A12" ;
+    skos:definition "Cost sharing of coordinated remedial action measures (redispatch and countertrading) under the polluter pays principle."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Remedial Action Cost Sharing Polluter Pays" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A13> a skos:Concept ;
+    dcterms:identifier "A13" ;
+    skos:definition "The market product type is static. E.g. used in the Frequency Containment Reserve (FCR) market for entities that have difficulties to comply with dynamic requirements, such as activation/deactivation performance and dynamic stability. "@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Static product" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A14> a skos:Concept ;
+    dcterms:identifier "A14" ;
+    skos:definition "The market product type is dynamic. E.g. used in the Frequency Containment Reserve (FCR) market for entities that can provide continuous response and comply with dynamic requirements."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Dynamic product" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A15> a skos:Concept ;
+    dcterms:identifier "A15" ;
+    skos:definition "Indicates the redispatch product."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "RedispatchA15)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+
+<http://energy.referencedata.eu/StandardMarketProductTypeList/A16> a skos:Concept ;
+    dcterms:identifier "A16" ;
+    skos:definition "Indicates the capacity steering product."@en ;
+    skos:inScheme <http://energy.referencedata.eu/StandardMarketProductTypeList> ;
+    skos:prefLabel "Capacity Steering" ;
+    skos:topConceptOf <http://energy.referencedata.eu/StandardMarketProductTypeList> .
+
 <http://energy.referencedata.eu/StandardMarketProductTypeList> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "ET0008" ;
-    dcterms:modified "2023-12-14" ;
+    dcterms:modified "2026-06-04" ;
     skos:definition "The identification of the type of a product on a market view"@en ;
     skos:prefLabel "StandardMarketProductTypeList" ;
-    dcat:version "91" .
+    dcat:version "95" .
 

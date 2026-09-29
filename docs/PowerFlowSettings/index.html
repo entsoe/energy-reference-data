@@ -1,165 +1,21 @@
 
 <!DOCTYPE html>
-<html xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/">
-  <head>
-    <link rel="alternate" type="application/rdf+xml" href="../PowerFlowSettings.rdf" title="RDF/XML" />
-    <link rel="alternate" type="application/ld+json" href="../PowerFlowSettings.jsonld" title="JSON-LD" />
-    <link rel="alternate" type="text/turtle" href="../PowerFlowSettings.ttl" title="Turtle" />
-  
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L1R5VF4NBS"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-L1R5VF4NBS');
-    </script>
-
-    <!-- Metadata Section -->
-    <meta charset="UTF-8">
-    <title>PowerFlowSettings SKOS Concept Scheme</title>
-    <meta name="description" content="This project aims to create common reference data for energy-related business processes using SKOS, DCAT, and CIM.">
-    <meta name="keywords" content="reference data, energy, SKOS, DCAT, CIM, rdf, cim, dcat, skos, entso-e, codelists, EIC, CGMES, meter reading">
-    <meta name="robots" content="index,follow">
-    <meta name="dc.language" content="en">
-    <meta name="dc.title" content="Energy Reference Data SKOS Concept Schemes">
-    <meta name="dc.description" content="This project aims to create common reference data for energy-related business processes using SKOS, DCAT, and CIM.">
-    <meta name="dc.subject" content="reference data, energy, SKOS, DCAT, CIM, rdf, cim, dcat, skos, entso-e, codelists, EIC, CGMES, meter reading">
-    <style>
-           body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #fff;
-        color: #000;
-      }
-      header {
-        background-color: #000;
-        color: #fff;
-        padding: 20px;
-        text-align: center;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-      header a {
-        display: flex;
-        align-items: center;
-        color: #fff;
-        text-decoration: none;
-      }
-      header img {
-        height: 50px;
-        margin-right: 10px;
-      }
-      h1 {
-        margin: 0;
-        font-size: 2em;
-        font-weight: bold;
-        text-transform: uppercase;
-      }
-      main {
-        max-width: 1600px;
-        margin: 0 auto;
-        padding: 20px;
-        line-height: 1.5;
-      }
-      table {
-        border-collapse: collapse;
-        width: 100%;
-        margin-bottom: 20px;
-      }
-      th, td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-      }
-      th {
-        background-color: #f2f2f2;
-        font-weight: bold;
-        text-transform: uppercase;
-      }
-      a {
-        color: #000;
-        text-decoration: none;
-        font-weight: bold;
-      }
-      a:hover {
-        color: #f00;
-      }
-      .publication-column a {
-        font-size: smaller;
-      }
-    </style>
-  </head>
-  <body>
-    <header>
-      <div></div>      
-      <h1>Energy Reference Data</h1>
-      <a href="https://github.com/Haigutus/Energy-Reference-Data" target="_blank">
-        <img src="../github-mark-white.svg" alt="GitHub Logo">
-      </a>
-    </header>
-    <main>
-      <table>
-        <thead>
-          <tr typeof="skos:Concept">
-            <th property="skos:prefLabel">Label</th>
-            <th property="skos:definition" lang="en">Definition</th>           
-            <th property="dcterms:identifier">Identifier</th>
-            <th>Serialisation</th>
-          </tr>
-        </thead>
-        <tbody>
-          
-<tr typeof="skos:Concept">
-    <td property="skos:prefLabel><a href="http://energy.referencedata.eu/PowerFlowSettings/9fe9b47b-468f-488a-bf35-0cf998b5ed2b.rdf">IGM Convergence</a></td>
-    <td property="skos:definition" lang="en">CGM Process - IGM Convergence check before merging to CGM</td>
-    <td property="dcterms:identifier">urn:uuid:9fe9b47b-468f-488a-bf35-0cf998b5ed2b</td> 
-    <td id="publication-column">
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/9fe9b47b-468f-488a-bf35-0cf998b5ed2b.rdf">RDF/XML</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/9fe9b47b-468f-488a-bf35-0cf998b5ed2b.jsonld">JSON-LD</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/9fe9b47b-468f-488a-bf35-0cf998b5ed2b.ttl">Turtle</a>
-    </td>      
-</tr>
-
-<tr typeof="skos:Concept">
-    <td property="skos:prefLabel><a href="http://energy.referencedata.eu/PowerFlowSettings/e4068581-713b-4d37-88e7-bca1fd78a8f7.rdf">CGM Creation Default</a></td>
-    <td property="skos:definition" lang="en">CGM Process - Default settings to use when creating a CGM</td>
-    <td property="dcterms:identifier">urn:uuid:e4068581-713b-4d37-88e7-bca1fd78a8f7</td> 
-    <td id="publication-column">
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/e4068581-713b-4d37-88e7-bca1fd78a8f7.rdf">RDF/XML</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/e4068581-713b-4d37-88e7-bca1fd78a8f7.jsonld">JSON-LD</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/e4068581-713b-4d37-88e7-bca1fd78a8f7.ttl">Turtle</a>
-    </td>      
-</tr>
-
-<tr typeof="skos:Concept">
-    <td property="skos:prefLabel><a href="http://energy.referencedata.eu/PowerFlowSettings/0722a865-678e-4539-99a3-460e42d87b39.rdf">CGM Creation Relaxed 1</a></td>
-    <td property="skos:definition" lang="en">CGM Process - Relaxed settings with controls on transformers and shunts disabled. To be used when creating a CGM and CGM creation fails with Default settings</td>
-    <td property="dcterms:identifier">urn:uuid:0722a865-678e-4539-99a3-460e42d87b39</td> 
-    <td id="publication-column">
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/0722a865-678e-4539-99a3-460e42d87b39.rdf">RDF/XML</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/0722a865-678e-4539-99a3-460e42d87b39.jsonld">JSON-LD</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/0722a865-678e-4539-99a3-460e42d87b39.ttl">Turtle</a>
-    </td>      
-</tr>
-
-<tr typeof="skos:Concept">
-    <td property="skos:prefLabel><a href="http://energy.referencedata.eu/PowerFlowSettings/af5ae620-edb8-46b3-a69f-a2d29b9610eb.rdf">CGM Creation Relaxed 2</a></td>
-    <td property="skos:definition" lang="en">CGM Process - Relaxed settings with controls on transformers and shunts disabled and reactive power limits disabled. To be used when creating a CGM and CGM creation fails with CGM Creation Relaxed 1</td>
-    <td property="dcterms:identifier">urn:uuid:af5ae620-edb8-46b3-a69f-a2d29b9610eb</td> 
-    <td id="publication-column">
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/af5ae620-edb8-46b3-a69f-a2d29b9610eb.rdf">RDF/XML</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/af5ae620-edb8-46b3-a69f-a2d29b9610eb.jsonld">JSON-LD</a><br>
-        <a href="http://energy.referencedata.eu/PowerFlowSettings/af5ae620-edb8-46b3-a69f-a2d29b9610eb.ttl">Turtle</a>
-    </td>      
-</tr>
-
-          <!-- Add more rows for each concept -->
-        </tbody>
-      </table>
-    </main>
-  </body>
+<html>
+    <head>
+        <link rel="alternate" type="application/rdf+xml" href="../PowerFlowSettings.rdf" title="RDF/XML" />
+        <link rel="alternate" type="application/ld+json" href="../PowerFlowSettings.jsonld" title="JSON-LD" />
+        <link rel="alternate" type="text/turtle" href="../PowerFlowSettings.ttl" title="Turtle" />
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-L1R5VF4NBS"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-L1R5VF4NBS');
+        </script>
+    </head>    
+    <body>
+        <meta http-equiv = "refresh" content = "0; url = ../PowerFlowSettings.rdf" />
+    </body>
 </html>

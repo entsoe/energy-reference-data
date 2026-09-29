@@ -3,7 +3,7 @@
 
 <http://energy.referencedata.eu/StandardStatusTypeList/A13> a skos:Concept ;
     dcterms:identifier "A13" ;
-    skos:definition "The information has been withdrawn by the submitter."@en ;
+    skos:definition "The information or action has been withdrawn by the submitter."@en ;
     skos:inScheme <http://energy.referencedata.eu/StandardStatusTypeList> ;
     skos:prefLabel "Withdrawn" ;
     skos:topConceptOf <http://energy.referencedata.eu/StandardStatusTypeList> .

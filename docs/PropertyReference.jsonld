@@ -1,2176 +1,974 @@
 {
     "@graph": [
         {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VoltageInjectionControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the voltage that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "VoltageInjectionControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:e9712674-a06f-4b09-895e-76c8df4ed6dd",
-            "@nc:PropertyReference.name": "VoltageInjectionControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "e9712674-a06f-4b09-895e-76c8df4ed6dd"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/GeneratingUnit.normalPF",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Generating unit economic participation factor.  The sum of the participation factors across generating units does not have to sum to one.  It is used for representing distributed slack participation factor. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "GeneratingUnit.normalPF",
-            "@dcterms:identifier": "urn:uuid:6bedee50-8963-400d-a633-6d07dedcb663",
-            "@nc:PropertyReference.name": "GeneratingUnit.normalPF",
-            "@nc:PropertyReference.mRID": "6bedee50-8963-400d-a633-6d07dedcb663"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialActionScheme.armed",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Defines the arming status of the remedial action scheme. It is set by operation or by signal.",
-            "@skos:prefLabel": "RemedialActionScheme.armed",
-            "@dcterms:identifier": "urn:uuid:dc42fd13-4b74-469e-886c-e3c0cffc9ff7",
-            "@nc:PropertyReference.name": "RemedialActionScheme.armed",
-            "@nc:PropertyReference.mRID": "dc42fd13-4b74-469e-886c-e3c0cffc9ff7"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElementWithContingency.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the assessed element with contingency is enabled, otherwise it is disabled.",
-            "@skos:prefLabel": "AssessedElementWithContingency.enabled",
-            "@dcterms:identifier": "urn:uuid:00c1d3f5-1955-4022-a423-cb0a38b374e6",
-            "@nc:PropertyReference.name": "AssessedElementWithContingency.enabled",
-            "@nc:PropertyReference.mRID": "00c1d3f5-1955-4022-a423-cb0a38b374e6"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/GridStateAlteration.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.\ne.g. If 0 this grid alteration does not participate. The sum of all participation factors for all grid state alterations associated with same remedial action shall be equal to 100%.",
-            "@skos:prefLabel": "GridStateAlteration.participationFactor",
-            "@dcterms:identifier": "urn:uuid:f524a12b-cebd-4da0-ad3b-dd3498c098db",
-            "@nc:PropertyReference.name": "GridStateAlteration.participationFactor",
-            "@nc:PropertyReference.mRID": "f524a12b-cebd-4da0-ad3b-dd3498c098db"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.netACInterchangeTolerance",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The area AC Net Position tolerance.",
-            "@skos:prefLabel": "BiddingZone.netACInterchangeTolerance",
-            "@dcterms:identifier": "urn:uuid:8b0f1899-a7f2-48df-bc20-edc8376280f6",
-            "@nc:PropertyReference.name": "BiddingZone.netACInterchangeTolerance",
-            "@nc:PropertyReference.mRID": "8b0f1899-a7f2-48df-bc20-edc8376280f6"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCPole.maxEconomicP",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum high economic active power limit, that should not exceed the maximum operating active power limit.",
-            "@skos:prefLabel": "DCPole.maxEconomicP",
-            "@dcterms:identifier": "urn:uuid:564df47f-8a07-49f5-a089-d82d06b5c4fb",
-            "@nc:PropertyReference.name": "DCPole.maxEconomicP",
-            "@nc:PropertyReference.mRID": "564df47f-8a07-49f5-a089-d82d06b5c4fb"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.maxMarginAdjustment",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum adjustment, relative to maximum flow allowed for exceeding the maximum flow of this assessed element.\nThe allowed value range is [0,100].",
-            "@skos:prefLabel": "AssessedElement.maxMarginAdjustment",
-            "@dcterms:identifier": "urn:uuid:93b96ef2-a8fe-4576-b601-d2888f422267",
-            "@nc:PropertyReference.name": "AssessedElement.maxMarginAdjustment",
-            "@nc:PropertyReference.mRID": "93b96ef2-a8fe-4576-b601-d2888f422267"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VoltageAngleLimit.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The difference in angle degrees between referenced by the association end OperationalLimitSet.Terminal and the Terminal referenced by the association end VoltageAngleLimit.AngleReferenceTerminal. The value shall be positive (greater than zero).",
-            "@skos:prefLabel": "VoltageAngleLimit.value",
-            "@dcterms:identifier": "urn:uuid:9eb2dc49-0ca2-4e36-9e74-ee0c94b012fe",
-            "@nc:PropertyReference.name": "VoltageAngleLimit.value",
-            "@nc:PropertyReference.mRID": "9eb2dc49-0ca2-4e36-9e74-ee0c94b012fe"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ExternalNetworkInjection.referencePriority",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Priority of unit for use as powerflow voltage phase angle reference bus selection. 0 = don t care (default) 1 = highest priority. 2 is less than 1 and so on.",
-            "@skos:prefLabel": "ExternalNetworkInjection.referencePriority",
-            "@dcterms:identifier": "urn:uuid:ef6edeb3-a63d-4932-8066-6f6568be3833",
-            "@nc:PropertyReference.name": "ExternalNetworkInjection.referencePriority",
-            "@nc:PropertyReference.mRID": "ef6edeb3-a63d-4932-8066-6f6568be3833"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/StaticVarCompensator.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "StaticVarCompensator.q",
-            "@dcterms:identifier": "urn:uuid:80cfb71f-4383-4f65-aa08-1b17760bc414",
-            "@nc:PropertyReference.name": "StaticVarCompensator.q",
-            "@nc:PropertyReference.mRID": "80cfb71f-4383-4f65-aa08-1b17760bc414"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentFlow.multiplier",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "No description defined.",
-            "@skos:prefLabel": "CurrentFlow.multiplier",
-            "@dcterms:identifier": "urn:uuid:0cc39f5e-a2eb-451f-9177-583d1a6b8a37",
-            "@nc:PropertyReference.name": "CurrentFlow.multiplier",
-            "@nc:PropertyReference.mRID": "0cc39f5e-a2eb-451f-9177-583d1a6b8a37"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ACDCConverter.targetPpcc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Real power injection target in AC grid, at point of common coupling.  Load sign convention is used, i.e. positive sign means flow out from a node.",
-            "@skos:prefLabel": "ACDCConverter.targetPpcc",
-            "@dcterms:identifier": "urn:uuid:504dcd38-ebb3-4422-af56-8e72f913c113",
-            "@nc:PropertyReference.name": "ACDCConverter.targetPpcc",
-            "@nc:PropertyReference.mRID": "504dcd38-ebb3-4422-af56-8e72f913c113"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentDroopOverride.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "True, if the current droop override is enabled (active). Otherwise false.",
-            "@skos:prefLabel": "CurrentDroopOverride.enabled",
-            "@dcterms:identifier": "urn:uuid:f570a88b-6885-4d4b-a644-053161100784",
-            "@nc:PropertyReference.name": "CurrentDroopOverride.enabled",
-            "@nc:PropertyReference.mRID": "f570a88b-6885-4d4b-a644-053161100784"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ActivePowerLimit.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Value of active power limit. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "ActivePowerLimit.value",
-            "@dcterms:identifier": "urn:uuid:38399bbe-ff1d-4c54-ba4c-a8b25379a481",
-            "@nc:PropertyReference.name": "ActivePowerLimit.value",
-            "@nc:PropertyReference.mRID": "38399bbe-ff1d-4c54-ba4c-a8b25379a481"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EquivalentInjection.regulationStatus",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specifies the regulation status of the EquivalentInjection.  True is regulating.  False is not regulating.",
-            "@skos:prefLabel": "EquivalentInjection.regulationStatus",
-            "@dcterms:identifier": "urn:uuid:7d6b8fd8-6483-4485-ae43-c70f7350a43c",
-            "@nc:PropertyReference.name": "EquivalentInjection.regulationStatus",
-            "@nc:PropertyReference.mRID": "7d6b8fd8-6483-4485-ae43-c70f7350a43c"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PhaseControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the phase that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "PhaseControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:21d977fd-a936-4102-a994-7d26cb35ede0",
-            "@nc:PropertyReference.name": "PhaseControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "21d977fd-a936-4102-a994-7d26cb35ede0"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCSwitch.open",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The attribute tells if the switch is considered open when used as input to topology processing.",
-            "@skos:prefLabel": "DCSwitch.open",
-            "@dcterms:identifier": "urn:uuid:e0bf863f-07e7-41b8-9f31-86fc441d756b",
-            "@nc:PropertyReference.name": "DCSwitch.open",
-            "@nc:PropertyReference.mRID": "e0bf863f-07e7-41b8-9f31-86fc441d756b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.regulatingDownAllocation",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The balancing capacity allocated for regulating down, by decreasing the production, increasing the direct current export, decreasing direct current import or increasing the consumption of energy in the bidding zone. This must be a positive number.",
-            "@skos:prefLabel": "BiddingZone.regulatingDownAllocation",
-            "@dcterms:identifier": "urn:uuid:77b59f59-5d41-4f9f-82fe-dd6cd9f43e30",
-            "@nc:PropertyReference.name": "BiddingZone.regulatingDownAllocation",
-            "@nc:PropertyReference.mRID": "77b59f59-5d41-4f9f-82fe-dd6cd9f43e30"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerElectronicsConnection.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "PowerElectronicsConnection.q",
-            "@dcterms:identifier": "urn:uuid:fbcf4f0e-ecf7-4602-a6db-41c9358def79",
-            "@nc:PropertyReference.name": "PowerElectronicsConnection.q",
-            "@nc:PropertyReference.mRID": "fbcf4f0e-ecf7-4602-a6db-41c9358def79"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCSwitch.locked",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the switch is locked. The resulting switch state is a combination of locked and DCSwitch.open attributes as follows:\n<ul>\n\t<li>locked=true and DCSwitch.open=true. The resulting state is open and locked;</li>\n\t<li>locked=false and DCSwitch.open=true. The resulting state is open;</li>\n\t<li>locked=false and DCSwitch.open=false. The resulting state is closed.</li>\n</ul>",
-            "@skos:prefLabel": "DCSwitch.locked",
-            "@dcterms:identifier": "urn:uuid:bb033823-deaa-4dc1-910f-4ecf4ceb1254",
-            "@nc:PropertyReference.name": "DCSwitch.locked",
-            "@nc:PropertyReference.mRID": "bb033823-deaa-4dc1-910f-4ecf4ceb1254"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.scannedThresholdMargin",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Threshold percentage that a scanned element can be overloaded, on a given element, on top of any overload prior to optimisation (default= 5%). e.g. Initial loading of the element is 110%, with a 5% scanned threshold margin, the new maximum is 115% of the limit (e.g. PATL, TATL, etc).\nThe allowed value range is [0,100].",
-            "@skos:prefLabel": "AssessedElement.scannedThresholdMargin",
-            "@dcterms:identifier": "urn:uuid:9ad1b962-8d49-4676-9ab7-ab3b0c23f6ac",
-            "@nc:PropertyReference.name": "AssessedElement.scannedThresholdMargin",
-            "@nc:PropertyReference.mRID": "9ad1b962-8d49-4676-9ab7-ab3b0c23f6ac"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Contingency.probability",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The forecasted probability of the occurrence of the contingency based on the given operational condition, status of the equipment and the forecasted environment condition.\nThe allowed value range is [0,100].",
-            "@skos:prefLabel": "Contingency.probability",
-            "@dcterms:identifier": "urn:uuid:2760d502-0050-4e13-aab0-4afd74435e2a",
-            "@nc:PropertyReference.name": "Contingency.probability",
-            "@nc:PropertyReference.mRID": "2760d502-0050-4e13-aab0-4afd74435e2a"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergyConsumer.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power of the load. Load sign convention is used, i.e. positive sign means flow out from a node.\nFor voltage dependent loads the value is at rated voltage.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "EnergyConsumer.q",
-            "@dcterms:identifier": "urn:uuid:edbfe75e-2ddb-48ae-b744-081e75f47848",
-            "@nc:PropertyReference.name": "EnergyConsumer.q",
-            "@nc:PropertyReference.mRID": "edbfe75e-2ddb-48ae-b744-081e75f47848"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.discrete",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The regulation is performed in a discrete mode. This applies to equipment with discrete controls, e.g. tap changers and shunt compensators.",
-            "@skos:prefLabel": "RegulatingControl.discrete",
-            "@dcterms:identifier": "urn:uuid:4d7cd0e2-2375-41d1-8447-3256d5d2c860",
-            "@nc:PropertyReference.name": "RegulatingControl.discrete",
-            "@nc:PropertyReference.mRID": "4d7cd0e2-2375-41d1-8447-3256d5d2c860"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergyConsumer.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power of the load. Load sign convention is used, i.e. positive sign means flow out from a node.\nFor voltage dependent loads the value is at rated voltage.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "EnergyConsumer.p",
-            "@dcterms:identifier": "urn:uuid:d9eaab4e-7792-4c7b-bd39-94b069e93c5e",
-            "@nc:PropertyReference.name": "EnergyConsumer.p",
-            "@nc:PropertyReference.mRID": "d9eaab4e-7792-4c7b-bd39-94b069e93c5e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.minAllowedTargetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Minimum allowed target value (RegulatingControl.targetValue).",
-            "@skos:prefLabel": "RegulatingControl.minAllowedTargetValue",
-            "@dcterms:identifier": "urn:uuid:67a4253a-1d1d-4a44-9fd4-a6f9c0bd0b24",
-            "@nc:PropertyReference.name": "RegulatingControl.minAllowedTargetValue",
-            "@nc:PropertyReference.mRID": "67a4253a-1d1d-4a44-9fd4-a6f9c0bd0b24"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.targetDeadband",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "This is a deadband used with discrete control to avoid excessive update of controls like tap changers and shunt compensator banks while regulating.  The units of those appropriate for the mode. The attribute shall be a positive value or zero. If RegulatingControl.discrete is set to \\\"false\\\", the RegulatingControl.targetDeadband is to be ignored.\nNote that for instance, if the targetValue is 100 kV and the targetDeadband is 2 kV the range is from 99 to 101 kV.",
-            "@skos:prefLabel": "RegulatingControl.targetDeadband",
-            "@dcterms:identifier": "urn:uuid:6583abb6-e1ea-4405-bc25-c4d4dfad175e",
-            "@nc:PropertyReference.name": "RegulatingControl.targetDeadband",
-            "@nc:PropertyReference.mRID": "6583abb6-e1ea-4405-bc25-c4d4dfad175e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/SSSCController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the Static Synchronous Series compensator controller.",
-            "@skos:prefLabel": "SSSCController.mode",
-            "@dcterms:identifier": "urn:uuid:1a266e01-7291-47fe-8c46-60fb62be250f",
-            "@nc:PropertyReference.name": "SSSCController.mode",
-            "@nc:PropertyReference.mRID": "1a266e01-7291-47fe-8c46-60fb62be250f"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergyBlockOrder.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor.",
-            "@skos:prefLabel": "EnergyBlockOrder.participationFactor",
-            "@dcterms:identifier": "urn:uuid:34ec7ba2-fd87-45d1-9465-5e43d449f758",
-            "@nc:PropertyReference.name": "EnergyBlockOrder.participationFactor",
-            "@nc:PropertyReference.mRID": "34ec7ba2-fd87-45d1-9465-5e43d449f758"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CsConverter.targetIdc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "DC current target value. It is converter’s control variable used in power flow. The attribute shall be a positive value.",
-            "@skos:prefLabel": "CsConverter.targetIdc",
-            "@dcterms:identifier": "urn:uuid:10b3b146-ba3d-4c1c-8402-0537808bcdce",
-            "@nc:PropertyReference.name": "CsConverter.targetIdc",
-            "@nc:PropertyReference.mRID": "10b3b146-ba3d-4c1c-8402-0537808bcdce"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCPole.minEconomicP",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Low economic active power limit that shall be greater than or equal to the minimum operating active power limit.",
-            "@skos:prefLabel": "DCPole.minEconomicP",
-            "@dcterms:identifier": "urn:uuid:44264880-13fc-4a8e-ba4f-3b2814d95039",
-            "@nc:PropertyReference.name": "DCPole.minEconomicP",
-            "@nc:PropertyReference.mRID": "44264880-13fc-4a8e-ba4f-3b2814d95039"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.droop",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Droop constant. The pu value is obtained as D [kV/MW] x Sb / Ubdc. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.droop",
-            "@dcterms:identifier": "urn:uuid:228e6333-afac-438e-a6da-32c166c163e9",
-            "@nc:PropertyReference.name": "VsConverter.droop",
-            "@nc:PropertyReference.mRID": "228e6333-afac-438e-a6da-32c166c163e9"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.minInterchange",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Minimum total active power (AC and DC)  that the net position for the bidding zone can have to maintain operational security. Negative sign means flow out of the bidding zone.",
-            "@skos:prefLabel": "BiddingZone.minInterchange",
-            "@dcterms:identifier": "urn:uuid:b55d3198-6d5b-46eb-8e87-bf3048820d7b",
-            "@nc:PropertyReference.name": "BiddingZone.minInterchange",
-            "@nc:PropertyReference.mRID": "b55d3198-6d5b-46eb-8e87-bf3048820d7b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCCurrentControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the current that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "DCCurrentControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:62b0ec75-38a4-43af-8d35-412899b78fda",
-            "@nc:PropertyReference.name": "DCCurrentControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "62b0ec75-38a4-43af-8d35-412899b78fda"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/TCSCController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the TCSC controller.",
-            "@skos:prefLabel": "TCSCController.mode",
-            "@dcterms:identifier": "urn:uuid:92f60407-e16c-40a1-b30c-fe2ca63391b8",
-            "@nc:PropertyReference.name": "TCSCController.mode",
-            "@nc:PropertyReference.mRID": "92f60407-e16c-40a1-b30c-fe2ca63391b8"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.netACInterchange",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The netted aggregation of all AC external schedules of an area. Positive sign means flow into the area (Import).",
-            "@skos:prefLabel": "BiddingZone.netACInterchange",
-            "@dcterms:identifier": "urn:uuid:a3874978-d2c3-44bd-9367-fa8a1cb40a5c",
-            "@nc:PropertyReference.name": "BiddingZone.netACInterchange",
-            "@nc:PropertyReference.mRID": "a3874978-d2c3-44bd-9367-fa8a1cb40a5c"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialActionGroup.maxRegulatingUp",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum net amount of active power that the group of remedial actions can regulate up.",
-            "@skos:prefLabel": "RemedialActionGroup.maxRegulatingUp",
-            "@dcterms:identifier": "urn:uuid:026d19eb-9b13-45d6-bf44-862276b80045",
-            "@nc:PropertyReference.name": "RemedialActionGroup.maxRegulatingUp",
-            "@nc:PropertyReference.mRID": "026d19eb-9b13-45d6-bf44-862276b80045"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/GridStateAlteration.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The status of the GridStateAlteration set by an operation or by a signal resulting from a control action.",
-            "@skos:prefLabel": "GridStateAlteration.enabled",
-            "@dcterms:identifier": "urn:uuid:62e43d79-7a35-42be-ab09-5e5fd0058588",
-            "@nc:PropertyReference.name": "GridStateAlteration.enabled",
-            "@nc:PropertyReference.mRID": "62e43d79-7a35-42be-ab09-5e5fd0058588"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.maxInterchange",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum total active power (AC and DC)  that the net position for the bidding zone can have to maintain operational security. Positive sign means flow into the bidding zone.",
-            "@skos:prefLabel": "BiddingZone.maxInterchange",
-            "@dcterms:identifier": "urn:uuid:40cdc3e4-0c31-4af4-a939-ade7a172c108",
-            "@nc:PropertyReference.name": "BiddingZone.maxInterchange",
-            "@nc:PropertyReference.mRID": "40cdc3e4-0c31-4af4-a939-ade7a172c108"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/SubstationController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the substation controller.",
-            "@skos:prefLabel": "SubstationController.mode",
-            "@dcterms:identifier": "urn:uuid:4c6b4a0c-41d0-4ba8-91c0-974cf2dc6c46",
-            "@nc:PropertyReference.name": "SubstationController.mode",
-            "@nc:PropertyReference.mRID": "4c6b4a0c-41d0-4ba8-91c0-974cf2dc6c46"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.alreadyAllocatedCapacity",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Already Allocated Capacity (AAC) means the total amount of allocated transmission rights i.e. transmission capacity reserved by virtue of historical long-term contracts and the previously held transmission capacity reservation auctions.",
-            "@skos:prefLabel": "BiddingZoneBorder.alreadyAllocatedCapacity",
-            "@dcterms:identifier": "urn:uuid:278e7131-2c07-4505-8175-639fb65347cb",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.alreadyAllocatedCapacity",
-            "@nc:PropertyReference.mRID": "278e7131-2c07-4505-8175-639fb65347cb"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RotatingMachineController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the rotating machine controller.",
-            "@skos:prefLabel": "RotatingMachineController.mode",
-            "@dcterms:identifier": "urn:uuid:df965405-0317-4366-9467-6fa9ced80447",
-            "@nc:PropertyReference.name": "RotatingMachineController.mode",
-            "@nc:PropertyReference.mRID": "df965405-0317-4366-9467-6fa9ced80447"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingCondEq.controlEnabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specifies the regulation status of the equipment.  True is regulating, false is not regulating.",
-            "@skos:prefLabel": "RegulatingCondEq.controlEnabled",
-            "@dcterms:identifier": [
-                "urn:uuid:df0f1ff8-71f8-4965-b4b3-f6971a9d6daa",
-                "urn:uuid:e171117b-df36-4bd5-bce4-2d7974a891c2"
-            ],
-            "@nc:PropertyReference.name": "RegulatingCondEq.controlEnabled",
-            "@nc:PropertyReference.mRID": [
-                "df0f1ff8-71f8-4965-b4b3-f6971a9d6daa",
-                "e171117b-df36-4bd5-bce4-2d7974a891c2"
-            ]
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ThyristorControlledSeriesCompensator.compensationImpedance",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The actual compensation impedance provided by the compensator. The attribute value shall be positive if compensation is in the capacitive range. The attribute value shall be negative if compensation is in the inductive rating.",
-            "@skos:prefLabel": "ThyristorControlledSeriesCompensator.compensationImpedance",
-            "@dcterms:identifier": "urn:uuid:71681a70-896b-4855-9ba1-de6a3e617eb4",
-            "@nc:PropertyReference.name": "ThyristorControlledSeriesCompensator.compensationImpedance",
-            "@nc:PropertyReference.mRID": "71681a70-896b-4855-9ba1-de6a3e617eb4"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentDroopOverride.targetValueCapacitive",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Setpoint when control is active in capacitive region.",
-            "@skos:prefLabel": "CurrentDroopOverride.targetValueCapacitive",
-            "@dcterms:identifier": "urn:uuid:c35ed0fc-67e0-4275-991d-47e63f1e976a",
-            "@nc:PropertyReference.name": "CurrentDroopOverride.targetValueCapacitive",
-            "@nc:PropertyReference.mRID": "c35ed0fc-67e0-4275-991d-47e63f1e976a"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CircuitShare.contributionFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Contribution factor for the circuit which is part of a power transfer corridor.\nThe allowed value range is [0,100].",
-            "@skos:prefLabel": "CircuitShare.contributionFactor",
-            "@dcterms:identifier": "urn:uuid:fa3b5fd8-d4a2-421d-a192-7eaf65ec8f4a",
-            "@nc:PropertyReference.name": "CircuitShare.contributionFactor",
-            "@nc:PropertyReference.mRID": "fa3b5fd8-d4a2-421d-a192-7eaf65ec8f4a"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Switch.open",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The attribute tells if the switch is considered open when used as input to topology processing.",
-            "@skos:prefLabel": "Switch.open",
-            "@dcterms:identifier": "urn:uuid:b281f8d6-257c-409f-900b-0aa3d39783c4",
-            "@nc:PropertyReference.name": "Switch.open",
-            "@nc:PropertyReference.mRID": "b281f8d6-257c-409f-900b-0aa3d39783c4"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EquivalentInjection.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Equivalent active power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "EquivalentInjection.p",
-            "@dcterms:identifier": "urn:uuid:27be6d3d-5a79-437a-9e5c-ab0a98c5e9b1",
-            "@nc:PropertyReference.name": "EquivalentInjection.p",
-            "@nc:PropertyReference.mRID": "27be6d3d-5a79-437a-9e5c-ab0a98c5e9b1"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference",
-            "@type": "@skos:ConceptScheme",
-            "@skos:definition": "Reference data for the property reference.",
-            "@skos:prefLabel": "PropertyReference",
-            "@dcterms:title": "PropertyReference",
-            "@dcat:version": "2.0",
-            "@dcat:startDate": "2023-02-15T09:00:00Z",
-            "@dcterms:identifier": "urn:uuid:8cba2cf3-b227-458d-81c2-b312749e1a36",
-            "@dcterms:modified": "2023-07-20T09:00:00Z"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.netTransferCapacity",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Net Transfer Capacity (NTC) is defined as NTC = TTC – TRM and corresponds to the maximum exchange between two areas compatible with operational security limits applicable in both areas and taking into account the technical uncertainties on future network conditions.",
-            "@skos:prefLabel": "BiddingZoneBorder.netTransferCapacity",
-            "@dcterms:identifier": "urn:uuid:f37d76b6-0fa6-4476-a12b-940da800e5e6",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.netTransferCapacity",
-            "@nc:PropertyReference.mRID": "f37d76b6-0fa6-4476-a12b-940da800e5e6"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.pPccControl",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Kind of control of real power and/or DC voltage.",
-            "@skos:prefLabel": "VsConverter.pPccControl",
-            "@dcterms:identifier": "urn:uuid:80beba70-c2fb-4319-af0d-a81eeb668b1d",
-            "@nc:PropertyReference.name": "VsConverter.pPccControl",
-            "@nc:PropertyReference.mRID": "80beba70-c2fb-4319-af0d-a81eeb668b1d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AreaDispatchableUnit.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Identifies if the unit is enabled to accept a dispatch instruction. If true, the unit is enabled to accept a dispatch instruction. If false, the unit has the capability, but it is not enabled to receive a dispatch instruction.",
-            "@skos:prefLabel": "AreaDispatchableUnit.enabled",
-            "@dcterms:identifier": "urn:uuid:b7e0f30f-765f-4d19-81f1-d8db63332a2a",
-            "@nc:PropertyReference.name": "AreaDispatchableUnit.enabled",
-            "@nc:PropertyReference.mRID": "b7e0f30f-765f-4d19-81f1-d8db63332a2a"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ACDCConverter.targetUdc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for DC voltage magnitude. The attribute shall be a positive value.",
-            "@skos:prefLabel": "ACDCConverter.targetUdc",
-            "@dcterms:identifier": "urn:uuid:cde58ebf-a94d-4164-bf3d-97036e74d990",
-            "@nc:PropertyReference.name": "ACDCConverter.targetUdc",
-            "@nc:PropertyReference.mRID": "cde58ebf-a94d-4164-bf3d-97036e74d990"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RotatingMachine.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "RotatingMachine.q",
-            "@dcterms:identifier": "urn:uuid:ad3e22a4-0b58-4e9b-a795-b7092bc772b7",
-            "@nc:PropertyReference.name": "RotatingMachine.q",
-            "@nc:PropertyReference.mRID": "ad3e22a4-0b58-4e9b-a795-b7092bc772b7"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergyGroup.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor.",
-            "@skos:prefLabel": "EnergyGroup.participationFactor",
-            "@dcterms:identifier": "urn:uuid:6da574b8-87df-483a-8570-d48375de2269",
-            "@nc:PropertyReference.name": "EnergyGroup.participationFactor",
-            "@nc:PropertyReference.mRID": "6da574b8-87df-483a-8570-d48375de2269"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.targetPWMfactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Magnitude of pulse-modulation factor. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.targetPWMfactor",
-            "@dcterms:identifier": "urn:uuid:083690bc-6aec-4c6a-80c4-aac3a1abf168",
-            "@nc:PropertyReference.name": "VsConverter.targetPWMfactor",
-            "@nc:PropertyReference.mRID": "083690bc-6aec-4c6a-80c4-aac3a1abf168"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the current that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "CurrentControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:ddd88d82-cdd4-4ce9-a5fc-3e758e03d56e",
-            "@nc:PropertyReference.name": "CurrentControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "ddd88d82-cdd4-4ce9-a5fc-3e758e03d56e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The target value specified for case input.   This value can be used for the target value without the use of schedules. The value has the units appropriate to the mode attribute.",
-            "@skos:prefLabel": "RegulatingControl.targetValue",
-            "@dcterms:identifier": "urn:uuid:fac9e9ba-0243-4c55-9059-cd59e641be0c",
-            "@nc:PropertyReference.name": "RegulatingControl.targetValue",
-            "@nc:PropertyReference.mRID": "fac9e9ba-0243-4c55-9059-cd59e641be0c"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.targetQpcc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection target in AC grid, at point of common coupling.  Load sign convention is used, i.e. positive sign means flow out from a node.",
-            "@skos:prefLabel": "VsConverter.targetQpcc",
-            "@dcterms:identifier": "urn:uuid:898a03fc-43a6-4c11-aa73-e2d26ca1df0b",
-            "@nc:PropertyReference.name": "VsConverter.targetQpcc",
-            "@nc:PropertyReference.mRID": "898a03fc-43a6-4c11-aa73-e2d26ca1df0b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/TapChanger.step",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Tap changer position.\nStarting step for a steady state solution. Non integer values are allowed to support continuous tap variables. The reasons for continuous value are to support study cases where no discrete tap changer has yet been designed, a solution where a narrow voltage band forces the tap step to oscillate or to accommodate for a continuous solution as input.\nThe attribute shall be equal to or greater than lowStep and equal to or less than highStep.",
-            "@skos:prefLabel": "TapChanger.step",
-            "@dcterms:identifier": "urn:uuid:c9a18791-9eba-422b-93c3-dff6996c2150",
-            "@nc:PropertyReference.name": "TapChanger.step",
-            "@nc:PropertyReference.mRID": "c9a18791-9eba-422b-93c3-dff6996c2150"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.availableTransferCapacity",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Available Transfer Capacity (ATC) means the transmission capacity that remains available, after allocation procedure, to be used under the physical conditions of the transmission system. ATC value is defined as: ATC = NTC - AAC.",
-            "@skos:prefLabel": "BiddingZoneBorder.availableTransferCapacity",
-            "@dcterms:identifier": "urn:uuid:f658578d-0662-4954-ade8-6c6058d9b94d",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.availableTransferCapacity",
-            "@nc:PropertyReference.mRID": "f658578d-0662-4954-ade8-6c6058d9b94d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergyConsumer.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.",
-            "@skos:prefLabel": "EnergyConsumer.participationFactor",
-            "@dcterms:identifier": "urn:uuid:4ee14866-0602-49f4-9e7f-0e104f1ad512",
-            "@nc:PropertyReference.name": "EnergyConsumer.participationFactor",
-            "@nc:PropertyReference.mRID": "4ee14866-0602-49f4-9e7f-0e104f1ad512"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CsConverter.targetAlpha",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target firing angle. It is converter’s control variable used in power flow. It is only applicable for rectifier if continuous tap changer control is used. Allowed values are within the range minAlpha&lt;=targetAlpha&lt;=maxAlpha. The attribute shall be a positive value.",
-            "@skos:prefLabel": "CsConverter.targetAlpha",
-            "@dcterms:identifier": "urn:uuid:629f70ca-80fa-4b69-93ea-07c6df7eadee",
-            "@nc:PropertyReference.name": "CsConverter.targetAlpha",
-            "@nc:PropertyReference.mRID": "629f70ca-80fa-4b69-93ea-07c6df7eadee"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.droopCompensation",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Compensation constant. Used to compensate for voltage drop when controlling voltage at a distant bus. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.droopCompensation",
-            "@dcterms:identifier": "urn:uuid:0e2b2fd1-b0b6-456b-bce3-6d184e4c6c0f",
-            "@nc:PropertyReference.name": "VsConverter.droopCompensation",
-            "@nc:PropertyReference.mRID": "0e2b2fd1-b0b6-456b-bce3-6d184e4c6c0f"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCVoltageControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the voltage that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "DCVoltageControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:317ec706-2384-41a8-8b9a-a665053c35df",
-            "@nc:PropertyReference.name": "DCVoltageControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "317ec706-2384-41a8-8b9a-a665053c35df"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EquivalentInjection.regulationTarget",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The target voltage for voltage regulation. The attribute shall be a positive value.",
-            "@skos:prefLabel": "EquivalentInjection.regulationTarget",
-            "@dcterms:identifier": "urn:uuid:9a20b105-8a42-4acc-935e-8311154bfd9e",
-            "@nc:PropertyReference.name": "EquivalentInjection.regulationTarget",
-            "@nc:PropertyReference.mRID": "9a20b105-8a42-4acc-935e-8311154bfd9e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerRemedialAction.maxRegulatingDown",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum net amount of active power that the remedial action can regulate down.",
-            "@skos:prefLabel": "PowerRemedialAction.maxRegulatingDown",
-            "@dcterms:identifier": "urn:uuid:dd5c8924-e090-4554-9fb4-5b08cf76db46",
-            "@nc:PropertyReference.name": "PowerRemedialAction.maxRegulatingDown",
-            "@nc:PropertyReference.mRID": "dd5c8924-e090-4554-9fb4-5b08cf76db46"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.minImportP",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Minimum imported active power requirement.",
-            "@skos:prefLabel": "BiddingZone.minImportP",
-            "@dcterms:identifier": "urn:uuid:823eefcc-df69-49ce-972d-cf0be58bcd81",
-            "@nc:PropertyReference.name": "BiddingZone.minImportP",
-            "@nc:PropertyReference.mRID": "823eefcc-df69-49ce-972d-cf0be58bcd81"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/InjectionController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the injection controller.",
-            "@skos:prefLabel": "InjectionController.mode",
-            "@dcterms:identifier": "urn:uuid:cc41f3b7-4412-45db-9e7f-675561ba1fc7",
-            "@nc:PropertyReference.name": "InjectionController.mode",
-            "@nc:PropertyReference.mRID": "cc41f3b7-4412-45db-9e7f-675561ba1fc7"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.qShare",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power sharing factor among parallel converters on Uac control. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "VsConverter.qShare",
-            "@dcterms:identifier": "urn:uuid:3b5255f8-15ad-4b85-bbe0-3e528bba4b87",
-            "@nc:PropertyReference.name": "VsConverter.qShare",
-            "@nc:PropertyReference.mRID": "3b5255f8-15ad-4b85-bbe0-3e528bba4b87"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.netPosition",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Net position is the netted sum of electricity exports and imports for each market time unit for a bidding zone.",
-            "@skos:prefLabel": "BiddingZone.netPosition",
-            "@dcterms:identifier": "urn:uuid:9eba210e-c91f-4d8d-b409-6a62c695854d",
-            "@nc:PropertyReference.name": "BiddingZone.netPosition",
-            "@nc:PropertyReference.mRID": "9eba210e-c91f-4d8d-b409-6a62c695854d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/FunctionBlock.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "True, if the function block is enabled (active). Otherwise false.",
-            "@skos:prefLabel": "FunctionBlock.enabled",
-            "@dcterms:identifier": "urn:uuid:e9fe1ee9-241d-48df-8939-6aa9430a73b1",
-            "@nc:PropertyReference.name": "FunctionBlock.enabled",
-            "@nc:PropertyReference.mRID": "e9fe1ee9-241d-48df-8939-6aa9430a73b1"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/FuelStorage.energyStorage",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Amount of energy available in the storage.",
-            "@skos:prefLabel": "FuelStorage.energyStorage",
-            "@dcterms:identifier": "urn:uuid:5f56ae88-d0ca-474a-b2e3-102c6f4fa7b2",
-            "@nc:PropertyReference.name": "FuelStorage.energyStorage",
-            "@nc:PropertyReference.mRID": "5f56ae88-d0ca-474a-b2e3-102c6f4fa7b2"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.qPccControl",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Kind of reactive power control.",
-            "@skos:prefLabel": "VsConverter.qPccControl",
-            "@dcterms:identifier": "urn:uuid:1f9a5f62-20b4-4b23-be8c-66117b6bf99e",
-            "@nc:PropertyReference.name": "VsConverter.qPccControl",
-            "@nc:PropertyReference.mRID": "1f9a5f62-20b4-4b23-be8c-66117b6bf99e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.alreadyAllocatedFlow",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The maximum allowed flow on the collection of interconnection between two bidding zones.",
-            "@skos:prefLabel": "BiddingZoneBorder.alreadyAllocatedFlow",
-            "@dcterms:identifier": "urn:uuid:294db562-b036-4d68-8c4d-df6df80fd825",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.alreadyAllocatedFlow",
-            "@nc:PropertyReference.mRID": "294db562-b036-4d68-8c4d-df6df80fd825"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BatteryUnit.storedE",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Amount of energy currently stored. The attribute shall be a positive value or zero and lower than BatteryUnit.ratedE.",
-            "@skos:prefLabel": "BatteryUnit.storedE",
-            "@dcterms:identifier": "urn:uuid:da24ffb1-11bd-44a8-a17e-d1539e3b4f05",
-            "@nc:PropertyReference.name": "BatteryUnit.storedE",
-            "@nc:PropertyReference.mRID": "da24ffb1-11bd-44a8-a17e-d1539e3b4f05"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BatteryUnit.batteryState",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The current state of the battery (charging, full, etc.).",
-            "@skos:prefLabel": "BatteryUnit.batteryState",
-            "@dcterms:identifier": "urn:uuid:9eaf3aa3-04b9-450c-85e5-c410e10d3448",
-            "@nc:PropertyReference.name": "BatteryUnit.batteryState",
-            "@nc:PropertyReference.mRID": "9eaf3aa3-04b9-450c-85e5-c410e10d3448"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCPole.shortPF",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Energy consumer short term economic participation factor.",
-            "@skos:prefLabel": "DCPole.shortPF",
-            "@dcterms:identifier": "urn:uuid:2c472fdd-1cba-47b8-b0f5-083e39448cd2",
-            "@nc:PropertyReference.name": "DCPole.shortPF",
-            "@nc:PropertyReference.mRID": "2c472fdd-1cba-47b8-b0f5-083e39448cd2"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/StageTrigger.armed",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The status of the class set by operation or by signal. Optional field that will override other status fields.",
-            "@skos:prefLabel": "StageTrigger.armed",
-            "@dcterms:identifier": "urn:uuid:1ee64ce1-6a2c-4a19-b34d-ab4c718bad4f",
-            "@nc:PropertyReference.name": "StageTrigger.armed",
-            "@nc:PropertyReference.mRID": "1ee64ce1-6a2c-4a19-b34d-ab4c718bad4f"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/HydroPump.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.",
-            "@skos:prefLabel": "HydroPump.participationFactor",
-            "@dcterms:identifier": "urn:uuid:6af6a7c6-b840-422e-a25a-ec8cdf1ab254",
-            "@nc:PropertyReference.name": "HydroPump.participationFactor",
-            "@nc:PropertyReference.mRID": "6af6a7c6-b840-422e-a25a-ec8cdf1ab254"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialAction.available",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Identifies if the remedial action is available to be proposed. True means available, False means unavailable.",
-            "@skos:prefLabel": "RemedialAction.available",
-            "@dcterms:identifier": "urn:uuid:b3b0769a-2264-4c35-b1bf-ed89a47af8ec",
-            "@nc:PropertyReference.name": "RemedialAction.available",
-            "@nc:PropertyReference.mRID": "b3b0769a-2264-4c35-b1bf-ed89a47af8ec"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ThyristorControlledSeriesCompensator.currentSectionNumber",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The current section on which the TCSC is operating.",
-            "@skos:prefLabel": "ThyristorControlledSeriesCompensator.currentSectionNumber",
-            "@dcterms:identifier": "urn:uuid:1dd04f5f-eb85-489d-97c4-3d95de3a83c1",
-            "@nc:PropertyReference.name": "ThyristorControlledSeriesCompensator.currentSectionNumber",
-            "@nc:PropertyReference.mRID": "1dd04f5f-eb85-489d-97c4-3d95de3a83c1"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Contingency.mustStudy",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Set true if must study this contingency.",
-            "@skos:prefLabel": "Contingency.mustStudy",
-            "@dcterms:identifier": "urn:uuid:e6a79d11-ab88-4887-8e98-9a21a146b97b",
-            "@nc:PropertyReference.name": "Contingency.mustStudy",
-            "@nc:PropertyReference.mRID": "e6a79d11-ab88-4887-8e98-9a21a146b97b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ControlArea.netInterchange",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The specified positive net interchange into the control area, i.e. positive sign means flow into the area.",
-            "@skos:prefLabel": "ControlArea.netInterchange",
-            "@dcterms:identifier": "urn:uuid:8a3152b1-4c59-4f74-b259-c9f607a84109",
-            "@nc:PropertyReference.name": "ControlArea.netInterchange",
-            "@nc:PropertyReference.mRID": "8a3152b1-4c59-4f74-b259-c9f607a84109"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CsConverter.pPccControl",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Kind of active power control.",
-            "@skos:prefLabel": "CsConverter.pPccControl",
-            "@dcterms:identifier": "urn:uuid:53242ae1-12a6-4790-9814-cd71c68a4d3e",
-            "@nc:PropertyReference.name": "CsConverter.pPccControl",
-            "@nc:PropertyReference.mRID": "53242ae1-12a6-4790-9814-cd71c68a4d3e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.targetPhasePcc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Phase target at AC side, at point of common coupling. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.targetPhasePcc",
-            "@dcterms:identifier": "urn:uuid:25eaa42f-d3ee-4aeb-aa05-cd23c89d693b",
-            "@nc:PropertyReference.name": "VsConverter.targetPhasePcc",
-            "@nc:PropertyReference.mRID": "25eaa42f-d3ee-4aeb-aa05-cd23c89d693b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElementWithRemedialAction.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the assessed element with remedial action is enabled, otherwise it is disabled.",
-            "@skos:prefLabel": "AssessedElementWithRemedialAction.enabled",
-            "@dcterms:identifier": "urn:uuid:4aeb763c-824b-4aa4-96ec-5e97b0997c10",
-            "@nc:PropertyReference.name": "AssessedElementWithRemedialAction.enabled",
-            "@nc:PropertyReference.mRID": "4aeb763c-824b-4aa4-96ec-5e97b0997c10"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/GeneratingUnit.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.",
-            "@skos:prefLabel": "GeneratingUnit.participationFactor",
-            "@dcterms:identifier": "urn:uuid:af53eab1-df22-4a32-bcbf-df4fb9767f80",
-            "@nc:PropertyReference.name": "GeneratingUnit.participationFactor",
-            "@nc:PropertyReference.mRID": "af53eab1-df22-4a32-bcbf-df4fb9767f80"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CompensatorController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the compensator controller.",
-            "@skos:prefLabel": "CompensatorController.mode",
-            "@dcterms:identifier": "urn:uuid:8709af80-c90e-4e4d-924a-e5a2944075bc",
-            "@nc:PropertyReference.name": "CompensatorController.mode",
-            "@nc:PropertyReference.mRID": "8709af80-c90e-4e4d-924a-e5a2944075bc"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCPole.longPF",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Energy consumer long term economic participation factor.",
-            "@skos:prefLabel": "DCPole.longPF",
-            "@dcterms:identifier": "urn:uuid:46946677-01a9-4f58-8666-14b65dd05267",
-            "@nc:PropertyReference.name": "DCPole.longPF",
-            "@nc:PropertyReference.mRID": "46946677-01a9-4f58-8666-14b65dd05267"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VoltageControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the voltage that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "VoltageControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:2c954d38-ed51-4f75-8aa3-afd5b6f82476",
-            "@nc:PropertyReference.name": "VoltageControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "2c954d38-ed51-4f75-8aa3-afd5b6f82476"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DirectCurrentController.mode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Mode of the dc controller.",
-            "@skos:prefLabel": "DirectCurrentController.mode",
-            "@dcterms:identifier": "urn:uuid:1c2e0f58-aa25-43b0-addd-593b9a8e45f9",
-            "@nc:PropertyReference.name": "DirectCurrentController.mode",
-            "@nc:PropertyReference.mRID": "1c2e0f58-aa25-43b0-addd-593b9a8e45f9"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ControlArea.pTolerance",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power net interchange tolerance. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "ControlArea.pTolerance",
-            "@dcterms:identifier": "urn:uuid:4335c733-0cd6-4678-97e8-e787d6423aa0",
-            "@nc:PropertyReference.name": "ControlArea.pTolerance",
-            "@nc:PropertyReference.mRID": "4335c733-0cd6-4678-97e8-e787d6423aa0"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.targetPowerFactorPcc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Power factor target at the AC side, at point of common coupling. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.targetPowerFactorPcc",
-            "@dcterms:identifier": "urn:uuid:d1a5fae7-a735-4556-b7af-c447aba7e545",
-            "@nc:PropertyReference.name": "VsConverter.targetPowerFactorPcc",
-            "@nc:PropertyReference.mRID": "d1a5fae7-a735-4556-b7af-c447aba7e545"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PTCActivePowerSupport.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The support that a System Integrity Protection Scheme (SIPS) gives to a Power Transfer Corridor (PTC).",
-            "@skos:prefLabel": "PTCActivePowerSupport.value",
-            "@dcterms:identifier": "urn:uuid:24303e9c-8bb0-46d6-b182-56a7bf2ba0d8",
-            "@nc:PropertyReference.name": "PTCActivePowerSupport.value",
-            "@nc:PropertyReference.mRID": "24303e9c-8bb0-46d6-b182-56a7bf2ba0d8"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialActionScheme.inService",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specifies the availability of the Remedial Action Scheme (RAS). If true, the RAS is available for contingency processing. If false, the RAS is treated by contingency processing as if it is not in the model.",
-            "@skos:prefLabel": "RemedialActionScheme.inService",
-            "@dcterms:identifier": "urn:uuid:5ff26ccf-49f4-493f-9425-74d7d969c13a",
-            "@nc:PropertyReference.name": "RemedialActionScheme.inService",
-            "@nc:PropertyReference.mRID": "5ff26ccf-49f4-493f-9425-74d7d969c13a"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialActionDependency.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the remedial action dependency is enabled, otherwise it is disabled.",
-            "@skos:prefLabel": "RemedialActionDependency.enabled",
-            "@dcterms:identifier": "urn:uuid:7bf769ab-fa28-40a5-9f06-e961e6b94e4c",
-            "@nc:PropertyReference.name": "RemedialActionDependency.enabled",
-            "@nc:PropertyReference.mRID": "7bf769ab-fa28-40a5-9f06-e961e6b94e4c"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/TapChanger.controlEnabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specifies the regulation status of the equipment.  True is regulating, false is not regulating.",
-            "@skos:prefLabel": "TapChanger.controlEnabled",
-            "@dcterms:identifier": "urn:uuid:2da1baa3-f88a-4ab5-a257-f9e5d18b9849",
-            "@nc:PropertyReference.name": "TapChanger.controlEnabled",
-            "@nc:PropertyReference.mRID": "2da1baa3-f88a-4ab5-a257-f9e5d18b9849"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Reservoir.energyStorage",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Amount of energy available in the storage.",
-            "@skos:prefLabel": "Reservoir.energyStorage",
-            "@dcterms:identifier": "urn:uuid:ea6d30c2-25d2-46e8-877c-7f04a91b8b95",
-            "@nc:PropertyReference.name": "Reservoir.energyStorage",
-            "@nc:PropertyReference.mRID": "ea6d30c2-25d2-46e8-877c-7f04a91b8b95"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.regulatingUpAllocation",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The balancing capacity allocated for regulating up, by increasing the production, decreasing the direct current export, increasing direct current import or reducing the consumption of energy in the bidding zone. This must be a positive number.",
-            "@skos:prefLabel": "BiddingZone.regulatingUpAllocation",
-            "@dcterms:identifier": "urn:uuid:bf2d4878-9048-4512-837f-e6a8a601f106",
-            "@nc:PropertyReference.name": "BiddingZone.regulatingUpAllocation",
-            "@nc:PropertyReference.mRID": "bf2d4878-9048-4512-837f-e6a8a601f106"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Switch.locked",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the switch is locked. The resulting switch state is a combination of locked and Switch.open attributes as follows:\n<ul>\n\t<li>locked=true and Switch.open=true. The resulting state is open and locked;</li>\n\t<li>locked=false and Switch.open=true. The resulting state is open;</li>\n\t<li>locked=false and Switch.open=false. The resulting state is closed.</li>\n</ul>",
-            "@skos:prefLabel": "Switch.locked",
-            "@dcterms:identifier": "urn:uuid:6bf03f76-b5c5-4c63-84b6-eb588a4d01b4",
-            "@nc:PropertyReference.name": "Switch.locked",
-            "@nc:PropertyReference.mRID": "6bf03f76-b5c5-4c63-84b6-eb588a4d01b4"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/SynchronousMachine.operatingMode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Current mode of operation.",
-            "@skos:prefLabel": "SynchronousMachine.operatingMode",
-            "@dcterms:identifier": "urn:uuid:1d3bb064-b765-4d06-992a-70f1ce3d0bd4",
-            "@nc:PropertyReference.name": "SynchronousMachine.operatingMode",
-            "@nc:PropertyReference.mRID": "1d3bb064-b765-4d06-992a-70f1ce3d0bd4"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ApparentPowerLimit.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The apparent power limit. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "ApparentPowerLimit.value",
-            "@dcterms:identifier": "urn:uuid:97abdf96-c89d-4bc0-ac0e-52c7ae190926",
-            "@nc:PropertyReference.name": "ApparentPowerLimit.value",
-            "@nc:PropertyReference.mRID": "97abdf96-c89d-4bc0-ac0e-52c7ae190926"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerTransferCorridor.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "It enables/disables the monitoring/assessment of a power transfer corridor. True means that the monitoring of the power transfer corridor is assessed. False means the power transfer corridor is not assessed. ",
-            "@skos:prefLabel": "PowerTransferCorridor.enabled",
-            "@dcterms:identifier": "urn:uuid:0293d08f-20b8-48c7-942e-fbad5ede506e",
-            "@nc:PropertyReference.name": "PowerTransferCorridor.enabled",
-            "@nc:PropertyReference.mRID": "0293d08f-20b8-48c7-942e-fbad5ede506e"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerElectronicsUnit.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.",
-            "@skos:prefLabel": "PowerElectronicsUnit.participationFactor",
-            "@dcterms:identifier": "urn:uuid:4da10084-f2d2-40ed-80fa-e80e0a0c7f15",
-            "@nc:PropertyReference.name": "PowerElectronicsUnit.participationFactor",
-            "@nc:PropertyReference.mRID": "4da10084-f2d2-40ed-80fa-e80e0a0c7f15"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ShuntCompensator.sections",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Shunt compensator sections in use. Starting value for steady state solution. The attribute shall be a positive value or zero. Non integer values are allowed to support continuous variables. The reasons for continuous value are to support study cases where no discrete shunt compensators has yet been designed, a solutions where a narrow voltage band force the sections to oscillate or accommodate for a continuous solution as input. \nFor LinearShuntConpensator the value shall be between zero and ShuntCompensator.maximumSections. At value zero the shunt compensator conductance and admittance is zero. Linear interpolation of conductance and admittance between the previous and next integer section is applied in case of non-integer values.\nFor NonlinearShuntCompensator-s shall only be set to one of the NonlinearShuntCompenstorPoint.sectionNumber. There is no interpolation between NonlinearShuntCompenstorPoint-s.",
-            "@skos:prefLabel": "ShuntCompensator.sections",
-            "@dcterms:identifier": "urn:uuid:a72689cb-9255-4ddd-bfc3-8938a3a4caf5",
-            "@nc:PropertyReference.name": "ShuntCompensator.sections",
-            "@nc:PropertyReference.mRID": "a72689cb-9255-4ddd-bfc3-8938a3a4caf5"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCTieCorridor.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power at the point of common coupling. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution in the case a simplified power flow model is used.",
-            "@skos:prefLabel": "DCTieCorridor.p",
-            "@dcterms:identifier": "urn:uuid:63887b20-32a7-4991-b770-75638a5c602d",
-            "@nc:PropertyReference.name": "DCTieCorridor.p",
-            "@nc:PropertyReference.mRID": "63887b20-32a7-4991-b770-75638a5c602d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RemedialActionGroup.maxRegulatingDown",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum net amount of active power that the group of remedial actions can regulate down.",
-            "@skos:prefLabel": "RemedialActionGroup.maxRegulatingDown",
-            "@dcterms:identifier": "urn:uuid:f7200a2e-0c04-44e9-9155-f4f7fcad9114",
-            "@nc:PropertyReference.name": "RemedialActionGroup.maxRegulatingDown",
-            "@nc:PropertyReference.mRID": "f7200a2e-0c04-44e9-9155-f4f7fcad9114"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentDroopControlFunction.targetValueCapacitive",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Setpoint when control is active in capacitive region.",
-            "@skos:prefLabel": "CurrentDroopControlFunction.targetValueCapacitive",
-            "@dcterms:identifier": "urn:uuid:e5f02e60-e2ba-4b56-a64c-3f277adf8108",
-            "@nc:PropertyReference.name": "CurrentDroopControlFunction.targetValueCapacitive",
-            "@nc:PropertyReference.mRID": "e5f02e60-e2ba-4b56-a64c-3f277adf8108"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergySource.voltageAngle",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Phase angle of a-phase open circuit used when voltage characteristics need to be imposed at the node associated with the terminal of the energy source, such as when voltages and angles from the transmission level are used as input to the distribution network. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "EnergySource.voltageAngle",
-            "@dcterms:identifier": "urn:uuid:7e87693f-5b7e-440f-bad1-a05101c664bf",
-            "@nc:PropertyReference.name": "EnergySource.voltageAngle",
-            "@nc:PropertyReference.mRID": "7e87693f-5b7e-440f-bad1-a05101c664bf"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergySource.voltageMagnitude",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Phase-to-phase open circuit voltage magnitude used when voltage characteristics need to be imposed at the node associated with the terminal of the energy source, such as when voltages and angles from the transmission level are used as input to the distribution network. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "EnergySource.voltageMagnitude",
-            "@dcterms:identifier": "urn:uuid:0cddc7ac-49eb-4895-a198-0b3d924249ff",
-            "@nc:PropertyReference.name": "EnergySource.voltageMagnitude",
-            "@nc:PropertyReference.mRID": "0cddc7ac-49eb-4895-a198-0b3d924249ff"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergySource.activePower",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "High voltage source active injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "EnergySource.activePower",
-            "@dcterms:identifier": "urn:uuid:c7b65971-5dae-428f-bfe0-0615f769f3f8",
-            "@nc:PropertyReference.name": "EnergySource.activePower",
-            "@nc:PropertyReference.mRID": "c7b65971-5dae-428f-bfe0-0615f769f3f8"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ExternalNetworkInjection.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "ExternalNetworkInjection.p",
-            "@dcterms:identifier": "urn:uuid:067fdc37-ec07-4197-b329-d986eef6bd70",
-            "@nc:PropertyReference.name": "ExternalNetworkInjection.p",
-            "@nc:PropertyReference.mRID": "067fdc37-ec07-4197-b329-d986eef6bd70"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZone.netDCInterchange",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The netted aggregation of all DC external schedules of an area. Positive sign means flow into the area.",
-            "@skos:prefLabel": "BiddingZone.netDCInterchange",
-            "@dcterms:identifier": "urn:uuid:0ebb40b5-b27e-4f7b-b295-94a299f59068",
-            "@nc:PropertyReference.name": "BiddingZone.netDCInterchange",
-            "@nc:PropertyReference.mRID": "0ebb40b5-b27e-4f7b-b295-94a299f59068"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RangeConstraint.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The value at the time. The meaning of the value is defined by the attribute referenced by the PropertyReference. The value can be integer, float or boolean. In case of boolean 1 equals true and 0 equals false. \nIf the valueKind is incremental or incrementalPercentage, then the value shall be positive (greater than zero).\nIf the valueKind is incrementalPercentage, then the value shall be in the range [0, 100].",
-            "@skos:prefLabel": "RangeConstraint.value",
-            "@dcterms:identifier": "urn:uuid:970974fd-1205-4186-aa2b-4162b97da428",
-            "@nc:PropertyReference.name": "RangeConstraint.value",
-            "@nc:PropertyReference.mRID": "970974fd-1205-4186-aa2b-4162b97da428"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EquivalentInjection.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Equivalent reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "EquivalentInjection.q",
-            "@dcterms:identifier": "urn:uuid:1d9ef58e-e6a4-4c35-8627-38cc1b93c43b",
-            "@nc:PropertyReference.name": "EquivalentInjection.q",
-            "@nc:PropertyReference.mRID": "1d9ef58e-e6a4-4c35-8627-38cc1b93c43b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.totalTransferCapacity",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Total Transfer Capacity (TTC) is the maximum exchange program between two areas compatible with operational security standards applicable at each system if future network conditions, generation and load patterns were perfectly known in advance.",
-            "@skos:prefLabel": "BiddingZoneBorder.totalTransferCapacity",
-            "@dcterms:identifier": "urn:uuid:57545b31-1dc8-4ed3-bbaf-990d9a1228e6",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.totalTransferCapacity",
-            "@nc:PropertyReference.mRID": "57545b31-1dc8-4ed3-bbaf-990d9a1228e6"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AsynchronousMachine.asynchronousMachineType",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Indicates the type of Asynchronous Machine (motor or generator).",
-            "@skos:prefLabel": "AsynchronousMachine.asynchronousMachineType",
-            "@dcterms:identifier": "urn:uuid:05d8aacc-d337-4e90-a9ad-d77940aeda1c",
-            "@nc:PropertyReference.name": "AsynchronousMachine.asynchronousMachineType",
-            "@nc:PropertyReference.mRID": "05d8aacc-d337-4e90-a9ad-d77940aeda1c"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerElectronicsConnection.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "PowerElectronicsConnection.p",
-            "@dcterms:identifier": "urn:uuid:1c277e1f-df16-4630-a94a-e196335e0111",
-            "@nc:PropertyReference.name": "PowerElectronicsConnection.p",
-            "@nc:PropertyReference.mRID": "1c277e1f-df16-4630-a94a-e196335e0111"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/SynchronousMachine.referencePriority",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Priority of unit for use as powerflow voltage phase angle reference bus selection. 0 = don t care (default) 1 = highest priority. 2 is less than 1 and so on.",
-            "@skos:prefLabel": "SynchronousMachine.referencePriority",
-            "@dcterms:identifier": "urn:uuid:0e53e02b-a59a-4cdf-9826-35c56dd6c9ca",
-            "@nc:PropertyReference.name": "SynchronousMachine.referencePriority",
-            "@nc:PropertyReference.mRID": "0e53e02b-a59a-4cdf-9826-35c56dd6c9ca"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.maxFlow",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum flow on a conducting equipment or a collection of conducting equipment forming a power transfer corridor. For assessed element that becomes critical due to contingency, this value represents the maximum flow with remedial action taken into consideration.",
-            "@skos:prefLabel": "AssessedElement.maxFlow",
-            "@dcterms:identifier": "urn:uuid:b96e7fab-4784-41f0-8e7e-e1cf76a57a99",
-            "@nc:PropertyReference.name": "AssessedElement.maxFlow",
-            "@nc:PropertyReference.mRID": "b96e7fab-4784-41f0-8e7e-e1cf76a57a99"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VoltageLimit.value",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Limit on voltage. High or low limit nature of the limit depends upon the properties of the operational limit type. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "VoltageLimit.value",
-            "@dcterms:identifier": "urn:uuid:d9f32796-a276-42b6-857f-173095c26f7b",
-            "@nc:PropertyReference.name": "VoltageLimit.value",
-            "@nc:PropertyReference.mRID": "d9f32796-a276-42b6-857f-173095c26f7b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/InfeedLimit.valueW",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Value of active power limit. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "InfeedLimit.valueW",
-            "@dcterms:identifier": "urn:uuid:a680a1dd-d4d9-4ac5-b6ff-bcb955f1a2e0",
-            "@nc:PropertyReference.name": "InfeedLimit.valueW",
-            "@nc:PropertyReference.mRID": "a680a1dd-d4d9-4ac5-b6ff-bcb955f1a2e0"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/FACTSEquipment.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "FACTSEquipment.q",
-            "@dcterms:identifier": "urn:uuid:209a41cc-aebd-4ab4-91ee-e066e213a889",
-            "@nc:PropertyReference.name": "FACTSEquipment.q",
-            "@nc:PropertyReference.mRID": "209a41cc-aebd-4ab4-91ee-e066e213a889"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Equipment.inService",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specifies the availability of the equipment. True means the equipment is available for topology processing, which determines if the equipment is energized or not. False means that the equipment is treated by network applications as if it is not in the model.",
-            "@skos:prefLabel": "Equipment.inService",
-            "@dcterms:identifier": [
-                "urn:uuid:67b777c0-a5b2-46ab-97bd-040c66b1d50f",
-                "urn:uuid:126623ad-2c0d-4c1c-a573-a04d017c1529"
-            ],
-            "@nc:PropertyReference.name": "Equipment.inService",
-            "@nc:PropertyReference.mRID": [
-                "67b777c0-a5b2-46ab-97bd-040c66b1d50f",
-                "126623ad-2c0d-4c1c-a573-a04d017c1529"
-            ]
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the assessed element is enabled, otherwise it is disabled.",
-            "@skos:prefLabel": "AssessedElement.enabled",
-            "@dcterms:identifier": "urn:uuid:85982b36-c98e-4e28-958b-4c6da6651a90",
-            "@nc:PropertyReference.name": "AssessedElement.enabled",
-            "@nc:PropertyReference.mRID": "85982b36-c98e-4e28-958b-4c6da6651a90"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/BiddingZoneBorder.transmissionReliabilityMargin",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Transmission Reliability Margin (TRM) is the minimum reserve that system operators must have available at their connections so that they can help other countries to which their system is directly or indirectly connected, if necessary.",
-            "@skos:prefLabel": "BiddingZoneBorder.transmissionReliabilityMargin",
-            "@dcterms:identifier": "urn:uuid:db3ad539-d0bc-4626-9e3a-671bfe4c3aca",
-            "@nc:PropertyReference.name": "BiddingZoneBorder.transmissionReliabilityMargin",
-            "@nc:PropertyReference.mRID": "db3ad539-d0bc-4626-9e3a-671bfe4c3aca"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/AssessedElement.positiveVirtualMargin",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "A positive margin that defines the overload allowed in a solution for the assessed element for the current situation. The margin represents influences that can be solved by the System Operators using available remedial action which is not cross-border relevant remedial action.\nAll relevant operational limits (e.g. PATL, TATL, etc) are modified by this margin value. The attribute represents the increase.\nThe allowed value range is [0,100].",
-            "@skos:prefLabel": "AssessedElement.positiveVirtualMargin",
-            "@dcterms:identifier": "urn:uuid:fa6d378d-b9f3-471a-a7b8-ee5a16aad4ae",
-            "@nc:PropertyReference.name": "AssessedElement.positiveVirtualMargin",
-            "@nc:PropertyReference.mRID": "fa6d378d-b9f3-471a-a7b8-ee5a16aad4ae"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ACDCConverter.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power at the point of common coupling. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution in the case a simplified power flow model is used.",
-            "@skos:prefLabel": "ACDCConverter.p",
-            "@dcterms:identifier": "urn:uuid:9640bc4b-6569-4b49-aa1b-ec4b328ad2a4",
-            "@nc:PropertyReference.name": "ACDCConverter.p",
-            "@nc:PropertyReference.mRID": "9640bc4b-6569-4b49-aa1b-ec4b328ad2a4"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The flag tells if regulation is enabled.",
-            "@skos:prefLabel": "RegulatingControl.enabled",
-            "@dcterms:identifier": "urn:uuid:638ab3f0-7421-49a0-a65a-1adce751432d",
-            "@nc:PropertyReference.name": "RegulatingControl.enabled",
-            "@nc:PropertyReference.mRID": "638ab3f0-7421-49a0-a65a-1adce751432d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ReactivePowerControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the reactive power that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "ReactivePowerControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:cb1e5b0f-d875-4b5b-b7b0-7f1d72b4a608",
-            "@nc:PropertyReference.name": "ReactivePowerControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "cb1e5b0f-d875-4b5b-b7b0-7f1d72b4a608"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ActivePowerControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the active power that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "ActivePowerControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:2e610aa2-15d7-4d61-b1a9-b727eae71171",
-            "@nc:PropertyReference.name": "ActivePowerControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "2e610aa2-15d7-4d61-b1a9-b727eae71171"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/VsConverter.targetUpcc",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Voltage target in AC grid, at point of common coupling. The attribute shall be a positive value.",
-            "@skos:prefLabel": "VsConverter.targetUpcc",
-            "@dcterms:identifier": "urn:uuid:9885198b-9671-41ee-8c75-d15ee4f13845",
-            "@nc:PropertyReference.name": "VsConverter.targetUpcc",
-            "@nc:PropertyReference.mRID": "9885198b-9671-41ee-8c75-d15ee4f13845"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ImpedanceControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the impedance that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "ImpedanceControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:b4093159-7731-4d49-9c90-caa4234ef0e5",
-            "@nc:PropertyReference.name": "ImpedanceControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "b4093159-7731-4d49-9c90-caa4234ef0e5"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.maxAllowedTargetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum allowed target value (RegulatingControl.targetValue).",
-            "@skos:prefLabel": "RegulatingControl.maxAllowedTargetValue",
-            "@dcterms:identifier": "urn:uuid:f7d196c2-a20d-4cc6-a3e3-464474896028",
-            "@nc:PropertyReference.name": "RegulatingControl.maxAllowedTargetValue",
-            "@nc:PropertyReference.mRID": "f7d196c2-a20d-4cc6-a3e3-464474896028"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ContingencyWithRemedialAction.enabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "If true, the contingency with remedial action is enabled, otherwise it is disabled.",
-            "@skos:prefLabel": "ContingencyWithRemedialAction.enabled",
-            "@dcterms:identifier": "urn:uuid:bdab74e1-6b78-4770-98f6-82c8991da60b",
-            "@nc:PropertyReference.name": "ContingencyWithRemedialAction.enabled",
-            "@nc:PropertyReference.mRID": "bdab74e1-6b78-4770-98f6-82c8991da60b"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/DCTieCorridor.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power at the point of common coupling. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution in the case a simplified power flow model is used.",
-            "@skos:prefLabel": "DCTieCorridor.q",
-            "@dcterms:identifier": "urn:uuid:e7840ed4-1c97-4bce-a484-23db8b6619b8",
-            "@nc:PropertyReference.name": "DCTieCorridor.q",
-            "@nc:PropertyReference.mRID": "e7840ed4-1c97-4bce-a484-23db8b6619b8"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ACDCTerminal.connected",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The connected status is related to a bus-branch model and the topological node to terminal relation.  True implies the terminal is connected to the related topological node and false implies it is not. \nIn a bus-branch model, the connected status is used to tell if equipment is disconnected without having to change the connectivity described by the topological node to terminal relation. A valid case is that conducting equipment can be connected in one end and open in the other. In particular for an AC line segment, where the reactive line charging can be significant, this is a relevant case.",
-            "@skos:prefLabel": "ACDCTerminal.connected",
-            "@dcterms:identifier": "urn:uuid:1bcbebe8-5d00-499e-b271-b19d1a46d2d1",
-            "@nc:PropertyReference.name": "ACDCTerminal.connected",
-            "@nc:PropertyReference.mRID": "1bcbebe8-5d00-499e-b271-b19d1a46d2d1"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ACDCConverter.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power at the point of common coupling. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution in the case a simplified power flow model is used.",
-            "@skos:prefLabel": "ACDCConverter.q",
-            "@dcterms:identifier": "urn:uuid:8eb62849-edef-432c-be84-773644689210",
-            "@nc:PropertyReference.name": "ACDCConverter.q",
-            "@nc:PropertyReference.mRID": "8eb62849-edef-432c-be84-773644689210"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/Equipment.networkAnalysisEnabled",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "The equipment is enabled to participate in network analysis.  If unspecified, the value is assumed to be true.",
-            "@skos:prefLabel": "Equipment.networkAnalysisEnabled",
-            "@dcterms:identifier": "urn:uuid:ee8bd1ad-fb29-4fee-bdad-da96b34311a9",
-            "@nc:PropertyReference.name": "Equipment.networkAnalysisEnabled",
-            "@nc:PropertyReference.mRID": "ee8bd1ad-fb29-4fee-bdad-da96b34311a9"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CsConverter.targetGamma",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target extinction angle. It is converter’s control variable used in power flow. It is only applicable for inverter if continuous tap changer control is used. Allowed values are within the range minGamma&lt;=targetGamma&lt;=maxGamma. The attribute shall be a positive value.",
-            "@skos:prefLabel": "CsConverter.targetGamma",
-            "@dcterms:identifier": "urn:uuid:7d6e849c-73db-445c-b5a9-be63afe4d9c0",
-            "@nc:PropertyReference.name": "CsConverter.targetGamma",
-            "@nc:PropertyReference.mRID": "7d6e849c-73db-445c-b5a9-be63afe4d9c0"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CsConverter.operatingMode",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Indicates whether the DC pole is operating as an inverter or as a rectifier. It is converter’s control variable used in power flow.",
-            "@skos:prefLabel": "CsConverter.operatingMode",
-            "@dcterms:identifier": "urn:uuid:005d38b3-85bd-4430-a3af-f179787235b7",
-            "@nc:PropertyReference.name": "CsConverter.operatingMode",
-            "@nc:PropertyReference.mRID": "005d38b3-85bd-4430-a3af-f179787235b7"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ExternalNetworkInjection.q",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Reactive power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "ExternalNetworkInjection.q",
-            "@dcterms:identifier": "urn:uuid:a24cb554-a908-46a6-aa8c-0b2345522751",
-            "@nc:PropertyReference.name": "ExternalNetworkInjection.q",
-            "@nc:PropertyReference.mRID": "a24cb554-a908-46a6-aa8c-0b2345522751"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/ScheduleResource.participationFactor",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Participation factor describing the entity part of the active power provided by a collection of entities (e.g. an active power forecast to a collection of entities is divided to each of the member entity according to the participation factor). Must be a positive value.\nIn the case of a sharing strategy, the distribution is following entities value (V) equals aggregated value (T) divided by sum of participation factors (PF), i.e. V=T/sum(PF). \nIn the case of priority strategy, the item with the lowest number gets allocated energy first.",
-            "@skos:prefLabel": "ScheduleResource.participationFactor",
-            "@dcterms:identifier": "urn:uuid:6f0b364e-a28c-4c29-bd40-9692dc5f4b09",
-            "@nc:PropertyReference.name": "ScheduleResource.participationFactor",
-            "@nc:PropertyReference.mRID": "6f0b364e-a28c-4c29-bd40-9692dc5f4b09"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerFactorControlFunction.targetValue",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Target value for the power factor that the control function is calculating to achieve by adjusting the operational setting to the controlled equipment.",
-            "@skos:prefLabel": "PowerFactorControlFunction.targetValue",
-            "@dcterms:identifier": "urn:uuid:4434b99a-027e-4655-b63b-a0187785e16d",
-            "@nc:PropertyReference.name": "PowerFactorControlFunction.targetValue",
-            "@nc:PropertyReference.mRID": "4434b99a-027e-4655-b63b-a0187785e16d"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentDroopOverride.targetValueInductive",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Setpoint when control is active in inductive region.",
-            "@skos:prefLabel": "CurrentDroopOverride.targetValueInductive",
-            "@dcterms:identifier": "urn:uuid:82d1c3da-e543-4bed-aac3-364022fcac79",
-            "@nc:PropertyReference.name": "CurrentDroopOverride.targetValueInductive",
-            "@nc:PropertyReference.mRID": "82d1c3da-e543-4bed-aac3-364022fcac79"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/EnergySource.reactivePower",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "High voltage source reactive injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for steady state solutions.",
-            "@skos:prefLabel": "EnergySource.reactivePower",
-            "@dcterms:identifier": "urn:uuid:56ad50ff-aa1a-4ab9-88f8-d9471d807780",
-            "@nc:PropertyReference.name": "EnergySource.reactivePower",
-            "@nc:PropertyReference.mRID": "56ad50ff-aa1a-4ab9-88f8-d9471d807780"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/IdentifiedObject.mRID",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Master resource identifier issued by a model authority. The mRID is unique within an exchange context. Global uniqueness is easily achieved by using a UUID, as specified in RFC 4122, for the mRID. The use of UUID is strongly recommended.\nFor CIMXML data files in RDF syntax conforming to IEC 61970-552, the mRID is mapped to rdf:ID or rdf:about attributes that identify CIM object elements.",
-            "@skos:prefLabel": "IdentifiedObject.mRID",
-            "@dcterms:identifier": "urn:uuid:704202ac-974e-4576-a9e7-84581df72c59",
-            "@nc:PropertyReference.name": "IdentifiedObject.mRID",
-            "@nc:PropertyReference.mRID": "704202ac-974e-4576-a9e7-84581df72c59"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/PowerRemedialAction.maxRegulatingUp",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Maximum net amount of active power that the remedial action can regulate up.",
-            "@skos:prefLabel": "PowerRemedialAction.maxRegulatingUp",
-            "@dcterms:identifier": "urn:uuid:e4834fe8-beb6-4593-8308-1f3c2952ac94",
-            "@nc:PropertyReference.name": "PowerRemedialAction.maxRegulatingUp",
-            "@nc:PropertyReference.mRID": "e4834fe8-beb6-4593-8308-1f3c2952ac94"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/InfeedLimit.valueA",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Value of current limit. The attribute shall be a positive value or zero.",
-            "@skos:prefLabel": "InfeedLimit.valueA",
-            "@dcterms:identifier": "urn:uuid:5ab8977f-a45d-4f58-8341-757d585ae670",
-            "@nc:PropertyReference.name": "InfeedLimit.valueA",
-            "@nc:PropertyReference.mRID": "5ab8977f-a45d-4f58-8341-757d585ae670"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RegulatingControl.targetValueUnitMultiplier",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Specify the multiplier for used for the targetValue.",
-            "@skos:prefLabel": "RegulatingControl.targetValueUnitMultiplier",
-            "@dcterms:identifier": "urn:uuid:7c03952f-fc7b-44d6-a6ff-ec5cef2f99a9",
-            "@nc:PropertyReference.name": "RegulatingControl.targetValueUnitMultiplier",
-            "@nc:PropertyReference.mRID": "7c03952f-fc7b-44d6-a6ff-ec5cef2f99a9"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/CurrentDroopControlFunction.targetValueInductive",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Setpoint when control is active in inductive region.",
-            "@skos:prefLabel": "CurrentDroopControlFunction.targetValueInductive",
-            "@dcterms:identifier": "urn:uuid:b28400fb-56f8-49fb-9f98-b7b4b0e94cf2",
-            "@nc:PropertyReference.name": "CurrentDroopControlFunction.targetValueInductive",
-            "@nc:PropertyReference.mRID": "b28400fb-56f8-49fb-9f98-b7b4b0e94cf2"
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PropertyReference/RotatingMachine.p",
-            "@type": [
-                "@skos:Concept",
-                "@nc:PropertyReference"
-            ],
-            "@skos:topConceptOf": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:inScheme": "http://energy.referencedata.eu/PropertyReference",
-            "@skos:definition": "Active power injection. Load sign convention is used, i.e. positive sign means flow out from a node.\nStarting value for a steady state solution.",
-            "@skos:prefLabel": "RotatingMachine.p",
-            "@dcterms:identifier": "urn:uuid:2e31b87d-57af-47d7-b4f2-f4b7f3d62b0c",
-            "@nc:PropertyReference.name": "RotatingMachine.p",
-            "@nc:PropertyReference.mRID": "2e31b87d-57af-47d7-b4f2-f4b7f3d62b0c"
+            "@id": "https://energy.referencedata.eu/PropertyReference/NCP/5.0.0#Collection_PropertyReference",
+            "@type": "@prov:Collection",
+            "@prov:hadMember": [
+                {
+                    "@id": "@nc:PTCActivePowerSupport.value"
+                },
+                {
+                    "@id": "@cim17:VsConverter.droopCompensation"
+                },
+                {
+                    "@id": "@nc:RangeConstraint.value"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.transmissionReliabilityMargin"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.shutdownCost"
+                },
+                {
+                    "@id": "@cim:EquivalentInjection.p"
+                },
+                {
+                    "@id": "@cim17:EnergyConsumer.p"
+                },
+                {
+                    "@id": "@cim16:EnergySource.reactivePower"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.netDCInterchange"
+                },
+                {
+                    "@id": "@nc:CurrentDroopControlFunction.targetValueInductive"
+                },
+                {
+                    "@id": "@cim:EnergySource.activePower"
+                },
+                {
+                    "@id": "@cim:ShuntCompensator.sections"
+                },
+                {
+                    "@id": "@nc:DCTieCorridor.p"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.regulatingDownAllocation"
+                },
+                {
+                    "@id": "@nc:DCPole.p"
+                },
+                {
+                    "@id": "@cim17:EnergySource.voltageMagnitude"
+                },
+                {
+                    "@id": "@cim17:PowerElectronicsConnection.p"
+                },
+                {
+                    "@id": "@cim:ControlArea.netInterchange"
+                },
+                {
+                    "@id": "@nc:AssessedElementWithContingency.enabled"
+                },
+                {
+                    "@id": "@cim:Equipment.inService"
+                },
+                {
+                    "@id": "@cim16:RegulatingControl.discrete"
+                },
+                {
+                    "@id": "@nc:CompensatorController.mode"
+                },
+                {
+                    "@id": "@nc:ScheduleResource.p"
+                },
+                {
+                    "@id": "@nc:AutomationFunction.enabled"
+                },
+                {
+                    "@id": "@nc:SchedulingArea.participationFactor"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.mustRunQ"
+                },
+                {
+                    "@id": "@cim17:RegulatingCondEq.controlEnabled"
+                },
+                {
+                    "@id": "@cim16:VsConverter.targetUpcc"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.netTransferCapacity"
+                },
+                {
+                    "@id": "@nc:RemedialActionDependency.enabled"
+                },
+                {
+                    "@id": "@cim16:EquivalentInjection.regulationTarget"
+                },
+                {
+                    "@id": "@nc:CrossBorderRelevance.enabled"
+                },
+                {
+                    "@id": "@cim:SynchronousMachine.operatingMode"
+                },
+                {
+                    "@id": "@nc:AssessedElement.maxMarginAdjustment"
+                },
+                {
+                    "@id": "@cim:CsConverter.targetAlpha"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.netACInterchange"
+                },
+                {
+                    "@id": "@cim:CsConverter.targetGamma"
+                },
+                {
+                    "@id": "@cim:VsConverter.targetPWMfactor"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.discrete"
+                },
+                {
+                    "@id": "@nc:FACTSEquipment.q"
+                },
+                {
+                    "@id": "@cim:CurrentLimit.value"
+                },
+                {
+                    "@id": "@cim:VsConverter.droopCompensation"
+                },
+                {
+                    "@id": "@nc:ReactivePowerControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim:VsConverter.pPccControl"
+                },
+                {
+                    "@id": "@cim:EquivalentInjection.regulationStatus"
+                },
+                {
+                    "@id": "@nc:RotatingMachineController.mode"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.regulatingUpAllocation"
+                },
+                {
+                    "@id": "@nc:FrequencyControlFunction.targetValue"
+                },
+                {
+                    "@id": "@nc:EnergyBlockOrder.sequence"
+                },
+                {
+                    "@id": "@cim:EnergySource.voltageMagnitude"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.maxAllowedTargetValue"
+                },
+                {
+                    "@id": "@cim17:Contingency.mustStudy"
+                },
+                {
+                    "@id": "@cim:TapChanger.step"
+                },
+                {
+                    "@id": "@cim17:Equipment.networkAnalysisEnabled"
+                },
+                {
+                    "@id": "@cim17:Switch.open"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.alreadyAllocatedCapacity"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.totalTransferCapacity"
+                },
+                {
+                    "@id": "@nc:AssessedElement.coordinatedValidationAdjustment"
+                },
+                {
+                    "@id": "@cim17:RotatingMachine.p"
+                },
+                {
+                    "@id": "@cim17:CsConverter.targetIdc"
+                },
+                {
+                    "@id": "@cim:ACDCTerminal.connected"
+                },
+                {
+                    "@id": "@nc:CurrentDroopOverride.targetValueCapacitiveI"
+                },
+                {
+                    "@id": "@cim17:EnergySource.voltageAngle"
+                },
+                {
+                    "@id": "@cim17:ExternalNetworkInjection.referencePriority"
+                },
+                {
+                    "@id": "@cim16:ExternalNetworkInjection.p"
+                },
+                {
+                    "@id": "@cim16:SynchronousMachine.referencePriority"
+                },
+                {
+                    "@id": "@nc:AssessedElement.enabled"
+                },
+                {
+                    "@id": "@cim:PowerElectronicsConnection.q"
+                },
+                {
+                    "@id": "@cim17:VoltageLimit.value"
+                },
+                {
+                    "@id": "@nc:VoltageInjectionControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim16:CsConverter.operatingMode"
+                },
+                {
+                    "@id": "@nc:SSSCController.mode"
+                },
+                {
+                    "@id": "@cim17:VsConverter.targetUpcc"
+                },
+                {
+                    "@id": "@cim16:CsConverter.pPccControl"
+                },
+                {
+                    "@id": "@nc:AssessedElement.individualValidationAdjustmentJustification"
+                },
+                {
+                    "@id": "@cim16:RegulatingControl.targetValueUnitMultiplier"
+                },
+                {
+                    "@id": "@cim16:EquivalentInjection.q"
+                },
+                {
+                    "@id": "@cim16:VsConverter.targetQpcc"
+                },
+                {
+                    "@id": "@nc:CircuitShare.contributionFactor"
+                },
+                {
+                    "@id": "@nc:BaseCaseCurrentLimit.value"
+                },
+                {
+                    "@id": "@cim:Switch.locked"
+                },
+                {
+                    "@id": "@nc:DCCurrentControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim:RotatingMachine.p"
+                },
+                {
+                    "@id": "@nc:PhaseControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim17:SynchronousMachine.referencePriority"
+                },
+                {
+                    "@id": "@nc:RemedialActionGroup.maxRegulatingUp"
+                },
+                {
+                    "@id": "@nc:AssessedElement.maxFlow"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.warmStartupCost"
+                },
+                {
+                    "@id": "@cim:TapChanger.controlEnabled"
+                },
+                {
+                    "@id": "@nc:DCPole.maxEconomicP"
+                },
+                {
+                    "@id": "@cim16:VsConverter.droop"
+                },
+                {
+                    "@id": "@cim16:AsynchronousMachine.asynchronousMachineType"
+                },
+                {
+                    "@id": "@cim17:VsConverter.targetPWMfactor"
+                },
+                {
+                    "@id": "@nc:GridStateAlteration.enabled"
+                },
+                {
+                    "@id": "@cim:ExternalNetworkInjection.referencePriority"
+                },
+                {
+                    "@id": "@cim:Switch.open"
+                },
+                {
+                    "@id": "@nc:AssessedElement.scannedThresholdMargin"
+                },
+                {
+                    "@id": "@nc:AssessedElement.positiveVirtualMargin"
+                },
+                {
+                    "@id": "@cim17:VsConverter.targetPhasePcc"
+                },
+                {
+                    "@id": "@nc:ACEmulationControlFunction.referenceP"
+                },
+                {
+                    "@id": "@cim17:ControlArea.pTolerance"
+                },
+                {
+                    "@id": "@cim:GeneratingUnit.startupCost"
+                },
+                {
+                    "@id": "@nc:DCSwitch.locked"
+                },
+                {
+                    "@id": "@cim17:BatteryUnit.batteryState"
+                },
+                {
+                    "@id": "@nc:DCSwitch.open"
+                },
+                {
+                    "@id": "@cim:VoltageLimit.value"
+                },
+                {
+                    "@id": "@nc:BiddingZone.netPosition"
+                },
+                {
+                    "@id": "@nc:PowerShiftKeyStrategy.participationFactor"
+                },
+                {
+                    "@id": "@nc:DCVoltageControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim17:VsConverter.targetQpcc"
+                },
+                {
+                    "@id": "@cim16:TapChanger.controlEnabled"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.mustRunP"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.alreadyAllocatedFlow"
+                },
+                {
+                    "@id": "@cim17:ACDCTerminal.connected"
+                },
+                {
+                    "@id": "@cim17:ExternalNetworkInjection.q"
+                },
+                {
+                    "@id": "@cim16:EnergyConsumer.q"
+                },
+                {
+                    "@id": "@nc:RemedialAction.available"
+                },
+                {
+                    "@id": "@nc:ScheduleResource.participationFactor"
+                },
+                {
+                    "@id": "@cim17:VsConverter.droop"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.minAllowedTargetValue"
+                },
+                {
+                    "@id": "@cim:ActivePowerLimit.value"
+                },
+                {
+                    "@id": "@cim:VsConverter.targetQpcc"
+                },
+                {
+                    "@id": "@cim:GeneratingUnit.normalPF"
+                },
+                {
+                    "@id": "@nc:FunctionBlock.enabled"
+                },
+                {
+                    "@id": "@cim:ACDCConverter.q"
+                },
+                {
+                    "@id": "@nc:AssessedElement.individualValidationAdjustmentShare"
+                },
+                {
+                    "@id": "@nc:VoltageAngleLimit.value"
+                },
+                {
+                    "@id": "@nc:BiddingZoneBorder.availableTransferCapacity"
+                },
+                {
+                    "@id": "@nc:FuelStorage.energyStorage"
+                },
+                {
+                    "@id": "@nc:InfeedLimit.valueW"
+                },
+                {
+                    "@id": "@cim17:EquivalentInjection.regulationStatus"
+                },
+                {
+                    "@id": "@nc:EnergyBlockOrder.participationFactor"
+                },
+                {
+                    "@id": "@nc:DCPole.minEconomicP"
+                },
+                {
+                    "@id": "@cim17:ApparentPowerLimit.value"
+                },
+                {
+                    "@id": "@nc:PowerElectronicsUnit.participationFactor"
+                },
+                {
+                    "@id": "@cim17:VsConverter.qPccControl"
+                },
+                {
+                    "@id": "@nc:SchedulingArea.p"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.mustRun"
+                },
+                {
+                    "@id": "@nc:TCSCController.mode"
+                },
+                {
+                    "@id": "@cim17:CsConverter.operatingMode"
+                },
+                {
+                    "@id": "@cim17:VsConverter.qShare"
+                },
+                {
+                    "@id": "@cim16:RotatingMachine.p"
+                },
+                {
+                    "@id": "@cim:PowerElectronicsConnection.p"
+                },
+                {
+                    "@id": "@nc:RemedialActionScheme.armed"
+                },
+                {
+                    "@id": "@cim:Contingency.mustStudy"
+                },
+                {
+                    "@id": "@cim17:EnergySource.activePower"
+                },
+                {
+                    "@id": "@cim17:EnergyConsumer.q"
+                },
+                {
+                    "@id": "@cim:EquivalentInjection.q"
+                },
+                {
+                    "@id": "@cim:AsynchronousMachine.asynchronousMachineType"
+                },
+                {
+                    "@id": "@cim:VsConverter.targetUpcc"
+                },
+                {
+                    "@id": "@cim17:ACDCConverter.q"
+                },
+                {
+                    "@id": "@cim17:BatteryUnit.storedE"
+                },
+                {
+                    "@id": "@cim16:VsConverter.pPccControl"
+                },
+                {
+                    "@id": "@nc:DCTieCorridor.q"
+                },
+                {
+                    "@id": "@cim16:ControlArea.netInterchange"
+                },
+                {
+                    "@id": "@cim16:CsConverter.targetAlpha"
+                },
+                {
+                    "@id": "@cim16:CsConverter.targetIdc"
+                },
+                {
+                    "@id": "@nc:ACEmulationControlFunction.gain"
+                },
+                {
+                    "@id": "@nc:PowerShiftKeyStrategy.enabled"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.discrete"
+                },
+                {
+                    "@id": "@cim16:RegulatingCondEq.controlEnabled"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.minInterchange"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.isRamping"
+                },
+                {
+                    "@id": "@nc:ActivePowerControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim17:PowerElectronicsConnection.q"
+                },
+                {
+                    "@id": "@cim16:TapChanger.step"
+                },
+                {
+                    "@id": "@nc:PowerElectronicsUnit.p"
+                },
+                {
+                    "@id": "@nc:AssessedElement.targetRemainingAvailableMarginJustification"
+                },
+                {
+                    "@id": "@cim16:ACDCConverter.p"
+                },
+                {
+                    "@id": "@nc:ACEmulationControlFunction.timeConstant"
+                },
+                {
+                    "@id": "@cim16:ExternalNetworkInjection.q"
+                },
+                {
+                    "@id": "@cim16:EnergySource.activePower"
+                },
+                {
+                    "@id": "@cim:EnergySource.voltageAngle"
+                },
+                {
+                    "@id": "@cim17:GeneratingUnit.startupCost"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.enabled"
+                },
+                {
+                    "@id": "@nc:CurrentControlFunction.targetValue"
+                },
+                {
+                    "@id": "@nc:AssessedElement.criticalElementJustification"
+                },
+                {
+                    "@id": "@nc:EnergyConsumer.participationFactor"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.netACInterchangeTolerance"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.targetValue"
+                },
+                {
+                    "@id": "@nc:Reservoir.energyStorage"
+                },
+                {
+                    "@id": "@nc:VoltageControlFunction.targetValue"
+                },
+                {
+                    "@id": "@cim17:EquivalentInjection.regulationTarget"
+                },
+                {
+                    "@id": "@cim16:VsConverter.qShare"
+                },
+                {
+                    "@id": "@cim16:EnergyConsumer.p"
+                },
+                {
+                    "@id": "@nc:AssessedElement.individualValidationAdjustment"
+                },
+                {
+                    "@id": "@nc:ThyristorControlledSeriesCompensator.currentSection"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.targetDeadband"
+                },
+                {
+                    "@id": "@nc:AssessedElement.appointedMargin"
+                },
+                {
+                    "@id": "@nc:SubstationController.mode"
+                },
+                {
+                    "@id": "@nc:CurrentDroopOverride.enabled"
+                },
+                {
+                    "@id": "@nc:InjectionController.mode"
+                },
+                {
+                    "@id": "@cim:Equipment.networkAnalysisEnabled"
+                },
+                {
+                    "@id": "@cim17:EquivalentInjection.q"
+                },
+                {
+                    "@id": "@cim17:ActivePowerLimit.value"
+                },
+                {
+                    "@id": "@nc:StageTrigger.armed"
+                },
+                {
+                    "@id": "@cim16:ControlArea.pTolerance"
+                },
+                {
+                    "@id": "@nc:DirectCurrentEquipmentController.mode"
+                },
+                {
+                    "@id": "@cim17:Equipment.inService"
+                },
+                {
+                    "@id": "@cim17:Switch.locked"
+                },
+                {
+                    "@id": "@nc:RemedialActionGroup.maxRegulatingDown"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.participationFactor"
+                },
+                {
+                    "@id": "@cim:EnergySource.reactivePower"
+                },
+                {
+                    "@id": "@cim17:SynchronousMachine.operatingMode"
+                },
+                {
+                    "@id": "@cim:RotatingMachine.q"
+                },
+                {
+                    "@id": "@cim16:EquivalentInjection.regulationStatus"
+                },
+                {
+                    "@id": "@nc:AssessedElementWithRemedialAction.enabled"
+                },
+                {
+                    "@id": "@cim17:ACDCConverter.targetPpcc"
+                },
+                {
+                    "@id": "@cim:ACDCConverter.targetUdc"
+                },
+                {
+                    "@id": "@nc:ContingencyWithRemedialAction.enabled"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.targetValue"
+                },
+                {
+                    "@id": "@cim16:RegulatingControl.targetDeadband"
+                },
+                {
+                    "@id": "@nc:InfeedLimit.valueA"
+                },
+                {
+                    "@id": "@cim17:StaticVarCompensator.q"
+                },
+                {
+                    "@id": "@nc:EnergyGroup.participationFactor"
+                },
+                {
+                    "@id": "@cim:ExternalNetworkInjection.q"
+                },
+                {
+                    "@id": "@cim17:ACDCConverter.p"
+                },
+                {
+                    "@id": "@nc:EnergyBlockOrder.p"
+                },
+                {
+                    "@id": "@cim17:TapChanger.step"
+                },
+                {
+                    "@id": "@nc:PowerRemedialAction.maxRegulatingDown"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.targetValueUnitMultiplier"
+                },
+                {
+                    "@id": "@nc:DCPole.participationFactor"
+                },
+                {
+                    "@id": "@cim:BatteryUnit.storedE"
+                },
+                {
+                    "@id": "@cim17:ControlArea.netInterchange"
+                },
+                {
+                    "@id": "@nc:CurrentDroopControlFunction.targetValueCapacitive"
+                },
+                {
+                    "@id": "@cim:CsConverter.pPccControl"
+                },
+                {
+                    "@id": "@cim:EnergyConsumer.q"
+                },
+                {
+                    "@id": "@cim16:CsConverter.targetGamma"
+                },
+                {
+                    "@id": "@cim16:RegulatingControl.targetValue"
+                },
+                {
+                    "@id": "@cim:VsConverter.targetPowerFactorPcc"
+                },
+                {
+                    "@id": "@cim:RegulatingCondEq.controlEnabled"
+                },
+                {
+                    "@id": "@cim16:SynchronousMachine.operatingMode"
+                },
+                {
+                    "@id": "@nc:FrequencyControlFunction.frequencyBias"
+                },
+                {
+                    "@id": "@cim:VsConverter.droop"
+                },
+                {
+                    "@id": "@cim16:VsConverter.qPccControl"
+                },
+                {
+                    "@id": "@cim16:ShuntCompensator.sections"
+                },
+                {
+                    "@id": "@cim:CsConverter.operatingMode"
+                },
+                {
+                    "@id": "@cim16:VsConverter.droopCompensation"
+                },
+                {
+                    "@id": "@nc:EnergyGroup.p"
+                },
+                {
+                    "@id": "@cim:CsConverter.targetIdc"
+                },
+                {
+                    "@id": "@cim:StaticVarCompensator.q"
+                },
+                {
+                    "@id": "@cim17:CsConverter.pPccControl"
+                },
+                {
+                    "@id": "@cim17:EnergySource.reactivePower"
+                },
+                {
+                    "@id": "@cim16:RegulatingControl.enabled"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.minImportP"
+                },
+                {
+                    "@id": "@cim16:EquivalentInjection.p"
+                },
+                {
+                    "@id": "@nc:PowerRemedialAction.maxRegulatingUp"
+                },
+                {
+                    "@id": "@nc:HydroPump.participationFactor"
+                },
+                {
+                    "@id": "@cim:SynchronousMachine.referencePriority"
+                },
+                {
+                    "@id": "@nc:GeneratingUnit.costCurrency"
+                },
+                {
+                    "@id": "@cim:ACDCConverter.targetPpcc"
+                },
+                {
+                    "@id": "@cim16:RotatingMachine.q"
+                },
+                {
+                    "@id": "@nc:AreaDispatchableUnit.p"
+                },
+                {
+                    "@id": "@cim17:AsynchronousMachine.asynchronousMachineType"
+                },
+                {
+                    "@id": "@cim17:EquivalentInjection.p"
+                },
+                {
+                    "@id": "@cim17:GeneratingUnit.normalPF"
+                },
+                {
+                    "@id": "@cim:ApparentPowerLimit.value"
+                },
+                {
+                    "@id": "@cim17:CsConverter.targetAlpha"
+                },
+                {
+                    "@id": "@cim17:TapChanger.controlEnabled"
+                },
+                {
+                    "@id": "@cim16:Switch.open"
+                },
+                {
+                    "@id": "@cim17:VsConverter.pPccControl"
+                },
+                {
+                    "@id": "@cim17:ACDCConverter.targetUdc"
+                },
+                {
+                    "@id": "@cim17:ACDCConverter.udc"
+                },
+                {
+                    "@id": "@cim16:ACDCConverter.udc"
+                },
+                {
+                    "@id": "@cim:ACDCConverter.udc"
+                },
+                {
+                    "@id": "@cim16:ExternalNetworkInjection.referencePriority"
+                },
+                {
+                    "@id": "@nc:Contingency.probability"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.maxAllowedTargetValue"
+                },
+                {
+                    "@id": "@nc:ImpedanceControlFunction.targetValue"
+                },
+                {
+                    "@id": "@nc:PowerCapacity.maxInterchange"
+                },
+                {
+                    "@id": "@nc:ThyristorControlledSeriesCompensator.compensationZ"
+                },
+                {
+                    "@id": "@cim:VsConverter.qPccControl"
+                },
+                {
+                    "@id": "@cim16:ACDCConverter.targetPpcc"
+                },
+                {
+                    "@id": "@nc:StageTrigger.inService"
+                },
+                {
+                    "@id": "@cim:EquivalentInjection.regulationTarget"
+                },
+                {
+                    "@id": "@cim16:ACDCConverter.q"
+                },
+                {
+                    "@id": "@cim17:ShuntCompensator.sections"
+                },
+                {
+                    "@id": "@cim17:ExternalNetworkInjection.p"
+                },
+                {
+                    "@id": "@cim:ExternalNetworkInjection.p"
+                },
+                {
+                    "@id": "@cim16:ACDCConverter.targetUdc"
+                },
+                {
+                    "@id": "@cim17:RotatingMachine.q"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.enabled"
+                },
+                {
+                    "@id": "@nc:PowerTransferCorridor.enabled"
+                },
+                {
+                    "@id": "@nc:AssessedElement.coordinatedValidationAdjustmentJustification"
+                },
+                {
+                    "@id": "@nc:PowerFactorControlFunction.targetValue"
+                },
+                {
+                    "@id": "@nc:RemedialActionScheme.inService"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.targetDeadband"
+                },
+                {
+                    "@id": "@cim16:StaticVarCompensator.q"
+                },
+                {
+                    "@id": "@cim17:CsConverter.targetGamma"
+                },
+                {
+                    "@id": "@cim:EnergyConsumer.p"
+                },
+                {
+                    "@id": "@nc:AreaDispatchableUnit.enabled"
+                },
+                {
+                    "@id": "@cim:VsConverter.targetPhasePcc"
+                },
+                {
+                    "@id": "@cim:ACDCConverter.p"
+                },
+                {
+                    "@id": "@cim17:CurrentLimit.value"
+                },
+                {
+                    "@id": "@nc:GridStateAlteration.participationFactor"
+                },
+                {
+                    "@id": "@nc:CurrentDroopOverride.targetValueInductiveI"
+                },
+                {
+                    "@id": "@cim:ControlArea.pTolerance"
+                },
+                {
+                    "@id": "@cim17:VsConverter.targetPowerFactorPcc"
+                },
+                {
+                    "@id": "@cim16:ACDCTerminal.connected"
+                },
+                {
+                    "@id": "@cim:VsConverter.qShare"
+                },
+                {
+                    "@id": "@cim:RegulatingControl.targetValueUnitMultiplier"
+                },
+                {
+                    "@id": "@cim17:RegulatingControl.minAllowedTargetValue"
+                },
+                {
+                    "@id": "@cim16:GeneratingUnit.normalPF"
+                },
+                {
+                    "@id": "@cim:BatteryUnit.batteryState"
+                }
+            ],
+            "@dcterms:identifier": "1e0cc4cc-d26d-41b7-a10a-d2ef4beedeb3",
+            "@skos:prefLabel": {
+                "@language": "en",
+                "@value": "Property reference values supported by NCP 2.4.2"
+            }
+        },
+        {
+            "@id": "https://energy.referencedata.eu/PropertyReference/NCP/5.0.0",
+            "@type": "@dcat:Dataset",
+            "@dcterms:accessRights": {
+                "@id": "https://energy.referencedata.eu/Confidentiality/Public"
+            },
+            "@dcterms:conformsTo": [
+                "http://iec.ch/TC57/CIM100",
+                "https://cim.ucaiug.io/ns/17.2",
+                "https://cim4.eu/ns/nc/2.4"
+            ],
+            "@dcterms:description": {
+                "@language": "en",
+                "@value": "Reference data for the property reference."
+            },
+            "@prov:generatedAtTime": "2026-08-05T10:00:00Z",
+            "@dcterms:identifier": "51a87a60-0891-49d7-b6cf-62758406476a",
+            "@dcat:isVersionOf": {
+                "@id": "https://energy.referencedata.eu/PropertyReference/NCP"
+            },
+            "@dcterms:issued": "2026-08-05T10:00:00Z",
+            "@dcterms:license": {
+                "@id": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "@dcterms:publisher": "https://energy.referencedata.eu/ENTSO-E",
+            "@dcterms:rights": "Copyright",
+            "@dcterms:rightsHolder": "ENTSO-E",
+            "@dcat:startDate": "2026-08-05T10:00:00Z",
+            "@dcterms:title": "PropertyReference-NCP-5-0-0_RD",
+            "@dcat:version": "5.0.0",
+            "@adms:versionNotes": {
+                "@language": "en",
+                "@value": "Property reference using collection"
+            }
         }
     ],
     "@context": {
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "@nc": "http://entsoe.eu/ns/nc#",
+        "@dcterms": "http://purl.org/dc/terms/",
+        "@nc": "https://cim4.eu/ns/nc#",
+        "@adms": "http://www.w3.org/ns/adms#",
+        "@cim": "https://cim.ucaiug.io/ns#",
+        "@prov": "http://www.w3.org/ns/prov#",
+        "@cim16": "http://iec.ch/TC57/2013/CIM-schema-cim16#",
         "@skos": "http://www.w3.org/2004/02/skos/core#",
         "@dcat": "http://www.w3.org/ns/dcat#",
-        "@dcterms": "http://purl.org/dc/terms/#"
+        "@cim17": "http://iec.ch/TC57/CIM100#"
     }
 }
