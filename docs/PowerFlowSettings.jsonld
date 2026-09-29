@@ -108,13 +108,63 @@
             }
         },
         {
+            "@id": "http://energy.referencedata.eu/PowerFlowSettings/b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
+            "@type": [
+                "@skos:Concept",
+                "@cim:PowerFlowSettings"
+            ],
+            "@cim:IdentifiedObject.mRID": "b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
+            "@cim:IdentifiedObject.name": "IGM Validation Set",
+            "@cim:IdentifiedObject.description": "to be used when validating IGMs as part of CGM Build process",
+            "@cim:PowerFlowSettings.algorithmKind": {
+                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
+            },
+            "@cim:PowerFlowSettings.flatStart": "true",
+            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
+                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
+            },
+            "@cim:PowerFlowSettings.slackDistributionKind": {
+                "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
+            },
+            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
+            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
+            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
+            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
+            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
+            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
+                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
+            },
+            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "30",
+            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "30",
+            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
+            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
+            "@cim:PowerFlowSettings.transformerPhaseTapControl": "false",
+            "@cim:PowerFlowSettings.switchedShuntControl": "true",
+            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
+            "@cim:PowerFlowSettings.continuousControlPriority": "1",
+            "@skos:prefLabel": "IGM Validation Set",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "to be used when validating IGMs as part of CGM Build process"
+            },
+            "@dcterms:identifier": "urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            }
+        },
+        {
             "@id": "http://energy.referencedata.eu/PowerFlowSettings",
             "@type": [
                 "@skos:ConceptScheme",
                 "@dcat:Dataset"
             ],
-            "@dcterms:modified": "2022-09-16T13:18:37.985254",
-            "@dcat:version": "1",
+            "@dcterms:modified": "2026-09-29",
+            "@dcat:version": "2",
             "@skos:prefLabel": "PowerFlowSettings",
             "@dcterms:identifier": "urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9",
             "@dcat:keyword": "PFS",
@@ -221,56 +271,6 @@
                 "@value": "to be used when TSOs are creating their IGMs for the purpose of CGM Build process"
             },
             "@dcterms:identifier": "urn:uuid:6efbd4ac-fbbf-42f8-a498-8dc819735be5",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PowerFlowSettings/b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
-            "@type": [
-                "@skos:Concept",
-                "@cim:PowerFlowSettings"
-            ],
-            "@cim:IdentifiedObject.mRID": "b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
-            "@cim:IdentifiedObject.name": "IGM Validation Set",
-            "@cim:IdentifiedObject.description": "to be used when validating IGMs as part of CGM Build process",
-            "@cim:PowerFlowSettings.algorithmKind": {
-                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
-            },
-            "@cim:PowerFlowSettings.flatStart": "true",
-            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
-                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
-            },
-            "@cim:PowerFlowSettings.slackDistributionKind": {
-                "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
-            },
-            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
-            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
-            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
-            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
-            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
-            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
-                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
-            },
-            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "30",
-            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "30",
-            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
-            "@cim:PowerFlowSettings.transformerPhaseTapControl": "false",
-            "@cim:PowerFlowSettings.switchedShuntControl": "true",
-            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
-            "@cim:PowerFlowSettings.continuousControlPriority": "1",
-            "@skos:prefLabel": "IGM Validation Set",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "to be used when validating IGMs as part of CGM Build process"
-            },
-            "@dcterms:identifier": "urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/PowerFlowSettings"
             },

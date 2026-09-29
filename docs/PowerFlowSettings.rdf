@@ -1,8 +1,8 @@
 <rdf:RDF xmlns:cim="http://cim.ucaiug.io/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:at="http://publications.europa.eu/ontology/authority/" xmlns:dcterms="http://purl.org/dc/terms/">
   <skos:ConceptScheme rdf:about="http://energy.referencedata.eu/PowerFlowSettings">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-    <dcterms:modified>2022-09-16T13:18:37.985254</dcterms:modified>
-    <dcat:version>1</dcat:version>
+    <dcterms:modified>2026-09-29</dcterms:modified>
+    <dcat:version>2</dcat:version>
     <skos:prefLabel>PowerFlowSettings</skos:prefLabel>
     <dcterms:identifier>urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9</dcterms:identifier>
     <dcat:keyword>PFS</dcat:keyword>

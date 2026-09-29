@@ -167,9 +167,9 @@
 <http://energy.referencedata.eu/PowerFlowSettings> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9" ;
-    dcterms:modified "2022-09-16T13:18:37.985254" ;
+    dcterms:modified "2026-09-29" ;
     skos:definition "List of commonly used Power Flow Settings"@en ;
     skos:prefLabel "PowerFlowSettings" ;
     dcat:keyword "PFS" ;
-    dcat:version "1" .
+    dcat:version "2" .
 
