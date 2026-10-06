@@ -14,9 +14,32 @@
     "@cim:PowerFlowSettings.flatStartInitialisationKind": {
         "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
     },
-    "@cim:PowerFlowSettings.slackDistributionKind": {
-        "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
-    },
+    "@cim:PowerFlowSettings.slackDistributionKind": [
+        {
+            "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.loadDistribution"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.conformLoadDistribution"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.singleReferenceMachine"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.generationActivePowerDistribution"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.generationMaxActivePowerDistribution"
+        },
+        {
+            "@id": "@cim:SlackDistributionKind.generationRemainingMargin"
+        }
+    ],
     "@cim:PowerFlowSettings.activePowerTolerance": "0.5",
     "@cim:PowerFlowSettings.reactivePowerTolerance": "0.5",
     "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
@@ -30,11 +53,11 @@
     "@cim:PowerFlowSettings.maxIterationsInnerLoop": "50",
     "@cim:PowerFlowSettings.maxIterationsOuterLoop": "50",
     "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-    "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
+    "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "2",
     "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
     "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
     "@cim:PowerFlowSettings.switchedShuntControl": "true",
-    "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
+    "@cim:PowerFlowSettings.switchedShuntControlPriority": "3",
     "@cim:PowerFlowSettings.continuousControlPriority": "1",
     "@cim:PowerFlowSettings.interchangeControlEnabled": "true",
     "@cim:PowerFlowSettings.shiftKind": {
@@ -53,12 +76,13 @@
         "@id": "http://energy.referencedata.eu/PowerFlowSettings"
     },
     "@context": {
-        "@cim": "http://cim.ucaiug.io/ns#",
+        "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
         "@dcat": "http://www.w3.org/ns/dcat#",
         "@skos": "http://www.w3.org/2004/02/skos/core#",
         "@at": "http://publications.europa.eu/ontology/authority/",
-        "@dcterms": "http://purl.org/dc/terms/"
+        "@dcterms": "http://purl.org/dc/terms/",
+        "@eumd": "http://entsoe.eu/ns/Metadata-European#"
     }
 }

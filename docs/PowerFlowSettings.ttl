@@ -1,4 +1,4 @@
-@prefix cim: <http://cim.ucaiug.io/ns#> .
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
@@ -23,13 +23,20 @@
     cim:PowerFlowSettings.respectActivePowerLimits "true" ;
     cim:PowerFlowSettings.respectReactivePowerLimits "true" ;
     cim:PowerFlowSettings.shiftKind cim:PowerShiftKind.conformLoadShift ;
-    cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.generationDistributionParticipationFactor ;
+    cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.conformLoadDistribution,
+        cim:SlackDistributionKind.generationActivePowerDistribution,
+        cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly,
+        cim:SlackDistributionKind.generationDistributionParticipationFactor,
+        cim:SlackDistributionKind.generationMaxActivePowerDistribution,
+        cim:SlackDistributionKind.generationRemainingMargin,
+        cim:SlackDistributionKind.loadDistribution,
+        cim:SlackDistributionKind.singleReferenceMachine ;
     cim:PowerFlowSettings.switchedShuntControl "true" ;
-    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "3" ;
     cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
     cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
     cim:PowerFlowSettings.transformerRatioTapControl "true" ;
-    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "2" ;
     cim:PowerFlowSettings.voltageTolerance "0.0001" ;
     dcterms:identifier "urn:uuid:23573ff8-f567-48c6-ab93-3df92afb3c35" ;
     skos:definition "to be used by EMF in the merging process (CGM Build process)"@en ;
@@ -57,10 +64,11 @@
     cim:PowerFlowSettings.respectReactivePowerLimits "true" ;
     cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.conformLoadDistribution ;
     cim:PowerFlowSettings.switchedShuntControl "true" ;
-    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
-    cim:PowerFlowSettings.transformerPhaseTapControl "false" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "3" ;
+    cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
+    cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
     cim:PowerFlowSettings.transformerRatioTapControl "true" ;
-    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "2" ;
     cim:PowerFlowSettings.voltageTolerance "0.0001" ;
     dcterms:identifier "urn:uuid:6efbd4ac-fbbf-42f8-a498-8dc819735be5" ;
     skos:definition "to be used when TSOs are creating their IGMs for the purpose of CGM Build process"@en ;
@@ -88,10 +96,11 @@
     cim:PowerFlowSettings.respectReactivePowerLimits "true" ;
     cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.generationDistributionParticipationFactor ;
     cim:PowerFlowSettings.switchedShuntControl "true" ;
-    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
-    cim:PowerFlowSettings.transformerPhaseTapControl "false" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "3" ;
+    cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
+    cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
     cim:PowerFlowSettings.transformerRatioTapControl "true" ;
-    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "2" ;
     cim:PowerFlowSettings.voltageTolerance "0.0001" ;
     dcterms:identifier "urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711" ;
     skos:definition "to be used when validating IGMs as part of CGM Build process"@en ;
@@ -150,13 +159,20 @@
     cim:PowerFlowSettings.respectActivePowerLimits "true" ;
     cim:PowerFlowSettings.respectReactivePowerLimits "false" ;
     cim:PowerFlowSettings.shiftKind cim:PowerShiftKind.conformLoadShift ;
-    cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.generationDistributionParticipationFactor ;
+    cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.conformLoadDistribution,
+        cim:SlackDistributionKind.generationActivePowerDistribution,
+        cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly,
+        cim:SlackDistributionKind.generationDistributionParticipationFactor,
+        cim:SlackDistributionKind.generationMaxActivePowerDistribution,
+        cim:SlackDistributionKind.generationRemainingMargin,
+        cim:SlackDistributionKind.loadDistribution,
+        cim:SlackDistributionKind.singleReferenceMachine ;
     cim:PowerFlowSettings.switchedShuntControl "true" ;
-    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "3" ;
     cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
     cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
     cim:PowerFlowSettings.transformerRatioTapControl "true" ;
-    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "2" ;
     cim:PowerFlowSettings.voltageTolerance "0.0001" ;
     dcterms:identifier "urn:uuid:ef9e4df5-17e0-4b6f-af08-e119064152a3" ;
     skos:definition "to be used by EMF in the merging process (CGM Build process)"@en ;
@@ -167,7 +183,7 @@
 <http://energy.referencedata.eu/PowerFlowSettings> a skos:ConceptScheme,
         dcat:Dataset ;
     dcterms:identifier "urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9" ;
-    dcterms:modified "2026-09-29" ;
+    dcterms:modified "2026-10-05T14:08:20.469123" ;
     skos:definition "List of commonly used Power Flow Settings"@en ;
     skos:prefLabel "PowerFlowSettings" ;
     dcat:keyword "PFS" ;

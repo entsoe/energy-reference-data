@@ -1,14 +1,14 @@
 {
     "@graph": [
         {
-            "@id": "http://energy.referencedata.eu/PowerFlowSettings/ef9e4df5-17e0-4b6f-af08-e119064152a3",
+            "@id": "http://energy.referencedata.eu/PowerFlowSettings/b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
             "@type": [
                 "@skos:Concept",
                 "@cim:PowerFlowSettings"
             ],
-            "@cim:IdentifiedObject.mRID": "ef9e4df5-17e0-4b6f-af08-e119064152a3",
-            "@cim:IdentifiedObject.name": "CGM Relaxed set",
-            "@cim:IdentifiedObject.description": "to be used by EMF in the merging process (CGM Build process)",
+            "@cim:IdentifiedObject.mRID": "b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
+            "@cim:IdentifiedObject.name": "IGM Validation Set",
+            "@cim:IdentifiedObject.description": "to be used when validating IGMs as part of CGM Build process",
             "@cim:PowerFlowSettings.algorithmKind": {
                 "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
             },
@@ -19,12 +19,86 @@
             "@cim:PowerFlowSettings.slackDistributionKind": {
                 "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
             },
-            "@cim:PowerFlowSettings.activePowerTolerance": "0.5",
-            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.5",
+            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
             "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
             "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
             "@cim:PowerFlowSettings.loadVoltageDependency": "false",
-            "@cim:PowerFlowSettings.respectReactivePowerLimits": "false",
+            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
+            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
+            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
+                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
+            },
+            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "30",
+            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "30",
+            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
+            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "2",
+            "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
+            "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
+            "@cim:PowerFlowSettings.switchedShuntControl": "true",
+            "@cim:PowerFlowSettings.switchedShuntControlPriority": "3",
+            "@cim:PowerFlowSettings.continuousControlPriority": "1",
+            "@skos:prefLabel": "IGM Validation Set",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "to be used when validating IGMs as part of CGM Build process"
+            },
+            "@dcterms:identifier": "urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/PowerFlowSettings/23573ff8-f567-48c6-ab93-3df92afb3c35",
+            "@type": [
+                "@skos:Concept",
+                "@cim:PowerFlowSettings"
+            ],
+            "@cim:IdentifiedObject.mRID": "23573ff8-f567-48c6-ab93-3df92afb3c35",
+            "@cim:IdentifiedObject.name": "CGM set",
+            "@cim:IdentifiedObject.description": "to be used by EMF in the merging process (CGM Build process)",
+            "@cim:PowerFlowSettings.algorithmKind": {
+                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
+            },
+            "@cim:PowerFlowSettings.flatStart": "true",
+            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
+                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
+            },
+            "@cim:PowerFlowSettings.slackDistributionKind": [
+                {
+                    "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.loadDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.conformLoadDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.singleReferenceMachine"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationActivePowerDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationMaxActivePowerDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationRemainingMargin"
+                }
+            ],
+            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
+            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
+            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
+            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
+            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
             "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
             "@cim:PowerFlowSettings.excludeFromLimitCheck": {
                 "@id": "@cim:LimitCheckExclusionKind.initialViolation"
@@ -32,27 +106,43 @@
             "@cim:PowerFlowSettings.maxIterationsInnerLoop": "50",
             "@cim:PowerFlowSettings.maxIterationsOuterLoop": "50",
             "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
+            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "2",
             "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
             "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
             "@cim:PowerFlowSettings.switchedShuntControl": "true",
-            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
+            "@cim:PowerFlowSettings.switchedShuntControlPriority": "3",
             "@cim:PowerFlowSettings.continuousControlPriority": "1",
             "@cim:PowerFlowSettings.interchangeControlEnabled": "true",
             "@cim:PowerFlowSettings.shiftKind": {
                 "@id": "@cim:PowerShiftKind.conformLoadShift"
             },
-            "@skos:prefLabel": "CGM Relaxed set",
+            "@skos:prefLabel": "CGM set",
             "@skos:definition": {
                 "@language": "en",
                 "@value": "to be used by EMF in the merging process (CGM Build process)"
             },
-            "@dcterms:identifier": "urn:uuid:ef9e4df5-17e0-4b6f-af08-e119064152a3",
+            "@dcterms:identifier": "urn:uuid:23573ff8-f567-48c6-ab93-3df92afb3c35",
             "@skos:inScheme": {
                 "@id": "http://energy.referencedata.eu/PowerFlowSettings"
             },
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/PowerFlowSettings",
+            "@type": [
+                "@skos:ConceptScheme",
+                "@dcat:Dataset"
+            ],
+            "@dcterms:modified": "2026-10-05T14:08:20.469123",
+            "@dcat:version": "2",
+            "@skos:prefLabel": "PowerFlowSettings",
+            "@dcterms:identifier": "urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9",
+            "@dcat:keyword": "PFS",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "List of commonly used Power Flow Settings"
             }
         },
         {
@@ -108,127 +198,6 @@
             }
         },
         {
-            "@id": "http://energy.referencedata.eu/PowerFlowSettings/b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
-            "@type": [
-                "@skos:Concept",
-                "@cim:PowerFlowSettings"
-            ],
-            "@cim:IdentifiedObject.mRID": "b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
-            "@cim:IdentifiedObject.name": "IGM Validation Set",
-            "@cim:IdentifiedObject.description": "to be used when validating IGMs as part of CGM Build process",
-            "@cim:PowerFlowSettings.algorithmKind": {
-                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
-            },
-            "@cim:PowerFlowSettings.flatStart": "true",
-            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
-                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
-            },
-            "@cim:PowerFlowSettings.slackDistributionKind": {
-                "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
-            },
-            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
-            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
-            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
-            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
-            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
-            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
-                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
-            },
-            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "30",
-            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "30",
-            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
-            "@cim:PowerFlowSettings.transformerPhaseTapControl": "false",
-            "@cim:PowerFlowSettings.switchedShuntControl": "true",
-            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
-            "@cim:PowerFlowSettings.continuousControlPriority": "1",
-            "@skos:prefLabel": "IGM Validation Set",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "to be used when validating IGMs as part of CGM Build process"
-            },
-            "@dcterms:identifier": "urn:uuid:b768cbab-ceb2-4fdb-877a-cb3f6d4ad711",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PowerFlowSettings",
-            "@type": [
-                "@skos:ConceptScheme",
-                "@dcat:Dataset"
-            ],
-            "@dcterms:modified": "2026-09-29",
-            "@dcat:version": "2",
-            "@skos:prefLabel": "PowerFlowSettings",
-            "@dcterms:identifier": "urn:uuid:aaed01a1-fff7-49aa-a5f2-df07c05e16a9",
-            "@dcat:keyword": "PFS",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "List of commonly used Power Flow Settings"
-            }
-        },
-        {
-            "@id": "http://energy.referencedata.eu/PowerFlowSettings/23573ff8-f567-48c6-ab93-3df92afb3c35",
-            "@type": [
-                "@skos:Concept",
-                "@cim:PowerFlowSettings"
-            ],
-            "@cim:IdentifiedObject.mRID": "23573ff8-f567-48c6-ab93-3df92afb3c35",
-            "@cim:IdentifiedObject.name": "CGM set",
-            "@cim:IdentifiedObject.description": "to be used by EMF in the merging process (CGM Build process)",
-            "@cim:PowerFlowSettings.algorithmKind": {
-                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
-            },
-            "@cim:PowerFlowSettings.flatStart": "true",
-            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
-                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
-            },
-            "@cim:PowerFlowSettings.slackDistributionKind": {
-                "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
-            },
-            "@cim:PowerFlowSettings.activePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.1",
-            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
-            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
-            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
-            "@cim:PowerFlowSettings.respectReactivePowerLimits": "true",
-            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
-            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
-                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
-            },
-            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "50",
-            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "50",
-            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
-            "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
-            "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
-            "@cim:PowerFlowSettings.switchedShuntControl": "true",
-            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
-            "@cim:PowerFlowSettings.continuousControlPriority": "1",
-            "@cim:PowerFlowSettings.interchangeControlEnabled": "true",
-            "@cim:PowerFlowSettings.shiftKind": {
-                "@id": "@cim:PowerShiftKind.conformLoadShift"
-            },
-            "@skos:prefLabel": "CGM set",
-            "@skos:definition": {
-                "@language": "en",
-                "@value": "to be used by EMF in the merging process (CGM Build process)"
-            },
-            "@dcterms:identifier": "urn:uuid:23573ff8-f567-48c6-ab93-3df92afb3c35",
-            "@skos:inScheme": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            },
-            "@skos:topConceptOf": {
-                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
-            }
-        },
-        {
             "@id": "http://energy.referencedata.eu/PowerFlowSettings/6efbd4ac-fbbf-42f8-a498-8dc819735be5",
             "@type": [
                 "@skos:Concept",
@@ -260,10 +229,11 @@
             "@cim:PowerFlowSettings.maxIterationsInnerLoop": "30",
             "@cim:PowerFlowSettings.maxIterationsOuterLoop": "30",
             "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
-            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "3",
-            "@cim:PowerFlowSettings.transformerPhaseTapControl": "false",
+            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "2",
+            "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
+            "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
             "@cim:PowerFlowSettings.switchedShuntControl": "true",
-            "@cim:PowerFlowSettings.switchedShuntControlPriority": "4",
+            "@cim:PowerFlowSettings.switchedShuntControlPriority": "3",
             "@cim:PowerFlowSettings.continuousControlPriority": "1",
             "@skos:prefLabel": "IGM Creation Set",
             "@skos:definition": {
@@ -277,15 +247,94 @@
             "@skos:topConceptOf": {
                 "@id": "http://energy.referencedata.eu/PowerFlowSettings"
             }
+        },
+        {
+            "@id": "http://energy.referencedata.eu/PowerFlowSettings/ef9e4df5-17e0-4b6f-af08-e119064152a3",
+            "@type": [
+                "@skos:Concept",
+                "@cim:PowerFlowSettings"
+            ],
+            "@cim:IdentifiedObject.mRID": "ef9e4df5-17e0-4b6f-af08-e119064152a3",
+            "@cim:IdentifiedObject.name": "CGM Relaxed set",
+            "@cim:IdentifiedObject.description": "to be used by EMF in the merging process (CGM Build process)",
+            "@cim:PowerFlowSettings.algorithmKind": {
+                "@id": "@cim:PowerFlowAlgorithmKind.fullNewtonRaphson"
+            },
+            "@cim:PowerFlowSettings.flatStart": "true",
+            "@cim:PowerFlowSettings.flatStartInitialisationKind": {
+                "@id": "@cim:FlatStartInitialisationKind.allNodesOneCondition"
+            },
+            "@cim:PowerFlowSettings.slackDistributionKind": [
+                {
+                    "@id": "@cim:SlackDistributionKind.generationDistributionParticipationFactor"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.loadDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.conformLoadDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationDistributionActivePowerAndVoltageNodesOnly"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.singleReferenceMachine"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationActivePowerDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationMaxActivePowerDistribution"
+                },
+                {
+                    "@id": "@cim:SlackDistributionKind.generationRemainingMargin"
+                }
+            ],
+            "@cim:PowerFlowSettings.activePowerTolerance": "0.5",
+            "@cim:PowerFlowSettings.reactivePowerTolerance": "0.5",
+            "@cim:PowerFlowSettings.voltageTolerance": "0.0001",
+            "@cim:PowerFlowSettings.impedanceThreshold": "0.00003",
+            "@cim:PowerFlowSettings.loadVoltageDependency": "false",
+            "@cim:PowerFlowSettings.respectReactivePowerLimits": "false",
+            "@cim:PowerFlowSettings.respectActivePowerLimits": "true",
+            "@cim:PowerFlowSettings.excludeFromLimitCheck": {
+                "@id": "@cim:LimitCheckExclusionKind.initialViolation"
+            },
+            "@cim:PowerFlowSettings.maxIterationsInnerLoop": "50",
+            "@cim:PowerFlowSettings.maxIterationsOuterLoop": "50",
+            "@cim:PowerFlowSettings.transformerRatioTapControl": "true",
+            "@cim:PowerFlowSettings.transformerRatioTapControlPriority": "2",
+            "@cim:PowerFlowSettings.transformerPhaseTapControl": "true",
+            "@cim:PowerFlowSettings.transformerPhaseTapControlPriority": "2",
+            "@cim:PowerFlowSettings.switchedShuntControl": "true",
+            "@cim:PowerFlowSettings.switchedShuntControlPriority": "3",
+            "@cim:PowerFlowSettings.continuousControlPriority": "1",
+            "@cim:PowerFlowSettings.interchangeControlEnabled": "true",
+            "@cim:PowerFlowSettings.shiftKind": {
+                "@id": "@cim:PowerShiftKind.conformLoadShift"
+            },
+            "@skos:prefLabel": "CGM Relaxed set",
+            "@skos:definition": {
+                "@language": "en",
+                "@value": "to be used by EMF in the merging process (CGM Build process)"
+            },
+            "@dcterms:identifier": "urn:uuid:ef9e4df5-17e0-4b6f-af08-e119064152a3",
+            "@skos:inScheme": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            },
+            "@skos:topConceptOf": {
+                "@id": "http://energy.referencedata.eu/PowerFlowSettings"
+            }
         }
     ],
     "@context": {
-        "@cim": "http://cim.ucaiug.io/ns#",
+        "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
         "@dcat": "http://www.w3.org/ns/dcat#",
         "@skos": "http://www.w3.org/2004/02/skos/core#",
         "@at": "http://publications.europa.eu/ontology/authority/",
-        "@dcterms": "http://purl.org/dc/terms/"
+        "@dcterms": "http://purl.org/dc/terms/",
+        "@eumd": "http://entsoe.eu/ns/Metadata-European#"
     }
 }
