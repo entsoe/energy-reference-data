@@ -1,4 +1,4 @@
-@prefix cim: <http://cim.ucaiug.io/ns#> .
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
@@ -22,10 +22,11 @@
     cim:PowerFlowSettings.respectReactivePowerLimits "true" ;
     cim:PowerFlowSettings.slackDistributionKind cim:SlackDistributionKind.conformLoadDistribution ;
     cim:PowerFlowSettings.switchedShuntControl "true" ;
-    cim:PowerFlowSettings.switchedShuntControlPriority "4" ;
-    cim:PowerFlowSettings.transformerPhaseTapControl "false" ;
+    cim:PowerFlowSettings.switchedShuntControlPriority "3" ;
+    cim:PowerFlowSettings.transformerPhaseTapControl "true" ;
+    cim:PowerFlowSettings.transformerPhaseTapControlPriority "2" ;
     cim:PowerFlowSettings.transformerRatioTapControl "true" ;
-    cim:PowerFlowSettings.transformerRatioTapControlPriority "3" ;
+    cim:PowerFlowSettings.transformerRatioTapControlPriority "2" ;
     cim:PowerFlowSettings.voltageTolerance "0.0001" ;
     dcterms:identifier "urn:uuid:6efbd4ac-fbbf-42f8-a498-8dc819735be5" ;
     skos:definition "to be used when TSOs are creating their IGMs for the purpose of CGM Build process"@en ;
