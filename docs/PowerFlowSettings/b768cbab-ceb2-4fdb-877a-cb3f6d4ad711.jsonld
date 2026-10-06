@@ -49,7 +49,7 @@
         "@id": "http://energy.referencedata.eu/PowerFlowSettings"
     },
     "@context": {
-        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@cim": "http://cim.ucaiug.io/ns#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
         "@dcat": "http://www.w3.org/ns/dcat#",
