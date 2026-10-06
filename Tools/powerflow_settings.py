@@ -99,7 +99,7 @@ table_data = pandas.DataFrame(settings)
 table_data["ID"] = table_data["IdentifiedObject.mRID"]
 table_data["ID"] = f"{NAME}/" + table_data["ID"]
 table_data = table_data.set_index("ID")
-table_data["type"] = f"http://iec.ch/TC57/CIM100#{NAME}"
+table_data["type"] = f"http://cim.ucaiug.io/ns#{NAME}"
 data = RDF_parser.tableview_to_triplet(table_data)
 data["INSTANCE_ID"] = INSTANCE_ID
 
@@ -164,7 +164,7 @@ data = rename_and_append_key(data, "IdentifiedObject.mRID", "identifier")
 # Add urn:uuid to identifier
 data.update("urn:uuid:" + data.query("KEY == 'identifier'").VALUE)
 
-data = rename_and_append_key(data, "type", "Type", original_value=f"http://iec.ch/TC57/CIM100#{NAME}", new_value="Concept")
+data = rename_and_append_key(data, "type", "Type", original_value=f"http://cim.ucaiug.io/ns#{NAME}", new_value="Concept")
 
 data = add_key_and_value(data, type="Concept", key="inScheme", value=NAME)
 data = add_key_and_value(data, type="Concept", key="topConceptOf", value=NAME)
@@ -176,21 +176,25 @@ rdf_map = RDF_parser.load_export_conf(["conf_skos.json",
                                        "conf_eumd.json",
                                        "conf_rdf_rdfs.json"])
 
-# Include all PowerFlowSettings attributes using the original CIM100 namespace.
+for definition in rdf_map.values():
+    if isinstance(definition, dict):
+        if definition.get("namespace") == "http://iec.ch/TC57/CIM100#":
+            definition["namespace"] = "http://cim.ucaiug.io/ns#"
+
 for key in table_data.columns:
     if key.startswith("PowerFlowSettings."):
         rdf_map[key] = {
-            "namespace": "http://iec.ch/TC57/CIM100#",
+            "namespace": "http://cim.ucaiug.io/ns#",
             "text": "",
         }
         if key.split(".", 1)[1] in enum_types:
             rdf_map[key]["attrib"] = {
                 "attribute": "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}resource",
-                "value_prefix": "http://iec.ch/TC57/CIM100#",
+                "value_prefix": "http://cim.ucaiug.io/ns#",
             }
 
 namespace_map = {
-    "cim": "http://iec.ch/TC57/CIM100#",
+    "cim": "http://cim.ucaiug.io/ns#",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dcat": "http://www.w3.org/ns/dcat#",
