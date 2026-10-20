@@ -10,12 +10,23 @@
     <cim:IdentifiedObject.mRID>53XPL000000ESTAR</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ENESTA Sp. z o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>ENESTA</cim:Names.name>
+    <cim:Names.name>A0012004V.PL</cim:Names.name>
     <cim:Names.name>PL8652135842</cim:Names.name>
     <cim:IdentifiedObject.description>Distribution System Operator, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-27</cim:DateAndOrTime.date>
+    <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Grid Operator</cim:Names.name>
+    <cim:Names.name>Information Provider</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>Metering Point Operator</cim:Names.name>
+    <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8652135842</schema:vatID>
   </skos:Concept>

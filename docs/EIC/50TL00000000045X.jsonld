@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000045X",
-    "@skos:prefLabel": "S 11 Flittig-Fossum",
-    "@skos:altLabel": "NO-FLITTIGFOSSUM",
+    "@skos:prefLabel": "S 22 Flittig-Fossum",
+    "@skos:altLabel": "NO-22FLITTIGFOSS",
     "@cim:IdentifiedObject.mRID": "50TL00000000045X",
-    "@cim:IdentifiedObject.name": "S 11 Flittig-Fossum",
+    "@cim:IdentifiedObject.name": "S 22 Flittig-Fossum",
     "@cim:Names.name": [
-        "NO-FLITTIGFOSSUM",
+        "NO-22FLITTIGFOSS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

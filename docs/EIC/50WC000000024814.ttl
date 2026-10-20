@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-21" ;
+    cim:DateAndOrTime.date "2025-10-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000024814" ;
-    cim:IdentifiedObject.name "Johan Sverdrup Unit" ;
-    cim:Names.name "JOH-SVERDRUP-UNI",
-        "Resource Object" ;
+    cim:IdentifiedObject.name "S Kleppema 50  T1 Forbruk" ;
+    cim:Names.name "Load",
+        "NO-KLEPPEM50T1" ;
     dcterms:identifier "urn:eic:50WC000000024814" ;
-    skos:altLabel "JOH-SVERDRUP-UNI" ;
+    skos:altLabel "NO-KLEPPEM50T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Johan Sverdrup Unit" ;
+    skos:prefLabel "S Kleppema 50  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

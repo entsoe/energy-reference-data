@@ -12,22 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19X-PL-GGL-GL--9",
-    "@skos:prefLabel": "Green-Lights spółka z ograniczoną odpowiedzialnością",
+    "@skos:prefLabel": "\"Green Lights\" spółka z ograniczoną odpowiedzialnością",
     "@skos:altLabel": "GREEN-LIGHTS",
     "@cim:IdentifiedObject.mRID": "19X-PL-GGL-GL--9",
-    "@cim:IdentifiedObject.name": "Green-Lights spółka z ograniczoną odpowiedzialnością",
+    "@cim:IdentifiedObject.name": "\"Green Lights\" spółka z ograniczoną odpowiedzialnością",
     "@cim:Names.name": [
         "GREEN-LIGHTS",
         "PL5213256789",
-        "Grid Access Provider",
-        "Metered Data Responsible",
-        "Meter Administrator",
+        "Balance Responsible Party",
         "Energy Supplier",
-        "System Operator"
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-14",
+    "@cim:DateAndOrTime.date": "2025-03-13",
     "@schema:vatID": "PL5213256789",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11T0-0000-0986-7</dcterms:identifier>
-    <skos:prefLabel>APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Altheim</skos:prefLabel>
+    <skos:prefLabel>APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Altheim</skos:prefLabel>
     <skos:altLabel>L_SPALSI-234--AL</skos:altLabel>
     <cim:IdentifiedObject.mRID>11T0-0000-0986-7</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Altheim</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Altheim</cim:IdentifiedObject.name>
     <cim:Names.name>L_SPALSI-234--AL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-11-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-27</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000055243",
-    "@skos:prefLabel": "M Rana     RT5 Transformator",
-    "@skos:altLabel": "NO-RANA____RT5",
+    "@skos:prefLabel": "N Rana     RT5 Transformator",
+    "@skos:altLabel": "NO-RANART5",
     "@cim:IdentifiedObject.mRID": "50TT000000055243",
-    "@cim:IdentifiedObject.name": "M Rana     RT5 Transformator",
+    "@cim:IdentifiedObject.name": "N Rana     RT5 Transformator",
     "@cim:Names.name": [
-        "NO-RANA____RT5",
+        "NO-RANART5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

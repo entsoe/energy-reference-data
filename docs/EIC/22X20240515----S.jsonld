@@ -1,0 +1,41 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/22X20240515----S",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:22X20240515----S",
+    "@skos:prefLabel": "IRIS 67 BV",
+    "@skos:altLabel": "BE_IRIS67",
+    "@cim:IdentifiedObject.mRID": "22X20240515----S",
+    "@cim:IdentifiedObject.name": "IRIS 67 BV",
+    "@cim:Names.name": [
+        "BE_IRIS67",
+        "BE0784262519",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Energy Supplier",
+        "Producer",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-07-29",
+    "@schema:vatID": "BE0784262519",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

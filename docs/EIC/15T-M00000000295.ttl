@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-16" ;
+    cim:DateAndOrTime.date "2026-09-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M00000000295" ;
     cim:IdentifiedObject.name "Albertirsa-Göd I." ;
-    cim:Names.name "MAISA-MGOD1",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MAISA-MGOD1" ;
     dcterms:identifier "urn:eic:15T-M00000000295" ;
     skos:altLabel "MAISA-MGOD1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

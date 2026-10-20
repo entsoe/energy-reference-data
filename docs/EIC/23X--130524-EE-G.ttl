@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-05-24" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Market Area" ;
     cim:IdentifiedObject.mRID "23X--130524-EE-G" ;
     cim:IdentifiedObject.name "ENDESA ENERGÍA NIEDERLASSUNG DEUTSCHLAND" ;
     cim:Names.name "DE227219026",
         "ENDESA_GERMANY",
-        "Market Area" ;
+        "Market Area Operator" ;
     dcterms:identifier "urn:eic:23X--130524-EE-G" ;
     schema1:vatID "DE227219026" ;
     skos:altLabel "ENDESA_GERMANY" ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000010995" ;
     cim:IdentifiedObject.name "S 300 Nesflaten-Sauda" ;
     cim:Names.name "Internal Line",
-        "NO-NESFLATENSAUD" ;
+        "NO-300NESFLSAUDA" ;
     dcterms:identifier "urn:eic:50TL000000010995" ;
-    skos:altLabel "NO-NESFLATENSAUD" ;
+    skos:altLabel "NO-300NESFLSAUDA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Nesflaten-Sauda" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

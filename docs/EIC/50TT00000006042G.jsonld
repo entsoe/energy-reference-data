@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000006042G",
     "@skos:prefLabel": "S Vang     T2 Transformator",
-    "@skos:altLabel": "NO-VANG____T2",
+    "@skos:altLabel": "NO-VANGT2",
     "@cim:IdentifiedObject.mRID": "50TT00000006042G",
     "@cim:IdentifiedObject.name": "S Vang     T2 Transformator",
     "@cim:Names.name": [
-        "NO-VANG____T2",
+        "NO-VANGT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

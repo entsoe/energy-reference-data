@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Trade Responsible Party;Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "43X-T-BCGRIGA0-9" ;
     cim:IdentifiedObject.name "Imlitex Latvija SIA " ;
-    cim:Names.name "LV-BCGRIGA",
+    cim:Names.name "Balance Responsible Party",
+        "LV-BCGRIGA",
         "LV40003628614",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:43X-T-BCGRIGA0-9" ;

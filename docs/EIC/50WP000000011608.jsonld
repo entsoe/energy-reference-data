@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000011608",
     "@skos:prefLabel": "Hegsetfoss",
-    "@skos:altLabel": "NO-HEGSETFO_PL",
+    "@skos:altLabel": "NO-HEGSETFO_V01",
     "@cim:IdentifiedObject.mRID": "50WP000000011608",
     "@cim:IdentifiedObject.name": "Hegsetfoss",
     "@cim:Names.name": [
-        "NO-HEGSETFO_PL",
+        "NO-HEGSETFO_V01",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

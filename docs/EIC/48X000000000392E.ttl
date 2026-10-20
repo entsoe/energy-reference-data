@@ -1,0 +1,43 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000392E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact:
+Andrew Robbins
+andrew.robbins@rwe.com
++447500226763RWE
+Windmill Hill Business Park, 
+Whitehill way 
+Swindon 
+SN5 6PB
+sofia_offshore_wind@rwe.com
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000392E" ;
+    cim:IdentifiedObject.name "SOFIA OFFSHORE WIND" ;
+    cim:Names.name "GB524921354",
+        "Producer",
+        "SOFIAX" ;
+    dcterms:identifier "urn:eic:48X000000000392E" ;
+    schema1:vatID "GB524921354" ;
+    skos:altLabel "SOFIAX" ;
+    skos:definition """Contact:
+Andrew Robbins
+andrew.robbins@rwe.com
++447500226763RWE
+Windmill Hill Business Park, 
+Whitehill way 
+Swindon 
+SN5 6PB
+sofia_offshore_wind@rwe.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SOFIA OFFSHORE WIND" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

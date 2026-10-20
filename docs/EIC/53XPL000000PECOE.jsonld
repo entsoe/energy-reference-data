@@ -12,18 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000PECOE",
-    "@skos:prefLabel": "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Olsztynie",
+    "@skos:prefLabel": "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
     "@skos:altLabel": "MPEC_OLSZTYN",
     "@cim:IdentifiedObject.mRID": "53XPL000000PECOE",
-    "@cim:IdentifiedObject.name": "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Olsztynie",
+    "@cim:IdentifiedObject.name": "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.",
     "@cim:Names.name": [
         "MPEC_OLSZTYN",
         "PL7390200206",
-        "Consumer"
+        "Consumer",
+        "Energy Supplier",
+        "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-04-15",
+    "@cim:DateAndOrTime.date": "2026-03-20",
     "@schema:vatID": "PL7390200206",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

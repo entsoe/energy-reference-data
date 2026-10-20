@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000013139" ;
-    cim:IdentifiedObject.name "Łagisza-Tucznawa" ;
+    cim:IdentifiedObject.name "400kV Tucznawa-Lagisza" ;
     cim:Names.name "G401",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T0000000013139" ;
     skos:altLabel "G401" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Łagisza-Tucznawa" ;
+    skos:prefLabel "400kV Tucznawa-Lagisza" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

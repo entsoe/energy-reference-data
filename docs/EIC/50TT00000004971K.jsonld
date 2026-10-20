@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004971K",
     "@skos:prefLabel": "S Håvik    T5 Transformator",
-    "@skos:altLabel": "NO-HAVIK___T5",
+    "@skos:altLabel": "NO-HAVIKT5",
     "@cim:IdentifiedObject.mRID": "50TT00000004971K",
     "@cim:IdentifiedObject.name": "S Håvik    T5 Transformator",
     "@cim:Names.name": [
-        "NO-HAVIK___T5",
+        "NO-HAVIKT5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

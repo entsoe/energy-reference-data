@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/63XX7RCMO0TLOB4T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "European Biogas Supply (EBS) est une filiale de Mobius Renewables International (MRI), entité productrice de biométhane sur le territoire français. L'objectif d'EBS, fournisseur d'énergie, est de vendre l'énergie produite par la maison mère MRI sur le territoire européen." ;
+    cim:IdentifiedObject.mRID "63XX7RCMO0TLOB4T" ;
+    cim:IdentifiedObject.name "European Biogas Supply" ;
+    cim:Names.name "Energy Supplier",
+        "Energy Trader",
+        "FR02922642301",
+        "FRG_EBS" ;
+    dcterms:identifier "urn:eic:63XX7RCMO0TLOB4T" ;
+    schema1:vatID "FR02922642301" ;
+    skos:altLabel "FRG_EBS" ;
+    skos:definition "European Biogas Supply (EBS) est une filiale de Mobius Renewables International (MRI), entité productrice de biométhane sur le territoire français. L'objectif d'EBS, fournisseur d'énergie, est de vendre l'énergie produite par la maison mère MRI sur le territoire européen."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "European Biogas Supply" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

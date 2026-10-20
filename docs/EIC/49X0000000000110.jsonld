@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49X0000000000110",
-    "@skos:prefLabel": "Scholt Energy Trading B.V.",
+    "@skos:prefLabel": "Scholt Energy Sourcing B.V.",
     "@skos:altLabel": "SCHOLT_BV",
     "@skos:definition": {
         "@language": "en",
         "@value": "Party Connected To Grid"
     },
     "@cim:IdentifiedObject.mRID": "49X0000000000110",
-    "@cim:IdentifiedObject.name": "Scholt Energy Trading B.V.",
+    "@cim:IdentifiedObject.name": "Scholt Energy Sourcing B.V.",
     "@cim:Names.name": [
         "SCHOLT_BV",
         "NL822579200B01",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Party Connected To Grid",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-07-19",
+    "@cim:DateAndOrTime.date": "2025-10-16",
     "@schema:vatID": "NL822579200B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

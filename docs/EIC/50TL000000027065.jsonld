@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000027065",
-    "@skos:prefLabel": "M 22 Grytneselva-Syltebø",
-    "@skos:altLabel": "NO-GRYTNESELVASY",
+    "@skos:prefLabel": "N 22 Grytneselva-Syltebø",
+    "@skos:altLabel": "NO-22GRYTNESELVA",
     "@cim:IdentifiedObject.mRID": "50TL000000027065",
-    "@cim:IdentifiedObject.name": "M 22 Grytneselva-Syltebø",
+    "@cim:IdentifiedObject.name": "N 22 Grytneselva-Syltebø",
     "@cim:Names.name": [
-        "NO-GRYTNESELVASY",
+        "NO-22GRYTNESELVA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

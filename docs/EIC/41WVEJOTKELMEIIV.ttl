@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WVEJOTKELMEIIV> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """UAB “Vėjoteka“
+302453212
+LT100016194610
+Vito Gerulaičio g. 10-101, Vilnius
+LT-08200, Lietuva
+Rokas Smilingis
++37065200165
+Rokas.Smilingis@enefitgreen.lt
+""" ;
+    cim:IdentifiedObject.mRID "41WVEJOTKELMEIIV" ;
+    cim:IdentifiedObject.name "VEJOTEKA KELME II" ;
+    cim:Names.name "Production Unit",
+        "VEJOTEKAKELMEII" ;
+    dcterms:identifier "urn:eic:41WVEJOTKELMEIIV" ;
+    skos:altLabel "VEJOTEKAKELMEII" ;
+    skos:definition """UAB “Vėjoteka“
+302453212
+LT100016194610
+Vito Gerulaičio g. 10-101, Vilnius
+LT-08200, Lietuva
+Rokas Smilingis
++37065200165
+Rokas.Smilingis@enefitgreen.lt
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VEJOTEKA KELME II" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

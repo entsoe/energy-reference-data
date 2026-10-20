@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000002033V</dcterms:identifier>
-    <skos:prefLabel>Eramet Sauda</skos:prefLabel>
-    <skos:altLabel>NO-ERAMETSAUDA</skos:altLabel>
+    <skos:prefLabel>N Buran    12  T3 Forbruk</skos:prefLabel>
+    <skos:altLabel>NO-BURAN12T3</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000002033V</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Eramet Sauda</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-ERAMETSAUDA</cim:Names.name>
+    <cim:IdentifiedObject.name>N Buran    12  T3 Forbruk</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-BURAN12T3</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

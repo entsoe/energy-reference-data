@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0570-U" ;
     cim:IdentifiedObject.name "Orsted Speicher E GmbH" ;
-    cim:Names.name "DE815338547",
+    cim:Names.name "Balance Responsible Party",
+        "DE815338547",
         "ORSTEDSPEICHER" ;
     dcterms:identifier "urn:eic:11X0-0000-0570-U" ;
     schema1:vatID "DE815338547" ;

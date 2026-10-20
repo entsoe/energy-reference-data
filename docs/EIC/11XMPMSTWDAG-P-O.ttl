@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMPMSTWDAG-P-O" ;
     cim:IdentifiedObject.name "Stadtwerke Düsseldorf AG" ;
-    cim:Names.name "Balance Group",
-        "DE811365006",
-        "SWD-MPMSTWDAG" ;
+    cim:Names.name "DE811365006",
+        "SWD-MPMSTWDAG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMPMSTWDAG-P-O" ;
     schema1:vatID "DE811365006" ;
     skos:altLabel "SWD-MPMSTWDAG" ;

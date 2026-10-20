@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XCEPUE-12345-O",
-    "@skos:prefLabel": "CIA. ENERGETICA PUENTE DEL OBISPO,S.L.",
+    "@skos:prefLabel": "COMPAÑIA ENERGETICA DE PUENTE OBISPO, S.L.",
     "@skos:altLabel": "CEPUE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCEPUE-12345-O",
-    "@cim:IdentifiedObject.name": "CIA. ENERGETICA PUENTE DEL OBISPO,S.L.",
+    "@cim:IdentifiedObject.name": "COMPAÑIA ENERGETICA DE PUENTE OBISPO, S.L.",
     "@cim:Names.name": [
         "CEPUE",
         "ESB91448514",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2025-11-07",
     "@schema:vatID": "ESB91448514",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

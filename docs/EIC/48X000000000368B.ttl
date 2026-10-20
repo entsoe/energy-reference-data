@@ -1,0 +1,37 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000368B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """43-45 Dorset Street,
+London W1U 7NA
+United Kingdom
+
+Luke Pattison
+Poweroperations@dare.global
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000368B" ;
+    cim:IdentifiedObject.name "Dare Sustainable Solutions Limited" ;
+    cim:Names.name "Capacity Trader",
+        "DSSL",
+        "GB363646480" ;
+    dcterms:identifier "urn:eic:48X000000000368B" ;
+    schema1:vatID "GB363646480" ;
+    skos:altLabel "DSSL" ;
+    skos:definition """43-45 Dorset Street,
+London W1U 7NA
+United Kingdom
+
+Luke Pattison
+Poweroperations@dare.global
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dare Sustainable Solutions Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

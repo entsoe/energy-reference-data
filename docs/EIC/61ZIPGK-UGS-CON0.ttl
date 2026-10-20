@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/61ZIPGK-UGS-CON0> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-28" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "61ZIPGK-UGS-CON0" ;
+    cim:IdentifiedObject.name "Incukalna UGS Connection Point" ;
+    cim:Names.name "Connection Point",
+        "IPGK_UGS_CP" ;
+    dcterms:identifier "urn:eic:61ZIPGK-UGS-CON0" ;
+    skos:altLabel "IPGK_UGS_CP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Incukalna UGS Connection Point" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

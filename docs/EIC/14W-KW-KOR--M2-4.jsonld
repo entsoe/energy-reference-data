@@ -16,7 +16,10 @@
     "@skos:altLabel": "KOR-M4",
     "@cim:IdentifiedObject.mRID": "14W-KW-KOR--M2-4",
     "@cim:IdentifiedObject.name": "KW Korneuburg M2",
-    "@cim:Names.name": "KOR-M4",
+    "@cim:Names.name": [
+        "KOR-M4",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

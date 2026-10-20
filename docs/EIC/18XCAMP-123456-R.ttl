@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-07-24" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCAMP-123456-R" ;
     cim:IdentifiedObject.name "Pizarras de la Campa, SLU" ;
     cim:Names.name "CAMP",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XCAMP-123456-R" ;
     schema1:vatID "ESB32116873" ;
     skos:altLabel "CAMP" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Pizarras de la Campa, SLU" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

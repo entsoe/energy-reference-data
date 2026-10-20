@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSULA-12345--K",
     "@skos:prefLabel": "Sulayr Global Service S.L",
     "@skos:altLabel": "SULA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSULA-12345--K",
     "@cim:IdentifiedObject.name": "Sulayr Global Service S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB18907196",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-14",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB18907196",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,16 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-04" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
+    cim:IdentifiedObject.description """Generation Unit
+update""" ;
     cim:IdentifiedObject.mRID "17W100P100P3382R" ;
     cim:IdentifiedObject.name "ADP A2 DE LA FERME EOLIENNE DE BAIE-DE-ST-BRIEUC" ;
     cim:Names.name "FR_B-SSBEA2",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P3382R" ;
     skos:altLabel "FR_B-SSBEA2" ;
-    skos:definition "Generation Unit"@en ;
+    skos:definition """Generation Unit
+update"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ADP A2 DE LA FERME EOLIENNE DE BAIE-DE-ST-BRIEUC" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

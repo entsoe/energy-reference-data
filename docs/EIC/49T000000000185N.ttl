@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-08" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000185N" ;
     cim:IdentifiedObject.name "Ens 380kV trafo 402" ;
-    cim:Names.name "ENS380_TR402",
+    cim:Names.name "ENS_TR402",
         "Transformer" ;
     dcterms:identifier "urn:eic:49T000000000185N" ;
-    skos:altLabel "ENS380_TR402" ;
+    skos:altLabel "ENS_TR402" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Ens 380kV trafo 402" ;

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006398O" ;
-    cim:IdentifiedObject.name "Skawina-Tucznawa" ;
+    cim:IdentifiedObject.name "400kV Skawina-Tucznawa" ;
     cim:Names.name "G007",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006398O" ;
     skos:altLabel "G007" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Skawina-Tucznawa" ;
+    skos:prefLabel "400kV Skawina-Tucznawa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

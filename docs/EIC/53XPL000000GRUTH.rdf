@@ -4,16 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000GRUTH</dcterms:identifier>
-    <skos:prefLabel>GREENX UTILITY Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>GREENX_UTILITY</skos:altLabel>
+    <skos:prefLabel>CFP ENERGY POLAND SPO&#321;KA Z ORGANICZON&#260;  ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>CFP_ENERGY_POL</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000GRUTH</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>GREENX UTILITY Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>GREENX_UTILITY</cim:Names.name>
+    <cim:IdentifiedObject.name>CFP ENERGY POLAND SPO&#321;KA Z ORGANICZON&#260;  ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>CFP_ENERGY_POL</cim:Names.name>
+    <cim:Names.name>A0018563B.PL</cim:Names.name>
     <cim:Names.name>PL7792517632</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-07-20</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-12-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7792517632</schema:vatID>
   </skos:Concept>

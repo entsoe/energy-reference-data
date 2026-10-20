@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000010482" ;
     cim:IdentifiedObject.name "KA-Brekke" ;
-    cim:Names.name "NO-KA-BREKKE_PL",
+    cim:Names.name "NO-KA_BREKKE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000010482" ;
-    skos:altLabel "NO-KA-BREKKE_PL" ;
+    skos:altLabel "NO-KA_BREKKE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KA-Brekke" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

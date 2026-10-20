@@ -15,10 +15,10 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-12-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Party Connected To Grid</cim:Names.name>
-    <cim:Names.name>Grid Operator</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Grid Operator</cim:Names.name>
     <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
+    <cim:Names.name>Party Connected To Grid</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB131358045</schema:vatID>
   </skos:Concept>

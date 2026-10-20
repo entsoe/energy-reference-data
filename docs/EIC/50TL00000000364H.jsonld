@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000364H",
-    "@skos:prefLabel": "N 132 Hungern-Ullsfjord",
-    "@skos:altLabel": "NO-HUNGERNULLSFJ",
+    "@skos:prefLabel": "N 132 Hungeren-Ullsfjord",
+    "@skos:altLabel": "NO-132HUNGERENUL",
     "@cim:IdentifiedObject.mRID": "50TL00000000364H",
-    "@cim:IdentifiedObject.name": "N 132 Hungern-Ullsfjord",
+    "@cim:IdentifiedObject.name": "N 132 Hungeren-Ullsfjord",
     "@cim:Names.name": [
-        "NO-HUNGERNULLSFJ",
+        "NO-132HUNGERENUL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001622G" ;
-    cim:IdentifiedObject.name "S 66 ÅnaSira-Dalane" ;
+    cim:IdentifiedObject.name "S 66 Kalveknuten-Sandbekk" ;
     cim:Names.name "Internal Line",
-        "NO-ANASIRADALANE" ;
+        "NO-66KALVEKDBEKK" ;
     dcterms:identifier "urn:eic:50TL00000001622G" ;
-    skos:altLabel "NO-ANASIRADALANE" ;
+    skos:altLabel "NO-66KALVEKDBEKK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 ÅnaSira-Dalane" ;
+    skos:prefLabel "S 66 Kalveknuten-Sandbekk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

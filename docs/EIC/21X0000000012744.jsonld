@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:21X0000000012744",
     "@skos:prefLabel": "Bayerngas Energy GmbH",
     "@skos:altLabel": "BEG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party,Capacity Trader,Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "21X0000000012744",
     "@cim:IdentifiedObject.name": "Bayerngas Energy GmbH",
     "@cim:Names.name": [
@@ -27,10 +23,9 @@
         "Capacity Trader",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party,Capacity Trader,Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-23",
+    "@cim:DateAndOrTime.date": "2024-01-29",
     "@schema:vatID": "DE250114062",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

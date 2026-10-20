@@ -1,0 +1,35 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X0000000003796> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """J.P. Morgan Securities PLC
+25 Bank Street, Canary Wharf, London, E14 5JP, U.K.
+Laura Hutchison
+Laura.hutchison@jpmorgan.com 
++442034930230
+""" ;
+    cim:IdentifiedObject.mRID "48X0000000003796" ;
+    cim:IdentifiedObject.name "J.P. Morgan Securities PLC" ;
+    cim:Names.name "Balance Responsible Party",
+        "GB397249893",
+        "JPMORGANPLC" ;
+    dcterms:identifier "urn:eic:48X0000000003796" ;
+    schema1:vatID "GB397249893" ;
+    skos:altLabel "JPMORGANPLC" ;
+    skos:definition """J.P. Morgan Securities PLC
+25 Bank Street, Canary Wharf, London, E14 5JP, U.K.
+Laura Hutchison
+Laura.hutchison@jpmorgan.com 
++442034930230
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "J.P. Morgan Securities PLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

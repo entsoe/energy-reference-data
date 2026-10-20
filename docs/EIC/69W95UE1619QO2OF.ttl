@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69W95UE1619QO2OF> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69W95UE1619QO2OF" ;
+    cim:IdentifiedObject.name "ILIOMORFON 3 LTD" ;
+    cim:Names.name "Generation Unit",
+        "ILIOMORFON_3_W" ;
+    dcterms:identifier "urn:eic:69W95UE1619QO2OF" ;
+    skos:altLabel "ILIOMORFON_3_W" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ILIOMORFON 3 LTD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001969F" ;
-    cim:IdentifiedObject.name "M 66 Løkaunet-Svean" ;
+    cim:IdentifiedObject.name "N 66 Løkaunet-Svean" ;
     cim:Names.name "Internal Line",
-        "NO-LOKAUNETSVEAN" ;
+        "NO-66LOKAUNETSVE" ;
     dcterms:identifier "urn:eic:50TL00000001969F" ;
-    skos:altLabel "NO-LOKAUNETSVEAN" ;
+    skos:altLabel "NO-66LOKAUNETSVE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Løkaunet-Svean" ;
+    skos:prefLabel "N 66 Løkaunet-Svean" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002170K" ;
-    cim:IdentifiedObject.name "S 66 Storlivatn-Kleiva" ;
+    cim:IdentifiedObject.name "S 22 Storlivatn-Kleiva" ;
     cim:Names.name "Internal Line",
-        "NO-STORLIVATNKLE" ;
+        "NO-22STORLIVATNK" ;
     dcterms:identifier "urn:eic:50TL00000002170K" ;
-    skos:altLabel "NO-STORLIVATNKLE" ;
+    skos:altLabel "NO-22STORLIVATNK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Storlivatn-Kleiva" ;
+    skos:prefLabel "S 22 Storlivatn-Kleiva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

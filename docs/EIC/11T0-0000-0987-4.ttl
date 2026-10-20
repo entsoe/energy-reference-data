@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-26" ;
+    cim:DateAndOrTime.date "2025-06-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11T0-0000-0987-4" ;
-    cim:IdentifiedObject.name "APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Simbach" ;
+    cim:IdentifiedObject.name "APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Simbach" ;
     cim:Names.name "Internal Line",
         "L_SPALSI-234--SI" ;
     dcterms:identifier "urn:eic:11T0-0000-0987-4" ;
     skos:altLabel "L_SPALSI-234--SI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "APG-TTG/220/Altheim-Simbach-Sankt Peter/233/230//Y-Simbach" ;
+    skos:prefLabel "APG-TTG/220/Altheim-Simbach-Sankt Peter/234/230//Y-Simbach" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000022516",
-    "@skos:prefLabel": "ROD     G113 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G113_",
+    "@skos:prefLabel": "FJELLET G113 HYDRO",
+    "@skos:altLabel": "NO-FJELLETG113",
     "@cim:IdentifiedObject.mRID": "50WG000000022516",
-    "@cim:IdentifiedObject.name": "ROD     G113 HYDRO",
+    "@cim:IdentifiedObject.name": "FJELLET G113 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G113_",
+        "NO-FJELLETG113",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23X--171012--S-7</dcterms:identifier>
-    <skos:prefLabel>SEAS-NVE Str&#248;mmen A/S</skos:prefLabel>
-    <skos:altLabel>SEAS-NVE_STROMM</skos:altLabel>
+    <skos:prefLabel>Andel Energi A/S</skos:prefLabel>
+    <skos:altLabel>ANDEL_ENERGI</skos:altLabel>
     <cim:IdentifiedObject.mRID>23X--171012--S-7</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SEAS-NVE Str&#248;mmen A/S</cim:IdentifiedObject.name>
-    <cim:Names.name>SEAS-NVE_STROMM</cim:Names.name>
+    <cim:IdentifiedObject.name>Andel Energi A/S</cim:IdentifiedObject.name>
+    <cim:Names.name>ANDEL_ENERGI</cim:Names.name>
     <cim:Names.name>A00000093.DK</cim:Names.name>
     <cim:Names.name>DK24213528</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-10-12</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-12-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DK24213528</schema:vatID>
   </skos:Concept>

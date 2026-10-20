@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001397E" ;
     cim:IdentifiedObject.name "Osa" ;
-    cim:Names.name "NO-OSA_PL",
+    cim:Names.name "NO-OSA_V01",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001397E" ;
-    skos:altLabel "NO-OSA_PL" ;
+    skos:altLabel "NO-OSA_V01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Osa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

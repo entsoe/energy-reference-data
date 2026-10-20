@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-09-19" ;
+    cim:DateAndOrTime.date "2024-11-27" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWS-SPEYER--D" ;
     cim:IdentifiedObject.name "Stadtwerke Speyer GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE149689905",
         "SWS" ;
     dcterms:identifier "urn:eic:11XSWS-SPEYER--D" ;
     schema1:vatID "DE149689905" ;
     skos:altLabel "SWS" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Speyer GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

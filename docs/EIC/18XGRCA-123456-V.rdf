@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGRCA-123456-V</dcterms:identifier>
     <skos:prefLabel>Granitos Cabaleiro, S.A.</skos:prefLabel>
     <skos:altLabel>GRCA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGRCA-123456-V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Granitos Cabaleiro, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>GRCA</cim:Names.name>
     <cim:Names.name>ESA36347581</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-04-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA36347581</schema:vatID>

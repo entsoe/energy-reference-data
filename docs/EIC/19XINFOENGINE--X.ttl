@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-08-10" ;
+    cim:DateAndOrTime.date "2025-06-26" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XINFOENGINE--X" ;
-    cim:IdentifiedObject.name "WSEINFOENGINE SPOLKA AKCYJNA" ;
-    cim:Names.name "Balance Responsible Party",
-        "PL5262753803",
-        "WSEINFOENGINE" ;
+    cim:IdentifiedObject.name "InfoEngine Spółka Akcyjna" ;
+    cim:Names.name "A0001568A.PL",
+        "INFOENGINE_SA",
+        "Market Operator",
+        "PL5262753803" ;
     dcterms:identifier "urn:eic:19XINFOENGINE--X" ;
     schema1:vatID "PL5262753803" ;
-    skos:altLabel "WSEINFOENGINE" ;
-    skos:definition "Balance Responsible Party"@en ;
+    skos:altLabel "INFOENGINE_SA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WSEINFOENGINE SPOLKA AKCYJNA" ;
+    skos:prefLabel "InfoEngine Spółka Akcyjna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

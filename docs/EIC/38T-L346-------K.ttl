@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-17" ;
+    cim:DateAndOrTime.date "2026-09-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "38T-L346-------K" ;
-    cim:IdentifiedObject.name "Paide-Sopi" ;
+    cim:IdentifiedObject.name "L346 Mustaru-Sopi" ;
     cim:Names.name "Internal Tie-Line",
-        "PAIDE_SOPI" ;
+        "L346_MUSTARU_SOP" ;
     dcterms:identifier "urn:eic:38T-L346-------K" ;
-    skos:altLabel "PAIDE_SOPI" ;
+    skos:altLabel "L346_MUSTARU_SOP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Paide-Sopi" ;
+    skos:prefLabel "L346 Mustaru-Sopi" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

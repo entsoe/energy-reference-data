@@ -6,17 +6,20 @@
     <dcterms:identifier>urn:eic:23XJPMCBNA-----W</dcterms:identifier>
     <skos:prefLabel>JP Morgan Chase Bank National Association</skos:prefLabel>
     <skos:altLabel>JPMORGAN</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
+    <skos:definition xml:lang="en">Tax number confirmed through Department of Taxation and Finance: 134994650C
+Company registered in the United States of America</skos:definition>
     <cim:IdentifiedObject.mRID>23XJPMCBNA-----W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>JP Morgan Chase Bank National Association</cim:IdentifiedObject.name>
     <cim:Names.name>JPMORGAN</cim:Names.name>
-    <cim:Names.name>GB397249893</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
+    <cim:Names.name>A00243661.DE</cim:Names.name>
+    <cim:Names.name>134994650C</cim:Names.name>
+    <cim:IdentifiedObject.description>Tax number confirmed through Department of Taxation and Finance: 134994650C
+Company registered in the United States of America</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-08-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-07-28</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>GB397249893</schema:vatID>
+    <schema:vatID>134994650C</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

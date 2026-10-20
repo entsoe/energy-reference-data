@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-12-10" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "48X000000000095K" ;
     cim:IdentifiedObject.name "EDF Energy Customers PLC" ;
-    cim:Names.name "Consumption Responsible Party",
-        "EDFE_CUST_PLC",
-        "GB523041202" ;
+    cim:Names.name "EDFE_CUST_PLC",
+        "GB523041202",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:48X000000000095K" ;
     schema1:vatID "GB523041202" ;
     skos:altLabel "EDFE_CUST_PLC" ;

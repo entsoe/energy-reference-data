@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XTHER-123456-C</dcterms:identifier>
     <skos:prefLabel>Thermolympic S.L</skos:prefLabel>
     <skos:altLabel>THER</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XTHER-123456-C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Thermolympic S.L</cim:IdentifiedObject.name>
     <cim:Names.name>THER</cim:Names.name>
     <cim:Names.name>ESB50468891</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-06-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50468891</schema:vatID>

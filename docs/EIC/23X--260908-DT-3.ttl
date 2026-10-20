@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260908-DT-3> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company Registration number, confirmed with official document from the office of the secretary of state of Illinois: 0050819-5. TIN number confirmed through W-9 form: 812060024" ;
+    cim:IdentifiedObject.mRID "23X--260908-DT-3" ;
+    cim:IdentifiedObject.name "DV Trading, LLC" ;
+    cim:Names.name "812060024",
+        "A00226693.NL",
+        "DV_TRADING_US",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--260908-DT-3" ;
+    schema1:vatID "812060024" ;
+    skos:altLabel "DV_TRADING_US" ;
+    skos:definition "Company Registration number, confirmed with official document from the office of the secretary of state of Illinois: 0050819-5. TIN number confirmed through W-9 form: 812060024"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DV Trading, LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

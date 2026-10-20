@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002829Q",
-    "@skos:prefLabel": "S 50 Gartnerløkka-Nikkelverket",
-    "@skos:altLabel": "NO-GARTNERLOKKAN",
+    "@skos:prefLabel": "S 50 Tollboden-Nikkelverket",
+    "@skos:altLabel": "NO-50TOLLBODENNI",
     "@cim:IdentifiedObject.mRID": "50TL00000002829Q",
-    "@cim:IdentifiedObject.name": "S 50 Gartnerløkka-Nikkelverket",
+    "@cim:IdentifiedObject.name": "S 50 Tollboden-Nikkelverket",
     "@cim:Names.name": [
-        "NO-GARTNERLOKKAN",
+        "NO-50TOLLBODENNI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-09-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

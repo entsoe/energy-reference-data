@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021768" ;
     cim:IdentifiedObject.name "N 66 Strandveien-Sentrum" ;
     cim:Names.name "Internal Line",
-        "NO-STRANDVEIENSE" ;
+        "NO-66STRANDVEIEN" ;
     dcterms:identifier "urn:eic:50TL000000021768" ;
-    skos:altLabel "NO-STRANDVEIENSE" ;
+    skos:altLabel "NO-66STRANDVEIEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 66 Strandveien-Sentrum" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

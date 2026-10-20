@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PBQV> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-18" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PBQV" ;
+    cim:IdentifiedObject.name "CIMERA SOLAR SL" ;
+    cim:Names.name "ES-FVCIMERA",
+        "ESB88246202",
+        "Producer" ;
+    dcterms:identifier "urn:eic:18X000000000PBQV" ;
+    schema1:vatID "ESB88246202" ;
+    skos:altLabel "ES-FVCIMERA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CIMERA SOLAR SL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

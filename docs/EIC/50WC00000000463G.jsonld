@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000463G",
-    "@skos:prefLabel": "S Eidskog  22  T1 Forbruk",
+    "@skos:prefLabel": "S Eidskog  22  L1 Forbruk",
     "@skos:altLabel": "NO-EIDSKOG22",
     "@cim:IdentifiedObject.mRID": "50WC00000000463G",
-    "@cim:IdentifiedObject.name": "S Eidskog  22  T1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Eidskog  22  L1 Forbruk",
     "@cim:Names.name": [
         "NO-EIDSKOG22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

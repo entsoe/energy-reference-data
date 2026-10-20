@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-LIEPMEZVEP1F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-LIEPMEZVEP1F" ;
+    cim:IdentifiedObject.name "VEP1 ,SES,BESS" ;
+    cim:Names.name "Generation Unit",
+        "LIEPMEZVEP1F" ;
+    dcterms:identifier "urn:eic:43W-LIEPMEZVEP1F" ;
+    skos:altLabel "LIEPMEZVEP1F" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VEP1 ,SES,BESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

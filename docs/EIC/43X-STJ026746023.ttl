@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ026746023> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ026746023" ;
+    cim:IdentifiedObject.name "Enerom SIA" ;
+    cim:Names.name "43XJ0267460",
+        "Balance Responsible Party",
+        "LV40203550922" ;
+    dcterms:identifier "urn:eic:43X-STJ026746023" ;
+    schema1:vatID "LV40203550922" ;
+    skos:altLabel "43XJ0267460" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Enerom SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFLEXSTROM---Q" ;
     cim:IdentifiedObject.name "FlexStrom GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE230028010",
-        "FLEXSTROM" ;
+    cim:Names.name "DE230028010",
+        "FLEXSTROM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFLEXSTROM---Q" ;
     schema1:vatID "DE230028010" ;
     skos:altLabel "FLEXSTROM" ;

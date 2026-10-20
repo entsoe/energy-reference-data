@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XESSA-123456-H</dcterms:identifier>
     <skos:prefLabel>E.S SAN ANTONIO</skos:prefLabel>
     <skos:altLabel>ESSA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XESSA-123456-H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>E.S SAN ANTONIO</cim:IdentifiedObject.name>
     <cim:Names.name>ESSA</cim:Names.name>
     <cim:Names.name>ESB87322137</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB87322137</schema:vatID>

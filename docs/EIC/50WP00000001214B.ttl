@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001214B" ;
     cim:IdentifiedObject.name "Cårrajarvit" ;
-    cim:Names.name "NO-CARRAJARVIT_P",
+    cim:Names.name "NO-CAARRAJARVIT",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001214B" ;
-    skos:altLabel "NO-CARRAJARVIT_P" ;
+    skos:altLabel "NO-CAARRAJARVIT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Cårrajarvit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

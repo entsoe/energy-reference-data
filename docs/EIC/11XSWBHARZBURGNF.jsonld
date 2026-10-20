@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XSWBHARZBURGNF",
     "@skos:prefLabel": "Stadtwerke Bad Harzburg GmbH",
     "@skos:altLabel": "SWBADHARZBURG_N",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWBHARZBURGNF",
     "@cim:IdentifiedObject.name": "Stadtwerke Bad Harzburg GmbH",
     "@cim:Names.name": [
         "SWBADHARZBURG_N",
-        "2120400738",
-        "Balance Group"
+        "DE811755834",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-06-06",
-    "@schema:vatID": "2120400738",
+    "@cim:DateAndOrTime.date": "2024-12-20",
+    "@schema:vatID": "DE811755834",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

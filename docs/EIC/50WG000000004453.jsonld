@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000004453",
     "@skos:prefLabel": "FLITTIG G1      HYDRO",
-    "@skos:altLabel": "NO-FLITTIG_G1___",
+    "@skos:altLabel": "NO-FLITTIGG1",
     "@cim:IdentifiedObject.mRID": "50WG000000004453",
     "@cim:IdentifiedObject.name": "FLITTIG G1      HYDRO",
     "@cim:Names.name": [
-        "NO-FLITTIG_G1___",
+        "NO-FLITTIGG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

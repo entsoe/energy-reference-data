@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43VAST-BESS----8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "BESS management system" ;
+    cim:IdentifiedObject.mRID "43VAST-BESS----8" ;
+    cim:IdentifiedObject.name "AST-BESS_management system" ;
+    cim:Names.name "AST-BESS----8",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:43VAST-BESS----8" ;
+    skos:altLabel "AST-BESS----8" ;
+    skos:definition "BESS management system"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AST-BESS_management system" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

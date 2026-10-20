@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XDANUBERISEKFD> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XDANUBERISEKFD" ;
+    cim:IdentifiedObject.name "DANUBERISE KFT" ;
+    cim:Names.name "Balance Responsible Party",
+        "DANUBERISE",
+        "HU32668041" ;
+    dcterms:identifier "urn:eic:39XDANUBERISEKFD" ;
+    schema1:vatID "HU32668041" ;
+    skos:altLabel "DANUBERISE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DANUBERISE KFT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

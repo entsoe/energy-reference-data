@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Trading Company" ;
     cim:IdentifiedObject.mRID "24X-ENTRADE-SK-9" ;
     cim:IdentifiedObject.name "Atel Slovensko s.r.o." ;
     cim:Names.name "ATEL-SLOVENSKO",
         "SK2021667901",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-ENTRADE-SK-9" ;
     schema1:vatID "SK2021667901" ;
     skos:altLabel "ATEL-SLOVENSKO" ;

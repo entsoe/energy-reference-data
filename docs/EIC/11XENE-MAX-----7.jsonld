@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XENE-MAX-----7",
-    "@skos:prefLabel": "Energieeinkaufs- und -handelsgesellshaft Mecklenburg-Vorpommern mbH",
+    "@skos:prefLabel": "Energieeinkaufs- und -handelsgesellschaft Mecklenburg-Vorpommern mbH",
     "@skos:altLabel": "EEG-MV_ENE-MAX",
     "@cim:IdentifiedObject.mRID": "11XENE-MAX-----7",
-    "@cim:IdentifiedObject.name": "Energieeinkaufs- und -handelsgesellshaft Mecklenburg-Vorpommern mbH",
+    "@cim:IdentifiedObject.name": "Energieeinkaufs- und -handelsgesellschaft Mecklenburg-Vorpommern mbH",
     "@cim:Names.name": [
         "EEG-MV_ENE-MAX",
         "DE196761024",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-07",
+    "@cim:DateAndOrTime.date": "2024-02-21",
     "@schema:vatID": "DE196761024",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

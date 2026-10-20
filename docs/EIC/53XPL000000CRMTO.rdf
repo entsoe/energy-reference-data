@@ -4,17 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000CRMTO</dcterms:identifier>
-    <skos:prefLabel>Cryogas M&amp;T Poland S.A.</skos:prefLabel>
-    <skos:altLabel>CRYOGASMTPOLAND</skos:altLabel>
+    <skos:prefLabel>Omne Energia S.A.</skos:prefLabel>
+    <skos:altLabel>OMNE_ENERGIA</skos:altLabel>
     <skos:definition xml:lang="en">Network User</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000CRMTO</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Cryogas M&amp;T Poland S.A.</cim:IdentifiedObject.name>
-    <cim:Names.name>CRYOGASMTPOLAND</cim:Names.name>
+    <cim:IdentifiedObject.name>Omne Energia S.A.</cim:IdentifiedObject.name>
+    <cim:Names.name>OMNE_ENERGIA</cim:Names.name>
+    <cim:Names.name>A0003267G.PL</cim:Names.name>
     <cim:Names.name>PL5252520546</cim:Names.name>
     <cim:IdentifiedObject.description>Network User</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-09-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-03</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5252520546</schema:vatID>

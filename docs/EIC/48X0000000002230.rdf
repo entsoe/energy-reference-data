@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:48X0000000002230</dcterms:identifier>
-    <skos:prefLabel>Contigo</skos:prefLabel>
-    <skos:altLabel>CONTIGO</skos:altLabel>
+    <skos:prefLabel>Energy One UK </skos:prefLabel>
+    <skos:altLabel>ENERGY_ONE_UK</skos:altLabel>
     <cim:IdentifiedObject.mRID>48X0000000002230</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Contigo</cim:IdentifiedObject.name>
-    <cim:Names.name>CONTIGO</cim:Names.name>
+    <cim:IdentifiedObject.name>Energy One UK </cim:IdentifiedObject.name>
+    <cim:Names.name>ENERGY_ONE_UK</cim:Names.name>
     <cim:Names.name>GB02769279</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-10-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-13</cim:DateAndOrTime.date>
     <cim:Names.name>Information Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB02769279</schema:vatID>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002926S" ;
-    cim:IdentifiedObject.name "M 66 Fillan-Frøya" ;
+    cim:IdentifiedObject.name "N 66 Fillan-Frøya" ;
     cim:Names.name "Internal Line",
-        "NO-FILLANFROYA" ;
+        "NO-66FILLANFROYA" ;
     dcterms:identifier "urn:eic:50TL00000002926S" ;
-    skos:altLabel "NO-FILLANFROYA" ;
+    skos:altLabel "NO-66FILLANFROYA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Fillan-Frøya" ;
+    skos:prefLabel "N 66 Fillan-Frøya" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

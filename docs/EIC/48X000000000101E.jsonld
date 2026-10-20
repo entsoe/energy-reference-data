@@ -23,10 +23,10 @@
     "@cim:Names.name": [
         "ELECLINK_IC",
         "GB131358045",
-        "Party Connected To Grid",
-        "Grid Operator",
         "Balance Responsible Party",
-        "Interconnection Trade Responsible"
+        "Grid Operator",
+        "Interconnection Trade Responsible",
+        "Party Connected To Grid"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party, Grid Operator, Interconnection Trade Responsible, Party Connected To Grid",
     "@cim:Document.docStatus": "A05",

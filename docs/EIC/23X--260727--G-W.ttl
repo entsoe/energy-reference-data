@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260727--G-W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """National Tax Number confirmed with Certificate of Registration for Corporate Tax in the United Arab Emirates: 104614017200001
+Company Registration number confirmed with CERTIFICATE OF INCORPORATION, GOVERNMENT OF RAS AL KHAIMAH: 0000004055113""" ;
+    cim:IdentifiedObject.mRID "23X--260727--G-W" ;
+    cim:IdentifiedObject.name "GAITOIL MIDDLE EAST FZ-LLC" ;
+    cim:Names.name "104614017200001",
+        "Energy Supplier",
+        "GAITOIL_ME_FZ",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--260727--G-W" ;
+    schema1:vatID "104614017200001" ;
+    skos:altLabel "GAITOIL_ME_FZ" ;
+    skos:definition """National Tax Number confirmed with Certificate of Registration for Corporate Tax in the United Arab Emirates: 104614017200001
+Company Registration number confirmed with CERTIFICATE OF INCORPORATION, GOVERNMENT OF RAS AL KHAIMAH: 0000004055113"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GAITOIL MIDDLE EAST FZ-LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

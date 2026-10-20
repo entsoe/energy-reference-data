@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001609V" ;
-    cim:IdentifiedObject.name "MOSKOG  G161 HYDRO" ;
+    cim:IdentifiedObject.name "STARDALEG161 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G161_" ;
+        "NO-STARDALEG161" ;
     dcterms:identifier "urn:eic:50WG00000001609V" ;
-    skos:altLabel "NO-MOSKOG__G161_" ;
+    skos:altLabel "NO-STARDALEG161" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G161 HYDRO" ;
+    skos:prefLabel "STARDALEG161 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001935W" ;
     cim:IdentifiedObject.name "S 66 Langeset-Svøo" ;
     cim:Names.name "Internal Line",
-        "NO-LANGESETSVOO" ;
+        "NO-66LANGESETSVO" ;
     dcterms:identifier "urn:eic:50TL00000001935W" ;
-    skos:altLabel "NO-LANGESETSVOO" ;
+    skos:altLabel "NO-66LANGESETSVO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Langeset-Svøo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

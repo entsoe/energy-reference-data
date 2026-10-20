@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Market Area" ;
     cim:IdentifiedObject.mRID "21Y000000000019B" ;
     cim:IdentifiedObject.name "Virtual area for quarterly flexable contract transfers" ;
-    cim:Names.name "NOMFLXQTR",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Market Area",
+        "NOMFLXQTR" ;
     dcterms:identifier "urn:eic:21Y000000000019B" ;
     skos:altLabel "NOMFLXQTR" ;
-    skos:definition "Virtual Market Area"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Virtual area for quarterly flexable contract transfers" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

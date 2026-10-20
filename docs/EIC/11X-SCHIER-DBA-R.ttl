@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-SCHIER-DBA-R" ;
     cim:IdentifiedObject.name "Stromversorgung Schierling eG" ;
-    cim:Names.name "Balance Group",
-        "DE133711884",
-        "SCHIERLING-DBA" ;
+    cim:Names.name "DE133711884",
+        "SCHIERLING-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-SCHIER-DBA-R" ;
     schema1:vatID "DE133711884" ;
     skos:altLabel "SCHIERLING-DBA" ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000002685",
     "@skos:prefLabel": "DAUREMALG1      HYDRO",
-    "@skos:altLabel": "NO-DAUREMALG1___",
+    "@skos:altLabel": "NO-DAUREMALG1",
     "@cim:IdentifiedObject.mRID": "50WGI00000002685",
     "@cim:IdentifiedObject.name": "DAUREMALG1      HYDRO",
     "@cim:Names.name": [
-        "NO-DAUREMALG1___",
+        "NO-DAUREMALG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

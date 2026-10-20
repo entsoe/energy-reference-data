@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_CO-PROVET5-G",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Generation Unit"
+        "@value": "Generation Unit\nupdate"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P0009R",
     "@cim:IdentifiedObject.name": "PROVENCE 5",
@@ -24,10 +24,10 @@
         "FR_CO-PROVET5-G",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
+    "@cim:IdentifiedObject.description": "Generation Unit\nupdate",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-12-18",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

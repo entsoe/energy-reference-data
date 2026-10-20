@@ -7,12 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-10" ;
+    cim:DateAndOrTime.date "2024-02-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X017719904450O" ;
     cim:IdentifiedObject.name "OCTOPUS ENERGY ITALIA  SRL" ;
-    cim:Names.name "A0008978K.IT",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
         "IT-OCTOPUSENERGY",
         "IT01771990445" ;
     dcterms:identifier "urn:eic:26X017719904450O" ;

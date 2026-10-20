@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Central Clearing Counterparty, a.s., organizacna zlozka",
     "@cim:Names.name": [
         "PXE-CCC-SK",
+        "n / a",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-05-13",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

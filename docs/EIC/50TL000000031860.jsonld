@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000031860",
-    "@skos:prefLabel": "S 420 Kvilldal Pol12 X",
-    "@skos:altLabel": "NO-KVILLDAL420PO",
+    "@skos:prefLabel": "S Kvilldal 420 En1 X",
+    "@skos:altLabel": "NO-KVILLDAL420EN",
     "@cim:IdentifiedObject.mRID": "50TL000000031860",
-    "@cim:IdentifiedObject.name": "S 420 Kvilldal Pol12 X",
+    "@cim:IdentifiedObject.name": "S Kvilldal 420 En1 X",
     "@cim:Names.name": [
-        "NO-KVILLDAL420PO",
+        "NO-KVILLDAL420EN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TT00000005668G</dcterms:identifier>
     <skos:prefLabel>N Skei     T11 Transformator</skos:prefLabel>
-    <skos:altLabel>NO-SKEI____T11</skos:altLabel>
+    <skos:altLabel>NO-SKEIT11</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TT00000005668G</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>N Skei     T11 Transformator</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SKEI____T11</cim:Names.name>
+    <cim:Names.name>NO-SKEIT11</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

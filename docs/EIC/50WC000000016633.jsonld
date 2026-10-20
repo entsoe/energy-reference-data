@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000016633",
-    "@skos:prefLabel": "S Henstad  47  2X Forbruk",
-    "@skos:altLabel": "NO-HENSTAD472X",
+    "@skos:prefLabel": "S Henstad  47  T3 Forbruk",
+    "@skos:altLabel": "NO-HENSTAD47T3",
     "@cim:IdentifiedObject.mRID": "50WC000000016633",
-    "@cim:IdentifiedObject.name": "S Henstad  47  2X Forbruk",
+    "@cim:IdentifiedObject.name": "S Henstad  47  T3 Forbruk",
     "@cim:Names.name": [
-        "NO-HENSTAD472X",
+        "NO-HENSTAD47T3",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

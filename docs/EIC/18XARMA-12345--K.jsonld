@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XARMA-12345--K",
     "@skos:prefLabel": "Armadilla S.L.U",
     "@skos:altLabel": "ARMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XARMA-12345--K",
     "@cim:IdentifiedObject.name": "Armadilla S.L.U",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB32026437",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-07-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB32026437",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

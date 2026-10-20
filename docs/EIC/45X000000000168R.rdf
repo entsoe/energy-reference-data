@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45X000000000168R</dcterms:identifier>
-    <skos:prefLabel>Arosource ApS</skos:prefLabel>
-    <skos:altLabel>AROSOURCE</skos:altLabel>
+    <skos:prefLabel>Aro.inc ApS</skos:prefLabel>
+    <skos:altLabel>AROINC</skos:altLabel>
     <cim:IdentifiedObject.mRID>45X000000000168R</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Arosource ApS</cim:IdentifiedObject.name>
-    <cim:Names.name>AROSOURCE</cim:Names.name>
+    <cim:IdentifiedObject.name>Aro.inc ApS</cim:IdentifiedObject.name>
+    <cim:Names.name>AROINC</cim:Names.name>
     <cim:Names.name>44372487</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-10</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>44372487</schema:vatID>

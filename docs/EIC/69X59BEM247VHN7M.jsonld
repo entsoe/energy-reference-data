@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/69X59BEM247VHN7M",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:69X59BEM247VHN7M",
+    "@skos:prefLabel": "SYNENERGIA LTD",
+    "@skos:altLabel": "SYNENERGIA",
+    "@cim:IdentifiedObject.mRID": "69X59BEM247VHN7M",
+    "@cim:IdentifiedObject.name": "SYNENERGIA LTD",
+    "@cim:Names.name": [
+        "SYNENERGIA",
+        "10386933X",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Imbalance Settlement Responsible",
+        "Information Provider",
+        "Metered Data Aggregator",
+        "Resource Aggregator",
+        "Balancing Service Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-22",
+    "@schema:vatID": "10386933X",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

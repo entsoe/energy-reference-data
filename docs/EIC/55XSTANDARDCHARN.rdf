@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/55XSTANDARDCHARN">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:55XSTANDARDCHARN</dcterms:identifier>
+    <skos:prefLabel>Standard Chartered Bank</skos:prefLabel>
+    <skos:altLabel>SCBUK</skos:altLabel>
+    <cim:IdentifiedObject.mRID>55XSTANDARDCHARN</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Standard Chartered Bank</cim:IdentifiedObject.name>
+    <cim:Names.name>SCBUK</cim:Names.name>
+    <cim:Names.name>GB244106593</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-03-08</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>GB244106593</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

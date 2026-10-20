@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XEUROG-12345-B</dcterms:identifier>
     <skos:prefLabel>EUROGAN S.L</skos:prefLabel>
     <skos:altLabel>EUROG</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XEUROG-12345-B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EUROGAN S.L</cim:IdentifiedObject.name>
     <cim:Names.name>EUROG</cim:Names.name>
     <cim:Names.name>ESB50219468</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50219468</schema:vatID>

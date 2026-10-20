@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000810K" ;
     cim:IdentifiedObject.name "S 22 Bagn-Eid" ;
     cim:Names.name "Internal Line",
-        "NO-BAGNEID" ;
+        "NO-22BAGNEID" ;
     dcterms:identifier "urn:eic:50TL00000000810K" ;
-    skos:altLabel "NO-BAGNEID" ;
+    skos:altLabel "NO-22BAGNEID" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Bagn-Eid" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

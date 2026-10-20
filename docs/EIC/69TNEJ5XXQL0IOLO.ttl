@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69TNEJ5XXQL0IOLO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Transformer" ;
+    cim:IdentifiedObject.mRID "69TNEJ5XXQL0IOLO" ;
+    cim:IdentifiedObject.name "VASSOUTH 132ST.TRAFO1" ;
+    cim:Names.name "Transformer",
+        "VASSSOUTH_ST1" ;
+    dcterms:identifier "urn:eic:69TNEJ5XXQL0IOLO" ;
+    skos:altLabel "VASSSOUTH_ST1" ;
+    skos:definition "Transformer"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASSOUTH 132ST.TRAFO1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

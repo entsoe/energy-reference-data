@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10THR-RS-100012X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """HR_RS Virtual Tieline mFRR
+""" ;
+    cim:IdentifiedObject.mRID "10THR-RS-100012X" ;
+    cim:IdentifiedObject.name "Virtual Tieline mFRR HOPS-EMS" ;
+    cim:Names.name "L_HR_RS_VTL_MFRR",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:10THR-RS-100012X" ;
+    skos:altLabel "L_HR_RS_VTL_MFRR" ;
+    skos:definition """HR_RS Virtual Tieline mFRR
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Virtual Tieline mFRR HOPS-EMS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

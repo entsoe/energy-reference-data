@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002991H" ;
     cim:IdentifiedObject.name "S 132 Salhusvegen-Hylkje" ;
     cim:Names.name "Internal Line",
-        "NO-SALHUSVEGENHY" ;
+        "NO-132SALHUSVEGE" ;
     dcterms:identifier "urn:eic:50TL00000002991H" ;
-    skos:altLabel "NO-SALHUSVEGENHY" ;
+    skos:altLabel "NO-132SALHUSVEGE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Salhusvegen-Hylkje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

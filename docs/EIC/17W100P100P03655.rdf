@@ -6,14 +6,16 @@
     <dcterms:identifier>urn:eic:17W100P100P03655</dcterms:identifier>
     <skos:prefLabel>PROVENCE 4</skos:prefLabel>
     <skos:altLabel>FR_BI-PROVET-G</skos:altLabel>
-    <skos:definition xml:lang="en">Generation Unit</skos:definition>
+    <skos:definition xml:lang="en">Generation Unit
+update</skos:definition>
     <cim:IdentifiedObject.mRID>17W100P100P03655</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PROVENCE 4</cim:IdentifiedObject.name>
     <cim:Names.name>FR_BI-PROVET-G</cim:Names.name>
-    <cim:IdentifiedObject.description>Generation Unit</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Generation Unit
+update</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-12-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-15</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

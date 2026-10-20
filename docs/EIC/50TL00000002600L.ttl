@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002600L" ;
     cim:IdentifiedObject.name "S 420 Solberg-Brenntangen Nord Kabel X" ;
     cim:Names.name "Internal Line",
-        "NO-SOLBBRENNTANX" ;
+        "NO-420SOLBEORD_X" ;
     dcterms:identifier "urn:eic:50TL00000002600L" ;
-    skos:altLabel "NO-SOLBBRENNTANX" ;
+    skos:altLabel "NO-420SOLBEORD_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 420 Solberg-Brenntangen Nord Kabel X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

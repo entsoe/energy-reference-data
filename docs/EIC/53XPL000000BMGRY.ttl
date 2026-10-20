@@ -7,19 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-28" ;
+    cim:DateAndOrTime.date "2025-03-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "53XPL000000BMGRY" ;
-    cim:IdentifiedObject.name "BM Group sp. z o.o. Sp. k." ;
-    cim:Names.name "BM_GROUP",
+    cim:IdentifiedObject.name "INEON Olszowiak Sp. k." ;
+    cim:Names.name "A00136767.PL",
+        "Balance Responsible Party",
+        "INEON",
         "Network User",
-        "PL6222782756" ;
+        "PL6222782756",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000BMGRY" ;
     schema1:vatID "PL6222782756" ;
-    skos:altLabel "BM_GROUP" ;
+    skos:altLabel "INEON" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BM Group sp. z o.o. Sp. k." ;
+    skos:prefLabel "INEON Olszowiak Sp. k." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

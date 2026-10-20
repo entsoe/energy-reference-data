@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XTLSVEJOJEGANW",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XTLSVEJOJEGANW",
+    "@skos:prefLabel": "UAB Telšių vėjo jėgainės",
+    "@skos:altLabel": "TELSIUVEJOJEGAIN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "304986020   Konstitucijos pr. 9-41, Vilnius    Martynas Rečiūnas  +37060601367   Martynas.reciunas@utilitas.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41XTLSVEJOJEGANW",
+    "@cim:IdentifiedObject.name": "UAB Telšių vėjo jėgainės",
+    "@cim:Names.name": [
+        "TELSIUVEJOJEGAIN",
+        "LT100016474615",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "304986020   Konstitucijos pr. 9-41, Vilnius    Martynas Rečiūnas  +37060601367   Martynas.reciunas@utilitas.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-16",
+    "@schema:vatID": "LT100016474615",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

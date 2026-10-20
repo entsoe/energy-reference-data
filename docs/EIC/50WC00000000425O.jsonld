@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000425O",
-    "@skos:prefLabel": "M Kolsvik  22  L1 Forbruk",
+    "@skos:prefLabel": "N Kolsvik  22  L1",
     "@skos:altLabel": "NO-KOLSVIK22",
     "@cim:IdentifiedObject.mRID": "50WC00000000425O",
-    "@cim:IdentifiedObject.name": "M Kolsvik  22  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Kolsvik  22  L1",
     "@cim:Names.name": [
         "NO-KOLSVIK22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

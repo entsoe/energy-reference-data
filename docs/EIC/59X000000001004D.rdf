@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:59X000000001004D</dcterms:identifier>
-    <skos:prefLabel>ENERGY ONLY SPA</skos:prefLabel>
-    <skos:altLabel>ENERGYONLYSPA</skos:altLabel>
+    <skos:prefLabel>Oenergy SPA</skos:prefLabel>
+    <skos:altLabel>OENERGYSPA</skos:altLabel>
     <cim:IdentifiedObject.mRID>59X000000001004D</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENERGY ONLY SPA</cim:IdentifiedObject.name>
-    <cim:Names.name>ENERGYONLYSPA</cim:Names.name>
+    <cim:IdentifiedObject.name>Oenergy SPA</cim:IdentifiedObject.name>
+    <cim:Names.name>OENERGYSPA</cim:Names.name>
     <cim:Names.name>IT11014291006</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-01-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-09</cim:DateAndOrTime.date>
     <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT11014291006</schema:vatID>

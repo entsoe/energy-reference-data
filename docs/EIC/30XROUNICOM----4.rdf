@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>30XROUNICOM----4</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SC UNICOM HOLDING SA</cim:IdentifiedObject.name>
     <cim:Names.name>UNICOM</cim:Names.name>
+    <cim:Names.name>RO3507700</cim:Names.name>
     <cim:IdentifiedObject.description>Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RO3507700</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

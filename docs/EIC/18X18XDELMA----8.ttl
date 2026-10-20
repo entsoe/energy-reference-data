@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18X18XDELMA----8" ;
     cim:IdentifiedObject.name "DeLMa" ;
-    cim:Names.name "Consumption Responsible Party",
-        "DELM",
-        "ES20257717F" ;
+    cim:Names.name "DELM",
+        "ES20257717F",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X18XDELMA----8" ;
     schema1:vatID "ES20257717F" ;
     skos:altLabel "DELM" ;

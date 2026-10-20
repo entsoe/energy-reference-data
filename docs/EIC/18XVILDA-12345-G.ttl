@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-03-31" ;
+    cim:DateAndOrTime.date "2026-08-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XVILDA-12345-G" ;
-    cim:IdentifiedObject.name "VILALBA DELS ARCS SLU" ;
+    cim:IdentifiedObject.name "PARC EOLIC DE VILALBA DELS ARCS SLU" ;
     cim:Names.name "ESB17716804",
-        "Production Responsible party",
+        "Production Responsible Party",
         "VILDA" ;
     dcterms:identifier "urn:eic:18XVILDA-12345-G" ;
     schema1:vatID "ESB17716804" ;
     skos:altLabel "VILDA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VILALBA DELS ARCS SLU" ;
+    skos:prefLabel "PARC EOLIC DE VILALBA DELS ARCS SLU" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

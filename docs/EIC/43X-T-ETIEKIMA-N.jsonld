@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:43X-T-ETIEKIMA-N",
-    "@skos:prefLabel": "SIA Geton Energy ",
+    "@skos:prefLabel": "Ignitis Latvija SIA",
     "@skos:altLabel": "LV-ETIEKIMAS",
     "@cim:IdentifiedObject.mRID": "43X-T-ETIEKIMA-N",
-    "@cim:IdentifiedObject.name": "SIA Geton Energy ",
+    "@cim:IdentifiedObject.name": "Ignitis Latvija SIA",
     "@cim:Names.name": [
         "LV-ETIEKIMAS",
         "LV40103642991",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-08-30",
+    "@cim:DateAndOrTime.date": "2024-05-08",
     "@schema:vatID": "LV40103642991",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

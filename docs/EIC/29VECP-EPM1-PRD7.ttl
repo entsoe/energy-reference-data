@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/29VECP-EPM1-PRD7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "29VECP-EPM1-PRD7" ;
+    cim:IdentifiedObject.name "ADMIE ECP CLIENT CMM PROD" ;
+    cim:Names.name "ECP_EPM1_PRD_CMM",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:29VECP-EPM1-PRD7" ;
+    skos:altLabel "ECP_EPM1_PRD_CMM" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ADMIE ECP CLIENT CMM PROD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

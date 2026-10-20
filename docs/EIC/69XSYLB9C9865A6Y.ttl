@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69XSYLB9C9865A6Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69XSYLB9C9865A6Y" ;
+    cim:IdentifiedObject.name "Iliomorfon 1 Ltd" ;
+    cim:Names.name "103007769D",
+        "ILIOMOORFON_1",
+        "Producer" ;
+    dcterms:identifier "urn:eic:69XSYLB9C9865A6Y" ;
+    schema1:vatID "103007769D" ;
+    skos:altLabel "ILIOMOORFON_1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Iliomorfon 1 Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

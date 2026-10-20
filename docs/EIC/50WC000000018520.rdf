@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC000000018520</dcterms:identifier>
-    <skos:prefLabel>S Vang     2   LARM Last</skos:prefLabel>
+    <skos:prefLabel>S Vang     2   L1  Forbruk</skos:prefLabel>
     <skos:altLabel>NO-VANG2</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC000000018520</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S Vang     2   LARM Last</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>S Vang     2   L1  Forbruk</cim:IdentifiedObject.name>
     <cim:Names.name>NO-VANG2</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

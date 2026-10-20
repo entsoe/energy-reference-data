@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48WSTN0000LIMKWA",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48WSTN0000LIMKWA",
+    "@skos:prefLabel": "Limekiln Extension Limited",
+    "@skos:altLabel": "LIMKW",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "16 West Borough, Wimborne, Dorset, United Kingdom, BH21 1NG\nFlorent RIGAUD\nflorent.rigaud@boralex.com\n+44 1202 847680\nlimekiln.extension.limited@boralex.com\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48WSTN0000LIMKWA",
+    "@cim:IdentifiedObject.name": "Limekiln Extension Limited",
+    "@cim:Names.name": [
+        "LIMKW",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "16 West Borough, Wimborne, Dorset, United Kingdom, BH21 1NG\nFlorent RIGAUD\nflorent.rigaud@boralex.com\n+44 1202 847680\nlimekiln.extension.limited@boralex.com\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-04-30",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

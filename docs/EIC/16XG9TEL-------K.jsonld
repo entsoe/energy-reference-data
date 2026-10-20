@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:16XG9TEL-------K",
-    "@skos:prefLabel": "G9Telecom, SA",
-    "@skos:altLabel": "G9TELECOM",
+    "@skos:prefLabel": "G9, SA",
+    "@skos:altLabel": "G9",
     "@cim:IdentifiedObject.mRID": "16XG9TEL-------K",
-    "@cim:IdentifiedObject.name": "G9Telecom, SA",
+    "@cim:IdentifiedObject.name": "G9, SA",
     "@cim:Names.name": [
-        "G9TELECOM",
+        "G9",
         "PT504435302",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-06-15",
+    "@cim:DateAndOrTime.date": "2024-06-19",
     "@schema:vatID": "PT504435302",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

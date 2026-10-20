@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002018R",
-    "@skos:prefLabel": "Sør-Norge Aluminium Hall B",
-    "@skos:altLabel": "NO-SORALUHALLB",
+    "@skos:prefLabel": "S Myklebus 2   L1  Forbruk",
+    "@skos:altLabel": "NO-MYKLEBUS2",
     "@cim:IdentifiedObject.mRID": "50WC00000002018R",
-    "@cim:IdentifiedObject.name": "Sør-Norge Aluminium Hall B",
+    "@cim:IdentifiedObject.name": "S Myklebus 2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-SORALUHALLB",
+        "NO-MYKLEBUS2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

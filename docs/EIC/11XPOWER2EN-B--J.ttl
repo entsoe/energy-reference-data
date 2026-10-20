@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XPOWER2EN-B--J" ;
     cim:IdentifiedObject.name "Power2Energy GmbH" ;
-    cim:Names.name "DE283222031",
+    cim:Names.name "Balance Responsible Party",
+        "DE283222031",
         "P2EB" ;
     dcterms:identifier "urn:eic:11XPOWER2EN-B--J" ;
     schema1:vatID "DE283222031" ;

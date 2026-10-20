@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002531E" ;
-    cim:IdentifiedObject.name "S Tegneby 300 AB X" ;
+    cim:IdentifiedObject.name "S Tegneby  300 AB X" ;
     cim:Names.name "Internal Line",
-        "NO-TEGNEBY300ABX" ;
+        "NO-TEGNEBY300AB" ;
     dcterms:identifier "urn:eic:50TL00000002531E" ;
-    skos:altLabel "NO-TEGNEBY300ABX" ;
+    skos:altLabel "NO-TEGNEBY300AB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Tegneby 300 AB X" ;
+    skos:prefLabel "S Tegneby  300 AB X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

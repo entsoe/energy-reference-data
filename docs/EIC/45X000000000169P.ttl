@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-23" ;
+    cim:DateAndOrTime.date "2024-09-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45X000000000169P" ;
     cim:IdentifiedObject.name "Eio Energi ApS" ;
-    cim:Names.name "43423320",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
+        "DK43423320",
         "EIOENRGY" ;
     dcterms:identifier "urn:eic:45X000000000169P" ;
-    schema1:vatID "43423320" ;
+    schema1:vatID "DK43423320" ;
     skos:altLabel "EIOENRGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Eio Energi ApS" ;

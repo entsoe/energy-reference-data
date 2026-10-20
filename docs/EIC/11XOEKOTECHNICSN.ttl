@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XOEKOTECHNICSN" ;
     cim:IdentifiedObject.name "Ökotechnics GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE280725458",
-        "OEKOTECHNICS" ;
+    cim:Names.name "DE280725458",
+        "OEKOTECHNICS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XOEKOTECHNICSN" ;
     schema1:vatID "DE280725458" ;
     skos:altLabel "OEKOTECHNICS" ;

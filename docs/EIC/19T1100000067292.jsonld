@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067292",
-    "@skos:prefLabel": "Kozienice-Rożki 1",
+    "@skos:prefLabel": "220kV Kozienice-Rozki 1",
     "@skos:altLabel": "2403",
     "@cim:IdentifiedObject.mRID": "19T1100000067292",
-    "@cim:IdentifiedObject.name": "Kozienice-Rożki 1",
+    "@cim:IdentifiedObject.name": "220kV Kozienice-Rozki 1",
     "@cim:Names.name": [
         "2403",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

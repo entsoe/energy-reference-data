@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000004275" ;
     cim:IdentifiedObject.name "FLESAKERG116 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-FLESAKERG116_" ;
+        "NO-FLESAKERG116" ;
     dcterms:identifier "urn:eic:50WG000000004275" ;
-    skos:altLabel "NO-FLESAKERG116_" ;
+    skos:altLabel "NO-FLESAKERG116" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FLESAKERG116 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

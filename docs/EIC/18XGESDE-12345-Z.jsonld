@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGESDE-12345-Z",
     "@skos:prefLabel": "GESDEGAS, S.L.",
     "@skos:altLabel": "GESDE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGESDE-12345-Z",
     "@cim:IdentifiedObject.name": "GESDEGAS, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB81594855",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-10",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB81594855",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

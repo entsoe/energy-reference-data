@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TLI00000029225",
-    "@skos:prefLabel": "S 66 Heggmyrane-Leirdøla",
-    "@skos:altLabel": "NO-HEGGMYRANELEI",
+    "@skos:prefLabel": "S 66 Heggmyrane-Fonndøla",
+    "@skos:altLabel": "NO-66HEGGMYRANEF",
     "@cim:IdentifiedObject.mRID": "50TLI00000029225",
-    "@cim:IdentifiedObject.name": "S 66 Heggmyrane-Leirdøla",
+    "@cim:IdentifiedObject.name": "S 66 Heggmyrane-Fonndøla",
     "@cim:Names.name": [
-        "NO-HEGGMYRANELEI",
+        "NO-66HEGGMYRANEF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

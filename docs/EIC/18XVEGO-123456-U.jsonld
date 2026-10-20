@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVEGO-123456-U",
     "@skos:prefLabel": "VEGO SUPERMERCADOS .S.A.",
     "@skos:altLabel": "VEGO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVEGO-123456-U",
     "@cim:IdentifiedObject.name": "VEGO SUPERMERCADOS .S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA36651313",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-21",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA36651313",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

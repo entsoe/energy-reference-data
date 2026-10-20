@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004583T",
-    "@skos:prefLabel": "S Berger   TS Transformator",
-    "@skos:altLabel": "NO-BERGER__TS",
+    "@skos:prefLabel": "S Berger   T3 Transformator",
+    "@skos:altLabel": "NO-BERGERT3",
     "@cim:IdentifiedObject.mRID": "50TT00000004583T",
-    "@cim:IdentifiedObject.name": "S Berger   TS Transformator",
+    "@cim:IdentifiedObject.name": "S Berger   T3 Transformator",
     "@cim:Names.name": [
-        "NO-BERGER__TS",
+        "NO-BERGERT3",
         "Transformer"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

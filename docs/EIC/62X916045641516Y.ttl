@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X916045641516Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X916045641516Y" ;
+    cim:IdentifiedObject.name "AZBOL ENERGY LIMITED LIABILITY COMPANY" ;
+    cim:Names.name "463664726575",
+        "AZBOL_ENERGY_LLC",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:62X916045641516Y" ;
+    schema1:vatID "463664726575" ;
+    skos:altLabel "AZBOL_ENERGY_LLC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AZBOL ENERGY LIMITED LIABILITY COMPANY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

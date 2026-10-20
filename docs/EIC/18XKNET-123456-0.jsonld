@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XKNET-123456-0",
     "@skos:prefLabel": "Knet Comunicaciones, S.L.",
     "@skos:altLabel": "KNET",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XKNET-123456-0",
     "@cim:IdentifiedObject.name": "Knet Comunicaciones, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB26266106",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-05-12",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB26266106",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

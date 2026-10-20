@@ -9,7 +9,7 @@
     cim:AttributeInstanceComponent.attribute "International" ;
     cim:DateAndOrTime.date "2023-05-03" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr    Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net) " ;
+    cim:IdentifiedObject.description "Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr 		 Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net)	" ;
     cim:IdentifiedObject.mRID "29X10001000100TQ" ;
     cim:IdentifiedObject.name "SYMPOWER GREECE ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ" ;
     cim:Names.name "Balance Responsible Party",
@@ -19,7 +19,7 @@
     dcterms:identifier "urn:eic:29X10001000100TQ" ;
     schema1:vatID "EL801627226" ;
     skos:altLabel "SYMPOWERGR" ;
-    skos:definition "Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr    Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net) "@en ;
+    skos:definition "Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr 		 Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net)	"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SYMPOWER GREECE ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

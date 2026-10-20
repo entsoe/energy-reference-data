@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XRW_WUERMTAL-J" ;
     cim:IdentifiedObject.name "Regionalwerk Würmtal GmbH & Co. KG" ;
-    cim:Names.name "DE281621823",
-        "RW_WUERMTAL",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE281621823",
+        "RW_WUERMTAL" ;
     dcterms:identifier "urn:eic:11XRW_WUERMTAL-J" ;
     schema1:vatID "DE281621823" ;
     skos:altLabel "RW_WUERMTAL" ;

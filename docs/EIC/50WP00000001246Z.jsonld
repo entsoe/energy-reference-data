@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001246Z",
-    "@skos:prefLabel": "Nibbedal",
-    "@skos:altLabel": "NO-NIBBEDAL_PL",
+    "@skos:prefLabel": "Nibbedalen",
+    "@skos:altLabel": "NO-NIBBEDALEN",
     "@cim:IdentifiedObject.mRID": "50WP00000001246Z",
-    "@cim:IdentifiedObject.name": "Nibbedal",
+    "@cim:IdentifiedObject.name": "Nibbedalen",
     "@cim:Names.name": [
-        "NO-NIBBEDAL_PL",
+        "NO-NIBBEDALEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-08-22",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

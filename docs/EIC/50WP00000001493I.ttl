@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001493I" ;
-    cim:IdentifiedObject.name "Sørfjord" ;
-    cim:Names.name "NO-SORFJORD_PL",
+    cim:IdentifiedObject.name "Sørfjord3" ;
+    cim:Names.name "NO-SORFJORD3",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001493I" ;
-    skos:altLabel "NO-SORFJORD_PL" ;
+    skos:altLabel "NO-SORFJORD3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sørfjord" ;
+    skos:prefLabel "Sørfjord3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

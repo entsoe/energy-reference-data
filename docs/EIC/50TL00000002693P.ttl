@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002693P" ;
-    cim:IdentifiedObject.name "M 22 Grytten-Herje" ;
+    cim:IdentifiedObject.name "N 22 Grytten-Herje" ;
     cim:Names.name "Internal Line",
-        "NO-GRYTTENHERJE" ;
+        "NO-22GRYTTENHERJ" ;
     dcterms:identifier "urn:eic:50TL00000002693P" ;
-    skos:altLabel "NO-GRYTTENHERJE" ;
+    skos:altLabel "NO-22GRYTTENHERJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Grytten-Herje" ;
+    skos:prefLabel "N 22 Grytten-Herje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

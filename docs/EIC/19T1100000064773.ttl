@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000064773" ;
-    cim:IdentifiedObject.name "Bieruń-A2" ;
+    cim:IdentifiedObject.name "220/110kV Bierun AT2" ;
     cim:Names.name "BIR-A2",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T1100000064773" ;
     skos:altLabel "BIR-A2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bieruń-A2" ;
+    skos:prefLabel "220/110kV Bierun AT2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

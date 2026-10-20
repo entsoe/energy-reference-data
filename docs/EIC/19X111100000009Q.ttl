@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000009Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000009Q" ;
+    cim:IdentifiedObject.name "ENERGY SOLAR 43 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "A0022804D.PL",
+        "Consumer",
+        "ES43",
+        "PL5252806194",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19X111100000009Q" ;
+    schema1:vatID "PL5252806194" ;
+    skos:altLabel "ES43" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENERGY SOLAR 43 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

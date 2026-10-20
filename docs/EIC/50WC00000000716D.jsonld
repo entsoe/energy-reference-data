@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000716D",
-    "@skos:prefLabel": "M Støren   66  Forbruk",
-    "@skos:altLabel": "NO-STOREN66",
+    "@skos:prefLabel": "N Støren   66  RT1 Forbruk",
+    "@skos:altLabel": "NO-STOREN66RT1",
     "@cim:IdentifiedObject.mRID": "50WC00000000716D",
-    "@cim:IdentifiedObject.name": "M Støren   66  Forbruk",
+    "@cim:IdentifiedObject.name": "N Støren   66  RT1 Forbruk",
     "@cim:Names.name": [
-        "NO-STOREN66",
+        "NO-STOREN66RT1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

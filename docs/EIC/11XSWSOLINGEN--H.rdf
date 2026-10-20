@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XSWSOLINGEN--H</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Solingen GmbH</skos:prefLabel>
     <skos:altLabel>SWSOLINGEN</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWSOLINGEN--H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Solingen GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWSOLINGEN</cim:Names.name>
     <cim:Names.name>DE174657710</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-03-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-24</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE174657710</schema:vatID>

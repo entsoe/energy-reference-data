@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000003OB</dcterms:identifier>
     <skos:prefLabel>TOSTADOS DE CALIDAD S.L</skos:prefLabel>
     <skos:altLabel>TOSTA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000003OB</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>TOSTADOS DE CALIDAD S.L</cim:IdentifiedObject.name>
     <cim:Names.name>TOSTA</cim:Names.name>
     <cim:Names.name>ESB50610245</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50610245</schema:vatID>

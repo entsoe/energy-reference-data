@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000292G",
-    "@skos:prefLabel": "M 132Grytten-Bø",
-    "@skos:altLabel": "NO-GRYTTENBO",
+    "@skos:prefLabel": "N 132Grytten-Bø",
+    "@skos:altLabel": "NO-132GRYTTENBO",
     "@cim:IdentifiedObject.mRID": "50TL00000000292G",
-    "@cim:IdentifiedObject.name": "M 132Grytten-Bø",
+    "@cim:IdentifiedObject.name": "N 132Grytten-Bø",
     "@cim:Names.name": [
-        "NO-GRYTTENBO",
+        "NO-132GRYTTENBO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

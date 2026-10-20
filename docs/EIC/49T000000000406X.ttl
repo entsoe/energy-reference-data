@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000406X" ;
-    cim:IdentifiedObject.name "Gennep 150kV-Gennep 10kV (TR2)" ;
-    cim:Names.name "GENN-BMR150-Z",
+    cim:IdentifiedObject.name "Boxmeer-Gennep 150 kV Zwart" ;
+    cim:Names.name "BMR-GENN150-Z",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000406X" ;
-    skos:altLabel "GENN-BMR150-Z" ;
+    skos:altLabel "BMR-GENN150-Z" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Gennep 150kV-Gennep 10kV (TR2)" ;
+    skos:prefLabel "Boxmeer-Gennep 150 kV Zwart" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

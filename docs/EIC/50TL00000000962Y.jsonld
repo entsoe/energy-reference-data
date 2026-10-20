@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000962Y",
-    "@skos:prefLabel": "M 22 Sundsfjord-Reinskar",
-    "@skos:altLabel": "NO-SUNDSFJORDREI",
+    "@skos:prefLabel": "N 22 Sundsfjord-Reinskar",
+    "@skos:altLabel": "NO-22SUNDSFJORDR",
     "@cim:IdentifiedObject.mRID": "50TL00000000962Y",
-    "@cim:IdentifiedObject.name": "M 22 Sundsfjord-Reinskar",
+    "@cim:IdentifiedObject.name": "N 22 Sundsfjord-Reinskar",
     "@cim:Names.name": [
-        "NO-SUNDSFJORDREI",
+        "NO-22SUNDSFJORDR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

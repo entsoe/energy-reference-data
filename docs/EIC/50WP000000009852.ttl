@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000009852" ;
     cim:IdentifiedObject.name "Boris Gleb" ;
-    cim:Names.name "NO-BORIS_GL_PL",
+    cim:Names.name "NO-BORIS_GL",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000009852" ;
-    skos:altLabel "NO-BORIS_GL_PL" ;
+    skos:altLabel "NO-BORIS_GL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Boris Gleb" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-04" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000540N" ;
-    cim:IdentifiedObject.name "Amfitriti" ;
-    cim:Names.name "AMFITRITI",
+    cim:IdentifiedObject.name "AMFITRITI" ;
+    cim:Names.name "AMFITRITI-GR",
         "Connection Point" ;
     dcterms:identifier "urn:eic:21Z000000000540N" ;
-    skos:altLabel "AMFITRITI" ;
+    skos:altLabel "AMFITRITI-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Amfitriti" ;
+    skos:prefLabel "AMFITRITI" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

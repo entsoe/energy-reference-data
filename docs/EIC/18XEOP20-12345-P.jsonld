@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XEOP20-12345-P",
     "@skos:prefLabel": "ENERGIA OPERATIVA S.L.",
     "@skos:altLabel": "EOP20",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEOP20-12345-P",
     "@cim:IdentifiedObject.name": "ENERGIA OPERATIVA S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB66115338",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-07",
+    "@cim:DateAndOrTime.date": "2026-10-07",
     "@schema:vatID": "ESB66115338",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

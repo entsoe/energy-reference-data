@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-11-28" ;
+    cim:DateAndOrTime.date "2024-10-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "42XLAMAENERGYSKJ" ;
     cim:IdentifiedObject.name "LAMA energy SVK" ;
     cim:Names.name "LAMAENERGYSVK",
-        "SK402029801827",
+        "SK4020298018",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:42XLAMAENERGYSKJ" ;
-    schema1:vatID "SK402029801827" ;
+    schema1:vatID "SK4020298018" ;
     skos:altLabel "LAMAENERGYSVK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "LAMA energy SVK" ;

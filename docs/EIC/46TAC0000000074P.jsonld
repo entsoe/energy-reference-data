@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:46TAC0000000074P",
-    "@skos:prefLabel": "Harsprånget-Porjus",
-    "@skos:altLabel": "HARSPR-PORJUS",
+    "@skos:prefLabel": "Harsprånget-Porjusberget",
+    "@skos:altLabel": "HARSPR-PORJUSBER",
     "@skos:definition": {
         "@language": "en",
         "@value": "Internal Line"
     },
     "@cim:IdentifiedObject.mRID": "46TAC0000000074P",
-    "@cim:IdentifiedObject.name": "Harsprånget-Porjus",
+    "@cim:IdentifiedObject.name": "Harsprånget-Porjusberget",
     "@cim:Names.name": [
-        "HARSPR-PORJUS",
+        "HARSPR-PORJUSBER",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "Internal Line",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-01",
+    "@cim:DateAndOrTime.date": "2025-08-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

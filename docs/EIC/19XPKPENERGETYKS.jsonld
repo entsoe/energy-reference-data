@@ -24,17 +24,13 @@
         "PGE_EK",
         "A0001440U.PL",
         "PL5262542704",
-        "Grid Access Provider",
         "Balance Responsible Party",
-        "Energy Supplier",
-        "Metered Data Responsible",
-        "System Operator",
-        "Meter Administrator"
+        "Energy Supplier"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-16",
+    "@cim:DateAndOrTime.date": "2026-03-09",
     "@schema:vatID": "PL5262542704",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

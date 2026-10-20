@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001007M" ;
-    cim:IdentifiedObject.name "LYSEBOTNG1      HYDRO" ;
+    cim:IdentifiedObject.name "FLESAKERG119 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LYSEBOTNG1___" ;
+        "NO-FLESAKERG119" ;
     dcterms:identifier "urn:eic:50WG00000001007M" ;
-    skos:altLabel "NO-LYSEBOTNG1___" ;
+    skos:altLabel "NO-FLESAKERG119" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LYSEBOTNG1      HYDRO" ;
+    skos:prefLabel "FLESAKERG119 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

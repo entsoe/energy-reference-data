@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:28X0000000000160</dcterms:identifier>
-    <skos:prefLabel>PPD energija, trgovanje z energijo d.o.o.</skos:prefLabel>
-    <skos:altLabel>PPD_ENERGIJA</skos:altLabel>
+    <skos:prefLabel>ENNA Next d.o.o. </skos:prefLabel>
+    <skos:altLabel>SLO-ENNA-NEXT</skos:altLabel>
     <cim:IdentifiedObject.mRID>28X0000000000160</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PPD energija, trgovanje z energijo d.o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>PPD_ENERGIJA</cim:Names.name>
+    <cim:IdentifiedObject.name>ENNA Next d.o.o. </cim:IdentifiedObject.name>
+    <cim:Names.name>SLO-ENNA-NEXT</cim:Names.name>
     <cim:Names.name>SI93039492</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-10-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-01-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SI93039492</schema:vatID>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001633Y" ;
-    cim:IdentifiedObject.name "MOSKOG  G122 HYDRO" ;
+    cim:IdentifiedObject.name "GJESDAL G122 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G122_" ;
+        "NO-GJESDALG122" ;
     dcterms:identifier "urn:eic:50WG00000001633Y" ;
-    skos:altLabel "NO-MOSKOG__G122_" ;
+    skos:altLabel "NO-GJESDALG122" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G122 HYDRO" ;
+    skos:prefLabel "GJESDAL G122 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

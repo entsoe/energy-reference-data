@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-02" ;
+    cim:DateAndOrTime.date "2025-12-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "38X-----FTE072-M" ;
-    cim:IdentifiedObject.name "Fortum Eesti AS" ;
-    cim:Names.name "Balance Responsible Party",
-        "EE101453611",
-        "EE_FORTUMEESTI" ;
+    cim:IdentifiedObject.name "Gren Eesti AS" ;
+    cim:Names.name "12114252",
+        "Balance Responsible Party",
+        "EE_GREN_EESTI" ;
     dcterms:identifier "urn:eic:38X-----FTE072-M" ;
-    schema1:vatID "EE101453611" ;
-    skos:altLabel "EE_FORTUMEESTI" ;
+    schema1:vatID "12114252" ;
+    skos:altLabel "EE_GREN_EESTI" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Fortum Eesti AS" ;
+    skos:prefLabel "Gren Eesti AS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

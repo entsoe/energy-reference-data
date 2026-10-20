@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067721",
-    "@skos:prefLabel": "Glinki-Police",
+    "@skos:prefLabel": "220kV Glinki-Police",
     "@skos:altLabel": "4527",
     "@cim:IdentifiedObject.mRID": "19T1100000067721",
-    "@cim:IdentifiedObject.name": "Glinki-Police",
+    "@cim:IdentifiedObject.name": "220kV Glinki-Police",
     "@cim:Names.name": [
         "4527",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

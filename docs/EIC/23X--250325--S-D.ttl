@@ -1,0 +1,31 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250325--S-D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registered in Toronto, Canada
+Company registration number: GIIN: 6XG0CI.00000.LE.124
+Confirmed with W-8BEN-E form
+TIN number confirmed with W-8BEN-E form""" ;
+    cim:IdentifiedObject.mRID "23X--250325--S-D" ;
+    cim:IdentifiedObject.name "The Bank of Nova Scotia" ;
+    cim:Names.name "BANK_NOVA_SCOTIA",
+        "BN105195598RC0001",
+        "Balance Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--250325--S-D" ;
+    schema1:vatID "BN105195598RC0001" ;
+    skos:altLabel "BANK_NOVA_SCOTIA" ;
+    skos:definition """Company registered in Toronto, Canada
+Company registration number: GIIN: 6XG0CI.00000.LE.124
+Confirmed with W-8BEN-E form
+TIN number confirmed with W-8BEN-E form"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "The Bank of Nova Scotia" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

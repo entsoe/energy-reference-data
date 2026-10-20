@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-12" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRELAX-------N" ;
     cim:IdentifiedObject.name "Optimization Engineers GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE230829248",
         "OPTENG" ;
     dcterms:identifier "urn:eic:11XRELAX-------N" ;
     schema1:vatID "DE230829248" ;
     skos:altLabel "OPTENG" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Optimization Engineers GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

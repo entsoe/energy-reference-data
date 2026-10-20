@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000462J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48X000000000462J" ;
+    cim:IdentifiedObject.name "Orsted ICENI ESS (UK) Limited" ;
+    cim:Names.name "GB429856254",
+        "ORSTED_ICENI",
+        "Storage System Operator" ;
+    dcterms:identifier "urn:eic:48X000000000462J" ;
+    schema1:vatID "GB429856254" ;
+    skos:altLabel "ORSTED_ICENI" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Orsted ICENI ESS (UK) Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

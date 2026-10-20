@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000026285" ;
     cim:IdentifiedObject.name "N 132 Larseng-Vikran Kabel 2" ;
     cim:Names.name "Internal Line",
-        "NO-LARSENGVIKRA2" ;
+        "NO-132LARSEN_KA2" ;
     dcterms:identifier "urn:eic:50TLI00000026285" ;
-    skos:altLabel "NO-LARSENGVIKRA2" ;
+    skos:altLabel "NO-132LARSEN_KA2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Larseng-Vikran Kabel 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

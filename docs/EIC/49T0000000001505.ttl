@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-04-12" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T0000000001505" ;
-    cim:IdentifiedObject.name "Eemshaven Oude Schip - Eemshaven Synergieweg zwart 380kV" ;
-    cim:Names.name "EOS-EHS380-Z",
+    cim:IdentifiedObject.name "Eemshaven Synergieweg-Eemshaven Oude Schip Zwart" ;
+    cim:Names.name "EHS-EOS380-Z",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T0000000001505" ;
-    skos:altLabel "EOS-EHS380-Z" ;
+    skos:altLabel "EHS-EOS380-Z" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Eemshaven Oude Schip - Eemshaven Synergieweg zwart 380kV" ;
+    skos:prefLabel "Eemshaven Synergieweg-Eemshaven Oude Schip Zwart" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

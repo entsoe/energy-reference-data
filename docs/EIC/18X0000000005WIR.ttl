@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-09-06" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X0000000005WIR" ;
-    cim:IdentifiedObject.name "Drago Renovables S.L." ;
+    cim:IdentifiedObject.name "DRAGO RENOVABLES, S.L." ;
     cim:Names.name "ESB38921904",
         "LLANOS",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18X0000000005WIR" ;
     schema1:vatID "ESB38921904" ;
     skos:altLabel "LLANOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Drago Renovables S.L." ;
+    skos:prefLabel "DRAGO RENOVABLES, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

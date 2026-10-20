@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2026-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000000727S" ;
-    cim:IdentifiedObject.name "Kvænangen" ;
+    cim:IdentifiedObject.name "Kvænangsbotn" ;
     cim:Names.name "NO-KVANANGE",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000000727S" ;
     skos:altLabel "NO-KVANANGE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kvænangen" ;
+    skos:prefLabel "Kvænangsbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

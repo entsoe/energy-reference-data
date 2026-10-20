@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53ZPL0000391522U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53ZPL0000391522U" ;
+    cim:IdentifiedObject.name "Zakłady Przemysłu Cukierniczego MIESZKO" ;
+    cim:Names.name "391522_ZPC-MIESZ",
+        "Connection Point" ;
+    dcterms:identifier "urn:eic:53ZPL0000391522U" ;
+    skos:altLabel "391522_ZPC-MIESZ" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Zakłady Przemysłu Cukierniczego MIESZKO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

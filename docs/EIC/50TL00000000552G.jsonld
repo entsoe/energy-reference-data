@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000552G",
-    "@skos:prefLabel": "M 132 Orkdal-Grana1",
-    "@skos:altLabel": "NO-ORKDALGRANA1",
+    "@skos:prefLabel": "N 132 Orkdal-Grana1",
+    "@skos:altLabel": "NO-132ORKDARANA1",
     "@cim:IdentifiedObject.mRID": "50TL00000000552G",
-    "@cim:IdentifiedObject.name": "M 132 Orkdal-Grana1",
+    "@cim:IdentifiedObject.name": "N 132 Orkdal-Grana1",
     "@cim:Names.name": [
-        "NO-ORKDALGRANA1",
+        "NO-132ORKDARANA1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

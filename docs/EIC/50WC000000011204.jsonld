@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000011204",
-    "@skos:prefLabel": "S Krogstad 66  Forbruk",
-    "@skos:altLabel": "NO-KROGSTAD66",
+    "@skos:prefLabel": "S Krogstad 66  T1 Forbruk",
+    "@skos:altLabel": "NO-KROGSTAD66T1",
     "@cim:IdentifiedObject.mRID": "50WC000000011204",
-    "@cim:IdentifiedObject.name": "S Krogstad 66  Forbruk",
+    "@cim:IdentifiedObject.name": "S Krogstad 66  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-KROGSTAD66",
+        "NO-KROGSTAD66T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

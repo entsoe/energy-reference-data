@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50YOD8P6ANDMGD-F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50YOD8P6ANDMGD-F" ;
+    cim:IdentifiedObject.name "SFold2" ;
+    cim:Names.name "Metering Grid Area",
+        "NO_SFOLD2" ;
+    dcterms:identifier "urn:eic:50YOD8P6ANDMGD-F" ;
+    skos:altLabel "NO_SFOLD2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SFold2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

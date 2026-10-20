@@ -16,7 +16,10 @@
     "@skos:altLabel": "DV-400-MAR-POD-1",
     "@cim:IdentifiedObject.mRID": "28T-0000000214-N",
     "@cim:IdentifiedObject.name": "DV 400 kV Maribor-Podlog",
-    "@cim:Names.name": "DV-400-MAR-POD-1",
+    "@cim:Names.name": [
+        "DV-400-MAR-POD-1",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-04-23",

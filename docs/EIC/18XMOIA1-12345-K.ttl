@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XMOIA1-12345-K" ;
     cim:IdentifiedObject.name "ESCORXADOR COMARCAL DEL MOIANES" ;
-    cim:Names.name "Consumption Responsible Party",
-        "ESA60014651",
-        "MOIA1" ;
+    cim:Names.name "ESA60014651",
+        "MOIA1",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:18XMOIA1-12345-K" ;
     schema1:vatID "ESA60014651" ;
     skos:altLabel "MOIA1" ;

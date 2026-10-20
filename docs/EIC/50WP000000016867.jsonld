@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP000000016867",
-    "@skos:prefLabel": "Reidøla",
-    "@skos:altLabel": "NO-REIDOLA_PL",
+    "@skos:prefLabel": "Ridøla",
+    "@skos:altLabel": "NO-RIDOELA",
     "@cim:IdentifiedObject.mRID": "50WP000000016867",
-    "@cim:IdentifiedObject.name": "Reidøla",
+    "@cim:IdentifiedObject.name": "Ridøla",
     "@cim:Names.name": [
-        "NO-REIDOLA_PL",
+        "NO-RIDOELA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-04-16" ;
+    cim:DateAndOrTime.date "2026-09-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XSW-LB-------D" ;
     cim:IdentifiedObject.name "Stadtwerke Ludwigsburg-Kornwestheim GmbH" ;
     cim:Names.name "Balance Responsible Party",
-        "DE146130983",
+        "DE201801311",
         "SWLUDWIGSBURG" ;
     dcterms:identifier "urn:eic:11XSW-LB-------D" ;
-    schema1:vatID "DE146130983" ;
+    schema1:vatID "DE201801311" ;
     skos:altLabel "SWLUDWIGSBURG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Ludwigsburg-Kornwestheim GmbH" ;

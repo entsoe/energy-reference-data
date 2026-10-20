@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000325M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000325M" ;
+    cim:IdentifiedObject.name "Tekniska verken i Katrineholm Nät AB" ;
+    cim:Names.name "Grid Operator",
+        "SE556426858801",
+        "TEKNISKA_V_KATR" ;
+    dcterms:identifier "urn:eic:46X000000000325M" ;
+    schema1:vatID "SE556426858801" ;
+    skos:altLabel "TEKNISKA_V_KATR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Tekniska verken i Katrineholm Nät AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

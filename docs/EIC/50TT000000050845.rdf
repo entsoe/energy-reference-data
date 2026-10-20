@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TT000000050845</dcterms:identifier>
-    <skos:prefLabel>N Kanstadb T1 Transformator</skos:prefLabel>
-    <skos:altLabel>NO-KANSTADBT1</skos:altLabel>
+    <skos:prefLabel>N Kanstadb T1G Transformator</skos:prefLabel>
+    <skos:altLabel>NO-KANSTADBT1G</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TT000000050845</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>N Kanstadb T1 Transformator</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-KANSTADBT1</cim:Names.name>
+    <cim:IdentifiedObject.name>N Kanstadb T1G Transformator</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-KANSTADBT1G</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-06</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

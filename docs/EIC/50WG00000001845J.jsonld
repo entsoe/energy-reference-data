@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001845J",
     "@skos:prefLabel": "TAFJORD1G2      HYDRO",
-    "@skos:altLabel": "NO-TAFJORD1G2___",
+    "@skos:altLabel": "NO-TAFJORD1G2",
     "@cim:IdentifiedObject.mRID": "50WG00000001845J",
     "@cim:IdentifiedObject.name": "TAFJORD1G2      HYDRO",
     "@cim:Names.name": [
-        "NO-TAFJORD1G2___",
+        "NO-TAFJORD1G2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

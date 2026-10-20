@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XEON-123456-64",
-    "@skos:prefLabel": "E.ON Sales TRADING GmbH",
+    "@skos:prefLabel": "UNIPER GLOBAL COMMODITIES SE",
     "@skos:altLabel": "EON",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEON-123456-64",
-    "@cim:IdentifiedObject.name": "E.ON Sales TRADING GmbH",
+    "@cim:IdentifiedObject.name": "UNIPER GLOBAL COMMODITIES SE",
     "@cim:Names.name": [
         "EON",
         "DE192205313",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
-    "@cim:Document.docStatus": "A03",
+    "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-13",
+    "@cim:DateAndOrTime.date": "2025-05-21",
     "@schema:vatID": "DE192205313",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

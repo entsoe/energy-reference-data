@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001828D</dcterms:identifier>
     <skos:prefLabel>Kvitfjell North Vindpark</skos:prefLabel>
-    <skos:altLabel>NO-KVITFJELL_V_N</skos:altLabel>
+    <skos:altLabel>NO-KVITFJEL_VK_N</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001828D</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Kvitfjell North Vindpark</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-KVITFJELL_V_N</cim:Names.name>
+    <cim:Names.name>NO-KVITFJEL_VK_N</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

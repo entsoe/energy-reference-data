@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38T-L346-------K",
-    "@skos:prefLabel": "Paide-Sopi",
-    "@skos:altLabel": "PAIDE_SOPI",
+    "@skos:prefLabel": "L346 Mustaru-Sopi",
+    "@skos:altLabel": "L346_MUSTARU_SOP",
     "@cim:IdentifiedObject.mRID": "38T-L346-------K",
-    "@cim:IdentifiedObject.name": "Paide-Sopi",
+    "@cim:IdentifiedObject.name": "L346 Mustaru-Sopi",
     "@cim:Names.name": [
-        "PAIDE_SOPI",
+        "L346_MUSTARU_SOP",
         "Internal Tie-Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-17",
+    "@cim:DateAndOrTime.date": "2026-09-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

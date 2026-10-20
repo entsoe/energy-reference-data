@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-11-02" ;
+    cim:DateAndOrTime.date "2026-02-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Aluminum Smelter." ;
     cim:IdentifiedObject.mRID "35XKOMBALUMPODGS" ;
-    cim:IdentifiedObject.name "KOMBINAT ALUMINIJUMA PODGORICA" ;
+    cim:IdentifiedObject.name "UNIPROM KAP d.o.o." ;
     cim:Names.name "02983133",
         "Balance Responsible Party",
         "Consumption Responsible Party",
@@ -21,6 +21,6 @@
     skos:altLabel "KOMBALUMPODG" ;
     skos:definition "Aluminum Smelter."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KOMBINAT ALUMINIJUMA PODGORICA" ;
+    skos:prefLabel "UNIPROM KAP d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005930T",
     "@skos:prefLabel": "S Tokke    T3 Transformator",
-    "@skos:altLabel": "NO-TOKKE___T3",
+    "@skos:altLabel": "NO-TOKKET3",
     "@cim:IdentifiedObject.mRID": "50TT00000005930T",
     "@cim:IdentifiedObject.name": "S Tokke    T3 Transformator",
     "@cim:Names.name": [
-        "NO-TOKKE___T3",
+        "NO-TOKKET3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

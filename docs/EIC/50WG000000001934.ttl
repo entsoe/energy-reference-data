@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000001934" ;
-    cim:IdentifiedObject.name "BRANDHOLG102 HYDRO" ;
+    cim:IdentifiedObject.name "TUNNSJODG102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BRANDHOLG102_" ;
+        "NO-TUNNSJODG102" ;
     dcterms:identifier "urn:eic:50WG000000001934" ;
-    skos:altLabel "NO-BRANDHOLG102_" ;
+    skos:altLabel "NO-TUNNSJODG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BRANDHOLG102 HYDRO" ;
+    skos:prefLabel "TUNNSJODG102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

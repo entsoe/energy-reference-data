@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XKONRY-12345-5",
     "@skos:prefLabel": "KONERY EFICIENCIA ENERGETICA, S.L.",
     "@skos:altLabel": "KONRY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XKONRY-12345-5",
     "@cim:IdentifiedObject.name": "KONERY EFICIENCIA ENERGETICA, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB73704405",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB73704405",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

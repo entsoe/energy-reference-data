@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002541Y" ;
-    cim:IdentifiedObject.name "VRANGFOSG105 HYDRO" ;
+    cim:IdentifiedObject.name "ULEFOSS G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-VRANGFOSG105_" ;
+        "NO-ULEFOSSG105" ;
     dcterms:identifier "urn:eic:50WG00000002541Y" ;
-    skos:altLabel "NO-VRANGFOSG105_" ;
+    skos:altLabel "NO-ULEFOSSG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VRANGFOSG105 HYDRO" ;
+    skos:prefLabel "ULEFOSS G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,23 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000ERGAX",
-    "@skos:prefLabel": "Energomedia Sp. z o.o.",
+    "@skos:prefLabel": "ORLEN Energomedia Operator sp. z o.o.",
     "@skos:altLabel": "ENERGOMEDIA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Distribution System Operator, Network User, Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "53XPL000000ERGAX",
-    "@cim:IdentifiedObject.name": "Energomedia Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "ORLEN Energomedia Operator sp. z o.o.",
     "@cim:Names.name": [
         "ENERGOMEDIA",
         "PL6281875399",
-        "Trade Responsible Party"
+        "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
-    "@cim:IdentifiedObject.description": "Distribution System Operator, Network User, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-21",
+    "@cim:DateAndOrTime.date": "2026-04-01",
     "@schema:vatID": "PL6281875399",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

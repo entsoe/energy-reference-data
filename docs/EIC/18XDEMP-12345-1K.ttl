@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
+    cim:DateAndOrTime.date "2024-03-22" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18XDEMP-12345-1K" ;
-    cim:IdentifiedObject.name "Desarrollos Eólicos Manchegos el Pinar, S.L.U." ;
+    cim:IdentifiedObject.name "DESARROLLOS EÓLICOS MANCHEGOS EL PINAR, S.L.U." ;
     cim:Names.name "DEMP",
         "ESB02310183",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XDEMP-12345-1K" ;
     schema1:vatID "ESB02310183" ;
     skos:altLabel "DEMP" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Desarrollos Eólicos Manchegos el Pinar, S.L.U." ;
+    skos:prefLabel "DESARROLLOS EÓLICOS MANCHEGOS EL PINAR, S.L.U." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

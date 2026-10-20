@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23X--150519-TS-J</dcterms:identifier>
-    <skos:prefLabel>Tampereen S&#228;hk&#246;laitos Oy</skos:prefLabel>
-    <skos:altLabel>TAMPEREEN_S</skos:altLabel>
+    <skos:prefLabel>Tampereen Energia Oy</skos:prefLabel>
+    <skos:altLabel>TAMPEREEN_ENER</skos:altLabel>
     <skos:definition xml:lang="en">Producer</skos:definition>
     <cim:IdentifiedObject.mRID>23X--150519-TS-J</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Tampereen S&#228;hk&#246;laitos Oy</cim:IdentifiedObject.name>
-    <cim:Names.name>TAMPEREEN_S</cim:Names.name>
+    <cim:IdentifiedObject.name>Tampereen Energia Oy</cim:IdentifiedObject.name>
+    <cim:Names.name>TAMPEREEN_ENER</cim:Names.name>
     <cim:Names.name>FI01537918</cim:Names.name>
     <cim:IdentifiedObject.description>Producer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-05-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-08</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FI01537918</schema:vatID>

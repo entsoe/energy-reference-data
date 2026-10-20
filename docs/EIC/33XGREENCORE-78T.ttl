@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2026-02-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "33XGREENCORE-78T" ;
-    cim:IdentifiedObject.name "Grinkor trejd DOO uvoz-izvoz Gevgelija" ;
+    cim:IdentifiedObject.name "GREENCORE TRADE LLC import-export Gevgelija" ;
     cim:Names.name "4006023519057",
         "GCTDOO",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "4006023519057" ;
     skos:altLabel "GCTDOO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Grinkor trejd DOO uvoz-izvoz Gevgelija" ;
+    skos:prefLabel "GREENCORE TRADE LLC import-export Gevgelija" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

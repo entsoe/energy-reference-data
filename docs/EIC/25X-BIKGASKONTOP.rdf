@@ -6,15 +6,15 @@
     <dcterms:identifier>urn:eic:25X-BIKGASKONTOP</dcterms:identifier>
     <skos:prefLabel>BGK Gas GmbH</skos:prefLabel>
     <skos:altLabel>EH</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
+    <skos:definition xml:lang="en">Consumption Responsible Party; Update missing EIC function in CIO Tool </skos:definition>
     <cim:IdentifiedObject.mRID>25X-BIKGASKONTOP</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>BGK Gas GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EH</cim:Names.name>
     <cim:Names.name>ATU66836506</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Consumption Responsible Party; Update missing EIC function in CIO Tool </cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-09-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-10</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ATU66836506</schema:vatID>

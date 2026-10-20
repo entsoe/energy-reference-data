@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-01-19" ;
+    cim:DateAndOrTime.date "2024-09-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWSCHKEUD---F" ;
     cim:IdentifiedObject.name "Stadtwerke Schkeuditz GmbH" ;
-    cim:Names.name "23712000104",
-        "Balance Group",
+    cim:Names.name "Balance Responsible Party",
+        "DE157382630",
         "SWSCHKEUDITZ" ;
     dcterms:identifier "urn:eic:11XSWSCHKEUD---F" ;
-    schema1:vatID "23712000104" ;
+    schema1:vatID "DE157382630" ;
     skos:altLabel "SWSCHKEUDITZ" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Schkeuditz GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

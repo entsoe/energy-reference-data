@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000541M" ;
-    cim:IdentifiedObject.name "S Saurdal  22  A Forbruk" ;
+    cim:IdentifiedObject.name "S Saurdal  22  La1 Forbruk" ;
     cim:Names.name "Load",
         "NO-SAURDAL22A" ;
     dcterms:identifier "urn:eic:50WC00000000541M" ;
     skos:altLabel "NO-SAURDAL22A" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Saurdal  22  A Forbruk" ;
+    skos:prefLabel "S Saurdal  22  La1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

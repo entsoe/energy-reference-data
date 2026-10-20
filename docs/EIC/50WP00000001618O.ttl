@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001618O" ;
     cim:IdentifiedObject.name "Vika-Forsand" ;
-    cim:Names.name "NO-VIKA-FORSAND_",
+    cim:Names.name "NO-VIKA_FORSAND",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001618O" ;
-    skos:altLabel "NO-VIKA-FORSAND_" ;
+    skos:altLabel "NO-VIKA_FORSAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vika-Forsand" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

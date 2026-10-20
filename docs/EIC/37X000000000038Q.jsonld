@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000038Q",
-    "@skos:prefLabel": "Energienetze Bayern GmbH & Co. KG",
-    "@skos:altLabel": "ENERGIENETZEBAYE",
+    "@skos:prefLabel": "ENERGIENETZE BAYERN",
+    "@skos:altLabel": "ENERGIENETZE",
     "@skos:definition": {
         "@language": "en",
         "@value": "Grid Operator"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000038Q",
-    "@cim:IdentifiedObject.name": "Energienetze Bayern GmbH & Co. KG",
+    "@cim:IdentifiedObject.name": "ENERGIENETZE BAYERN",
     "@cim:Names.name": [
-        "ENERGIENETZEBAYE",
+        "ENERGIENETZE",
         "DE251731173",
         "Grid Operator"
     ],
     "@cim:IdentifiedObject.description": "Grid Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-02-12",
+    "@cim:DateAndOrTime.date": "2026-03-05",
     "@schema:vatID": "DE251731173",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

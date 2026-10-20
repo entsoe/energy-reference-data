@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T0000000010512> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49T0000000010512" ;
+    cim:IdentifiedObject.name "Wijk aan Zee - Beverwijk 380 kV Rood" ;
+    cim:Names.name "Internal Line",
+        "WAZ-BVW380-R" ;
+    dcterms:identifier "urn:eic:49T0000000010512" ;
+    skos:altLabel "WAZ-BVW380-R" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Wijk aan Zee - Beverwijk 380 kV Rood" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

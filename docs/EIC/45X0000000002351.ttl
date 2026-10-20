@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X0000000002351> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Need a new EIC for their Danish business" ;
+    cim:IdentifiedObject.mRID "45X0000000002351" ;
+    cim:IdentifiedObject.name "Checkwatt AB" ;
+    cim:Names.name "13311625",
+        "Balance Responsible Party",
+        "Balancing Service Provider",
+        "CHECKWATT_DK" ;
+    dcterms:identifier "urn:eic:45X0000000002351" ;
+    schema1:vatID "13311625" ;
+    skos:altLabel "CHECKWATT_DK" ;
+    skos:definition "Need a new EIC for their Danish business"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Checkwatt AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

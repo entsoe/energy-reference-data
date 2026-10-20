@@ -10,14 +10,15 @@
     <cim:IdentifiedObject.mRID>52X000000000101E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Eagle Seven Europe B.V.</cim:IdentifiedObject.name>
     <cim:Names.name>EAGLE_SEVEN_EU</cim:Names.name>
-    <cim:Names.name>862436722B01</cim:Names.name>
+    <cim:Names.name>NL862436722B01</cim:Names.name>
     <cim:IdentifiedObject.description>Capacity Trader Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-08-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-07-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>862436722B01</schema:vatID>
+    <schema:vatID>NL862436722B01</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

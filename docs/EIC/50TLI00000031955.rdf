@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TLI00000031955</dcterms:identifier>
     <skos:prefLabel>S &#216;vre &#197;rdal 132 T7 X</skos:prefLabel>
-    <skos:altLabel>NO-OVREARD132T7X</skos:altLabel>
+    <skos:altLabel>NO-OVREARD132T7</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TLI00000031955</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S &#216;vre &#197;rdal 132 T7 X</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-OVREARD132T7X</cim:Names.name>
+    <cim:Names.name>NO-OVREARD132T7</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000019000" ;
     cim:IdentifiedObject.name "TONSTAD G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TONSTAD_G1___" ;
+        "NO-TONSTADG1" ;
     dcterms:identifier "urn:eic:50WG000000019000" ;
-    skos:altLabel "NO-TONSTAD_G1___" ;
+    skos:altLabel "NO-TONSTADG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TONSTAD G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

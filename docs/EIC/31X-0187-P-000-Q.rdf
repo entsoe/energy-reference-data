@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:31X-0187-P-000-Q</dcterms:identifier>
-    <skos:prefLabel>LIKA ENERGO EKO d.o.o.</skos:prefLabel>
-    <skos:altLabel>HR-LIKA-ENER-EKO</skos:altLabel>
+    <skos:prefLabel>RST Energy d.o.o.</skos:prefLabel>
+    <skos:altLabel>HR-RST-ENERGY</skos:altLabel>
     <cim:IdentifiedObject.mRID>31X-0187-P-000-Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>LIKA ENERGO EKO d.o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>HR-LIKA-ENER-EKO</cim:Names.name>
+    <cim:IdentifiedObject.name>RST Energy d.o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>HR-RST-ENERGY</cim:Names.name>
     <cim:Names.name>HR84637584071</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-09-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-04</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HR84637584071</schema:vatID>

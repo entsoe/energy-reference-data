@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250507--M-H",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250507--M-H",
+    "@skos:prefLabel": "Mockėnų ŽŪB",
+    "@skos:altLabel": "MOCKENU",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company registration number confirmed by registry of Lithuanian companies: 302794217\nVAT ID checked and confirmed through VIES website: LT100006973311\n"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250507--M-H",
+    "@cim:IdentifiedObject.name": "Mockėnų ŽŪB",
+    "@cim:Names.name": [
+        "MOCKENU",
+        "LT100006973311",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "Company registration number confirmed by registry of Lithuanian companies: 302794217\nVAT ID checked and confirmed through VIES website: LT100006973311\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-05-06",
+    "@schema:vatID": "LT100006973311",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

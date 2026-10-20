@@ -1,0 +1,30 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69XM73L6CTQ8X205> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69XM73L6CTQ8X205" ;
+    cim:IdentifiedObject.name "D. P. Elsim Ltd" ;
+    cim:Names.name "10363680T",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Consumer",
+        "DPELSIMPV",
+        "Imbalance Settlement Responsible",
+        "Information Provider",
+        "Network User",
+        "Party Connected To Grid",
+        "Producer" ;
+    dcterms:identifier "urn:eic:69XM73L6CTQ8X205" ;
+    schema1:vatID "10363680T" ;
+    skos:altLabel "DPELSIMPV" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "D. P. Elsim Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

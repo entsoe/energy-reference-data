@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000378N" ;
-    cim:IdentifiedObject.name "Cieplice-Mikułowa" ;
+    cim:IdentifiedObject.name "220kV Cieplice-Mikulowa" ;
     cim:Names.name "4011",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000378N" ;
     skos:altLabel "4011" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Cieplice-Mikułowa" ;
+    skos:prefLabel "220kV Cieplice-Mikulowa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

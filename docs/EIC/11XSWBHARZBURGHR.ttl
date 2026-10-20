@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-06-06" ;
+    cim:DateAndOrTime.date "2025-07-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWBHARZBURGHR" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Harzburg GmbH" ;
-    cim:Names.name "2120400738",
-        "Balance Group",
+    cim:Names.name "Balance Responsible Party",
+        "DE811755834",
         "SWBADHARZBURG_H" ;
     dcterms:identifier "urn:eic:11XSWBHARZBURGHR" ;
-    schema1:vatID "2120400738" ;
+    schema1:vatID "DE811755834" ;
     skos:altLabel "SWBADHARZBURG_H" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Bad Harzburg GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000022780",
-    "@skos:prefLabel": "M 66 Ulvund-Skar",
-    "@skos:altLabel": "NO-ULVUNDSKAR",
+    "@skos:prefLabel": "N 66 Ulvund-Skar",
+    "@skos:altLabel": "NO-66ULVUNDSKAR",
     "@cim:IdentifiedObject.mRID": "50TL000000022780",
-    "@cim:IdentifiedObject.name": "M 66 Ulvund-Skar",
+    "@cim:IdentifiedObject.name": "N 66 Ulvund-Skar",
     "@cim:Names.name": [
-        "NO-ULVUNDSKAR",
+        "NO-66ULVUNDSKAR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

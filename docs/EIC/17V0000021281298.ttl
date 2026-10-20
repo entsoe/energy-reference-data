@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17V0000021281298> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Besoin d’un nouveau CODE EIC car nous créons un nouvel Endpoint pour la deuxième version de ECP+ (Déploiement en DevOps) de l’application ECP+ (NNA : 1109). 
+Ce nouveau Code EIC sera transmis aux différents ECP Européens afin de pouvoir réaliser des échanges de Fichiers entre différents Endpoint ECP.
+""" ;
+    cim:IdentifiedObject.mRID "17V0000021281298" ;
+    cim:IdentifiedObject.name "RTE ECP+ EP MARI PROD system" ;
+    cim:Names.name "FR_ECPMARIPROD",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:17V0000021281298" ;
+    skos:altLabel "FR_ECPMARIPROD" ;
+    skos:definition """Besoin d’un nouveau CODE EIC car nous créons un nouvel Endpoint pour la deuxième version de ECP+ (Déploiement en DevOps) de l’application ECP+ (NNA : 1109). 
+Ce nouveau Code EIC sera transmis aux différents ECP Européens afin de pouvoir réaliser des échanges de Fichiers entre différents Endpoint ECP.
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RTE ECP+ EP MARI PROD system" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

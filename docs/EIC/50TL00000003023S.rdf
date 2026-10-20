@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000003023S</dcterms:identifier>
     <skos:prefLabel>N 132 Hamnefjellet-B&#229;tsfjord</skos:prefLabel>
-    <skos:altLabel>NO-HAMNEFJELLETB</skos:altLabel>
+    <skos:altLabel>NO-132HAMNEFJELL</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000003023S</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>N 132 Hamnefjellet-B&#229;tsfjord</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-HAMNEFJELLETB</cim:Names.name>
+    <cim:Names.name>NO-132HAMNEFJELL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

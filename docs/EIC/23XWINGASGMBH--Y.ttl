@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-02-25" ;
+    cim:DateAndOrTime.date "2024-07-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23XWINGASGMBH--Y" ;
-    cim:IdentifiedObject.name "Wingas GmbH" ;
-    cim:Names.name "DE282663709",
-        "Trade Responsible Party",
-        "WINGASGMBH" ;
+    cim:IdentifiedObject.name "SEFE Energy GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE282663709",
+        "SEFE_ENERGY_GMBH",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XWINGASGMBH--Y" ;
     schema1:vatID "DE282663709" ;
-    skos:altLabel "WINGASGMBH" ;
-    skos:definition "Trade Responsible Party"@en ;
+    skos:altLabel "SEFE_ENERGY_GMBH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Wingas GmbH" ;
+    skos:prefLabel "SEFE Energy GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

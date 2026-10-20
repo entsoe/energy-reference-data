@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005838H",
-    "@skos:prefLabel": "M Svabo    RT14 Transformator",
-    "@skos:altLabel": "NO-SVABO___RT14",
+    "@skos:prefLabel": "N Svabo    RT14 Transformator",
+    "@skos:altLabel": "NO-SVABORT14",
     "@cim:IdentifiedObject.mRID": "50TT00000005838H",
-    "@cim:IdentifiedObject.name": "M Svabo    RT14 Transformator",
+    "@cim:IdentifiedObject.name": "N Svabo    RT14 Transformator",
     "@cim:Names.name": [
-        "NO-SVABO___RT14",
+        "NO-SVABORT14",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

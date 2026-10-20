@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XNERGIE-ROETH3" ;
     cim:IdentifiedObject.name "N-ERGIE Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE209536298",
-        "N-ERGIE_ROETH" ;
+    cim:Names.name "DE209536298",
+        "N-ERGIE_ROETH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNERGIE-ROETH3" ;
     schema1:vatID "DE209536298" ;
     skos:altLabel "N-ERGIE_ROETH" ;

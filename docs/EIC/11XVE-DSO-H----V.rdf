@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XVE-DSO-H----V</dcterms:identifier>
-    <skos:prefLabel>Stromnetz Hamburg GmbH</skos:prefLabel>
+    <skos:prefLabel>Hamburger Energienetze GmbH</skos:prefLabel>
     <skos:altLabel>VE-DSO-H</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XVE-DSO-H----V</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stromnetz Hamburg GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Hamburger Energienetze GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>VE-DSO-H</cim:Names.name>
     <cim:Names.name>DE814588308</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-11-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-23</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE814588308</schema:vatID>

@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "ENERGOVR s.r.o.",
     "@cim:Names.name": [
         "ENERGOVR",
-        "CZ06629164",
+        "cz06629164",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2018-05-15",
-    "@schema:vatID": "CZ06629164",
+    "@schema:vatID": "cz06629164",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

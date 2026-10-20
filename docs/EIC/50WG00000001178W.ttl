@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-06-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001178W" ;
-    cim:IdentifiedObject.name "NORDREISG102 HYDRO" ;
+    cim:IdentifiedObject.name "HAMNEIDEG102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NORDREISG102_" ;
+        "NO-HAMNEIDEG102" ;
     dcterms:identifier "urn:eic:50WG00000001178W" ;
-    skos:altLabel "NO-NORDREISG102_" ;
+    skos:altLabel "NO-HAMNEIDEG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NORDREISG102 HYDRO" ;
+    skos:prefLabel "HAMNEIDEG102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

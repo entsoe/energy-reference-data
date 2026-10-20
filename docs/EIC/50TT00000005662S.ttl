@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005662S" ;
-    cim:IdentifiedObject.name "M Sjona    T1 Transformator" ;
-    cim:Names.name "NO-SJONA___T1",
+    cim:IdentifiedObject.name "N Sjona    T1 Transformator" ;
+    cim:Names.name "NO-SJONAT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005662S" ;
-    skos:altLabel "NO-SJONA___T1" ;
+    skos:altLabel "NO-SJONAT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Sjona    T1 Transformator" ;
+    skos:prefLabel "N Sjona    T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

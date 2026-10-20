@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-09-20" ;
+    cim:DateAndOrTime.date "2025-01-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000PGTRN" ;
-    cim:IdentifiedObject.name "PGNiG TERMIKA SPÓŁKA AKCYJNA" ;
+    cim:IdentifiedObject.name "ORLEN TERMIKA SPÓŁKA AKCYJNA" ;
     cim:Names.name "Consumer",
         "PL5250000630",
         "TERMIKA" ;
@@ -18,6 +18,6 @@
     schema1:vatID "PL5250000630" ;
     skos:altLabel "TERMIKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PGNiG TERMIKA SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "ORLEN TERMIKA SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z000000007329Q" ;
     cim:IdentifiedObject.name "Marl, Hilgenbergstraße (NKP)" ;
-    cim:Names.name "37Z000000007329Q" ;
+    cim:Names.name "37Z000000007329Q",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z000000007329Q" ;
     skos:altLabel "37Z000000007329Q" ;
     skos:definition "Connection Point"@en ;

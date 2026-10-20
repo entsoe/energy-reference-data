@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-16" ;
+    cim:DateAndOrTime.date "2024-07-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11TD2T000000169A" ;
-    cim:IdentifiedObject.name "TTG/220-110/Schweinfurt/Trafo NK1" ;
+    cim:IdentifiedObject.name "TTG/220-110/REGENSBURG/TRAFO 212" ;
     cim:Names.name "T-D2-D2-10072393",
         "Transformer" ;
     dcterms:identifier "urn:eic:11TD2T000000169A" ;
     skos:altLabel "T-D2-D2-10072393" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TTG/220-110/Schweinfurt/Trafo NK1" ;
+    skos:prefLabel "TTG/220-110/REGENSBURG/TRAFO 212" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

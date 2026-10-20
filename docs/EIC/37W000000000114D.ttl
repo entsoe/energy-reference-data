@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37W000000000114D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "LNG terminal" ;
+    cim:IdentifiedObject.mRID "37W000000000114D" ;
+    cim:IdentifiedObject.name "Mukran_LNG_Terminal" ;
+    cim:Names.name "LNG terminal",
+        "MUKRAN_LNG" ;
+    dcterms:identifier "urn:eic:37W000000000114D" ;
+    skos:altLabel "MUKRAN_LNG" ;
+    skos:definition "LNG terminal"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Mukran_LNG_Terminal" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

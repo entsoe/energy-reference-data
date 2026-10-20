@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-05-26" ;
+    cim:DateAndOrTime.date "2024-12-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001103V" ;
     cim:IdentifiedObject.name "Gazprom export" ;
-    cim:Names.name "GAZPROM-EXPORT",
+    cim:Names.name "7706193766",
+        "GAZPROM-EXPORT",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001103V" ;
+    schema1:vatID "7706193766" ;
     skos:altLabel "GAZPROM-EXPORT" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

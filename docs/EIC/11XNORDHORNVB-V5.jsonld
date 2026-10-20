@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XNORDHORNVB-V5",
     "@skos:prefLabel": "nvb Nordhorner Versorgungsbetriebe GmbH",
     "@skos:altLabel": "NVB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XNORDHORNVB-V5",
     "@cim:IdentifiedObject.name": "nvb Nordhorner Versorgungsbetriebe GmbH",
     "@cim:Names.name": [
         "NVB",
         "DE117036559",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-12-11",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "DE117036559",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

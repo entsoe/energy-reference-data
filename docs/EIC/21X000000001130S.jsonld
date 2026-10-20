@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001130S",
-    "@skos:prefLabel": "PGNiG Supply and Trading GmbH",
+    "@skos:prefLabel": "ORLEN Energy Trading GmbH",
     "@skos:altLabel": "PST",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001130S",
-    "@cim:IdentifiedObject.name": "PGNiG Supply and Trading GmbH",
+    "@cim:IdentifiedObject.name": "ORLEN Energy Trading GmbH",
     "@cim:Names.name": [
         "PST",
         "DE275882757",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-24",
+    "@cim:DateAndOrTime.date": "2026-02-19",
     "@schema:vatID": "DE275882757",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

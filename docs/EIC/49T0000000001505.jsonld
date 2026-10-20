@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T0000000001505",
-    "@skos:prefLabel": "Eemshaven Oude Schip - Eemshaven Synergieweg zwart 380kV",
-    "@skos:altLabel": "EOS-EHS380-Z",
+    "@skos:prefLabel": "Eemshaven Synergieweg-Eemshaven Oude Schip Zwart",
+    "@skos:altLabel": "EHS-EOS380-Z",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T0000000001505",
-    "@cim:IdentifiedObject.name": "Eemshaven Oude Schip - Eemshaven Synergieweg zwart 380kV",
+    "@cim:IdentifiedObject.name": "Eemshaven Synergieweg-Eemshaven Oude Schip Zwart",
     "@cim:Names.name": [
-        "EOS-EHS380-Z",
+        "EHS-EOS380-Z",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-04-12",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

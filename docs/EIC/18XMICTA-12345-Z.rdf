@@ -16,6 +16,7 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-08-11</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA78921533</schema:vatID>
   </skos:Concept>

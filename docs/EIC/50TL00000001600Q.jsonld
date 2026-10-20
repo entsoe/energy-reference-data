@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001600Q",
     "@skos:prefLabel": "S 50 Vatne-Riska",
-    "@skos:altLabel": "NO-VATNERISKA",
+    "@skos:altLabel": "NO-50VATNERISKA",
     "@cim:IdentifiedObject.mRID": "50TL00000001600Q",
     "@cim:IdentifiedObject.name": "S 50 Vatne-Riska",
     "@cim:Names.name": [
-        "NO-VATNERISKA",
+        "NO-50VATNERISKA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-08" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-TG-BAENTR55B" ;
     cim:IdentifiedObject.name "BALTIC ENERGY TRADING SIA" ;
-    cim:Names.name "40203254279",
-        "LV-BAEN40",
+    cim:Names.name "LV-BAEN40",
+        "LV40203254279",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:43X-TG-BAENTR55B" ;
-    schema1:vatID "40203254279" ;
+    schema1:vatID "LV40203254279" ;
     skos:altLabel "LV-BAEN40" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BALTIC ENERGY TRADING SIA" ;

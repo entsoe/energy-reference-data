@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27XSPOLGAS-SRO-A" ;
     cim:IdentifiedObject.name "SPOLGAS s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ25456482",
-        "SPOLGAS" ;
+        "SPOLGAS",
+        "cz25456482" ;
     dcterms:identifier "urn:eic:27XSPOLGAS-SRO-A" ;
-    schema1:vatID "CZ25456482" ;
+    schema1:vatID "cz25456482" ;
     skos:altLabel "SPOLGAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SPOLGAS s.r.o." ;

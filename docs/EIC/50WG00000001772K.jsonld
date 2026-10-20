@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001772K",
     "@skos:prefLabel": "SVABO   G116 HYDRO",
-    "@skos:altLabel": "NO-SVABO___G116_",
+    "@skos:altLabel": "NO-SVABOG116",
     "@cim:IdentifiedObject.mRID": "50WG00000001772K",
     "@cim:IdentifiedObject.name": "SVABO   G116 HYDRO",
     "@cim:Names.name": [
-        "NO-SVABO___G116_",
+        "NO-SVABOG116",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

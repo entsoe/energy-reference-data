@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-04-13" ;
-    cim:Document.docStatus "A03" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
+    cim:DateAndOrTime.date "2025-05-21" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XEON-123456-64" ;
-    cim:IdentifiedObject.name "E.ON Sales TRADING GmbH" ;
+    cim:IdentifiedObject.name "UNIPER GLOBAL COMMODITIES SE" ;
     cim:Names.name "DE192205313",
         "EON",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XEON-123456-64" ;
     schema1:vatID "DE192205313" ;
     skos:altLabel "EON" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "E.ON Sales TRADING GmbH" ;
+    skos:prefLabel "UNIPER GLOBAL COMMODITIES SE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

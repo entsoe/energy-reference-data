@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPLUKIUKNBESSP",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPLUKIUKNBESSP",
+    "@skos:prefLabel": "Plukių BESS TP  Kaunas BESS",
+    "@skos:altLabel": "PLUKIUTP",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB “Kaunas BESS” 306556843 LT100017655314 Plukių BESS TP Kauno g. 22-801, Vilnius Gabrielius Makuška +370 62593950 gabrielius@energygates.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41WPLUKIUKNBESSP",
+    "@cim:IdentifiedObject.name": "Plukių BESS TP  Kaunas BESS",
+    "@cim:Names.name": [
+        "PLUKIUTP",
+        "BESS"
+    ],
+    "@cim:IdentifiedObject.description": "UAB “Kaunas BESS” 306556843 LT100017655314 Plukių BESS TP Kauno g. 22-801, Vilnius Gabrielius Makuška +370 62593950 gabrielius@energygates.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-16",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

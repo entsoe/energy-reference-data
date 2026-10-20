@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000984A",
     "@skos:prefLabel": "LIO     G103 HYDRO",
-    "@skos:altLabel": "NO-LIO_____G103_",
+    "@skos:altLabel": "NO-LIOG103",
     "@cim:IdentifiedObject.mRID": "50WG00000000984A",
     "@cim:IdentifiedObject.name": "LIO     G103 HYDRO",
     "@cim:Names.name": [
-        "NO-LIO_____G103_",
+        "NO-LIOG103",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

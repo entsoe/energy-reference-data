@@ -24,10 +24,10 @@
         "JMPFLOWERS",
         "PL7123318223",
         "Balance Responsible Party",
-        "Trade Responsible Party",
-        "Party Connected To Grid",
         "Distribution System Operator",
-        "Grid Operator"
+        "Grid Operator",
+        "Party Connected To Grid",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party, Distribution System Operator, Grid Operator, Party Connected To Grid, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",

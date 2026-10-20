@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41TBIT-KRUON448A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Bitėnai-Kruonis 448" ;
+    cim:IdentifiedObject.mRID "41TBIT-KRUON448A" ;
+    cim:IdentifiedObject.name "Bitėnai-Kruonis 448" ;
+    cim:Names.name "BIT-KRUON448",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:41TBIT-KRUON448A" ;
+    skos:altLabel "BIT-KRUON448" ;
+    skos:definition "Bitėnai-Kruonis 448"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bitėnai-Kruonis 448" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

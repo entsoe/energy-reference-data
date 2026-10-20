@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XENERHEADSSOLI",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XENERHEADSSOLI",
+    "@skos:prefLabel": "Enerheads Solutions",
+    "@skos:altLabel": "ENERHEADSSOLUTI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "305457237\nEnerheads Solutions, UAB\nDraugystės g. 17-1, Kaunas\nLT-51230, Lietuva\nNerijus Juškaitis\n+370699025244\nnerijus.juskaitis@enerheads.com"
+    },
+    "@cim:IdentifiedObject.mRID": "41XENERHEADSSOLI",
+    "@cim:IdentifiedObject.name": "Enerheads Solutions",
+    "@cim:Names.name": [
+        "ENERHEADSSOLUTI",
+        "LT100013637415",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "305457237\nEnerheads Solutions, UAB\nDraugystės g. 17-1, Kaunas\nLT-51230, Lietuva\nNerijus Juškaitis\n+370699025244\nnerijus.juskaitis@enerheads.com",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-05-30",
+    "@schema:vatID": "LT100013637415",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

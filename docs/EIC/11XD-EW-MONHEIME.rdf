@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XD-EW-MONHEIME</dcterms:identifier>
     <skos:prefLabel>MEGA Monheimer Elektrizit&#228;ts- und Gasversorgung GmbH</skos:prefLabel>
     <skos:altLabel>D_EW_MONHEIM</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XD-EW-MONHEIME</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MEGA Monheimer Elektrizit&#228;ts- und Gasversorgung GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>D_EW_MONHEIM</cim:Names.name>
     <cim:Names.name>DE811257596</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811257596</schema:vatID>
   </skos:Concept>

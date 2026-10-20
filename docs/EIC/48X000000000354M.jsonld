@@ -14,16 +14,24 @@
     "@dcterms:identifier": "urn:eic:48X000000000354M",
     "@skos:prefLabel": "Millbrook Power Limited",
     "@skos:altLabel": "MILBRPOW",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Update to Functions.\n\nMillbrook Power Limited\nInternational\nDrax Power Station,\nSelby, North Yorkshire\nYO8 8PH\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n"
+    },
     "@cim:IdentifiedObject.mRID": "48X000000000354M",
     "@cim:IdentifiedObject.name": "Millbrook Power Limited",
     "@cim:Names.name": [
         "MILBRPOW",
         "GB744326437",
-        "Party Connected To Grid"
+        "Balance Responsible Party",
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party"
     ],
+    "@cim:IdentifiedObject.description": "Update to Functions.\n\nMillbrook Power Limited\nInternational\nDrax Power Station,\nSelby, North Yorkshire\nYO8 8PH\nWholesale Market Compliance\nwholesalemarketcompliance@drax.com\n\n",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-07-31",
+    "@cim:DateAndOrTime.date": "2024-02-20",
     "@schema:vatID": "GB744326437",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

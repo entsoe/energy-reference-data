@@ -7,16 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-11-22" ;
+    cim:DateAndOrTime.date "2024-07-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "21Z0000000004766" ;
     cim:IdentifiedObject.name "FARSALA" ;
     cim:Names.name "Connection Point",
-        "FARSALA-GR" ;
+        "FARSALA-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z0000000004766" ;
     skos:altLabel "FARSALA-GR" ;
-    skos:definition "Connection Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FARSALA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

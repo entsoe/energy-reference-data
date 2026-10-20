@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/30XROORIEXP----7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "30XROORIEXP----7" ;
+    cim:IdentifiedObject.name "ORI EXP SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "RO6030965",
+        "RO_ORIEXP" ;
+    dcterms:identifier "urn:eic:30XROORIEXP----7" ;
+    schema1:vatID "RO6030965" ;
+    skos:altLabel "RO_ORIEXP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ORI EXP SRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000012650",
     "@skos:prefLabel": "ORKDAL  G110 HYDRO",
-    "@skos:altLabel": "NO-ORKDAL__G110_",
+    "@skos:altLabel": "NO-ORKDALG110",
     "@cim:IdentifiedObject.mRID": "50WG000000012650",
     "@cim:IdentifiedObject.name": "ORKDAL  G110 HYDRO",
     "@cim:Names.name": [
-        "NO-ORKDAL__G110_",
+        "NO-ORKDALG110",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

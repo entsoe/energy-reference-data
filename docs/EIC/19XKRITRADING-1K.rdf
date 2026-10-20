@@ -4,17 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XKRITRADING-1K</dcterms:identifier>
-    <skos:prefLabel>FORTUM MARKETING AND SALES POLSKA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
-    <skos:altLabel>KRIMT</skos:altLabel>
+    <skos:prefLabel>FORTUM ENERGIA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>FORTUM_ENERGIA</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>19XKRITRADING-1K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>FORTUM MARKETING AND SALES POLSKA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
-    <cim:Names.name>KRIMT</cim:Names.name>
+    <cim:IdentifiedObject.name>FORTUM ENERGIA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>FORTUM_ENERGIA</cim:Names.name>
+    <cim:Names.name>A0001531R.PL</cim:Names.name>
     <cim:Names.name>PL7811861610</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-08-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-01-20</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7811861610</schema:vatID>

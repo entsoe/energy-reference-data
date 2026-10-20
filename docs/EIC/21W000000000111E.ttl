@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-03" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Gas Storage Facility" ;
     cim:IdentifiedObject.mRID "21W000000000111E" ;
     cim:IdentifiedObject.name "Storengy Gas Storage Pool" ;
-    cim:Names.name "Gas Storage Facility",
+    cim:Names.name "Resource Object",
         "STORED-VIRT-STOR" ;
     dcterms:identifier "urn:eic:21W000000000111E" ;
     skos:altLabel "STORED-VIRT-STOR" ;
-    skos:definition "Gas Storage Facility"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Storengy Gas Storage Pool" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

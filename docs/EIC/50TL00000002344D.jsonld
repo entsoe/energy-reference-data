@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002344D",
-    "@skos:prefLabel": "S Bjugstad 66 V1 X",
-    "@skos:altLabel": "NO-BJUGSTAD66V1X",
+    "@skos:prefLabel": "S Bjugstad 66  V1 X",
+    "@skos:altLabel": "NO-BJUGSTAD66V1",
     "@cim:IdentifiedObject.mRID": "50TL00000002344D",
-    "@cim:IdentifiedObject.name": "S Bjugstad 66 V1 X",
+    "@cim:IdentifiedObject.name": "S Bjugstad 66  V1 X",
     "@cim:Names.name": [
-        "NO-BJUGSTAD66V1X",
+        "NO-BJUGSTAD66V1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

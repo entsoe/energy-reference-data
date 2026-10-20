@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002568S" ;
-    cim:IdentifiedObject.name "S Sima 420 T1 Kabel" ;
+    cim:IdentifiedObject.name "S Sima     420 T1 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-SIMA420T1K" ;
+        "NO-SIMA420T1_K" ;
     dcterms:identifier "urn:eic:50TL00000002568S" ;
-    skos:altLabel "NO-SIMA420T1K" ;
+    skos:altLabel "NO-SIMA420T1_K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Sima 420 T1 Kabel" ;
+    skos:prefLabel "S Sima     420 T1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005667I",
     "@skos:prefLabel": "S Skarnes  T1 Transformator",
-    "@skos:altLabel": "NO-SKARNES_T1",
+    "@skos:altLabel": "NO-SKARNEST1",
     "@cim:IdentifiedObject.mRID": "50TT00000005667I",
     "@cim:IdentifiedObject.name": "S Skarnes  T1 Transformator",
     "@cim:Names.name": [
-        "NO-SKARNES_T1",
+        "NO-SKARNEST1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

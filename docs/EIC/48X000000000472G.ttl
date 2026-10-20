@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000472G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-02" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48X000000000472G" ;
+    cim:IdentifiedObject.name "SSE Energy Markets Limited" ;
+    cim:Names.name "GB553769603",
+        "SSE_EM_LIMITED",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000472G" ;
+    schema1:vatID "GB553769603" ;
+    skos:altLabel "SSE_EM_LIMITED" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SSE Energy Markets Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

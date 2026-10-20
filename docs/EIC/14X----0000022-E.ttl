@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Supplier" ;
     cim:IdentifiedObject.mRID "14X----0000022-E" ;
     cim:IdentifiedObject.name "Next Kraftwerke AT GmbH" ;
     cim:Names.name "ATU68879001",
-        "NEXT-K-AT",
-        "Valid EIC Function needed" ;
+        "Balance Responsible Party",
+        "NEXT-K-AT" ;
     dcterms:identifier "urn:eic:14X----0000022-E" ;
     schema1:vatID "ATU68879001" ;
     skos:altLabel "NEXT-K-AT" ;

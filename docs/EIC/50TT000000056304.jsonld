@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000056304",
     "@skos:prefLabel": "S Saurdal  RT8 Transformator",
-    "@skos:altLabel": "NO-SAURDAL_RT8",
+    "@skos:altLabel": "NO-SAURDALRT8",
     "@cim:IdentifiedObject.mRID": "50TT000000056304",
     "@cim:IdentifiedObject.name": "S Saurdal  RT8 Transformator",
     "@cim:Names.name": [
-        "NO-SAURDAL_RT8",
+        "NO-SAURDALRT8",
         "Transformer"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-01-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

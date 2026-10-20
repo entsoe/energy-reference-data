@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250521-CC-H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company Licence Number: DMCC-963598 confirmed by the official document of the Government of Dubai
+Company Registration Number: DMCC201454 confirmed by the official document of the Government of Dubai""" ;
+    cim:IdentifiedObject.mRID "23X--250521-CC-H" ;
+    cim:IdentifiedObject.name "Curragh Commodities FZCO" ;
+    cim:Names.name "Balance Responsible Party",
+        "CURRAGH_COMMOD",
+        "DMCC201454" ;
+    dcterms:identifier "urn:eic:23X--250521-CC-H" ;
+    schema1:vatID "DMCC201454" ;
+    skos:altLabel "CURRAGH_COMMOD" ;
+    skos:definition """Company Licence Number: DMCC-963598 confirmed by the official document of the Government of Dubai
+Company Registration Number: DMCC201454 confirmed by the official document of the Government of Dubai"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Curragh Commodities FZCO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000135W",
     "@skos:prefLabel": "S 132 Bagn-Dokka",
-    "@skos:altLabel": "NO-BAGNDOKKA",
+    "@skos:altLabel": "NO-132BAGNDOKKA",
     "@cim:IdentifiedObject.mRID": "50TL00000000135W",
     "@cim:IdentifiedObject.name": "S 132 Bagn-Dokka",
     "@cim:Names.name": [
-        "NO-BAGNDOKKA",
+        "NO-132BAGNDOKKA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

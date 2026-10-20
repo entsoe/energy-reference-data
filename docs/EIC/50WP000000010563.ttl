@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000010563" ;
     cim:IdentifiedObject.name "Vikanes" ;
-    cim:Names.name "NO-VIKANES_PL",
+    cim:Names.name "NO-VIKANES",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000010563" ;
-    skos:altLabel "NO-VIKANES_PL" ;
+    skos:altLabel "NO-VIKANES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vikanes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

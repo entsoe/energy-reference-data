@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XGETEC02-----D" ;
     cim:IdentifiedObject.name "GETEC ENERGIE GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813164073",
-        "GETEC02" ;
+    cim:Names.name "DE813164073",
+        "GETEC02",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGETEC02-----D" ;
     schema1:vatID "DE813164073" ;
     skos:altLabel "GETEC02" ;

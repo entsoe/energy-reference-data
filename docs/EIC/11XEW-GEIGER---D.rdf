@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XEW-GEIGER---D</dcterms:identifier>
     <skos:prefLabel>EW Geiger GmbH</skos:prefLabel>
     <skos:altLabel>EW-GEIGER</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEW-GEIGER---D</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EW Geiger GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EW-GEIGER</cim:Names.name>
-    <cim:Names.name>DE187195046</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE274278655</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-08-18</cim:DateAndOrTime.date>
-    <cim:Names.name>balance group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE187195046</schema:vatID>
+    <schema:vatID>DE274278655</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

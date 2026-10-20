@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21X000000001072G</dcterms:identifier>
     <skos:prefLabel>Storengy Deutschland GmbH</skos:prefLabel>
     <skos:altLabel>STORENGY-DE</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>21X000000001072G</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Storengy Deutschland GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>STORENGY-DE</cim:Names.name>
     <cim:Names.name>DE256603999</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-10-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-07</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE256603999</schema:vatID>

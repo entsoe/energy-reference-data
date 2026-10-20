@@ -1,0 +1,35 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W000000HUMR-2Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """EIC of responsible party = 48X000000000383F
+EPALTD, 4th Floor, Nova South, 160 Victoria Street, London, England, SW1E 5LB
+Christopher Proudfoot
+cproudfoot@vpi-i.com
+07548 836223
+
+""" ;
+    cim:IdentifiedObject.mRID "48W000000HUMR-2Y" ;
+    cim:IdentifiedObject.name "EPALTD" ;
+    cim:Names.name "Generation Unit",
+        "HUMR-2" ;
+    dcterms:identifier "urn:eic:48W000000HUMR-2Y" ;
+    skos:altLabel "HUMR-2" ;
+    skos:definition """EIC of responsible party = 48X000000000383F
+EPALTD, 4th Floor, Nova South, 160 Victoria Street, London, England, SW1E 5LB
+Christopher Proudfoot
+cproudfoot@vpi-i.com
+07548 836223
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EPALTD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

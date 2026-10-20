@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10YDK1-DE-10010E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "EIC required for the virtual hub to DK1 which is being introduced due to Advanced Hybrid Coupling in Core" ;
+    cim:IdentifiedObject.mRID "10YDK1-DE-10010E" ;
+    cim:IdentifiedObject.name "TTG–DK1 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
+    cim:Names.name "Border Area",
+        "TTG-VBZ-DK1" ;
+    dcterms:identifier "urn:eic:10YDK1-DE-10010E" ;
+    skos:altLabel "TTG-VBZ-DK1" ;
+    skos:definition "EIC required for the virtual hub to DK1 which is being introduced due to Advanced Hybrid Coupling in Core"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TTG–DK1 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

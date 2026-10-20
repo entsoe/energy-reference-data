@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSW-ALLI-DZR-I" ;
     cim:IdentifiedObject.name "Energie- Einkaufs- und Service GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE194712373",
-        "EEG-ALLI-DZR" ;
+    cim:Names.name "DE194712373",
+        "EEG-ALLI-DZR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSW-ALLI-DZR-I" ;
     schema1:vatID "DE194712373" ;
     skos:altLabel "EEG-ALLI-DZR" ;

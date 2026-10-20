@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-11" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "PICASSO is a new System pursuant to SOGL Art. 125 and 126  PICASSO is a new System pursuant to SOGL Art. 125 and 126 The platform has simmular tasks like other common platforms (e.g MFRR_Platform (10X1001C--00009H) or INPLATFORM (10X1001C--00011U)) The other common plattforms didn’t need a VAT code in their related informations. Please change tne Vat Code to “n/a”" ;
     cim:IdentifiedObject.mRID "10X1001C--00010W" ;
     cim:IdentifiedObject.name "Common platform for aFRR" ;
     cim:Names.name "AFRR_PLATFORM",
+        "NA2",
         "Platform Operator" ;
     dcterms:identifier "urn:eic:10X1001C--00010W" ;
+    schema1:vatID "NA2" ;
     skos:altLabel "AFRR_PLATFORM" ;
     skos:definition "PICASSO is a new System pursuant to SOGL Art. 125 and 126  PICASSO is a new System pursuant to SOGL Art. 125 and 126 The platform has simmular tasks like other common platforms (e.g MFRR_Platform (10X1001C--00009H) or INPLATFORM (10X1001C--00011U)) The other common plattforms didn’t need a VAT code in their related informations. Please change tne Vat Code to “n/a”"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

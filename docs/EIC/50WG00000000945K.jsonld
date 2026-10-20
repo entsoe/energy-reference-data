@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000945K",
-    "@skos:prefLabel": "LEIRDOLAG109 HYDRO",
-    "@skos:altLabel": "NO-LEIRDOLAG109_",
+    "@skos:prefLabel": "FONNDOLAG109 HYDRO",
+    "@skos:altLabel": "NO-FONNDOLAG109",
     "@cim:IdentifiedObject.mRID": "50WG00000000945K",
-    "@cim:IdentifiedObject.name": "LEIRDOLAG109 HYDRO",
+    "@cim:IdentifiedObject.name": "FONNDOLAG109 HYDRO",
     "@cim:Names.name": [
-        "NO-LEIRDOLAG109_",
+        "NO-FONNDOLAG109",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

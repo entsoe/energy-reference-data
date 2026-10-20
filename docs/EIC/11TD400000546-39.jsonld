@@ -16,7 +16,10 @@
     "@skos:altLabel": "L-D4-D4-RB-ME_RT",
     "@cim:IdentifiedObject.mRID": "11TD400000546-39",
     "@cim:IdentifiedObject.name": "Pkt_Rommelsbach-Metzingen_rt",
-    "@cim:Names.name": "L-D4-D4-RB-ME_RT",
+    "@cim:Names.name": [
+        "L-D4-D4-RB-ME_RT",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTECMO-12345-A",
     "@skos:prefLabel": "TECMOPLAS S.A",
     "@skos:altLabel": "TECMO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XTECMO-12345-A",
     "@cim:IdentifiedObject.name": "TECMOPLAS S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA50336247",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA50336247",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

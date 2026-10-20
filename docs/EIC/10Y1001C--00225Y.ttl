@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Y1001C--00225Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "10Y1001C--00225Y" ;
+    cim:IdentifiedObject.name "Technical Profile between IT and adjacent areas of AT, FR, SI" ;
+    cim:Names.name "Border Area",
+        "IT-2-AFS-AREA" ;
+    dcterms:identifier "urn:eic:10Y1001C--00225Y" ;
+    skos:altLabel "IT-2-AFS-AREA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Technical Profile between IT and adjacent areas of AT, FR, SI" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

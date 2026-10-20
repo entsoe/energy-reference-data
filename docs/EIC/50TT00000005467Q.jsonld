@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005467Q",
-    "@skos:prefLabel": "M Orkdal   T3 Transformator",
-    "@skos:altLabel": "NO-ORKDAL__T3",
+    "@skos:prefLabel": "N Orkdal   T3G Transformator",
+    "@skos:altLabel": "NO-ORKDALT3G",
     "@cim:IdentifiedObject.mRID": "50TT00000005467Q",
-    "@cim:IdentifiedObject.name": "M Orkdal   T3 Transformator",
+    "@cim:IdentifiedObject.name": "N Orkdal   T3G Transformator",
     "@cim:Names.name": [
-        "NO-ORKDAL__T3",
+        "NO-ORKDALT3G",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-05-22",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

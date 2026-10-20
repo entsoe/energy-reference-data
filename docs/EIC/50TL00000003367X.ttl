@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL00000003367X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL00000003367X" ;
+    cim:IdentifiedObject.name "N 132 Lefdal-Bryggja" ;
+    cim:Names.name "Internal Line",
+        "NO-132LEFDALBRYG" ;
+    dcterms:identifier "urn:eic:50TL00000003367X" ;
+    skos:altLabel "NO-132LEFDALBRYG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "N 132 Lefdal-Bryggja" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

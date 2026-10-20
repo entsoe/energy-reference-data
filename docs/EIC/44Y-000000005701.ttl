@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-14" ;
+    cim:DateAndOrTime.date "2024-12-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44Y-000000005701" ;
-    cim:IdentifiedObject.name "Louhukangas-Möksy wind farms" ;
+    cim:IdentifiedObject.name "Louhukangas wind farm" ;
     cim:Names.name "LOUH01",
         "Metering Grid Area" ;
     dcterms:identifier "urn:eic:44Y-000000005701" ;
     skos:altLabel "LOUH01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Louhukangas-Möksy wind farms" ;
+    skos:prefLabel "Louhukangas wind farm" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

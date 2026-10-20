@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46TTR0000000045C",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46TTR0000000045C",
+    "@skos:prefLabel": "Sveg T1, T3",
+    "@skos:altLabel": "SVEG_T1_T3",
+    "@cim:IdentifiedObject.mRID": "46TTR0000000045C",
+    "@cim:IdentifiedObject.name": "Sveg T1, T3",
+    "@cim:Names.name": [
+        "SVEG_T1_T3",
+        "Transformer"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-11-11",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

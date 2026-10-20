@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000997W",
     "@skos:prefLabel": "Nape",
-    "@skos:altLabel": "NO-NAPE_PL",
+    "@skos:altLabel": "NO-NAPE",
     "@cim:IdentifiedObject.mRID": "50WP00000000997W",
     "@cim:IdentifiedObject.name": "Nape",
     "@cim:Names.name": [
-        "NO-NAPE_PL",
+        "NO-NAPE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

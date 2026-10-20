@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002791P" ;
-    cim:IdentifiedObject.name "M 22 Bjerka-Kjensvatn" ;
+    cim:IdentifiedObject.name "N 22 Bjerka-Kjensvatn" ;
     cim:Names.name "Internal Line",
-        "NO-BJERKAKJENSVA" ;
+        "NO-22BJERKAKJENS" ;
     dcterms:identifier "urn:eic:50TL00000002791P" ;
-    skos:altLabel "NO-BJERKAKJENSVA" ;
+    skos:altLabel "NO-22BJERKAKJENS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Bjerka-Kjensvatn" ;
+    skos:prefLabel "N 22 Bjerka-Kjensvatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

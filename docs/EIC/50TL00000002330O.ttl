@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002330O" ;
-    cim:IdentifiedObject.name "M Åmela 66 Ah1" ;
+    cim:IdentifiedObject.name "N Åmela    66  Ah1" ;
     cim:Names.name "Internal Line",
-        "NO-AMELA66AH1X" ;
+        "NO-AMELA66AH1_X" ;
     dcterms:identifier "urn:eic:50TL00000002330O" ;
-    skos:altLabel "NO-AMELA66AH1X" ;
+    skos:altLabel "NO-AMELA66AH1_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Åmela 66 Ah1" ;
+    skos:prefLabel "N Åmela    66  Ah1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

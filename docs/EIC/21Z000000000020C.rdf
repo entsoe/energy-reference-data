@@ -4,16 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z000000000020C</dcterms:identifier>
-    <skos:prefLabel>Kulata (BG)/Sidirokastron (GR)</skos:prefLabel>
+    <skos:prefLabel>SIDIROKASTRO</skos:prefLabel>
     <skos:altLabel>KULA-BG-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000020C</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Kulata (BG)/Sidirokastron (GR)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>SIDIROKASTRO</cim:IdentifiedObject.name>
     <cim:Names.name>KULA-BG-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-05-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-06</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

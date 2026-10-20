@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XRELAX-------N</dcterms:identifier>
     <skos:prefLabel>Optimization Engineers GmbH</skos:prefLabel>
     <skos:altLabel>OPTENG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XRELAX-------N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Optimization Engineers GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>OPTENG</cim:Names.name>
     <cim:Names.name>DE230829248</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-01-12</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE230829248</schema:vatID>
   </skos:Concept>

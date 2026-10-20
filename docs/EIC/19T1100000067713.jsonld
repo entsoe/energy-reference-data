@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067713",
-    "@skos:prefLabel": "Konin-Pątnów 2",
+    "@skos:prefLabel": "220kV Konin-Patnow 2",
     "@skos:altLabel": "4320",
     "@cim:IdentifiedObject.mRID": "19T1100000067713",
-    "@cim:IdentifiedObject.name": "Konin-Pątnów 2",
+    "@cim:IdentifiedObject.name": "220kV Konin-Patnow 2",
     "@cim:Names.name": [
         "4320",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

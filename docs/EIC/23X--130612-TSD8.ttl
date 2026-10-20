@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-02-14" ;
+    cim:DateAndOrTime.date "2025-03-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23X--130612-TSD8" ;
-    cim:IdentifiedObject.name "TrailStone GmbH" ;
+    cim:IdentifiedObject.name "Engelhart CTP GmbH" ;
     cim:Names.name "DE289523572",
-        "TRAILSTONE_GMBH",
+        "ENGELHART_CTP",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--130612-TSD8" ;
     schema1:vatID "DE289523572" ;
-    skos:altLabel "TRAILSTONE_GMBH" ;
+    skos:altLabel "ENGELHART_CTP" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TrailStone GmbH" ;
+    skos:prefLabel "Engelhart CTP GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

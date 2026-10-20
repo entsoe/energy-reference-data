@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2489-B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2489-B" ;
+    cim:IdentifiedObject.name "TNG/380kV/Birkenfeld-BruchsalKaendelweg-Philippsburg/ws" ;
+    cim:Names.name "Internal Line",
+        "LD4D4-BIBRPH_WS" ;
+    dcterms:identifier "urn:eic:11T0-0000-2489-B" ;
+    skos:altLabel "LD4D4-BIBRPH_WS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TNG/380kV/Birkenfeld-BruchsalKaendelweg-Philippsburg/ws" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

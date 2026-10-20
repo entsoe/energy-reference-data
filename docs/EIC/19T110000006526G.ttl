@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006526G" ;
-    cim:IdentifiedObject.name "Joachimów-TD2" ;
+    cim:IdentifiedObject.name "400/220kV Joachimow TD2" ;
     cim:Names.name "JOA-TD2",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T110000006526G" ;
     skos:altLabel "JOA-TD2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Joachimów-TD2" ;
+    skos:prefLabel "400/220kV Joachimow TD2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

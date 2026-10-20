@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-15" ;
+    cim:DateAndOrTime.date "2026-01-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumer, Producer" ;
+    cim:IdentifiedObject.description "Consumer, Producer - Name change - TVA OK VIES" ;
     cim:IdentifiedObject.mRID "17X100A100F0075P" ;
-    cim:IdentifiedObject.name "TOTAL RAFFINAGE FRANCE" ;
+    cim:IdentifiedObject.name "TotalEnergies Raffinage France" ;
     cim:Names.name "Consumer",
         "FR08529221749",
         "FR_TRF",
@@ -19,8 +19,8 @@
     dcterms:identifier "urn:eic:17X100A100F0075P" ;
     schema1:vatID "FR08529221749" ;
     skos:altLabel "FR_TRF" ;
-    skos:definition "Consumer, Producer"@en ;
+    skos:definition "Consumer, Producer - Name change - TVA OK VIES"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TOTAL RAFFINAGE FRANCE" ;
+    skos:prefLabel "TotalEnergies Raffinage France" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

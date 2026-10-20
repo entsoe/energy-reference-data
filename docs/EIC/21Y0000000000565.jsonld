@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000565",
     "@skos:prefLabel": "National Production Italy",
     "@skos:altLabel": "NAT_PROD_IT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregate Entry Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000565",
     "@cim:IdentifiedObject.name": "National Production Italy",
     "@cim:Names.name": [
         "NAT_PROD_IT",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregate Entry Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260928--P-K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registration number confirmed through the document of the General Registry Cayman Islands: 439513
+""" ;
+    cim:IdentifiedObject.mRID "23X--260928--P-K" ;
+    cim:IdentifiedObject.name "Power Markets Europe LTD" ;
+    cim:Names.name "439513",
+        "Capacity Trader",
+        "POWER_MARKETS_E" ;
+    dcterms:identifier "urn:eic:23X--260928--P-K" ;
+    schema1:vatID "439513" ;
+    skos:altLabel "POWER_MARKETS_E" ;
+    skos:definition """Company registration number confirmed through the document of the General Registry Cayman Islands: 439513
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Power Markets Europe LTD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

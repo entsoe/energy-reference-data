@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X00000121562-1</dcterms:identifier>
-    <skos:prefLabel>ENI PLENITUDE  SPA    SOCIETA'  BENEFIT</skos:prefLabel>
+    <skos:prefLabel>ENI PLENITUDE SPA SOCIETA' BENEFIT</skos:prefLabel>
     <skos:altLabel>IT-ENIPLENITUDES</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X00000121562-1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENI PLENITUDE  SPA    SOCIETA'  BENEFIT</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENI PLENITUDE SPA SOCIETA' BENEFIT</cim:IdentifiedObject.name>
     <cim:Names.name>IT-ENIPLENITUDES</cim:Names.name>
     <cim:Names.name>IT12300020158</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-05-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-09-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT12300020158</schema:vatID>

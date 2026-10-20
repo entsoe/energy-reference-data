@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWHANNOVER-MO" ;
     cim:IdentifiedObject.name "Stadtwerke Hannover AG (M)" ;
-    cim:Names.name "Balance Group",
-        "DE811116141",
-        "SWHANNOVER_M" ;
+    cim:Names.name "DE811116141",
+        "SWHANNOVER_M",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWHANNOVER-MO" ;
     schema1:vatID "DE811116141" ;
     skos:altLabel "SWHANNOVER_M" ;

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001192F" ;
-    cim:IdentifiedObject.name "M 420 Nea-Klæbu" ;
+    cim:IdentifiedObject.name "N 420 Nea-Klæbu" ;
     cim:Names.name "Internal Line",
-        "NO-NEAKLABU" ;
+        "NO-420NEAKLABU" ;
     dcterms:identifier "urn:eic:50TL00000001192F" ;
-    skos:altLabel "NO-NEAKLABU" ;
+    skos:altLabel "NO-420NEAKLABU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Nea-Klæbu" ;
+    skos:prefLabel "N 420 Nea-Klæbu" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

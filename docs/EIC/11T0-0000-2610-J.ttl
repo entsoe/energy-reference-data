@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2610-J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2610-J" ;
+    cim:IdentifiedObject.name "TTG/380-220/TTG/380-220/LANDESBERGEN/TRAFO 421" ;
+    cim:Names.name "T-D2-D2-10960952",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:11T0-0000-2610-J" ;
+    skos:altLabel "T-D2-D2-10960952" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TTG/380-220/TTG/380-220/LANDESBERGEN/TRAFO 421" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

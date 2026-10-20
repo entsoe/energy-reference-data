@@ -13,8 +13,8 @@
     cim:IdentifiedObject.mRID "11XBEWAG-N-----L" ;
     cim:IdentifiedObject.name "Vattenfall Europe Distribution Berlin GmbH" ;
     cim:Names.name "BEWAG_N",
-        "Balance Group",
-        "DE136629683" ;
+        "DE136629683",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XBEWAG-N-----L" ;
     schema1:vatID "DE136629683" ;
     skos:altLabel "BEWAG_N" ;

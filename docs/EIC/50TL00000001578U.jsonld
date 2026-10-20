@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001578U",
-    "@skos:prefLabel": "S 50 skulafossen-Norheimsund",
-    "@skos:altLabel": "NO-SKULAFOSSENNO",
+    "@skos:prefLabel": "S 22 Skulafossen-Norheimsund",
+    "@skos:altLabel": "NO-22SKULAFOSSEN",
     "@cim:IdentifiedObject.mRID": "50TL00000001578U",
-    "@cim:IdentifiedObject.name": "S 50 skulafossen-Norheimsund",
+    "@cim:IdentifiedObject.name": "S 22 Skulafossen-Norheimsund",
     "@cim:Names.name": [
-        "NO-SKULAFOSSENNO",
+        "NO-22SKULAFOSSEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

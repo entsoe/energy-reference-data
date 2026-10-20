@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XOUROL-12345-L" ;
-    cim:IdentifiedObject.name "HIDROELÉCTRICA DE OUROL, S.L." ;
+    cim:IdentifiedObject.name "HIDROELECTRICA DE OUROL S.L." ;
     cim:Names.name "ESB27240050",
         "OUROL",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XOUROL-12345-L" ;
     schema1:vatID "ESB27240050" ;
     skos:altLabel "OUROL" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HIDROELÉCTRICA DE OUROL, S.L." ;
+    skos:prefLabel "HIDROELECTRICA DE OUROL S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

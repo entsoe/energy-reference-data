@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WKANTEIKIUVEPY> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "41XVEJO-PARKAI-7  " ;
+    cim:IdentifiedObject.mRID "41WKANTEIKIUVEPY" ;
+    cim:IdentifiedObject.name "Kanteikiu_VE  UAB „Vėjo parkai“	" ;
+    cim:Names.name "KANTEIKIU_VE",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:41WKANTEIKIUVEPY" ;
+    skos:altLabel "KANTEIKIU_VE" ;
+    skos:definition "41XVEJO-PARKAI-7  "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Kanteikiu_VE  UAB „Vėjo parkai“	" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

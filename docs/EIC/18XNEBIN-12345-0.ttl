@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-12-12" ;
+    cim:DateAndOrTime.date "2026-03-31" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XNEBIN-12345-0" ;
-    cim:IdentifiedObject.name "ENERGIAS RENOVABLES DE PEÑA NEBINA, S.L." ;
+    cim:IdentifiedObject.name "ENERGIAS RENOVABLES DE PEÑANEBINA, S.L." ;
     cim:Names.name "ESB84299908",
         "NEBIN",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XNEBIN-12345-0" ;
     schema1:vatID "ESB84299908" ;
     skos:altLabel "NEBIN" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENERGIAS RENOVABLES DE PEÑA NEBINA, S.L." ;
+    skos:prefLabel "ENERGIAS RENOVABLES DE PEÑANEBINA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

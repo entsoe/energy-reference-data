@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000014602",
-    "@skos:prefLabel": "SAURDAL G116 HYDRO",
-    "@skos:altLabel": "NO-SAURDAL_G116_",
+    "@skos:prefLabel": "SAND    G1      HYDRO",
+    "@skos:altLabel": "NO-SANDG1",
     "@cim:IdentifiedObject.mRID": "50WG000000014602",
-    "@cim:IdentifiedObject.name": "SAURDAL G116 HYDRO",
+    "@cim:IdentifiedObject.name": "SAND    G1      HYDRO",
     "@cim:Names.name": [
-        "NO-SAURDAL_G116_",
+        "NO-SANDG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-03-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

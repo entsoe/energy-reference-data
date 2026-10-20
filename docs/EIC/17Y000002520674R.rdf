@@ -1,0 +1,21 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/17Y000002520674R">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:17Y000002520674R</dcterms:identifier>
+    <skos:prefLabel>RE_ETPRAP</skos:prefLabel>
+    <skos:altLabel>FR_ETPRAP</skos:altLabel>
+    <skos:definition xml:lang="en">EIC RE fictif pour comptabiliser les arrondis li&#233;s au couplage de march&#233; pour la bourse ETPA</skos:definition>
+    <cim:IdentifiedObject.mRID>17Y000002520674R</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>RE_ETPRAP</cim:IdentifiedObject.name>
+    <cim:Names.name>FR_ETPRAP</cim:Names.name>
+    <cim:IdentifiedObject.description>EIC RE fictif pour comptabiliser les arrondis li&#233;s au couplage de march&#233; pour la bourse ETPA</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-10-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:Names.name>Market Area</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

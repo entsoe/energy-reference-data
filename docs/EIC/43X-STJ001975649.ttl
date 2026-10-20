@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ001975649> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ001975649" ;
+    cim:IdentifiedObject.name "SĀTIŅI ENERGO LM AS" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV42103037207",
+        "STJ001975649" ;
+    dcterms:identifier "urn:eic:43X-STJ001975649" ;
+    schema1:vatID "LV42103037207" ;
+    skos:altLabel "STJ001975649" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SĀTIŅI ENERGO LM AS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

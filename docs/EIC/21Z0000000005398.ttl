@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-04" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z0000000005398" ;
-    cim:IdentifiedObject.name "Komotini - DESFA / IGB" ;
+    cim:IdentifiedObject.name "KOMOTINI (DESFA/IGB)" ;
     cim:Names.name "Connection Point",
         "KOMOTI-DESFA_IGB" ;
     dcterms:identifier "urn:eic:21Z0000000005398" ;
     skos:altLabel "KOMOTI-DESFA_IGB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Komotini - DESFA / IGB" ;
+    skos:prefLabel "KOMOTINI (DESFA/IGB)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

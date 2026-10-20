@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XHOYER-STROM-Q",
-    "@skos:prefLabel": "BSE Strom und Erdgas GmbH",
+    "@skos:prefLabel": "Hoyer Energy Connect GmbH",
     "@skos:altLabel": "HOYER-STROM",
     "@cim:IdentifiedObject.mRID": "11XHOYER-STROM-Q",
-    "@cim:IdentifiedObject.name": "BSE Strom und Erdgas GmbH",
+    "@cim:IdentifiedObject.name": "Hoyer Energy Connect GmbH",
     "@cim:Names.name": [
         "HOYER-STROM",
         "DE306362810",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-19",
+    "@cim:DateAndOrTime.date": "2026-01-12",
     "@schema:vatID": "DE306362810",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

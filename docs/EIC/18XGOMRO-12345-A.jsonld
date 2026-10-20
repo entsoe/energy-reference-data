@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGOMRO-12345-A",
     "@skos:prefLabel": "GRANITOS GOMEZ ROCHA, S.L.",
     "@skos:altLabel": "GOMRO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGOMRO-12345-A",
     "@cim:IdentifiedObject.name": "GRANITOS GOMEZ ROCHA, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB06159735",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB06159735",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

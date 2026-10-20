@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Switzerland",
     "@cim:Names.name": [
         "CH",
-        "Scheduling Area",
-        "Member State",
-        "LFC Block",
         "Bidding Zone",
         "Control Area",
-        "LFC Area"
+        "LFC Area",
+        "LFC Block",
+        "Member State",
+        "Scheduling Area"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area, Control Block",
     "@cim:Document.docStatus": "A05",

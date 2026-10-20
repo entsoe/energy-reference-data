@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XMARATHONOIL-X" ;
     cim:IdentifiedObject.name "Marathon Oil UK Limited" ;
     cim:Names.name "GB577858174",
         "MARATHONOIL",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XMARATHONOIL-X" ;
     schema1:vatID "GB577858174" ;
     skos:altLabel "MARATHONOIL" ;

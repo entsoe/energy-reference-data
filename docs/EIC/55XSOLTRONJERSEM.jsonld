@@ -18,11 +18,13 @@
     "@cim:IdentifiedObject.name": "Soltron Jersey Limited",
     "@cim:Names.name": [
         "SOLTRONJERSEY",
+        "NA29",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-01-17",
+    "@cim:DateAndOrTime.date": "2026-10-15",
+    "@schema:vatID": "NA29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

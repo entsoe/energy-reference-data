@@ -6,18 +6,18 @@
     <dcterms:identifier>urn:eic:12X-0000001967-3</dcterms:identifier>
     <skos:prefLabel>Trafigura Trading (Europe) S&#224;rl</skos:prefLabel>
     <skos:altLabel>TRAFIGURA-ST</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group Responsible Party, Network User, Transmission Capacity Allocator</skos:definition>
+    <skos:definition xml:lang="en">Network User, Transmission Capacity Allocator</skos:definition>
     <cim:IdentifiedObject.mRID>12X-0000001967-3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Trafigura Trading (Europe) S&#224;rl</cim:IdentifiedObject.name>
     <cim:Names.name>TRAFIGURA-ST</cim:Names.name>
     <cim:Names.name>CHE116301376</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group Responsible Party, Network User, Transmission Capacity Allocator</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Network User, Transmission Capacity Allocator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-03-09</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-01-22</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Balance Group Responsible Party</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CHE116301376</schema:vatID>
   </skos:Concept>

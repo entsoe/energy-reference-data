@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006522O",
-    "@skos:prefLabel": "Jasiniec-A3",
+    "@skos:prefLabel": "400/110kV Jasiniec AT3",
     "@skos:altLabel": "JAS-A3",
     "@cim:IdentifiedObject.mRID": "19T110000006522O",
-    "@cim:IdentifiedObject.name": "Jasiniec-A3",
+    "@cim:IdentifiedObject.name": "400/110kV Jasiniec AT3",
     "@cim:Names.name": [
         "JAS-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

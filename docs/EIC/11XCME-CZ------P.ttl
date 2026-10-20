@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XCME-CZ------P" ;
     cim:IdentifiedObject.name "CM ENERGETIKA a.s." ;
-    cim:Names.name "CME_CZ",
-        "CZ42644273",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "CME_CZ",
+        "CZ42644273" ;
     dcterms:identifier "urn:eic:11XCME-CZ------P" ;
     schema1:vatID "CZ42644273" ;
     skos:altLabel "CME_CZ" ;

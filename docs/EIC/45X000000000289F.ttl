@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000289F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000289F" ;
+    cim:IdentifiedObject.name "Kvasir Technologies filial af Kvasir Technologies Ltd., England" ;
+    cim:Names.name "44996731",
+        "Balance Responsible Party",
+        "DKKVASIR" ;
+    dcterms:identifier "urn:eic:45X000000000289F" ;
+    schema1:vatID "44996731" ;
+    skos:altLabel "DKKVASIR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Kvasir Technologies filial af Kvasir Technologies Ltd., England" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10T1001C--00049O</dcterms:identifier>
-    <skos:prefLabel>Italia-Francia_interconnection line L_PIOSSASCO-GRANDE-ILE 1</skos:prefLabel>
+    <skos:prefLabel>L C.C.320kV N0 1 GRANDE-ILE - PIOSSASCO</skos:prefLabel>
     <skos:altLabel>L_PIOSSA-GRANDE1</skos:altLabel>
     <cim:IdentifiedObject.mRID>10T1001C--00049O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Italia-Francia_interconnection line L_PIOSSASCO-GRANDE-ILE 1</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>L C.C.320kV N0 1 GRANDE-ILE - PIOSSASCO</cim:IdentifiedObject.name>
     <cim:Names.name>L_PIOSSA-GRANDE1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-02-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-12-13</cim:DateAndOrTime.date>
     <cim:Names.name>Tieline</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

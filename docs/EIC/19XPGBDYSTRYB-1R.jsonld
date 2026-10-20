@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XPGBDYSTRYB-1R",
-    "@skos:prefLabel": "PGB DYSTRYBUCJA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
-    "@skos:altLabel": "PGB_DYSTRYBUCJA",
+    "@skos:prefLabel": "ENERCOGRID SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "ENERCOGRID",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "19XPGBDYSTRYB-1R",
-    "@cim:IdentifiedObject.name": "PGB DYSTRYBUCJA SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "@cim:IdentifiedObject.name": "ENERCOGRID SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "PGB_DYSTRYBUCJA",
+        "ENERCOGRID",
         "PL5213674630",
-        "Balance Responsible Party"
+        "System Operator"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-02",
+    "@cim:DateAndOrTime.date": "2024-04-30",
     "@schema:vatID": "PL5213674630",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

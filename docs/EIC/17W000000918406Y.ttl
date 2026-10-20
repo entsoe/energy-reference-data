@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-09-06" ;
+    cim:DateAndOrTime.date "2026-03-17" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "code recréé a la place de 17W100P100P00123" ;
+    cim:IdentifiedObject.description "code recréé a la place de 17W100P100P00123 Validation CIO" ;
     cim:IdentifiedObject.mRID "17W000000918406Y" ;
     cim:IdentifiedObject.name "CROIX DE METZ" ;
     cim:Names.name "FR_GA-TOULMETZ-G",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W000000918406Y" ;
     skos:altLabel "FR_GA-TOULMETZ-G" ;
-    skos:definition "code recréé a la place de 17W100P100P00123"@en ;
+    skos:definition "code recréé a la place de 17W100P100P00123 Validation CIO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "CROIX DE METZ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

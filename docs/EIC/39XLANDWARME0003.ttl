@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-10-21" ;
+    cim:DateAndOrTime.date "2025-07-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "39XLANDWARME0003" ;
-    cim:IdentifiedObject.name "Landwarme CE Trading Kft" ;
-    cim:Names.name "HU26240134",
-        "LW_CE",
+    cim:IdentifiedObject.name "Biomethane CE Trading Kft" ;
+    cim:Names.name "BMCET",
+        "HU26240134",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:39XLANDWARME0003" ;
     schema1:vatID "HU26240134" ;
-    skos:altLabel "LW_CE" ;
+    skos:altLabel "BMCET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Landwarme CE Trading Kft" ;
+    skos:prefLabel "Biomethane CE Trading Kft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

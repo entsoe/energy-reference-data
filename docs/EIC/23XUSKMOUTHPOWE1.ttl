@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XUSKMOUTHPOWE1" ;
-    cim:IdentifiedObject.name "Uskmouth Power Company Limited" ;
-    cim:Names.name "USKMOUTHPOWER",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "SIMEC USKMOUTH POWER LIMITED" ;
+    cim:Names.name "GB209555792",
+        "Trade Responsible Party",
+        "USKMOUTHPOWER" ;
     dcterms:identifier "urn:eic:23XUSKMOUTHPOWE1" ;
+    schema1:vatID "GB209555792" ;
     skos:altLabel "USKMOUTHPOWER" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Uskmouth Power Company Limited" ;
+    skos:prefLabel "SIMEC USKMOUTH POWER LIMITED" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002190E",
-    "@skos:prefLabel": "M 66 Svartelva-Stoen",
-    "@skos:altLabel": "NO-SVARTELVASTOE",
+    "@skos:prefLabel": "N 66 Svartelva-Stoen",
+    "@skos:altLabel": "NO-66SVARTELVAST",
     "@cim:IdentifiedObject.mRID": "50TL00000002190E",
-    "@cim:IdentifiedObject.name": "M 66 Svartelva-Stoen",
+    "@cim:IdentifiedObject.name": "N 66 Svartelva-Stoen",
     "@cim:Names.name": [
-        "NO-SVARTELVASTOE",
+        "NO-66SVARTELVAST",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

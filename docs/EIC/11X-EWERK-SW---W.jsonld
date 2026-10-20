@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11X-EWERK-SW---W",
     "@skos:prefLabel": "e-werk Sachsenwald GmbH",
     "@skos:altLabel": "E-WERK-SW",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11X-EWERK-SW---W",
     "@cim:IdentifiedObject.name": "e-werk Sachsenwald GmbH",
     "@cim:Names.name": [
         "E-WERK-SW",
         "DE135095897",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-24",
+    "@cim:DateAndOrTime.date": "2024-12-19",
     "@schema:vatID": "DE135095897",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

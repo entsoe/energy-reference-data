@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T0000000009526> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49T0000000009526" ;
+    cim:IdentifiedObject.name "Hollandse Kust Noord 66kV AFA30-Rail C" ;
+    cim:Names.name "Busbar Coupler",
+        "HKN-AFA30-RAIL-C" ;
+    dcterms:identifier "urn:eic:49T0000000009526" ;
+    skos:altLabel "HKN-AFA30-RAIL-C" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Hollandse Kust Noord 66kV AFA30-Rail C" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

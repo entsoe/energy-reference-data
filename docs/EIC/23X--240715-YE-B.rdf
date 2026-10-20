@@ -1,0 +1,26 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/23X--240715-YE-B">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:23X--240715-YE-B</dcterms:identifier>
+    <skos:prefLabel>Yildirim Energy Europe Kosovo SH.P.K.</skos:prefLabel>
+    <skos:altLabel>YILDIRIM_EE_XK</skos:altLabel>
+    <skos:definition xml:lang="en">VAT number confirmed through official certificate (VAT FILER) by the Tax Administration of Kosovo: 330565252
+Company registration number confirmed by official certificate of Kosova Business Registration Agency: 811982398</skos:definition>
+    <cim:IdentifiedObject.mRID>23X--240715-YE-B</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Yildirim Energy Europe Kosovo SH.P.K.</cim:IdentifiedObject.name>
+    <cim:Names.name>YILDIRIM_EE_XK</cim:Names.name>
+    <cim:Names.name>330565252</cim:Names.name>
+    <cim:IdentifiedObject.description>VAT number confirmed through official certificate (VAT FILER) by the Tax Administration of Kosovo: 330565252
+Company registration number confirmed by official certificate of Kosova Business Registration Agency: 811982398</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-07-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>330565252</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

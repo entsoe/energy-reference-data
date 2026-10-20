@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00001829G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00001829G" ;
+    cim:IdentifiedObject.name "\"Rīgas Siltums\" AS" ;
+    cim:Names.name "40003286750",
+        "43X-J00001829G",
+        "Consumer" ;
+    dcterms:identifier "urn:eic:43X-STJ00001829G" ;
+    schema1:vatID "40003286750" ;
+    skos:altLabel "43X-J00001829G" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "\"Rīgas Siltums\" AS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

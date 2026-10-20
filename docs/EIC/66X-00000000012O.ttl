@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-11-04" ;
+    cim:DateAndOrTime.date "2025-10-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "66X-00000000012O" ;
-    cim:IdentifiedObject.name "Karhu Voima Palvelu Oy" ;
+    cim:IdentifiedObject.name "KotkaGas Oy" ;
     cim:Names.name "66KVPOY",
         "FI27170288",
         "Network User" ;
@@ -18,6 +18,6 @@
     schema1:vatID "FI27170288" ;
     skos:altLabel "66KVPOY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Karhu Voima Palvelu Oy" ;
+    skos:prefLabel "KotkaGas Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

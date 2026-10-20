@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-HOLDING-SE-3" ;
     cim:IdentifiedObject.name "HOLDING SLOVENSKE ELEKTRARNE d.o.o., organizacna zlozka" ;
     cim:Names.name "HSE-BA",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-HOLDING-SE-3" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "HSE-BA" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

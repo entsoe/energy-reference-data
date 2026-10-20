@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000502H",
     "@skos:prefLabel": "FABERG  G107 HYDRO",
-    "@skos:altLabel": "NO-FABERG__G107_",
+    "@skos:altLabel": "NO-FABERGG107",
     "@cim:IdentifiedObject.mRID": "50WG00000000502H",
     "@cim:IdentifiedObject.name": "FABERG  G107 HYDRO",
     "@cim:Names.name": [
-        "NO-FABERG__G107_",
+        "NO-FABERGG107",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

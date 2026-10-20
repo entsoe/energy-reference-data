@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/57X58UT7K7Z077PQ",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:57X58UT7K7Z077PQ",
+    "@skos:prefLabel": "BL Trade GmbH",
+    "@skos:altLabel": "BL_TRADE_GMBH",
+    "@cim:IdentifiedObject.mRID": "57X58UT7K7Z077PQ",
+    "@cim:IdentifiedObject.name": "BL Trade GmbH",
+    "@cim:Names.name": [
+        "BL_TRADE_GMBH",
+        "A0023064C.DE",
+        "DE361128058",
+        "Balance Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-03-17",
+    "@schema:vatID": "DE361128058",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

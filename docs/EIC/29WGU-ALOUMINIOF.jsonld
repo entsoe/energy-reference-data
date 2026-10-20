@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:29WGU-ALOUMINIOF",
     "@skos:prefLabel": "Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA",
     "@skos:altLabel": "GUALOUMINIO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Generation Unit. Lio local update to elem corr 2026-02-18"
+    },
     "@cim:IdentifiedObject.mRID": "29WGU-ALOUMINIOF",
     "@cim:IdentifiedObject.name": "Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA",
     "@cim:Names.name": [
         "GUALOUMINIO",
         "Generation Unit"
     ],
+    "@cim:IdentifiedObject.description": "Generation Unit. Lio local update to elem corr 2026-02-18",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-01",
+    "@cim:DateAndOrTime.date": "2026-02-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

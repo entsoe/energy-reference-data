@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000002980> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "LNG System Operator" ;
+    cim:IdentifiedObject.mRID "37X0000000002980" ;
+    cim:IdentifiedObject.name "Erdgas Südwest-Bio-LNG GmbH" ;
+    cim:Names.name "DE348434650",
+        "ERDGAS_SUEDWEST",
+        "LNG System Operator" ;
+    dcterms:identifier "urn:eic:37X0000000002980" ;
+    schema1:vatID "DE348434650" ;
+    skos:altLabel "ERDGAS_SUEDWEST" ;
+    skos:definition "LNG System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Erdgas Südwest-Bio-LNG GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

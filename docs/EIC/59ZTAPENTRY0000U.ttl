@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "59ZTAPENTRY0000U" ;
     cim:IdentifiedObject.name "50169101" ;
-    cim:Names.name "TAPENTRY" ;
+    cim:Names.name "Connection Point",
+        "TAPENTRY" ;
     dcterms:identifier "urn:eic:59ZTAPENTRY0000U" ;
     skos:altLabel "TAPENTRY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

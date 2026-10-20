@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-15" ;
+    cim:DateAndOrTime.date "2026-01-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XSMURN-12345-L" ;
-    cim:IdentifiedObject.name "SMURFIT KAPPA NAVARRA, S.A." ;
+    cim:IdentifiedObject.name "SMURFIT WESTROCK NAVARRA S.A." ;
     cim:Names.name "ESA31004153",
-        "Production Responsible party",
+        "Production Responsible Party",
         "SMURN" ;
     dcterms:identifier "urn:eic:18XSMURN-12345-L" ;
     schema1:vatID "ESA31004153" ;
     skos:altLabel "SMURN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SMURFIT KAPPA NAVARRA, S.A." ;
+    skos:prefLabel "SMURFIT WESTROCK NAVARRA S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

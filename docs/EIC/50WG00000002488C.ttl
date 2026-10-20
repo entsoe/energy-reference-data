@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002488C" ;
     cim:IdentifiedObject.name "SAMNANGEG104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SAMNANGEG104_" ;
+        "NO-SAMNANGEG104" ;
     dcterms:identifier "urn:eic:50WG00000002488C" ;
-    skos:altLabel "NO-SAMNANGEG104_" ;
+    skos:altLabel "NO-SAMNANGEG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SAMNANGEG104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

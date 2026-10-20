@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XNATGAST00000G" ;
     cim:IdentifiedObject.name "natGAS Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE209954319",
-        "NATGAS-T" ;
+    cim:Names.name "DE209954319",
+        "NATGAS-T",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNATGAST00000G" ;
     schema1:vatID "DE209954319" ;
     skos:altLabel "NATGAS-T" ;

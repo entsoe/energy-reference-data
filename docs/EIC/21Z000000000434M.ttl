@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-02" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000434M" ;
     cim:IdentifiedObject.name "ALIVERI (PPC)" ;
     cim:Names.name "ALIVERI-PPC-GR",
-        "Connection Point" ;
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000434M" ;
     skos:altLabel "ALIVERI-PPC-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -4,19 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000HEXAJ</dcterms:identifier>
-    <skos:prefLabel>HEXA TELECOM Sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</skos:prefLabel>
-    <skos:altLabel>HEXA</skos:altLabel>
+    <skos:prefLabel>HEXA GRID SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>HEXA_GRID</skos:altLabel>
     <skos:definition xml:lang="en">Consumer, Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000HEXAJ</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>HEXA TELECOM Sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</cim:IdentifiedObject.name>
-    <cim:Names.name>HEXA</cim:Names.name>
+    <cim:IdentifiedObject.name>HEXA GRID SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>HEXA_GRID</cim:Names.name>
+    <cim:Names.name>A0011831J.PL</cim:Names.name>
     <cim:Names.name>PL5213544910</cim:Names.name>
     <cim:IdentifiedObject.description>Consumer, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-08-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Consumer</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-10-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5213544910</schema:vatID>
   </skos:Concept>

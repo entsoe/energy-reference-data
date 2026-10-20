@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVALLE-12345-X",
     "@skos:prefLabel": "ENFILA VALLES SL",
     "@skos:altLabel": "VALLE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVALLE-12345-X",
     "@cim:IdentifiedObject.name": "ENFILA VALLES SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB62829205",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-11-28",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB62829205",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

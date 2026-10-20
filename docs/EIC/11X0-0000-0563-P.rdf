@@ -5,14 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11X0-0000-0563-P</dcterms:identifier>
     <skos:prefLabel>RWE Generation SE</skos:prefLabel>
-    <skos:altLabel>RWE-GENERATION</skos:altLabel>
+    <skos:altLabel>RWEG-KAPRES-GERK</skos:altLabel>
     <cim:IdentifiedObject.mRID>11X0-0000-0563-P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>RWE Generation SE</cim:IdentifiedObject.name>
-    <cim:Names.name>RWE-GENERATION</cim:Names.name>
+    <cim:Names.name>RWEG-KAPRES-GERK</cim:Names.name>
     <cim:Names.name>DE114216469</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE114216469</schema:vatID>

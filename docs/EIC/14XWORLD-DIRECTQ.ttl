@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Coordinating Scheduler" ;
     cim:IdentifiedObject.mRID "14XWORLD-DIRECTQ" ;
     cim:IdentifiedObject.name "World-Direct eBusiness solutions Gesellschaft m.b.H." ;
     cim:Names.name "ATU53754209",
-        "Valid EIC Function needed",
+        "Information Provider",
         "WORLD-DIRECT" ;
     dcterms:identifier "urn:eic:14XWORLD-DIRECTQ" ;
     schema1:vatID "ATU53754209" ;

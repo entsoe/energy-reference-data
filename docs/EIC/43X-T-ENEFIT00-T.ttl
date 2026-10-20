@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-01-21" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "43X-T-ENEFIT00-T" ;
-    cim:IdentifiedObject.name "SIA Enefit" ;
-    cim:Names.name "40003824046",
-        "Balance Responsible Party",
-        "LV-ENEFIT" ;
+    cim:IdentifiedObject.name "Enefit SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-ENEFIT",
+        "LV40003824046" ;
     dcterms:identifier "urn:eic:43X-T-ENEFIT00-T" ;
-    schema1:vatID "40003824046" ;
+    schema1:vatID "LV40003824046" ;
     skos:altLabel "LV-ENEFIT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SIA Enefit" ;
+    skos:prefLabel "Enefit SIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

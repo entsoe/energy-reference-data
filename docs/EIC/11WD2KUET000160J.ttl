@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-04-06" ;
+    cim:DateAndOrTime.date "2026-08-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11WD2KUET000160J" ;
-    cim:IdentifiedObject.name "Kuehtai-KW" ;
+    cim:IdentifiedObject.name "Kuehtai-1-KW" ;
     cim:Names.name "Generation",
-        "KUEHTAI_TIWAG" ;
+        "KUEHTAI-1_TIWAG" ;
     dcterms:identifier "urn:eic:11WD2KUET000160J" ;
-    skos:altLabel "KUEHTAI_TIWAG" ;
+    skos:altLabel "KUEHTAI-1_TIWAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kuehtai-KW" ;
+    skos:prefLabel "Kuehtai-1-KW" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XEOP20-12345-P</dcterms:identifier>
     <skos:prefLabel>ENERGIA OPERATIVA S.L.</skos:prefLabel>
     <skos:altLabel>EOP20</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XEOP20-12345-P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ENERGIA OPERATIVA S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>EOP20</cim:Names.name>
     <cim:Names.name>ESB66115338</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-11-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-07</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB66115338</schema:vatID>

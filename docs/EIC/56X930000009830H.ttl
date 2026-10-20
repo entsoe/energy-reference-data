@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-28" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X930000009830H" ;
-    cim:IdentifiedObject.name "Limited Lability Company PROMGAZ CITY" ;
+    cim:IdentifiedObject.name "PROMGAZ CITY Limited Lability Company " ;
     cim:Names.name "415592726554",
         "Network User",
         "PROMGAZ_CITY_LLC",
@@ -19,6 +19,6 @@
     schema1:vatID "415592726554" ;
     skos:altLabel "PROMGAZ_CITY_LLC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Limited Lability Company PROMGAZ CITY" ;
+    skos:prefLabel "PROMGAZ CITY Limited Lability Company " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XRWETRADING-SG",
     "@skos:prefLabel": "RWE Supply & Trading GmbH",
     "@skos:altLabel": "RWETRADING_S",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XRWETRADING-SG",
     "@cim:IdentifiedObject.name": "RWE Supply & Trading GmbH",
     "@cim:Names.name": [
         "RWETRADING_S",
         "DE813022070",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-04-01",
+    "@cim:DateAndOrTime.date": "2024-11-13",
     "@schema:vatID": "DE813022070",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

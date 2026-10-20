@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XNEBIN-12345-0",
-    "@skos:prefLabel": "ENERGIAS RENOVABLES DE PEÑA NEBINA, S.L.",
+    "@skos:prefLabel": "ENERGIAS RENOVABLES DE PEÑANEBINA, S.L.",
     "@skos:altLabel": "NEBIN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNEBIN-12345-0",
-    "@cim:IdentifiedObject.name": "ENERGIAS RENOVABLES DE PEÑA NEBINA, S.L.",
+    "@cim:IdentifiedObject.name": "ENERGIAS RENOVABLES DE PEÑANEBINA, S.L.",
     "@cim:Names.name": [
         "NEBIN",
         "ESB84299908",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-12-12",
+    "@cim:DateAndOrTime.date": "2026-03-31",
     "@schema:vatID": "ESB84299908",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

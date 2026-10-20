@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000BREDB-19> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Unit code for EDF Renewables Bredbury BESS asset (NG BMU ID BREDB-1)" ;
+    cim:IdentifiedObject.mRID "48W00000BREDB-19" ;
+    cim:IdentifiedObject.name "BREDBURY BESS" ;
+    cim:Names.name "BREDB-1",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W00000BREDB-19" ;
+    skos:altLabel "BREDB-1" ;
+    skos:definition "Unit code for EDF Renewables Bredbury BESS asset (NG BMU ID BREDB-1)"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BREDBURY BESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

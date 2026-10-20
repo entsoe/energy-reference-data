@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-08-11" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21W0000000000273" ;
     cim:IdentifiedObject.name "UGS Peckensen" ;
-    cim:Names.name "Gas Storage Facility",
-        "PECKENSEN" ;
+    cim:Names.name "PECKENSEN",
+        "Resource Object" ;
     dcterms:identifier "urn:eic:21W0000000000273" ;
     skos:altLabel "PECKENSEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

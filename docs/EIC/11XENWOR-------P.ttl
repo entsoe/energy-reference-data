@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-11-26" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XENWOR-------P" ;
-    cim:IdentifiedObject.name "enwor energie & wasser vor ort GmbH" ;
-    cim:Names.name "Balance Responsible Party",
-        "DE121742832",
-        "ENWOR" ;
+    cim:IdentifiedObject.name "STAWAG - Stadt- und Städteregionswerke Aachen AG" ;
+    cim:Names.name "DE811163786",
+        "ENWOR",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XENWOR-------P" ;
-    schema1:vatID "DE121742832" ;
+    schema1:vatID "DE811163786" ;
     skos:altLabel "ENWOR" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "enwor energie & wasser vor ort GmbH" ;
+    skos:prefLabel "STAWAG - Stadt- und Städteregionswerke Aachen AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

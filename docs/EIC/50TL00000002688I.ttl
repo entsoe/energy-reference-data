@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002688I" ;
-    cim:IdentifiedObject.name "M 22 Storelvvatn-Sulitjelma" ;
+    cim:IdentifiedObject.name "N 22 Storelvvatn-Sulitjelma" ;
     cim:Names.name "Internal Line",
-        "NO-STORELVVATNSU" ;
+        "NO-22STORELVVATN" ;
     dcterms:identifier "urn:eic:50TL00000002688I" ;
-    skos:altLabel "NO-STORELVVATNSU" ;
+    skos:altLabel "NO-22STORELVVATN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Storelvvatn-Sulitjelma" ;
+    skos:prefLabel "N 22 Storelvvatn-Sulitjelma" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROSCCETSABC-Z" ;
     cim:IdentifiedObject.name "SC CET SA BACAU" ;
-    cim:Names.name "SCCETSABC",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "RO14639374",
+        "SCCETSABC" ;
     dcterms:identifier "urn:eic:30XROSCCETSABC-Z" ;
+    schema1:vatID "RO14639374" ;
     skos:altLabel "SCCETSABC" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

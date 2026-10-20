@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-19" ;
+    cim:DateAndOrTime.date "2024-06-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "33XPOWERENERGYSA" ;
-    cim:IdentifiedObject.name "INFITIVE POWER DOOEL" ;
+    cim:IdentifiedObject.name "INFINITIVE POWER DOOEL" ;
     cim:Names.name "4038013507890",
-        "INFITIVE_POWER",
+        "INFINITIVE_POWER",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:33XPOWERENERGYSA" ;
     schema1:vatID "4038013507890" ;
-    skos:altLabel "INFITIVE_POWER" ;
+    skos:altLabel "INFINITIVE_POWER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "INFITIVE POWER DOOEL" ;
+    skos:prefLabel "INFINITIVE POWER DOOEL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

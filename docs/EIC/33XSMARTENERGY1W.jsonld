@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:33XSMARTENERGY1W",
-    "@skos:prefLabel": "SMART ENERGY TRADE DOOEL ",
+    "@skos:prefLabel": "SMART ENERGY TRADING DOOEL ",
     "@skos:altLabel": "SMARTENERGY1",
     "@cim:IdentifiedObject.mRID": "33XSMARTENERGY1W",
-    "@cim:IdentifiedObject.name": "SMART ENERGY TRADE DOOEL ",
+    "@cim:IdentifiedObject.name": "SMART ENERGY TRADING DOOEL ",
     "@cim:Names.name": [
         "SMARTENERGY1",
         "MK4032022555611",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-09",
+    "@cim:DateAndOrTime.date": "2025-01-23",
     "@schema:vatID": "MK4032022555611",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

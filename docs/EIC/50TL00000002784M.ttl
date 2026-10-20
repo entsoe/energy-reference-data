@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002784M" ;
-    cim:IdentifiedObject.name "M 22 Embla-Stadheim" ;
+    cim:IdentifiedObject.name "N 22 Tomasgard-Stadheim" ;
     cim:Names.name "Internal Line",
-        "NO-EMBLASTADHEIM" ;
+        "NO-22TOMASGARDST" ;
     dcterms:identifier "urn:eic:50TL00000002784M" ;
-    skos:altLabel "NO-EMBLASTADHEIM" ;
+    skos:altLabel "NO-22TOMASGARDST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Embla-Stadheim" ;
+    skos:prefLabel "N 22 Tomasgard-Stadheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

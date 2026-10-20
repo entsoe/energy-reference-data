@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69T5EDK1LIZWLU8X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Busbar Coupler" ;
+    cim:IdentifiedObject.mRID "69T5EDK1LIZWLU8X" ;
+    cim:IdentifiedObject.name "VASILIKO 132 BCOUPLER1 BREAKER 685" ;
+    cim:Names.name "Busbar Coupler",
+        "VASSMAIN_BC_685" ;
+    dcterms:identifier "urn:eic:69T5EDK1LIZWLU8X" ;
+    skos:altLabel "VASSMAIN_BC_685" ;
+    skos:definition "Busbar Coupler"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASILIKO 132 BCOUPLER1 BREAKER 685" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

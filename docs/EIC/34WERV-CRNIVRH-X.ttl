@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/34WERV-CRNIVRH-X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "34WERV-CRNIVRH-X" ;
+    cim:IdentifiedObject.name "VE CRNI VRH" ;
+    cim:Names.name "CRVR",
+        "Production Plant" ;
+    dcterms:identifier "urn:eic:34WERV-CRNIVRH-X" ;
+    skos:altLabel "CRVR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VE CRNI VRH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

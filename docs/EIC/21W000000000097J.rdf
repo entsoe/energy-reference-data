@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W000000000097J</dcterms:identifier>
-    <skos:prefLabel>Epe KGE</skos:prefLabel>
-    <skos:altLabel>UGS-EPE-KGE</skos:altLabel>
-    <skos:definition xml:lang="en">System Operator</skos:definition>
+    <skos:prefLabel>UGS Epe MET</skos:prefLabel>
+    <skos:altLabel>UGS-EPE-MET</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W000000000097J</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Epe KGE</cim:IdentifiedObject.name>
-    <cim:Names.name>UGS-EPE-KGE</cim:Names.name>
-    <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>UGS Epe MET</cim:IdentifiedObject.name>
+    <cim:Names.name>UGS-EPE-MET</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-23</cim:DateAndOrTime.date>
-    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-09-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

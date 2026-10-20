@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002502L",
-    "@skos:prefLabel": "S Saurdal 300 T4 Kabel",
-    "@skos:altLabel": "NO-SAURDAL300T4K",
+    "@skos:prefLabel": "S Saurdal  300 T4 Kabel",
+    "@skos:altLabel": "NO-SAURDAL300T4",
     "@cim:IdentifiedObject.mRID": "50TL00000002502L",
-    "@cim:IdentifiedObject.name": "S Saurdal 300 T4 Kabel",
+    "@cim:IdentifiedObject.name": "S Saurdal  300 T4 Kabel",
     "@cim:Names.name": [
-        "NO-SAURDAL300T4K",
+        "NO-SAURDAL300T4",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,16 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:31X-ADRIASOL---G</dcterms:identifier>
-    <skos:prefLabel>Adria Sol d.o.o.</skos:prefLabel>
+    <skos:prefLabel>ADRIA SOL d.o.o.</skos:prefLabel>
     <skos:altLabel>ADRIASOL-HR</skos:altLabel>
     <cim:IdentifiedObject.mRID>31X-ADRIASOL---G</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Adria Sol d.o.o.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ADRIA SOL d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>ADRIASOL-HR</cim:Names.name>
     <cim:Names.name>HR47042943341</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-04-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-08-23</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>HR47042943341</schema:vatID>
   </skos:Concept>

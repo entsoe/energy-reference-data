@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005860O",
-    "@skos:prefLabel": "N Svelgen  T5 Transformator",
-    "@skos:altLabel": "NO-SVELGEN_T5",
+    "@skos:prefLabel": "N Svelgen  T1 Transformator",
+    "@skos:altLabel": "NO-SVELGENT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005860O",
-    "@cim:IdentifiedObject.name": "N Svelgen  T5 Transformator",
+    "@cim:IdentifiedObject.name": "N Svelgen  T1 Transformator",
     "@cim:Names.name": [
-        "NO-SVELGEN_T5",
+        "NO-SVELGENT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

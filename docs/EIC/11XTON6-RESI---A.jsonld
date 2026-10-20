@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XTON6-RESI---A",
     "@skos:prefLabel": "TenneT Offshore 9. Beteiligungsgesellschaft mbH",
     "@skos:altLabel": "TON6-RESI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XTON6-RESI---A",
     "@cim:IdentifiedObject.name": "TenneT Offshore 9. Beteiligungsgesellschaft mbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE284075035",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-04-26",
+    "@cim:DateAndOrTime.date": "2024-09-18",
     "@schema:vatID": "DE284075035",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

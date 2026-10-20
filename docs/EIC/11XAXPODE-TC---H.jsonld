@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XAXPODE-TC---H",
     "@skos:prefLabel": "Axpo Deutschland GmbH",
     "@skos:altLabel": "AXPODE_TC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XAXPODE-TC---H",
     "@cim:IdentifiedObject.name": "Axpo Deutschland GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE142394844",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-24",
+    "@cim:DateAndOrTime.date": "2025-08-21",
     "@schema:vatID": "DE142394844",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

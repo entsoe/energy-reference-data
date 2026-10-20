@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000078E" ;
     cim:IdentifiedObject.name "NYNEX space GmbH" ;
-    cim:Names.name "DE289703237",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE289703237",
         "NYNEXSPACE" ;
     dcterms:identifier "urn:eic:37X000000000078E" ;
     schema1:vatID "DE289703237" ;

@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Y0000000000557",
-    "@skos:prefLabel": "Delivery to other networks Italy",
+    "@skos:prefLabel": "DEL OTHERNET IT",
     "@skos:altLabel": "DEL_OTHERNET_IT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregate Exit Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000557",
-    "@cim:IdentifiedObject.name": "Delivery to other networks Italy",
+    "@cim:IdentifiedObject.name": "DEL OTHERNET IT",
     "@cim:Names.name": [
         "DEL_OTHERNET_IT",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregate Exit Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

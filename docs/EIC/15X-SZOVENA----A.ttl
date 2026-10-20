@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/15X-SZOVENA----A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "15X-SZOVENA----A" ;
+    cim:IdentifiedObject.name "Szovena Kft." ;
+    cim:Names.name "Balance Responsible Party",
+        "HU14690903",
+        "SZOVENA" ;
+    dcterms:identifier "urn:eic:15X-SZOVENA----A" ;
+    schema1:vatID "HU14690903" ;
+    skos:altLabel "SZOVENA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Szovena Kft." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

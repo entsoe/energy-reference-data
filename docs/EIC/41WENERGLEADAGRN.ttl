@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WENERGLEADAGRN> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Agreguoto portfelio W kodas, kuris bus naudojamas balansavimo 
+veikloms  LT100017778410    306985433     Edvardas Norkeliūnas   +37068606267    edvardas.norkeliunas@icor.lt    """ ;
+    cim:IdentifiedObject.mRID "41WENERGLEADAGRN" ;
+    cim:IdentifiedObject.name "Energy lead, UAB balance/agreg" ;
+    cim:Names.name "ENERGYLEAD",
+        "Resource Capacity Market Unit" ;
+    dcterms:identifier "urn:eic:41WENERGLEADAGRN" ;
+    skos:altLabel "ENERGYLEAD" ;
+    skos:definition """Agreguoto portfelio W kodas, kuris bus naudojamas balansavimo 
+veikloms  LT100017778410    306985433     Edvardas Norkeliūnas   +37068606267    edvardas.norkeliunas@icor.lt    """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energy lead, UAB balance/agreg" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

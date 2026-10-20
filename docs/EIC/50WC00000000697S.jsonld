@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000697S",
-    "@skos:prefLabel": "N Char.lun 11  Forbruk",
-    "@skos:altLabel": "NO-CHARLUND11",
+    "@skos:prefLabel": "N Char.lun 11  L1 Forbruk",
+    "@skos:altLabel": "NO-CHAR_LUN11L1",
     "@cim:IdentifiedObject.mRID": "50WC00000000697S",
-    "@cim:IdentifiedObject.name": "N Char.lun 11  Forbruk",
+    "@cim:IdentifiedObject.name": "N Char.lun 11  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-CHARLUND11",
+        "NO-CHAR_LUN11L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

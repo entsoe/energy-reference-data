@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000017418" ;
-    cim:IdentifiedObject.name "N 66 Falkelv-Botn" ;
+    cim:IdentifiedObject.name "N 66 Falkelv-Salhuselva" ;
     cim:Names.name "Internal Line",
-        "NO-FALKELVBOTN" ;
+        "NO-66FALKELVSALH" ;
     dcterms:identifier "urn:eic:50TL000000017418" ;
-    skos:altLabel "NO-FALKELVBOTN" ;
+    skos:altLabel "NO-66FALKELVSALH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N 66 Falkelv-Botn" ;
+    skos:prefLabel "N 66 Falkelv-Salhuselva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

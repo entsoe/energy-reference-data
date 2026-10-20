@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X100A100P0714V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X100A100P0714V" ;
+    cim:IdentifiedObject.name "Ferme Eolienne de Quesnoy-sur-Airaines 1 SAS" ;
+    cim:Names.name "FR44481952885",
+        "FR_QUESNOY1SAS",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X100A100P0714V" ;
+    schema1:vatID "FR44481952885" ;
+    skos:altLabel "FR_QUESNOY1SAS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Ferme Eolienne de Quesnoy-sur-Airaines 1 SAS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

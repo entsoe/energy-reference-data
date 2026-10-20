@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-12-02" ;
+    cim:DateAndOrTime.date "2025-10-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XDERSC-12345-R" ;
-    cim:IdentifiedObject.name "DEERS GREEN POWER DEVELOPMENT COMPANY, S.L." ;
+    cim:IdentifiedObject.name "DEERS GREEN POWER DEVELOPMENT COMPANY S.A" ;
     cim:Names.name "DERSC",
-        "ESB99168643",
-        "Production Responsible party" ;
+        "ESA99168643",
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XDERSC-12345-R" ;
-    schema1:vatID "ESB99168643" ;
+    schema1:vatID "ESA99168643" ;
     skos:altLabel "DERSC" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DEERS GREEN POWER DEVELOPMENT COMPANY, S.L." ;
+    skos:prefLabel "DEERS GREEN POWER DEVELOPMENT COMPANY S.A" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

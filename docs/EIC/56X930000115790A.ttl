@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-07-21" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X930000115790A" ;
-    cim:IdentifiedObject.name "Limited Lability Company OPERATOR ENERHII" ;
+    cim:IdentifiedObject.name "OPERATOR ENERHII Limited Lability Company " ;
     cim:Names.name "434187826552",
         "Network User",
         "OPERATOR_ENERHII",
@@ -19,6 +19,6 @@
     schema1:vatID "434187826552" ;
     skos:altLabel "OPERATOR_ENERHII" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Limited Lability Company OPERATOR ENERHII" ;
+    skos:prefLabel "OPERATOR ENERHII Limited Lability Company " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

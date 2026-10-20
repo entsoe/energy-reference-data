@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-04-19" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "63Y564764785539O" ;
     cim:IdentifiedObject.name "GRTgaz aggregated end consumers" ;
-    cim:Names.name "FRG_POOL_GRTGAZ" ;
+    cim:Names.name "FRG_POOL_GRTGAZ",
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:63Y564764785539O" ;
     skos:altLabel "FRG_POOL_GRTGAZ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

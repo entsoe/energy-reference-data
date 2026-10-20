@@ -12,23 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:58X-BULGARGAZ-1G",
-    "@skos:prefLabel": "BULGARGAZ",
+    "@skos:prefLabel": "BULGARGAZ EAD",
     "@skos:altLabel": "BULGARGAZ",
     "@skos:definition": {
         "@language": "en",
         "@value": "Network User"
     },
     "@cim:IdentifiedObject.mRID": "58X-BULGARGAZ-1G",
-    "@cim:IdentifiedObject.name": "BULGARGAZ",
+    "@cim:IdentifiedObject.name": "BULGARGAZ EAD",
     "@cim:Names.name": [
         "BULGARGAZ",
+        "A00112088.BG",
         "BG175203485",
         "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-15",
+    "@cim:DateAndOrTime.date": "2024-05-17",
     "@schema:vatID": "BG175203485",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

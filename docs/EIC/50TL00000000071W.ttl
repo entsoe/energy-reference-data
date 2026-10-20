@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000071W" ;
     cim:IdentifiedObject.name "S 12 Tangeland-Trengereid" ;
     cim:Names.name "Internal Line",
-        "NO-TANGELANDTREN" ;
+        "NO-12TANGELANDTR" ;
     dcterms:identifier "urn:eic:50TL00000000071W" ;
-    skos:altLabel "NO-TANGELANDTREN" ;
+    skos:altLabel "NO-12TANGELANDTR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 12 Tangeland-Trengereid" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

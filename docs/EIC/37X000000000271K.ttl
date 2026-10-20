@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Consumer" ;
     cim:IdentifiedObject.mRID "37X000000000271K" ;
     cim:IdentifiedObject.name "Emsland Stärke GmbH" ;
-    cim:Names.name "DE117039665",
+    cim:Names.name "Consumer",
+        "DE117039665",
         "EMSLANDSTAERKE" ;
     dcterms:identifier "urn:eic:37X000000000271K" ;
     schema1:vatID "DE117039665" ;

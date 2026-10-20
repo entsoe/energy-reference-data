@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGTRADE------H" ;
     cim:IdentifiedObject.name "Germania Trade GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE243152228",
-        "GTRADE" ;
+    cim:Names.name "DE243152228",
+        "GTRADE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGTRADE------H" ;
     schema1:vatID "DE243152228" ;
     skos:altLabel "GTRADE" ;

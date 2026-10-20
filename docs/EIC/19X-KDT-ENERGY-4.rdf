@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19X-KDT-ENERGY-4</dcterms:identifier>
-    <skos:prefLabel>KDT K. KA&#321;U&#379;NY, D. PAJESTKA SP&#211;&#321;KA JAWNA</skos:prefLabel>
-    <skos:altLabel>KDT_SP_J</skos:altLabel>
+    <skos:prefLabel>2KTRADE SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>2KTRADE_SPZOO</skos:altLabel>
     <cim:IdentifiedObject.mRID>19X-KDT-ENERGY-4</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>KDT K. KA&#321;U&#379;NY, D. PAJESTKA SP&#211;&#321;KA JAWNA</cim:IdentifiedObject.name>
-    <cim:Names.name>KDT_SP_J</cim:Names.name>
+    <cim:IdentifiedObject.name>2KTRADE SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>2KTRADE_SPZOO</cim:Names.name>
     <cim:Names.name>PL9542794171</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-07-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-12</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL9542794171</schema:vatID>

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000145U" ;
     cim:IdentifiedObject.name "S Saugbrug 45  L1 Industri" ;
     cim:Names.name "Load",
-        "NO-SAUGBRU45L1NC" ;
+        "NO-SAUGBRUG5L1NC" ;
     dcterms:identifier "urn:eic:50WC00000000145U" ;
-    skos:altLabel "NO-SAUGBRU45L1NC" ;
+    skos:altLabel "NO-SAUGBRUG5L1NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Saugbrug 45  L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

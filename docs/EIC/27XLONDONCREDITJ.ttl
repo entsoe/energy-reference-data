@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27XLONDONCREDITJ" ;
     cim:IdentifiedObject.name "LONDON CREDIT s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ24133086",
-        "LONDONCREDIT" ;
+        "LONDONCREDIT",
+        "cz24133086" ;
     dcterms:identifier "urn:eic:27XLONDONCREDITJ" ;
-    schema1:vatID "CZ24133086" ;
+    schema1:vatID "cz24133086" ;
     skos:altLabel "LONDONCREDIT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "LONDON CREDIT s.r.o." ;

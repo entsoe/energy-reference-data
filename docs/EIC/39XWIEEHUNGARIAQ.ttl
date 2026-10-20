@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-09" ;
+    cim:DateAndOrTime.date "2025-11-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Interconnection Trade Responsible" ;
     cim:IdentifiedObject.mRID "39XWIEEHUNGARIAQ" ;
-    cim:IdentifiedObject.name "WIEE Hungary Ltd." ;
+    cim:IdentifiedObject.name "SEFE Central & Eastern Europe Kft" ;
     cim:Names.name "HU22916862",
-        "HUFWIEE",
-        "Interconnection Trade Responsible" ;
+        "Interconnection Trade Responsible",
+        "SEFECEE" ;
     dcterms:identifier "urn:eic:39XWIEEHUNGARIAQ" ;
     schema1:vatID "HU22916862" ;
-    skos:altLabel "HUFWIEE" ;
+    skos:altLabel "SEFECEE" ;
     skos:definition "Interconnection Trade Responsible"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WIEE Hungary Ltd." ;
+    skos:prefLabel "SEFE Central & Eastern Europe Kft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-03-03" ;
+    cim:DateAndOrTime.date "2025-09-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XAGRAG-12345-1" ;
     cim:IdentifiedObject.name "AGRAGUA, S.A." ;
     cim:Names.name "AGRAG",
         "ESA35233600",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XAGRAG-12345-1" ;
     schema1:vatID "ESA35233600" ;
     skos:altLabel "AGRAG" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "AGRAGUA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

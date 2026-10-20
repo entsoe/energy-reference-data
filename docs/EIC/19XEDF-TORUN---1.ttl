@@ -7,19 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-12-17" ;
+    cim:DateAndOrTime.date "2024-09-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XEDF-TORUN---1" ;
-    cim:IdentifiedObject.name "EDF TORUŃ SPÓŁKA AKCYJNA" ;
-    cim:Names.name "Balance Responsible Party",
-        "EDF_TORUN_SA",
-        "PL8790170662" ;
+    cim:IdentifiedObject.name "PGE TORUŃ SPÓŁKA AKCYJNA" ;
+    cim:Names.name "A0009987U.PL",
+        "Consumer",
+        "PGE_TORUN_SA",
+        "PL8790170662",
+        "Producer" ;
     dcterms:identifier "urn:eic:19XEDF-TORUN---1" ;
     schema1:vatID "PL8790170662" ;
-    skos:altLabel "EDF_TORUN_SA" ;
+    skos:altLabel "PGE_TORUN_SA" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EDF TORUŃ SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "PGE TORUŃ SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

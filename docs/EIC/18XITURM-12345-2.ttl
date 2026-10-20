@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2026-09-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XITURM-12345-2" ;
-    cim:IdentifiedObject.name "ELECTRA ITUMAYOR S.L." ;
+    cim:IdentifiedObject.name "ELECTRA ITURMAYOR, S.L." ;
     cim:Names.name "ESB31206436",
         "ITURM",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XITURM-12345-2" ;
     schema1:vatID "ESB31206436" ;
     skos:altLabel "ITURM" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ELECTRA ITUMAYOR S.L." ;
+    skos:prefLabel "ELECTRA ITURMAYOR, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Gazprom export",
     "@cim:Names.name": [
         "GAZPROM-EXPORT",
+        "7706193766",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-05-26",
+    "@cim:DateAndOrTime.date": "2024-12-04",
+    "@schema:vatID": "7706193766",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WKELM1VEJASLTP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Vėjas LT, UAB
+305156725
+L-6848, Kelmė I WF """ ;
+    cim:IdentifiedObject.mRID "41WKELM1VEJASLTP" ;
+    cim:IdentifiedObject.name "KELME 1 VEJAS LT" ;
+    cim:Names.name "KELME1VEJASLT",
+        "Production Plant" ;
+    dcterms:identifier "urn:eic:41WKELM1VEJASLTP" ;
+    skos:altLabel "KELME1VEJASLT" ;
+    skos:definition """Vėjas LT, UAB
+305156725
+L-6848, Kelmė I WF """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "KELME 1 VEJAS LT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

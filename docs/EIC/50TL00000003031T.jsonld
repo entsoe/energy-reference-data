@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000003031T",
     "@skos:prefLabel": "S 132 ÅnaSira-Tellenes",
-    "@skos:altLabel": "NO-ANASIRATELLEN",
+    "@skos:altLabel": "NO-132ANA_SIRATE",
     "@cim:IdentifiedObject.mRID": "50TL00000003031T",
     "@cim:IdentifiedObject.name": "S 132 ÅnaSira-Tellenes",
     "@cim:Names.name": [
-        "NO-ANASIRATELLEN",
+        "NO-132ANA_SIRATE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

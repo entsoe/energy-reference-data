@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22W20231024----8",
-    "@skos:prefLabel": "Seraing CCGT",
-    "@skos:altLabel": "BE_SERAING_CCGT",
+    "@skos:prefLabel": "LUMINUS SERAING 2.0 CCGT",
+    "@skos:altLabel": "BE_PU_SERAING2_0",
     "@cim:IdentifiedObject.mRID": "22W20231024----8",
-    "@cim:IdentifiedObject.name": "Seraing CCGT",
+    "@cim:IdentifiedObject.name": "LUMINUS SERAING 2.0 CCGT",
     "@cim:Names.name": [
-        "BE_SERAING_CCGT",
+        "BE_PU_SERAING2_0",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-27",
+    "@cim:DateAndOrTime.date": "2025-05-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -16,7 +16,10 @@
     "@skos:altLabel": "EMS_OPDE",
     "@cim:IdentifiedObject.mRID": "10V1001C--00010N",
     "@cim:IdentifiedObject.name": "EMS OPDE Endpoint",
-    "@cim:Names.name": "EMS_OPDE",
+    "@cim:Names.name": [
+        "EMS_OPDE",
+        "IT-system"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-07-17",

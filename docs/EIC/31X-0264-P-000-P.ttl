@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0264-P-000-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0264-P-000-P" ;
+    cim:IdentifiedObject.name "DOMINIK B" ;
+    cim:Names.name "HR-DOMINIK-B",
+        "HR70053987819",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0264-P-000-P" ;
+    schema1:vatID "HR70053987819" ;
+    skos:altLabel "HR-DOMINIK-B" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DOMINIK B" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

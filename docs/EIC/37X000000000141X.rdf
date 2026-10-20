@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X000000000141X</dcterms:identifier>
-    <skos:prefLabel>WELTEC Produktion Barleben GmbH</skos:prefLabel>
-    <skos:altLabel>WELTEC_PRODUKTIO</skos:altLabel>
+    <skos:prefLabel>NEXOGAS Produktion Barleben GmbH</skos:prefLabel>
+    <skos:altLabel>NEXOGAS_PRODUKTI</skos:altLabel>
     <skos:definition xml:lang="en">Producer</skos:definition>
     <cim:IdentifiedObject.mRID>37X000000000141X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>WELTEC Produktion Barleben GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>WELTEC_PRODUKTIO</cim:Names.name>
+    <cim:IdentifiedObject.name>NEXOGAS Produktion Barleben GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>NEXOGAS_PRODUKTI</cim:Names.name>
     <cim:Names.name>DE287261909</cim:Names.name>
     <cim:IdentifiedObject.description>Producer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-07-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-12-05</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE287261909</schema:vatID>

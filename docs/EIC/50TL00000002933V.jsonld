@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002933V",
-    "@skos:prefLabel": "M 66 T_Øyan-Åfjord",
-    "@skos:altLabel": "NO-TOYANAFJORD",
+    "@skos:prefLabel": "N 66 T_Øyan-Åfjord",
+    "@skos:altLabel": "NO-66T_OYAN_AFJO",
     "@cim:IdentifiedObject.mRID": "50TL00000002933V",
-    "@cim:IdentifiedObject.name": "M 66 T_Øyan-Åfjord",
+    "@cim:IdentifiedObject.name": "N 66 T_Øyan-Åfjord",
     "@cim:Names.name": [
-        "NO-TOYANAFJORD",
+        "NO-66T_OYAN_AFJO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

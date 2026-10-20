@@ -1,0 +1,51 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/67X-RS-00000010K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company Name: YAR STREAM
+ENERGY DOO BEOGRAD
+Company Registration Number: 22051385
+Registered Address:
+Gospodara Vučića Street 173/2/204,
+11107 Belgrade, Serbia
+Contact Person:
+Maxim Yanakaev
+Contact Person’s E-mail:
+box@yar.rs
+Contact Person’s Telephone:
++381 61 3206688
+Note: YAR STREAM ENERGY holds a license for the wholesale supply of natural gas.
+""" ;
+    cim:IdentifiedObject.mRID "67X-RS-00000010K" ;
+    cim:IdentifiedObject.name "YAR STREAM ENERGY DOO BEOGRAD" ;
+    cim:Names.name "RS114648451",
+        "Trade Responsible Party",
+        "YARSTREAMENERGY" ;
+    dcterms:identifier "urn:eic:67X-RS-00000010K" ;
+    schema1:vatID "RS114648451" ;
+    skos:altLabel "YARSTREAMENERGY" ;
+    skos:definition """Company Name: YAR STREAM
+ENERGY DOO BEOGRAD
+Company Registration Number: 22051385
+Registered Address:
+Gospodara Vučića Street 173/2/204,
+11107 Belgrade, Serbia
+Contact Person:
+Maxim Yanakaev
+Contact Person’s E-mail:
+box@yar.rs
+Contact Person’s Telephone:
++381 61 3206688
+Note: YAR STREAM ENERGY holds a license for the wholesale supply of natural gas.
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "YAR STREAM ENERGY DOO BEOGRAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

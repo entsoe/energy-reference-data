@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000024546",
-    "@skos:prefLabel": "N Melkøya 100 Kabel",
-    "@skos:altLabel": "NO-MELKOYA100K",
+    "@skos:prefLabel": "N Melkøya  100 Kabel",
+    "@skos:altLabel": "NO-MELKOYA100_K",
     "@cim:IdentifiedObject.mRID": "50TL000000024546",
-    "@cim:IdentifiedObject.name": "N Melkøya 100 Kabel",
+    "@cim:IdentifiedObject.name": "N Melkøya  100 Kabel",
     "@cim:Names.name": [
-        "NO-MELKOYA100K",
+        "NO-MELKOYA100_K",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

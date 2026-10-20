@@ -13,9 +13,9 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-04-04</cim:DateAndOrTime.date>
-    <cim:Names.name>Market Operator</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <cim:Names.name>Grid Operator</cim:Names.name>
+    <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT03163990611</schema:vatID>
   </skos:Concept>

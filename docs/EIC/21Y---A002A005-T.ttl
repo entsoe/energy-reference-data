@@ -7,16 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-31" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Trading Point" ;
     cim:IdentifiedObject.mRID "21Y---A002A005-T" ;
     cim:IdentifiedObject.name "PVB ES" ;
-    cim:Names.name "PVB",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Market Area",
+        "PVB",
+        "Scheduling Area" ;
     dcterms:identifier "urn:eic:21Y---A002A005-T" ;
     skos:altLabel "PVB" ;
-    skos:definition "Virtual Trading Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PVB ES" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

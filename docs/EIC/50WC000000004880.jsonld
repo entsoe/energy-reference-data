@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000004880",
-    "@skos:prefLabel": "S Kårstø   300 Industri",
-    "@skos:altLabel": "NO-KARSTO300NC",
+    "@skos:prefLabel": "S Kårstø   300 T5 Industri",
+    "@skos:altLabel": "NO-KARSTO300T5",
     "@cim:IdentifiedObject.mRID": "50WC000000004880",
-    "@cim:IdentifiedObject.name": "S Kårstø   300 Industri",
+    "@cim:IdentifiedObject.name": "S Kårstø   300 T5 Industri",
     "@cim:Names.name": [
-        "NO-KARSTO300NC",
+        "NO-KARSTO300T5",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

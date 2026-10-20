@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XNEW-ENERGIE-8</dcterms:identifier>
     <skos:prefLabel>NEW Niederrhein Energie und Wasser GmbH</skos:prefLabel>
     <skos:altLabel>NEW-ENERGIE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XNEW-ENERGIE-8</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>NEW Niederrhein Energie und Wasser GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>NEW-ENERGIE</cim:Names.name>
     <cim:Names.name>DE814134204</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-06-25</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE814134204</schema:vatID>
   </skos:Concept>

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCHESA-12345-H</dcterms:identifier>
     <skos:prefLabel>CHESTE AGRARIA COOP.V.</skos:prefLabel>
     <skos:altLabel>CHESA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCHESA-12345-H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CHESTE AGRARIA COOP.V.</cim:IdentifiedObject.name>
     <cim:Names.name>CHESA</cim:Names.name>
     <cim:Names.name>ESF96127949</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-02-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESF96127949</schema:vatID>

@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XPSTTRADE0000O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XPSTTRADE0000O" ;
+    cim:IdentifiedObject.name "PST TRADE SPÓŁKA AKCYJNA" ;
+    cim:Names.name "A0021652H.PL",
+        "Energy Supplier",
+        "PL5842837416",
+        "PST_TRADE_SA" ;
+    dcterms:identifier "urn:eic:19XPSTTRADE0000O" ;
+    schema1:vatID "PL5842837416" ;
+    skos:altLabel "PST_TRADE_SA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PST TRADE SPÓŁKA AKCYJNA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

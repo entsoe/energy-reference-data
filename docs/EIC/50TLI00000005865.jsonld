@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TLI00000005865",
     "@skos:prefLabel": "S 132 Rendalen-Savalen",
-    "@skos:altLabel": "NO-RENDALENSAVAL",
+    "@skos:altLabel": "NO-132RENDALENSA",
     "@cim:IdentifiedObject.mRID": "50TLI00000005865",
     "@cim:IdentifiedObject.name": "S 132 Rendalen-Savalen",
     "@cim:Names.name": [
-        "NO-RENDALENSAVAL",
+        "NO-132RENDALENSA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

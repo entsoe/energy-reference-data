@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W000000000020H</dcterms:identifier>
-    <skos:prefLabel>Untergrundspeicher Kraak</skos:prefLabel>
+    <skos:prefLabel>Storage Kraak</skos:prefLabel>
     <skos:altLabel>UGSKRAAK</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W000000000020H</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Untergrundspeicher Kraak</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Storage Kraak</cim:IdentifiedObject.name>
     <cim:Names.name>UGSKRAAK</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-03-28</cim:DateAndOrTime.date>
-    <cim:Names.name>Storage Plant</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-09-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

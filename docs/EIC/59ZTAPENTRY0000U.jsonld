@@ -16,7 +16,10 @@
     "@skos:altLabel": "TAPENTRY",
     "@cim:IdentifiedObject.mRID": "59ZTAPENTRY0000U",
     "@cim:IdentifiedObject.name": "50169101",
-    "@cim:Names.name": "TAPENTRY",
+    "@cim:Names.name": [
+        "TAPENTRY",
+        "Connection Point"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-08-05",

@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:34X-0000000045-6",
-    "@skos:prefLabel": "ENEKO ENERGY d.o.o.",
+    "@skos:prefLabel": "FORTIS Power Commodities  d.o.o.",
     "@skos:altLabel": "ENKO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsibleparty"
     },
     "@cim:IdentifiedObject.mRID": "34X-0000000045-6",
-    "@cim:IdentifiedObject.name": "ENEKO ENERGY d.o.o.",
+    "@cim:IdentifiedObject.name": "FORTIS Power Commodities  d.o.o.",
     "@cim:Names.name": [
         "ENKO",
         "106888231",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Trade Responsibleparty",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-09",
+    "@cim:DateAndOrTime.date": "2024-03-01",
     "@schema:vatID": "106888231",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

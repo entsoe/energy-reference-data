@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-28" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X9300001217305" ;
-    cim:IdentifiedObject.name "Limited Liability Company \"MK MERCHANTS Ukraine\"" ;
+    cim:IdentifiedObject.name "\"MK MERCHANTS Ukraine\" Limited Liability Company " ;
     cim:Names.name "451171316091",
         "MK_MERCHANTS_UA",
         "Network User",
@@ -19,6 +19,6 @@
     schema1:vatID "451171316091" ;
     skos:altLabel "MK_MERCHANTS_UA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Limited Liability Company \"MK MERCHANTS Ukraine\"" ;
+    skos:prefLabel "\"MK MERCHANTS Ukraine\" Limited Liability Company " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

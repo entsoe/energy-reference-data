@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGENRE-12345-O</dcterms:identifier>
     <skos:prefLabel>GENERAL DE RESIDENCIAS GERIATRICAS, S.L.</skos:prefLabel>
     <skos:altLabel>GENRE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGENRE-12345-O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GENERAL DE RESIDENCIAS GERIATRICAS, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>GENRE</cim:Names.name>
     <cim:Names.name>ESB22211429</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-02-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB22211429</schema:vatID>

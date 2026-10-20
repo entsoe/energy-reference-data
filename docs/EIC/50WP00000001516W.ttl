@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001516W" ;
     cim:IdentifiedObject.name "Tendeland" ;
-    cim:Names.name "NO-TENDELAND_PL",
+    cim:Names.name "NO-TENDELAND",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001516W" ;
-    skos:altLabel "NO-TENDELAND_PL" ;
+    skos:altLabel "NO-TENDELAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Tendeland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -4,19 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:64XYARENGGAS-F4I</dcterms:identifier>
-    <skos:prefLabel>YAR Energy &amp; Gas SRL</skos:prefLabel>
-    <skos:altLabel>YARENERGYGAS</skos:altLabel>
+    <skos:prefLabel>Gas &amp; Power Trading SRL</skos:prefLabel>
+    <skos:altLabel>GAS_POWER_TRAD_F</skos:altLabel>
     <skos:definition xml:lang="en">ANRE license A MMI 000114</skos:definition>
     <cim:IdentifiedObject.mRID>64XYARENGGAS-F4I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>YAR Energy &amp; Gas SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>YARENERGYGAS</cim:Names.name>
+    <cim:IdentifiedObject.name>Gas &amp; Power Trading SRL</cim:IdentifiedObject.name>
+    <cim:Names.name>GAS_POWER_TRAD_F</cim:Names.name>
     <cim:Names.name>1017600045576</cim:Names.name>
     <cim:IdentifiedObject.description>ANRE license A MMI 000114</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-08-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-08-20</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>1017600045576</schema:vatID>
   </skos:Concept>

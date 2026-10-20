@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TT00000006221G</dcterms:identifier>
-    <skos:prefLabel>S Fins&#229;    T2 Transformator</skos:prefLabel>
-    <skos:altLabel>NO-FINSA___T2</skos:altLabel>
+    <skos:prefLabel>S Hamang   T4 Transformator</skos:prefLabel>
+    <skos:altLabel>NO-HAMANGT4</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TT00000006221G</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S Fins&#229;    T2 Transformator</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-FINSA___T2</cim:Names.name>
+    <cim:IdentifiedObject.name>S Hamang   T4 Transformator</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-HAMANGT4</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

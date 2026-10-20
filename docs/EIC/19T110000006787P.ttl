@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006787P" ;
-    cim:IdentifiedObject.name "Punkt Rozgałęźny XJL-Joachimów" ;
+    cim:IdentifiedObject.name "220kV Joachimow-Punkt Rozgalezny XJL" ;
     cim:Names.name "3005K",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006787P" ;
     skos:altLabel "3005K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Punkt Rozgałęźny XJL-Joachimów" ;
+    skos:prefLabel "220kV Joachimow-Punkt Rozgalezny XJL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

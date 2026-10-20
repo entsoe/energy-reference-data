@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000440S" ;
-    cim:IdentifiedObject.name "S Tangen H 47  T2 Forbruk" ;
+    cim:IdentifiedObject.name "S Tangen   47  T2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-TANGEN_H47L2" ;
+        "NO-TANGEN47L2" ;
     dcterms:identifier "urn:eic:50WC00000000440S" ;
-    skos:altLabel "NO-TANGEN_H47L2" ;
+    skos:altLabel "NO-TANGEN47L2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Tangen H 47  T2 Forbruk" ;
+    skos:prefLabel "S Tangen   47  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

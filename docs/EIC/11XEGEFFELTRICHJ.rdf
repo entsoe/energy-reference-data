@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XEGEFFELTRICHJ</dcterms:identifier>
     <skos:prefLabel>Elektra-Genossenschaft Effeltrich eG</skos:prefLabel>
     <skos:altLabel>EGEFFELTRICH</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEGEFFELTRICHJ</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Elektra-Genossenschaft Effeltrich eG</cim:IdentifiedObject.name>
     <cim:Names.name>EGEFFELTRICH</cim:Names.name>
-    <cim:Names.name>21618515402</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE229225638</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-09-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>21618515402</schema:vatID>
+    <schema:vatID>DE229225638</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

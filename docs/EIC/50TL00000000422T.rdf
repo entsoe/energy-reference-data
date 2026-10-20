@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000000422T</dcterms:identifier>
     <skos:prefLabel>S 132 Krabyskogen-T Krabyskogen</skos:prefLabel>
-    <skos:altLabel>NO-KRABYSKOGENTK</skos:altLabel>
+    <skos:altLabel>NO-132KRABYSKOGE</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000000422T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S 132 Krabyskogen-T Krabyskogen</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-KRABYSKOGENTK</cim:Names.name>
+    <cim:Names.name>NO-132KRABYSKOGE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

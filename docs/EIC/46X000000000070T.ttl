@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000070T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-02" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "46X000000000070T" ;
+    cim:IdentifiedObject.name "Emaldo AB" ;
+    cim:Names.name "Balance Responsible Party",
+        "EMALDO_AB",
+        "SE559470690401" ;
+    dcterms:identifier "urn:eic:46X000000000070T" ;
+    schema1:vatID "SE559470690401" ;
+    skos:altLabel "EMALDO_AB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Emaldo AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

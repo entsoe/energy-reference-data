@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-26" ;
+    cim:DateAndOrTime.date "2026-06-03" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XENDANET-----6" ;
-    cim:IdentifiedObject.name "En/Da/Net GmbH" ;
+    cim:IdentifiedObject.name "endanet GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE209329836",
         "ENDANET" ;
     dcterms:identifier "urn:eic:11XENDANET-----6" ;
     schema1:vatID "DE209329836" ;
     skos:altLabel "ENDANET" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "En/Da/Net GmbH" ;
+    skos:prefLabel "endanet GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

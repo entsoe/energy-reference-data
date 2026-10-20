@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLICHTKONTOR-0" ;
     cim:IdentifiedObject.name "Lichtkontor GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE162240352",
-        "LICHTKONTOR" ;
+    cim:Names.name "DE162240352",
+        "LICHTKONTOR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLICHTKONTOR-0" ;
     schema1:vatID "DE162240352" ;
     skos:altLabel "LICHTKONTOR" ;

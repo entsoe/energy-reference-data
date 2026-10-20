@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250519-TP-H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Employer Identification Number: 33-4991282 Confirmed by the official document from the US DEPARTMENT OF THE TREASURY
+INTERNAL REVENUE SERVICE CINCINNATI. 
+Company registration number: 10178899 Confirmed by certificate of formation State of Delaware """ ;
+    cim:IdentifiedObject.mRID "23X--250519-TP-H" ;
+    cim:IdentifiedObject.name "Twenty Points LLC" ;
+    cim:Names.name "334991282",
+        "Capacity Trader",
+        "TWENTY_POINTS" ;
+    dcterms:identifier "urn:eic:23X--250519-TP-H" ;
+    schema1:vatID "334991282" ;
+    skos:altLabel "TWENTY_POINTS" ;
+    skos:definition """Employer Identification Number: 33-4991282 Confirmed by the official document from the US DEPARTMENT OF THE TREASURY
+INTERNAL REVENUE SERVICE CINCINNATI. 
+Company registration number: 10178899 Confirmed by certificate of formation State of Delaware """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Twenty Points LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

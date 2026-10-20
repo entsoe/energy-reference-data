@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001944H" ;
     cim:IdentifiedObject.name "TRALANDSG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TRALANDSG1___" ;
+        "NO-TRALANDSG1" ;
     dcterms:identifier "urn:eic:50WG00000001944H" ;
-    skos:altLabel "NO-TRALANDSG1___" ;
+    skos:altLabel "NO-TRALANDSG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TRALANDSG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001328G" ;
-    cim:IdentifiedObject.name "S 47 Gleng-Borregå2" ;
+    cim:IdentifiedObject.name "S 47 Gleng-T-Gleng" ;
     cim:Names.name "Internal Line",
-        "NO-GLENGBORREGA2" ;
+        "NO-47GLENGT_GLEN" ;
     dcterms:identifier "urn:eic:50TL00000001328G" ;
-    skos:altLabel "NO-GLENGBORREGA2" ;
+    skos:altLabel "NO-47GLENGT_GLEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 Gleng-Borregå2" ;
+    skos:prefLabel "S 47 Gleng-T-Gleng" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

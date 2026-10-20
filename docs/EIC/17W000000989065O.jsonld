@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:17W000000989065O",
     "@skos:prefLabel": "Compagnie Parisienne de Chauffage Urbain St Ouen",
     "@skos:altLabel": "FR_CPCUSO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "update"
+    },
     "@cim:IdentifiedObject.mRID": "17W000000989065O",
     "@cim:IdentifiedObject.name": "Compagnie Parisienne de Chauffage Urbain St Ouen",
     "@cim:Names.name": [
         "FR_CPCUSO",
         "Production Unit"
     ],
+    "@cim:IdentifiedObject.description": "update",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-01-20",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

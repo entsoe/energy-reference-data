@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000020203",
-    "@skos:prefLabel": "Troll A Electric motors and utilities",
-    "@skos:altLabel": "NO-TROLLAELECTRI",
+    "@skos:prefLabel": "S Skei     2   L1  Forbruk",
+    "@skos:altLabel": "NO-SKEI2",
     "@cim:IdentifiedObject.mRID": "50WC000000020203",
-    "@cim:IdentifiedObject.name": "Troll A Electric motors and utilities",
+    "@cim:IdentifiedObject.name": "S Skei     2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-TROLLAELECTRI",
+        "NO-SKEI2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

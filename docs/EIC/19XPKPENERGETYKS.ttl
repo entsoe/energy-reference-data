@@ -7,7 +7,7 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-16" ;
+    cim:DateAndOrTime.date "2026-03-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XPKPENERGETYKS" ;
@@ -15,12 +15,8 @@
     cim:Names.name "A0001440U.PL",
         "Balance Responsible Party",
         "Energy Supplier",
-        "Grid Access Provider",
-        "Meter Administrator",
-        "Metered Data Responsible",
         "PGE_EK",
-        "PL5262542704",
-        "System Operator" ;
+        "PL5262542704" ;
     dcterms:identifier "urn:eic:19XPKPENERGETYKS" ;
     schema1:vatID "PL5262542704" ;
     skos:altLabel "PGE_EK" ;

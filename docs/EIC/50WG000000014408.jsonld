@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000014408",
-    "@skos:prefLabel": "SAURDAL G126 HYDRO",
-    "@skos:altLabel": "NO-SAURDAL_G126_",
+    "@skos:prefLabel": "STEINE_KG1      HYDRO",
+    "@skos:altLabel": "NO-STEINE_KG1",
     "@cim:IdentifiedObject.mRID": "50WG000000014408",
-    "@cim:IdentifiedObject.name": "SAURDAL G126 HYDRO",
+    "@cim:IdentifiedObject.name": "STEINE_KG1      HYDRO",
     "@cim:Names.name": [
-        "NO-SAURDAL_G126_",
+        "NO-STEINE_KG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-11-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

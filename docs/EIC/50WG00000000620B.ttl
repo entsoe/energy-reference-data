@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000620B" ;
-    cim:IdentifiedObject.name "HAUGEN  G125 HYDRO" ;
+    cim:IdentifiedObject.name "STANDAL G125 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HAUGEN__G125_" ;
+        "NO-STANDALG125" ;
     dcterms:identifier "urn:eic:50WG00000000620B" ;
-    skos:altLabel "NO-HAUGEN__G125_" ;
+    skos:altLabel "NO-STANDALG125" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HAUGEN  G125 HYDRO" ;
+    skos:prefLabel "STANDAL G125 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

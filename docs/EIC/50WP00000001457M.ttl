@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001457M" ;
     cim:IdentifiedObject.name "Fossåna" ;
-    cim:Names.name "NO-FOSSANA_PL",
+    cim:Names.name "NO-FOSSAANA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001457M" ;
-    skos:altLabel "NO-FOSSANA_PL" ;
+    skos:altLabel "NO-FOSSAANA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fossåna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

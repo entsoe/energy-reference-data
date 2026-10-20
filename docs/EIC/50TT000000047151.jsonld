@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000047151",
     "@skos:prefLabel": "S Evanger  T1 Transformator",
-    "@skos:altLabel": "NO-EVANGER_T1",
+    "@skos:altLabel": "NO-EVANGERT1",
     "@cim:IdentifiedObject.mRID": "50TT000000047151",
     "@cim:IdentifiedObject.name": "S Evanger  T1 Transformator",
     "@cim:Names.name": [
-        "NO-EVANGER_T1",
+        "NO-EVANGERT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

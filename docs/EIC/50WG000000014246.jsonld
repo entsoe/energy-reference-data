@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000014246",
-    "@skos:prefLabel": "SAMNANGEG102 HYDRO",
-    "@skos:altLabel": "NO-SAMNANGEG102_",
+    "@skos:prefLabel": "DYRKOLBOG102 HYDRO",
+    "@skos:altLabel": "NO-DYRKOLBOG102",
     "@cim:IdentifiedObject.mRID": "50WG000000014246",
-    "@cim:IdentifiedObject.name": "SAMNANGEG102 HYDRO",
+    "@cim:IdentifiedObject.name": "DYRKOLBOG102 HYDRO",
     "@cim:Names.name": [
-        "NO-SAMNANGEG102_",
+        "NO-DYRKOLBOG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

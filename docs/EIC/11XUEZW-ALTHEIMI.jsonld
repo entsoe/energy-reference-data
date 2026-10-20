@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XUEZW-ALTHEIMI",
-    "@skos:prefLabel": "Überlandzentrale Wörth/I.-Altheim Netz AG",
+    "@skos:prefLabel": "Überlandzentrale Wörth/I.-Altheim Netz Aktiengesellschaft",
     "@skos:altLabel": "UEZW",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XUEZW-ALTHEIMI",
-    "@cim:IdentifiedObject.name": "Überlandzentrale Wörth/I.-Altheim Netz AG",
+    "@cim:IdentifiedObject.name": "Überlandzentrale Wörth/I.-Altheim Netz Aktiengesellschaft",
     "@cim:Names.name": [
         "UEZW",
         "DE128943819",
-        "balance group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-09",
+    "@cim:DateAndOrTime.date": "2024-12-13",
     "@schema:vatID": "DE128943819",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

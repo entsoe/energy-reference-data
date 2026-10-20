@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PD4W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PD4W" ;
+    cim:IdentifiedObject.name "COBRA CONCESIONES, S.L." ;
+    cim:Names.name "ES-CCONCESIONES",
+        "ESB84878883",
+        "Producer" ;
+    dcterms:identifier "urn:eic:18X000000000PD4W" ;
+    schema1:vatID "ESB84878883" ;
+    skos:altLabel "ES-CCONCESIONES" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "COBRA CONCESIONES, S.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

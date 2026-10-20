@@ -16,7 +16,10 @@
     "@skos:altLabel": "EMSLDOW-DOERPENW",
     "@cim:IdentifiedObject.mRID": "11T0-0000-1379-Q",
     "@cim:IdentifiedObject.name": "TTG / 380kV / Dörpen West - Y-Niederlange / Emsland Ost-Weiss",
-    "@cim:Names.name": "EMSLDOW-DOERPENW",
+    "@cim:Names.name": [
+        "EMSLDOW-DOERPENW",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

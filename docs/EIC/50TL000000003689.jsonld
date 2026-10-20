@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000003689",
-    "@skos:prefLabel": "S 132 Hydro_1-Hydro_3",
-    "@skos:altLabel": "NO-HYDRO1HYDRO3",
+    "@skos:prefLabel": "S 132 Herøya_1-Herøya_3",
+    "@skos:altLabel": "NO-132HEROYOYA_3",
     "@cim:IdentifiedObject.mRID": "50TL000000003689",
-    "@cim:IdentifiedObject.name": "S 132 Hydro_1-Hydro_3",
+    "@cim:IdentifiedObject.name": "S 132 Herøya_1-Herøya_3",
     "@cim:Names.name": [
-        "NO-HYDRO1HYDRO3",
+        "NO-132HEROYOYA_3",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

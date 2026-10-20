@@ -12,25 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25X-VERBUNDTHERI",
-    "@skos:prefLabel": "VERBUND Thermal Power GmbH & Co KG",
+    "@skos:prefLabel": "VERBUND Thermal Power GmbH",
     "@skos:altLabel": "VTP",
     "@skos:definition": {
         "@language": "en",
-        "@value": "new EIC X - IO"
+        "@value": "new UID due to the modification of the form of the legal entity."
     },
     "@cim:IdentifiedObject.mRID": "25X-VERBUNDTHERI",
-    "@cim:IdentifiedObject.name": "VERBUND Thermal Power GmbH & Co KG",
+    "@cim:IdentifiedObject.name": "VERBUND Thermal Power GmbH",
     "@cim:Names.name": [
         "VTP",
-        "ATU54006506",
+        "ATU60757933",
         "Consumption Responsible Party",
         "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "new EIC X - IO",
+    "@cim:IdentifiedObject.description": "new UID due to the modification of the form of the legal entity.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-20",
-    "@schema:vatID": "ATU54006506",
+    "@cim:DateAndOrTime.date": "2026-10-08",
+    "@schema:vatID": "ATU60757933",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

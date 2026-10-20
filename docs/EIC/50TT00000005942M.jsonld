@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005942M",
     "@skos:prefLabel": "S Torshov  T3 Transformator",
-    "@skos:altLabel": "NO-TORSHOV_T3",
+    "@skos:altLabel": "NO-TORSHOVT3",
     "@cim:IdentifiedObject.mRID": "50TT00000005942M",
     "@cim:IdentifiedObject.name": "S Torshov  T3 Transformator",
     "@cim:Names.name": [
-        "NO-TORSHOV_T3",
+        "NO-TORSHOVT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

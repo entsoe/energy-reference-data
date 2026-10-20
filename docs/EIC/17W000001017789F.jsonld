@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:17W000001017789F",
     "@skos:prefLabel": "CHAUTAGNE",
     "@skos:altLabel": "FR_HY-CXTAG-P",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UPDATE"
+    },
     "@cim:IdentifiedObject.mRID": "17W000001017789F",
     "@cim:IdentifiedObject.name": "CHAUTAGNE",
     "@cim:Names.name": [
         "FR_HY-CXTAG-P",
         "Production Unit"
     ],
+    "@cim:IdentifiedObject.description": "UPDATE",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-31",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

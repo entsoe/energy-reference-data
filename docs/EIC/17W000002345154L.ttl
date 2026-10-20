@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000002345154L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "International" ;
+    cim:IdentifiedObject.mRID "17W000002345154L" ;
+    cim:IdentifiedObject.name "ADP 02 DE LA FERME EOLIENNE DE CESSIER (LE)" ;
+    cim:Names.name "FR_CESSIE02",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:17W000002345154L" ;
+    skos:altLabel "FR_CESSIE02" ;
+    skos:definition "International"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ADP 02 DE LA FERME EOLIENNE DE CESSIER (LE)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

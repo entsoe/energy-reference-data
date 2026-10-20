@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000020113" ;
-    cim:IdentifiedObject.name "M 66 Namsos-Daltrøa" ;
+    cim:IdentifiedObject.name "N 66 Namsos-Daltrøa" ;
     cim:Names.name "Internal Line",
-        "NO-NAMSOSDALTROA" ;
+        "NO-66NAMSOSDALTR" ;
     dcterms:identifier "urn:eic:50TL000000020113" ;
-    skos:altLabel "NO-NAMSOSDALTROA" ;
+    skos:altLabel "NO-66NAMSOSDALTR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Namsos-Daltrøa" ;
+    skos:prefLabel "N 66 Namsos-Daltrøa" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

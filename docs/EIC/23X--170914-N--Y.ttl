@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-09-14" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "EU VAT not available for Singapure. Company and Tax Registration Number: 201332913W" ;
     cim:IdentifiedObject.mRID "23X--170914-N--Y" ;
     cim:IdentifiedObject.name "Novatek Gas & Power Asia PTE LTD" ;
     cim:Names.name "A0013909S.DE",
+        "NA10",
         "NOVATEK_GP_ASIA",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--170914-N--Y" ;
+    schema1:vatID "NA10" ;
     skos:altLabel "NOVATEK_GP_ASIA" ;
     skos:definition "EU VAT not available for Singapure. Company and Tax Registration Number: 201332913W"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

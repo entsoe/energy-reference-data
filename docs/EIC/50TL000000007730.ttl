@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000007730" ;
-    cim:IdentifiedObject.name "M 132 Valljord-Sjønstå" ;
+    cim:IdentifiedObject.name "N 132 Valljord-Sjønstå" ;
     cim:Names.name "Internal Line",
-        "NO-VALLJORDSJONS" ;
+        "NO-132VALLJORDSJ" ;
     dcterms:identifier "urn:eic:50TL000000007730" ;
-    skos:altLabel "NO-VALLJORDSJONS" ;
+    skos:altLabel "NO-132VALLJORDSJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Valljord-Sjønstå" ;
+    skos:prefLabel "N 132 Valljord-Sjønstå" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

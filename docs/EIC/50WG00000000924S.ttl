@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000924S" ;
-    cim:IdentifiedObject.name "LAKSELV G101 HYDRO" ;
+    cim:IdentifiedObject.name "PORSA   G104 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LAKSELV_G101_" ;
+        "NO-PORSAG104" ;
     dcterms:identifier "urn:eic:50WG00000000924S" ;
-    skos:altLabel "NO-LAKSELV_G101_" ;
+    skos:altLabel "NO-PORSAG104" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LAKSELV G101 HYDRO" ;
+    skos:prefLabel "PORSA   G104 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

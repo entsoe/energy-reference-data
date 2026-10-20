@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000374A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Energy Supplier" ;
+    cim:IdentifiedObject.mRID "37X000000000374A" ;
+    cim:IdentifiedObject.name "BRS Bioenergie GmbH" ;
+    cim:Names.name "BRS_BIOENERGIE_G",
+        "DE218342860",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:37X000000000374A" ;
+    schema1:vatID "DE218342860" ;
+    skos:altLabel "BRS_BIOENERGIE_G" ;
+    skos:definition "Energy Supplier"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BRS Bioenergie GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

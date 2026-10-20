@@ -12,23 +12,20 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38X-AVP-9VD000EP",
-    "@skos:prefLabel": "AS Eesti Gaas",
-    "@skos:altLabel": "EE_EESTIGAAS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
+    "@skos:prefLabel": "AS Elenger Grupp",
+    "@skos:altLabel": "EE_ELENGER",
     "@cim:IdentifiedObject.mRID": "38X-AVP-9VD000EP",
-    "@cim:IdentifiedObject.name": "AS Eesti Gaas",
+    "@cim:IdentifiedObject.name": "AS Elenger Grupp",
     "@cim:Names.name": [
-        "EE_EESTIGAAS",
+        "EE_ELENGER",
         "EE100072174",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-02",
+    "@cim:DateAndOrTime.date": "2025-01-31",
     "@schema:vatID": "EE100072174",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

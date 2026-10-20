@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XEZENTISGRUPO5",
     "@skos:prefLabel": "EZENTIS GRUPO SA",
     "@skos:altLabel": "EZENT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEZENTISGRUPO5",
     "@cim:IdentifiedObject.name": "EZENTIS GRUPO SA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28085207",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-02-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28085207",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

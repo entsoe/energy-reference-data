@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-10-31" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance responsible party" ;
     cim:IdentifiedObject.mRID "11XSTAC01------R" ;
-    cim:IdentifiedObject.name "Stadtwerke Aachen Aktiengesellschaft" ;
+    cim:IdentifiedObject.name "STAWAG - Stadt- und Städteregionswerke Aachen AG" ;
     cim:Names.name "Balance Responsible Party",
         "DE811163786",
         "STAWAG" ;
     dcterms:identifier "urn:eic:11XSTAC01------R" ;
     schema1:vatID "DE811163786" ;
     skos:altLabel "STAWAG" ;
-    skos:definition "balance responsible party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stadtwerke Aachen Aktiengesellschaft" ;
+    skos:prefLabel "STAWAG - Stadt- und Städteregionswerke Aachen AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001437Y",
     "@skos:prefLabel": "SAURDAL G119 HYDRO",
-    "@skos:altLabel": "NO-SAURDAL_G119_",
+    "@skos:altLabel": "NO-SAURDALG119",
     "@cim:IdentifiedObject.mRID": "50WG00000001437Y",
     "@cim:IdentifiedObject.name": "SAURDAL G119 HYDRO",
     "@cim:Names.name": [
-        "NO-SAURDAL_G119_",
+        "NO-SAURDALG119",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

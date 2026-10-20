@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X00000121562-1",
-    "@skos:prefLabel": "ENI PLENITUDE  SPA    SOCIETA'  BENEFIT",
+    "@skos:prefLabel": "ENI PLENITUDE SPA SOCIETA' BENEFIT",
     "@skos:altLabel": "IT-ENIPLENITUDES",
     "@cim:IdentifiedObject.mRID": "26X00000121562-1",
-    "@cim:IdentifiedObject.name": "ENI PLENITUDE  SPA    SOCIETA'  BENEFIT",
+    "@cim:IdentifiedObject.name": "ENI PLENITUDE SPA SOCIETA' BENEFIT",
     "@cim:Names.name": [
         "IT-ENIPLENITUDES",
         "IT12300020158",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-31",
+    "@cim:DateAndOrTime.date": "2025-09-25",
     "@schema:vatID": "IT12300020158",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

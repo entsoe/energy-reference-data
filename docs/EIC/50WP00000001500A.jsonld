@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001500A",
     "@skos:prefLabel": "Djuv",
-    "@skos:altLabel": "NO-DJUV_PL",
+    "@skos:altLabel": "NO-DJUV",
     "@cim:IdentifiedObject.mRID": "50WP00000001500A",
     "@cim:IdentifiedObject.name": "Djuv",
     "@cim:Names.name": [
-        "NO-DJUV_PL",
+        "NO-DJUV",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

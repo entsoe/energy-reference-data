@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001431O",
-    "@skos:prefLabel": "N Frydenlu 33  Forbruk",
-    "@skos:altLabel": "NO-FRYDENLUND33",
+    "@skos:prefLabel": "N Frydenlu 33  LK2 Forbruk",
+    "@skos:altLabel": "NO-FRYDENLU33LK2",
     "@cim:IdentifiedObject.mRID": "50WC00000001431O",
-    "@cim:IdentifiedObject.name": "N Frydenlu 33  Forbruk",
+    "@cim:IdentifiedObject.name": "N Frydenlu 33  LK2 Forbruk",
     "@cim:Names.name": [
-        "NO-FRYDENLUND33",
+        "NO-FRYDENLU33LK2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

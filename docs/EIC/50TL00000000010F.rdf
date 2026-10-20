@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000000010F</dcterms:identifier>
-    <skos:prefLabel>S 110 Bjelland-T_Bjelland</skos:prefLabel>
-    <skos:altLabel>NO-BJELLANDTBJEL</skos:altLabel>
+    <skos:prefLabel>S 110 T_H&#229;verstad-Bjelland</skos:prefLabel>
+    <skos:altLabel>NO-110T_HAVERSBJ</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000000010F</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S 110 Bjelland-T_Bjelland</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-BJELLANDTBJEL</cim:Names.name>
+    <cim:IdentifiedObject.name>S 110 T_H&#229;verstad-Bjelland</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-110T_HAVERSBJ</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-16</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

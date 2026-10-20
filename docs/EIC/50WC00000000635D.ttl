@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000635D" ;
-    cim:IdentifiedObject.name "N Kirkenes 22  Forbruk" ;
+    cim:IdentifiedObject.name "N Kirkenes 22  L2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-KIRKENES22" ;
+        "NO-KIRKENES22L2" ;
     dcterms:identifier "urn:eic:50WC00000000635D" ;
-    skos:altLabel "NO-KIRKENES22" ;
+    skos:altLabel "NO-KIRKENES22L2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Kirkenes 22  Forbruk" ;
+    skos:prefLabel "N Kirkenes 22  L2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

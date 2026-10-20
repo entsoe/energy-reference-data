@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Ezektra DS s.r.o.",
     "@cim:Names.name": [
         "EZEKTRADS",
-        "CZ28651111",
+        "cz28651111",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-10-26",
-    "@schema:vatID": "CZ28651111",
+    "@schema:vatID": "cz28651111",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

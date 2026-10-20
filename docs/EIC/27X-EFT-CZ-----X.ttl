@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-09-12" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "27X-EFT-CZ-----X" ;
     cim:IdentifiedObject.name "EFT Cesko a.s." ;
-    cim:Names.name "CZ27894347",
-        "EFT-CZ",
-        "Transmission Capacity Allocator" ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ27894347",
+        "EFT-CZ" ;
     dcterms:identifier "urn:eic:27X-EFT-CZ-----X" ;
     schema1:vatID "CZ27894347" ;
     skos:altLabel "EFT-CZ" ;

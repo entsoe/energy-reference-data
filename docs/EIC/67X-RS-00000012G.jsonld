@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/67X-RS-00000012G",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:67X-RS-00000012G",
+    "@skos:prefLabel": "NORTH WESTERN DOO BEOGRAD - RAKOVICA",
+    "@skos:altLabel": "NORTHWESTERN",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company Name:  North Western d.o.o. Beograd-Rakovica;                                                                                                Company Registration Number: 20960043                                                                                                               Registered Address: Borska Street 9b/1/8, 11040 Belgrade, Serbia                                                                                                                                Contact Person: Matej Sešel;  Contact Person’s E-mail: legal.department@north-western.com                                            Contact Person’s Telephone: +381 11 3562125"
+    },
+    "@cim:IdentifiedObject.mRID": "67X-RS-00000012G",
+    "@cim:IdentifiedObject.name": "NORTH WESTERN DOO BEOGRAD - RAKOVICA",
+    "@cim:Names.name": [
+        "NORTHWESTERN",
+        "RS108244614",
+        "Trade Responsible Party",
+        "Energy Trader"
+    ],
+    "@cim:IdentifiedObject.description": "Company Name:  North Western d.o.o. Beograd-Rakovica;                                                                                                Company Registration Number: 20960043                                                                                                               Registered Address: Borska Street 9b/1/8, 11040 Belgrade, Serbia                                                                                                                                Contact Person: Matej Sešel;  Contact Person’s E-mail: legal.department@north-western.com                                            Contact Person’s Telephone: +381 11 3562125",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-18",
+    "@schema:vatID": "RS108244614",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

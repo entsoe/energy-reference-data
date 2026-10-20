@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002779F" ;
-    cim:IdentifiedObject.name "M 22 Rognan-Dversetelva" ;
+    cim:IdentifiedObject.name "N 22 Rognan-Dversetelva" ;
     cim:Names.name "Internal Line",
-        "NO-ROGNANDVERSET" ;
+        "NO-22ROGNANDVERS" ;
     dcterms:identifier "urn:eic:50TL00000002779F" ;
-    skos:altLabel "NO-ROGNANDVERSET" ;
+    skos:altLabel "NO-22ROGNANDVERS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Rognan-Dversetelva" ;
+    skos:prefLabel "N 22 Rognan-Dversetelva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:28Y000000000013T",
-    "@skos:prefLabel": "ZDS Salonit Anhovo",
+    "@skos:prefLabel": "ZDS-Alpacem-Cement ",
     "@skos:altLabel": "ZDS_SAL_ANHOVO",
     "@cim:IdentifiedObject.mRID": "28Y000000000013T",
-    "@cim:IdentifiedObject.name": "ZDS Salonit Anhovo",
+    "@cim:IdentifiedObject.name": "ZDS-Alpacem-Cement ",
     "@cim:Names.name": [
         "ZDS_SAL_ANHOVO",
         "Distribution Network Area"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-12-02",
+    "@cim:DateAndOrTime.date": "2024-09-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

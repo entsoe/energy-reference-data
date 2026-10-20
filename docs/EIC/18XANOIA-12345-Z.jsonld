@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XANOIA-12345-Z",
-    "@skos:prefLabel": "ANOIA ENERGIA",
+    "@skos:prefLabel": "ANOIA D'ENERGIA, S.A.",
     "@skos:altLabel": "ANOIA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XANOIA-12345-Z",
-    "@cim:IdentifiedObject.name": "ANOIA ENERGIA",
+    "@cim:IdentifiedObject.name": "ANOIA D'ENERGIA, S.A.",
     "@cim:Names.name": [
         "ANOIA",
         "ESA60980745",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-06-03",
     "@schema:vatID": "ESA60980745",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

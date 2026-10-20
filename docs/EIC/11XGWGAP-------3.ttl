@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGWGAP-------3" ;
     cim:IdentifiedObject.name "Gemeindewerke Garmisch-Partenkirchen" ;
-    cim:Names.name "Balance Group",
-        "DE128378141",
-        "GWGAP" ;
+    cim:Names.name "DE128378141",
+        "GWGAP",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGWGAP-------3" ;
     schema1:vatID "DE128378141" ;
     skos:altLabel "GWGAP" ;

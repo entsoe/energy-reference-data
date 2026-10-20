@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000005851",
-    "@skos:prefLabel": "S 132 Reed-Skei",
-    "@skos:altLabel": "NO-REEDSKEI",
+    "@skos:prefLabel": "N 132 Reed-Skei",
+    "@skos:altLabel": "NO-132REEDSKEI",
     "@cim:IdentifiedObject.mRID": "50TL000000005851",
-    "@cim:IdentifiedObject.name": "S 132 Reed-Skei",
+    "@cim:IdentifiedObject.name": "N 132 Reed-Skei",
     "@cim:Names.name": [
-        "NO-REEDSKEI",
+        "NO-132REEDSKEI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

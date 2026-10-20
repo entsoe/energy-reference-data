@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P8DT> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P8DT" ;
+    cim:IdentifiedObject.name "LINAMAR LIGHT METALS ZARAGOZA S.A.U" ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-LINAMAR",
+        "ESA28044188" ;
+    dcterms:identifier "urn:eic:18X000000000P8DT" ;
+    schema1:vatID "ESA28044188" ;
+    skos:altLabel "ES-LINAMAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LINAMAR LIGHT METALS ZARAGOZA S.A.U" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

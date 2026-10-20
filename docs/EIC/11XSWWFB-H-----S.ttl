@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-11-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWWFB-H-----S" ;
     cim:IdentifiedObject.name "Stadtwerke Wolfenbüttel GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE116882945",
         "SWWFB_H" ;
     dcterms:identifier "urn:eic:11XSWWFB-H-----S" ;
     schema1:vatID "DE116882945" ;
     skos:altLabel "SWWFB_H" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Wolfenbüttel GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

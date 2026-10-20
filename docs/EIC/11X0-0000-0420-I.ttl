@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0420-I" ;
     cim:IdentifiedObject.name "Energie E&V Deutschland GmbH" ;
-    cim:Names.name "DE120494383",
+    cim:Names.name "Balance Responsible Party",
+        "DE120494383",
         "ENERGIE" ;
     dcterms:identifier "urn:eic:11X0-0000-0420-I" ;
     schema1:vatID "DE120494383" ;

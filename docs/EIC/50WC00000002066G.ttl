@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002066G" ;
-    cim:IdentifiedObject.name "M Røyrvikf 22  L1 Forbruk" ;
+    cim:IdentifiedObject.name "N Røyrvikf 22  L1 Forbruk" ;
     cim:Names.name "Load",
         "NO-ROYRVIKF22" ;
     dcterms:identifier "urn:eic:50WC00000002066G" ;
     skos:altLabel "NO-ROYRVIKF22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Røyrvikf 22  L1 Forbruk" ;
+    skos:prefLabel "N Røyrvikf 22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

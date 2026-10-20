@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002167A" ;
-    cim:IdentifiedObject.name "S Hol 1    10  Forbruk" ;
+    cim:IdentifiedObject.name "S Hol 1    10  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-HOL_110" ;
+        "NO-HOL110L1" ;
     dcterms:identifier "urn:eic:50WC00000002167A" ;
-    skos:altLabel "NO-HOL_110" ;
+    skos:altLabel "NO-HOL110L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hol 1    10  Forbruk" ;
+    skos:prefLabel "S Hol 1    10  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

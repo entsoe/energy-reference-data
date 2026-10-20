@@ -1,0 +1,38 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000384D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contacts
+Beaufort Court, Egg Lane Farm, Kings Langley, Hertfordshire, WD4 8LR
+Mark Selvaratnam
+mark.selvaratnam@tag-en.com
++351 93 110 1107
+
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000384D" ;
+    cim:IdentifiedObject.name "Lakeside Energy Storage Limited" ;
+    cim:Names.name "GB403493220",
+        "LAKESIDE",
+        "Producer",
+        "Storage System Operator" ;
+    dcterms:identifier "urn:eic:48X000000000384D" ;
+    schema1:vatID "GB403493220" ;
+    skos:altLabel "LAKESIDE" ;
+    skos:definition """Contacts
+Beaufort Court, Egg Lane Farm, Kings Langley, Hertfordshire, WD4 8LR
+Mark Selvaratnam
+mark.selvaratnam@tag-en.com
++351 93 110 1107
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Lakeside Energy Storage Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

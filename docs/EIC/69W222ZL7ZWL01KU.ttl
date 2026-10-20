@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69W222ZL7ZWL01KU> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69W222ZL7ZWL01KU" ;
+    cim:IdentifiedObject.name "VASILIKOS POWER PLANT" ;
+    cim:Names.name "Generation",
+        "Production Unit",
+        "Resource Object",
+        "VAS-VIRTUAL" ;
+    dcterms:identifier "urn:eic:69W222ZL7ZWL01KU" ;
+    skos:altLabel "VAS-VIRTUAL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASILIKOS POWER PLANT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

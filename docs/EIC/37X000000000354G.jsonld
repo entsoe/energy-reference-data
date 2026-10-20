@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/37X000000000354G",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:37X000000000354G",
+    "@skos:prefLabel": "GreenFuelBarver",
+    "@skos:altLabel": "GREEN_FUEL_BARVE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Energy Supplier"
+    },
+    "@cim:IdentifiedObject.mRID": "37X000000000354G",
+    "@cim:IdentifiedObject.name": "GreenFuelBarver",
+    "@cim:Names.name": [
+        "GREEN_FUEL_BARVE",
+        "DE362231408",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "Energy Supplier",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-01-27",
+    "@schema:vatID": "DE362231408",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

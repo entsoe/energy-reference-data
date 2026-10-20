@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000018600",
-    "@skos:prefLabel": "S 66 Hollemoen-Gjuva",
-    "@skos:altLabel": "NO-HOLLEMOENGJUV",
+    "@skos:prefLabel": "S 66 T_Hollemoen-Gjuva",
+    "@skos:altLabel": "NO-66T_HOLLEMOEN",
     "@cim:IdentifiedObject.mRID": "50TL000000018600",
-    "@cim:IdentifiedObject.name": "S 66 Hollemoen-Gjuva",
+    "@cim:IdentifiedObject.name": "S 66 T_Hollemoen-Gjuva",
     "@cim:Names.name": [
-        "NO-HOLLEMOENGJUV",
+        "NO-66T_HOLLEMOEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

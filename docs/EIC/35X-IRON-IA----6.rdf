@@ -13,11 +13,11 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-10-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
     <cim:Names.name>Producer</cim:Names.name>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>03276236</schema:vatID>
   </skos:Concept>

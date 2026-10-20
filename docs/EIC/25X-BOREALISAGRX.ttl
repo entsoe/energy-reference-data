@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-07-07" ;
+    cim:DateAndOrTime.date "2025-05-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumer" ;
     cim:IdentifiedObject.mRID "25X-BOREALISAGRX" ;
-    cim:IdentifiedObject.name "Borealis Agrolinz Melamine GmbH" ;
+    cim:IdentifiedObject.name "LAT Nitrogen Linz GmbH" ;
     cim:Names.name "ATU23057607",
         "BOREALIS-LZ",
         "Consumer" ;
     dcterms:identifier "urn:eic:25X-BOREALISAGRX" ;
     schema1:vatID "ATU23057607" ;
     skos:altLabel "BOREALIS-LZ" ;
-    skos:definition "Consumer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Borealis Agrolinz Melamine GmbH" ;
+    skos:prefLabel "LAT Nitrogen Linz GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

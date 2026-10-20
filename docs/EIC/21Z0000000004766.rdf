@@ -6,15 +6,14 @@
     <dcterms:identifier>urn:eic:21Z0000000004766</dcterms:identifier>
     <skos:prefLabel>FARSALA</skos:prefLabel>
     <skos:altLabel>FARSALA-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z0000000004766</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FARSALA</cim:IdentifiedObject.name>
     <cim:Names.name>FARSALA-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-11-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-06</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

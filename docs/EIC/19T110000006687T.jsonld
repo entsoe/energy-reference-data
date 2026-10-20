@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006687T",
-    "@skos:prefLabel": "Joachimów-Kielce",
+    "@skos:prefLabel": "220kV Joachimow-Kielce",
     "@skos:altLabel": "209",
     "@cim:IdentifiedObject.mRID": "19T110000006687T",
-    "@cim:IdentifiedObject.name": "Joachimów-Kielce",
+    "@cim:IdentifiedObject.name": "220kV Joachimow-Kielce",
     "@cim:Names.name": [
         "209",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

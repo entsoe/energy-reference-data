@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-16" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000002266I" ;
     cim:IdentifiedObject.name "Paks-Pécs I." ;
-    cim:Names.name "MPAKS-MPECSO1",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MPAKS-MPECSO1" ;
     dcterms:identifier "urn:eic:15T-M0000002266I" ;
     skos:altLabel "MPAKS-MPECSO1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006704I",
-    "@skos:prefLabel": "Mory-Piaseczno",
+    "@skos:prefLabel": "220kV Mory-Piaseczno",
     "@skos:altLabel": "1103",
     "@cim:IdentifiedObject.mRID": "19T110000006704I",
-    "@cim:IdentifiedObject.name": "Mory-Piaseczno",
+    "@cim:IdentifiedObject.name": "220kV Mory-Piaseczno",
     "@cim:Names.name": [
         "1103",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

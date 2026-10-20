@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:13X-VKW-HANDEL-M",
     "@skos:prefLabel": "illwerke vkw AG",
     "@skos:altLabel": "VKW_H",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Ticket: https://entsoe.zendesk.com/agent/tickets/9331875 Company documents .pdf included to the ticket. "
-    },
     "@cim:IdentifiedObject.mRID": "13X-VKW-HANDEL-M",
     "@cim:IdentifiedObject.name": "illwerke vkw AG",
     "@cim:Names.name": [
@@ -25,7 +21,6 @@
         "ATU36737402",
         "Balance Group Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Ticket: https://entsoe.zendesk.com/agent/tickets/9331875 Company documents .pdf included to the ticket. ",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-11-18",

@@ -7,18 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-04-06" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "23XSMARTENERGY-F" ;
     cim:IdentifiedObject.name "SmartestEnergy Ltd" ;
-    cim:Names.name "GB773846584",
-        "SMARTERGY",
-        "Trade Responsible Party" ;
+    cim:Names.name "A0017704X.IE",
+        "Balance Responsible Party",
+        "GB773846584",
+        "SMARTERGY" ;
     dcterms:identifier "urn:eic:23XSMARTENERGY-F" ;
     schema1:vatID "GB773846584" ;
     skos:altLabel "SMARTERGY" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SmartestEnergy Ltd" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

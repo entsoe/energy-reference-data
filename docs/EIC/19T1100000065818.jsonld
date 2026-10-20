@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065818",
-    "@skos:prefLabel": "Olsztyn Mątki-A3",
+    "@skos:prefLabel": "400/220kV Olsztyn Matki AT3",
     "@skos:altLabel": "OLM-A3",
     "@cim:IdentifiedObject.mRID": "19T1100000065818",
-    "@cim:IdentifiedObject.name": "Olsztyn Mątki-A3",
+    "@cim:IdentifiedObject.name": "400/220kV Olsztyn Matki AT3",
     "@cim:Names.name": [
         "OLM-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

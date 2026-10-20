@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002033V",
-    "@skos:prefLabel": "Eramet Sauda",
-    "@skos:altLabel": "NO-ERAMETSAUDA",
+    "@skos:prefLabel": "N Buran    12  T3 Forbruk",
+    "@skos:altLabel": "NO-BURAN12T3",
     "@cim:IdentifiedObject.mRID": "50WC00000002033V",
-    "@cim:IdentifiedObject.name": "Eramet Sauda",
+    "@cim:IdentifiedObject.name": "N Buran    12  T3 Forbruk",
     "@cim:Names.name": [
-        "NO-ERAMETSAUDA",
+        "NO-BURAN12T3",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,40 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000381J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Gables Lodge, 62 Kenilworth Road,
+Leamington Spa,
+CV32 5LP
+UK
+Nick Sillito
+nsillito@innovergy.energy
++44 7491 434 518
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000381J" ;
+    cim:IdentifiedObject.name "Peak Gen Top Co Limited" ;
+    cim:Names.name "Balance Responsible Party",
+        "GB153345326",
+        "INNOVERGY",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000381J" ;
+    schema1:vatID "GB153345326" ;
+    skos:altLabel "INNOVERGY" ;
+    skos:definition """Gables Lodge, 62 Kenilworth Road,
+Leamington Spa,
+CV32 5LP
+UK
+Nick Sillito
+nsillito@innovergy.energy
++44 7491 434 518
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Peak Gen Top Co Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

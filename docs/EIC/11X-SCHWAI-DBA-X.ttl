@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-SCHWAI-DBA-X" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Schweiger OHG" ;
-    cim:Names.name "Balance Group",
-        "DE128025277",
-        "SCHWAIG-DBA" ;
+    cim:Names.name "DE128025277",
+        "SCHWAIG-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-SCHWAI-DBA-X" ;
     schema1:vatID "DE128025277" ;
     skos:altLabel "SCHWAIG-DBA" ;

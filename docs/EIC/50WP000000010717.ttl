@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000010717" ;
     cim:IdentifiedObject.name "Nørståe" ;
-    cim:Names.name "NO-NORSTAE_PL",
+    cim:Names.name "NO-NOERSTAAE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000010717" ;
-    skos:altLabel "NO-NORSTAE_PL" ;
+    skos:altLabel "NO-NOERSTAAE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Nørståe" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

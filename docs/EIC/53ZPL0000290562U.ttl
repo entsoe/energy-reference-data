@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-02-02" ;
+    cim:DateAndOrTime.date "2025-03-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53ZPL0000290562U" ;
-    cim:IdentifiedObject.name "Roben Ceramika Budowlana" ;
-    cim:Names.name "290562_ROBEN",
+    cim:IdentifiedObject.name "Środa Śląska (Roben)" ;
+    cim:Names.name "290562_SRODA_SL",
         "Connection Point" ;
     dcterms:identifier "urn:eic:53ZPL0000290562U" ;
-    skos:altLabel "290562_ROBEN" ;
+    skos:altLabel "290562_SRODA_SL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Roben Ceramika Budowlana" ;
+    skos:prefLabel "Środa Śląska (Roben)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

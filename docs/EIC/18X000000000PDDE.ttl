@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PDDE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PDDE" ;
+    cim:IdentifiedObject.name "VIÑAOLIVA SOCIEDDAD COOPERATIVA" ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-VINAOLIVA",
+        "ESF06294169" ;
+    dcterms:identifier "urn:eic:18X000000000PDDE" ;
+    schema1:vatID "ESF06294169" ;
+    skos:altLabel "ES-VINAOLIVA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VIÑAOLIVA SOCIEDDAD COOPERATIVA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

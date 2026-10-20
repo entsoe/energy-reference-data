@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XDKIB--------I" ;
     cim:IdentifiedObject.name "Dresdner Bank AG" ;
-    cim:Names.name "Balance Group",
-        "DE114103395",
-        "DKIB" ;
+    cim:Names.name "DE114103395",
+        "DKIB",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDKIB--------I" ;
     schema1:vatID "DE114103395" ;
     skos:altLabel "DKIB" ;

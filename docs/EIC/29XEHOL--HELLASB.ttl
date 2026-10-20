@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Supply, Generation And Trading Of Electricity" ;
     cim:IdentifiedObject.mRID "29XEHOL--HELLASB" ;
     cim:IdentifiedObject.name "EHOL HELLAS S.A." ;
-    cim:Names.name "EHOL-HELLAS",
-        "EL998645806",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "EHOL-HELLAS",
+        "EL998645806" ;
     dcterms:identifier "urn:eic:29XEHOL--HELLASB" ;
     schema1:vatID "EL998645806" ;
     skos:altLabel "EHOL-HELLAS" ;

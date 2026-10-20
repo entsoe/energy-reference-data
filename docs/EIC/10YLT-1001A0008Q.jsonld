@@ -16,21 +16,22 @@
     "@skos:altLabel": "LT",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area"
+        "@value": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area, LFC Area"
     },
     "@cim:IdentifiedObject.mRID": "10YLT-1001A0008Q",
     "@cim:IdentifiedObject.name": "Lithuania",
     "@cim:Names.name": [
         "LT",
-        "Control Area",
         "Bidding Zone",
+        "Control Area",
+        "LFC Area",
         "Member State",
         "Scheduling Area"
     ],
-    "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area",
+    "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Member State, Scheduling Area, LFC Area",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-28",
+    "@cim:DateAndOrTime.date": "2024-07-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-20" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XALCOAAVIELEC5" ;
     cim:IdentifiedObject.name "Alcoa Inespal, S.L. (unipersonal)" ;
     cim:Names.name "ALAVI",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XALCOAAVIELEC5" ;
     schema1:vatID "ESB28000164" ;
     skos:altLabel "ALAVI" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Alcoa Inespal, S.L. (unipersonal)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

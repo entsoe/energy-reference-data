@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WZEMYTESSKUODP",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WZEMYTESSKUODP",
+    "@skos:prefLabel": "Žemytės TP  UAB Skuodas wind",
+    "@skos:altLabel": "ZEMYTESSKUODASWI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "306068922 Inžinerinių tinklų (elektros tinklų) 30/110 kV Žemytės TP. Kitos paskirties inžinerinio statinio (energijos kaupimo įrenginys) Fabijoniškių g. 5C-1031, Vilnius eastwindbrokers@gmail.com +37069813536"
+    },
+    "@cim:IdentifiedObject.mRID": "41WZEMYTESSKUODP",
+    "@cim:IdentifiedObject.name": "Žemytės TP  UAB Skuodas wind",
+    "@cim:Names.name": [
+        "ZEMYTESSKUODASWI",
+        "BESS"
+    ],
+    "@cim:IdentifiedObject.description": "306068922 Inžinerinių tinklų (elektros tinklų) 30/110 kV Žemytės TP. Kitos paskirties inžinerinio statinio (energijos kaupimo įrenginys) Fabijoniškių g. 5C-1031, Vilnius eastwindbrokers@gmail.com +37069813536",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-14",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

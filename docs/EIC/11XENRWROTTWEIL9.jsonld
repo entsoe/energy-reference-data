@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XENRWROTTWEIL9",
     "@skos:prefLabel": "ENRW Energieversorgung Rottweil GmbH & Co. KG",
     "@skos:altLabel": "ENRWROTTWEIL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XENRWROTTWEIL9",
     "@cim:IdentifiedObject.name": "ENRW Energieversorgung Rottweil GmbH & Co. KG",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE200387156",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-20",
+    "@cim:DateAndOrTime.date": "2025-04-07",
     "@schema:vatID": "DE200387156",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:17W000001521205J",
     "@skos:prefLabel": "FERME EOLIENNE DE BAIE-DE-ST-BRIEUC",
     "@skos:altLabel": "FR_OFFSHORE_STB",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "update"
+    },
     "@cim:IdentifiedObject.mRID": "17W000001521205J",
     "@cim:IdentifiedObject.name": "FERME EOLIENNE DE BAIE-DE-ST-BRIEUC",
     "@cim:Names.name": [
         "FR_OFFSHORE_STB",
         "Production Unit"
     ],
+    "@cim:IdentifiedObject.description": "update",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-04",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

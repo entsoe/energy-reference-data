@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X1111000000201> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X1111000000201" ;
+    cim:IdentifiedObject.name "PRZEDSIĘBIORSTWO WIELOBRANŻOWE STOLARZ-LEMPERT SPÓŁKA JAWNA" ;
+    cim:Names.name "PL6191544463",
+        "Producer",
+        "STOLARZ_SP_JAWNA" ;
+    dcterms:identifier "urn:eic:19X1111000000201" ;
+    schema1:vatID "PL6191544463" ;
+    skos:altLabel "STOLARZ_SP_JAWNA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PRZEDSIĘBIORSTWO WIELOBRANŻOWE STOLARZ-LEMPERT SPÓŁKA JAWNA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWSTOCKACH-EC",
     "@skos:prefLabel": "Stadtwerke Stockach GmbH",
     "@skos:altLabel": "SWSTOCKACH",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWSTOCKACH-EC",
     "@cim:IdentifiedObject.name": "Stadtwerke Stockach GmbH",
     "@cim:Names.name": [
         "SWSTOCKACH",
         "DE211493846",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-07-29",
+    "@cim:DateAndOrTime.date": "2025-06-05",
     "@schema:vatID": "DE211493846",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

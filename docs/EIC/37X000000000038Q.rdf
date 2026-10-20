@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X000000000038Q</dcterms:identifier>
-    <skos:prefLabel>Energienetze Bayern GmbH &amp; Co. KG</skos:prefLabel>
-    <skos:altLabel>ENERGIENETZEBAYE</skos:altLabel>
+    <skos:prefLabel>ENERGIENETZE BAYERN</skos:prefLabel>
+    <skos:altLabel>ENERGIENETZE</skos:altLabel>
     <skos:definition xml:lang="en">Grid Operator</skos:definition>
     <cim:IdentifiedObject.mRID>37X000000000038Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Energienetze Bayern GmbH &amp; Co. KG</cim:IdentifiedObject.name>
-    <cim:Names.name>ENERGIENETZEBAYE</cim:Names.name>
+    <cim:IdentifiedObject.name>ENERGIENETZE BAYERN</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERGIENETZE</cim:Names.name>
     <cim:Names.name>DE251731173</cim:Names.name>
     <cim:IdentifiedObject.description>Grid Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-02-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-05</cim:DateAndOrTime.date>
     <cim:Names.name>Grid Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE251731173</schema:vatID>

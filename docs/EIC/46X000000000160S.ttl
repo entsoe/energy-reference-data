@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000160S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000160S" ;
+    cim:IdentifiedObject.name "Statens Energimyndighet" ;
+    cim:Names.name "Energy Supplier",
+        "SE202100500001",
+        "STATENS_ENERGIMY" ;
+    dcterms:identifier "urn:eic:46X000000000160S" ;
+    schema1:vatID "SE202100500001" ;
+    skos:altLabel "STATENS_ENERGIMY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Statens Energimyndighet" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

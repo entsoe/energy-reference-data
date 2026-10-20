@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WMVBLRCMUELKRM> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """„ELEKTRUM LIETUVA“, UAB      
+301506046    LT100003800414     L1-NET-27  2008-03-06      Lvivo g. 21A, Vilnius     LT-09313, Lietuva    +37061335997     
+info@elektrum.lt, kostas.dryzas@elektrum.lt      master valdikliui balansavimo paslaugoms""" ;
+    cim:IdentifiedObject.mRID "41WMVBLRCMUELKRM" ;
+    cim:IdentifiedObject.name "Elektrum master valdiklis balansavimo paslaugoms" ;
+    cim:Names.name "MASTERVALDIKLISE",
+        "Resource Capacity Market Unit" ;
+    dcterms:identifier "urn:eic:41WMVBLRCMUELKRM" ;
+    skos:altLabel "MASTERVALDIKLISE" ;
+    skos:definition """„ELEKTRUM LIETUVA“, UAB      
+301506046    LT100003800414     L1-NET-27  2008-03-06      Lvivo g. 21A, Vilnius     LT-09313, Lietuva    +37061335997     
+info@elektrum.lt, kostas.dryzas@elektrum.lt      master valdikliui balansavimo paslaugoms"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Elektrum master valdiklis balansavimo paslaugoms" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

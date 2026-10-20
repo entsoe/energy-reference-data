@@ -16,7 +16,10 @@
     "@skos:altLabel": "EMSLDOW-NIEDERLA",
     "@cim:IdentifiedObject.mRID": "11T0-0000-1380-C",
     "@cim:IdentifiedObject.name": "TTG / 380kV / Niederlange - Y-Niederlange / Emsland Ost-Weiss",
-    "@cim:Names.name": "EMSLDOW-NIEDERLA",
+    "@cim:Names.name": [
+        "EMSLDOW-NIEDERLA",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

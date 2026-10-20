@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEESA-09----K" ;
     cim:IdentifiedObject.name "DeESA GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE272091722",
-        "MAIERKORDULETSCH" ;
+    cim:Names.name "DE272091722",
+        "MAIERKORDULETSCH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDEESA-09----K" ;
     schema1:vatID "DE272091722" ;
     skos:altLabel "MAIERKORDULETSCH" ;

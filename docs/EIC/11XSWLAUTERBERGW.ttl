@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWLAUTERBERGW" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Lauterberg im Harz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE203798780",
-        "SWBADLAUTERBERG" ;
+    cim:Names.name "DE203798780",
+        "SWBADLAUTERBERG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWLAUTERBERGW" ;
     schema1:vatID "DE203798780" ;
     skos:altLabel "SWBADLAUTERBERG" ;

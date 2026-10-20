@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "10T1001C--000219" ;
     cim:IdentifiedObject.name "Meiningen-Ruthi schwartz 220" ;
-    cim:Names.name "L_MEI-RUETHI_SCH" ;
+    cim:Names.name "L_MEI-RUETHI_SCH",
+        "Tieline" ;
     dcterms:identifier "urn:eic:10T1001C--000219" ;
     skos:altLabel "L_MEI-RUETHI_SCH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

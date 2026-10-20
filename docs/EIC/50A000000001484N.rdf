@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50A000000001484N</dcterms:identifier>
-    <skos:prefLabel>Tafjord</skos:prefLabel>
-    <skos:altLabel>NO-TAFJORD</skos:altLabel>
+    <skos:prefLabel>Tafjord4</skos:prefLabel>
+    <skos:altLabel>NO-TAFJORD4</skos:altLabel>
     <cim:IdentifiedObject.mRID>50A000000001484N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Tafjord</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TAFJORD</cim:Names.name>
+    <cim:IdentifiedObject.name>Tafjord4</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-TAFJORD4</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-24</cim:DateAndOrTime.date>
     <cim:Names.name>Substation</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

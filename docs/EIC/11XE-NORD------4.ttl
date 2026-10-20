@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XE-NORD------4" ;
     cim:IdentifiedObject.name "E-nord GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE246284916",
-        "E-NORD" ;
+    cim:Names.name "DE246284916",
+        "E-NORD",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XE-NORD------4" ;
     schema1:vatID "DE246284916" ;
     skos:altLabel "E-NORD" ;

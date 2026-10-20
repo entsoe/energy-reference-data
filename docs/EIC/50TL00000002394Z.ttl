@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002394Z" ;
-    cim:IdentifiedObject.name "S H. Høyan 12 T1 C" ;
+    cim:IdentifiedObject.name "N H. Høyan 12  T1 C" ;
     cim:Names.name "Internal Line",
-        "NO-HHOYANG12T1" ;
+        "NO-H_HOYANG12T1" ;
     dcterms:identifier "urn:eic:50TL00000002394Z" ;
-    skos:altLabel "NO-HHOYANG12T1" ;
+    skos:altLabel "NO-H_HOYANG12T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S H. Høyan 12 T1 C" ;
+    skos:prefLabel "N H. Høyan 12  T1 C" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

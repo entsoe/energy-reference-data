@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XSMURN-12345-L",
-    "@skos:prefLabel": "SMURFIT KAPPA NAVARRA, S.A.",
+    "@skos:prefLabel": "SMURFIT WESTROCK NAVARRA S.A.",
     "@skos:altLabel": "SMURN",
     "@cim:IdentifiedObject.mRID": "18XSMURN-12345-L",
-    "@cim:IdentifiedObject.name": "SMURFIT KAPPA NAVARRA, S.A.",
+    "@cim:IdentifiedObject.name": "SMURFIT WESTROCK NAVARRA S.A.",
     "@cim:Names.name": [
         "SMURN",
         "ESA31004153",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-15",
+    "@cim:DateAndOrTime.date": "2026-01-20",
     "@schema:vatID": "ESA31004153",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

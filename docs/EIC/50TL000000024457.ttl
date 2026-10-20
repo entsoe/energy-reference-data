@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000024457" ;
-    cim:IdentifiedObject.name "M LT3 (fiktiv)" ;
+    cim:IdentifiedObject.name "N LT3 (fiktiv)" ;
     cim:Names.name "Internal Line",
         "NO-LT3FIKTIV" ;
     dcterms:identifier "urn:eic:50TL000000024457" ;
     skos:altLabel "NO-LT3FIKTIV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M LT3 (fiktiv)" ;
+    skos:prefLabel "N LT3 (fiktiv)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

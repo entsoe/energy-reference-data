@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002036P" ;
-    cim:IdentifiedObject.name "M Gimse    66  Forbruk" ;
+    cim:IdentifiedObject.name "N Gimse    66  RT1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-GIMSE66" ;
+        "NO-GIMSE66RT1" ;
     dcterms:identifier "urn:eic:50WC00000002036P" ;
-    skos:altLabel "NO-GIMSE66" ;
+    skos:altLabel "NO-GIMSE66RT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Gimse    66  Forbruk" ;
+    skos:prefLabel "N Gimse    66  RT1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

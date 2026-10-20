@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002775N" ;
-    cim:IdentifiedObject.name "M 22 Langfjord-Trongsundet" ;
+    cim:IdentifiedObject.name "N 22  Langfjord-Trongsundet" ;
     cim:Names.name "Internal Line",
-        "NO-LANGFJORD-TRO" ;
+        "NO-22LANGFJORD_T" ;
     dcterms:identifier "urn:eic:50TL00000002775N" ;
-    skos:altLabel "NO-LANGFJORD-TRO" ;
+    skos:altLabel "NO-22LANGFJORD_T" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Langfjord-Trongsundet" ;
+    skos:prefLabel "N 22  Langfjord-Trongsundet" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

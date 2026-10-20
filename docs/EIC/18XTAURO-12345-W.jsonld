@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTAURO-12345-W",
     "@skos:prefLabel": "PROMOCIONES TAURO, S.L.",
     "@skos:altLabel": "TAURO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XTAURO-12345-W",
     "@cim:IdentifiedObject.name": "PROMOCIONES TAURO, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB04024873",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB04024873",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

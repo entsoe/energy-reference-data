@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWVIERNHEIMVR" ;
     cim:IdentifiedObject.name "Stadtwerke Viernheim GmbH - Vertrieb" ;
-    cim:Names.name "Balance Group",
-        "DE204658234",
-        "SWVIERNHEIM_V" ;
+    cim:Names.name "DE204658234",
+        "SWVIERNHEIM_V",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWVIERNHEIMVR" ;
     schema1:vatID "DE204658234" ;
     skos:altLabel "SWVIERNHEIM_V" ;

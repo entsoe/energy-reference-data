@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000021110" ;
     cim:IdentifiedObject.name "N Skoddeva 22  SB Forbruk" ;
     cim:Names.name "Load",
-        "NO-SKODDEVAR22SB" ;
+        "NO-SKODDEVAE22SB" ;
     dcterms:identifier "urn:eic:50WC000000021110" ;
-    skos:altLabel "NO-SKODDEVAR22SB" ;
+    skos:altLabel "NO-SKODDEVAE22SB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Skoddeva 22  SB Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

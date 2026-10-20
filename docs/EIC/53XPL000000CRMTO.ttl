@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-09-23" ;
+    cim:DateAndOrTime.date "2025-03-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "53XPL000000CRMTO" ;
-    cim:IdentifiedObject.name "Cryogas M&T Poland S.A." ;
-    cim:Names.name "CRYOGASMTPOLAND",
+    cim:IdentifiedObject.name "Omne Energia S.A." ;
+    cim:Names.name "A0003267G.PL",
         "Network User",
+        "OMNE_ENERGIA",
         "PL5252520546" ;
     dcterms:identifier "urn:eic:53XPL000000CRMTO" ;
     schema1:vatID "PL5252520546" ;
-    skos:altLabel "CRYOGASMTPOLAND" ;
+    skos:altLabel "OMNE_ENERGIA" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Cryogas M&T Poland S.A." ;
+    skos:prefLabel "Omne Energia S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

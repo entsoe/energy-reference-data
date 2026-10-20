@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X-NL-B-A0A0A-Q</dcterms:identifier>
-    <skos:prefLabel>BBL Company</skos:prefLabel>
-    <skos:altLabel>BBL</skos:altLabel>
-    <skos:definition xml:lang="en">Transmission System Operator For Gas</skos:definition>
+    <skos:prefLabel>BBL Company VOF</skos:prefLabel>
+    <skos:altLabel>BBLCOMPANY</skos:altLabel>
     <cim:IdentifiedObject.mRID>21X-NL-B-A0A0A-Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>BBL Company</cim:IdentifiedObject.name>
-    <cim:Names.name>BBL</cim:Names.name>
-    <cim:IdentifiedObject.description>Transmission System Operator For Gas</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>BBL Company VOF</cim:IdentifiedObject.name>
+    <cim:Names.name>BBLCOMPANY</cim:Names.name>
+    <cim:Names.name>NL813552394B01</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-29</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NL813552394B01</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

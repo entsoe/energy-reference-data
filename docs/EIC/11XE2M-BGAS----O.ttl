@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XE2M-BGAS----O" ;
     cim:IdentifiedObject.name "Energy2market GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE266047759",
-        "E2M-BGAS" ;
+    cim:Names.name "DE266047759",
+        "E2M-BGAS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XE2M-BGAS----O" ;
     schema1:vatID "DE266047759" ;
     skos:altLabel "E2M-BGAS" ;

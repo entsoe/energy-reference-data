@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21W000000000089I",
     "@skos:prefLabel": "UGS Schmidthausen",
     "@skos:altLabel": "UGS-SCHMIDHAUSEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "System Operator"
-    },
     "@cim:IdentifiedObject.mRID": "21W000000000089I",
     "@cim:IdentifiedObject.name": "UGS Schmidthausen",
     "@cim:Names.name": [
         "UGS-SCHMIDHAUSEN",
-        "System Operator"
+        "Resource Object"
     ],
-    "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-06",
+    "@cim:DateAndOrTime.date": "2024-06-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

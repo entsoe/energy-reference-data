@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000882W",
-    "@skos:prefLabel": "M 22 Langvatn-Gullsmedvik1",
-    "@skos:altLabel": "NO-LANGVATNGULL1",
+    "@skos:prefLabel": "N 22 Langvatn-Gullsmedvik1",
+    "@skos:altLabel": "NO-22LANGVADVIK1",
     "@cim:IdentifiedObject.mRID": "50TL00000000882W",
-    "@cim:IdentifiedObject.name": "M 22 Langvatn-Gullsmedvik1",
+    "@cim:IdentifiedObject.name": "N 22 Langvatn-Gullsmedvik1",
     "@cim:Names.name": [
-        "NO-LANGVATNGULL1",
+        "NO-22LANGVADVIK1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "BERGENENERGI",
         "NO961743982",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-14",
+    "@cim:DateAndOrTime.date": "2024-10-17",
     "@schema:vatID": "NO961743982",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TTI00000050875",
     "@skos:prefLabel": "N Kilbotn  LT1 Transformator",
-    "@skos:altLabel": "NO-KILBOTN_LT1",
+    "@skos:altLabel": "NO-KILBOTNLT1",
     "@cim:IdentifiedObject.mRID": "50TTI00000050875",
     "@cim:IdentifiedObject.name": "N Kilbotn  LT1 Transformator",
     "@cim:Names.name": [
-        "NO-KILBOTN_LT1",
+        "NO-KILBOTNLT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

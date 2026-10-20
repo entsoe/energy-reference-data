@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/66X0000000000317> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Hakee traderin roolia." ;
+    cim:IdentifiedObject.mRID "66X0000000000317" ;
+    cim:IdentifiedObject.name "St1 Biokaasu Oy" ;
+    cim:Names.name "FI34180345",
+        "Network User",
+        "ST1BIOKAASUOY" ;
+    dcterms:identifier "urn:eic:66X0000000000317" ;
+    schema1:vatID "FI34180345" ;
+    skos:altLabel "ST1BIOKAASUOY" ;
+    skos:definition "Hakee traderin roolia."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "St1 Biokaasu Oy" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

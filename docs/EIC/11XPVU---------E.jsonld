@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XPVU---------E",
-    "@skos:prefLabel": "PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft ",
+    "@skos:prefLabel": "PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft mit beschränkter Haftung",
     "@skos:altLabel": "PVU",
     "@cim:IdentifiedObject.mRID": "11XPVU---------E",
-    "@cim:IdentifiedObject.name": "PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft ",
+    "@cim:IdentifiedObject.name": "PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft mit beschränkter Haftung",
     "@cim:Names.name": [
         "PVU",
         "DE138975004",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-07",
+    "@cim:DateAndOrTime.date": "2026-06-05",
     "@schema:vatID": "DE138975004",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-05-12" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Certificate from Tax Administration of Kosovo VAT filer Tax number: 330165028" ;
     cim:IdentifiedObject.mRID "23X--170512--M-V" ;
     cim:IdentifiedObject.name "MTSP Kosovo LLC" ;
     cim:Names.name "Capacity Trader",
-        "MTSP_KOSOVO" ;
+        "MTSP_KOSOVO",
+        "NA9" ;
     dcterms:identifier "urn:eic:23X--170512--M-V" ;
+    schema1:vatID "NA9" ;
     skos:altLabel "MTSP_KOSOVO" ;
     skos:definition "Certificate from Tax Administration of Kosovo VAT filer Tax number: 330165028"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

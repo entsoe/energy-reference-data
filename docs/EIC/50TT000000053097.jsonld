@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000053097",
-    "@skos:prefLabel": "M Messiose RT2 Transformator",
-    "@skos:altLabel": "NO-MESSIOS_RT2",
+    "@skos:prefLabel": "N Messiose RT2 Transformator",
+    "@skos:altLabel": "NO-MESSIOSRT2",
     "@cim:IdentifiedObject.mRID": "50TT000000053097",
-    "@cim:IdentifiedObject.name": "M Messiose RT2 Transformator",
+    "@cim:IdentifiedObject.name": "N Messiose RT2 Transformator",
     "@cim:Names.name": [
-        "NO-MESSIOS_RT2",
+        "NO-MESSIOSRT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

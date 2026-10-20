@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGRAN-123456-Y",
     "@skos:prefLabel": "Granitos de Atios, S.A.",
     "@skos:altLabel": "GRAN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGRAN-123456-Y",
     "@cim:IdentifiedObject.name": "Granitos de Atios, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA36062206",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-03-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA36062206",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

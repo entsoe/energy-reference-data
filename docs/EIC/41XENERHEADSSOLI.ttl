@@ -1,0 +1,37 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XENERHEADSSOLI> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """305457237
+Enerheads Solutions, UAB
+Draugystės g. 17-1, Kaunas
+LT-51230, Lietuva
+Nerijus Juškaitis
++370699025244
+nerijus.juskaitis@enerheads.com""" ;
+    cim:IdentifiedObject.mRID "41XENERHEADSSOLI" ;
+    cim:IdentifiedObject.name "Enerheads Solutions" ;
+    cim:Names.name "Balance Responsible Party",
+        "ENERHEADSSOLUTI",
+        "LT100013637415" ;
+    dcterms:identifier "urn:eic:41XENERHEADSSOLI" ;
+    schema1:vatID "LT100013637415" ;
+    skos:altLabel "ENERHEADSSOLUTI" ;
+    skos:definition """305457237
+Enerheads Solutions, UAB
+Draugystės g. 17-1, Kaunas
+LT-51230, Lietuva
+Nerijus Juškaitis
++370699025244
+nerijus.juskaitis@enerheads.com"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Enerheads Solutions" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

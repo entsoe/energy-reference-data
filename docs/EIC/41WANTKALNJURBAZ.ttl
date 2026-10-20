@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WANTKALNJURBAZ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """UAB „EKO Srautas“
+   302828541    LT100013271016   darius.bieksa@greengenius.com""" ;
+    cim:IdentifiedObject.mRID "41WANTKALNJURBAZ" ;
+    cim:IdentifiedObject.name "ANTKALNIŠKIAI JURBARKAS II" ;
+    cim:Names.name "ANTKALNISKIUJURB",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:41WANTKALNJURBAZ" ;
+    skos:altLabel "ANTKALNISKIUJURB" ;
+    skos:definition """UAB „EKO Srautas“
+   302828541    LT100013271016   darius.bieksa@greengenius.com"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ANTKALNIŠKIAI JURBARKAS II" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/46Y000000000021S",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:46Y000000000021S",
+    "@skos:prefLabel": "SE_SE4A_TP",
+    "@skos:altLabel": "SE_SE4A_TP",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "The EIC code represents an Aggregated Area defined by the TSO and used as a Technical Profile within the MARI and PICASSO balancing platforms.\nThe area is a virtual aggregation of several bidding zones and is used for modelling operational constraints and capacity limitations, in particular to limit flow variations over HVDC interconnections.\n"
+    },
+    "@cim:IdentifiedObject.mRID": "46Y000000000021S",
+    "@cim:IdentifiedObject.name": "SE_SE4A_TP",
+    "@cim:Names.name": [
+        "SE_SE4A_TP",
+        "Scheduling Area"
+    ],
+    "@cim:IdentifiedObject.description": "The EIC code represents an Aggregated Area defined by the TSO and used as a Technical Profile within the MARI and PICASSO balancing platforms.\nThe area is a virtual aggregation of several bidding zones and is used for modelling operational constraints and capacity limitations, in particular to limit flow variations over HVDC interconnections.\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-20",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

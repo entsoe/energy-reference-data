@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006384Z" ;
-    cim:IdentifiedObject.name "Mikułowa-PF-2" ;
+    cim:IdentifiedObject.name "400/400kV Mikulowa PF2" ;
     cim:Names.name "MIK-PF2",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T000000006384Z" ;
     skos:altLabel "MIK-PF2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Mikułowa-PF-2" ;
+    skos:prefLabel "400/400kV Mikulowa PF2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

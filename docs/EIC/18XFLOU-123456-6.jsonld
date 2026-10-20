@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFLOU-123456-6",
     "@skos:prefLabel": "Frigolouro",
     "@skos:altLabel": "FLOU",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFLOU-123456-6",
     "@cim:IdentifiedObject.name": "Frigolouro",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA36001998",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA36001998",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

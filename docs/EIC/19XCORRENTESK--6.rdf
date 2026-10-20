@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XCORRENTESK--6</dcterms:identifier>
-    <skos:prefLabel>ENTRADE SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260; SP. K</skos:prefLabel>
-    <skos:altLabel>ENTRADESPK_PL</skos:altLabel>
+    <skos:prefLabel>TRADEN SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>TRADEN_PL</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>19XCORRENTESK--6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENTRADE SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260; SP. K</cim:IdentifiedObject.name>
-    <cim:Names.name>ENTRADESPK_PL</cim:Names.name>
+    <cim:IdentifiedObject.name>TRADEN SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>TRADEN_PL</cim:Names.name>
     <cim:Names.name>PL1182112454</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-03-28</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL1182112454</schema:vatID>

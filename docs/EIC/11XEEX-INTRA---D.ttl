@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEEX-INTRA---D" ;
     cim:IdentifiedObject.name "European Commodity Clearing AG" ;
-    cim:Names.name "Balance Group",
-        "DE248156757",
-        "ECC-INTRA" ;
+    cim:Names.name "DE248156757",
+        "ECC-INTRA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEEX-INTRA---D" ;
     schema1:vatID "DE248156757" ;
     skos:altLabel "ECC-INTRA" ;

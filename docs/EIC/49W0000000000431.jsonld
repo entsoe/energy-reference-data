@@ -16,7 +16,10 @@
     "@skos:altLabel": "DM",
     "@cim:IdentifiedObject.mRID": "49W0000000000431",
     "@cim:IdentifiedObject.name": "Diemen",
-    "@cim:Names.name": "DM",
+    "@cim:Names.name": [
+        "DM",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-03-11",

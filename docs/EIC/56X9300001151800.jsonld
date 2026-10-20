@@ -18,13 +18,14 @@
     "@cim:IdentifiedObject.name": "LLC \"GS-TRADING\"",
     "@cim:Names.name": [
         "GS-TRADINGLLC",
-        "428531120319",
+        "428531120310",
+        "Network User",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-10-09",
-    "@schema:vatID": "428531120319",
+    "@cim:DateAndOrTime.date": "2024-07-15",
+    "@schema:vatID": "428531120310",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

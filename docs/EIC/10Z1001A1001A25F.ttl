@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Z1001A1001A25F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "IE-GB Interconnector" ;
+    cim:IdentifiedObject.mRID "10Z1001A1001A25F" ;
+    cim:IdentifiedObject.name "Greenlink Interconnector Limited" ;
+    cim:Names.name "Accounting Point",
+        "M_IE3860" ;
+    dcterms:identifier "urn:eic:10Z1001A1001A25F" ;
+    skos:altLabel "M_IE3860" ;
+    skos:definition "IE-GB Interconnector"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Greenlink Interconnector Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

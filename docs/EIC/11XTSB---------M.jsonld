@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XTSB---------M",
-    "@skos:prefLabel": "TrailStone GmbH",
+    "@skos:prefLabel": "Engelhart CTP GmbH",
     "@skos:altLabel": "TSB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XTSB---------M",
-    "@cim:IdentifiedObject.name": "TrailStone GmbH",
+    "@cim:IdentifiedObject.name": "Engelhart CTP GmbH",
     "@cim:Names.name": [
         "TSB",
         "DE289523572",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-19",
+    "@cim:DateAndOrTime.date": "2025-03-13",
     "@schema:vatID": "DE289523572",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

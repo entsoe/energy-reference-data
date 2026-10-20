@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000010496",
     "@skos:prefLabel": "MERAKER G2      HYDRO",
-    "@skos:altLabel": "NO-MERAKER_G2___",
+    "@skos:altLabel": "NO-MERAKERG2",
     "@cim:IdentifiedObject.mRID": "50WG000000010496",
     "@cim:IdentifiedObject.name": "MERAKER G2      HYDRO",
     "@cim:Names.name": [
-        "NO-MERAKER_G2___",
+        "NO-MERAKERG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

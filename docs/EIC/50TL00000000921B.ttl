@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000921B" ;
     cim:IdentifiedObject.name "S 22 Opstveit-Blåfalli 3" ;
     cim:Names.name "Internal Line",
-        "NO-OPSTVBLAFALL3" ;
+        "NO-22OPSTVEITBLA" ;
     dcterms:identifier "urn:eic:50TL00000000921B" ;
-    skos:altLabel "NO-OPSTVBLAFALL3" ;
+    skos:altLabel "NO-22OPSTVEITBLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Opstveit-Blåfalli 3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

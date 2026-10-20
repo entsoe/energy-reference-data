@@ -6,17 +6,17 @@
     <dcterms:identifier>urn:eic:29X10001000100TQ</dcterms:identifier>
     <skos:prefLabel>SYMPOWER GREECE &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#921;&#922;&#917;</skos:prefLabel>
     <skos:altLabel>SYMPOWERGR</skos:altLabel>
-    <skos:definition xml:lang="en">Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr    Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net) </skos:definition>
+    <skos:definition xml:lang="en">Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr 		 Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net)	</skos:definition>
     <cim:IdentifiedObject.mRID>29X10001000100TQ</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SYMPOWER GREECE &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#921;&#922;&#917;</cim:IdentifiedObject.name>
     <cim:Names.name>SYMPOWERGR</cim:Names.name>
     <cim:Names.name>EL801627226</cim:Names.name>
-    <cim:IdentifiedObject.description>Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr    Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net) </cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Demand Responsible Independent Aggregator Additional e-mail: konstantinos.tsinnas@sympower.gr 		 Additional contact persons: KONSTANTINOS ATHANASOPOULOS (kostas.athanasopoulos@sympower.net, +30 6936749469) IRENE ALMENAR (irene.almenar@sympower.net)	</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-05-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>EL801627226</schema:vatID>
   </skos:Concept>

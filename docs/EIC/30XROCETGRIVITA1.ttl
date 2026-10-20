@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "30XROCETGRIVITA1" ;
     cim:IdentifiedObject.name "CET GRIVITA SRL" ;
-    cim:Names.name "RO15811175",
+    cim:Names.name "Balance Responsible Party",
+        "RO15811175",
         "RO_GRIVITA",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:30XROCETGRIVITA1" ;
     schema1:vatID "RO15811175" ;
     skos:altLabel "RO_GRIVITA" ;

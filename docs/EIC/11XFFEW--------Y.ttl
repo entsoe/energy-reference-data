@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-10-07" ;
+    cim:DateAndOrTime.date "2024-11-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFFEW--------Y" ;
-    cim:IdentifiedObject.name "Fürstlich Fugger v. Glött´sche E-Werks GmbH & Co. KG" ;
-    cim:Names.name "14015953900",
-        "Balance Group",
+    cim:IdentifiedObject.name "Fürstlich Fugger v. Glött'sche E-Werks GmbH & Co. KG" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE283220124",
         "FFEW" ;
     dcterms:identifier "urn:eic:11XFFEW--------Y" ;
-    schema1:vatID "14015953900" ;
+    schema1:vatID "DE283220124" ;
     skos:altLabel "FFEW" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Fürstlich Fugger v. Glött´sche E-Werks GmbH & Co. KG" ;
+    skos:prefLabel "Fürstlich Fugger v. Glött'sche E-Werks GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

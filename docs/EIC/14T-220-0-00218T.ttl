@@ -10,12 +10,12 @@
     cim:DateAndOrTime.date "2021-08-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "14T-220-0-00218T" ;
-    cim:IdentifiedObject.name "Mayrhofen-Rosshag 218 " ;
+    cim:IdentifiedObject.name "Mayrhofen-Rosshag 218	" ;
     cim:Names.name "Internal Line",
         "MAYRHROSS218" ;
     dcterms:identifier "urn:eic:14T-220-0-00218T" ;
     skos:altLabel "MAYRHROSS218" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Mayrhofen-Rosshag 218 " ;
+    skos:prefLabel "Mayrhofen-Rosshag 218	" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

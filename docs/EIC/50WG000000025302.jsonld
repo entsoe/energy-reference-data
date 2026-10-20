@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000025302",
     "@skos:prefLabel": "JORDALENG1      HYDRO",
-    "@skos:altLabel": "NO-JORDALENG1___",
+    "@skos:altLabel": "NO-JORDALENG1",
     "@cim:IdentifiedObject.mRID": "50WG000000025302",
     "@cim:IdentifiedObject.name": "JORDALENG1      HYDRO",
     "@cim:Names.name": [
-        "NO-JORDALENG1___",
+        "NO-JORDALENG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

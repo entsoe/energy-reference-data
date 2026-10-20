@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000045353",
-    "@skos:prefLabel": "M Aura     T7 Transformator",
-    "@skos:altLabel": "NO-AURA____T7",
+    "@skos:prefLabel": "N Aura     T7 Transformator",
+    "@skos:altLabel": "NO-AURAT7",
     "@cim:IdentifiedObject.mRID": "50TT000000045353",
-    "@cim:IdentifiedObject.name": "M Aura     T7 Transformator",
+    "@cim:IdentifiedObject.name": "N Aura     T7 Transformator",
     "@cim:Names.name": [
-        "NO-AURA____T7",
+        "NO-AURAT7",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

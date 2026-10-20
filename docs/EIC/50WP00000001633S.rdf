@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001633S</dcterms:identifier>
     <skos:prefLabel>H&#248;glibekken</skos:prefLabel>
-    <skos:altLabel>NO-HOGLIBEKKEN_P</skos:altLabel>
+    <skos:altLabel>NO-HOEGLIBEKKEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001633S</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>H&#248;glibekken</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-HOGLIBEKKEN_P</cim:Names.name>
+    <cim:Names.name>NO-HOEGLIBEKKEN</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

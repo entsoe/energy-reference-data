@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/43WSES1-0176644X",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:43WSES1-0176644X",
+    "@skos:prefLabel": "SES Peki",
+    "@skos:altLabel": "WSES1-0176644X",
+    "@cim:IdentifiedObject.mRID": "43WSES1-0176644X",
+    "@cim:IdentifiedObject.name": "SES Peki",
+    "@cim:Names.name": [
+        "WSES1-0176644X",
+        "Generation Unit"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-12-01",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

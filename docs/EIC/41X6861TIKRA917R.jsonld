@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41X6861TIKRA917R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41X6861TIKRA917R",
+    "@skos:prefLabel": "UAB Tikra",
+    "@skos:altLabel": "UABTIKRA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB “Tikra” \n  305968616   LT100016404917   Draugystės g. 17-1, LT-51229 Kaunas    Dainius Raveikis   +370 (612) 19 191    uabtikra@gmail.com"
+    },
+    "@cim:IdentifiedObject.mRID": "41X6861TIKRA917R",
+    "@cim:IdentifiedObject.name": "UAB Tikra",
+    "@cim:Names.name": [
+        "UABTIKRA",
+        "LT100016404917",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "UAB “Tikra” \n  305968616   LT100016404917   Draugystės g. 17-1, LT-51229 Kaunas    Dainius Raveikis   +370 (612) 19 191    uabtikra@gmail.com",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-16",
+    "@schema:vatID": "LT100016404917",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

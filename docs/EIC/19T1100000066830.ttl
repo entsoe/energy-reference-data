@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000066830" ;
-    cim:IdentifiedObject.name "Piaseczno-Kozienice" ;
+    cim:IdentifiedObject.name "220kV Kozienice-Piaseczno" ;
     cim:Names.name "201",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000066830" ;
     skos:altLabel "201" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Piaseczno-Kozienice" ;
+    skos:prefLabel "220kV Kozienice-Piaseczno" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

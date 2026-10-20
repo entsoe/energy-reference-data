@@ -19,11 +19,14 @@
     "@cim:Names.name": [
         "SMARTLUZ",
         "ESB90486077",
-        "Trade Responsible Party"
+        "Consumer",
+        "Consumption Responsible Party",
+        "Market Operator",
+        "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-04-29",
+    "@cim:DateAndOrTime.date": "2025-01-27",
     "@schema:vatID": "ESB90486077",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

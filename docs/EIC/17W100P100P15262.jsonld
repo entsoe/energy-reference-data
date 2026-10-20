@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:17W100P100P15262",
-    "@skos:prefLabel": "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE CHAUTAGNE",
+    "@skos:prefLabel": "CHAUTAGNE G1",
     "@skos:altLabel": "FR_HY-CXTAG-G1",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Generation Unit"
+        "@value": "Generation Unit\nupdate"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P15262",
-    "@cim:IdentifiedObject.name": "GROUPE 01 DE LA CENTRALE HYDRAULIQUE DE CHAUTAGNE",
+    "@cim:IdentifiedObject.name": "CHAUTAGNE G1",
     "@cim:Names.name": [
         "FR_HY-CXTAG-G1",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
+    "@cim:IdentifiedObject.description": "Generation Unit\nupdate",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-01",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000003133L",
-    "@skos:prefLabel": "M 420 Snilldal-Surna",
-    "@skos:altLabel": "NO-SNILDSURNAD1",
+    "@skos:prefLabel": "N 420 Snilldal-Surna",
+    "@skos:altLabel": "NO-420SNIL_SURN",
     "@cim:IdentifiedObject.mRID": "50TL00000003133L",
-    "@cim:IdentifiedObject.name": "M 420 Snilldal-Surna",
+    "@cim:IdentifiedObject.name": "N 420 Snilldal-Surna",
     "@cim:Names.name": [
-        "NO-SNILDSURNAD1",
+        "NO-420SNIL_SURN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

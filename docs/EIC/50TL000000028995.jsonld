@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000028995",
-    "@skos:prefLabel": "S 66 Furuseth-Koppang",
-    "@skos:altLabel": "NO-FURUSETHKOPPA",
+    "@skos:prefLabel": "S 66 Horta-Koppang",
+    "@skos:altLabel": "NO-66HORTAKOPPAN",
     "@cim:IdentifiedObject.mRID": "50TL000000028995",
-    "@cim:IdentifiedObject.name": "S 66 Furuseth-Koppang",
+    "@cim:IdentifiedObject.name": "S 66 Horta-Koppang",
     "@cim:Names.name": [
-        "NO-FURUSETHKOPPA",
+        "NO-66HORTAKOPPAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

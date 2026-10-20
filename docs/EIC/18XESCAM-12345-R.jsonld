@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XESCAM-12345-R",
     "@skos:prefLabel": "EMPORDAVENT, S.L.",
     "@skos:altLabel": "ESCAM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XESCAM-12345-R",
     "@cim:IdentifiedObject.name": "EMPORDAVENT, S.L.",
     "@cim:Names.name": [
         "ESCAM",
         "ESB61959813",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-11-26",
+    "@cim:DateAndOrTime.date": "2026-10-06",
     "@schema:vatID": "ESB61959813",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

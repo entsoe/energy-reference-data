@@ -10,7 +10,7 @@
     cim:DateAndOrTime.date "2017-02-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XIENERGY-----1" ;
-    cim:IdentifiedObject.name "  I-ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ " ;
+    cim:IdentifiedObject.name " 	I-ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ " ;
     cim:Names.name "Balance Responsible Party",
         "I-ENERGIA-SPZOO",
         "PL6342823860" ;
@@ -18,6 +18,6 @@
     schema1:vatID "PL6342823860" ;
     skos:altLabel "I-ENERGIA-SPZOO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "  I-ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ " ;
+    skos:prefLabel " 	I-ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

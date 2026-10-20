@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Gas Grid Area" ;
     cim:IdentifiedObject.mRID "21YGB-UKGASGRIDW" ;
     cim:IdentifiedObject.name "UK GAS GRID" ;
-    cim:Names.name "UK-GAS-GRID",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "UK-GAS-GRID" ;
     dcterms:identifier "urn:eic:21YGB-UKGASGRIDW" ;
     skos:altLabel "UK-GAS-GRID" ;
     skos:definition "Gas Grid Area"@en ;

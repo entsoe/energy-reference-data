@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XHERMANOSAASL1",
     "@skos:prefLabel": "HERMANOS ALVAREZ ARRIETA SL",
     "@skos:altLabel": "HAASL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XHERMANOSAASL1",
     "@cim:IdentifiedObject.name": "HERMANOS ALVAREZ ARRIETA SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB33550195",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-09-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB33550195",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

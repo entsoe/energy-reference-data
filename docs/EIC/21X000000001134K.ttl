@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-22" ;
+    cim:DateAndOrTime.date "2026-06-30" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21X000000001134K" ;
     cim:IdentifiedObject.name "MET International AG" ;
-    cim:Names.name "CHE395558271",
+    cim:Names.name "Balance Responsible Party",
+        "CHE395558271",
         "METI",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001134K" ;

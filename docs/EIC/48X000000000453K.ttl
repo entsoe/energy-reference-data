@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000453K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48X000000000453K" ;
+    cim:IdentifiedObject.name "Enel X Uk Limited" ;
+    cim:Names.name "Balance Responsible Party",
+        "Balancing Service Provider",
+        "Capacity Trader",
+        "ENELX",
+        "Flexibility Service Provider",
+        "GB06937931" ;
+    dcterms:identifier "urn:eic:48X000000000453K" ;
+    schema1:vatID "GB06937931" ;
+    skos:altLabel "ENELX" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Enel X Uk Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

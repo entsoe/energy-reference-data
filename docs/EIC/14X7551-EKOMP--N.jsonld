@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/14X7551-EKOMP--N",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:14X7551-EKOMP--N",
+    "@skos:prefLabel": "Energie Kompass GmbH",
+    "@skos:altLabel": "ENERGIEKOMPASS",
+    "@cim:IdentifiedObject.mRID": "14X7551-EKOMP--N",
+    "@cim:IdentifiedObject.name": "Energie Kompass GmbH",
+    "@cim:Names.name": [
+        "ENERGIEKOMPASS",
+        "ATU67804539",
+        "Flexibility Service Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-28",
+    "@schema:vatID": "ATU67804539",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

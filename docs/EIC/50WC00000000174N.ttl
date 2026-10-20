@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000174N" ;
-    cim:IdentifiedObject.name "S Brunla   11  Forbruk" ;
+    cim:IdentifiedObject.name "S Brunla   11  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-BRUNLA11" ;
+        "NO-BRUNLA11T1" ;
     dcterms:identifier "urn:eic:50WC00000000174N" ;
-    skos:altLabel "NO-BRUNLA11" ;
+    skos:altLabel "NO-BRUNLA11T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Brunla   11  Forbruk" ;
+    skos:prefLabel "S Brunla   11  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

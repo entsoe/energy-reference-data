@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000973T",
-    "@skos:prefLabel": "M 22 Syltebø-Kanndalen",
-    "@skos:altLabel": "NO-SYLTEBOKANNDA",
+    "@skos:prefLabel": "N 22 Syltebø-Kanndalen",
+    "@skos:altLabel": "NO-22SYLTEBOKANN",
     "@cim:IdentifiedObject.mRID": "50TL00000000973T",
-    "@cim:IdentifiedObject.name": "M 22 Syltebø-Kanndalen",
+    "@cim:IdentifiedObject.name": "N 22 Syltebø-Kanndalen",
     "@cim:Names.name": [
-        "NO-SYLTEBOKANNDA",
+        "NO-22SYLTEBOKANN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-16" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000002766Z" ;
     cim:IdentifiedObject.name "Szombathely-Hévíz II." ;
-    cim:Names.name "MSZHO-MHEVI2",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MSZHO-MHEVI2" ;
     dcterms:identifier "urn:eic:15T-M0000002766Z" ;
     skos:altLabel "MSZHO-MHEVI2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

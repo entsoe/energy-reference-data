@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregate Exit Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000573" ;
     cim:IdentifiedObject.name "Industrial customers Italy" ;
     cim:Names.name "IND_CONSUMERS_IT",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y0000000000573" ;
     skos:altLabel "IND_CONSUMERS_IT" ;
-    skos:definition "Aggregate Exit Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Industrial customers Italy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

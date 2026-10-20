@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "15X-GEN-I-HUN--8" ;
     cim:IdentifiedObject.name "Gen-I Budapest Kft." ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Balance Group Responsible Party",
+        "Balance Responsible Party",
         "GEN-I-HUN-BC",
         "HU14007866" ;
     dcterms:identifier "urn:eic:15X-GEN-I-HUN--8" ;

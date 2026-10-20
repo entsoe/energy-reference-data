@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/30XROMSMVSOLAR-K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "30XROMSMVSOLAR-K" ;
+    cim:IdentifiedObject.name "MS & MV SOLAR" ;
+    cim:Names.name "Producer",
+        "RO42686363",
+        "RO_MSMV" ;
+    dcterms:identifier "urn:eic:30XROMSMVSOLAR-K" ;
+    schema1:vatID "RO42686363" ;
+    skos:altLabel "RO_MSMV" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MS & MV SOLAR" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

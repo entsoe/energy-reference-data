@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000015652" ;
     cim:IdentifiedObject.name "S 50 Krossen-Hannevika2" ;
     cim:Names.name "Internal Line",
-        "NO-KROSSENHANNE2" ;
+        "NO-50KROSSENHANN" ;
     dcterms:identifier "urn:eic:50TL000000015652" ;
-    skos:altLabel "NO-KROSSENHANNE2" ;
+    skos:altLabel "NO-50KROSSENHANN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 50 Krossen-Hannevika2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

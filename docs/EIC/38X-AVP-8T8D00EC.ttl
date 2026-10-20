@@ -14,7 +14,8 @@
     cim:IdentifiedObject.name "220 Energia OU" ;
     cim:Names.name "Consumer",
         "EE101563750",
-        "EE_220ENERGIA" ;
+        "EE_220ENERGIA",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:38X-AVP-8T8D00EC" ;
     schema1:vatID "EE101563750" ;
     skos:altLabel "EE_220ENERGIA" ;

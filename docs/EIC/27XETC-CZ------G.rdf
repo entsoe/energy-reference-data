@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:27XETC-CZ------G</dcterms:identifier>
-    <skos:prefLabel>ETC-Energy Trading, s.r.o.</skos:prefLabel>
-    <skos:altLabel>ETC-CZ------</skos:altLabel>
+    <skos:prefLabel>EIFlexi, s. r. o.</skos:prefLabel>
+    <skos:altLabel>EIFLEXI_ETC</skos:altLabel>
     <skos:definition xml:lang="en">Electricity Trading</skos:definition>
     <cim:IdentifiedObject.mRID>27XETC-CZ------G</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ETC-Energy Trading, s.r.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>ETC-CZ------</cim:Names.name>
+    <cim:IdentifiedObject.name>EIFlexi, s. r. o.</cim:IdentifiedObject.name>
+    <cim:Names.name>EIFLEXI_ETC</cim:Names.name>
     <cim:Names.name>CZ27678849</cim:Names.name>
     <cim:IdentifiedObject.description>Electricity Trading</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-02-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CZ27678849</schema:vatID>

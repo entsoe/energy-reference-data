@@ -5,15 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X0670442048506</dcterms:identifier>
     <skos:prefLabel>VOLTY S.R.L.</skos:prefLabel>
-    <skos:altLabel>VOLTY</skos:altLabel>
+    <skos:altLabel>IT-VOLTYSRLSRL</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X0670442048506</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>VOLTY S.R.L.</cim:IdentifiedObject.name>
-    <cim:Names.name>VOLTY</cim:Names.name>
-    <cim:Names.name>A0013858R.IT</cim:Names.name>
+    <cim:Names.name>IT-VOLTYSRLSRL</cim:Names.name>
     <cim:Names.name>IT06704420485</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-05-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-28</cim:DateAndOrTime.date>
     <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT06704420485</schema:vatID>

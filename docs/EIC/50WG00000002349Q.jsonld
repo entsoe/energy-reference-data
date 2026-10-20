@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002349Q",
-    "@skos:prefLabel": "OSTEROY G102 HYDRO",
-    "@skos:altLabel": "NO-OSTEROY_G102_",
+    "@skos:prefLabel": "TOSSE   G102 HYDRO",
+    "@skos:altLabel": "NO-TOSSEG102",
     "@cim:IdentifiedObject.mRID": "50WG00000002349Q",
-    "@cim:IdentifiedObject.name": "OSTEROY G102 HYDRO",
+    "@cim:IdentifiedObject.name": "TOSSE   G102 HYDRO",
     "@cim:Names.name": [
-        "NO-OSTEROY_G102_",
+        "NO-TOSSEG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:44Y-00000000171F",
-    "@skos:prefLabel": "Naistenlahti 2",
+    "@skos:prefLabel": "Naistenlahti 3",
     "@skos:altLabel": "FI_NSL200",
     "@cim:IdentifiedObject.mRID": "44Y-00000000171F",
-    "@cim:IdentifiedObject.name": "Naistenlahti 2",
+    "@cim:IdentifiedObject.name": "Naistenlahti 3",
     "@cim:Names.name": [
         "FI_NSL200",
         "Metering Grid Area"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-07-02",
+    "@cim:DateAndOrTime.date": "2023-12-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

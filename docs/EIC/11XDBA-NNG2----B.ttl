@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDBA-NNG2----B" ;
     cim:IdentifiedObject.name "N-ERGIE Netz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE251589629",
-        "NNG2-DBA" ;
+    cim:Names.name "DE251589629",
+        "NNG2-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDBA-NNG2----B" ;
     schema1:vatID "DE251589629" ;
     skos:altLabel "NNG2-DBA" ;

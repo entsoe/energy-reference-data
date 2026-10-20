@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001425Z" ;
     cim:IdentifiedObject.name "Momrak Kraftlag" ;
-    cim:Names.name "NO-MOMRAK-KRAFTL",
+    cim:Names.name "NO-MOMRAKKRAFTLA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001425Z" ;
-    skos:altLabel "NO-MOMRAK-KRAFTL" ;
+    skos:altLabel "NO-MOMRAKKRAFTLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Momrak Kraftlag" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

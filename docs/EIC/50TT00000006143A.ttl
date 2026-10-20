@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006143A" ;
-    cim:IdentifiedObject.name "M Verdal   T6 Transformator" ;
-    cim:Names.name "NO-VERDAL__T6",
+    cim:IdentifiedObject.name "N Verdal   T6 Transformator" ;
+    cim:Names.name "NO-VERDALT6",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006143A" ;
-    skos:altLabel "NO-VERDAL__T6" ;
+    skos:altLabel "NO-VERDALT6" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Verdal   T6 Transformator" ;
+    skos:prefLabel "N Verdal   T6 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

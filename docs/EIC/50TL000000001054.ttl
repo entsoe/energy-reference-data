@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000001054" ;
-    cim:IdentifiedObject.name "S 132 Angedalen-Tefre" ;
+    cim:IdentifiedObject.name "N 132 Angedalen-Tefre" ;
     cim:Names.name "Internal Line",
-        "NO-ANGEDALENTEFR" ;
+        "NO-132ANGEDALENT" ;
     dcterms:identifier "urn:eic:50TL000000001054" ;
-    skos:altLabel "NO-ANGEDALENTEFR" ;
+    skos:altLabel "NO-132ANGEDALENT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Angedalen-Tefre" ;
+    skos:prefLabel "N 132 Angedalen-Tefre" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

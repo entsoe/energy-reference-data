@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000387M",
-    "@skos:prefLabel": "Kvannvatn",
-    "@skos:altLabel": "NO-KVANNVAT",
+    "@skos:prefLabel": "Kvannvatn Magasin",
+    "@skos:altLabel": "NO-KVANNVAT_MAG",
     "@cim:IdentifiedObject.mRID": "50WP00000000387M",
-    "@cim:IdentifiedObject.name": "Kvannvatn",
+    "@cim:IdentifiedObject.name": "Kvannvatn Magasin",
     "@cim:Names.name": [
-        "NO-KVANNVAT",
+        "NO-KVANNVAT_MAG",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

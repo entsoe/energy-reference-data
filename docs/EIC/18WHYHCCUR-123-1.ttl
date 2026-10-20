@@ -11,7 +11,8 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WHYHCCUR-123-1" ;
     cim:IdentifiedObject.name "HIDROCANTABRICO ENERGIA ULTIMO RECURSO, S.A.U." ;
-    cim:Names.name "HYHCCUR" ;
+    cim:Names.name "HYHCCUR",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18WHYHCCUR-123-1" ;
     skos:altLabel "HYHCCUR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

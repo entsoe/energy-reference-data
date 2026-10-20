@@ -4,20 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:35XZELJEZARANIKD</dcterms:identifier>
-    <skos:prefLabel>ZELJEZARA NIKSIC</skos:prefLabel>
+    <skos:prefLabel>EPCG-&#381;eljezara Nik&#353;i&#263; d.o.o.</skos:prefLabel>
     <skos:altLabel>ZELJEZARANIK</skos:altLabel>
     <skos:definition xml:lang="en">Steel Factory.</skos:definition>
     <cim:IdentifiedObject.mRID>35XZELJEZARANIKD</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ZELJEZARA NIKSIC</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>EPCG-&#381;eljezara Nik&#353;i&#263; d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>ZELJEZARANIK</cim:Names.name>
-    <cim:Names.name>02880474</cim:Names.name>
+    <cim:Names.name>03530272</cim:Names.name>
     <cim:IdentifiedObject.description>Steel Factory.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-02</cim:DateAndOrTime.date>
-    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>02880474</schema:vatID>
+    <schema:vatID>03530272</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

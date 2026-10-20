@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XN-ERGIE_UEWSD" ;
     cim:IdentifiedObject.name "N-ERGIE Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE209536298",
-        "N-ERGIE-AG5" ;
+    cim:Names.name "DE209536298",
+        "N-ERGIE-AG5",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XN-ERGIE_UEWSD" ;
     schema1:vatID "DE209536298" ;
     skos:altLabel "N-ERGIE-AG5" ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001171O",
-    "@skos:prefLabel": "M Reitan   66  RT1 Forbruk",
+    "@skos:prefLabel": "N Reitan   22  RT1 Forbruk",
     "@skos:altLabel": "NO-REITAN66",
     "@cim:IdentifiedObject.mRID": "50WC00000001171O",
-    "@cim:IdentifiedObject.name": "M Reitan   66  RT1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Reitan   22  RT1 Forbruk",
     "@cim:Names.name": [
         "NO-REITAN66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

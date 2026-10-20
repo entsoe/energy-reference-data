@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCRCC-123456-Q</dcterms:identifier>
     <skos:prefLabel>COMUNIDAD DE REGANTES CAMPO DE CARTAGENA</skos:prefLabel>
     <skos:altLabel>CRCC</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCRCC-123456-Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>COMUNIDAD DE REGANTES CAMPO DE CARTAGENA</cim:IdentifiedObject.name>
     <cim:Names.name>CRCC</cim:Names.name>
     <cim:Names.name>ESG30607345</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-04-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG30607345</schema:vatID>

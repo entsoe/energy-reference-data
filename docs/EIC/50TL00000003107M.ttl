@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003107M" ;
     cim:IdentifiedObject.name "S 132 Vegusdal-T_Vassfo-2" ;
     cim:Names.name "Internal Line",
-        "NO-VEGUSDALTVASS" ;
+        "NO-132VEGUSDALT" ;
     dcterms:identifier "urn:eic:50TL00000003107M" ;
-    skos:altLabel "NO-VEGUSDALTVASS" ;
+    skos:altLabel "NO-132VEGUSDALT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Vegusdal-T_Vassfo-2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

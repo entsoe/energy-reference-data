@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000F3Z3",
-    "@skos:prefLabel": "PROMOSOLAR JUWI 17 SL",
+    "@skos:prefLabel": "PROMOSOLAR JUWI 17 S.L.",
     "@skos:altLabel": "PSJ17",
     "@cim:IdentifiedObject.mRID": "18X000000000F3Z3",
-    "@cim:IdentifiedObject.name": "PROMOSOLAR JUWI 17 SL",
+    "@cim:IdentifiedObject.name": "PROMOSOLAR JUWI 17 S.L.",
     "@cim:Names.name": [
         "PSJ17",
         "ESB98382229",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-04-30",
+    "@cim:DateAndOrTime.date": "2026-06-29",
     "@schema:vatID": "ESB98382229",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

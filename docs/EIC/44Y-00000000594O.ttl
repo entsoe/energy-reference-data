@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2024-02-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44Y-00000000594O" ;
-    cim:IdentifiedObject.name "Lestijärven tuulipuisto" ;
+    cim:IdentifiedObject.name "Hittisennevan tuulipuisto" ;
     cim:Names.name "44Y-00000000594O",
         "Metering Grid Area" ;
     dcterms:identifier "urn:eic:44Y-00000000594O" ;
     skos:altLabel "44Y-00000000594O" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Lestijärven tuulipuisto" ;
+    skos:prefLabel "Hittisennevan tuulipuisto" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

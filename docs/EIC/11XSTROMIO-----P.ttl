@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-02-27" ;
+    cim:DateAndOrTime.date "2026-07-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTROMIO-----P" ;
-    cim:IdentifiedObject.name "Stromio GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:IdentifiedObject.name "Grünwelt Energie Stromversorgungsgesellschaft mbH" ;
+    cim:Names.name "Balance Responsible Party",
         "DE815091293",
         "STROMIO" ;
     dcterms:identifier "urn:eic:11XSTROMIO-----P" ;
     schema1:vatID "DE815091293" ;
     skos:altLabel "STROMIO" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stromio GmbH" ;
+    skos:prefLabel "Grünwelt Energie Stromversorgungsgesellschaft mbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

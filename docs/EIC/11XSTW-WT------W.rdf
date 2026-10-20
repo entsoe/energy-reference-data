@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XSTW-WT------W</dcterms:identifier>
-    <skos:prefLabel>Stadtwerke Waldshut-Tiengen GmBH</skos:prefLabel>
+    <skos:prefLabel>Stadtwerke Waldshut-Tiengen GmbH</skos:prefLabel>
     <skos:altLabel>STW_WT</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSTW-WT------W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stadtwerke Waldshut-Tiengen GmBH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Stadtwerke Waldshut-Tiengen GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>STW_WT</cim:Names.name>
     <cim:Names.name>DE204444191</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-05-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE204444191</schema:vatID>
   </skos:Concept>

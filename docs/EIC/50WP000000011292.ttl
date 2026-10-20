@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000011292" ;
     cim:IdentifiedObject.name "Buset Mikrokraft" ;
-    cim:Names.name "NO-BUSET-MIKROKR",
+    cim:Names.name "NO-BUSETMIKROKRA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000011292" ;
-    skos:altLabel "NO-BUSET-MIKROKR" ;
+    skos:altLabel "NO-BUSETMIKROKRA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Buset Mikrokraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

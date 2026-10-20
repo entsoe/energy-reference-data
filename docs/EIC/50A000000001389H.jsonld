@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001389H",
-    "@skos:prefLabel": "T_Fygle",
-    "@skos:altLabel": "NO-T_FYGLE",
+    "@skos:prefLabel": "T_Skillemo",
+    "@skos:altLabel": "NO-T_SKILLE",
     "@cim:IdentifiedObject.mRID": "50A000000001389H",
-    "@cim:IdentifiedObject.name": "T_Fygle",
+    "@cim:IdentifiedObject.name": "T_Skillemo",
     "@cim:Names.name": [
-        "NO-T_FYGLE",
+        "NO-T_SKILLE",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

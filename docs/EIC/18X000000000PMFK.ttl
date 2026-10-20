@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PMFK> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PMFK" ;
+    cim:IdentifiedObject.name "TU EXCEDENTE ENERGÍA SLU" ;
+    cim:Names.name "ES-TUEXCEDENTE",
+        "ESB25992082",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PMFK" ;
+    schema1:vatID "ESB25992082" ;
+    skos:altLabel "ES-TUEXCEDENTE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TU EXCEDENTE ENERGÍA SLU" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

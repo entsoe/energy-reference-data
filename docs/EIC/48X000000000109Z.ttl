@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balancing Responsible Party" ;
     cim:IdentifiedObject.mRID "48X000000000109Z" ;
     cim:IdentifiedObject.name "Volantis Energy Ltd" ;
     cim:Names.name "10160145",
         "VOE0000000001",
-        "Valid EIC Function needed" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:48X000000000109Z" ;
     schema1:vatID "10160145" ;
     skos:altLabel "VOE0000000001" ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000002405J",
     "@skos:prefLabel": "S Hemsil 1 300 H1 X",
-    "@skos:altLabel": "NO-HEMSIL1300H1X",
+    "@skos:altLabel": "NO-HEMSIL_1300H1",
     "@cim:IdentifiedObject.mRID": "50TL00000002405J",
     "@cim:IdentifiedObject.name": "S Hemsil 1 300 H1 X",
     "@cim:Names.name": [
-        "NO-HEMSIL1300H1X",
+        "NO-HEMSIL_1300H1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

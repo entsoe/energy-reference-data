@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000929C",
     "@skos:prefLabel": "Trollelva",
-    "@skos:altLabel": "NO-TROLLELVA_PL",
+    "@skos:altLabel": "NO-TROLLELVA",
     "@cim:IdentifiedObject.mRID": "50WP00000000929C",
     "@cim:IdentifiedObject.name": "Trollelva",
     "@cim:Names.name": [
-        "NO-TROLLELVA_PL",
+        "NO-TROLLELVA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

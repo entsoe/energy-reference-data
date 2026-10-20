@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001304V" ;
-    cim:IdentifiedObject.name "S Rælingen 47  L2 Forbruk" ;
+    cim:IdentifiedObject.name "S Rælingen 47  T2 Forbruk" ;
     cim:Names.name "Load",
-        "NO-RALINGEN47L2" ;
+        "NO-RALINGEN47T2" ;
     dcterms:identifier "urn:eic:50WC00000001304V" ;
-    skos:altLabel "NO-RALINGEN47L2" ;
+    skos:altLabel "NO-RALINGEN47T2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Rælingen 47  L2 Forbruk" ;
+    skos:prefLabel "S Rælingen 47  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

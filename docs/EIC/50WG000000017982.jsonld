@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000017982",
-    "@skos:prefLabel": "SVELGEN G5      HYDRO",
-    "@skos:altLabel": "NO-SVELGEN_G5___",
+    "@skos:prefLabel": "SVELGEN G11     HYDRO",
+    "@skos:altLabel": "NO-SVELGENG11",
     "@cim:IdentifiedObject.mRID": "50WG000000017982",
-    "@cim:IdentifiedObject.name": "SVELGEN G5      HYDRO",
+    "@cim:IdentifiedObject.name": "SVELGEN G11     HYDRO",
     "@cim:Names.name": [
-        "NO-SVELGEN_G5___",
+        "NO-SVELGENG11",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

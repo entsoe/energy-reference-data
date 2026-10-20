@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-19" ;
+    cim:DateAndOrTime.date "2026-01-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XHOYER-STROM-Q" ;
-    cim:IdentifiedObject.name "BSE Strom und Erdgas GmbH" ;
+    cim:IdentifiedObject.name "Hoyer Energy Connect GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE306362810",
         "HOYER-STROM" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE306362810" ;
     skos:altLabel "HOYER-STROM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BSE Strom und Erdgas GmbH" ;
+    skos:prefLabel "Hoyer Energy Connect GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

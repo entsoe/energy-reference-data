@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000533L",
-    "@skos:prefLabel": "N Sortland 22  Forbruk",
-    "@skos:altLabel": "NO-SORTLAND22",
+    "@skos:prefLabel": "N Sortland 22  Ho1 Forbruk",
+    "@skos:altLabel": "NO-SORTLAND22HO1",
     "@cim:IdentifiedObject.mRID": "50WC00000000533L",
-    "@cim:IdentifiedObject.name": "N Sortland 22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Sortland 22  Ho1 Forbruk",
     "@cim:Names.name": [
-        "NO-SORTLAND22",
+        "NO-SORTLAND22HO1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

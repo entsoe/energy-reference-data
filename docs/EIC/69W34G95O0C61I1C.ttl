@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69W34G95O0C61I1C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69W34G95O0C61I1C" ;
+    cim:IdentifiedObject.name "VASILIKOS STEAM TURBINE 1" ;
+    cim:Names.name "Generation",
+        "Generation Unit",
+        "Production Unit",
+        "Resource Object",
+        "VAS-ST1" ;
+    dcterms:identifier "urn:eic:69W34G95O0C61I1C" ;
+    skos:altLabel "VAS-ST1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASILIKOS STEAM TURBINE 1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

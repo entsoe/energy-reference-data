@@ -7,13 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-04-29" ;
+    cim:DateAndOrTime.date "2025-01-27" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000HOJ1" ;
     cim:IdentifiedObject.name "SMARTLUZ ENERGY" ;
-    cim:Names.name "ESB90486077",
-        "SMARTLUZ",
-        "Trade Responsible Party" ;
+    cim:Names.name "Consumer",
+        "Consumption Responsible Party",
+        "ESB90486077",
+        "Market Operator",
+        "Producer",
+        "SMARTLUZ" ;
     dcterms:identifier "urn:eic:18X000000000HOJ1" ;
     schema1:vatID "ESB90486077" ;
     skos:altLabel "SMARTLUZ" ;

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-17" ;
+    cim:DateAndOrTime.date "2024-09-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTROMMIXER--E" ;
     cim:IdentifiedObject.name "PROENGENO GmbH & Co. KG" ;
-    cim:Names.name "DE813310275",
-        "STROMMIXER",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE813310275",
+        "STROMMIXER" ;
     dcterms:identifier "urn:eic:11XSTROMMIXER--E" ;
     schema1:vatID "DE813310275" ;
     skos:altLabel "STROMMIXER" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PROENGENO GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

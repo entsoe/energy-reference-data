@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000000372Z" ;
-    cim:IdentifiedObject.name "Świebodzice-Mikułowa 2" ;
+    cim:IdentifiedObject.name "220kV Mikulowa-Swiebodzice 2" ;
     cim:Names.name "4004",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000000372Z" ;
     skos:altLabel "4004" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Świebodzice-Mikułowa 2" ;
+    skos:prefLabel "220kV Mikulowa-Swiebodzice 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

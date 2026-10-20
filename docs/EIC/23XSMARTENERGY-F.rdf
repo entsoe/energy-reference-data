@@ -6,16 +6,15 @@
     <dcterms:identifier>urn:eic:23XSMARTENERGY-F</dcterms:identifier>
     <skos:prefLabel>SmartestEnergy Ltd</skos:prefLabel>
     <skos:altLabel>SMARTERGY</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>23XSMARTENERGY-F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SmartestEnergy Ltd</cim:IdentifiedObject.name>
     <cim:Names.name>SMARTERGY</cim:Names.name>
+    <cim:Names.name>A0017704X.IE</cim:Names.name>
     <cim:Names.name>GB773846584</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-04-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-10-08</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB773846584</schema:vatID>
   </skos:Concept>

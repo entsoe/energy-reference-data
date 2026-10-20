@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X0000024676155> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X0000024676155" ;
+    cim:IdentifiedObject.name "CENTRALE SOLAIRE ORION 34" ;
+    cim:Names.name "A0023000Y.FR",
+        "FR23833546450",
+        "FR_CHATEAURENARD",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X0000024676155" ;
+    schema1:vatID "FR23833546450" ;
+    skos:altLabel "FR_CHATEAURENARD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CENTRALE SOLAIRE ORION 34" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

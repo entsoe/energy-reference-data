@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVBSEESEN----O" ;
     cim:IdentifiedObject.name "Versorgungsbetriebe Seesen/Harz GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE114765117",
-        "VBSEESEN" ;
+    cim:Names.name "DE114765117",
+        "VBSEESEN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVBSEESEN----O" ;
     schema1:vatID "DE114765117" ;
     skos:altLabel "VBSEESEN" ;

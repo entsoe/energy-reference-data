@@ -4,16 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X130495410090X</dcterms:identifier>
-    <skos:prefLabel>METAENERGIAPRODUZIONE SRL</skos:prefLabel>
-    <skos:altLabel>METAENERGIAPROD</skos:altLabel>
+    <skos:prefLabel>IME POWER SRL</skos:prefLabel>
+    <skos:altLabel>IT-IMEPOWERSRLSR</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X130495410090X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>METAENERGIAPRODUZIONE SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>METAENERGIAPROD</cim:Names.name>
-    <cim:Names.name>A00191563.IT</cim:Names.name>
+    <cim:IdentifiedObject.name>IME POWER SRL</cim:IdentifiedObject.name>
+    <cim:Names.name>IT-IMEPOWERSRLSR</cim:Names.name>
     <cim:Names.name>IT13049541009</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-04-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-10</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT13049541009</schema:vatID>

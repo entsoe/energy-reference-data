@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XHEW-R-------B" ;
     cim:IdentifiedObject.name "Hamburgische Elektricitäts-Werke AG - Erzeugung" ;
-    cim:Names.name "Balance Group",
-        "DE813152937",
-        "HEW_R" ;
+    cim:Names.name "DE813152937",
+        "HEW_R",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHEW-R-------B" ;
     schema1:vatID "DE813152937" ;
     skos:altLabel "HEW_R" ;

@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_BI-PROVET4-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Production Unit"
+        "@value": "Production Unit\nUPDATE"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P03647",
     "@cim:IdentifiedObject.name": "PROVENCE 4",
@@ -24,10 +24,10 @@
         "FR_BI-PROVET4-P",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Production Unit",
+    "@cim:IdentifiedObject.description": "Production Unit\nUPDATE",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-12-18",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

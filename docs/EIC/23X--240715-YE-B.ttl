@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240715-YE-B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """VAT number confirmed through official certificate (VAT FILER) by the Tax Administration of Kosovo: 330565252
+Company registration number confirmed by official certificate of Kosova Business Registration Agency: 811982398""" ;
+    cim:IdentifiedObject.mRID "23X--240715-YE-B" ;
+    cim:IdentifiedObject.name "Yildirim Energy Europe Kosovo SH.P.K." ;
+    cim:Names.name "330565252",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Trade Responsible Party",
+        "YILDIRIM_EE_XK" ;
+    dcterms:identifier "urn:eic:23X--240715-YE-B" ;
+    schema1:vatID "330565252" ;
+    skos:altLabel "YILDIRIM_EE_XK" ;
+    skos:definition """VAT number confirmed through official certificate (VAT FILER) by the Tax Administration of Kosovo: 330565252
+Company registration number confirmed by official certificate of Kosova Business Registration Agency: 811982398"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Yildirim Energy Europe Kosovo SH.P.K." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

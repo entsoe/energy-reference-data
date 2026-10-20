@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P8GN> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P8GN" ;
+    cim:IdentifiedObject.name "COGENERACIÓN BIEFFE MEDITAL – TEC 94, S.L." ;
+    cim:Names.name "ES-BIEFFE",
+        "ESB99570319",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P8GN" ;
+    schema1:vatID "ESB99570319" ;
+    skos:altLabel "ES-BIEFFE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "COGENERACIÓN BIEFFE MEDITAL – TEC 94, S.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

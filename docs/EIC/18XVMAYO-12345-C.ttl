@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-12-15" ;
+    cim:DateAndOrTime.date "2026-08-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XVMAYO-12345-C" ;
-    cim:IdentifiedObject.name "P. E. VILLAMAYOR, S.L." ;
+    cim:IdentifiedObject.name "PARQUE EOLICO VILLAMAYOR, S.L." ;
     cim:Names.name "ESB85654283",
-        "Production Responsible party",
+        "Production Responsible Party",
         "VMAYO" ;
     dcterms:identifier "urn:eic:18XVMAYO-12345-C" ;
     schema1:vatID "ESB85654283" ;
     skos:altLabel "VMAYO" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "P. E. VILLAMAYOR, S.L." ;
+    skos:prefLabel "PARQUE EOLICO VILLAMAYOR, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

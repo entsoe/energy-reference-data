@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-15" ;
+    cim:DateAndOrTime.date "2024-05-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "58X-BULGARGAZ-1G" ;
-    cim:IdentifiedObject.name "BULGARGAZ" ;
-    cim:Names.name "BG175203485",
+    cim:IdentifiedObject.name "BULGARGAZ EAD" ;
+    cim:Names.name "A00112088.BG",
+        "BG175203485",
         "BULGARGAZ",
         "Network User" ;
     dcterms:identifier "urn:eic:58X-BULGARGAZ-1G" ;
@@ -20,6 +21,6 @@
     skos:altLabel "BULGARGAZ" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BULGARGAZ" ;
+    skos:prefLabel "BULGARGAZ EAD" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

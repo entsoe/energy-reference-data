@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTW-CRA-----3" ;
     cim:IdentifiedObject.name "Stadtwerke Crailsheim GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE145206528",
-        "STW-CRAILSHEIM" ;
+    cim:Names.name "DE145206528",
+        "STW-CRAILSHEIM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSTW-CRA-----3" ;
     schema1:vatID "DE145206528" ;
     skos:altLabel "STW-CRAILSHEIM" ;

@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/69XWR2I87LGN9L5R",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:69XWR2I87LGN9L5R",
+    "@skos:prefLabel": "VASSILIKO CEMENT CLEAN ENERGY SUPPLY LTD",
+    "@skos:altLabel": "VASSILIKO-SUPPLY",
+    "@cim:IdentifiedObject.mRID": "69XWR2I87LGN9L5R",
+    "@cim:IdentifiedObject.name": "VASSILIKO CEMENT CLEAN ENERGY SUPPLY LTD",
+    "@cim:Names.name": [
+        "VASSILIKO-SUPPLY",
+        "10425746U",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Imbalance Settlement Responsible",
+        "Production Responsible Party",
+        "Resource Aggregator",
+        "Trade Responsible Party",
+        "Balancing Service Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-24",
+    "@schema:vatID": "10425746U",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

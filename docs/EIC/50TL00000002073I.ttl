@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002073I" ;
     cim:IdentifiedObject.name "S 66 Ringebu-Sør_Fron" ;
     cim:Names.name "Internal Line",
-        "NO-RINGEBUSORFRO" ;
+        "NO-66RINGEBUSOR" ;
     dcterms:identifier "urn:eic:50TL00000002073I" ;
-    skos:altLabel "NO-RINGEBUSORFRO" ;
+    skos:altLabel "NO-66RINGEBUSOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Ringebu-Sør_Fron" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

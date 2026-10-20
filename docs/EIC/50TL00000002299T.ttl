@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002299T" ;
     cim:IdentifiedObject.name "S 66 Veldresiden-Narudveien" ;
     cim:Names.name "Internal Line",
-        "NO-VELDRESIDENNA" ;
+        "NO-66VELDRESIDEN" ;
     dcterms:identifier "urn:eic:50TL00000002299T" ;
-    skos:altLabel "NO-VELDRESIDENNA" ;
+    skos:altLabel "NO-66VELDRESIDEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Veldresiden-Narudveien" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002255D" ;
-    cim:IdentifiedObject.name "S Tysingva 66  L1 Forbruk" ;
+    cim:IdentifiedObject.name "S Tysingva 22  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-TYSINGVATN66" ;
+        "NO-TYSINGVATN22" ;
     dcterms:identifier "urn:eic:50WC00000002255D" ;
-    skos:altLabel "NO-TYSINGVATN66" ;
+    skos:altLabel "NO-TYSINGVATN22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Tysingva 66  L1 Forbruk" ;
+    skos:prefLabel "S Tysingva 22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

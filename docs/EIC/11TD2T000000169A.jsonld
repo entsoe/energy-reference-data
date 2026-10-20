@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11TD2T000000169A",
-    "@skos:prefLabel": "TTG/220-110/Schweinfurt/Trafo NK1",
+    "@skos:prefLabel": "TTG/220-110/REGENSBURG/TRAFO 212",
     "@skos:altLabel": "T-D2-D2-10072393",
     "@cim:IdentifiedObject.mRID": "11TD2T000000169A",
-    "@cim:IdentifiedObject.name": "TTG/220-110/Schweinfurt/Trafo NK1",
+    "@cim:IdentifiedObject.name": "TTG/220-110/REGENSBURG/TRAFO 212",
     "@cim:Names.name": [
         "T-D2-D2-10072393",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-16",
+    "@cim:DateAndOrTime.date": "2024-07-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

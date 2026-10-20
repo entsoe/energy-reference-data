@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10V000000010102H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "To connect CorNet EMF function to OPDE" ;
+    cim:IdentifiedObject.mRID "10V000000010102H" ;
+    cim:IdentifiedObject.name "CorNet OPDE Client PROD" ;
+    cim:Names.name "CORNET_OPDE_PROD",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:10V000000010102H" ;
+    skos:altLabel "CORNET_OPDE_PROD" ;
+    skos:definition "To connect CorNet EMF function to OPDE"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CorNet OPDE Client PROD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

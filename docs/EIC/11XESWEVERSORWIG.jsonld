@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XESWEVERSORWIG",
     "@skos:prefLabel": "ESWE Versorgungs AG",
     "@skos:altLabel": "ESWE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XESWEVERSORWIG",
     "@cim:IdentifiedObject.name": "ESWE Versorgungs AG",
     "@cim:Names.name": [
         "ESWE",
         "DE113822541",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-10-07",
+    "@cim:DateAndOrTime.date": "2024-12-13",
     "@schema:vatID": "DE113822541",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

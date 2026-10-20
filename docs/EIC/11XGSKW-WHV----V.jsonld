@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XGSKW-WHV----V",
-    "@skos:prefLabel": "ENGIE Kraftwerk Wilhelmshaven GmbH & Co. KG",
+    "@skos:prefLabel": "Onyx Kraftwerk Wilhelmshaven GmbH & Co. KG",
     "@skos:altLabel": "GSKW-WHV",
     "@cim:IdentifiedObject.mRID": "11XGSKW-WHV----V",
-    "@cim:IdentifiedObject.name": "ENGIE Kraftwerk Wilhelmshaven GmbH & Co. KG",
+    "@cim:IdentifiedObject.name": "Onyx Kraftwerk Wilhelmshaven GmbH & Co. KG",
     "@cim:Names.name": [
         "GSKW-WHV",
         "DE257536814",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-16",
+    "@cim:DateAndOrTime.date": "2026-10-16",
     "@schema:vatID": "DE257536814",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

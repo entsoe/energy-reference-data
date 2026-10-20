@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XELSAMSTROM--6" ;
     cim:IdentifiedObject.name "Elsam Stromhandel GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE220468351",
-        "ELSAMSTROM" ;
+    cim:Names.name "DE220468351",
+        "ELSAMSTROM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XELSAMSTROM--6" ;
     schema1:vatID "DE220468351" ;
     skos:altLabel "ELSAMSTROM" ;

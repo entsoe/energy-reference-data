@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002754V",
-    "@skos:prefLabel": "M 22 Tosbotn-Tverråa",
-    "@skos:altLabel": "NO-TOSBOTNTVERRA",
+    "@skos:prefLabel": "N 22 Tosbotn-Tverråa",
+    "@skos:altLabel": "NO-22TOSBOTNTVER",
     "@cim:IdentifiedObject.mRID": "50TL00000002754V",
-    "@cim:IdentifiedObject.name": "M 22 Tosbotn-Tverråa",
+    "@cim:IdentifiedObject.name": "N 22 Tosbotn-Tverråa",
     "@cim:Names.name": [
-        "NO-TOSBOTNTVERRA",
+        "NO-22TOSBOTNTVER",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

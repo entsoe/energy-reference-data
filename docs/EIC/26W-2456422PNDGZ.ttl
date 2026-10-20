@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26W-2456422PNDGZ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26W-2456422PNDGZ" ;
+    cim:IdentifiedObject.name "IM_2456422UP_PNDGRGBESS_1" ;
+    cim:Names.name "2456422_40272",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:26W-2456422PNDGZ" ;
+    skos:altLabel "2456422_40272" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "IM_2456422UP_PNDGRGBESS_1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

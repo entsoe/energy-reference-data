@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002402P" ;
-    cim:IdentifiedObject.name "S Hasle 420 RO1 X" ;
+    cim:IdentifiedObject.name "S Hasle    420 RO1 X" ;
     cim:Names.name "Internal Line",
-        "NO-HASLE420RO1X" ;
+        "NO-HASLE420RO1_X" ;
     dcterms:identifier "urn:eic:50TL00000002402P" ;
-    skos:altLabel "NO-HASLE420RO1X" ;
+    skos:altLabel "NO-HASLE420RO1_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hasle 420 RO1 X" ;
+    skos:prefLabel "S Hasle    420 RO1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000009005",
     "@skos:prefLabel": "KVEASA  G1      HYDRO",
-    "@skos:altLabel": "NO-KVEASA__G1___",
+    "@skos:altLabel": "NO-KVEASAG1",
     "@cim:IdentifiedObject.mRID": "50WG000000009005",
     "@cim:IdentifiedObject.name": "KVEASA  G1      HYDRO",
     "@cim:Names.name": [
-        "NO-KVEASA__G1___",
+        "NO-KVEASAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

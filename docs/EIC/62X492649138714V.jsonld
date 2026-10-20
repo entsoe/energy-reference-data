@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/62X492649138714V",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:62X492649138714V",
+    "@skos:prefLabel": "LLC \"Energodim UA\"",
+    "@skos:altLabel": "ENERGODIM_UA",
+    "@cim:IdentifiedObject.mRID": "62X492649138714V",
+    "@cim:IdentifiedObject.name": "LLC \"Energodim UA\"",
+    "@cim:Names.name": [
+        "ENERGODIM_UA",
+        "447245604652",
+        "Consumption Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-01-07",
+    "@schema:vatID": "447245604652",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

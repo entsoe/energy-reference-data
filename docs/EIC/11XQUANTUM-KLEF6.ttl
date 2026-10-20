@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XQUANTUM-KLEF6" ;
     cim:IdentifiedObject.name "Quantum GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE215726363",
-        "QUANTUM_KREFELD" ;
+    cim:Names.name "DE215726363",
+        "QUANTUM_KREFELD",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XQUANTUM-KLEF6" ;
     schema1:vatID "DE215726363" ;
     skos:altLabel "QUANTUM_KREFELD" ;

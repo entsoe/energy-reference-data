@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCLUBNSANTAOLL",
     "@skos:prefLabel": "club natación santa olaya",
     "@skos:altLabel": "NSO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCLUBNSANTAOLL",
     "@cim:IdentifiedObject.name": "club natación santa olaya",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG33619214",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-31",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG33619214",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

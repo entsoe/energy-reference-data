@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-11-15" ;
+    cim:DateAndOrTime.date "2024-12-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "59X000000000007C" ;
-    cim:IdentifiedObject.name "SIMP GAS SRL" ;
+    cim:IdentifiedObject.name "SG ENERGIA SOCIETA' PER AZIONI" ;
     cim:Names.name "Balance Responsible Party",
         "IT01504440197",
-        "SIMP_GA" ;
+        "SGENERGIASOCIETA" ;
     dcterms:identifier "urn:eic:59X000000000007C" ;
     schema1:vatID "IT01504440197" ;
-    skos:altLabel "SIMP_GA" ;
+    skos:altLabel "SGENERGIASOCIETA" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SIMP GAS SRL" ;
+    skos:prefLabel "SG ENERGIA SOCIETA' PER AZIONI" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

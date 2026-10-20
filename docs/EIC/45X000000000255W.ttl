@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000255W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """45X000000000255W
+""" ;
+    cim:IdentifiedObject.mRID "45X000000000255W" ;
+    cim:IdentifiedObject.name "Ykasth Commodities" ;
+    cim:Names.name "45578577",
+        "Balance Responsible Party",
+        "YC" ;
+    dcterms:identifier "urn:eic:45X000000000255W" ;
+    schema1:vatID "45578577" ;
+    skos:altLabel "YC" ;
+    skos:definition """45X000000000255W
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Ykasth Commodities" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

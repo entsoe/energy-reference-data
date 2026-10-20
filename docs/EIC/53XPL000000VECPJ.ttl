@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "EIC code type X for the same VAT number already exists." ;
     cim:IdentifiedObject.mRID "53XPL000000VECPJ" ;
     cim:IdentifiedObject.name "Veolia Energy Contracting Poland" ;
-    cim:Names.name "PL5213589769",
+    cim:Names.name "Network User",
+        "PL5213589769",
         "VECP" ;
     dcterms:identifier "urn:eic:53XPL000000VECPJ" ;
     schema1:vatID "PL5213589769" ;

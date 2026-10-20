@@ -16,7 +16,10 @@
     "@skos:altLabel": "RANNA_147_156-2",
     "@cim:IdentifiedObject.mRID": "10T-AT-DE-00034X",
     "@cim:IdentifiedObject.name": "Ranna_147_156-2",
-    "@cim:Names.name": "RANNA_147_156-2",
+    "@cim:Names.name": [
+        "RANNA_147_156-2",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-10-14",

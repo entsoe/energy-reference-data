@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:60X000000000118B",
-    "@skos:prefLabel": "SC SKY GAS TRADING SRL",
-    "@skos:altLabel": "SKYGAS01",
+    "@skos:prefLabel": "M.D.A. ENERGY SRL",
+    "@skos:altLabel": "MDAENERGY",
     "@cim:IdentifiedObject.mRID": "60X000000000118B",
-    "@cim:IdentifiedObject.name": "SC SKY GAS TRADING SRL",
+    "@cim:IdentifiedObject.name": "M.D.A. ENERGY SRL",
     "@cim:Names.name": [
-        "SKYGAS01",
+        "MDAENERGY",
         "RO45407951",
         "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-03-16",
+    "@cim:DateAndOrTime.date": "2024-04-01",
     "@schema:vatID": "RO45407951",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

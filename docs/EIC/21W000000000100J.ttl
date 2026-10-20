@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-12-04" ;
+    cim:DateAndOrTime.date "2024-06-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "21W000000000100J" ;
-    cim:IdentifiedObject.name "Etzel EGL Statoil Deutschland Storage" ;
-    cim:Names.name "Connection Point",
-        "ETZEL-STATOIL-DE" ;
+    cim:IdentifiedObject.name "Equinor Storage Deutschland GmbH" ;
+    cim:Names.name "EQUINOR-DE-STOR",
+        "Gas Storage Facility" ;
     dcterms:identifier "urn:eic:21W000000000100J" ;
-    skos:altLabel "ETZEL-STATOIL-DE" ;
-    skos:definition "Connection Point"@en ;
+    skos:altLabel "EQUINOR-DE-STOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Etzel EGL Statoil Deutschland Storage" ;
+    skos:prefLabel "Equinor Storage Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

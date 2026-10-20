@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0517-X" ;
     cim:IdentifiedObject.name "OTIMA Energie AG" ;
-    cim:Names.name "DE323969536",
+    cim:Names.name "Balance Responsible Party",
+        "DE323969536",
         "OTIMA" ;
     dcterms:identifier "urn:eic:11X0-0000-0517-X" ;
     schema1:vatID "DE323969536" ;

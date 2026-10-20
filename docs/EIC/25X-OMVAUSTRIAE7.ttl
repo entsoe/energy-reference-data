@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/25X-OMVAUSTRIAE7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "25X-OMVAUSTRIAE7" ;
+    cim:IdentifiedObject.name "OMV Austria Exploration & Production GmbH" ;
+    cim:Names.name "ATU57544036",
+        "OMVAUT",
+        "Producer" ;
+    dcterms:identifier "urn:eic:25X-OMVAUSTRIAE7" ;
+    schema1:vatID "ATU57544036" ;
+    skos:altLabel "OMVAUT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "OMV Austria Exploration & Production GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

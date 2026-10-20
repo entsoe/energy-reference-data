@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-04-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000013595" ;
-    cim:IdentifiedObject.name "S 47 Korsvoll-Hammeren" ;
+    cim:IdentifiedObject.name "S 11 Korsvoll-Hammeren" ;
     cim:Names.name "Internal Line",
-        "NO-KORSVOLLHAMME" ;
+        "NO-11KORSVOLLHAM" ;
     dcterms:identifier "urn:eic:50TL000000013595" ;
-    skos:altLabel "NO-KORSVOLLHAMME" ;
+    skos:altLabel "NO-11KORSVOLLHAM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47 Korsvoll-Hammeren" ;
+    skos:prefLabel "S 11 Korsvoll-Hammeren" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

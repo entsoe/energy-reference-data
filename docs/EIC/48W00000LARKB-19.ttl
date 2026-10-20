@@ -1,0 +1,35 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000LARKB-19> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Contact
+90 Whitfield Street 
+London 
+W1T 4EZ
+Vicky Ling
+Victoria.ling@edfenergy.com
+""" ;
+    cim:IdentifiedObject.mRID "48W00000LARKB-19" ;
+    cim:IdentifiedObject.name "Larks Green Battery Storage" ;
+    cim:Names.name "Generation Unit",
+        "LARKB-1" ;
+    dcterms:identifier "urn:eic:48W00000LARKB-19" ;
+    skos:altLabel "LARKB-1" ;
+    skos:definition """Contact
+90 Whitfield Street 
+London 
+W1T 4EZ
+Vicky Ling
+Victoria.ling@edfenergy.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Larks Green Battery Storage" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

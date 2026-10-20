@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001033F",
-    "@skos:prefLabel": "Øyane",
-    "@skos:altLabel": "NO-OYANE_PL",
+    "@skos:prefLabel": "Jordalen",
+    "@skos:altLabel": "NO-JORDALEN",
     "@cim:IdentifiedObject.mRID": "50WP00000001033F",
-    "@cim:IdentifiedObject.name": "Øyane",
+    "@cim:IdentifiedObject.name": "Jordalen",
     "@cim:Names.name": [
-        "NO-OYANE_PL",
+        "NO-JORDALEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

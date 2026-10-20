@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Belgium",
     "@cim:Names.name": [
         "BE",
-        "Control Area",
-        "Scheduling Area",
         "Bidding Zone",
-        "LFC Block",
+        "Control Area",
         "LFC Area",
-        "Member State"
+        "LFC Block",
+        "Member State",
+        "Scheduling Area"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Control Block, Market Balance Area, Member State, Scheduling Area",
     "@cim:Document.docStatus": "A05",

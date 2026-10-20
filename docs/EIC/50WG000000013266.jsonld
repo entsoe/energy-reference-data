@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000013266",
     "@skos:prefLabel": "REINSKARG2      HYDRO",
-    "@skos:altLabel": "NO-REINSKARG2___",
+    "@skos:altLabel": "NO-REINSKARG2",
     "@cim:IdentifiedObject.mRID": "50WG000000013266",
     "@cim:IdentifiedObject.name": "REINSKARG2      HYDRO",
     "@cim:Names.name": [
-        "NO-REINSKARG2___",
+        "NO-REINSKARG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

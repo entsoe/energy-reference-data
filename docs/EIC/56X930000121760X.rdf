@@ -4,20 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:56X930000121760X</dcterms:identifier>
-    <skos:prefLabel>NATIONAL RESOURCESOF UKRAINE LLC</skos:prefLabel>
+    <skos:prefLabel>NATIONAL RESOURCES OF UKRAINE LLC</skos:prefLabel>
     <skos:altLabel>NRU_LLC</skos:altLabel>
-    <skos:definition xml:lang="en">Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com</skos:definition>
     <cim:IdentifiedObject.mRID>56X930000121760X</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>NATIONAL RESOURCESOF UKRAINE LLC</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>NATIONAL RESOURCES OF UKRAINE LLC</cim:IdentifiedObject.name>
     <cim:Names.name>NRU_LLC</cim:Names.name>
-    <cim:Names.name>44984717</cim:Names.name>
-    <cim:IdentifiedObject.description>Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com</cim:IdentifiedObject.description>
+    <cim:Names.name>449847123013</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-07-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-04</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>44984717</schema:vatID>
+    <schema:vatID>449847123013</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

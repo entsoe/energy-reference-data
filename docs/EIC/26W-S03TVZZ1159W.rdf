@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26W-S03TVZZ1159W</dcterms:identifier>
-    <skos:prefLabel>IM_S03TVZZUP_115980_31571</skos:prefLabel>
+    <skos:prefLabel>IM_S03TVZZ UP_TAVAZZANO_1</skos:prefLabel>
     <skos:altLabel>IT-IM-S03TVZZ571</skos:altLabel>
     <cim:IdentifiedObject.mRID>26W-S03TVZZ1159W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>IM_S03TVZZUP_115980_31571</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>IM_S03TVZZ UP_TAVAZZANO_1</cim:IdentifiedObject.name>
     <cim:Names.name>IT-IM-S03TVZZ571</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-13</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

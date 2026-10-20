@@ -9,12 +9,12 @@
     <cim:IdentifiedObject.mRID>27X-INEGT-CZ---B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>IN ENERGIE Prodej s.r.o.</cim:IdentifiedObject.name>
     <cim:Names.name>INEGT-CZ</cim:Names.name>
-    <cim:Names.name>CZ05082013</cim:Names.name>
+    <cim:Names.name>cz05082013</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-08-14</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>CZ05082013</schema:vatID>
+    <schema:vatID>cz05082013</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

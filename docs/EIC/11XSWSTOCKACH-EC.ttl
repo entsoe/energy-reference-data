@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-07-29" ;
+    cim:DateAndOrTime.date "2025-06-05" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWSTOCKACH-EC" ;
     cim:IdentifiedObject.name "Stadtwerke Stockach GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE211493846",
         "SWSTOCKACH" ;
     dcterms:identifier "urn:eic:11XSWSTOCKACH-EC" ;
     schema1:vatID "DE211493846" ;
     skos:altLabel "SWSTOCKACH" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Stockach GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

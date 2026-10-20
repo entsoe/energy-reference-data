@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001952I",
-    "@skos:prefLabel": "TUNNSJODG110 HYDRO",
-    "@skos:altLabel": "NO-TUNNSJODG110_",
+    "@skos:prefLabel": "LINNVASSG110 HYDRO",
+    "@skos:altLabel": "NO-LINNVASSG110",
     "@cim:IdentifiedObject.mRID": "50WG00000001952I",
-    "@cim:IdentifiedObject.name": "TUNNSJODG110 HYDRO",
+    "@cim:IdentifiedObject.name": "LINNVASSG110 HYDRO",
     "@cim:Names.name": [
-        "NO-TUNNSJODG110_",
+        "NO-LINNVASSG110",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

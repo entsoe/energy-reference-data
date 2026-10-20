@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-10-15" ;
+    cim:DateAndOrTime.date "2026-01-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "34X-INTEREN-PLCX" ;
-    cim:IdentifiedObject.name "PLC INTERENERGO d.o.o. Beograd" ;
+    cim:IdentifiedObject.name "Kelag International d.o.o. Beograd" ;
     cim:Names.name "409933518",
-        "RS-PLC",
+        "KELAG",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:34X-INTEREN-PLCX" ;
     schema1:vatID "409933518" ;
-    skos:altLabel "RS-PLC" ;
+    skos:altLabel "KELAG" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PLC INTERENERGO d.o.o. Beograd" ;
+    skos:prefLabel "Kelag International d.o.o. Beograd" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:15X-MVM--------B",
-    "@skos:prefLabel": "MVM Partner Energiakereskedelmi Zrt.",
+    "@skos:prefLabel": "MVM ONEnergy Zrt.",
     "@skos:altLabel": "MVM_BC",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "15X-MVM--------B",
-    "@cim:IdentifiedObject.name": "MVM Partner Energiakereskedelmi Zrt.",
+    "@cim:IdentifiedObject.name": "MVM ONEnergy Zrt.",
     "@cim:Names.name": [
         "MVM_BC",
         "HU12898019",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-07-01",
+    "@cim:DateAndOrTime.date": "2025-11-10",
     "@schema:vatID": "HU12898019",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

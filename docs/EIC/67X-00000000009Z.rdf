@@ -1,0 +1,40 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/67X-00000000009Z">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:67X-00000000009Z</dcterms:identifier>
+    <skos:prefLabel>ASTRA ENERCO INTERNATIONAL DOO BEOGRAD</skos:prefLabel>
+    <skos:altLabel>ASTRAENERCO</skos:altLabel>
+    <skos:definition xml:lang="en">Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.
+Company Name: Astra Enerco International d.o.o. Belgrade
+Registered Address:
+Vojvode Stepe 32, Apartment 1, 
+11000 Belgrade, Serbia
+Contact person name: Mladen Vekic
+Contact person email: mladen.vekic@astraei.com
+Contact person telephone: +381658778879
+
+</skos:definition>
+    <cim:IdentifiedObject.mRID>67X-00000000009Z</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>ASTRA ENERCO INTERNATIONAL DOO BEOGRAD</cim:IdentifiedObject.name>
+    <cim:Names.name>ASTRAENERCO</cim:Names.name>
+    <cim:Names.name>RS115630088</cim:Names.name>
+    <cim:IdentifiedObject.description>Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.
+Company Name: Astra Enerco International d.o.o. Belgrade
+Registered Address:
+Vojvode Stepe 32, Apartment 1, 
+11000 Belgrade, Serbia
+Contact person name: Mladen Vekic
+Contact person email: mladen.vekic@astraei.com
+Contact person telephone: +381658778879
+
+</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-07-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RS115630088</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

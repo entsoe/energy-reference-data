@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X419397748489L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X419397748489L" ;
+    cim:IdentifiedObject.name "LLC ELEMENTUM ENERGY TRADE" ;
+    cim:Names.name "451975826554",
+        "Consumption Responsible Party",
+        "EE_TRADE" ;
+    dcterms:identifier "urn:eic:62X419397748489L" ;
+    schema1:vatID "451975826554" ;
+    skos:altLabel "EE_TRADE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LLC ELEMENTUM ENERGY TRADE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

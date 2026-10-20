@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000019467" ;
     cim:IdentifiedObject.name "Trollfjord 1" ;
-    cim:Names.name "NO-TROLLFJORD_1",
+    cim:Names.name "NO-TROLLFJORD1",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000019467" ;
-    skos:altLabel "NO-TROLLFJORD_1" ;
+    skos:altLabel "NO-TROLLFJORD1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Trollfjord 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

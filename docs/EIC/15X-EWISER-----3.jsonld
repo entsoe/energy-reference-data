@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:15X-EWISER-----3",
-    "@skos:prefLabel": "EWISER Energy Trade Kft.",
+    "@skos:prefLabel": "Electron Energy Trade Kft.",
     "@skos:altLabel": "EWISER",
     "@cim:IdentifiedObject.mRID": "15X-EWISER-----3",
-    "@cim:IdentifiedObject.name": "EWISER Energy Trade Kft.",
+    "@cim:IdentifiedObject.name": "Electron Energy Trade Kft.",
     "@cim:Names.name": [
         "EWISER",
         "HU26721486",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-10-21",
+    "@cim:DateAndOrTime.date": "2024-04-24",
     "@schema:vatID": "HU26721486",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

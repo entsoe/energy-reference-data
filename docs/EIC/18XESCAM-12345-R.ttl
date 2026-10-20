@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-11-26" ;
+    cim:DateAndOrTime.date "2026-10-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XESCAM-12345-R" ;
     cim:IdentifiedObject.name "EMPORDAVENT, S.L." ;
     cim:Names.name "ESB61959813",
         "ESCAM",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XESCAM-12345-R" ;
     schema1:vatID "ESB61959813" ;
     skos:altLabel "ESCAM" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EMPORDAVENT, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

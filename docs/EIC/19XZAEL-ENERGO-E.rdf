@@ -4,16 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XZAEL-ENERGO-E</dcterms:identifier>
-    <skos:prefLabel>'ZAEL - ENERGO' SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:prefLabel>ZAEL - ENERGO SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
     <skos:altLabel>ZAEL-ENERGO</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XZAEL-ENERGO-E</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>'ZAEL - ENERGO' SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ZAEL - ENERGO SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
     <cim:Names.name>ZAEL-ENERGO</cim:Names.name>
     <cim:Names.name>PL8942824490</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-10-17</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-10-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8942824490</schema:vatID>
   </skos:Concept>

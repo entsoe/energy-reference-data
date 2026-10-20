@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000021641" ;
-    cim:IdentifiedObject.name "ANA-SIRAG109 HYDRO" ;
+    cim:IdentifiedObject.name "HAUKLANDG109 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ANA-SIRAG109_" ;
+        "NO-HAUKLANDG109" ;
     dcterms:identifier "urn:eic:50WG000000021641" ;
-    skos:altLabel "NO-ANA-SIRAG109_" ;
+    skos:altLabel "NO-HAUKLANDG109" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ANA-SIRAG109 HYDRO" ;
+    skos:prefLabel "HAUKLANDG109 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

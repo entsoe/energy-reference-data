@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W000000000100J",
-    "@skos:prefLabel": "Etzel EGL Statoil Deutschland Storage",
-    "@skos:altLabel": "ETZEL-STATOIL-DE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point"
-    },
+    "@skos:prefLabel": "Equinor Storage Deutschland GmbH",
+    "@skos:altLabel": "EQUINOR-DE-STOR",
     "@cim:IdentifiedObject.mRID": "21W000000000100J",
-    "@cim:IdentifiedObject.name": "Etzel EGL Statoil Deutschland Storage",
+    "@cim:IdentifiedObject.name": "Equinor Storage Deutschland GmbH",
     "@cim:Names.name": [
-        "ETZEL-STATOIL-DE",
-        "Connection Point"
+        "EQUINOR-DE-STOR",
+        "Gas Storage Facility"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-04",
+    "@cim:DateAndOrTime.date": "2024-06-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

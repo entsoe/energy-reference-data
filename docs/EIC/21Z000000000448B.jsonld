@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000448B",
-    "@skos:prefLabel": "SALINE/SUD_EST (FR)",
+    "@skos:prefLabel": "\tSALINE/SUD_EST (FR)",
     "@skos:altLabel": "SALINE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000448B",
-    "@cim:IdentifiedObject.name": "SALINE/SUD_EST (FR)",
+    "@cim:IdentifiedObject.name": "\tSALINE/SUD_EST (FR)",
     "@cim:Names.name": [
         "SALINE",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

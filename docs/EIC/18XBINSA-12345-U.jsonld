@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XBINSA-12345-U",
     "@skos:prefLabel": "BINSAVO, S.A.",
     "@skos:altLabel": "BINSA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XBINSA-12345-U",
     "@cim:IdentifiedObject.name": "BINSAVO, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES13017140",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES13017140",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

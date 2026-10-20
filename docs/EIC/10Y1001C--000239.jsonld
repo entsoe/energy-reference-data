@@ -22,9 +22,9 @@
     "@cim:IdentifiedObject.name": "Capacity Calculation Region Channel",
     "@cim:Names.name": [
         "CCR-CHANNEL",
+        "Border Area",
         "Capacity Calculation Region",
-        "Outage Coordination Region",
-        "Border Area"
+        "Outage Coordination Region"
     ],
     "@cim:IdentifiedObject.description": "Area covering multiple border areas in the Capacity Calculation Region. ",
     "@cim:Document.docStatus": "A05",

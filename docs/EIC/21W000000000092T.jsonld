@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21W000000000092T",
     "@skos:prefLabel": "UGS Harsefeld",
     "@skos:altLabel": "UGS-HARSEFELD",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Resource Object"
-    },
     "@cim:IdentifiedObject.mRID": "21W000000000092T",
     "@cim:IdentifiedObject.name": "UGS Harsefeld",
     "@cim:Names.name": [
         "UGS-HARSEFELD",
         "Resource Object"
     ],
-    "@cim:IdentifiedObject.description": "Resource Object",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-06",
+    "@cim:DateAndOrTime.date": "2024-06-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

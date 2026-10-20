@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067527",
-    "@skos:prefLabel": "Klikowa-Lubocza",
+    "@skos:prefLabel": "220kV Klikowa-Lubocza",
     "@skos:altLabel": "3019",
     "@cim:IdentifiedObject.mRID": "19T1100000067527",
-    "@cim:IdentifiedObject.name": "Klikowa-Lubocza",
+    "@cim:IdentifiedObject.name": "220kV Klikowa-Lubocza",
     "@cim:Names.name": [
         "3019",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000016462" ;
     cim:IdentifiedObject.name "S 66 T_Opphus-T_Gollerud" ;
     cim:Names.name "Internal Line",
-        "NO-TOPPHUSTGOLLE" ;
+        "NO-66T_OPPHUST_G" ;
     dcterms:identifier "urn:eic:50TL000000016462" ;
-    skos:altLabel "NO-TOPPHUSTGOLLE" ;
+    skos:altLabel "NO-66T_OPPHUST_G" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 T_Opphus-T_Gollerud" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

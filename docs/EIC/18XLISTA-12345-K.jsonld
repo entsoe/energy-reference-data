@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLISTA-12345-K",
     "@skos:prefLabel": "LISTA AZUL, S.A.",
     "@skos:altLabel": "LISTA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLISTA-12345-K",
     "@cim:IdentifiedObject.name": "LISTA AZUL, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA25029042",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-30",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA25029042",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

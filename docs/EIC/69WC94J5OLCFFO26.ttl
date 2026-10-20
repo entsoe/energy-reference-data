@@ -1,0 +1,22 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69WC94J5OLCFFO26> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69WC94J5OLCFFO26" ;
+    cim:IdentifiedObject.name "Wind3" ;
+    cim:Names.name "Generation",
+        "Production Plant",
+        "WIND3" ;
+    dcterms:identifier "urn:eic:69WC94J5OLCFFO26" ;
+    skos:altLabel "WIND3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Wind3" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

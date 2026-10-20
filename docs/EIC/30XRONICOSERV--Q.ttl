@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XRONICOSERV--Q" ;
     cim:IdentifiedObject.name "SC NICO ELECTROSERVICE SRL" ;
-    cim:Names.name "NICOELECTR",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "NICOELECTR",
+        "RO7411062" ;
     dcterms:identifier "urn:eic:30XRONICOSERV--Q" ;
+    schema1:vatID "RO7411062" ;
     skos:altLabel "NICOELECTR" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

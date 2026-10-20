@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPRAXA-1234-4Q",
     "@skos:prefLabel": "PRAXAIR PRODUCCION ESPAÑA SL",
     "@skos:altLabel": "PRAXA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPRAXA-1234-4Q",
     "@cim:IdentifiedObject.name": "PRAXAIR PRODUCCION ESPAÑA SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB81150682",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB81150682",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

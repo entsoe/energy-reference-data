@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001186X" ;
     cim:IdentifiedObject.name "NORE_1  G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NORE_1__G1___" ;
+        "NO-NORE_1G1" ;
     dcterms:identifier "urn:eic:50WG00000001186X" ;
-    skos:altLabel "NO-NORE_1__G1___" ;
+    skos:altLabel "NO-NORE_1G1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "NORE_1  G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T0000000064195" ;
-    cim:IdentifiedObject.name "Plewiska-Leszno Gronowo" ;
+    cim:IdentifiedObject.name "220kV Leszno-Plewiska" ;
     cim:Names.name "4213",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T0000000064195" ;
     skos:altLabel "4213" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Plewiska-Leszno Gronowo" ;
+    skos:prefLabel "220kV Leszno-Plewiska" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

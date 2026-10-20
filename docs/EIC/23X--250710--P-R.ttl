@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250710--P-R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register." ;
+    cim:IdentifiedObject.mRID "23X--250710--P-R" ;
+    cim:IdentifiedObject.name "Petraco Oil Company SA" ;
+    cim:Names.name "A0020603N.NL",
+        "Balance Responsible Party",
+        "CHE410059505",
+        "PETRACO_OIL" ;
+    dcterms:identifier "urn:eic:23X--250710--P-R" ;
+    schema1:vatID "CHE410059505" ;
+    skos:altLabel "PETRACO_OIL" ;
+    skos:definition "Confirmation through Commercial Register Switzerland; VAT confirmed through official document of Schweizerische Eidgenossenschaft and UID-Register."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Petraco Oil Company SA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

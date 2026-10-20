@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEUREL-------2" ;
     cim:IdentifiedObject.name "Eurel GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE220849220",
-        "EUREL" ;
+    cim:Names.name "DE220849220",
+        "EUREL",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEUREL-------2" ;
     schema1:vatID "DE220849220" ;
     skos:altLabel "EUREL" ;

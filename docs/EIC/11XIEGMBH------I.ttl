@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XIEGMBH------I" ;
     cim:IdentifiedObject.name "Innovative Energy GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE263565829",
-        "IE-GMBH" ;
+    cim:Names.name "DE263565829",
+        "IE-GMBH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XIEGMBH------I" ;
     schema1:vatID "DE263565829" ;
     skos:altLabel "IE-GMBH" ;

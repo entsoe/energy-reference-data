@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/49X000000000115P">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:49X000000000115P</dcterms:identifier>
+    <skos:prefLabel>ENGIE Nederland Flex Services B.V.</skos:prefLabel>
+    <skos:altLabel>ENGIE_NL_FLEX</skos:altLabel>
+    <cim:IdentifiedObject.mRID>49X000000000115P</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>ENGIE Nederland Flex Services B.V.</cim:IdentifiedObject.name>
+    <cim:Names.name>ENGIE_NL_FLEX</cim:Names.name>
+    <cim:Names.name>NL861328450B01</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-03-09</cim:DateAndOrTime.date>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NL861328450B01</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

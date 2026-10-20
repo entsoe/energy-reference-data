@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/47X0000000004083> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "47X0000000004083" ;
+    cim:IdentifiedObject.name "Kria Energy ehf." ;
+    cim:Names.name "Balance Responsible Party",
+        "IE4083",
+        "IS142714" ;
+    dcterms:identifier "urn:eic:47X0000000004083" ;
+    schema1:vatID "IS142714" ;
+    skos:altLabel "IE4083" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Kria Energy ehf." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

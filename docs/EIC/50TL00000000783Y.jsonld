@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000783Y",
-    "@skos:prefLabel": "M 132 Vestbyen-Tjønndal1",
-    "@skos:altLabel": "NO-VESTBYENTJONN",
+    "@skos:prefLabel": "N 132 Vestbyen-Tjønndal1",
+    "@skos:altLabel": "NO-132VESTBYENTJ",
     "@cim:IdentifiedObject.mRID": "50TL00000000783Y",
-    "@cim:IdentifiedObject.name": "M 132 Vestbyen-Tjønndal1",
+    "@cim:IdentifiedObject.name": "N 132 Vestbyen-Tjønndal1",
     "@cim:Names.name": [
-        "NO-VESTBYENTJONN",
+        "NO-132VESTBYENTJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

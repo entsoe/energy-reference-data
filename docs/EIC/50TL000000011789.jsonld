@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000011789",
     "@skos:prefLabel": "S 420 Hasle-Halden",
-    "@skos:altLabel": "NO-HASLEHALDEN",
+    "@skos:altLabel": "NO-420HASLEHALDE",
     "@cim:IdentifiedObject.mRID": "50TL000000011789",
     "@cim:IdentifiedObject.name": "S 420 Hasle-Halden",
     "@cim:Names.name": [
-        "NO-HASLEHALDEN",
+        "NO-420HASLEHALDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

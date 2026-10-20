@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W0000000001261</dcterms:identifier>
-    <skos:prefLabel>Virtueller Speicher NORD astora</skos:prefLabel>
-    <skos:altLabel>VSP-NORD</skos:altLabel>
+    <skos:prefLabel>Speicherzone Nord SEFE Storage</skos:prefLabel>
+    <skos:altLabel>ZONE-NORD-SEFE</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W0000000001261</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Virtueller Speicher NORD astora</cim:IdentifiedObject.name>
-    <cim:Names.name>VSP-NORD</cim:Names.name>
+    <cim:IdentifiedObject.name>Speicherzone Nord SEFE Storage</cim:IdentifiedObject.name>
+    <cim:Names.name>ZONE-NORD-SEFE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-11-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-11</cim:DateAndOrTime.date>
     <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

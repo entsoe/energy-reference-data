@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALCOAAVIELEC5",
     "@skos:prefLabel": "Alcoa Inespal, S.L. (unipersonal)",
     "@skos:altLabel": "ALAVI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALCOAAVIELEC5",
     "@cim:IdentifiedObject.name": "Alcoa Inespal, S.L. (unipersonal)",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB28000164",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB28000164",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

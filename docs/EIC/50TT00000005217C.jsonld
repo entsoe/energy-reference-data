@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005217C",
     "@skos:prefLabel": "S Leire    T2 Transformator",
-    "@skos:altLabel": "NO-LEIRE___T2",
+    "@skos:altLabel": "NO-LEIRET2",
     "@cim:IdentifiedObject.mRID": "50TT00000005217C",
     "@cim:IdentifiedObject.name": "S Leire    T2 Transformator",
     "@cim:Names.name": [
-        "NO-LEIRE___T2",
+        "NO-LEIRET2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

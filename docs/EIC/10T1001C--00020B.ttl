@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "10T1001C--00020B" ;
     cim:IdentifiedObject.name "Meiningen-Ruthi rot 220" ;
-    cim:Names.name "L_MEI-RUETHI_ROT" ;
+    cim:Names.name "L_MEI-RUETHI_ROT",
+        "Tieline" ;
     dcterms:identifier "urn:eic:10T1001C--00020B" ;
     skos:altLabel "L_MEI-RUETHI_ROT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

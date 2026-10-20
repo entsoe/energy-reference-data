@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WCI00000019255",
-    "@skos:prefLabel": "M Sømna    66  RT1 Forbruk",
+    "@skos:prefLabel": "N Sømna    66  RT1 Forbruk",
     "@skos:altLabel": "NO-SOMNA66",
     "@cim:IdentifiedObject.mRID": "50WCI00000019255",
-    "@cim:IdentifiedObject.name": "M Sømna    66  RT1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Sømna    66  RT1 Forbruk",
     "@cim:Names.name": [
         "NO-SOMNA66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

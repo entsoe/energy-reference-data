@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001379M",
-    "@skos:prefLabel": "ROD     G115 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G115_",
+    "@skos:prefLabel": "KLOSTERFG115 HYDRO",
+    "@skos:altLabel": "NO-KLOSTERFG115",
     "@cim:IdentifiedObject.mRID": "50WG00000001379M",
-    "@cim:IdentifiedObject.name": "ROD     G115 HYDRO",
+    "@cim:IdentifiedObject.name": "KLOSTERFG115 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G115_",
+        "NO-KLOSTERFG115",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

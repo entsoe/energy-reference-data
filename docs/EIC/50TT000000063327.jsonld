@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000063327",
-    "@skos:prefLabel": "S Uskedale T2 Transformator",
-    "@skos:altLabel": "NO-USKEDAL_T2",
+    "@skos:prefLabel": "S Uskedale T1 Transformator",
+    "@skos:altLabel": "NO-USKEDALT1",
     "@cim:IdentifiedObject.mRID": "50TT000000063327",
-    "@cim:IdentifiedObject.name": "S Uskedale T2 Transformator",
+    "@cim:IdentifiedObject.name": "S Uskedale T1 Transformator",
     "@cim:Names.name": [
-        "NO-USKEDAL_T2",
+        "NO-USKEDALT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002222R",
-    "@skos:prefLabel": "S 66 T_Holtane-Dalsfoss",
-    "@skos:altLabel": "NO-THOLTANEDALSF",
+    "@skos:prefLabel": "S 66 T_Haugenholt-Dalsfoss",
+    "@skos:altLabel": "NO-66T_HAUGSFOSS",
     "@cim:IdentifiedObject.mRID": "50TL00000002222R",
-    "@cim:IdentifiedObject.name": "S 66 T_Holtane-Dalsfoss",
+    "@cim:IdentifiedObject.name": "S 66 T_Haugenholt-Dalsfoss",
     "@cim:Names.name": [
-        "NO-THOLTANEDALSF",
+        "NO-66T_HAUGSFOSS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

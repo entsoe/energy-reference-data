@@ -12,25 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:12X-0000002006-W",
-    "@skos:prefLabel": "Sev.en Commodities AG",
+    "@skos:prefLabel": "Powertica Commodities AG",
     "@skos:altLabel": "SEVENCOMMO-AG-ST",
     "@skos:definition": {
         "@language": "en",
         "@value": "2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein"
     },
     "@cim:IdentifiedObject.mRID": "12X-0000002006-W",
-    "@cim:IdentifiedObject.name": "Sev.en Commodities AG",
+    "@cim:IdentifiedObject.name": "Powertica Commodities AG",
     "@cim:Names.name": [
         "SEVENCOMMO-AG-ST",
-        "60481",
+        "LI60481",
         "Balance Responsible Party",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-31",
-    "@schema:vatID": "60481",
+    "@cim:DateAndOrTime.date": "2025-03-03",
+    "@schema:vatID": "LI60481",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

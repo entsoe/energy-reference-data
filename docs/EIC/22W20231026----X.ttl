@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-27" ;
+    cim:DateAndOrTime.date "2025-05-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "22W20231026----X" ;
-    cim:IdentifiedObject.name "Seraing ST" ;
-    cim:Names.name "BE_GU_SERAING_ST",
+    cim:IdentifiedObject.name "LUMINUS  SERAING ST2" ;
+    cim:Names.name "BE_GU_SERAINGST2",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:22W20231026----X" ;
-    skos:altLabel "BE_GU_SERAING_ST" ;
+    skos:altLabel "BE_GU_SERAINGST2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Seraing ST" ;
+    skos:prefLabel "LUMINUS  SERAING ST2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000328L" ;
-    cim:IdentifiedObject.name "M 132 Hemne-Snillfjord" ;
+    cim:IdentifiedObject.name "N 132 Snillfjord-T_Hemne" ;
     cim:Names.name "Internal Line",
-        "NO-HEMNESNILLFJO" ;
+        "NO-132SNILLFJORD" ;
     dcterms:identifier "urn:eic:50TL00000000328L" ;
-    skos:altLabel "NO-HEMNESNILLFJO" ;
+    skos:altLabel "NO-132SNILLFJORD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Hemne-Snillfjord" ;
+    skos:prefLabel "N 132 Snillfjord-T_Hemne" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

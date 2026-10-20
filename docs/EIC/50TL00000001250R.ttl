@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001250R" ;
     cim:IdentifiedObject.name "S 45 Hasle-Hafslund_tr4" ;
     cim:Names.name "Internal Line",
-        "NO-HASLEHAFSLTR4" ;
+        "NO-45HASLEHD_TR4" ;
     dcterms:identifier "urn:eic:50TL00000001250R" ;
-    skos:altLabel "NO-HASLEHAFSLTR4" ;
+    skos:altLabel "NO-45HASLEHD_TR4" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 45 Hasle-Hafslund_tr4" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

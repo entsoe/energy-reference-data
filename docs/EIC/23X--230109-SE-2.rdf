@@ -4,19 +4,21 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23X--230109-SE-2</dcterms:identifier>
-    <skos:prefLabel>Sval Energi AS</skos:prefLabel>
-    <skos:altLabel>SVAL_ENERGI</skos:altLabel>
-    <skos:definition xml:lang="en">Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate </skos:definition>
+    <skos:prefLabel>DNO Norge AS</skos:prefLabel>
+    <skos:altLabel>DNO_NORGE</skos:altLabel>
+    <skos:definition xml:lang="en">Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate 
+Update 22.01.2026: On 18 December 2025 DNO Norge AS was merged into Sval Energi AS. Following this, Sval has been renamed to DNO Norge AS. The legal entity and company number remains the same.</skos:definition>
     <cim:IdentifiedObject.mRID>23X--230109-SE-2</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Sval Energi AS</cim:IdentifiedObject.name>
-    <cim:Names.name>SVAL_ENERGI</cim:Names.name>
+    <cim:IdentifiedObject.name>DNO Norge AS</cim:IdentifiedObject.name>
+    <cim:Names.name>DNO_NORGE</cim:Names.name>
     <cim:Names.name>NO996888177MVA</cim:Names.name>
-    <cim:IdentifiedObject.description>Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate </cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Company rgistered in Norway, Company registration number:  996888177; official confirmation certificate 
+Update 22.01.2026: On 18 December 2025 DNO Norge AS was merged into Sval Energi AS. Following this, Sval has been renamed to DNO Norge AS. The legal entity and company number remains the same.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-01-11</cim:DateAndOrTime.date>
-    <cim:Names.name>Producer</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-01-22</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NO996888177MVA</schema:vatID>
   </skos:Concept>

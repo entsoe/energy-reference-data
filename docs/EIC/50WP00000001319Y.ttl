@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001319Y" ;
     cim:IdentifiedObject.name "Smådøla Kraft" ;
-    cim:Names.name "NO-SMADOLA-KRAFT",
+    cim:Names.name "NO-SMAADOELAKRAF",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001319Y" ;
-    skos:altLabel "NO-SMADOLA-KRAFT" ;
+    skos:altLabel "NO-SMAADOELAKRAF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Smådøla Kraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,35 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000375E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Block A, George’s Quay Plaza, George’s Quay, Dublin 2, Dublin, Ireland
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+Mr Luke Pattison
+""" ;
+    cim:IdentifiedObject.mRID "48X000000000375E" ;
+    cim:IdentifiedObject.name "Dare Ireland Energy Limited" ;
+    cim:Names.name "Balance Responsible Party",
+        "DIEL",
+        "GB363646480" ;
+    dcterms:identifier "urn:eic:48X000000000375E" ;
+    schema1:vatID "GB363646480" ;
+    skos:altLabel "DIEL" ;
+    skos:definition """Block A, George’s Quay Plaza, George’s Quay, Dublin 2, Dublin, Ireland
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+Mr Luke Pattison
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Dare Ireland Energy Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

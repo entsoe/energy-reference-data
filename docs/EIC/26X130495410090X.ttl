@@ -7,18 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-04-18" ;
+    cim:DateAndOrTime.date "2026-08-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X130495410090X" ;
-    cim:IdentifiedObject.name "METAENERGIAPRODUZIONE SRL" ;
-    cim:Names.name "A00191563.IT",
+    cim:IdentifiedObject.name "IME POWER SRL" ;
+    cim:Names.name "IT-IMEPOWERSRLSR",
         "IT13049541009",
-        "METAENERGIAPROD",
         "Producer" ;
     dcterms:identifier "urn:eic:26X130495410090X" ;
     schema1:vatID "IT13049541009" ;
-    skos:altLabel "METAENERGIAPROD" ;
+    skos:altLabel "IT-IMEPOWERSRLSR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "METAENERGIAPRODUZIONE SRL" ;
+    skos:prefLabel "IME POWER SRL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

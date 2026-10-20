@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-25" ;
+    cim:DateAndOrTime.date "2026-08-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XAULLA-12345-S" ;
-    cim:IdentifiedObject.name "Energías Especiales del Alto Ulla, S.A." ;
+    cim:IdentifiedObject.name "ENERGIAS ESPECIALES DEL ALTO ULLA, S.L." ;
     cim:Names.name "AULLA",
         "ESA83195438",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XAULLA-12345-S" ;
     schema1:vatID "ESA83195438" ;
     skos:altLabel "AULLA" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energías Especiales del Alto Ulla, S.A." ;
+    skos:prefLabel "ENERGIAS ESPECIALES DEL ALTO ULLA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

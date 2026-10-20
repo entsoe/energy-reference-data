@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-08-24" ;
+    cim:DateAndOrTime.date "2025-09-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Storage System Operator" ;
     cim:IdentifiedObject.mRID "21X000000001140P" ;
-    cim:IdentifiedObject.name "KGE mbH & Co. KG" ;
+    cim:IdentifiedObject.name "MET Epe Speicher GmbH & Co. KG" ;
     cim:Names.name "DE257484432",
-        "KGESSO",
+        "MET_EPE_SPEICHER",
         "Storage System Operator" ;
     dcterms:identifier "urn:eic:21X000000001140P" ;
     schema1:vatID "DE257484432" ;
-    skos:altLabel "KGESSO" ;
+    skos:altLabel "MET_EPE_SPEICHER" ;
     skos:definition "Storage System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KGE mbH & Co. KG" ;
+    skos:prefLabel "MET Epe Speicher GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

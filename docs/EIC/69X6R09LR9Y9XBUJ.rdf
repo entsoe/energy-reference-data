@@ -13,11 +13,11 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2023-09-18</cim:DateAndOrTime.date>
-    <cim:Names.name>LNG System Operator</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>LNG System Operator</cim:Names.name>
     <cim:Names.name>Market Operator</cim:Names.name>
+    <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Platform Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>18009154W</schema:vatID>

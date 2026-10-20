@@ -24,13 +24,13 @@
         "NIDA_MEDIA",
         "A0001576D.PL",
         "PL7262464282",
-        "Trade Responsible Party",
-        "Energy Supplier",
-        "System Operator",
         "Balance Responsible Party",
-        "Metered Data Responsible",
+        "Energy Supplier",
         "Meter Administrator",
-        "Grid Access Provider"
+        "System Operator",
+        "Trade Responsible Party",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party, Trade Responsible Party, Energy Supplier, Grid Access Provider,Meter Administration, Meter Data Responsible, System Operator",
     "@cim:Document.docStatus": "A05",

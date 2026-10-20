@@ -4,16 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19X-CEZ-POLSKA-H</dcterms:identifier>
-    <skos:prefLabel>CEZ POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
-    <skos:altLabel>CEZ_POLSKA</skos:altLabel>
+    <skos:prefLabel>RESINVEST ENERGY POLSKA SP. Z O.O.</skos:prefLabel>
+    <skos:altLabel>RE-POLSKA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19X-CEZ-POLSKA-H</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CEZ POLSKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
-    <cim:Names.name>CEZ_POLSKA</cim:Names.name>
+    <cim:IdentifiedObject.name>RESINVEST ENERGY POLSKA SP. Z O.O.</cim:IdentifiedObject.name>
+    <cim:Names.name>RE-POLSKA</cim:Names.name>
     <cim:Names.name>PL5252374406</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-04-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-22</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5252374406</schema:vatID>
   </skos:Concept>

@@ -7,16 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-08-05" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000F83F" ;
-    cim:IdentifiedObject.name "INTERXION ESPAÑA, SAU" ;
-    cim:Names.name "ESA28229813",
-        "PRU_AC" ;
+    cim:IdentifiedObject.name "VIAJES EL CORTE INGLES S.A." ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-VIAJECORTE",
+        "ESA28229813" ;
     dcterms:identifier "urn:eic:18X000000000F83F" ;
     schema1:vatID "ESA28229813" ;
-    skos:altLabel "PRU_AC" ;
+    skos:altLabel "ES-VIAJECORTE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "INTERXION ESPAÑA, SAU" ;
+    skos:prefLabel "VIAJES EL CORTE INGLES S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

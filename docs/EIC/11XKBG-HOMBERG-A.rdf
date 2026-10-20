@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XKBG-HOMBERG-A</dcterms:identifier>
-    <skos:prefLabel>KBG Homberg eG-Energiehandel</skos:prefLabel>
+    <skos:prefLabel>KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G.</skos:prefLabel>
     <skos:altLabel>KBG-HOMBERG_HAND</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XKBG-HOMBERG-A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>KBG Homberg eG-Energiehandel</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G.</cim:IdentifiedObject.name>
     <cim:Names.name>KBG-HOMBERG_HAND</cim:Names.name>
     <cim:Names.name>DE113058332</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE113058332</schema:vatID>

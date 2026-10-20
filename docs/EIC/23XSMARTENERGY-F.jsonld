@@ -14,21 +14,17 @@
     "@dcterms:identifier": "urn:eic:23XSMARTENERGY-F",
     "@skos:prefLabel": "SmartestEnergy Ltd",
     "@skos:altLabel": "SMARTERGY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "23XSMARTENERGY-F",
     "@cim:IdentifiedObject.name": "SmartestEnergy Ltd",
     "@cim:Names.name": [
         "SMARTERGY",
+        "A0017704X.IE",
         "GB773846584",
-        "Trade Responsible Party"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-06",
+    "@cim:DateAndOrTime.date": "2026-10-08",
     "@schema:vatID": "GB773846584",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

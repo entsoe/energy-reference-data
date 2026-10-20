@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021004" ;
-    cim:IdentifiedObject.name "M 66 Sama-T_Håen" ;
+    cim:IdentifiedObject.name "N 66 Sama-T_Håen" ;
     cim:Names.name "Internal Line",
-        "NO-SAMATHAEN" ;
+        "NO-66SAMAT_HAEN" ;
     dcterms:identifier "urn:eic:50TL000000021004" ;
-    skos:altLabel "NO-SAMATHAEN" ;
+    skos:altLabel "NO-66SAMAT_HAEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Sama-T_Håen" ;
+    skos:prefLabel "N 66 Sama-T_Håen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

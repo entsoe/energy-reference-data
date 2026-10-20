@@ -19,12 +19,12 @@
     "@cim:Names.name": [
         "ERG_SA",
         "PL6290011681",
-        "Grid Access Provider",
-        "Metered Data Responsible",
         "Consumer",
         "Energy Supplier",
         "Meter Administrator",
-        "System Operator"
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

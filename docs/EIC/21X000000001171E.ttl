@@ -7,8 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-02-01" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-08-20" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001171E" ;
     cim:IdentifiedObject.name "Erdgas Ostschweiz AG" ;

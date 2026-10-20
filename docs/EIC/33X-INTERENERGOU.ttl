@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-12-22" ;
+    cim:DateAndOrTime.date "2026-01-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "33X-INTERENERGOU" ;
-    cim:IdentifiedObject.name "INTERENERGO MAKEDONIJA Ltd Skopje" ;
+    cim:IdentifiedObject.name "Kelag International dooel Skopje" ;
     cim:Names.name "4030007639776",
-        "INTERENERGO-MK",
+        "KELAG-INT-SK",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:33X-INTERENERGOU" ;
     schema1:vatID "4030007639776" ;
-    skos:altLabel "INTERENERGO-MK" ;
+    skos:altLabel "KELAG-INT-SK" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "INTERENERGO MAKEDONIJA Ltd Skopje" ;
+    skos:prefLabel "Kelag International dooel Skopje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

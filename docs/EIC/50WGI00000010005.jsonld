@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WGI00000010005",
-    "@skos:prefLabel": "LYNGEN  G101 HYDRO",
-    "@skos:altLabel": "NO-LYNGEN__G101_",
+    "@skos:prefLabel": "FORNESELG101 HYDRO",
+    "@skos:altLabel": "NO-FORNESELG101",
     "@cim:IdentifiedObject.mRID": "50WGI00000010005",
-    "@cim:IdentifiedObject.name": "LYNGEN  G101 HYDRO",
+    "@cim:IdentifiedObject.name": "FORNESELG101 HYDRO",
     "@cim:Names.name": [
-        "NO-LYNGEN__G101_",
+        "NO-FORNESELG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

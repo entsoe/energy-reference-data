@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000910G" ;
     cim:IdentifiedObject.name "S 22 Øyravatn-Øvre Markevatn" ;
     cim:Names.name "Internal Line",
-        "NO-OYRAVATNOVREM" ;
+        "NO-22OYRAVATNOVR" ;
     dcterms:identifier "urn:eic:50TL00000000910G" ;
-    skos:altLabel "NO-OYRAVATNOVREM" ;
+    skos:altLabel "NO-22OYRAVATNOVR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22 Øyravatn-Øvre Markevatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

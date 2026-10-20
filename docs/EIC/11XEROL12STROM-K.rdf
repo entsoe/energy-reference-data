@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XEROL12STROM-K</dcterms:identifier>
     <skos:prefLabel>Stadtwerkenergie Ostwestfalen-Lippe GmbH</skos:prefLabel>
     <skos:altLabel>EROL</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XEROL12STROM-K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerkenergie Ostwestfalen-Lippe GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EROL</cim:Names.name>
     <cim:Names.name>DE262753341</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-01-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-07</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE262753341</schema:vatID>

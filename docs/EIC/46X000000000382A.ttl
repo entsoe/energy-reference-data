@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000382A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000382A" ;
+    cim:IdentifiedObject.name "Töre Energi ek för" ;
+    cim:Names.name "Grid Operator",
+        "SE798200072601",
+        "TORE_ENERGI_EKF" ;
+    dcterms:identifier "urn:eic:46X000000000382A" ;
+    schema1:vatID "SE798200072601" ;
+    skos:altLabel "TORE_ENERGI_EKF" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Töre Energi ek för" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

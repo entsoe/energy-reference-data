@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001099M" ;
     cim:IdentifiedObject.name "Vestbakken" ;
-    cim:Names.name "NO-VESTBAKKEN_PL",
+    cim:Names.name "NO-VESTBAKKEN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001099M" ;
-    skos:altLabel "NO-VESTBAKKEN_PL" ;
+    skos:altLabel "NO-VESTBAKKEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vestbakken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

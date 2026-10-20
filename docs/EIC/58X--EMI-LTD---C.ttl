@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-25" ;
+    cim:DateAndOrTime.date "2024-05-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "58X--EMI-LTD---C" ;
     cim:IdentifiedObject.name "EMI Ltd." ;
-    cim:Names.name "BG812187989",
+    cim:Names.name "A0013918R.BG",
+        "BG812187989",
         "EMI_LTD",
         "Network User" ;
     dcterms:identifier "urn:eic:58X--EMI-LTD---C" ;

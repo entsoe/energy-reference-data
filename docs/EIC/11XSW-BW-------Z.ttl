@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2026-02-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSW-BW-------Z" ;
     cim:IdentifiedObject.name "Stadtwerke Bad Windsheim" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE131948706",
         "SW_BW" ;
     dcterms:identifier "urn:eic:11XSW-BW-------Z" ;
     schema1:vatID "DE131948706" ;
     skos:altLabel "SW_BW" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Bad Windsheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

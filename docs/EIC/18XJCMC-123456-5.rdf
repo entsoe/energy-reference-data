@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XJCMC-123456-5</dcterms:identifier>
     <skos:prefLabel>JUAN CARLOS MARTINEZ CUEVAS</skos:prefLabel>
     <skos:altLabel>JCMC</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XJCMC-123456-5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>JUAN CARLOS MARTINEZ CUEVAS</cim:IdentifiedObject.name>
     <cim:Names.name>JCMC</cim:Names.name>
     <cim:Names.name>ES52637857B</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-09-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ES52637857B</schema:vatID>

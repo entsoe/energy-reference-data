@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/63Y986185796641W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Nous souhaitons créer un nouveau code EIC pool de production ( Production de Biométhane réseau de transport)." ;
+    cim:IdentifiedObject.mRID "63Y986185796641W" ;
+    cim:IdentifiedObject.name "TEREGA" ;
+    cim:Names.name "FRG_TEREGA",
+        "Local Market Area" ;
+    dcterms:identifier "urn:eic:63Y986185796641W" ;
+    skos:altLabel "FRG_TEREGA" ;
+    skos:definition "Nous souhaitons créer un nouveau code EIC pool de production ( Production de Biométhane réseau de transport)."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TEREGA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

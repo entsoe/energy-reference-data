@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50A000000001211L</dcterms:identifier>
-    <skos:prefLabel>Skogen</skos:prefLabel>
-    <skos:altLabel>NO-SKOGEN</skos:altLabel>
+    <skos:prefLabel>T_Br&#229;ten</skos:prefLabel>
+    <skos:altLabel>NO-T_BRATEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>50A000000001211L</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Skogen</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SKOGEN</cim:Names.name>
+    <cim:IdentifiedObject.name>T_Br&#229;ten</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-T_BRATEN</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Substation</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

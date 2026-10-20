@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X0000000001034" ;
     cim:IdentifiedObject.name "Dortmunder Energie- und Wasserversorgung GmbH" ;
-    cim:Names.name "DE162978188",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE162978188",
         "DORTMUNDER_ENERG" ;
     dcterms:identifier "urn:eic:37X0000000001034" ;
     schema1:vatID "DE162978188" ;

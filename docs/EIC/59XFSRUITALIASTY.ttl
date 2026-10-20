@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-08" ;
+    cim:DateAndOrTime.date "2026-05-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "59XFSRUITALIASTY" ;
-    cim:IdentifiedObject.name "FSRU ITALIA SRL" ;
-    cim:Names.name "FSRUITALIASRL",
-        "IT11313580968",
-        "LNG System Operator" ;
+    cim:IdentifiedObject.name "Snam LNG Srl" ;
+    cim:Names.name "IT11313580968",
+        "LNG System Operator",
+        "SNAMLNGSRL" ;
     dcterms:identifier "urn:eic:59XFSRUITALIASTY" ;
     schema1:vatID "IT11313580968" ;
-    skos:altLabel "FSRUITALIASRL" ;
+    skos:altLabel "SNAMLNGSRL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FSRU ITALIA SRL" ;
+    skos:prefLabel "Snam LNG Srl" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

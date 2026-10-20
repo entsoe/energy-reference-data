@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260717-EG-G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company Registration number: DMCC197552
+Unit 95, DMCC Business Centre, Level No 5, Jewellery & Gemplex 2, Dubai, United Arab Emirates""" ;
+    cim:IdentifiedObject.mRID "23X--260717-EG-G" ;
+    cim:IdentifiedObject.name "ENERGY GURU DMCC" ;
+    cim:Names.name "104184561900001",
+        "ENERGY_GURU_DMCC",
+        "Energy Supplier",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--260717-EG-G" ;
+    schema1:vatID "104184561900001" ;
+    skos:altLabel "ENERGY_GURU_DMCC" ;
+    skos:definition """Company Registration number: DMCC197552
+Unit 95, DMCC Business Centre, Level No 5, Jewellery & Gemplex 2, Dubai, United Arab Emirates"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENERGY GURU DMCC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

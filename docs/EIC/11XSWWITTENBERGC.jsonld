@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSWWITTENBERGC",
     "@skos:prefLabel": "Stadtwerke Lutherstadt Wittenberg GmbH",
     "@skos:altLabel": "SWWITTENBERG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWWITTENBERGC",
     "@cim:IdentifiedObject.name": "Stadtwerke Lutherstadt Wittenberg GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE139824393",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-08",
+    "@cim:DateAndOrTime.date": "2026-10-16",
     "@schema:vatID": "DE139824393",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

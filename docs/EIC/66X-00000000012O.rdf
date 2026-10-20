@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:66X-00000000012O</dcterms:identifier>
-    <skos:prefLabel>Karhu Voima Palvelu Oy</skos:prefLabel>
+    <skos:prefLabel>KotkaGas Oy</skos:prefLabel>
     <skos:altLabel>66KVPOY</skos:altLabel>
     <cim:IdentifiedObject.mRID>66X-00000000012O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Karhu Voima Palvelu Oy</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>KotkaGas Oy</cim:IdentifiedObject.name>
     <cim:Names.name>66KVPOY</cim:Names.name>
     <cim:Names.name>FI27170288</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-11-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-10-13</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FI27170288</schema:vatID>

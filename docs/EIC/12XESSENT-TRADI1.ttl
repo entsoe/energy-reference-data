@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-07-05" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XESSENT-TRADI1" ;
     cim:IdentifiedObject.name "Essent Trading International SA" ;
-    cim:Names.name "Balance Group",
-        "CH663282",
+    cim:Names.name "CH663282",
+        "Capacity Trader",
         "ESSENT-TRADING" ;
     dcterms:identifier "urn:eic:12XESSENT-TRADI1" ;
     schema1:vatID "CH663282" ;

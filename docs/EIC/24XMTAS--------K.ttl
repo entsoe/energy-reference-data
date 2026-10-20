@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Produce Of Heat And Elektricity (Sk: Vyroba Tepla A Elektriny)" ;
     cim:IdentifiedObject.mRID "24XMTAS--------K" ;
     cim:IdentifiedObject.name "Martinska teplarenska, a.s." ;
     cim:Names.name "MTAS",
+        "Producer",
         "SK2020122555",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XMTAS--------K" ;
     schema1:vatID "SK2020122555" ;
     skos:altLabel "MTAS" ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-03-20" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WG000000009882" ;
     cim:IdentifiedObject.name "LITLEDALG5      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-LITLEDALG5___" ;
+        "NO-LITLEDALG5" ;
     dcterms:identifier "urn:eic:50WG000000009882" ;
-    skos:altLabel "NO-LITLEDALG5___" ;
+    skos:altLabel "NO-LITLEDALG5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "LITLEDALG5      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

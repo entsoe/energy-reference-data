@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:23X--150519-TS-J",
-    "@skos:prefLabel": "Tampereen Sähkölaitos Oy",
-    "@skos:altLabel": "TAMPEREEN_S",
+    "@skos:prefLabel": "Tampereen Energia Oy",
+    "@skos:altLabel": "TAMPEREEN_ENER",
     "@skos:definition": {
         "@language": "en",
         "@value": "Producer"
     },
     "@cim:IdentifiedObject.mRID": "23X--150519-TS-J",
-    "@cim:IdentifiedObject.name": "Tampereen Sähkölaitos Oy",
+    "@cim:IdentifiedObject.name": "Tampereen Energia Oy",
     "@cim:Names.name": [
-        "TAMPEREEN_S",
+        "TAMPEREEN_ENER",
         "FI01537918",
         "Producer"
     ],
     "@cim:IdentifiedObject.description": "Producer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-18",
+    "@cim:DateAndOrTime.date": "2024-01-08",
     "@schema:vatID": "FI01537918",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

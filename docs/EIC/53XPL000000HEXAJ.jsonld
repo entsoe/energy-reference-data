@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000HEXAJ",
-    "@skos:prefLabel": "HEXA TELECOM Spółka z ograniczoną odpowiedzialnością",
-    "@skos:altLabel": "HEXA",
+    "@skos:prefLabel": "HEXA GRID SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "HEXA_GRID",
     "@skos:definition": {
         "@language": "en",
         "@value": "Consumer, Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "53XPL000000HEXAJ",
-    "@cim:IdentifiedObject.name": "HEXA TELECOM Spółka z ograniczoną odpowiedzialnością",
+    "@cim:IdentifiedObject.name": "HEXA GRID SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "HEXA",
+        "HEXA_GRID",
+        "A0011831J.PL",
         "PL5213544910",
-        "Consumer",
-        "Trade Responsible Party"
+        "Energy Supplier"
     ],
     "@cim:IdentifiedObject.description": "Consumer, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-01",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@schema:vatID": "PL5213544910",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

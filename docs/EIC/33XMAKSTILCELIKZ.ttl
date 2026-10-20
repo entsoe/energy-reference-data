@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "33XMAKSTILCELIKZ" ;
     cim:IdentifiedObject.name "MAKSTIL AD - Skopje" ;
     cim:Names.name "5166250",
+        "Balance Responsible Party",
+        "Consumer",
         "MAKSTIL",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:33XMAKSTILCELIKZ" ;
     schema1:vatID "5166250" ;
     skos:altLabel "MAKSTIL" ;

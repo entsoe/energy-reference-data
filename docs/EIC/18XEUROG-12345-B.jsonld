@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XEUROG-12345-B",
     "@skos:prefLabel": "EUROGAN S.L",
     "@skos:altLabel": "EUROG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEUROG-12345-B",
     "@cim:IdentifiedObject.name": "EUROGAN S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB50219468",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB50219468",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

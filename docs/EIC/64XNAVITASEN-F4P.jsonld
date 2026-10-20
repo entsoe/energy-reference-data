@@ -22,13 +22,15 @@
     "@cim:IdentifiedObject.name": "S.R.L. \"Navitas Energy\"",
     "@cim:Names.name": [
         "NAVITASEN_F",
+        "NA36",
         "Balance Responsible Party",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "S.R.L. ''Navitas Energy'' has no EU VAT code. Registration number (IDNO) - 1020600042991 Licence - AC nr. 001504; issued by ANRE on 24/12/2020",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-09",
+    "@cim:DateAndOrTime.date": "2026-10-16",
+    "@schema:vatID": "NA36",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

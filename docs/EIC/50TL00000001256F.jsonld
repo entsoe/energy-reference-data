@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001256F",
     "@skos:prefLabel": "S 45 Simonsvik-Loddefjord",
-    "@skos:altLabel": "NO-SIMONSVIKLODD",
+    "@skos:altLabel": "NO-45SIMONSVIKLO",
     "@cim:IdentifiedObject.mRID": "50TL00000001256F",
     "@cim:IdentifiedObject.name": "S 45 Simonsvik-Loddefjord",
     "@cim:Names.name": [
-        "NO-SIMONSVIKLODD",
+        "NO-45SIMONSVIKLO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

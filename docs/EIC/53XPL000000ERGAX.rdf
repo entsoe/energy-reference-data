@@ -4,18 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000ERGAX</dcterms:identifier>
-    <skos:prefLabel>Energomedia Sp. z o.o.</skos:prefLabel>
+    <skos:prefLabel>ORLEN Energomedia Operator sp. z o.o.</skos:prefLabel>
     <skos:altLabel>ENERGOMEDIA</skos:altLabel>
-    <skos:definition xml:lang="en">Distribution System Operator, Network User, Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000ERGAX</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Energomedia Sp. z o.o.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ORLEN Energomedia Operator sp. z o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>ENERGOMEDIA</cim:Names.name>
     <cim:Names.name>PL6281875399</cim:Names.name>
-    <cim:IdentifiedObject.description>Distribution System Operator, Network User, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-04-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6281875399</schema:vatID>
   </skos:Concept>

@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSGV--------AB",
-    "@skos:prefLabel": "Strom- und Gasversorgung Versmold GmbH",
+    "@skos:prefLabel": "Stadtwerke Versmold GmbH",
     "@skos:altLabel": "SGV-A",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSGV--------AB",
-    "@cim:IdentifiedObject.name": "Strom- und Gasversorgung Versmold GmbH",
+    "@cim:IdentifiedObject.name": "Stadtwerke Versmold GmbH",
     "@cim:Names.name": [
         "SGV-A",
-        "DE126956958",
-        "Balance Group"
+        "DE277883596",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-11-12",
-    "@schema:vatID": "DE126956958",
+    "@cim:DateAndOrTime.date": "2024-12-20",
+    "@schema:vatID": "DE277883596",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

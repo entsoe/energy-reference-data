@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001044U" ;
     cim:IdentifiedObject.name "S 300 Hol 3-Usta" ;
     cim:Names.name "Internal Line",
-        "NO-HOL3USTA" ;
+        "NO-300HOL_3USTA" ;
     dcterms:identifier "urn:eic:50TL00000001044U" ;
-    skos:altLabel "NO-HOL3USTA" ;
+    skos:altLabel "NO-300HOL_3USTA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Hol 3-Usta" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

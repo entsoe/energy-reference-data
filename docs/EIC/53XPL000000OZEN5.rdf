@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000OZEN5</dcterms:identifier>
-    <skos:prefLabel>OZE ENERGY Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>OZE-ENERGY</skos:altLabel>
-    <skos:definition xml:lang="en">Update of contact person details, CER code was added.</skos:definition>
+    <skos:prefLabel>ABACUS ENERGY SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>ABACUS-ENERGY</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000OZEN5</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>OZE ENERGY Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>OZE-ENERGY</cim:Names.name>
+    <cim:IdentifiedObject.name>ABACUS ENERGY SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>ABACUS-ENERGY</cim:Names.name>
     <cim:Names.name>A0012988X.PL</cim:Names.name>
     <cim:Names.name>PL6772397696</cim:Names.name>
-    <cim:IdentifiedObject.description>Update of contact person details, CER code was added.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-04-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-01</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL6772397696</schema:vatID>

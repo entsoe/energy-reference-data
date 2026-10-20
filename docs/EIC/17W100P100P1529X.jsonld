@@ -20,7 +20,10 @@
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P1529X",
     "@cim:IdentifiedObject.name": "GROUPE 04 DE LA CENTRALE HYDRAULIQUE DE CHAUTAGNE",
-    "@cim:Names.name": "FR_HY-CXTAG-G4",
+    "@cim:Names.name": [
+        "FR_HY-CXTAG-G4",
+        "Generation Unit"
+    ],
     "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",

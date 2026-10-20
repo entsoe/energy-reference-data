@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000451M",
     "@skos:prefLabel": "MS Brodske",
     "@skos:altLabel": "DBOJ-BRODSKE_SK",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000451M",
     "@cim:IdentifiedObject.name": "MS Brodske",
     "@cim:Names.name": [
         "DBOJ-BRODSKE_SK",
-        "Valid EIC Function needed"
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

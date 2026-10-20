@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-06-01" ;
+    cim:DateAndOrTime.date "2026-02-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "35XOIE-COTEE-MND" ;
-    cim:IdentifiedObject.name "Obnovljivi izvori COTEE d.o.o. Podgorica" ;
+    cim:IdentifiedObject.name "COTEE d.o.o. Podgorica - obnovljivi izvori" ;
     cim:Names.name "02849097",
         "Balance Responsible Party",
         "OIE_COTEE",
@@ -21,6 +21,6 @@
     skos:altLabel "OIE_COTEE" ;
     skos:definition "Balance Responsible Party, Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Obnovljivi izvori COTEE d.o.o. Podgorica" ;
+    skos:prefLabel "COTEE d.o.o. Podgorica - obnovljivi izvori" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

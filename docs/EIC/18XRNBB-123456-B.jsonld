@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XRNBB-123456-B",
     "@skos:prefLabel": "R.N.B S.L",
     "@skos:altLabel": "RNBB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XRNBB-123456-B",
     "@cim:IdentifiedObject.name": "R.N.B S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB96246350",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-05-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB96246350",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

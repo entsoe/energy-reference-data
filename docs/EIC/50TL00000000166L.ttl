@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000166L" ;
     cim:IdentifiedObject.name "S 132 Bødalen-Storsand" ;
     cim:Names.name "Internal Line",
-        "NO-BODALENSTORSA" ;
+        "NO-132BODALENSTO" ;
     dcterms:identifier "urn:eic:50TL00000000166L" ;
-    skos:altLabel "NO-BODALENSTORSA" ;
+    skos:altLabel "NO-132BODALENSTO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Bødalen-Storsand" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

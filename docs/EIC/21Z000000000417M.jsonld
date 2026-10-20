@@ -14,20 +14,16 @@
     "@dcterms:identifier": "urn:eic:21Z000000000417M",
     "@skos:prefLabel": "KOMOTINI",
     "@skos:altLabel": "KOMOTINI-GR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection With The Distribution System"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000417M",
     "@cim:IdentifiedObject.name": "KOMOTINI",
     "@cim:Names.name": [
         "KOMOTINI-GR",
-        "Valid EIC Function needed"
+        "Connection Point",
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection With The Distribution System",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

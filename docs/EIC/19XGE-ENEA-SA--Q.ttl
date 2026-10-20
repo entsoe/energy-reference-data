@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-10-01" ;
+    cim:DateAndOrTime.date "2024-02-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.description "Hasło: Ene@2024_EIC" ;
     cim:IdentifiedObject.mRID "19XGE-ENEA-SA--Q" ;
-    cim:IdentifiedObject.name "ENEA SPOLKA AKCYJNA" ;
+    cim:IdentifiedObject.name "ENEA SPÓŁKA AKCYJNA" ;
     cim:Names.name "Balance Responsible Party",
         "ENEA_SA",
+        "Energy Supplier",
         "PL7770020640" ;
     dcterms:identifier "urn:eic:19XGE-ENEA-SA--Q" ;
     schema1:vatID "PL7770020640" ;
     skos:altLabel "ENEA_SA" ;
-    skos:definition "Balance Responsible Party"@en ;
+    skos:definition "Hasło: Ene@2024_EIC"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENEA SPOLKA AKCYJNA" ;
+    skos:prefLabel "ENEA SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

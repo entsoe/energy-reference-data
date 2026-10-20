@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50YEJAIDAXMKEVSP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50YEJAIDAXMKEVSP" ;
+    cim:IdentifiedObject.name "Virtual Bidding Zone Norden uten Norge for Libra" ;
+    cim:Names.name "Bidding Zone",
+        "NORDEN_VB_LIBRA" ;
+    dcterms:identifier "urn:eic:50YEJAIDAXMKEVSP" ;
+    skos:altLabel "NORDEN_VB_LIBRA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Virtual Bidding Zone Norden uten Norge for Libra" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

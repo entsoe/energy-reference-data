@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:30XROCEZ-------1</dcterms:identifier>
-    <skos:prefLabel>CEZ ROMANIA SRL</skos:prefLabel>
-    <skos:altLabel>RO_CEZ</skos:altLabel>
+    <skos:prefLabel>EVRYO POWER SA</skos:prefLabel>
+    <skos:altLabel>RO_EVRYO</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>30XROCEZ-------1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CEZ ROMANIA SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>RO_CEZ</cim:Names.name>
+    <cim:IdentifiedObject.name>EVRYO POWER SA</cim:IdentifiedObject.name>
+    <cim:Names.name>RO_EVRYO</cim:Names.name>
     <cim:Names.name>RO18196091</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-10-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-08-27</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>RO18196091</schema:vatID>

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Y1001C--00111C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "10Y1001C--00111C" ;
+    cim:IdentifiedObject.name "Energinet.dk/50HZT - KF cgs" ;
+    cim:Names.name "Border Area",
+        "DK_50HZT-KF_CGS" ;
+    dcterms:identifier "urn:eic:10Y1001C--00111C" ;
+    skos:altLabel "DK_50HZT-KF_CGS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energinet.dk/50HZT - KF cgs" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

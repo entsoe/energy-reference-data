@@ -6,17 +6,15 @@
     <dcterms:identifier>urn:eic:11XSWBHARZBURGNF</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Bad Harzburg GmbH</skos:prefLabel>
     <skos:altLabel>SWBADHARZBURG_N</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWBHARZBURGNF</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Bad Harzburg GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWBADHARZBURG_N</cim:Names.name>
-    <cim:Names.name>2120400738</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE811755834</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2007-06-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>2120400738</schema:vatID>
+    <schema:vatID>DE811755834</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

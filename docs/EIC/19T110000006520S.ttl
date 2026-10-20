@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006520S" ;
-    cim:IdentifiedObject.name "Janów-A3" ;
+    cim:IdentifiedObject.name "220/110kV Janow AT3" ;
     cim:Names.name "JAN-A3",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T110000006520S" ;
     skos:altLabel "JAN-A3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Janów-A3" ;
+    skos:prefLabel "220/110kV Janow AT3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

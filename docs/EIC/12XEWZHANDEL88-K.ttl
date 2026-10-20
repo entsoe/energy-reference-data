@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-04-17" ;
+    cim:DateAndOrTime.date "2024-01-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12XEWZHANDEL88-K" ;
     cim:IdentifiedObject.name "Elektrizitätswerk der Stadt Zürich" ;
-    cim:Names.name "Balance Group Responsible Party",
+    cim:Names.name "Balance Responsible Party",
         "CHE108954978",
         "EWZ-HANDEL" ;
     dcterms:identifier "urn:eic:12XEWZHANDEL88-K" ;

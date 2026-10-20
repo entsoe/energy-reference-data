@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-05-16" ;
+    cim:DateAndOrTime.date "2026-07-02" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "OK Vies, nv code  suite au pb du passé" ;
     cim:IdentifiedObject.mRID "17X000000475689X" ;
-    cim:IdentifiedObject.name "VATTENFALL ENERGIES" ;
+    cim:IdentifiedObject.name "Alterna Energie France" ;
     cim:Names.name "Balance Responsible Party",
         "FR43421550823",
-        "FR_VATTENFALL_EN" ;
+        "FR_ALTERNA_FR" ;
     dcterms:identifier "urn:eic:17X000000475689X" ;
     schema1:vatID "FR43421550823" ;
-    skos:altLabel "FR_VATTENFALL_EN" ;
-    skos:definition "OK Vies, nv code  suite au pb du passé"@en ;
+    skos:altLabel "FR_ALTERNA_FR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VATTENFALL ENERGIES" ;
+    skos:prefLabel "Alterna Energie France" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

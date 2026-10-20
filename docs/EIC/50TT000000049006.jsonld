@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000049006",
-    "@skos:prefLabel": "M Gullsmed RT2 Transformator",
-    "@skos:altLabel": "NO-GULLSMEDRT2",
+    "@skos:prefLabel": "N Gullsmed T25 Transformator",
+    "@skos:altLabel": "NO-GULLSMEDT25",
     "@cim:IdentifiedObject.mRID": "50TT000000049006",
-    "@cim:IdentifiedObject.name": "M Gullsmed RT2 Transformator",
+    "@cim:IdentifiedObject.name": "N Gullsmed T25 Transformator",
     "@cim:Names.name": [
-        "NO-GULLSMEDRT2",
+        "NO-GULLSMEDT25",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

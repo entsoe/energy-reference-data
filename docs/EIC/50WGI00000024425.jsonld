@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000024425",
     "@skos:prefLabel": "TVEITASKG1      HYDRO",
-    "@skos:altLabel": "NO-TVEITASKG1___",
+    "@skos:altLabel": "NO-TVEITASKG1",
     "@cim:IdentifiedObject.mRID": "50WGI00000024425",
     "@cim:IdentifiedObject.name": "TVEITASKG1      HYDRO",
     "@cim:Names.name": [
-        "NO-TVEITASKG1___",
+        "NO-TVEITASKG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

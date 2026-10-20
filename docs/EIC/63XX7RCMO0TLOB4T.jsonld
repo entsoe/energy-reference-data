@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/63XX7RCMO0TLOB4T",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:63XX7RCMO0TLOB4T",
+    "@skos:prefLabel": "European Biogas Supply",
+    "@skos:altLabel": "FRG_EBS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "European Biogas Supply (EBS) est une filiale de Mobius Renewables International (MRI), entité productrice de biométhane sur le territoire français. L'objectif d'EBS, fournisseur d'énergie, est de vendre l'énergie produite par la maison mère MRI sur le territoire européen."
+    },
+    "@cim:IdentifiedObject.mRID": "63XX7RCMO0TLOB4T",
+    "@cim:IdentifiedObject.name": "European Biogas Supply",
+    "@cim:Names.name": [
+        "FRG_EBS",
+        "FR02922642301",
+        "Energy Supplier",
+        "Energy Trader"
+    ],
+    "@cim:IdentifiedObject.description": "European Biogas Supply (EBS) est une filiale de Mobius Renewables International (MRI), entité productrice de biométhane sur le territoire français. L'objectif d'EBS, fournisseur d'énergie, est de vendre l'énergie produite par la maison mère MRI sur le territoire européen.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-29",
+    "@schema:vatID": "FR02922642301",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

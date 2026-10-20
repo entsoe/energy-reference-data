@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000009335" ;
-    cim:IdentifiedObject.name "S Skøyen   11  Forbruk" ;
+    cim:IdentifiedObject.name "S Skøyen   11  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SKOYEN11" ;
+        "NO-SKOYEN11T3" ;
     dcterms:identifier "urn:eic:50WC000000009335" ;
-    skos:altLabel "NO-SKOYEN11" ;
+    skos:altLabel "NO-SKOYEN11T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Skøyen   11  Forbruk" ;
+    skos:prefLabel "S Skøyen   11  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

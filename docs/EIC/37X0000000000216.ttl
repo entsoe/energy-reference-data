@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-23" ;
+    cim:DateAndOrTime.date "2026-01-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X0000000000216" ;
-    cim:IdentifiedObject.name "KTG Biomethan AG" ;
-    cim:Names.name "Balance Supplier",
-        "DE284296969",
-        "KTGBIOMETHANAG" ;
+    cim:IdentifiedObject.name "DAH Biomethan GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DAHBIOMETHAN",
+        "DE284296969" ;
     dcterms:identifier "urn:eic:37X0000000000216" ;
     schema1:vatID "DE284296969" ;
-    skos:altLabel "KTGBIOMETHANAG" ;
+    skos:altLabel "DAHBIOMETHAN" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KTG Biomethan AG" ;
+    skos:prefLabel "DAH Biomethan GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

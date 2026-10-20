@@ -7,19 +7,23 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-08-19" ;
+    cim:DateAndOrTime.date "2025-03-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Biomethane Trader" ;
     cim:IdentifiedObject.mRID "45X0000000000723" ;
-    cim:IdentifiedObject.name "Biogas Express AS" ;
+    cim:IdentifiedObject.name "Biogem A/S" ;
     cim:Names.name "BIOGASEXPRESS",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Consumer",
         "DK38636685",
-        "Network User" ;
+        "Network User",
+        "Producer" ;
     dcterms:identifier "urn:eic:45X0000000000723" ;
     schema1:vatID "DK38636685" ;
     skos:altLabel "BIOGASEXPRESS" ;
     skos:definition "Biomethane Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Biogas Express AS" ;
+    skos:prefLabel "Biogem A/S" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

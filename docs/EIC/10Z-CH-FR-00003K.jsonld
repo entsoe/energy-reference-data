@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10Z-CH-FR-00003K",
-    "@skos:prefLabel": "Chamoson-Bois Tollot",
+    "@skos:prefLabel": "Romanel-Bois Tollot",
     "@skos:altLabel": "M_CHAMOS-BOISTOL",
     "@skos:definition": {
         "@language": "en",
         "@value": "Accounting Point"
     },
     "@cim:IdentifiedObject.mRID": "10Z-CH-FR-00003K",
-    "@cim:IdentifiedObject.name": "Chamoson-Bois Tollot",
+    "@cim:IdentifiedObject.name": "Romanel-Bois Tollot",
     "@cim:Names.name": [
         "M_CHAMOS-BOISTOL",
         "Accounting Point"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "Accounting Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-05-11",
+    "@cim:DateAndOrTime.date": "2024-03-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

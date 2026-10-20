@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-16" ;
+    cim:DateAndOrTime.date "2024-05-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "58X-ENERGIKO---N" ;
     cim:IdentifiedObject.name "Energiko EOOD" ;
-    cim:Names.name "BG200394045",
+    cim:Names.name "A0014379U.BG",
+        "BG200394045",
         "ENERGIKO",
         "Network User" ;
     dcterms:identifier "urn:eic:58X-ENERGIKO---N" ;

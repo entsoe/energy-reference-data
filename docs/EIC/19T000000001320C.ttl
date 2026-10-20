@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000001320C" ;
-    cim:IdentifiedObject.name "Świebodzice-Wrocław" ;
+    cim:IdentifiedObject.name "400kV Wroclaw-Swiebodzice" ;
     cim:Names.name "H007",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000001320C" ;
     skos:altLabel "H007" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Świebodzice-Wrocław" ;
+    skos:prefLabel "400kV Wroclaw-Swiebodzice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

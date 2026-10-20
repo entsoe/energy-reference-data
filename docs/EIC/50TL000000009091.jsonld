@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000009091",
-    "@skos:prefLabel": "M 22 Nedre Fiskumfoss-Knutfoss",
-    "@skos:altLabel": "NO-NFISKUMFOSSKN",
+    "@skos:prefLabel": "N 22 Nedre Fiskumfoss-Knutfoss",
+    "@skos:altLabel": "NO-22NEDREFTFOSS",
     "@cim:IdentifiedObject.mRID": "50TL000000009091",
-    "@cim:IdentifiedObject.name": "M 22 Nedre Fiskumfoss-Knutfoss",
+    "@cim:IdentifiedObject.name": "N 22 Nedre Fiskumfoss-Knutfoss",
     "@cim:Names.name": [
-        "NO-NFISKUMFOSSKN",
+        "NO-22NEDREFTFOSS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

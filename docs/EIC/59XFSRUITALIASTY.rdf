@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:59XFSRUITALIASTY</dcterms:identifier>
-    <skos:prefLabel>FSRU ITALIA SRL</skos:prefLabel>
-    <skos:altLabel>FSRUITALIASRL</skos:altLabel>
+    <skos:prefLabel>Snam LNG Srl</skos:prefLabel>
+    <skos:altLabel>SNAMLNGSRL</skos:altLabel>
     <cim:IdentifiedObject.mRID>59XFSRUITALIASTY</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>FSRU ITALIA SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>FSRUITALIASRL</cim:Names.name>
+    <cim:IdentifiedObject.name>Snam LNG Srl</cim:IdentifiedObject.name>
+    <cim:Names.name>SNAMLNGSRL</cim:Names.name>
     <cim:Names.name>IT11313580968</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-18</cim:DateAndOrTime.date>
     <cim:Names.name>LNG System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT11313580968</schema:vatID>

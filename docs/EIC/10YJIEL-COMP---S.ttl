@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10YJIEL-COMP---S" ;
     cim:IdentifiedObject.name "Comp. Control area Macedonia-Montenegro-Serbia (JIEL)" ;
     cim:Names.name "COMP-JIEL-AREA",
-        "Valid EIC Function needed" ;
+        "Control Area" ;
     dcterms:identifier "urn:eic:10YJIEL-COMP---S" ;
     skos:altLabel "COMP-JIEL-AREA" ;
     skos:definition "Fictitious Area"@en ;

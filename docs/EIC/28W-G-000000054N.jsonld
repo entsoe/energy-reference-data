@@ -16,7 +16,10 @@
     "@skos:altLabel": "TES4",
     "@cim:IdentifiedObject.mRID": "28W-G-000000054N",
     "@cim:IdentifiedObject.name": "TE Šoštanj 4",
-    "@cim:Names.name": "TES4",
+    "@cim:Names.name": [
+        "TES4",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-05-13",

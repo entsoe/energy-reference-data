@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001325M",
-    "@skos:prefLabel": "S 47 Gamlebyen-Kolstad2",
-    "@skos:altLabel": "NO-GAMLEBYENKOL2",
+    "@skos:prefLabel": "S 47 Gamlebyen-Kolstad3",
+    "@skos:altLabel": "NO-47GAMLEBSTAD3",
     "@cim:IdentifiedObject.mRID": "50TL00000001325M",
-    "@cim:IdentifiedObject.name": "S 47 Gamlebyen-Kolstad2",
+    "@cim:IdentifiedObject.name": "S 47 Gamlebyen-Kolstad3",
     "@cim:Names.name": [
-        "NO-GAMLEBYENKOL2",
+        "NO-47GAMLEBSTAD3",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

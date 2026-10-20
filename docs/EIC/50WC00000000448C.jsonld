@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000448C",
-    "@skos:prefLabel": "M Universi 66  L1 Forbruk",
-    "@skos:altLabel": "NO-UNIVERSITETET",
+    "@skos:prefLabel": "N Universi 66  L3 Industri",
+    "@skos:altLabel": "NO-UNIVERSI66L3",
     "@cim:IdentifiedObject.mRID": "50WC00000000448C",
-    "@cim:IdentifiedObject.name": "M Universi 66  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Universi 66  L3 Industri",
     "@cim:Names.name": [
-        "NO-UNIVERSITETET",
+        "NO-UNIVERSI66L3",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

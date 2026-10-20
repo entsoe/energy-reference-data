@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-09" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000064684" ;
-    cim:IdentifiedObject.name "Gdańsk Przyjaźń - Pelplin tor 2" ;
+    cim:IdentifiedObject.name "400kV Gdansk Przyjazn-Pelplin 2" ;
     cim:Names.name "Internal Line",
         "N408" ;
     dcterms:identifier "urn:eic:19T1100000064684" ;
     skos:altLabel "N408" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Gdańsk Przyjaźń - Pelplin tor 2" ;
+    skos:prefLabel "400kV Gdansk Przyjazn-Pelplin 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

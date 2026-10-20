@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-04-13" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNORDHORNVBV6X" ;
     cim:IdentifiedObject.name "nvb Nordhorner Versorgungsbetriebe GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE117036559",
-        "NVB-GMBH" ;
+    cim:Names.name "DE117036559",
+        "NVB-GMBH",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XNORDHORNVBV6X" ;
     schema1:vatID "DE117036559" ;
     skos:altLabel "NVB-GMBH" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "nvb Nordhorner Versorgungsbetriebe GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,20 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-21" ;
+    cim:DateAndOrTime.date "2024-12-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com" ;
     cim:IdentifiedObject.mRID "56X930000121760X" ;
-    cim:IdentifiedObject.name "NATIONAL RESOURCESOF UKRAINE LLC" ;
-    cim:Names.name "44984717",
+    cim:IdentifiedObject.name "NATIONAL RESOURCES OF UKRAINE LLC" ;
+    cim:Names.name "449847123013",
         "NRU_LLC",
         "Network User",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:56X930000121760X" ;
-    schema1:vatID "44984717" ;
+    schema1:vatID "449847123013" ;
     skos:altLabel "NRU_LLC" ;
-    skos:definition "Contact persone: Pavlovsky Denis +380980440011 info@nrukraine.com"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NATIONAL RESOURCESOF UKRAINE LLC" ;
+    skos:prefLabel "NATIONAL RESOURCES OF UKRAINE LLC" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

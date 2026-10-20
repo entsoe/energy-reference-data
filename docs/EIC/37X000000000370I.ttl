@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000370I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Energy Supplier" ;
+    cim:IdentifiedObject.mRID "37X000000000370I" ;
+    cim:IdentifiedObject.name "Grüngold Biogasanlage Pliening KG" ;
+    cim:Names.name "DE310489900",
+        "Energy Supplier",
+        "GRUNGOLD_BIOGASA" ;
+    dcterms:identifier "urn:eic:37X000000000370I" ;
+    schema1:vatID "DE310489900" ;
+    skos:altLabel "GRUNGOLD_BIOGASA" ;
+    skos:definition "Energy Supplier"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Grüngold Biogasanlage Pliening KG" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

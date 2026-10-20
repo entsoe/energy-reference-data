@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XMEDICLIN-E--V",
     "@skos:prefLabel": "MediClin Energie GmbH",
     "@skos:altLabel": "MEDICLIN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XMEDICLIN-E--V",
     "@cim:IdentifiedObject.name": "MediClin Energie GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE158167003",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-25",
+    "@cim:DateAndOrTime.date": "2024-11-08",
     "@schema:vatID": "DE158167003",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0372-Y" ;
     cim:IdentifiedObject.name "Lition Energie GmbH" ;
-    cim:Names.name "DE316290790",
+    cim:Names.name "Balance Responsible Party",
+        "DE316290790",
         "DIGITALENERGY1" ;
     dcterms:identifier "urn:eic:11X0-0000-0372-Y" ;
     schema1:vatID "DE316290790" ;

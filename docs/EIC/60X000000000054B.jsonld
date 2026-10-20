@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:60X000000000054B",
-    "@skos:prefLabel": "EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED",
-    "@skos:altLabel": "RO-EMEPRL",
+    "@skos:prefLabel": "ROMGAZ BLACK SEA LIMITED",
+    "@skos:altLabel": "RO-RBSL",
     "@cim:IdentifiedObject.mRID": "60X000000000054B",
-    "@cim:IdentifiedObject.name": "EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED",
+    "@cim:IdentifiedObject.name": "ROMGAZ BLACK SEA LIMITED",
     "@cim:Names.name": [
-        "RO-EMEPRL",
+        "RO-RBSL",
         "RO24593762",
         "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-04-04",
+    "@cim:DateAndOrTime.date": "2026-09-08",
     "@schema:vatID": "RO24593762",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/32X001100102151U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.mRID "32X001100102151U" ;
+    cim:IdentifiedObject.name "EARTH SPARK EOOD" ;
+    cim:Names.name "BG208038649",
+        "Balance Responsible Party",
+        "EARTH_SPARK" ;
+    dcterms:identifier "urn:eic:32X001100102151U" ;
+    schema1:vatID "BG208038649" ;
+    skos:altLabel "EARTH_SPARK" ;
+    skos:definition "Balance Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EARTH SPARK EOOD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

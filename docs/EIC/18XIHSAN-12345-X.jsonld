@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XIHSAN-12345-X",
     "@skos:prefLabel": "INSTALACIONES HIDRÁULICAS SAN ANTONIO S.L.",
     "@skos:altLabel": "IHSAN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XIHSAN-12345-X",
     "@cim:IdentifiedObject.name": "INSTALACIONES HIDRÁULICAS SAN ANTONIO S.L.",
     "@cim:Names.name": [
         "IHSAN",
         "ESB81690554",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-01-21",
+    "@cim:DateAndOrTime.date": "2026-02-16",
     "@schema:vatID": "ESB81690554",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

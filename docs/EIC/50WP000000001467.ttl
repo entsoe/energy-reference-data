@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000001467" ;
-    cim:IdentifiedObject.name "Evenstad" ;
-    cim:Names.name "NO-EVENSTAD",
+    cim:IdentifiedObject.name "Evenstad Magasin" ;
+    cim:Names.name "NO-EVENSTAD_MAG",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000001467" ;
-    skos:altLabel "NO-EVENSTAD" ;
+    skos:altLabel "NO-EVENSTAD_MAG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Evenstad" ;
+    skos:prefLabel "Evenstad Magasin" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

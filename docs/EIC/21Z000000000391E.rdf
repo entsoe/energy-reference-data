@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Z000000000391E</dcterms:identifier>
     <skos:prefLabel>SEDIANE NORD/NORD_OUEST(FR)</skos:prefLabel>
     <skos:altLabel>SEDIANE_NORD</skos:altLabel>
-    <skos:definition xml:lang="en">Entry/Exit Point From A Storage Between Storengy And  Grtgaz</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000391E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SEDIANE NORD/NORD_OUEST(FR)</cim:IdentifiedObject.name>
     <cim:Names.name>SEDIANE_NORD</cim:Names.name>
-    <cim:IdentifiedObject.description>Entry/Exit Point From A Storage Between Storengy And  Grtgaz</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-08-26</cim:DateAndOrTime.date>
+    <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

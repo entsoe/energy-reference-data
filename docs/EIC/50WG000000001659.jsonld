@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000001659",
-    "@skos:prefLabel": "BLAFALLIG125 HYDRO",
-    "@skos:altLabel": "NO-BLAFALLIG125_",
+    "@skos:prefLabel": "VAG     G125 HYDRO",
+    "@skos:altLabel": "NO-VAGG125",
     "@cim:IdentifiedObject.mRID": "50WG000000001659",
-    "@cim:IdentifiedObject.name": "BLAFALLIG125 HYDRO",
+    "@cim:IdentifiedObject.name": "VAG     G125 HYDRO",
     "@cim:Names.name": [
-        "NO-BLAFALLIG125_",
+        "NO-VAGG125",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-09-10",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

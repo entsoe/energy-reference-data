@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T0000000003044",
-    "@skos:prefLabel": "Zeyerveen Trafo 202",
-    "@skos:altLabel": "ZYV_TR202",
+    "@skos:prefLabel": "Zeyerveen Trafo 202T",
+    "@skos:altLabel": "ZYV_TR202T",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T0000000003044",
-    "@cim:IdentifiedObject.name": "Zeyerveen Trafo 202",
+    "@cim:IdentifiedObject.name": "Zeyerveen Trafo 202T",
     "@cim:Names.name": [
-        "ZYV_TR202",
+        "ZYV_TR202T",
         "Transformer"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-03",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -5,14 +5,14 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18X00000000090SD</dcterms:identifier>
     <skos:prefLabel>SUPRA ENERGIA, S.L</skos:prefLabel>
-    <skos:altLabel>NESS</skos:altLabel>
+    <skos:altLabel>SUPRA</skos:altLabel>
     <cim:IdentifiedObject.mRID>18X00000000090SD</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SUPRA ENERGIA, S.L</cim:IdentifiedObject.name>
-    <cim:Names.name>NESS</cim:Names.name>
+    <cim:Names.name>SUPRA</cim:Names.name>
     <cim:Names.name>ESB87546990</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-04-17</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-17</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB87546990</schema:vatID>

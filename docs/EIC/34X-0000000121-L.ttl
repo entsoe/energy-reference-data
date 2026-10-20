@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/34X-0000000121-L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "34X-0000000121-L" ;
+    cim:IdentifiedObject.name "VISTA ENERGY d.o.o " ;
+    cim:Names.name "113892780",
+        "Trade Responsible Party",
+        "VIST" ;
+    dcterms:identifier "urn:eic:34X-0000000121-L" ;
+    schema1:vatID "113892780" ;
+    skos:altLabel "VIST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VISTA ENERGY d.o.o " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

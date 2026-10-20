@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X0000022468679> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X0000022468679" ;
+    cim:IdentifiedObject.name "Eoliennes Offshore du Calvados" ;
+    cim:Names.name "A0027114J.FR",
+        "FR66509264180",
+        "FR_EODC",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:17X0000022468679" ;
+    schema1:vatID "FR66509264180" ;
+    skos:altLabel "FR_EODC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Eoliennes Offshore du Calvados" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

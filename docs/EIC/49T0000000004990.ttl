@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-08-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T0000000004990" ;
-    cim:IdentifiedObject.name "Ommen Vilsteren 110kV-Ommen Vilsteren 10kV (TR2)" ;
+    cim:IdentifiedObject.name "Oude Postbaan - Kerensheide 150kV" ;
     cim:Names.name "Internal Line",
         "OPB-KRH150" ;
     dcterms:identifier "urn:eic:49T0000000004990" ;
     skos:altLabel "OPB-KRH150" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ommen Vilsteren 110kV-Ommen Vilsteren 10kV (TR2)" ;
+    skos:prefLabel "Oude Postbaan - Kerensheide 150kV" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

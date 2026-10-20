@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-01" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "43X-TG-ENIM0059T" ;
     cim:IdentifiedObject.name "Energo Impulse, SIA" ;
-    cim:Names.name "40203310970",
-        "Balance Responsible Party",
-        "LV-ENIM44" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV-ENIM44",
+        "LV40203310970" ;
     dcterms:identifier "urn:eic:43X-TG-ENIM0059T" ;
-    schema1:vatID "40203310970" ;
+    schema1:vatID "LV40203310970" ;
     skos:altLabel "LV-ENIM44" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Energo Impulse, SIA" ;

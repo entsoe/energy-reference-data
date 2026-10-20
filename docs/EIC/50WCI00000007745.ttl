@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WCI00000007745" ;
-    cim:IdentifiedObject.name "S Svelvik  11  Forbruk" ;
+    cim:IdentifiedObject.name "S Svelvik  22  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-SVELVIK11" ;
+        "NO-SVELVIK22T1" ;
     dcterms:identifier "urn:eic:50WCI00000007745" ;
-    skos:altLabel "NO-SVELVIK11" ;
+    skos:altLabel "NO-SVELVIK22T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Svelvik  11  Forbruk" ;
+    skos:prefLabel "S Svelvik  22  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

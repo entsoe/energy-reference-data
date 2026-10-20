@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XFWG-STROM---R",
-    "@skos:prefLabel": "Fernwärme Greifswald GmbH",
+    "@skos:prefLabel": "Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung",
     "@skos:altLabel": "FW_GREIFSWALD",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XFWG-STROM---R",
-    "@cim:IdentifiedObject.name": "Fernwärme Greifswald GmbH",
+    "@cim:IdentifiedObject.name": "Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung",
     "@cim:Names.name": [
         "FW_GREIFSWALD",
-        "8412002211",
-        "Balance Group"
+        "DE137582842",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-09-30",
-    "@schema:vatID": "8412002211",
+    "@cim:DateAndOrTime.date": "2025-01-10",
+    "@schema:vatID": "DE137582842",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

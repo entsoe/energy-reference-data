@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000334R",
-    "@skos:prefLabel": "M Enga     22  L1 Forbruk",
+    "@skos:prefLabel": "N Enga     22  L1 Forbruk",
     "@skos:altLabel": "NO-ENGA22",
     "@cim:IdentifiedObject.mRID": "50WC00000000334R",
-    "@cim:IdentifiedObject.name": "M Enga     22  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Enga     22  L1 Forbruk",
     "@cim:Names.name": [
         "NO-ENGA22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

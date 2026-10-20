@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Z1001A1001A23J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "10Z1001A1001A23J" ;
+    cim:IdentifiedObject.name "Virtual Tie-Line Latvia- Estonia" ;
+    cim:Names.name "Accounting Point",
+        "VIRTUAL_LAT_EST" ;
+    dcterms:identifier "urn:eic:10Z1001A1001A23J" ;
+    skos:altLabel "VIRTUAL_LAT_EST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Virtual Tie-Line Latvia- Estonia" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001827F",
-    "@skos:prefLabel": "Roan Vindpark",
-    "@skos:altLabel": "NO-ROAN_VIN",
+    "@skos:prefLabel": "Haraheia Vindpark",
+    "@skos:altLabel": "NO-HARAHEIA_VIN",
     "@cim:IdentifiedObject.mRID": "50WP00000001827F",
-    "@cim:IdentifiedObject.name": "Roan Vindpark",
+    "@cim:IdentifiedObject.name": "Haraheia Vindpark",
     "@cim:Names.name": [
-        "NO-ROAN_VIN",
+        "NO-HARAHEIA_VIN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

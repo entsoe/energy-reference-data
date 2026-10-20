@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000107X" ;
     cim:IdentifiedObject.name "RE - Riesen Energie GmbH" ;
-    cim:Names.name "DE319258667",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE319258667",
         "RE__RIESEN_ENERG" ;
     dcterms:identifier "urn:eic:37X000000000107X" ;
     schema1:vatID "DE319258667" ;

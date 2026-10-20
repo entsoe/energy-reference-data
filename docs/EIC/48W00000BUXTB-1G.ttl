@@ -1,0 +1,33 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000BUXTB-1G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """J Aron & Company 
+Plumtree Court, 25 Shoe Lane, London, EC4A 4AU
+Marco Gottschalk
+Marco.Gottschalk@gs.com
+gs-pearlst-trading@gs.com
+""" ;
+    cim:IdentifiedObject.mRID "48W00000BUXTB-1G" ;
+    cim:IdentifiedObject.name "JARON " ;
+    cim:Names.name "BUXTB-1",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W00000BUXTB-1G" ;
+    skos:altLabel "BUXTB-1" ;
+    skos:definition """J Aron & Company 
+Plumtree Court, 25 Shoe Lane, London, EC4A 4AU
+Marco Gottschalk
+Marco.Gottschalk@gs.com
+gs-pearlst-trading@gs.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "JARON " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

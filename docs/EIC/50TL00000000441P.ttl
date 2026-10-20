@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000441P" ;
     cim:IdentifiedObject.name "N 132 Kvitfossen-Melbu" ;
     cim:Names.name "Internal Line",
-        "NO-KVITFOSSENMEL" ;
+        "NO-132KVITFMELBU" ;
     dcterms:identifier "urn:eic:50TL00000000441P" ;
-    skos:altLabel "NO-KVITFOSSENMEL" ;
+    skos:altLabel "NO-132KVITFMELBU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Kvitfossen-Melbu" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRIVA--------N" ;
     cim:IdentifiedObject.name "Riva Energie AG" ;
-    cim:Names.name "Balance Group",
-        "DE813014262",
-        "RIVA" ;
+    cim:Names.name "DE813014262",
+        "RIVA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XRIVA--------N" ;
     schema1:vatID "DE813014262" ;
     skos:altLabel "RIVA" ;

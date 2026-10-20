@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005324B" ;
     cim:IdentifiedObject.name "S Moen     T1 Transformator" ;
-    cim:Names.name "NO-MOEN____T1",
+    cim:Names.name "NO-MOENT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005324B" ;
-    skos:altLabel "NO-MOEN____T1" ;
+    skos:altLabel "NO-MOENT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Moen     T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

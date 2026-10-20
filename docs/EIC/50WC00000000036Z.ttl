@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000036Z" ;
     cim:IdentifiedObject.name "S Vevelsta 47  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-VEVELSTAD45L1" ;
+        "NO-VEVELSTAD45T1" ;
     dcterms:identifier "urn:eic:50WC00000000036Z" ;
-    skos:altLabel "NO-VEVELSTAD45L1" ;
+    skos:altLabel "NO-VEVELSTAD45T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Vevelsta 47  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

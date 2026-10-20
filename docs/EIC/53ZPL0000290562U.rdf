@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53ZPL0000290562U</dcterms:identifier>
-    <skos:prefLabel>Roben Ceramika Budowlana</skos:prefLabel>
-    <skos:altLabel>290562_ROBEN</skos:altLabel>
+    <skos:prefLabel>&#346;roda &#346;l&#261;ska (Roben)</skos:prefLabel>
+    <skos:altLabel>290562_SRODA_SL</skos:altLabel>
     <cim:IdentifiedObject.mRID>53ZPL0000290562U</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Roben Ceramika Budowlana</cim:IdentifiedObject.name>
-    <cim:Names.name>290562_ROBEN</cim:Names.name>
+    <cim:IdentifiedObject.name>&#346;roda &#346;l&#261;ska (Roben)</cim:IdentifiedObject.name>
+    <cim:Names.name>290562_SRODA_SL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-02-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-27</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

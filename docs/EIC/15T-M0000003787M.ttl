@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-14" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000003787M" ;
     cim:IdentifiedObject.name "Szabolcsbáka-Buj" ;
-    cim:Names.name "MBAKA-MBUJ",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MBAKA-MBUJ" ;
     dcterms:identifier "urn:eic:15T-M0000003787M" ;
     skos:altLabel "MBAKA-MBUJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

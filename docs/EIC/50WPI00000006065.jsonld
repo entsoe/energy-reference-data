@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WPI00000006065",
-    "@skos:prefLabel": "Saudebotn",
-    "@skos:altLabel": "NO-SAUDEBOT",
+    "@skos:prefLabel": "Tafjord7",
+    "@skos:altLabel": "NO-TAFJORD7",
     "@cim:IdentifiedObject.mRID": "50WPI00000006065",
-    "@cim:IdentifiedObject.name": "Saudebotn",
+    "@cim:IdentifiedObject.name": "Tafjord7",
     "@cim:Names.name": [
-        "NO-SAUDEBOT",
+        "NO-TAFJORD7",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

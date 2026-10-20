@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002081K" ;
-    cim:IdentifiedObject.name "M Trongsun 22  L1 Forbruk" ;
+    cim:IdentifiedObject.name "N Trongsun 22  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-TRONGSUND22L1" ;
+        "NO-TRONGSUNDET22" ;
     dcterms:identifier "urn:eic:50WC00000002081K" ;
-    skos:altLabel "NO-TRONGSUND22L1" ;
+    skos:altLabel "NO-TRONGSUNDET22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Trongsun 22  L1 Forbruk" ;
+    skos:prefLabel "N Trongsun 22  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

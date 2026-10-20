@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Function Missing" ;
     cim:IdentifiedObject.mRID "24XZSR-ZE------3" ;
     cim:IdentifiedObject.name "Zeleznice Slovenskej republiky" ;
-    cim:Names.name "SK2020480121",
-        "Valid EIC Function needed",
+    cim:Names.name "Consumer",
+        "SK2020480121",
         "ZSR-ZE" ;
     dcterms:identifier "urn:eic:24XZSR-ZE------3" ;
     schema1:vatID "SK2020480121" ;

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-27" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XQUADRA-TRAD19" ;
     cim:IdentifiedObject.name "Quadra Energy GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE815402167",
-        "QUADRA1" ;
+    cim:Names.name "DE815402167",
+        "QUADRA1",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XQUADRA-TRAD19" ;
     schema1:vatID "DE815402167" ;
     skos:altLabel "QUADRA1" ;

@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/69XV0X9W08NB1245",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:69XV0X9W08NB1245",
+    "@skos:prefLabel": "GG GREEN ENERGY AGGREGATOR LTD",
+    "@skos:altLabel": "GG_AGGREGATOR",
+    "@cim:IdentifiedObject.mRID": "69XV0X9W08NB1245",
+    "@cim:IdentifiedObject.name": "GG GREEN ENERGY AGGREGATOR LTD",
+    "@cim:Names.name": [
+        "GG_AGGREGATOR",
+        "60033902M",
+        "Producer",
+        "Production Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-04-24",
+    "@schema:vatID": "60033902M",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

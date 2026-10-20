@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001651Q</dcterms:identifier>
     <skos:prefLabel>Hakavik</skos:prefLabel>
-    <skos:altLabel>NO-HAKAVIK_PL</skos:altLabel>
+    <skos:altLabel>NO-HAKAVIK</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001651Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Hakavik</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-HAKAVIK_PL</cim:Names.name>
+    <cim:Names.name>NO-HAKAVIK</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

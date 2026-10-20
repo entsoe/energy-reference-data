@@ -6,12 +6,14 @@
     <dcterms:identifier>urn:eic:17W0000014186456</dcterms:identifier>
     <skos:prefLabel>CPCU StOuen - GP</skos:prefLabel>
     <skos:altLabel>FR_CPCUSO_GP</skos:altLabel>
+    <skos:definition xml:lang="en">Generation Unit</skos:definition>
     <cim:IdentifiedObject.mRID>17W0000014186456</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CPCU StOuen - GP</cim:IdentifiedObject.name>
     <cim:Names.name>FR_CPCUSO_GP</cim:Names.name>
+    <cim:IdentifiedObject.description>Generation Unit</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-10-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

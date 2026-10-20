@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000006035D",
     "@skos:prefLabel": "S Vamma    T7 Transformator",
-    "@skos:altLabel": "NO-VAMMA___T7",
+    "@skos:altLabel": "NO-VAMMAT7",
     "@cim:IdentifiedObject.mRID": "50TT00000006035D",
     "@cim:IdentifiedObject.name": "S Vamma    T7 Transformator",
     "@cim:Names.name": [
-        "NO-VAMMA___T7",
+        "NO-VAMMAT7",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

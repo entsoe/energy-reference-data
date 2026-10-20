@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCAI-1234567-L</dcterms:identifier>
     <skos:prefLabel>Coren Agroindustrial</skos:prefLabel>
     <skos:altLabel>CAI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCAI-1234567-L</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Coren Agroindustrial</cim:IdentifiedObject.name>
     <cim:Names.name>CAI</cim:Names.name>
     <cim:Names.name>ESA32242588</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-05-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA32242588</schema:vatID>

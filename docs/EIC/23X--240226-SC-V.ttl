@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240226-SC-V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Sinochem International Oil (Singapore) Pte Ltd, company registration number 199002584N, registered in Singapore. Confirmed by the official certificate of ACRA." ;
+    cim:IdentifiedObject.mRID "23X--240226-SC-V" ;
+    cim:IdentifiedObject.name "Sinochem International Oil (Singapore) Pte Ltd" ;
+    cim:Names.name "199002584N",
+        "SINOCHEM_INT_OIL",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--240226-SC-V" ;
+    schema1:vatID "199002584N" ;
+    skos:altLabel "SINOCHEM_INT_OIL" ;
+    skos:definition "Sinochem International Oil (Singapore) Pte Ltd, company registration number 199002584N, registered in Singapore. Confirmed by the official certificate of ACRA."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sinochem International Oil (Singapore) Pte Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

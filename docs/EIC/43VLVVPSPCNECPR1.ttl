@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43VLVVPSPCNECPR1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Project:  VP/S PCN-ECP 
+Enpoint PROD""" ;
+    cim:IdentifiedObject.mRID "43VLVVPSPCNECPR1" ;
+    cim:IdentifiedObject.name "VP/S PCN-ECP" ;
+    cim:Names.name "Endpoint",
+        "VLVVPSPCNPROD" ;
+    dcterms:identifier "urn:eic:43VLVVPSPCNECPR1" ;
+    skos:altLabel "VLVVPSPCNPROD" ;
+    skos:definition """Project:  VP/S PCN-ECP 
+Enpoint PROD"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VP/S PCN-ECP" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

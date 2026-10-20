@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002191D",
-    "@skos:prefLabel": "S Lilan  132 T1 Forbruk",
+    "@skos:prefLabel": "S Liland   132 T1 Forbruk",
     "@skos:altLabel": "NO-LILAND132T1",
     "@cim:IdentifiedObject.mRID": "50WC00000002191D",
-    "@cim:IdentifiedObject.name": "S Lilan  132 T1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Liland   132 T1 Forbruk",
     "@cim:Names.name": [
         "NO-LILAND132T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

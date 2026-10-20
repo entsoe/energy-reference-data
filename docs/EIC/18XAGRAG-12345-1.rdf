@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:18XAGRAG-12345-1</dcterms:identifier>
     <skos:prefLabel>AGRAGUA, S.A.</skos:prefLabel>
     <skos:altLabel>AGRAG</skos:altLabel>
-    <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XAGRAG-12345-1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AGRAGUA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>AGRAG</cim:Names.name>
     <cim:Names.name>ESA35233600</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-03-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-09-12</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA35233600</schema:vatID>
   </skos:Concept>

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:38T-L346-------K</dcterms:identifier>
-    <skos:prefLabel>Paide-Sopi</skos:prefLabel>
-    <skos:altLabel>PAIDE_SOPI</skos:altLabel>
+    <skos:prefLabel>L346 Mustaru-Sopi</skos:prefLabel>
+    <skos:altLabel>L346_MUSTARU_SOP</skos:altLabel>
     <cim:IdentifiedObject.mRID>38T-L346-------K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Paide-Sopi</cim:IdentifiedObject.name>
-    <cim:Names.name>PAIDE_SOPI</cim:Names.name>
+    <cim:IdentifiedObject.name>L346 Mustaru-Sopi</cim:IdentifiedObject.name>
+    <cim:Names.name>L346_MUSTARU_SOP</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-03-17</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-18</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Tie-Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

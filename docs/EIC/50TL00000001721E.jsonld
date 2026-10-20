@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001721E",
-    "@skos:prefLabel": "M 66 Eidum-Mælafoss",
-    "@skos:altLabel": "NO-EIDUMMELAFOSS",
+    "@skos:prefLabel": "N 66 Eidum-T-Mælafoss",
+    "@skos:altLabel": "NO-66EIDUMT_MELA",
     "@cim:IdentifiedObject.mRID": "50TL00000001721E",
-    "@cim:IdentifiedObject.name": "M 66 Eidum-Mælafoss",
+    "@cim:IdentifiedObject.name": "N 66 Eidum-T-Mælafoss",
     "@cim:Names.name": [
-        "NO-EIDUMMELAFOSS",
+        "NO-66EIDUMT_MELA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

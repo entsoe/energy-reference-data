@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000542K",
-    "@skos:prefLabel": "L F4  Forbruk",
-    "@skos:altLabel": "NO-DUMMYF4",
+    "@skos:prefLabel": "N Høyanger 0.4 C1 Oljebehandling",
+    "@skos:altLabel": "NO-HOYANGER0_4C1",
     "@cim:IdentifiedObject.mRID": "50WC00000000542K",
-    "@cim:IdentifiedObject.name": "L F4  Forbruk",
+    "@cim:IdentifiedObject.name": "N Høyanger 0.4 C1 Oljebehandling",
     "@cim:Names.name": [
-        "NO-DUMMYF4",
+        "NO-HOYANGER0_4C1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

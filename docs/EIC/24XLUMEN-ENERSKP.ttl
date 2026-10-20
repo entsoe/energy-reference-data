@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Electricity Trading" ;
     cim:IdentifiedObject.mRID "24XLUMEN-ENERSKP" ;
     cim:IdentifiedObject.name "Lumen Energy a.s., organizacna zlozka" ;
     cim:Names.name "LUMEN-ENERGY-SK",
         "SK2022093139",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XLUMEN-ENERSKP" ;
     schema1:vatID "SK2022093139" ;
     skos:altLabel "LUMEN-ENERGY-SK" ;

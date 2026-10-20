@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005492R",
-    "@skos:prefLabel": "S Ø. Årdal T11 Transformator",
-    "@skos:altLabel": "NO-OVREARDAT11",
+    "@skos:prefLabel": "S Holsbru  T11 Transformator",
+    "@skos:altLabel": "NO-HOLSBRUT11",
     "@cim:IdentifiedObject.mRID": "50TT00000005492R",
-    "@cim:IdentifiedObject.name": "S Ø. Årdal T11 Transformator",
+    "@cim:IdentifiedObject.name": "S Holsbru  T11 Transformator",
     "@cim:Names.name": [
-        "NO-OVREARDAT11",
+        "NO-HOLSBRUT11",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

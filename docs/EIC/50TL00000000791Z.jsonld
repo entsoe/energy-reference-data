@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000791Z",
-    "@skos:prefLabel": "S 15 Øgreyfoss-Slettebø",
-    "@skos:altLabel": "NO-OGREYFOSSSLET",
+    "@skos:prefLabel": "S 15 Øgreyfoss-Svanevannsveien",
+    "@skos:altLabel": "NO-15OGREYFOSSSV",
     "@cim:IdentifiedObject.mRID": "50TL00000000791Z",
-    "@cim:IdentifiedObject.name": "S 15 Øgreyfoss-Slettebø",
+    "@cim:IdentifiedObject.name": "S 15 Øgreyfoss-Svanevannsveien",
     "@cim:Names.name": [
-        "NO-OGREYFOSSSLET",
+        "NO-15OGREYFOSSSV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

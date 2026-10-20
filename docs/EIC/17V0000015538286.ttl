@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17V0000015538286> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17V0000015538286" ;
+    cim:IdentifiedObject.name "RTE ECP-ATOM prod system 3" ;
+    cim:Names.name "FR_ECPATOMPROD3",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:17V0000015538286" ;
+    skos:altLabel "FR_ECPATOMPROD3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RTE ECP-ATOM prod system 3" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

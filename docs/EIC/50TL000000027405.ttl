@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000027405" ;
-    cim:IdentifiedObject.name "M 22 Steinkjer-Byafossen" ;
+    cim:IdentifiedObject.name "N 22 Steinkjer-Byafossen" ;
     cim:Names.name "Internal Line",
-        "NO-STEINKJERBYAF" ;
+        "NO-22STEINKJERBY" ;
     dcterms:identifier "urn:eic:50TL000000027405" ;
-    skos:altLabel "NO-STEINKJERBYAF" ;
+    skos:altLabel "NO-22STEINKJERBY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Steinkjer-Byafossen" ;
+    skos:prefLabel "N 22 Steinkjer-Byafossen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

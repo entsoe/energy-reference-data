@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/59X0000000000446",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:59X0000000000446",
+    "@skos:prefLabel": "ALL ENERGY TRADING & SHIPPING SRL",
+    "@skos:altLabel": "ALLENERGYTRADING",
+    "@cim:IdentifiedObject.mRID": "59X0000000000446",
+    "@cim:IdentifiedObject.name": "ALL ENERGY TRADING & SHIPPING SRL",
+    "@cim:Names.name": [
+        "ALLENERGYTRADING",
+        "8675820966",
+        "Balance Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-03-05",
+    "@schema:vatID": "8675820966",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

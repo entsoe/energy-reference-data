@@ -19,14 +19,14 @@
     "@cim:Names.name": [
         "POWERLLY",
         "ESB87640629",
-        "Grid Access Provider",
+        "Balance Responsible Party",
+        "Capacity Trader",
         "Consumption Responsible Party",
-        "Trade Responsible Party",
-        "Production Responsible party",
         "Market Operator",
         "Producer",
-        "Capacity Trader",
-        "Balance Responsible Party"
+        "Production Responsible Party",
+        "Trade Responsible Party",
+        "Grid Access Provider"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000002025T",
     "@skos:prefLabel": "N 66 Nordreisa-Kildalen",
-    "@skos:altLabel": "NO-NORDREISAKILD",
+    "@skos:altLabel": "NO-66NORDREISAKI",
     "@cim:IdentifiedObject.mRID": "50TL00000002025T",
     "@cim:IdentifiedObject.name": "N 66 Nordreisa-Kildalen",
     "@cim:Names.name": [
-        "NO-NORDREISAKILD",
+        "NO-66NORDREISAKI",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-09-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001109E" ;
     cim:IdentifiedObject.name "NAMSOS  G105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-NAMSOS__G105_" ;
+        "NO-NAMSOSG105" ;
     dcterms:identifier "urn:eic:50WG00000001109E" ;
-    skos:altLabel "NO-NAMSOS__G105_" ;
+    skos:altLabel "NO-NAMSOSG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "NAMSOS  G105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

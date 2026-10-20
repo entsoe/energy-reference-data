@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-01" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "13XTIWAG-REGEL-9" ;
     cim:IdentifiedObject.name "TIWAG-Tiroler Wasserkraft AG" ;
     cim:Names.name "ATU31727904",
-        "Balance Group",
+        "Balancing Service Provider",
         "TIWAG" ;
     dcterms:identifier "urn:eic:13XTIWAG-REGEL-9" ;
     schema1:vatID "ATU31727904" ;

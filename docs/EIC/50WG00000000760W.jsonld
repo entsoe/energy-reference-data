@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000760W",
     "@skos:prefLabel": "HALANDSFG2      HYDRO",
-    "@skos:altLabel": "NO-HALANDSFG2___",
+    "@skos:altLabel": "NO-HALANDSFG2",
     "@cim:IdentifiedObject.mRID": "50WG00000000760W",
     "@cim:IdentifiedObject.name": "HALANDSFG2      HYDRO",
     "@cim:Names.name": [
-        "NO-HALANDSFG2___",
+        "NO-HALANDSFG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

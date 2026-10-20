@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PB41> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PB41" ;
+    cim:IdentifiedObject.name "COMERCIALIZADORA DE ENERGÍA TRANSPARENTE, S.L." ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-COMEE",
+        "ESB44540607" ;
+    dcterms:identifier "urn:eic:18X000000000PB41" ;
+    schema1:vatID "ESB44540607" ;
+    skos:altLabel "ES-COMEE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "COMERCIALIZADORA DE ENERGÍA TRANSPARENTE, S.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

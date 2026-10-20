@@ -23,12 +23,12 @@
     "@cim:Names.name": [
         "WVEM",
         "DE204658234",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-12-13",
+    "@cim:DateAndOrTime.date": "2024-11-03",
     "@schema:vatID": "DE204658234",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

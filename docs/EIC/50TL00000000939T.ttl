@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000939T" ;
-    cim:IdentifiedObject.name "M 22 Selbu-Julskaret" ;
+    cim:IdentifiedObject.name "N 22 Slind-Julskaret" ;
     cim:Names.name "Internal Line",
-        "NO-SELBUJULSKARE" ;
+        "NO-22SLINDJULSKA" ;
     dcterms:identifier "urn:eic:50TL00000000939T" ;
-    skos:altLabel "NO-SELBUJULSKARE" ;
+    skos:altLabel "NO-22SLINDJULSKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Selbu-Julskaret" ;
+    skos:prefLabel "N 22 Slind-Julskaret" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

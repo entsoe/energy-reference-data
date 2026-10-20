@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22XGREENCHOICE-F",
-    "@skos:prefLabel": "GROENE ENERGIE ADMINISTRATIE",
+    "@skos:prefLabel": "Greenchoice B.V. ",
     "@skos:altLabel": "BE_GEA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Supplier"
-    },
     "@cim:IdentifiedObject.mRID": "22XGREENCHOICE-F",
-    "@cim:IdentifiedObject.name": "GROENE ENERGIE ADMINISTRATIE",
+    "@cim:IdentifiedObject.name": "Greenchoice B.V. ",
     "@cim:Names.name": [
         "BE_GEA",
         "NL811517512B01",
+        "Balance Responsible Party",
         "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "Balance Supplier",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-06-23",
+    "@cim:DateAndOrTime.date": "2024-08-21",
     "@schema:vatID": "NL811517512B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

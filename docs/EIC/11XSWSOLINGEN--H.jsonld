@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSWSOLINGEN--H",
     "@skos:prefLabel": "Stadtwerke Solingen GmbH",
     "@skos:altLabel": "SWSOLINGEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWSOLINGEN--H",
     "@cim:IdentifiedObject.name": "Stadtwerke Solingen GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE174657710",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-28",
+    "@cim:DateAndOrTime.date": "2026-09-24",
     "@schema:vatID": "DE174657710",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

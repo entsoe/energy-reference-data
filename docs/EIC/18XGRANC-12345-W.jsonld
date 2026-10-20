@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGRANC-12345-W",
     "@skos:prefLabel": "GRAN CASINO LAS PALMAS",
     "@skos:altLabel": "GRANC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGRANC-12345-W",
     "@cim:IdentifiedObject.name": "GRAN CASINO LAS PALMAS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA35101732",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA35101732",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

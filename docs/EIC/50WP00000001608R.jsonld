@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001608R",
     "@skos:prefLabel": "Nedre Eiane",
-    "@skos:altLabel": "NO-NEDRE-EIANE_P",
+    "@skos:altLabel": "NO-NEDREEIANE",
     "@cim:IdentifiedObject.mRID": "50WP00000001608R",
     "@cim:IdentifiedObject.name": "Nedre Eiane",
     "@cim:Names.name": [
-        "NO-NEDRE-EIANE_P",
+        "NO-NEDREEIANE",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

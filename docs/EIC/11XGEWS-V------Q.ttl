@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGEWS-V------Q" ;
     cim:IdentifiedObject.name "Gas- und E-Werk Singen der Thüga AG" ;
-    cim:Names.name "Balance Group",
-        "DE129275051",
-        "GEWS" ;
+    cim:Names.name "DE129275051",
+        "GEWS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGEWS-V------Q" ;
     schema1:vatID "DE129275051" ;
     skos:altLabel "GEWS" ;

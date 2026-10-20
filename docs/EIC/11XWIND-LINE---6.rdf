@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XWIND-LINE---6</dcterms:identifier>
     <skos:prefLabel>Wind Line</skos:prefLabel>
     <skos:altLabel>WIND-LINE</skos:altLabel>
-    <skos:definition xml:lang="en">balance responsible party</skos:definition>
     <cim:IdentifiedObject.mRID>11XWIND-LINE---6</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Wind Line</cim:IdentifiedObject.name>
     <cim:Names.name>WIND-LINE</cim:Names.name>
     <cim:Names.name>DE250105311</cim:Names.name>
-    <cim:IdentifiedObject.description>balance responsible party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-12</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE250105311</schema:vatID>

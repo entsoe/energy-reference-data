@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group For Bottleneck De-Ch" ;
     cim:IdentifiedObject.mRID "11XED-H-CH-ALT-Y" ;
     cim:IdentifiedObject.name "Energiedienst Holding AG" ;
-    cim:Names.name "DE142693600",
-        "ED-H-CH-ALT",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE142693600",
+        "ED-H-CH-ALT" ;
     dcterms:identifier "urn:eic:11XED-H-CH-ALT-Y" ;
     schema1:vatID "DE142693600" ;
     skos:altLabel "ED-H-CH-ALT" ;

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-01-19" ;
+    cim:DateAndOrTime.date "2024-10-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTERN-STROM-N" ;
     cim:IdentifiedObject.name "Stern Strom GmbH" ;
     cim:Names.name "16513930083",
-        "Balance Group",
+        "Balance Responsible Party",
         "STERN-STROM" ;
     dcterms:identifier "urn:eic:11XSTERN-STROM-N" ;
     schema1:vatID "16513930083" ;

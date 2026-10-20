@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48V000000000064M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48V000000000064M" ;
+    cim:IdentifiedObject.name "Viking Link ECP Endpoint on RNP2 Production" ;
+    cim:Names.name "IT-system",
+        "VKL_ECP_RNP2_PRD" ;
+    dcterms:identifier "urn:eic:48V000000000064M" ;
+    skos:altLabel "VKL_ECP_RNP2_PRD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Viking Link ECP Endpoint on RNP2 Production" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

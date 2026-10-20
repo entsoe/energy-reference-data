@@ -16,10 +16,13 @@
     "@skos:altLabel": "ME-------TG1",
     "@cim:IdentifiedObject.mRID": "41WME-------TG1J",
     "@cim:IdentifiedObject.name": "Mažeikių elektrinė",
-    "@cim:Names.name": "ME-------TG1",
+    "@cim:Names.name": [
+        "ME-------TG1",
+        "Generation"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-01-01",
+    "@cim:DateAndOrTime.date": "2024-12-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

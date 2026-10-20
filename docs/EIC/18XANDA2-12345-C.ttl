@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-08-14" ;
+    cim:DateAndOrTime.date "2024-02-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XANDA2-12345-C" ;
-    cim:IdentifiedObject.name "ANDASOL 2 CENTRAL TERMOSOLAR DOS, S.A." ;
+    cim:IdentifiedObject.name "ANDASOL-2 CENTRAL TERMOSOLAR DOS, S.L." ;
     cim:Names.name "ANDA2",
-        "ESA01291228",
-        "Production Responsible party" ;
+        "ESB01291228",
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XANDA2-12345-C" ;
-    schema1:vatID "ESA01291228" ;
+    schema1:vatID "ESB01291228" ;
     skos:altLabel "ANDA2" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ANDASOL 2 CENTRAL TERMOSOLAR DOS, S.A." ;
+    skos:prefLabel "ANDASOL-2 CENTRAL TERMOSOLAR DOS, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/17W000002345153N",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:17W000002345153N",
+    "@skos:prefLabel": "ADP 01 DE LA FERME EOLIENNE DE CESSIER (LE)",
+    "@skos:altLabel": "FR_CESSIE01",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "International"
+    },
+    "@cim:IdentifiedObject.mRID": "17W000002345153N",
+    "@cim:IdentifiedObject.name": "ADP 01 DE LA FERME EOLIENNE DE CESSIER (LE)",
+    "@cim:Names.name": [
+        "FR_CESSIE01",
+        "Generation Unit"
+    ],
+    "@cim:IdentifiedObject.description": "International",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-30",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

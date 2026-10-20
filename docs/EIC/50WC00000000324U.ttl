@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000324U" ;
-    cim:IdentifiedObject.name "M Mosjøen  22  RT1 Industri" ;
+    cim:IdentifiedObject.name "N Mosjøen  22  L1 Industri" ;
     cim:Names.name "Load",
         "NO-MOSJOEN22NC" ;
     dcterms:identifier "urn:eic:50WC00000000324U" ;
     skos:altLabel "NO-MOSJOEN22NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Mosjøen  22  RT1 Industri" ;
+    skos:prefLabel "N Mosjøen  22  L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

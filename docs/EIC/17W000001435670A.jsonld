@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_SP_COCHE-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Nouveau code EIC"
+        "@value": "Storage Plant Parent (COCHE)"
     },
     "@cim:IdentifiedObject.mRID": "17W000001435670A",
     "@cim:IdentifiedObject.name": "Coche Pompage",
@@ -24,10 +24,10 @@
         "FR_SP_COCHE-P",
         "Storage Plant"
     ],
-    "@cim:IdentifiedObject.description": "Nouveau code EIC",
+    "@cim:IdentifiedObject.description": "Storage Plant Parent (COCHE)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-23",
+    "@cim:DateAndOrTime.date": "2026-09-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

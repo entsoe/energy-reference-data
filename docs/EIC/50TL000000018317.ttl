@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000018317" ;
-    cim:IdentifiedObject.name "S 66 Haugfoss-Horga" ;
+    cim:IdentifiedObject.name "S 22 Setersberg-Haugfoss" ;
     cim:Names.name "Internal Line",
-        "NO-HAUGFOSSHORGA" ;
+        "NO-22SETERSBGHAU" ;
     dcterms:identifier "urn:eic:50TL000000018317" ;
-    skos:altLabel "NO-HAUGFOSSHORGA" ;
+    skos:altLabel "NO-22SETERSBGHAU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Haugfoss-Horga" ;
+    skos:prefLabel "S 22 Setersberg-Haugfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-02-16" ;
+    cim:DateAndOrTime.date "2026-03-30" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Grid Operator" ;
     cim:IdentifiedObject.mRID "37X0000000000135" ;
-    cim:IdentifiedObject.name "Bocholter Energie- und Wasserversorgung GmbH" ;
-    cim:Names.name "BEW_GMBH",
-        "DE124167939",
-        "Grid Operator" ;
+    cim:IdentifiedObject.name "stadtwerker GmbH" ;
+    cim:Names.name "DE124167939",
+        "Grid Operator",
+        "STADTWERKER_GMBH" ;
     dcterms:identifier "urn:eic:37X0000000000135" ;
     schema1:vatID "DE124167939" ;
-    skos:altLabel "BEW_GMBH" ;
+    skos:altLabel "STADTWERKER_GMBH" ;
     skos:definition "Grid Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bocholter Energie- und Wasserversorgung GmbH" ;
+    skos:prefLabel "stadtwerker GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

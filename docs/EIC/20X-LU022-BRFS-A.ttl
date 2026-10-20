@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/20X-LU022-BRFS-A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """A train leasing company based in Luxembourg and required the code for our electric locomotive’s operated in France.
+
+Re request dated 5/12/2023""" ;
+    cim:IdentifiedObject.mRID "20X-LU022-BRFS-A" ;
+    cim:IdentifiedObject.name "Beacon Rail Finance S.A.R.L" ;
+    cim:Names.name "BRFS",
+        "Consumer",
+        "LU21380729" ;
+    dcterms:identifier "urn:eic:20X-LU022-BRFS-A" ;
+    schema1:vatID "LU21380729" ;
+    skos:altLabel "BRFS" ;
+    skos:definition """A train leasing company based in Luxembourg and required the code for our electric locomotive’s operated in France.
+
+Re request dated 5/12/2023"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Beacon Rail Finance S.A.R.L" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

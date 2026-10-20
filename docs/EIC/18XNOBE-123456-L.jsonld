@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XNOBE-123456-L",
-    "@skos:prefLabel": "NOBE SOLUCIONES Y ENERGIA S.L",
+    "@skos:prefLabel": "NOBE SOLUCIONES Y ENERGIA SL",
     "@skos:altLabel": "NOBE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNOBE-123456-L",
-    "@cim:IdentifiedObject.name": "NOBE SOLUCIONES Y ENERGIA S.L",
+    "@cim:IdentifiedObject.name": "NOBE SOLUCIONES Y ENERGIA SL",
     "@cim:Names.name": [
         "NOBE",
         "ESB47732334",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-11-27",
+    "@cim:DateAndOrTime.date": "2026-10-06",
     "@schema:vatID": "ESB47732334",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

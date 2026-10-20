@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000056045" ;
     cim:IdentifiedObject.name "S Rygene   T1 Transformator" ;
-    cim:Names.name "NO-RYGENE__T1",
+    cim:Names.name "NO-RYGENET1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000056045" ;
-    skos:altLabel "NO-RYGENE__T1" ;
+    skos:altLabel "NO-RYGENET1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Rygene   T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

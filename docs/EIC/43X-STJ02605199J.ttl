@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02605199J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02605199J" ;
+    cim:IdentifiedObject.name "Z Enerģija SIA" ;
+    cim:Names.name "43X-J02605199J",
+        "Balance Responsible Party",
+        "LV40203384626" ;
+    dcterms:identifier "urn:eic:43X-STJ02605199J" ;
+    schema1:vatID "LV40203384626" ;
+    skos:altLabel "43X-J02605199J" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Z Enerģija SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

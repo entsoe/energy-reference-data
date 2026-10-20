@@ -4,20 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XELANA-OSDNXXJ</dcterms:identifier>
-    <skos:prefLabel>ELANA-ENERGETYKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:prefLabel>BORYSZEW GREEN ENERGY&amp;GAS SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
     <skos:altLabel>ELANA-ENERGETYKA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XELANA-OSDNXXJ</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELANA-ENERGETYKA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>BORYSZEW GREEN ENERGY&amp;GAS SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
     <cim:Names.name>ELANA-ENERGETYKA</cim:Names.name>
     <cim:Names.name>PL8792104155</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-04</cim:DateAndOrTime.date>
-    <cim:Names.name>Metered Data Responsible</cim:Names.name>
-    <cim:Names.name>Meter Administrator</cim:Names.name>
-    <cim:Names.name>Grid Access Provider</cim:Names.name>
-    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-03-24</cim:DateAndOrTime.date>
     <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8792104155</schema:vatID>
   </skos:Concept>

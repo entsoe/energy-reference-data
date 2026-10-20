@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XKREKENAVOSSAO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Krekenavos saulė, UAB    306782511   LT100017093510   Raudondvario pl. 131B-9, Kaunas   Rolandas Šimoliūnas   +37069800822   ks@acme.lt
+""" ;
+    cim:IdentifiedObject.mRID "41XKREKENAVOSSAO" ;
+    cim:IdentifiedObject.name "Krekenavos saulė UAB " ;
+    cim:Names.name "KREKENAVOSSAULE",
+        "LT100017093510",
+        "Producer" ;
+    dcterms:identifier "urn:eic:41XKREKENAVOSSAO" ;
+    schema1:vatID "LT100017093510" ;
+    skos:altLabel "KREKENAVOSSAULE" ;
+    skos:definition """Krekenavos saulė, UAB    306782511   LT100017093510   Raudondvario pl. 131B-9, Kaunas   Rolandas Šimoliūnas   +37069800822   ks@acme.lt
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Krekenavos saulė UAB " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002888A",
-    "@skos:prefLabel": "M 66 Storhaugen-Vestbyen",
-    "@skos:altLabel": "NO-STORHAUGENVES",
+    "@skos:prefLabel": "N 66 Storhaugen-Vestbyen",
+    "@skos:altLabel": "NO-66STORHAUGENV",
     "@cim:IdentifiedObject.mRID": "50TL00000002888A",
-    "@cim:IdentifiedObject.name": "M 66 Storhaugen-Vestbyen",
+    "@cim:IdentifiedObject.name": "N 66 Storhaugen-Vestbyen",
     "@cim:Names.name": [
-        "NO-STORHAUGENVES",
+        "NO-66STORHAUGENV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

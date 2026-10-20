@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z0000000003964",
-    "@skos:prefLabel": "Carrickfergus Exit Point",
+    "@skos:prefLabel": "Carrickfergus Internal Connection Point",
     "@skos:altLabel": "CARRICK-NI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Notional Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z0000000003964",
-    "@cim:IdentifiedObject.name": "Carrickfergus Exit Point",
+    "@cim:IdentifiedObject.name": "Carrickfergus Internal Connection Point",
     "@cim:Names.name": [
         "CARRICK-NI",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Notional Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

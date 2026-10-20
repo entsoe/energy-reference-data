@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XPADRESEXPRESV</dcterms:identifier>
-    <skos:prefLabel>EXPRESS CASH SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
-    <skos:altLabel>EXPRESS_CASH</skos:altLabel>
+    <skos:prefLabel>PAD RES DYSTRYBUCJA ZACH&#211;D SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI</skos:prefLabel>
+    <skos:altLabel>PAD_RES_ZACHOD</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XPADRESEXPRESV</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EXPRESS CASH SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
-    <cim:Names.name>EXPRESS_CASH</cim:Names.name>
+    <cim:IdentifiedObject.name>PAD RES DYSTRYBUCJA ZACH&#211;D SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI</cim:IdentifiedObject.name>
+    <cim:Names.name>PAD_RES_ZACHOD</cim:Names.name>
     <cim:Names.name>PL5222910797</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-23</cim:DateAndOrTime.date>
     <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
     <cim:Names.name>Grid Access Provider</cim:Names.name>

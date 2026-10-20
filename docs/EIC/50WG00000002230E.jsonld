@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002230E",
     "@skos:prefLabel": "BROKKE  G106 HYDRO",
-    "@skos:altLabel": "NO-BROKKE__G106_",
+    "@skos:altLabel": "NO-BROKKEG106",
     "@cim:IdentifiedObject.mRID": "50WG00000002230E",
     "@cim:IdentifiedObject.name": "BROKKE  G106 HYDRO",
     "@cim:Names.name": [
-        "NO-BROKKE__G106_",
+        "NO-BROKKEG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

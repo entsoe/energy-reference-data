@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-01-23" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XACENORCASCL-S" ;
     cim:IdentifiedObject.name "ACEITUNERA DEL NORTE DE CACERES SCL DE 2 GRADO" ;
     cim:Names.name "ACENO",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XACENORCASCL-S" ;
     schema1:vatID "ESF10020154" ;
     skos:altLabel "ACENO" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ACEITUNERA DEL NORTE DE CACERES SCL DE 2 GRADO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

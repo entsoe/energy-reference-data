@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--261002-WA-9> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company registration number confirmed through extract from Accounting and Corporate Regulatory Authority (ACRA) in Singapore: 202108542H" ;
+    cim:IdentifiedObject.mRID "23X--261002-WA-9" ;
+    cim:IdentifiedObject.name "Wintermute Asia Pte Ltd" ;
+    cim:Names.name "202108542H",
+        "Capacity Trader",
+        "WINTERMUTE_ASIA" ;
+    dcterms:identifier "urn:eic:23X--261002-WA-9" ;
+    schema1:vatID "202108542H" ;
+    skos:altLabel "WINTERMUTE_ASIA" ;
+    skos:definition "Company registration number confirmed through extract from Accounting and Corporate Regulatory Authority (ACRA) in Singapore: 202108542H"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Wintermute Asia Pte Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

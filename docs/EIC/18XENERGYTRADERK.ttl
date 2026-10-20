@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-12-17" ;
+    cim:DateAndOrTime.date "2025-02-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XENERGYTRADERK" ;
-    cim:IdentifiedObject.name "Energy Trader Solutions" ;
+    cim:IdentifiedObject.name "ENERGY TRADER SOLUTIONS SL" ;
     cim:Names.name "ESB54744073",
         "ETSOL",
+        "Production Responsible Party",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XENERGYTRADERK" ;
     schema1:vatID "ESB54744073" ;
     skos:altLabel "ETSOL" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energy Trader Solutions" ;
+    skos:prefLabel "ENERGY TRADER SOLUTIONS SL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-05-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000393G" ;
-    cim:IdentifiedObject.name "Eindhoven Noord - Eindhoven West 150 kV" ;
+    cim:IdentifiedObject.name "Eindhoven Noord - Eindhoven West 150 kV Wit" ;
     cim:Names.name "EHVN-EHVW150-W",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000393G" ;
     skos:altLabel "EHVN-EHVW150-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Eindhoven Noord - Eindhoven West 150 kV" ;
+    skos:prefLabel "Eindhoven Noord - Eindhoven West 150 kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

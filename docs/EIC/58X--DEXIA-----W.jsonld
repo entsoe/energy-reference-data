@@ -22,13 +22,14 @@
     "@cim:IdentifiedObject.name": "Dexia Bulgaria OOD",
     "@cim:Names.name": [
         "DEXIA_BULGARIA",
+        "A0013995P.BG",
         "BG200766022",
         "Network User"
     ],
     "@cim:IdentifiedObject.description": "Network User",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-30",
+    "@cim:DateAndOrTime.date": "2024-05-17",
     "@schema:vatID": "BG200766022",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

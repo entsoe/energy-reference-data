@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000012102" ;
-    cim:IdentifiedObject.name "M 420 Ørskog-Sykkylven" ;
+    cim:IdentifiedObject.name "N 420 Ørskog-Sykkylven" ;
     cim:Names.name "Internal Line",
-        "NO-ORSKOGSYKKYLV" ;
+        "NO-420ORSKOGSYKK" ;
     dcterms:identifier "urn:eic:50TL000000012102" ;
-    skos:altLabel "NO-ORSKOGSYKKYLV" ;
+    skos:altLabel "NO-420ORSKOGSYKK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Ørskog-Sykkylven" ;
+    skos:prefLabel "N 420 Ørskog-Sykkylven" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

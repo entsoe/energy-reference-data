@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000014478" ;
     cim:IdentifiedObject.name "S 47 St Halvard-Alvim1" ;
     cim:Names.name "Internal Line",
-        "NO-STHALVARDALV1" ;
+        "NO-47ST_HALLVIM1" ;
     dcterms:identifier "urn:eic:50TL000000014478" ;
-    skos:altLabel "NO-STHALVARDALV1" ;
+    skos:altLabel "NO-47ST_HALLVIM1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 St Halvard-Alvim1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

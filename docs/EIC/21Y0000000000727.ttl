@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000727" ;
     cim:IdentifiedObject.name "Aggregated industrial exits South Zone" ;
     cim:Names.name "INDUS_POOL_S",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y0000000000727" ;
     skos:altLabel "INDUS_POOL_S" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Aggregated industrial exits South Zone" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

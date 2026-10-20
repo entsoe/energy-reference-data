@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000979H",
-    "@skos:prefLabel": "M 22 Trandal-Urke",
-    "@skos:altLabel": "NO-TRANDALURKE",
+    "@skos:prefLabel": "N 22 Trandal-Urke",
+    "@skos:altLabel": "NO-22TRANDALURKE",
     "@cim:IdentifiedObject.mRID": "50TL00000000979H",
-    "@cim:IdentifiedObject.name": "M 22 Trandal-Urke",
+    "@cim:IdentifiedObject.name": "N 22 Trandal-Urke",
     "@cim:Names.name": [
-        "NO-TRANDALURKE",
+        "NO-22TRANDALURKE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

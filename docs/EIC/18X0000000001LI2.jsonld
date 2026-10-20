@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000001LI2",
     "@skos:prefLabel": "EXTREMEÑA DE ARROCES, S. COOP. ULTIMO GRADO",
     "@skos:altLabel": "ARROC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000001LI2",
     "@cim:IdentifiedObject.name": "EXTREMEÑA DE ARROCES, S. COOP. ULTIMO GRADO",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF06312920",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF06312920",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

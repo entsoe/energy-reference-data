@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005836L",
-    "@skos:prefLabel": "M Sundsfjo T4 Transformator",
-    "@skos:altLabel": "NO-SUNDSFJ_T4",
+    "@skos:prefLabel": "N Sundsfjo T4 Transformator",
+    "@skos:altLabel": "NO-SUNDSFJT4",
     "@cim:IdentifiedObject.mRID": "50TT00000005836L",
-    "@cim:IdentifiedObject.name": "M Sundsfjo T4 Transformator",
+    "@cim:IdentifiedObject.name": "N Sundsfjo T4 Transformator",
     "@cim:Names.name": [
-        "NO-SUNDSFJ_T4",
+        "NO-SUNDSFJT4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

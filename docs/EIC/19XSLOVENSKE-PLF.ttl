@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-08-25" ;
+    cim:DateAndOrTime.date "2024-02-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "19XSLOVENSKE-PLF" ;
-    cim:IdentifiedObject.name "Slovenske elektrarne, a.s. Spółka Akcyjna Oddział w Polsce" ;
-    cim:Names.name "PL1070014723",
-        "SLOVENSKEELEKTRA",
-        "Trade Responsible Party" ;
+    cim:IdentifiedObject.name "SLOVENSKÉ ELEKTRÁRNE, A.S., SPÓŁKA AKCYJNA ­ ODDZIAŁ W POLSCE" ;
+    cim:Names.name "A00009272.SK",
+        "Balance Responsible Party",
+        "PL1070014723",
+        "SEASWARSZAWA" ;
     dcterms:identifier "urn:eic:19XSLOVENSKE-PLF" ;
     schema1:vatID "PL1070014723" ;
-    skos:altLabel "SLOVENSKEELEKTRA" ;
+    skos:altLabel "SEASWARSZAWA" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Slovenske elektrarne, a.s. Spółka Akcyjna Oddział w Polsce" ;
+    skos:prefLabel "SLOVENSKÉ ELEKTRÁRNE, A.S., SPÓŁKA AKCYJNA ­ ODDZIAŁ W POLSCE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

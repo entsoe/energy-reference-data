@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEESA-25----U" ;
     cim:IdentifiedObject.name "DeESA GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE128366446",
-        "HARRER" ;
+    cim:Names.name "DE128366446",
+        "HARRER",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDEESA-25----U" ;
     schema1:vatID "DE128366446" ;
     skos:altLabel "HARRER" ;

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:44Y-00000000171F</dcterms:identifier>
-    <skos:prefLabel>Naistenlahti 2</skos:prefLabel>
+    <skos:prefLabel>Naistenlahti 3</skos:prefLabel>
     <skos:altLabel>FI_NSL200</skos:altLabel>
     <cim:IdentifiedObject.mRID>44Y-00000000171F</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Naistenlahti 2</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Naistenlahti 3</cim:IdentifiedObject.name>
     <cim:Names.name>FI_NSL200</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-07-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-21</cim:DateAndOrTime.date>
     <cim:Names.name>Metering Grid Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001669D" ;
-    cim:IdentifiedObject.name "MOSKOG  G183 HYDRO" ;
+    cim:IdentifiedObject.name "HJELLE  G183 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G183_" ;
+        "NO-HJELLEG183" ;
     dcterms:identifier "urn:eic:50WG00000001669D" ;
-    skos:altLabel "NO-MOSKOG__G183_" ;
+    skos:altLabel "NO-HJELLEG183" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G183 HYDRO" ;
+    skos:prefLabel "HJELLE  G183 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

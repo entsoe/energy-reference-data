@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002253G",
-    "@skos:prefLabel": "M 66 Tiller-Klæbu",
-    "@skos:altLabel": "NO-TILLERKLABU",
+    "@skos:prefLabel": "N 66 Tiller-Klæbu",
+    "@skos:altLabel": "NO-66TILLERKLABU",
     "@cim:IdentifiedObject.mRID": "50TL00000002253G",
-    "@cim:IdentifiedObject.name": "M 66 Tiller-Klæbu",
+    "@cim:IdentifiedObject.name": "N 66 Tiller-Klæbu",
     "@cim:Names.name": [
-        "NO-TILLERKLABU",
+        "NO-66TILLERKLABU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

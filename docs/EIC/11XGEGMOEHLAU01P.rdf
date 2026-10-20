@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XGEGMOEHLAU01P</dcterms:identifier>
     <skos:prefLabel>Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG)</skos:prefLabel>
     <skos:altLabel>ENERGIE-GEG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XGEGMOEHLAU01P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG)</cim:IdentifiedObject.name>
     <cim:Names.name>ENERGIE-GEG</cim:Names.name>
     <cim:Names.name>DE253707312</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-03-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE253707312</schema:vatID>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000351R" ;
-    cim:IdentifiedObject.name "M Trofors  22  TR1 Forbruk" ;
+    cim:IdentifiedObject.name "N Trofors  22  TR1 Forbruk" ;
     cim:Names.name "Load",
         "NO-TROFORS22" ;
     dcterms:identifier "urn:eic:50WC00000000351R" ;
     skos:altLabel "NO-TROFORS22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Trofors  22  TR1 Forbruk" ;
+    skos:prefLabel "N Trofors  22  TR1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

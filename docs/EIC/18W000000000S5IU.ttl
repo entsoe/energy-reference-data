@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18W000000000S5IU> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18W000000000S5IU" ;
+    cim:IdentifiedObject.name "MYENV11F" ;
+    cim:Names.name "ES-MYENV11F",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:18W000000000S5IU" ;
+    skos:altLabel "ES-MYENV11F" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MYENV11F" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

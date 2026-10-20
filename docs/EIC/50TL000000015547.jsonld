@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000015547",
     "@skos:prefLabel": "S 50 Hjelmeland trst-Hjelmeland krst",
-    "@skos:altLabel": "NO-HJELMELANDTHJ",
+    "@skos:altLabel": "NO-50HJELMELANDT",
     "@cim:IdentifiedObject.mRID": "50TL000000015547",
     "@cim:IdentifiedObject.name": "S 50 Hjelmeland trst-Hjelmeland krst",
     "@cim:Names.name": [
-        "NO-HJELMELANDTHJ",
+        "NO-50HJELMELANDT",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

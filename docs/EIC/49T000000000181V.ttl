@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-08" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000181V" ;
     cim:IdentifiedObject.name "Eemshaven 380kV trafo 401" ;
-    cim:Names.name "EEM380_TR401",
+    cim:Names.name "EEM_TR401",
         "Transformer" ;
     dcterms:identifier "urn:eic:49T000000000181V" ;
-    skos:altLabel "EEM380_TR401" ;
+    skos:altLabel "EEM_TR401" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Eemshaven 380kV trafo 401" ;

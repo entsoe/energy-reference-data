@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27T-TLI-V449---C",
-    "@skos:prefLabel": "V449",
-    "@skos:altLabel": "V449",
+    "@skos:prefLabel": "V449 Albrechtice - Dětmarovice",
+    "@skos:altLabel": "ALB-DET-V449",
     "@cim:IdentifiedObject.mRID": "27T-TLI-V449---C",
-    "@cim:IdentifiedObject.name": "V449",
+    "@cim:IdentifiedObject.name": "V449 Albrechtice - Dětmarovice",
     "@cim:Names.name": [
-        "V449",
+        "ALB-DET-V449",
         "Tieline"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-07",
+    "@cim:DateAndOrTime.date": "2024-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

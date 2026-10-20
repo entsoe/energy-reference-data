@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:55XCHRYSAORMARK6</dcterms:identifier>
-    <skos:prefLabel>Chrysaor Marketing Limited</skos:prefLabel>
-    <skos:altLabel>CHRYSAORMARKETIN</skos:altLabel>
+    <skos:prefLabel>Harbour Energy Marketing Limited</skos:prefLabel>
+    <skos:altLabel>HARBOURENERGY</skos:altLabel>
     <cim:IdentifiedObject.mRID>55XCHRYSAORMARK6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Chrysaor Marketing Limited</cim:IdentifiedObject.name>
-    <cim:Names.name>CHRYSAORMARKETIN</cim:Names.name>
+    <cim:IdentifiedObject.name>Harbour Energy Marketing Limited</cim:IdentifiedObject.name>
+    <cim:Names.name>HARBOURENERGY</cim:Names.name>
     <cim:Names.name>GB918462017</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-02-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-25</cim:DateAndOrTime.date>
     <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB918462017</schema:vatID>

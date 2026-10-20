@@ -16,7 +16,10 @@
     "@skos:altLabel": "DU2-KW",
     "@cim:IdentifiedObject.mRID": "14W-KW-DU2-EVN-K",
     "@cim:IdentifiedObject.name": "Kraftwerk Dürnrohr",
-    "@cim:Names.name": "DU2-KW",
+    "@cim:Names.name": [
+        "DU2-KW",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

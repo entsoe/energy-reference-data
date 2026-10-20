@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065583",
-    "@skos:prefLabel": "Lubocza-A4",
+    "@skos:prefLabel": "220/110kV Lubocza AT4",
     "@skos:altLabel": "LUA-A4",
     "@cim:IdentifiedObject.mRID": "19T1100000065583",
-    "@cim:IdentifiedObject.name": "Lubocza-A4",
+    "@cim:IdentifiedObject.name": "220/110kV Lubocza AT4",
     "@cim:Names.name": [
         "LUA-A4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

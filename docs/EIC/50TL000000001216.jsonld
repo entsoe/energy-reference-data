@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000001216",
-    "@skos:prefLabel": "M 132 Årødal2-Moldeli2",
-    "@skos:altLabel": "NO-ARODAL2MOLDEL",
+    "@skos:prefLabel": "N 132 Årødal2-Moldeli2",
+    "@skos:altLabel": "NO-132ARODAL2MOL",
     "@cim:IdentifiedObject.mRID": "50TL000000001216",
-    "@cim:IdentifiedObject.name": "M 132 Årødal2-Moldeli2",
+    "@cim:IdentifiedObject.name": "N 132 Årødal2-Moldeli2",
     "@cim:Names.name": [
-        "NO-ARODAL2MOLDEL",
+        "NO-132ARODAL2MOL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

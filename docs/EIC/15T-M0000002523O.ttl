@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-16" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000002523O" ;
     cim:IdentifiedObject.name "Győr-Szombathely" ;
-    cim:Names.name "MGYOR-MSZHO",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MGYOR-MSZHO" ;
     dcterms:identifier "urn:eic:15T-M0000002523O" ;
     skos:altLabel "MGYOR-MSZHO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

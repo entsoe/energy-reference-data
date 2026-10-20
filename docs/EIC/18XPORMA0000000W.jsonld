@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPORMA0000000W",
     "@skos:prefLabel": "CCRR DE LA MARGEN IZQUIERDA DEL PORMA",
     "@skos:altLabel": "PORMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPORMA0000000W",
     "@cim:IdentifiedObject.name": "CCRR DE LA MARGEN IZQUIERDA DEL PORMA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG24066250",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-03-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG24066250",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

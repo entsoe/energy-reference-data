@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-03-10" ;
+    cim:DateAndOrTime.date "2026-03-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XCEEE-123456-T" ;
-    cim:IdentifiedObject.name "Compañía Escandinava de Electricidad en España" ;
+    cim:IdentifiedObject.name "ESCANDINAVA DE ELECTRICIDAD SL." ;
     cim:Names.name "CEEE",
         "ESB85551273",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XCEEE-123456-T" ;
     schema1:vatID "ESB85551273" ;
     skos:altLabel "CEEE" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Compañía Escandinava de Electricidad en España" ;
+    skos:prefLabel "ESCANDINAVA DE ELECTRICIDAD SL." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

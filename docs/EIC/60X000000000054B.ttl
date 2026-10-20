@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-04-04" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "60X000000000054B" ;
-    cim:IdentifiedObject.name "EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED" ;
+    cim:IdentifiedObject.name "ROMGAZ BLACK SEA LIMITED" ;
     cim:Names.name "Network User",
-        "RO-EMEPRL",
+        "RO-RBSL",
         "RO24593762" ;
     dcterms:identifier "urn:eic:60X000000000054B" ;
     schema1:vatID "RO24593762" ;
-    skos:altLabel "RO-EMEPRL" ;
+    skos:altLabel "RO-RBSL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED" ;
+    skos:prefLabel "ROMGAZ BLACK SEA LIMITED" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

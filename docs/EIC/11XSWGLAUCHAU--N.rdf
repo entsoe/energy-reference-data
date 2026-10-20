@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWGLAUCHAU--N</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Glauchau Dienstleistungsgesellschaft mbH</skos:prefLabel>
     <skos:altLabel>SWGLAUCHAU</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWGLAUCHAU--N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Glauchau Dienstleistungsgesellschaft mbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWGLAUCHAU</cim:Names.name>
     <cim:Names.name>DE141171315</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-29</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE141171315</schema:vatID>
   </skos:Concept>

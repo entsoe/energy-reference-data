@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W000000PSSE053> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48W000000PSSE053" ;
+    cim:IdentifiedObject.name "FAIRBURN WINDFARM" ;
+    cim:Names.name "Generation Unit",
+        "PSSE05" ;
+    dcterms:identifier "urn:eic:48W000000PSSE053" ;
+    skos:altLabel "PSSE05" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FAIRBURN WINDFARM" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

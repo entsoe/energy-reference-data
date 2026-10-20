@@ -13,7 +13,7 @@
     },
     "@dcterms:identifier": "urn:eic:49T000000000073Y",
     "@skos:prefLabel": "Eemshaven-Eemshaven Converterstation 380kV zwart",
-    "@skos:altLabel": "MVL-MDC380-Z",
+    "@skos:altLabel": "EEM-EDC380-Z",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
@@ -21,13 +21,13 @@
     "@cim:IdentifiedObject.mRID": "49T000000000073Y",
     "@cim:IdentifiedObject.name": "Eemshaven-Eemshaven Converterstation 380kV zwart",
     "@cim:Names.name": [
-        "MVL-MDC380-Z",
+        "EEM-EDC380-Z",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-07-01",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

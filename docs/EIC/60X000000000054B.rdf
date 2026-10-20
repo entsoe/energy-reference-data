@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:60X000000000054B</dcterms:identifier>
-    <skos:prefLabel>EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED</skos:prefLabel>
-    <skos:altLabel>RO-EMEPRL</skos:altLabel>
+    <skos:prefLabel>ROMGAZ BLACK SEA LIMITED</skos:prefLabel>
+    <skos:altLabel>RO-RBSL</skos:altLabel>
     <cim:IdentifiedObject.mRID>60X000000000054B</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EXXONMOBIL EXPLORATION AND PRODUCTION ROMANIAN LIMITED</cim:IdentifiedObject.name>
-    <cim:Names.name>RO-EMEPRL</cim:Names.name>
+    <cim:IdentifiedObject.name>ROMGAZ BLACK SEA LIMITED</cim:IdentifiedObject.name>
+    <cim:Names.name>RO-RBSL</cim:Names.name>
     <cim:Names.name>RO24593762</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-04-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-08</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>RO24593762</schema:vatID>

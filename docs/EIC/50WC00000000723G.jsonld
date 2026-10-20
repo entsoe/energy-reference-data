@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000723G",
-    "@skos:prefLabel": "M Sokna Re 66  Forbruk",
-    "@skos:altLabel": "NO-SOKNA_RM66",
+    "@skos:prefLabel": "N Sokna Re 66  Lundamo  Forbruk",
+    "@skos:altLabel": "NO-SOKNARE66LUND",
     "@cim:IdentifiedObject.mRID": "50WC00000000723G",
-    "@cim:IdentifiedObject.name": "M Sokna Re 66  Forbruk",
+    "@cim:IdentifiedObject.name": "N Sokna Re 66  Lundamo  Forbruk",
     "@cim:Names.name": [
-        "NO-SOKNA_RM66",
+        "NO-SOKNARE66LUND",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

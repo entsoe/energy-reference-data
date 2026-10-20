@@ -15,11 +15,11 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>Grid Operator</cim:Names.name>
-    <cim:Names.name>Measurement Service Provider</cim:Names.name>
-    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
     <cim:Names.name>Market Area Operator</cim:Names.name>
+    <cim:Names.name>Measurement Service Provider</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CHE224997030</schema:vatID>
   </skos:Concept>

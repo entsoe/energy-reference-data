@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "19T000000001329V" ;
     cim:IdentifiedObject.name "Żarnowiec-Gdańsk Błonia 1" ;
-    cim:Names.name "N401" ;
+    cim:Names.name "Internal Line",
+        "N401" ;
     dcterms:identifier "urn:eic:19T000000001329V" ;
     skos:altLabel "N401" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

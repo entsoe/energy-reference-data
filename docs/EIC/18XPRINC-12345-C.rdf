@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XPRINC-12345-C</dcterms:identifier>
     <skos:prefLabel>PRINCESA 31, S.A.</skos:prefLabel>
     <skos:altLabel>PRINC</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XPRINC-12345-C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PRINCESA 31, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>PRINC</cim:Names.name>
     <cim:Names.name>ESA78157617</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA78157617</schema:vatID>

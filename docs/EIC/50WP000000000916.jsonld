@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP000000000916",
-    "@skos:prefLabel": "Bægna",
-    "@skos:altLabel": "NO-BAGNA",
+    "@skos:prefLabel": "Begna",
+    "@skos:altLabel": "NO-BEGNA_V01",
     "@cim:IdentifiedObject.mRID": "50WP000000000916",
-    "@cim:IdentifiedObject.name": "Bægna",
+    "@cim:IdentifiedObject.name": "Begna",
     "@cim:Names.name": [
-        "NO-BAGNA",
+        "NO-BEGNA_V01",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

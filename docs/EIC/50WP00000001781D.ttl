@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001781D" ;
     cim:IdentifiedObject.name "Strupen kraftverk" ;
-    cim:Names.name "NO-STRUPEN_KRAFT",
+    cim:Names.name "NO-STRUPENKRAFTV",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001781D" ;
-    skos:altLabel "NO-STRUPEN_KRAFT" ;
+    skos:altLabel "NO-STRUPENKRAFTV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Strupen kraftverk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

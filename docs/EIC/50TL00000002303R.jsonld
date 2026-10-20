@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002303R",
-    "@skos:prefLabel": "M 66 Verdal-Levanger1",
-    "@skos:altLabel": "NO-VERDALLEVANGE",
+    "@skos:prefLabel": "N 66 Verdal-Levanger1",
+    "@skos:altLabel": "NO-66VERDALLEVAN",
     "@cim:IdentifiedObject.mRID": "50TL00000002303R",
-    "@cim:IdentifiedObject.name": "M 66 Verdal-Levanger1",
+    "@cim:IdentifiedObject.name": "N 66 Verdal-Levanger1",
     "@cim:Names.name": [
-        "NO-VERDALLEVANGE",
+        "NO-66VERDALLEVAN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

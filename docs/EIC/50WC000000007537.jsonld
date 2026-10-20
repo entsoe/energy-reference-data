@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000007537",
-    "@skos:prefLabel": "M Volda    11  L1 Forbruk",
+    "@skos:prefLabel": "N Volda    11  L1 Forbruk",
     "@skos:altLabel": "NO-VOLDA11",
     "@cim:IdentifiedObject.mRID": "50WC000000007537",
-    "@cim:IdentifiedObject.name": "M Volda    11  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Volda    11  L1 Forbruk",
     "@cim:Names.name": [
         "NO-VOLDA11",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

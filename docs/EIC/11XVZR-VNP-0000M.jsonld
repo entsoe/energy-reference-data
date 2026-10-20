@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XVZR-VNP-0000M",
     "@skos:prefLabel": "Verteilnetz Plauen GmbH",
     "@skos:altLabel": "VNP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XVZR-VNP-0000M",
     "@cim:IdentifiedObject.name": "Verteilnetz Plauen GmbH",
     "@cim:Names.name": [
         "VNP",
         "DE274233514",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-10-10",
+    "@cim:DateAndOrTime.date": "2024-11-07",
     "@schema:vatID": "DE274233514",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

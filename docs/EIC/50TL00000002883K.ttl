@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002883K" ;
-    cim:IdentifiedObject.name "M 66 Vestbyen-Paulinelund" ;
+    cim:IdentifiedObject.name "N 66 Vestbyen-Paulinelund" ;
     cim:Names.name "Internal Line",
-        "NO-VESTBYENPAULI" ;
+        "NO-66VESTBYENPAU" ;
     dcterms:identifier "urn:eic:50TL00000002883K" ;
-    skos:altLabel "NO-VESTBYENPAULI" ;
+    skos:altLabel "NO-66VESTBYENPAU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Vestbyen-Paulinelund" ;
+    skos:prefLabel "N 66 Vestbyen-Paulinelund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

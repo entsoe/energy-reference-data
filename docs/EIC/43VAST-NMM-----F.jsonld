@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/43VAST-NMM-----F",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:43VAST-NMM-----F",
+    "@skos:prefLabel": "AST-NMM",
+    "@skos:altLabel": "AST-NMM-----F",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "A network model management system"
+    },
+    "@cim:IdentifiedObject.mRID": "43VAST-NMM-----F",
+    "@cim:IdentifiedObject.name": "AST-NMM",
+    "@cim:Names.name": [
+        "AST-NMM-----F",
+        "IT-system"
+    ],
+    "@cim:IdentifiedObject.description": "A network model management system",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-12-01",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

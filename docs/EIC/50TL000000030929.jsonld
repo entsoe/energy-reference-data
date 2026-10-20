@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000030929",
     "@skos:prefLabel": "S 132 Liland-Rå",
-    "@skos:altLabel": "NO-LILANDRA",
+    "@skos:altLabel": "NO-132LILANDRA",
     "@cim:IdentifiedObject.mRID": "50TL000000030929",
     "@cim:IdentifiedObject.name": "S 132 Liland-Rå",
     "@cim:Names.name": [
-        "NO-LILANDRA",
+        "NO-132LILANDRA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

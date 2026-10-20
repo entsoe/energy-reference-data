@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002660Q" ;
-    cim:IdentifiedObject.name "MOSKOG  G115 HYDRO" ;
+    cim:IdentifiedObject.name "KVAMSELVG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G115_" ;
+        "NO-KVAMSELVG1" ;
     dcterms:identifier "urn:eic:50WG00000002660Q" ;
-    skos:altLabel "NO-MOSKOG__G115_" ;
+    skos:altLabel "NO-KVAMSELVG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G115 HYDRO" ;
+    skos:prefLabel "KVAMSELVG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -16,7 +16,7 @@
     "@skos:altLabel": "ARNKB",
     "@skos:definition": {
         "@language": "en",
-        "@value": "The W Station code"
+        "@value": "The W Station code\nNew Contact Information 07/08/2024\nC/O Gresham House Asset Management Ltd, 5 New Street Square, London EC4A 3TW\nOliver Guy\nog@arenko.group\n\n\n"
     },
     "@cim:IdentifiedObject.mRID": "48WSTN0000ARNKBW",
     "@cim:IdentifiedObject.name": "Bloxwich",
@@ -24,10 +24,10 @@
         "ARNKB",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "The W Station code",
+    "@cim:IdentifiedObject.description": "The W Station code\nNew Contact Information 07/08/2024\nC/O Gresham House Asset Management Ltd, 5 New Street Square, London EC4A 3TW\nOliver Guy\nog@arenko.group\n\n\n",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-10-02",
+    "@cim:DateAndOrTime.date": "2024-08-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

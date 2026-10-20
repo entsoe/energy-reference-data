@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000002895",
-    "@skos:prefLabel": "S 132 Grov-Angedalen",
-    "@skos:altLabel": "NO-GROVANGEDALEN",
+    "@skos:prefLabel": "N 132 Grov-Angedalen",
+    "@skos:altLabel": "NO-132GROVANGEDA",
     "@cim:IdentifiedObject.mRID": "50TL000000002895",
-    "@cim:IdentifiedObject.name": "S 132 Grov-Angedalen",
+    "@cim:IdentifiedObject.name": "N 132 Grov-Angedalen",
     "@cim:Names.name": [
-        "NO-GROVANGEDALEN",
+        "NO-132GROVANGEDA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

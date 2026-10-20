@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000017847" ;
     cim:IdentifiedObject.name "Oterholt-MTE" ;
-    cim:Names.name "NO-OTERHOLT-MTE",
+    cim:Names.name "NO-OTERHOLT_MTE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000017847" ;
-    skos:altLabel "NO-OTERHOLT-MTE" ;
+    skos:altLabel "NO-OTERHOLT_MTE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Oterholt-MTE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

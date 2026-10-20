@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XBASF-BSW-SH-D",
-    "@skos:prefLabel": "BASF Schwarzheide GmbH",
+    "@skos:prefLabel": "BASF InfraService & Solutions Lausitz GmbH",
     "@skos:altLabel": "BSW",
     "@cim:IdentifiedObject.mRID": "11XBASF-BSW-SH-D",
-    "@cim:IdentifiedObject.name": "BASF Schwarzheide GmbH",
+    "@cim:IdentifiedObject.name": "BASF InfraService & Solutions Lausitz GmbH",
     "@cim:Names.name": [
         "BSW",
-        "DE811122744",
+        "DE813771702",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-30",
-    "@schema:vatID": "DE811122744",
+    "@cim:DateAndOrTime.date": "2026-01-16",
+    "@schema:vatID": "DE813771702",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006775W",
-    "@skos:prefLabel": "Glinki-Recław",
+    "@skos:prefLabel": "220kV Glinki-Reclaw",
     "@skos:altLabel": "4532",
     "@cim:IdentifiedObject.mRID": "19T110000006775W",
-    "@cim:IdentifiedObject.name": "Glinki-Recław",
+    "@cim:IdentifiedObject.name": "220kV Glinki-Reclaw",
     "@cim:Names.name": [
         "4532",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

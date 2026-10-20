@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000030856" ;
     cim:IdentifiedObject.name "S 132Høgef_TS-Høgefoss" ;
     cim:Names.name "Internal Line",
-        "NO-HOGEFTSHOGEFO" ;
+        "NO-132HOGEF_TSHO" ;
     dcterms:identifier "urn:eic:50TL000000030856" ;
-    skos:altLabel "NO-HOGEFTSHOGEFO" ;
+    skos:altLabel "NO-132HOGEF_TSHO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132Høgef_TS-Høgefoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

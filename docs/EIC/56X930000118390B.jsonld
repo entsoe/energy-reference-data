@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000118390B",
-    "@skos:prefLabel": "Limited Liability Company \"NEW ENERGY PROJECTS\"",
+    "@skos:prefLabel": "\"NEW ENERGY PROJECTS\" Limited Liability Company ",
     "@skos:altLabel": "NEP_LLC",
     "@cim:IdentifiedObject.mRID": "56X930000118390B",
-    "@cim:IdentifiedObject.name": "Limited Liability Company \"NEW ENERGY PROJECTS\"",
+    "@cim:IdentifiedObject.name": "\"NEW ENERGY PROJECTS\" Limited Liability Company ",
     "@cim:Names.name": [
         "NEP_LLC",
         "442076326558",
@@ -24,7 +24,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-08",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "442076326558",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

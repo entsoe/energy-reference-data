@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000172R" ;
-    cim:IdentifiedObject.name "S Einangsm 132 T3 Forbruk" ;
+    cim:IdentifiedObject.name "S Einangsm 22  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-EINANGSM132" ;
+        "NO-EINANGSM22" ;
     dcterms:identifier "urn:eic:50WC00000000172R" ;
-    skos:altLabel "NO-EINANGSM132" ;
+    skos:altLabel "NO-EINANGSM22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Einangsm 132 T3 Forbruk" ;
+    skos:prefLabel "S Einangsm 22  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

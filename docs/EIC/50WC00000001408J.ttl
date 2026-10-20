@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001408J" ;
-    cim:IdentifiedObject.name "M Thamshav 22  L1 Industri" ;
+    cim:IdentifiedObject.name "N Thamshav 22  L1 Industri" ;
     cim:Names.name "Load",
-        "NO-THAMSHAM22NC" ;
+        "NO-THAMSHAV22T1N" ;
     dcterms:identifier "urn:eic:50WC00000001408J" ;
-    skos:altLabel "NO-THAMSHAM22NC" ;
+    skos:altLabel "NO-THAMSHAV22T1N" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Thamshav 22  L1 Industri" ;
+    skos:prefLabel "N Thamshav 22  L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

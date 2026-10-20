@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XVILDA-12345-G",
-    "@skos:prefLabel": "VILALBA DELS ARCS SLU",
+    "@skos:prefLabel": "PARC EOLIC DE VILALBA DELS ARCS SLU",
     "@skos:altLabel": "VILDA",
     "@cim:IdentifiedObject.mRID": "18XVILDA-12345-G",
-    "@cim:IdentifiedObject.name": "VILALBA DELS ARCS SLU",
+    "@cim:IdentifiedObject.name": "PARC EOLIC DE VILALBA DELS ARCS SLU",
     "@cim:Names.name": [
         "VILDA",
         "ESB17716804",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-03-31",
+    "@cim:DateAndOrTime.date": "2026-08-31",
     "@schema:vatID": "ESB17716804",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

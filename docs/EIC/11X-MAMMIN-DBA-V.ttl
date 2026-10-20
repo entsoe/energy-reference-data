@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-04-12" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-MAMMIN-DBA-V" ;
-    cim:IdentifiedObject.name "EW-Schmid GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE268978491",
-        "EW-SCHMID-DBA" ;
+    cim:IdentifiedObject.name "EW Schmid GmbH" ;
+    cim:Names.name "DE268978491",
+        "EW-SCHMID-DBA",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11X-MAMMIN-DBA-V" ;
     schema1:vatID "DE268978491" ;
     skos:altLabel "EW-SCHMID-DBA" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EW-Schmid GmbH" ;
+    skos:prefLabel "EW Schmid GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,16 +7,49 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-31" ;
+    cim:DateAndOrTime.date "2024-02-20" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Update to Functions
+
+Progress Power Limited
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+
+Party Connected to the Grid
+Balance Responsible Party
+Producer
+Production Responsible party
+""" ;
     cim:IdentifiedObject.mRID "48X000000000355K" ;
     cim:IdentifiedObject.name "Progress Power Limited" ;
-    cim:Names.name "GB744326437",
+    cim:Names.name "Balance Responsible Party",
+        "GB744326437",
         "PPL",
-        "Party Connected To Grid" ;
+        "Party Connected To Grid",
+        "Producer",
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:48X000000000355K" ;
     schema1:vatID "GB744326437" ;
     skos:altLabel "PPL" ;
+    skos:definition """Update to Functions
+
+Progress Power Limited
+Drax Power Station,
+Selby, North Yorkshire
+YO8 8PH
+Wholesale Market Compliance
+wholesalemarketcompliance@drax.com
+
+
+Party Connected to the Grid
+Balance Responsible Party
+Producer
+Production Responsible party
+"""@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Progress Power Limited" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

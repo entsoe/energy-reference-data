@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45V000000000208W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45V000000000208W" ;
+    cim:IdentifiedObject.name "Overgaden Neden Vandet 17, 1414 Copenhagen, Denmark" ;
+    cim:Names.name "DK_TWIG_TEST",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:45V000000000208W" ;
+    skos:altLabel "DK_TWIG_TEST" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Overgaden Neden Vandet 17, 1414 Copenhagen, Denmark" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

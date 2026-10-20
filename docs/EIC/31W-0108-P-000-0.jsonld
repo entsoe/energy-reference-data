@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:31W-0108-P-000-0",
-    "@skos:prefLabel": "SE DRAVA 1 110 kV",
-    "@skos:altLabel": "HR-SE-DRAVA1",
+    "@skos:prefLabel": "SE DRAVA  110 kV",
+    "@skos:altLabel": "HR-SE-DRAVA",
     "@cim:IdentifiedObject.mRID": "31W-0108-P-000-0",
-    "@cim:IdentifiedObject.name": "SE DRAVA 1 110 kV",
+    "@cim:IdentifiedObject.name": "SE DRAVA  110 kV",
     "@cim:Names.name": [
-        "HR-SE-DRAVA1",
+        "HR-SE-DRAVA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-03-01",
+    "@cim:DateAndOrTime.date": "2024-10-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

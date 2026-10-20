@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005692J",
-    "@skos:prefLabel": "S Slettebø T1 Transformator",
-    "@skos:altLabel": "NO-SLETTEBOT1",
+    "@skos:prefLabel": "S Svanevan T1 Transformator",
+    "@skos:altLabel": "NO-SVANEVANT1",
     "@cim:IdentifiedObject.mRID": "50TT00000005692J",
-    "@cim:IdentifiedObject.name": "S Slettebø T1 Transformator",
+    "@cim:IdentifiedObject.name": "S Svanevan T1 Transformator",
     "@cim:Names.name": [
-        "NO-SLETTEBOT1",
+        "NO-SVANEVANT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50AI00000000608O",
-    "@skos:prefLabel": "Hydro 1",
-    "@skos:altLabel": "NO-HYDRO_1",
+    "@skos:prefLabel": "Herøya 1",
+    "@skos:altLabel": "NO-HEROYA_1",
     "@cim:IdentifiedObject.mRID": "50AI00000000608O",
-    "@cim:IdentifiedObject.name": "Hydro 1",
+    "@cim:IdentifiedObject.name": "Herøya 1",
     "@cim:Names.name": [
-        "NO-HYDRO_1",
+        "NO-HEROYA_1",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

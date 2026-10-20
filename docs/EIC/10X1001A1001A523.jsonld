@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "CYPRUS_TSO",
         "CY90001894D",
+        "Market Operator",
         "System Operator"
     ],
     "@cim:IdentifiedObject.description": "Transmission System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2025-12-16",
     "@schema:vatID": "CY90001894D",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

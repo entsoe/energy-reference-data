@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000635D",
-    "@skos:prefLabel": "N Kirkenes 22  Forbruk",
-    "@skos:altLabel": "NO-KIRKENES22",
+    "@skos:prefLabel": "N Kirkenes 22  L2 Forbruk",
+    "@skos:altLabel": "NO-KIRKENES22L2",
     "@cim:IdentifiedObject.mRID": "50WC00000000635D",
-    "@cim:IdentifiedObject.name": "N Kirkenes 22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Kirkenes 22  L2 Forbruk",
     "@cim:Names.name": [
-        "NO-KIRKENES22",
+        "NO-KIRKENES22L2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

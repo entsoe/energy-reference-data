@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSIERRADJEREZM",
     "@skos:prefLabel": "SIERRA DE JEREZ, S COOP.",
     "@skos:altLabel": "SIEJE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSIERRADJEREZM",
     "@cim:IdentifiedObject.name": "SIERRA DE JEREZ, S COOP.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESF06191704",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-26",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESF06191704",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002413K",
-    "@skos:prefLabel": "M Hopen 132 T3 X",
-    "@skos:altLabel": "NO-HOPEN132T3X",
+    "@skos:prefLabel": "N Hopen    132 T3 X",
+    "@skos:altLabel": "NO-HOPEN132T3_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002413K",
-    "@cim:IdentifiedObject.name": "M Hopen 132 T3 X",
+    "@cim:IdentifiedObject.name": "N Hopen    132 T3 X",
     "@cim:Names.name": [
-        "NO-HOPEN132T3X",
+        "NO-HOPEN132T3_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

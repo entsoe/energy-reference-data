@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000290K",
-    "@skos:prefLabel": "S 132 Magnhildskaret-Svelgen",
-    "@skos:altLabel": "NO-MAGNHILDSSVEL",
+    "@skos:prefLabel": "N 132 Magnhildskaret-Svelgen",
+    "@skos:altLabel": "NO-132MAGNHELGEN",
     "@cim:IdentifiedObject.mRID": "50TL00000000290K",
-    "@cim:IdentifiedObject.name": "S 132 Magnhildskaret-Svelgen",
+    "@cim:IdentifiedObject.name": "N 132 Magnhildskaret-Svelgen",
     "@cim:Names.name": [
-        "NO-MAGNHILDSSVEL",
+        "NO-132MAGNHELGEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

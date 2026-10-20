@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000189W",
     "@skos:prefLabel": "BRANDHOLG106 HYDRO",
-    "@skos:altLabel": "NO-BRANDHOLG106_",
+    "@skos:altLabel": "NO-BRANDHOLG106",
     "@cim:IdentifiedObject.mRID": "50WG00000000189W",
     "@cim:IdentifiedObject.name": "BRANDHOLG106 HYDRO",
     "@cim:Names.name": [
-        "NO-BRANDHOLG106_",
+        "NO-BRANDHOLG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

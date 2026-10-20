@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006795Q",
-    "@skos:prefLabel": "Połaniec-Kielce",
+    "@skos:prefLabel": "400kV Kielce-Polaniec",
     "@skos:altLabel": "F003",
     "@cim:IdentifiedObject.mRID": "19T110000006795Q",
-    "@cim:IdentifiedObject.name": "Połaniec-Kielce",
+    "@cim:IdentifiedObject.name": "400kV Kielce-Polaniec",
     "@cim:Names.name": [
         "F003",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

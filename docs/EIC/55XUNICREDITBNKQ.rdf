@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:55XUNICREDITBNKQ</dcterms:identifier>
-    <skos:prefLabel>UNICREDIT BANK AG</skos:prefLabel>
-    <skos:altLabel>UNICREDITBANKAG</skos:altLabel>
+    <skos:prefLabel>UNICREDIT BANK GmbH</skos:prefLabel>
+    <skos:altLabel>UNICREDITBANK</skos:altLabel>
     <cim:IdentifiedObject.mRID>55XUNICREDITBNKQ</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>UNICREDIT BANK AG</cim:IdentifiedObject.name>
-    <cim:Names.name>UNICREDITBANKAG</cim:Names.name>
-    <cim:Names.name>GB736178710</cim:Names.name>
+    <cim:IdentifiedObject.name>UNICREDIT BANK GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>UNICREDITBANK</cim:Names.name>
+    <cim:Names.name>DE129273380</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-06-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-03-21</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>GB736178710</schema:vatID>
+    <schema:vatID>DE129273380</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

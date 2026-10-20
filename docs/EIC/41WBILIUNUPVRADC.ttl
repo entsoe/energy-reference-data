@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WBILIUNUPVRADC> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Biliūnų PV parkas I 2,2MW    Biliūnų k. 9, Baisiogalos sen., Radviliškio raj.   ESO objekto Nr.   63079039" ;
+    cim:IdentifiedObject.mRID "41WBILIUNUPVRADC" ;
+    cim:IdentifiedObject.name "Biliūnų PV" ;
+    cim:Names.name "BILIUNUPV",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:41WBILIUNUPVRADC" ;
+    skos:altLabel "BILIUNUPV" ;
+    skos:definition "Biliūnų PV parkas I 2,2MW    Biliūnų k. 9, Baisiogalos sen., Radviliškio raj.   ESO objekto Nr.   63079039"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Biliūnų PV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

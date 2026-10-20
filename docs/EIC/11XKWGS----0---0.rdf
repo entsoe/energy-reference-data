@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XKWGS----0---0</dcterms:identifier>
     <skos:prefLabel>CIECH Energy Deutschland GmbH</skos:prefLabel>
     <skos:altLabel>KWGS</skos:altLabel>
-    <skos:definition xml:lang="en">balance responsible party</skos:definition>
     <cim:IdentifiedObject.mRID>11XKWGS----0---0</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CIECH Energy Deutschland GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>KWGS</cim:Names.name>
     <cim:Names.name>DE243007857</cim:Names.name>
-    <cim:IdentifiedObject.description>balance responsible party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-03-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE243007857</schema:vatID>

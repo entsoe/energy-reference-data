@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006405G" ;
-    cim:IdentifiedObject.name "Gorzów-Krajnik" ;
+    cim:IdentifiedObject.name "220kV Gorzow-Krajnik" ;
     cim:Names.name "4021",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006405G" ;
     skos:altLabel "4021" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Gorzów-Krajnik" ;
+    skos:prefLabel "220kV Gorzow-Krajnik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

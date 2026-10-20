@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/67X-RS-00000004F",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:67X-RS-00000004F",
+    "@skos:prefLabel": "SK ENERGO DOO BEOGRAD",
+    "@skos:altLabel": "SKENERGO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "SK ENERGO DOO BEOGRAD\nLJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA\nTax No.: 113172592\nID No.: 21816787\nInd. code: 4690 \nSK ENERGO DOO deals with international trade in natural gas and other energy products. \nRESPONSIBLE PERSON: SAVO MARKOVIĆ\nPHONE: +381 64 8774242\nE-mail: savo@smaa.cz\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "67X-RS-00000004F",
+    "@cim:IdentifiedObject.name": "SK ENERGO DOO BEOGRAD",
+    "@cim:Names.name": [
+        "SKENERGO",
+        "RS113172592",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "SK ENERGO DOO BEOGRAD\nLJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA\nTax No.: 113172592\nID No.: 21816787\nInd. code: 4690 \nSK ENERGO DOO deals with international trade in natural gas and other energy products. \nRESPONSIBLE PERSON: SAVO MARKOVIĆ\nPHONE: +381 64 8774242\nE-mail: savo@smaa.cz\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-09-18",
+    "@schema:vatID": "RS113172592",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

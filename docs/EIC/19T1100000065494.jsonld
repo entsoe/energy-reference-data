@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065494",
-    "@skos:prefLabel": "Leszno-A1",
+    "@skos:prefLabel": "220/110kV Leszno AT1",
     "@skos:altLabel": "LES-A1",
     "@cim:IdentifiedObject.mRID": "19T1100000065494",
-    "@cim:IdentifiedObject.name": "Leszno-A1",
+    "@cim:IdentifiedObject.name": "220/110kV Leszno AT1",
     "@cim:Names.name": [
         "LES-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

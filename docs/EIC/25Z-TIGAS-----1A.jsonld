@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25Z-TIGAS-----1A",
-    "@skos:prefLabel": "TIGAS-Erdgas Tirol GmbH",
+    "@skos:prefLabel": "TIGAS-Wärme Tirol GmbH",
     "@skos:altLabel": "BRENNER-AT-IT",
     "@cim:IdentifiedObject.mRID": "25Z-TIGAS-----1A",
-    "@cim:IdentifiedObject.name": "TIGAS-Erdgas Tirol GmbH",
+    "@cim:IdentifiedObject.name": "TIGAS-Wärme Tirol GmbH",
     "@cim:Names.name": [
         "BRENNER-AT-IT",
         "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-29",
+    "@cim:DateAndOrTime.date": "2024-01-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

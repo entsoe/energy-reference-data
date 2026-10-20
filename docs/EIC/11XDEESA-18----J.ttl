@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-07-25" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEESA-18----J" ;
     cim:IdentifiedObject.name "DeESA GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE115653410",
-        "MUNDT" ;
+    cim:Names.name "DE272091722",
+        "MUNDT",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XDEESA-18----J" ;
-    schema1:vatID "DE115653410" ;
+    schema1:vatID "DE272091722" ;
     skos:altLabel "MUNDT" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "DeESA GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

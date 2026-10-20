@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-03-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001435W" ;
-    cim:IdentifiedObject.name "Sagbekken II" ;
-    cim:Names.name "NO-SAGBEKKEN-II_",
+    cim:IdentifiedObject.name "Sagabekken II" ;
+    cim:Names.name "NO-SAGABEKKENII",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001435W" ;
-    skos:altLabel "NO-SAGBEKKEN-II_" ;
+    skos:altLabel "NO-SAGABEKKENII" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sagbekken II" ;
+    skos:prefLabel "Sagabekken II" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

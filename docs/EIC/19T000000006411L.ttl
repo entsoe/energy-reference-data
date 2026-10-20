@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-30" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T000000006411L" ;
-    cim:IdentifiedObject.name "Żukowice-Leśniów" ;
+    cim:IdentifiedObject.name "220kV Lesniow-Zukowice" ;
     cim:Names.name "4023",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T000000006411L" ;
     skos:altLabel "4023" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Żukowice-Leśniów" ;
+    skos:prefLabel "220kV Lesniow-Zukowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

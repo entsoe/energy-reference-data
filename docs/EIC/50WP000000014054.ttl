@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000014054" ;
     cim:IdentifiedObject.name "Bjøråa-Svorka" ;
-    cim:Names.name "NO-BJORAA-SVORKA",
+    cim:Names.name "NO-BJOERAAA_SVOR",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000014054" ;
-    skos:altLabel "NO-BJORAA-SVORKA" ;
+    skos:altLabel "NO-BJOERAAA_SVOR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Bjøråa-Svorka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

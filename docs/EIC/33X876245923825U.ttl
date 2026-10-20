@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/33X876245923825U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-01-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "33X876245923825U" ;
+    cim:IdentifiedObject.name "Respect Energy DOOEL Skopje" ;
+    cim:Names.name "4058024550136",
+        "RE_ENERGY_MK",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:33X876245923825U" ;
+    schema1:vatID "4058024550136" ;
+    skos:altLabel "RE_ENERGY_MK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Respect Energy DOOEL Skopje" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

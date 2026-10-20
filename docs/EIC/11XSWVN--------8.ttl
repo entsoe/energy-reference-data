@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWVN--------8" ;
     cim:IdentifiedObject.name "StadtwerkeVerbund Westlicher Niederrhein GmbH" ;
-    cim:Names.name "Balance Group",
-        "SWVN" ;
+    cim:Names.name "SWVN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWVN--------8" ;
     skos:altLabel "SWVN" ;
     skos:definition "Balance Group"@en ;

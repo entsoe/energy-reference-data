@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000438E" ;
     cim:IdentifiedObject.name "N 132 Kvandal-Kvitnes" ;
     cim:Names.name "Internal Line",
-        "NO-KVANDALKVITNE" ;
+        "NO-132KVANDALKVI" ;
     dcterms:identifier "urn:eic:50TL00000000438E" ;
-    skos:altLabel "NO-KVANDALKVITNE" ;
+    skos:altLabel "NO-132KVANDALKVI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Kvandal-Kvitnes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

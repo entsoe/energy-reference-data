@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/24XBPS-HORNY-J-W",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:24XBPS-HORNY-J-W",
+    "@skos:prefLabel": "BPS Horny Jatov s.r.o.",
+    "@skos:altLabel": "BPS-H-J",
+    "@cim:IdentifiedObject.mRID": "24XBPS-HORNY-J-W",
+    "@cim:IdentifiedObject.name": "BPS Horny Jatov s.r.o.",
+    "@cim:Names.name": [
+        "BPS-H-J",
+        "SK2023852446",
+        "Energy Supplier",
+        "Energy Trader"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-09",
+    "@schema:vatID": "SK2023852446",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

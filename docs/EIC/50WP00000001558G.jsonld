@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001558G",
     "@skos:prefLabel": "Nydal",
-    "@skos:altLabel": "NO-NYDAL_PL",
+    "@skos:altLabel": "NO-NYDAL",
     "@cim:IdentifiedObject.mRID": "50WP00000001558G",
     "@cim:IdentifiedObject.name": "Nydal",
     "@cim:Names.name": [
-        "NO-NYDAL_PL",
+        "NO-NYDAL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

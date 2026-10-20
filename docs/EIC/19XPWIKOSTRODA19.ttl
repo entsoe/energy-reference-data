@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XPWIKOSTRODA19> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XPWIKOSTRODA19" ;
+    cim:IdentifiedObject.name "PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI OSTRÓDA SP. Z O.O." ;
+    cim:Names.name "PL7410003875",
+        "PWIK_OSTRODA",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19XPWIKOSTRODA19" ;
+    schema1:vatID "PL7410003875" ;
+    skos:altLabel "PWIK_OSTRODA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI OSTRÓDA SP. Z O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

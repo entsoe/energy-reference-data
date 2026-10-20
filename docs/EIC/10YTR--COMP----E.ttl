@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10YTR--COMP----E" ;
     cim:IdentifiedObject.name "Compensation area Turkey" ;
     cim:Names.name "COMP_AREA_TEIAS",
-        "Valid EIC Function needed" ;
+        "Control Area" ;
     dcterms:identifier "urn:eic:10YTR--COMP----E" ;
     skos:altLabel "COMP_AREA_TEIAS" ;
     skos:definition "Fictitious Area"@en ;

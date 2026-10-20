@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27V-EE-DEV-HUB-8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27V-EE-DEV-HUB-8" ;
+    cim:IdentifiedObject.name "ČEPS HUB-TP_DEV" ;
+    cim:Names.name "CEPS_HUB_DEV",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:27V-EE-DEV-HUB-8" ;
+    skos:altLabel "CEPS_HUB_DEV" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ČEPS HUB-TP_DEV" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

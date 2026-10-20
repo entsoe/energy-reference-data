@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_BANCDEGUE_GU1",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Modification du responsible party"
+        "@value": "Modification du responsible party\nupdate"
     },
     "@cim:IdentifiedObject.mRID": "17W0000014455651",
     "@cim:IdentifiedObject.name": "Parc du Banc de Guérande 1",
@@ -24,10 +24,10 @@
         "FR_BANCDEGUE_GU1",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Modification du responsible party",
+    "@cim:IdentifiedObject.description": "Modification du responsible party\nupdate",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-05",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

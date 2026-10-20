@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006640I",
-    "@skos:prefLabel": "Skawina-A2",
+    "@skos:prefLabel": "220/110kV Skawina AT2",
     "@skos:altLabel": "SKA-A2",
     "@cim:IdentifiedObject.mRID": "19T110000006640I",
-    "@cim:IdentifiedObject.name": "Skawina-A2",
+    "@cim:IdentifiedObject.name": "220/110kV Skawina AT2",
     "@cim:Names.name": [
         "SKA-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

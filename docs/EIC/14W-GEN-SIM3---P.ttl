@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-GEN-SIM3---P" ;
     cim:IdentifiedObject.name "Simmering 3" ;
-    cim:Names.name "SIM3" ;
+    cim:Names.name "Generation Unit",
+        "SIM3" ;
     dcterms:identifier "urn:eic:14W-GEN-SIM3---P" ;
     skos:altLabel "SIM3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

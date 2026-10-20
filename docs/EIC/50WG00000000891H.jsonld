@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000891H",
-    "@skos:prefLabel": "KROSSEN G101 HYDRO",
-    "@skos:altLabel": "NO-KROSSEN_G101_",
+    "@skos:prefLabel": "SORANI  G101 HYDRO",
+    "@skos:altLabel": "NO-SORANIG101",
     "@cim:IdentifiedObject.mRID": "50WG00000000891H",
-    "@cim:IdentifiedObject.name": "KROSSEN G101 HYDRO",
+    "@cim:IdentifiedObject.name": "SORANI  G101 HYDRO",
     "@cim:Names.name": [
-        "NO-KROSSEN_G101_",
+        "NO-SORANIG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

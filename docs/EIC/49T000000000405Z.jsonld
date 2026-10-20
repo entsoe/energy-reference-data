@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000405Z",
-    "@skos:prefLabel": "Gennep 150kV-Gennep 10kV (TR2)",
-    "@skos:altLabel": "GENN-BMR150-W",
+    "@skos:prefLabel": "Boxmeer-Gennep 150 kV Wit",
+    "@skos:altLabel": "BMR-GENN150-W",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000405Z",
-    "@cim:IdentifiedObject.name": "Gennep 150kV-Gennep 10kV (TR2)",
+    "@cim:IdentifiedObject.name": "Boxmeer-Gennep 150 kV Wit",
     "@cim:Names.name": [
-        "GENN-BMR150-W",
+        "BMR-GENN150-W",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

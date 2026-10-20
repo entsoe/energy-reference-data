@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/39XGOGREENENERGE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-09-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "39XGOGREENENERGE" ;
+    cim:IdentifiedObject.name "GO GREEN ENERGY TRADE KFT" ;
+    cim:Names.name "Balance Responsible Party",
+        "GOGREENENE",
+        "HU32004522" ;
+    dcterms:identifier "urn:eic:39XGOGREENENERGE" ;
+    schema1:vatID "HU32004522" ;
+    skos:altLabel "GOGREENENE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GO GREEN ENERGY TRADE KFT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

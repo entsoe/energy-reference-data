@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z0000000004499",
-    "@skos:prefLabel": "MEGALOPOLI PPC",
+    "@skos:prefLabel": "MEGALOPOLI (PPC)",
     "@skos:altLabel": "MEGALOPOL-PPC-GR",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Connection Point"
+        "@value": "Connection with the Final Consumer"
     },
     "@cim:IdentifiedObject.mRID": "21Z0000000004499",
-    "@cim:IdentifiedObject.name": "MEGALOPOLI PPC",
+    "@cim:IdentifiedObject.name": "MEGALOPOLI (PPC)",
     "@cim:Names.name": [
         "MEGALOPOL-PPC-GR",
-        "Connection Point"
+        "Metering Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point",
+    "@cim:IdentifiedObject.description": "Connection with the Final Consumer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-11-07",
+    "@cim:DateAndOrTime.date": "2024-07-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

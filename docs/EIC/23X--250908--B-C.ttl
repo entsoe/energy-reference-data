@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250908--B-C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Details confirmed with certificates: Certificate of Registration number: 812293207 VAT Filer: 330651837" ;
+    cim:IdentifiedObject.mRID "23X--250908--B-C" ;
+    cim:IdentifiedObject.name "BE Power SHPK" ;
+    cim:Names.name "330651837",
+        "BE_POWER_XK",
+        "Balance Responsible Party",
+        "Energy Supplier",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--250908--B-C" ;
+    schema1:vatID "330651837" ;
+    skos:altLabel "BE_POWER_XK" ;
+    skos:definition "Details confirmed with certificates: Certificate of Registration number: 812293207 VAT Filer: 330651837"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BE Power SHPK" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

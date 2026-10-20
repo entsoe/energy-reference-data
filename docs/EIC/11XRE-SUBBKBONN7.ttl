@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-01-20" ;
+    cim:DateAndOrTime.date "2024-12-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRE-SUBBKBONN7" ;
-    cim:IdentifiedObject.name "RheinEnergie - Bonn" ;
-    cim:Names.name "Balance Group",
-        "DE813798535",
-        "RHEINENERGIE-BN" ;
+    cim:IdentifiedObject.name "RheinEnergie AG" ;
+    cim:Names.name "DE215409591",
+        "RHEINENERGIE-BN",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XRE-SUBBKBONN7" ;
-    schema1:vatID "DE813798535" ;
+    schema1:vatID "DE215409591" ;
     skos:altLabel "RHEINENERGIE-BN" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "RheinEnergie - Bonn" ;
+    skos:prefLabel "RheinEnergie AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

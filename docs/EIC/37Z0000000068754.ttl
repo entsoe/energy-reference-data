@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000068754" ;
     cim:IdentifiedObject.name "NAP Schwerin Zone" ;
-    cim:Names.name "37Z0000000068754" ;
+    cim:Names.name "37Z0000000068754",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000068754" ;
     skos:altLabel "37Z0000000068754" ;
     skos:definition "Connection Point"@en ;

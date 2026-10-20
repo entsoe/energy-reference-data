@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005485O",
     "@skos:prefLabel": "S Osa      T2 Transformator",
-    "@skos:altLabel": "NO-OSA_____T2",
+    "@skos:altLabel": "NO-OSAT2",
     "@cim:IdentifiedObject.mRID": "50TT00000005485O",
     "@cim:IdentifiedObject.name": "S Osa      T2 Transformator",
     "@cim:Names.name": [
-        "NO-OSA_____T2",
+        "NO-OSAT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

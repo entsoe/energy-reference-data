@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDBENERGIESH-R" ;
     cim:IdentifiedObject.name "DB Energie GmbH - SH" ;
-    cim:Names.name "Balance Group",
-        "DBENERGIESH",
-        "DE192729381" ;
+    cim:Names.name "DBENERGIESH",
+        "DE192729381",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDBENERGIESH-R" ;
     schema1:vatID "DE192729381" ;
     skos:altLabel "DBENERGIESH" ;

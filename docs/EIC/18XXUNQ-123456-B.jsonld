@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XXUNQ-123456-B",
     "@skos:prefLabel": "Ceramica Xunqueira",
     "@skos:altLabel": "XUNQ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XXUNQ-123456-B",
     "@cim:IdentifiedObject.name": "Ceramica Xunqueira",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA32019630",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-07-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA32019630",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

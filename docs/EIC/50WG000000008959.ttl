@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000008959" ;
     cim:IdentifiedObject.name "KURASFOSG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KURASFOSG1___" ;
+        "NO-KURASFOSG1" ;
     dcterms:identifier "urn:eic:50WG000000008959" ;
-    skos:altLabel "NO-KURASFOSG1___" ;
+    skos:altLabel "NO-KURASFOSG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "KURASFOSG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

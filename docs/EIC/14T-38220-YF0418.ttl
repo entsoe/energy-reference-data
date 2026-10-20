@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-17" ;
+    cim:DateAndOrTime.date "2023-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "14T-38220-YF0418" ;
-    cim:IdentifiedObject.name "380/220kV Trafo RHU41 Ybbsfeld" ;
+    cim:IdentifiedObject.name "220/220kV Trafo PST Ybbsfeld" ;
     cim:Names.name "Transformer",
-        "YFRHU41" ;
+        "YFPST" ;
     dcterms:identifier "urn:eic:14T-38220-YF0418" ;
-    skos:altLabel "YFRHU41" ;
+    skos:altLabel "YFPST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "380/220kV Trafo RHU41 Ybbsfeld" ;
+    skos:prefLabel "220/220kV Trafo PST Ybbsfeld" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

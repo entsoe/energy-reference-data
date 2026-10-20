@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002061P" ;
     cim:IdentifiedObject.name "S 66 Rånåsfoss-T_Blaker" ;
     cim:Names.name "Internal Line",
-        "NO-RANASFOSSTBLA" ;
+        "NO-66RANASFLAKER" ;
     dcterms:identifier "urn:eic:50TL00000002061P" ;
-    skos:altLabel "NO-RANASFOSSTBLA" ;
+    skos:altLabel "NO-66RANASFLAKER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Rånåsfoss-T_Blaker" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

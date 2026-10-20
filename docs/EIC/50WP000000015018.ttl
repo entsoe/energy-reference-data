@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000015018" ;
     cim:IdentifiedObject.name "Fossane Mini-HEV" ;
-    cim:Names.name "NO-FOSSANE_M-HEV",
+    cim:Names.name "NO-FOSSANEMINI_H",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000015018" ;
-    skos:altLabel "NO-FOSSANE_M-HEV" ;
+    skos:altLabel "NO-FOSSANEMINI_H" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fossane Mini-HEV" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

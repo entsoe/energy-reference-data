@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/17X000001995225K">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:17X000001995225K</dcterms:identifier>
+    <skos:prefLabel>CGN Europe Energy</skos:prefLabel>
+    <skos:altLabel>FR_CGN_EE</skos:altLabel>
+    <skos:definition xml:lang="en">Branche de la soci&#233;t&#233; &#233;tatique de production d&#8217;&#233;lectricit&#233; national chinoise (China General Nuclear), la branche CGN EE est pr&#233;sente en Europe en tant que producteur d&#8217;&#233;lectricit&#233; verte via ses parcs &#233;oliens principalement.</skos:definition>
+    <cim:IdentifiedObject.mRID>17X000001995225K</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>CGN Europe Energy</cim:IdentifiedObject.name>
+    <cim:Names.name>FR_CGN_EE</cim:Names.name>
+    <cim:Names.name>FR30803353424</cim:Names.name>
+    <cim:IdentifiedObject.description>Branche de la soci&#233;t&#233; &#233;tatique de production d&#8217;&#233;lectricit&#233; national chinoise (China General Nuclear), la branche CGN EE est pr&#233;sente en Europe en tant que producteur d&#8217;&#233;lectricit&#233; verte via ses parcs &#233;oliens principalement.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-06-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>FR30803353424</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

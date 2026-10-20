@@ -7,16 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Control Block Operator" ;
+    cim:DateAndOrTime.date "2024-11-05" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Control Block Operator. EIC code can be deactivated. Approval by EIC Participant." ;
     cim:IdentifiedObject.mRID "10XCB-ROMANIA--Q" ;
     cim:IdentifiedObject.name "Control Block Romania Operator" ;
     cim:Names.name "CB-RO-OP",
-        "Valid EIC Function needed" ;
+        "Coordination Center Operator",
+        "NOVAT" ;
     dcterms:identifier "urn:eic:10XCB-ROMANIA--Q" ;
+    schema1:vatID "NOVAT" ;
     skos:altLabel "CB-RO-OP" ;
-    skos:definition "Control Block Operator"@en ;
+    skos:definition "Control Block Operator. EIC code can be deactivated. Approval by EIC Participant."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Control Block Romania Operator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250604-VK-G",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250604-VK-G",
+    "@skos:prefLabel": "VoltKos SH.P.K. ",
+    "@skos:altLabel": "VOLTKOS_XK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company registration number, confirmed by the Certificate of Registration from the Ministry of Industry, Entrepreneurshop and Trade of Kosovo: 812270817\nVAT number confirmed by the Tax Administration of Kosovo: 330647539\n"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250604-VK-G",
+    "@cim:IdentifiedObject.name": "VoltKos SH.P.K. ",
+    "@cim:Names.name": [
+        "VOLTKOS_XK",
+        "330647539",
+        "Balance Responsible Party",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "Company registration number, confirmed by the Certificate of Registration from the Ministry of Industry, Entrepreneurshop and Trade of Kosovo: 812270817\nVAT number confirmed by the Tax Administration of Kosovo: 330647539\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-06-04",
+    "@schema:vatID": "330647539",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000004880" ;
-    cim:IdentifiedObject.name "S Kårstø   300 Industri" ;
+    cim:IdentifiedObject.name "S Kårstø   300 T5 Industri" ;
     cim:Names.name "Load",
-        "NO-KARSTO300NC" ;
+        "NO-KARSTO300T5" ;
     dcterms:identifier "urn:eic:50WC000000004880" ;
-    skos:altLabel "NO-KARSTO300NC" ;
+    skos:altLabel "NO-KARSTO300T5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Kårstø   300 Industri" ;
+    skos:prefLabel "S Kårstø   300 T5 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

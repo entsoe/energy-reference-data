@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000236W",
-    "@skos:prefLabel": "CFE - Eemshaven Oude Schip W",
+    "@skos:prefLabel": "CFE - Eemshaven Oude Schip Wit",
     "@skos:altLabel": "CFE-EOS380-W",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000236W",
-    "@cim:IdentifiedObject.name": "CFE - Eemshaven Oude Schip W",
+    "@cim:IdentifiedObject.name": "CFE - Eemshaven Oude Schip Wit",
     "@cim:Names.name": [
         "CFE-EOS380-W",
         "Internal Line"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-03",
+    "@cim:DateAndOrTime.date": "2026-05-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

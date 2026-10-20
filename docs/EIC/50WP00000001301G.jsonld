@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001301G",
     "@skos:prefLabel": "Litj-Hena",
-    "@skos:altLabel": "NO-LITJ-HENA_PL",
+    "@skos:altLabel": "NO-LITJ_HENA",
     "@cim:IdentifiedObject.mRID": "50WP00000001301G",
     "@cim:IdentifiedObject.name": "Litj-Hena",
     "@cim:Names.name": [
-        "NO-LITJ-HENA_PL",
+        "NO-LITJ_HENA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

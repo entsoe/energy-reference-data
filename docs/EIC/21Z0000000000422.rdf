@@ -4,16 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21Z0000000000422</dcterms:identifier>
-    <skos:prefLabel>Revithousa LNG</skos:prefLabel>
+    <skos:prefLabel>AGIA TRIADA</skos:prefLabel>
     <skos:altLabel>AGIATRIADA-GR</skos:altLabel>
-    <skos:definition xml:lang="en">Connection Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z0000000000422</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Revithousa LNG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>AGIA TRIADA</cim:IdentifiedObject.name>
     <cim:Names.name>AGIATRIADA-GR</cim:Names.name>
-    <cim:IdentifiedObject.description>Connection Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-08-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-07-09</cim:DateAndOrTime.date>
     <cim:Names.name>Connection Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

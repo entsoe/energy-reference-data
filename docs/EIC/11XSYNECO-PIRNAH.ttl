@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XSYNECO-PIRNAH" ;
     cim:IdentifiedObject.name "Syneco Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE219741801",
-        "PIRNA" ;
+    cim:Names.name "DE219741801",
+        "PIRNA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSYNECO-PIRNAH" ;
     schema1:vatID "DE219741801" ;
     skos:altLabel "PIRNA" ;

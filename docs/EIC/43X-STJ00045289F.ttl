@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00045289F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00045289F" ;
+    cim:IdentifiedObject.name "A.M.L. SIA" ;
+    cim:Names.name "LV42803005352",
+        "Producer",
+        "Production Responsible Party",
+        "STJ00045289F" ;
+    dcterms:identifier "urn:eic:43X-STJ00045289F" ;
+    schema1:vatID "LV42803005352" ;
+    skos:altLabel "STJ00045289F" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "A.M.L. SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

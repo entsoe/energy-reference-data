@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XUDDC-123456-N",
     "@skos:prefLabel": "Universidade Da Coruña",
     "@skos:altLabel": "UDDC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XUDDC-123456-N",
     "@cim:IdentifiedObject.name": "Universidade Da Coruña",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESQ6550005J",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-11-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESQ6550005J",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

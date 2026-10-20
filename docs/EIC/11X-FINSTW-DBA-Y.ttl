@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-FINSTW-DBA-Y" ;
     cim:IdentifiedObject.name "Stadtwerke Finsterwalde GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE138898955",
-        "FINSTW-DBA" ;
+    cim:Names.name "DE138898955",
+        "FINSTW-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-FINSTW-DBA-Y" ;
     schema1:vatID "DE138898955" ;
     skos:altLabel "FINSTW-DBA" ;

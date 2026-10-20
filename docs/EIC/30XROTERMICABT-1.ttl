@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROTERMICABT-1" ;
     cim:IdentifiedObject.name "SC TERMICA SA BOTOSANI" ;
-    cim:Names.name "TERMICABT",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "RO12918330",
+        "TERMICABT" ;
     dcterms:identifier "urn:eic:30XROTERMICABT-1" ;
+    schema1:vatID "RO12918330" ;
     skos:altLabel "TERMICABT" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -7,18 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-03-15" ;
+    cim:DateAndOrTime.date "2026-08-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X0303858024104" ;
-    cim:IdentifiedObject.name "EUSEBIO ENERGIA S.R.L." ;
-    cim:Names.name "A0011404E.IT",
-        "IT-EUSEBIOENERGI",
+    cim:IdentifiedObject.name "ASCO POWER" ;
+    cim:Names.name "IT-ASCOPOWERSPA",
         "IT03038580241",
         "Producer" ;
     dcterms:identifier "urn:eic:26X0303858024104" ;
     schema1:vatID "IT03038580241" ;
-    skos:altLabel "IT-EUSEBIOENERGI" ;
+    skos:altLabel "IT-ASCOPOWERSPA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EUSEBIO ENERGIA S.R.L." ;
+    skos:prefLabel "ASCO POWER" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

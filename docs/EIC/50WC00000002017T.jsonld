@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002017T",
-    "@skos:prefLabel": "Sør-Norge Aluminium Hall A",
-    "@skos:altLabel": "NO-SORALUHALLA",
+    "@skos:prefLabel": "S Håvik    2   1L1 Forbruk",
+    "@skos:altLabel": "NO-HAVIK2",
     "@cim:IdentifiedObject.mRID": "50WC00000002017T",
-    "@cim:IdentifiedObject.name": "Sør-Norge Aluminium Hall A",
+    "@cim:IdentifiedObject.name": "S Håvik    2   1L1 Forbruk",
     "@cim:Names.name": [
-        "NO-SORALUHALLA",
+        "NO-HAVIK2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

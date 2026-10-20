@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001272Y" ;
     cim:IdentifiedObject.name "Grønhaug" ;
-    cim:Names.name "NO-GRONHAUG_PL",
+    cim:Names.name "NO-GROENHAUG",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001272Y" ;
-    skos:altLabel "NO-GRONHAUG_PL" ;
+    skos:altLabel "NO-GROENHAUG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Grønhaug" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

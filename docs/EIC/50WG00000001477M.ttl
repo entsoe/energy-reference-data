@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001477M" ;
     cim:IdentifiedObject.name "SIMA    G4      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SIMA____G4___" ;
+        "NO-SIMAG4" ;
     dcterms:identifier "urn:eic:50WG00000001477M" ;
-    skos:altLabel "NO-SIMA____G4___" ;
+    skos:altLabel "NO-SIMAG4" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SIMA    G4      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

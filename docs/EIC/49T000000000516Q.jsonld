@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000516Q",
-    "@skos:prefLabel": "Rotterdam Waalhaven 150kV ODL150 Z",
+    "@skos:prefLabel": "Rotterdam Waalhaven - Oudeland 150 Zwart",
     "@skos:altLabel": "RTW-ODL150-Z",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000516Q",
-    "@cim:IdentifiedObject.name": "Rotterdam Waalhaven 150kV ODL150 Z",
+    "@cim:IdentifiedObject.name": "Rotterdam Waalhaven - Oudeland 150 Zwart",
     "@cim:Names.name": [
         "RTW-ODL150-Z",
         "Internal Line"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-05-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

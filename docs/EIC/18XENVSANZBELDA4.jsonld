@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XENVSANZBELDA4",
     "@skos:prefLabel": "ENVASES SANZ BELDA",
     "@skos:altLabel": "ESABE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XENVSANZBELDA4",
     "@cim:IdentifiedObject.name": "ENVASES SANZ BELDA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB97793665",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-01-23",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB97793665",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

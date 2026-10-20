@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WKAPSAIIILEVCC",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WKAPSAIIILEVCC",
+    "@skos:prefLabel": "Kapsai II saulės parkas (Evecon)",
+    "@skos:altLabel": "KAPSAI2",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB „Evecon“ 305925732 LT100014503016 +370 620 79563 info@evecon.lt 36273491 - Kapsai II saulės parkas Marijampolės r. sav., Liudvinavo sen., Narto k. Balansavimo paslaugų teikimas"
+    },
+    "@cim:IdentifiedObject.mRID": "41WKAPSAIIILEVCC",
+    "@cim:IdentifiedObject.name": "Kapsai II saulės parkas (Evecon)",
+    "@cim:Names.name": [
+        "KAPSAI2",
+        "Generation"
+    ],
+    "@cim:IdentifiedObject.description": "UAB „Evecon“ 305925732 LT100014503016 +370 620 79563 info@evecon.lt 36273491 - Kapsai II saulės parkas Marijampolės r. sav., Liudvinavo sen., Narto k. Balansavimo paslaugų teikimas",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-08-07",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

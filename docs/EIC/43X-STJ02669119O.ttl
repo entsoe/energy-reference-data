@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ02669119O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ02669119O" ;
+    cim:IdentifiedObject.name "Montego Solutions SIA " ;
+    cim:Names.name "43X-J0266911",
+        "Consumer",
+        "LV40203521533" ;
+    dcterms:identifier "urn:eic:43X-STJ02669119O" ;
+    schema1:vatID "LV40203521533" ;
+    skos:altLabel "43X-J0266911" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Montego Solutions SIA " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

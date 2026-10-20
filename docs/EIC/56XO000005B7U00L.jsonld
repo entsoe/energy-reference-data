@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/56XO000005B7U00L",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:56XO000005B7U00L",
+    "@skos:prefLabel": "PRIVATNE AKTSIONERNE TOVARISTVO POLTAVSKIY GZK",
+    "@skos:altLabel": "PRAT_POLTAVA_GZK",
+    "@cim:IdentifiedObject.mRID": "56XO000005B7U00L",
+    "@cim:IdentifiedObject.name": "PRIVATNE AKTSIONERNE TOVARISTVO POLTAVSKIY GZK",
+    "@cim:Names.name": [
+        "PRAT_POLTAVA_GZK",
+        "001912816023",
+        "Consumer",
+        "Network User"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-09-04",
+    "@schema:vatID": "001912816023",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

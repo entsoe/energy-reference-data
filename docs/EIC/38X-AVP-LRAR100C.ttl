@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/38X-AVP-LRAR100C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "38X-AVP-LRAR100C" ;
+    cim:IdentifiedObject.name "GRIDIS OÜ" ;
+    cim:Names.name "Balance Responsible Party",
+        "EE103018436",
+        "EE_GRIDIS" ;
+    dcterms:identifier "urn:eic:38X-AVP-LRAR100C" ;
+    schema1:vatID "EE103018436" ;
+    skos:altLabel "EE_GRIDIS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GRIDIS OÜ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

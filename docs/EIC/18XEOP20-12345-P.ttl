@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-11-07" ;
+    cim:DateAndOrTime.date "2026-10-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XEOP20-12345-P" ;
     cim:IdentifiedObject.name "ENERGIA OPERATIVA S.L." ;
     cim:Names.name "EOP20",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XEOP20-12345-P" ;
     schema1:vatID "ESB66115338" ;
     skos:altLabel "EOP20" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ENERGIA OPERATIVA S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

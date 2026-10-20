@@ -10,12 +10,14 @@
     <cim:IdentifiedObject.mRID>64XNAVITASEN-F4P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S.R.L. "Navitas Energy"</cim:IdentifiedObject.name>
     <cim:Names.name>NAVITASEN_F</cim:Names.name>
+    <cim:Names.name>NA36</cim:Names.name>
     <cim:IdentifiedObject.description>S.R.L. ''Navitas Energy'' has no EU VAT code. Registration number (IDNO) - 1020600042991 Licence - AC nr. 001504; issued by ANRE on 24/12/2020</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-16</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NA36</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

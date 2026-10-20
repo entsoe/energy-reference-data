@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/29X100010001016W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "29X100010001016W" ;
+    cim:IdentifiedObject.name "ZEPHIROS ENERGY TRADING Α.Ε." ;
+    cim:Names.name "A0022614D.GR",
+        "Balance Responsible Party",
+        "Balancing Service Provider",
+        "EL802457520",
+        "ZTRADING" ;
+    dcterms:identifier "urn:eic:29X100010001016W" ;
+    schema1:vatID "EL802457520" ;
+    skos:altLabel "ZTRADING" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ZEPHIROS ENERGY TRADING Α.Ε." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-01-24" ;
+    cim:DateAndOrTime.date "2024-05-07" ;
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRESI-NETZ-VEI" ;
     cim:IdentifiedObject.name "TenneT TSO GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE815073514",
+    cim:Names.name "815073514",
+        "Balance Responsible Party",
         "NETZ-VELTH-RESI" ;
     dcterms:identifier "urn:eic:11XRESI-NETZ-VEI" ;
-    schema1:vatID "DE815073514" ;
+    schema1:vatID "815073514" ;
     skos:altLabel "NETZ-VELTH-RESI" ;
     skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XRAMI-123456-D",
     "@skos:prefLabel": "Ramilo S.A.U",
     "@skos:altLabel": "RAMI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XRAMI-123456-D",
     "@cim:IdentifiedObject.name": "Ramilo S.A.U",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB36602878",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-10",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB36602878",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

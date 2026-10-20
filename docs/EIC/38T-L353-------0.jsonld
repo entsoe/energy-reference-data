@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38T-L353-------0",
-    "@skos:prefLabel": "Tsirguliina-Viru",
-    "@skos:altLabel": "L353_TSIRGU_VIRU",
+    "@skos:prefLabel": "Mustvee-Tsirguliina",
+    "@skos:altLabel": "L353_MUSTVEE-TSI",
     "@cim:IdentifiedObject.mRID": "38T-L353-------0",
-    "@cim:IdentifiedObject.name": "Tsirguliina-Viru",
+    "@cim:IdentifiedObject.name": "Mustvee-Tsirguliina",
     "@cim:Names.name": [
-        "L353_TSIRGU_VIRU",
+        "L353_MUSTVEE-TSI",
         "Internal Tie-Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-17",
+    "@cim:DateAndOrTime.date": "2026-03-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

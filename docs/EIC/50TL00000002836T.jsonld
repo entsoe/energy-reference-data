@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002836T",
-    "@skos:prefLabel": "M 66 Holandsvika-Drevvatn",
-    "@skos:altLabel": "NO-HOLANDDREVVAT",
+    "@skos:prefLabel": "N 66 Holandsvika-Drevvatn",
+    "@skos:altLabel": "NO-66HOLANDVVATN",
     "@cim:IdentifiedObject.mRID": "50TL00000002836T",
-    "@cim:IdentifiedObject.name": "M 66 Holandsvika-Drevvatn",
+    "@cim:IdentifiedObject.name": "N 66 Holandsvika-Drevvatn",
     "@cim:Names.name": [
-        "NO-HOLANDDREVVAT",
+        "NO-66HOLANDVVATN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

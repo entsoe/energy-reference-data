@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000306W",
-    "@skos:prefLabel": "M Brattset 132 RT4 Forbruk",
+    "@skos:prefLabel": "N Brattset 132 RT4 Forbruk",
     "@skos:altLabel": "NO-BRATTSET132",
     "@cim:IdentifiedObject.mRID": "50WC00000000306W",
-    "@cim:IdentifiedObject.name": "M Brattset 132 RT4 Forbruk",
+    "@cim:IdentifiedObject.name": "N Brattset 132 RT4 Forbruk",
     "@cim:Names.name": [
         "NO-BRATTSET132",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

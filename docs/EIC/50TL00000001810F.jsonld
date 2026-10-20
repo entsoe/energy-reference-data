@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001810F",
-    "@skos:prefLabel": "M 66 Håheim-Ulstein",
-    "@skos:altLabel": "NO-HAHEIMULSTEIN",
+    "@skos:prefLabel": "N 66 Håheim-Ulstein",
+    "@skos:altLabel": "NO-66HAHEIMULSTE",
     "@cim:IdentifiedObject.mRID": "50TL00000001810F",
-    "@cim:IdentifiedObject.name": "M 66 Håheim-Ulstein",
+    "@cim:IdentifiedObject.name": "N 66 Håheim-Ulstein",
     "@cim:Names.name": [
-        "NO-HAHEIMULSTEIN",
+        "NO-66HAHEIMULSTE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

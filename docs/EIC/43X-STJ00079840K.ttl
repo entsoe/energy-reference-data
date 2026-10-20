@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43X-STJ00079840K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43X-STJ00079840K" ;
+    cim:IdentifiedObject.name "LIEPĀJAS ENERĢIJA SIA" ;
+    cim:Names.name "Balance Responsible Party",
+        "LV42103035386",
+        "STJ00079840K" ;
+    dcterms:identifier "urn:eic:43X-STJ00079840K" ;
+    schema1:vatID "LV42103035386" ;
+    skos:altLabel "STJ00079840K" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LIEPĀJAS ENERĢIJA SIA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

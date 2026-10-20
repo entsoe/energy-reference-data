@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNEXTMP------E" ;
     cim:IdentifiedObject.name "Next Kraftwerke GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE269673651",
-        "NEXT-MP" ;
+    cim:Names.name "DE269673651",
+        "NEXT-MP",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNEXTMP------E" ;
     schema1:vatID "DE269673651" ;
     skos:altLabel "NEXT-MP" ;

@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-25" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000001254U" ;
     cim:IdentifiedObject.name "Szolnok - Szeged" ;
-    cim:Names.name "MSZOL-MSZEG",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MSZOL-MSZEG" ;
     dcterms:identifier "urn:eic:15T-M0000001254U" ;
     skos:altLabel "MSZOL-MSZEG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

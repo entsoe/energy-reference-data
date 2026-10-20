@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000017024",
-    "@skos:prefLabel": "STOKKELAG144 HYDRO",
-    "@skos:altLabel": "NO-STOKKELAG144_",
+    "@skos:prefLabel": "VAGLE   G144 HYDRO",
+    "@skos:altLabel": "NO-VAGLEG144",
     "@cim:IdentifiedObject.mRID": "50WG000000017024",
-    "@cim:IdentifiedObject.name": "STOKKELAG144 HYDRO",
+    "@cim:IdentifiedObject.name": "VAGLE   G144 HYDRO",
     "@cim:Names.name": [
-        "NO-STOKKELAG144_",
+        "NO-VAGLEG144",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-06-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

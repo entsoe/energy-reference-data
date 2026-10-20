@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-12-04" ;
+    cim:DateAndOrTime.date "2026-01-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XREPQ-12345-0J" ;
-    cim:IdentifiedObject.name "REPSOL QUÍMICA, S.A." ;
-    cim:Names.name "Consumption Responsible Party",
-        "ESA28122992",
-        "Producer",
-        "Production Responsible party",
+    cim:IdentifiedObject.name "REPSOL MATERIALS, S.A." ;
+    cim:Names.name "ESA28122992",
+        "Production Responsible Party",
         "REPQ" ;
     dcterms:identifier "urn:eic:18XREPQ-12345-0J" ;
     schema1:vatID "ESA28122992" ;
     skos:altLabel "REPQ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "REPSOL QUÍMICA, S.A." ;
+    skos:prefLabel "REPSOL MATERIALS, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

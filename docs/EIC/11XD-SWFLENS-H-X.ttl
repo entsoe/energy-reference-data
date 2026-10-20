@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XD-SWFLENS-H-X" ;
     cim:IdentifiedObject.name "Stadtwerke Flensburg GmbH - Handel" ;
-    cim:Names.name "Balance Group",
-        "DE134645304",
-        "SWFLENSBURG_H" ;
+    cim:Names.name "DE134645304",
+        "SWFLENSBURG_H",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XD-SWFLENS-H-X" ;
     schema1:vatID "DE134645304" ;
     skos:altLabel "SWFLENSBURG_H" ;

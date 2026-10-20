@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFOUNDATION--6" ;
     cim:IdentifiedObject.name "FOUNDATION ENERGY LIMITED" ;
-    cim:Names.name "Balance Group",
-        "FOUNDATION",
-        "GB805611749" ;
+    cim:Names.name "FOUNDATION",
+        "GB805611749",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFOUNDATION--6" ;
     schema1:vatID "GB805611749" ;
     skos:altLabel "FOUNDATION" ;

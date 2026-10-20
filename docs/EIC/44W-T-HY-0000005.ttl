@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-06" ;
+    cim:DateAndOrTime.date "2024-06-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Production Plant" ;
     cim:IdentifiedObject.mRID "44W-T-HY-0000005" ;
     cim:IdentifiedObject.name "Aga Oy HYCO Porvoo" ;
     cim:Names.name "44AGAHYCOPORVOO",
-        "Production Plant" ;
+        "Generation Unit" ;
     dcterms:identifier "urn:eic:44W-T-HY-0000005" ;
     skos:altLabel "44AGAHYCOPORVOO" ;
     skos:definition "Production Plant"@en ;

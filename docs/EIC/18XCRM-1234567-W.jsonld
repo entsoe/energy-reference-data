@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCRM-1234567-W",
     "@skos:prefLabel": "COMUNIDAD DE REGANTES DE MAZARRON",
     "@skos:altLabel": "CRM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCRM-1234567-W",
     "@cim:IdentifiedObject.name": "COMUNIDAD DE REGANTES DE MAZARRON",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG30301121",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-05-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG30301121",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

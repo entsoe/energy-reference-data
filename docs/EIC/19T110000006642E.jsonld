@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006642E",
-    "@skos:prefLabel": "Słupsk-A2",
+    "@skos:prefLabel": "400/110kV Slupsk AT2",
     "@skos:altLabel": "SLK-A2",
     "@cim:IdentifiedObject.mRID": "19T110000006642E",
-    "@cim:IdentifiedObject.name": "Słupsk-A2",
+    "@cim:IdentifiedObject.name": "400/110kV Slupsk AT2",
     "@cim:Names.name": [
         "SLK-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

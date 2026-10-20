@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSTWDAG-HBK019</dcterms:identifier>
     <skos:prefLabel>Stadtwerke D&#252;sseldorf AG</skos:prefLabel>
     <skos:altLabel>SWDUESSELDORF</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSTWDAG-HBK019</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke D&#252;sseldorf AG</cim:IdentifiedObject.name>
     <cim:Names.name>SWDUESSELDORF</cim:Names.name>
     <cim:Names.name>DE811365006</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811365006</schema:vatID>
   </skos:Concept>

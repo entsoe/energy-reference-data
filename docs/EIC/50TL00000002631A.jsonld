@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002631A",
-    "@skos:prefLabel": "S Frogner 66 T31 Kabel",
+    "@skos:prefLabel": "S Frogner  66  T31 Kabel",
     "@skos:altLabel": "NO-FROGNER66T31",
     "@cim:IdentifiedObject.mRID": "50TL00000002631A",
-    "@cim:IdentifiedObject.name": "S Frogner 66 T31 Kabel",
+    "@cim:IdentifiedObject.name": "S Frogner  66  T31 Kabel",
     "@cim:Names.name": [
         "NO-FROGNER66T31",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

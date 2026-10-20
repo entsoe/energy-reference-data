@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WCI00000021985",
     "@skos:prefLabel": "S Martin L 100 L1 Industri",
-    "@skos:altLabel": "NO-MARTIN100L1NC",
+    "@skos:altLabel": "NO-MARTIN_L100L1",
     "@cim:IdentifiedObject.mRID": "50WCI00000021985",
     "@cim:IdentifiedObject.name": "S Martin L 100 L1 Industri",
     "@cim:Names.name": [
-        "NO-MARTIN100L1NC",
+        "NO-MARTIN_L100L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

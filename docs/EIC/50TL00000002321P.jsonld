@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002321P",
-    "@skos:prefLabel": "S 6 Staffi-Blåfal.3",
-    "@skos:altLabel": "NO-STAFFIBLAFALL",
+    "@skos:prefLabel": "S 6 Staffi-Opstveit",
+    "@skos:altLabel": "NO-6STAFFIOPSTVE",
     "@cim:IdentifiedObject.mRID": "50TL00000002321P",
-    "@cim:IdentifiedObject.name": "S 6 Staffi-Blåfal.3",
+    "@cim:IdentifiedObject.name": "S 6 Staffi-Opstveit",
     "@cim:Names.name": [
-        "NO-STAFFIBLAFALL",
+        "NO-6STAFFIOPSTVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

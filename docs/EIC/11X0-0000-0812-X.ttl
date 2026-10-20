@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0812-X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0812-X" ;
+    cim:IdentifiedObject.name "Bad Honnef Aktiengesellschaft" ;
+    cim:Names.name "BHAG",
+        "Balance Responsible Party",
+        "DE123398439" ;
+    dcterms:identifier "urn:eic:11X0-0000-0812-X" ;
+    schema1:vatID "DE123398439" ;
+    skos:altLabel "BHAG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bad Honnef Aktiengesellschaft" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

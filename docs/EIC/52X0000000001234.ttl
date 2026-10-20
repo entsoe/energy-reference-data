@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/52X0000000001234> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "System Operator" ;
+    cim:IdentifiedObject.mRID "52X0000000001234" ;
+    cim:IdentifiedObject.name "Tenaz Energy Offshore B.V." ;
+    cim:Names.name "NL865693791B01",
+        "System Operator",
+        "TENAZ_ENERGY_BV" ;
+    dcterms:identifier "urn:eic:52X0000000001234" ;
+    schema1:vatID "NL865693791B01" ;
+    skos:altLabel "TENAZ_ENERGY_BV" ;
+    skos:definition "System Operator"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Tenaz Energy Offshore B.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

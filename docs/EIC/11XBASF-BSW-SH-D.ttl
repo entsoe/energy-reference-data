@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-30" ;
+    cim:DateAndOrTime.date "2026-01-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XBASF-BSW-SH-D" ;
-    cim:IdentifiedObject.name "BASF Schwarzheide GmbH" ;
+    cim:IdentifiedObject.name "BASF InfraService & Solutions Lausitz GmbH" ;
     cim:Names.name "BSW",
         "Balance Responsible Party",
-        "DE811122744" ;
+        "DE813771702" ;
     dcterms:identifier "urn:eic:11XBASF-BSW-SH-D" ;
-    schema1:vatID "DE811122744" ;
+    schema1:vatID "DE813771702" ;
     skos:altLabel "BSW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BASF Schwarzheide GmbH" ;
+    skos:prefLabel "BASF InfraService & Solutions Lausitz GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

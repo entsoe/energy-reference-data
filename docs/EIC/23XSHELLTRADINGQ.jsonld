@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Shell Trading International Ltd",
     "@cim:Names.name": [
         "SHELLTRADING",
-        "Valid EIC Function needed"
+        "GB235763255",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-12-22",
+    "@schema:vatID": "GB235763255",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

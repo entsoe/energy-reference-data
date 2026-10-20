@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002752Z" ;
-    cim:IdentifiedObject.name "S 22 Stakaldefossen-Gjesdal" ;
+    cim:IdentifiedObject.name "N 22 Stakaldefossen-Gjesdal" ;
     cim:Names.name "Internal Line",
-        "NO-STAKALDEFGJES" ;
+        "NO-22STAKALESDAL" ;
     dcterms:identifier "urn:eic:50TL00000002752Z" ;
-    skos:altLabel "NO-STAKALDEFGJES" ;
+    skos:altLabel "NO-22STAKALESDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Stakaldefossen-Gjesdal" ;
+    skos:prefLabel "N 22 Stakaldefossen-Gjesdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

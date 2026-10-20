@@ -12,14 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:63Z2183181399744",
-    "@skos:prefLabel": "SERENE ATLANTIQUE ",
+    "@skos:prefLabel": "SERENE ATLANTIQUE",
     "@skos:altLabel": "FRG_ATLANTIQUE",
     "@cim:IdentifiedObject.mRID": "63Z2183181399744",
-    "@cim:IdentifiedObject.name": "SERENE ATLANTIQUE ",
-    "@cim:Names.name": "FRG_ATLANTIQUE",
+    "@cim:IdentifiedObject.name": "SERENE ATLANTIQUE",
+    "@cim:Names.name": [
+        "FRG_ATLANTIQUE",
+        "Connection Point"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-05-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

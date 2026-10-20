@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003164A" ;
-    cim:IdentifiedObject.name "M 300 Trofors-Marka" ;
+    cim:IdentifiedObject.name "N 300 Trofors-Marka" ;
     cim:Names.name "Internal Line",
-        "NO-TROFORSMARKA" ;
+        "NO-300TROFORSMAR" ;
     dcterms:identifier "urn:eic:50TL00000003164A" ;
-    skos:altLabel "NO-TROFORSMARKA" ;
+    skos:altLabel "NO-300TROFORSMAR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 300 Trofors-Marka" ;
+    skos:prefLabel "N 300 Trofors-Marka" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

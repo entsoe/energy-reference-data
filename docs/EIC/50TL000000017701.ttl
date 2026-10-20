@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000017701" ;
     cim:IdentifiedObject.name "S 66 Frogner-Lystad" ;
     cim:Names.name "Internal Line",
-        "NO-FROGNERLYSTAD" ;
+        "NO-66FROGNERLYST" ;
     dcterms:identifier "urn:eic:50TL000000017701" ;
-    skos:altLabel "NO-FROGNERLYSTAD" ;
+    skos:altLabel "NO-66FROGNERLYST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Frogner-Lystad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

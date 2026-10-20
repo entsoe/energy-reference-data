@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000002385265P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "update function to BESS" ;
+    cim:IdentifiedObject.mRID "17W000002385265P" ;
+    cim:IdentifiedObject.name "CERNAY" ;
+    cim:Names.name "BESS",
+        "FR_SSLAIS01" ;
+    dcterms:identifier "urn:eic:17W000002385265P" ;
+    skos:altLabel "FR_SSLAIS01" ;
+    skos:definition "update function to BESS"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CERNAY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

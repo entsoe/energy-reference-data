@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000015220",
     "@skos:prefLabel": "Dalelva",
-    "@skos:altLabel": "NO-DALELVA_PL",
+    "@skos:altLabel": "NO-DALELVA",
     "@cim:IdentifiedObject.mRID": "50WP000000015220",
     "@cim:IdentifiedObject.name": "Dalelva",
     "@cim:Names.name": [
-        "NO-DALELVA_PL",
+        "NO-DALELVA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

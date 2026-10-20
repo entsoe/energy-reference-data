@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000059935",
     "@skos:prefLabel": "S Ulven    T1 Transformator",
-    "@skos:altLabel": "NO-ULVEN___T1",
+    "@skos:altLabel": "NO-ULVENT1",
     "@cim:IdentifiedObject.mRID": "50TT000000059935",
     "@cim:IdentifiedObject.name": "S Ulven    T1 Transformator",
     "@cim:Names.name": [
-        "NO-ULVEN___T1",
+        "NO-ULVENT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

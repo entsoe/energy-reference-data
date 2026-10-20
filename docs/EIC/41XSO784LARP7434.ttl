@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XSO784LARP7434> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Solar P7, UAB   306438784   LT100016738315   Raudondvario pl. 131B-9, Kaunas    Rolandas Šimoliūnas   +37069800822   Solarp7@acme.lt   " ;
+    cim:IdentifiedObject.mRID "41XSO784LARP7434" ;
+    cim:IdentifiedObject.name "Solar P7, UAB" ;
+    cim:Names.name "LT100016738315",
+        "Producer",
+        "SOLARP7" ;
+    dcterms:identifier "urn:eic:41XSO784LARP7434" ;
+    schema1:vatID "LT100016738315" ;
+    skos:altLabel "SOLARP7" ;
+    skos:definition "Solar P7, UAB   306438784   LT100016738315   Raudondvario pl. 131B-9, Kaunas    Rolandas Šimoliūnas   +37069800822   Solarp7@acme.lt   "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Solar P7, UAB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

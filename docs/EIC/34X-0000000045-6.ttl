@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-07-09" ;
+    cim:DateAndOrTime.date "2024-03-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsibleparty" ;
     cim:IdentifiedObject.mRID "34X-0000000045-6" ;
-    cim:IdentifiedObject.name "ENEKO ENERGY d.o.o." ;
+    cim:IdentifiedObject.name "FORTIS Power Commodities  d.o.o." ;
     cim:Names.name "106888231",
         "ENKO",
         "Trade Responsible Party" ;
@@ -20,6 +20,6 @@
     skos:altLabel "ENKO" ;
     skos:definition "Trade Responsibleparty"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENEKO ENERGY d.o.o." ;
+    skos:prefLabel "FORTIS Power Commodities  d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

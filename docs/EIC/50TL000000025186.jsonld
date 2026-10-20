@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000025186",
-    "@skos:prefLabel": "M Støren 66 L2_X",
-    "@skos:altLabel": "NO-STOREN66L2X",
+    "@skos:prefLabel": "N Støren   66  L2_X",
+    "@skos:altLabel": "NO-STOREN66L2_X",
     "@cim:IdentifiedObject.mRID": "50TL000000025186",
-    "@cim:IdentifiedObject.name": "M Støren 66 L2_X",
+    "@cim:IdentifiedObject.name": "N Støren   66  L2_X",
     "@cim:Names.name": [
-        "NO-STOREN66L2X",
+        "NO-STOREN66L2_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

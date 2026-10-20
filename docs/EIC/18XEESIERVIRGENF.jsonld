@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XEESIERVIRGENF",
-    "@skos:prefLabel": "EXPLOTACIONES EÓLICAS SIERRA LA VIRGEN, S.A.",
+    "@skos:prefLabel": "EXPLOTACIONES EOLICAS SIERRA LA VIRGEN, S.A.",
     "@skos:altLabel": "ESVIR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XEESIERVIRGENF",
-    "@cim:IdentifiedObject.name": "EXPLOTACIONES EÓLICAS SIERRA LA VIRGEN, S.A.",
+    "@cim:IdentifiedObject.name": "EXPLOTACIONES EOLICAS SIERRA LA VIRGEN, S.A.",
     "@cim:Names.name": [
         "ESVIR",
         "ESA50979269",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-10-07",
     "@schema:vatID": "ESA50979269",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

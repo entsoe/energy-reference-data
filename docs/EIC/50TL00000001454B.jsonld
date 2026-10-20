@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001454B",
-    "@skos:prefLabel": "S 47 Strupe-Brødløs2",
-    "@skos:altLabel": "NO-STRUPEBRODLO2",
+    "@skos:prefLabel": "S 47 Strupe-Brødløs",
+    "@skos:altLabel": "NO-47STRUPEBRODL",
     "@cim:IdentifiedObject.mRID": "50TL00000001454B",
-    "@cim:IdentifiedObject.name": "S 47 Strupe-Brødløs2",
+    "@cim:IdentifiedObject.name": "S 47 Strupe-Brødløs",
     "@cim:Names.name": [
-        "NO-STRUPEBRODLO2",
+        "NO-47STRUPEBRODL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

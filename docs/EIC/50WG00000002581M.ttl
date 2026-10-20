@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002581M" ;
-    cim:IdentifiedObject.name "ERTSMYRAG101 HYDRO" ;
+    cim:IdentifiedObject.name "HAUKLANDG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ERTSMYRAG101_" ;
+        "NO-HAUKLANDG101" ;
     dcterms:identifier "urn:eic:50WG00000002581M" ;
-    skos:altLabel "NO-ERTSMYRAG101_" ;
+    skos:altLabel "NO-HAUKLANDG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ERTSMYRAG101 HYDRO" ;
+    skos:prefLabel "HAUKLANDG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006785T",
-    "@skos:prefLabel": "Punkt Rozgałęźny XJL-Wrzosowa",
+    "@skos:prefLabel": "220kV Punkt Rozgalezny XJL-Wrzosowa",
     "@skos:altLabel": "3005A",
     "@cim:IdentifiedObject.mRID": "19T110000006785T",
-    "@cim:IdentifiedObject.name": "Punkt Rozgałęźny XJL-Wrzosowa",
+    "@cim:IdentifiedObject.name": "220kV Punkt Rozgalezny XJL-Wrzosowa",
     "@cim:Names.name": [
         "3005A",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

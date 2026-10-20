@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002953P" ;
     cim:IdentifiedObject.name "S 66 Midtfjellet-Årskog" ;
     cim:Names.name "Internal Line",
-        "NO-MIDTFJELLETAR" ;
+        "NO-66MIDTFJELLET" ;
     dcterms:identifier "urn:eic:50TL00000002953P" ;
-    skos:altLabel "NO-MIDTFJELLETAR" ;
+    skos:altLabel "NO-66MIDTFJELLET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Midtfjellet-Årskog" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

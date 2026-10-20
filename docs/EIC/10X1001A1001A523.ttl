@@ -7,13 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-12-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator" ;
     cim:IdentifiedObject.mRID "10X1001A1001A523" ;
     cim:IdentifiedObject.name "Cyprus Transmission System Operator" ;
     cim:Names.name "CY90001894D",
         "CYPRUS_TSO",
+        "Market Operator",
         "System Operator" ;
     dcterms:identifier "urn:eic:10X1001A1001A523" ;
     schema1:vatID "CY90001894D" ;

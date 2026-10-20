@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TLI00000034555> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TLI00000034555" ;
+    cim:IdentifiedObject.name "S 50 Lie-Bragernes" ;
+    cim:Names.name "Internal Line",
+        "NO-NOSOST50LIE_B" ;
+    dcterms:identifier "urn:eic:50TLI00000034555" ;
+    skos:altLabel "NO-NOSOST50LIE_B" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S 50 Lie-Bragernes" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

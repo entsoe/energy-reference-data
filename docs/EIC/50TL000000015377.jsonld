@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000015377",
     "@skos:prefLabel": "S 50 Bu-Klyve",
-    "@skos:altLabel": "NO-BUKLYVE",
+    "@skos:altLabel": "NO-50BUKLYVE",
     "@cim:IdentifiedObject.mRID": "50TL000000015377",
     "@cim:IdentifiedObject.name": "S 50 Bu-Klyve",
     "@cim:Names.name": [
-        "NO-BUKLYVE",
+        "NO-50BUKLYVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

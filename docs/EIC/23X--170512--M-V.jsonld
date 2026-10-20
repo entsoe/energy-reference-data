@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "MTSP Kosovo LLC",
     "@cim:Names.name": [
         "MTSP_KOSOVO",
+        "NA9",
         "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Certificate from Tax Administration of Kosovo VAT filer Tax number: 330165028",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-05-12",
+    "@cim:DateAndOrTime.date": "2026-10-15",
+    "@schema:vatID": "NA9",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

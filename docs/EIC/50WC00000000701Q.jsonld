@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000000701Q",
     "@skos:prefLabel": "N Sentrum  11  L1 Forbruk",
-    "@skos:altLabel": "NO-SENTRUM11",
+    "@skos:altLabel": "NO-SENTRUM11L1",
     "@cim:IdentifiedObject.mRID": "50WC00000000701Q",
     "@cim:IdentifiedObject.name": "N Sentrum  11  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-SENTRUM11",
+        "NO-SENTRUM11L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

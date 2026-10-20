@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000706F",
     "@skos:prefLabel": "S 132 T_Frogner-Meen",
-    "@skos:altLabel": "NO-TFROGNERMEEN",
+    "@skos:altLabel": "NO-132T_FROGNERM",
     "@cim:IdentifiedObject.mRID": "50TL00000000706F",
     "@cim:IdentifiedObject.name": "S 132 T_Frogner-Meen",
     "@cim:Names.name": [
-        "NO-TFROGNERMEEN",
+        "NO-132T_FROGNERM",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27X-MORAVIAGS--E",
-    "@skos:prefLabel": "Moravia Gas Storage a.s.",
+    "@skos:prefLabel": "MND Gas Storage a.s.",
     "@skos:altLabel": "MORAVIAGS",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "27X-MORAVIAGS--E",
-    "@cim:IdentifiedObject.name": "Moravia Gas Storage a.s.",
+    "@cim:IdentifiedObject.name": "MND Gas Storage a.s.",
     "@cim:Names.name": [
         "MORAVIAGS",
         "CZ28506065",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-10-01",
+    "@cim:DateAndOrTime.date": "2024-07-16",
     "@schema:vatID": "CZ28506065",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

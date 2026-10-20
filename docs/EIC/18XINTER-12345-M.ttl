@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-11-03" ;
+    cim:DateAndOrTime.date "2026-08-31" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XINTER-12345-M" ;
-    cim:IdentifiedObject.name "Internaica, S.L." ;
+    cim:IdentifiedObject.name "INTERNAICA, S.L." ;
     cim:Names.name "ESB60356102",
         "INTER",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XINTER-12345-M" ;
     schema1:vatID "ESB60356102" ;
     skos:altLabel "INTER" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Internaica, S.L." ;
+    skos:prefLabel "INTERNAICA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

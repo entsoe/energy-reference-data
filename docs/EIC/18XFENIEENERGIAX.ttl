@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-01" ;
+    cim:DateAndOrTime.date "2026-10-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XFENIEENERGIAX" ;
-    cim:IdentifiedObject.name "FENIE ENERGIA" ;
+    cim:IdentifiedObject.name "FENIE ENERGIA, S.A." ;
     cim:Names.name "ESA85908036",
         "FEN",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESA85908036" ;
     skos:altLabel "FEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FENIE ENERGIA" ;
+    skos:prefLabel "FENIE ENERGIA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

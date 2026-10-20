@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party Market Operator" ;
     cim:IdentifiedObject.mRID "23X--130302DLG-S" ;
     cim:IdentifiedObject.name "DLG Service A/S" ;
     cim:Names.name "DK16181528",
         "DLG_SERVICE",
-        "Valid EIC Function needed" ;
+        "Market Operator",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--130302DLG-S" ;
     schema1:vatID "DK16181528" ;
     skos:altLabel "DLG_SERVICE" ;

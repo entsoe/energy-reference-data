@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11X-SWK-NETZ---H</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Konstanz GmbH</skos:prefLabel>
     <skos:altLabel>SWK</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11X-SWK-NETZ---H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Konstanz GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWK</cim:Names.name>
     <cim:Names.name>DE212144696</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-03-30</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE212144696</schema:vatID>
   </skos:Concept>

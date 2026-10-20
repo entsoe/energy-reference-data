@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000040W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000040W" ;
+    cim:IdentifiedObject.name "Sunfarm 2 spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "PL6793213750",
+        "Producer",
+        "SUNFARM2" ;
+    dcterms:identifier "urn:eic:19X111100000040W" ;
+    schema1:vatID "PL6793213750" ;
+    skos:altLabel "SUNFARM2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sunfarm 2 spółka z ograniczoną odpowiedzialnością" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

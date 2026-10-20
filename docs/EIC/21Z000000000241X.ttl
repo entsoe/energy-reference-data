@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "21Z000000000241X" ;
     cim:IdentifiedObject.name "OGT / Nord Stream - Greifswald Opal" ;
-    cim:Names.name "GREIFSWALD-OPAL",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "GREIFSWALD-OPAL" ;
     dcterms:identifier "urn:eic:21Z000000000241X" ;
     skos:altLabel "GREIFSWALD-OPAL" ;
     skos:definition "Connection Point"@en ;

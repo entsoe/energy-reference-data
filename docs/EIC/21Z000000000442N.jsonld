@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000442N",
-    "@skos:prefLabel": "ALOUMINION",
-    "@skos:altLabel": "ALOUMINION-GR",
+    "@skos:prefLabel": "ALOYMINION",
+    "@skos:altLabel": "ALOYMINION-GR",
     "@cim:IdentifiedObject.mRID": "21Z000000000442N",
-    "@cim:IdentifiedObject.name": "ALOUMINION",
+    "@cim:IdentifiedObject.name": "ALOYMINION",
     "@cim:Names.name": [
-        "ALOUMINION-GR",
-        "Connection Point"
+        "ALOYMINION-GR",
+        "Metering Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-02",
+    "@cim:DateAndOrTime.date": "2024-07-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

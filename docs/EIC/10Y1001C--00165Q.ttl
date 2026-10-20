@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Y1001C--00165Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "The new EIC code is requested to identify the region covered by CE CCR including its external borders that are using AHC." ;
+    cim:IdentifiedObject.mRID "10Y1001C--00165Q" ;
+    cim:IdentifiedObject.name "CCR Central Europe area incl borders using Advanced Hybrid Coupling" ;
+    cim:Names.name "CCR-CE_AHC",
+        "Scheduling Area" ;
+    dcterms:identifier "urn:eic:10Y1001C--00165Q" ;
+    skos:altLabel "CCR-CE_AHC" ;
+    skos:definition "The new EIC code is requested to identify the region covered by CE CCR including its external borders that are using AHC."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CCR Central Europe area incl borders using Advanced Hybrid Coupling" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

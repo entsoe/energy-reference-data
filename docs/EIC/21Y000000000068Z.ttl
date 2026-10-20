@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-07-04" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Connection Point To Production" ;
     cim:IdentifiedObject.mRID "21Y000000000068Z" ;
     cim:IdentifiedObject.name "Schneeren" ;
-    cim:Names.name "SCHNEEREN",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Market Area",
+        "SCHNEEREN" ;
     dcterms:identifier "urn:eic:21Y000000000068Z" ;
     skos:altLabel "SCHNEEREN" ;
     skos:definition "Connection Point To Production"@en ;

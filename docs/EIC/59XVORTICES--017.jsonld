@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "Vortices Energy Ltd.",
     "@cim:Names.name": [
         "VORTICESENERGY",
+        "n / a",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "UAE Company; EU Value not inserted because non-european company.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-10-03",
+    "@schema:vatID": "n / a",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

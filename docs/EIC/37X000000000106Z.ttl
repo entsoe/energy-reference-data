@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-20" ;
+    cim:DateAndOrTime.date "2026-07-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000106Z" ;
-    cim:IdentifiedObject.name "EAG Energie Abrechnungs- und Service GmbH" ;
+    cim:IdentifiedObject.name "MB Energy Last Mile GmbH " ;
     cim:Names.name "Balance Responsible Party",
-        "DE288718212",
-        "EAG_ENERGIE_ABRE" ;
+        "DE198317294",
+        "MB_ENERGY_LAST_M" ;
     dcterms:identifier "urn:eic:37X000000000106Z" ;
-    schema1:vatID "DE288718212" ;
-    skos:altLabel "EAG_ENERGIE_ABRE" ;
+    schema1:vatID "DE198317294" ;
+    skos:altLabel "MB_ENERGY_LAST_M" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EAG Energie Abrechnungs- und Service GmbH" ;
+    skos:prefLabel "MB Energy Last Mile GmbH " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

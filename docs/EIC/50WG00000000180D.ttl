@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000180D" ;
     cim:IdentifiedObject.name "BORREGA2G12     HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-BORREGA2G12__" ;
+        "NO-BORREGA2G12" ;
     dcterms:identifier "urn:eic:50WG00000000180D" ;
-    skos:altLabel "NO-BORREGA2G12__" ;
+    skos:altLabel "NO-BORREGA2G12" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BORREGA2G12     HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-ROLAVAVES02O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-ROLAVAVES02O" ;
+    cim:IdentifiedObject.name "VĒJA PARKS(L-27)" ;
+    cim:Names.name "Generation Unit",
+        "ROLAVAVES02O" ;
+    dcterms:identifier "urn:eic:43W-ROLAVAVES02O" ;
+    skos:altLabel "ROLAVAVES02O" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VĒJA PARKS(L-27)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

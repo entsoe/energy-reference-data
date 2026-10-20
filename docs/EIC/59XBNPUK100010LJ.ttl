@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-12-05" ;
+    cim:DateAndOrTime.date "2024-03-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "59XBNPUK100010LJ" ;
     cim:IdentifiedObject.name "BNP PARIBAS SA" ;
     cim:Names.name "BNPPARISAUK",
+        "Balance Responsible Party",
         "GB417734642",
         "Market Operator" ;
     dcterms:identifier "urn:eic:59XBNPUK100010LJ" ;

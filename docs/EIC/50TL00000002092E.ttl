@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002092E" ;
     cim:IdentifiedObject.name "S 66 Rudshøgda-T_Moelv" ;
     cim:Names.name "Internal Line",
-        "NO-RUDSHOGDATMOE" ;
+        "NO-66RUDSHOGDAT" ;
     dcterms:identifier "urn:eic:50TL00000002092E" ;
-    skos:altLabel "NO-RUDSHOGDATMOE" ;
+    skos:altLabel "NO-66RUDSHOGDAT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Rudshøgda-T_Moelv" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

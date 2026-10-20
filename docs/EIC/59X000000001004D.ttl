@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-01-11" ;
+    cim:DateAndOrTime.date "2024-04-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "59X000000001004D" ;
-    cim:IdentifiedObject.name "ENERGY ONLY SPA" ;
-    cim:Names.name "ENERGYONLYSPA",
-        "IT11014291006",
-        "Market Operator" ;
+    cim:IdentifiedObject.name "Oenergy SPA" ;
+    cim:Names.name "IT11014291006",
+        "Market Operator",
+        "OENERGYSPA" ;
     dcterms:identifier "urn:eic:59X000000001004D" ;
     schema1:vatID "IT11014291006" ;
-    skos:altLabel "ENERGYONLYSPA" ;
+    skos:altLabel "OENERGYSPA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENERGY ONLY SPA" ;
+    skos:prefLabel "Oenergy SPA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

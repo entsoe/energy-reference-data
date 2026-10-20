@@ -16,7 +16,10 @@
     "@skos:altLabel": "PU_RPH_11B",
     "@cim:IdentifiedObject.mRID": "49W0000000001322",
     "@cim:IdentifiedObject.name": "Rijnmond Power Holding 11B",
-    "@cim:Names.name": "PU_RPH_11B",
+    "@cim:Names.name": [
+        "PU_RPH_11B",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-12-13",

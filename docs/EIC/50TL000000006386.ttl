@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000006386" ;
     cim:IdentifiedObject.name "N 132 Skaidi-Kvalsund1" ;
     cim:Names.name "Internal Line",
-        "NO-SKAIDIKVALSUN" ;
+        "NO-132SKAIDIKVAL" ;
     dcterms:identifier "urn:eic:50TL000000006386" ;
-    skos:altLabel "NO-SKAIDIKVALSUN" ;
+    skos:altLabel "NO-132SKAIDIKVAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Skaidi-Kvalsund1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

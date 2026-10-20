@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001055Q",
-    "@skos:prefLabel": "M Rana     22  Forbruk",
-    "@skos:altLabel": "NO-RANA22",
+    "@skos:prefLabel": "N Rana     22  Hk1",
+    "@skos:altLabel": "NO-RANAHK1",
     "@cim:IdentifiedObject.mRID": "50WC00000001055Q",
-    "@cim:IdentifiedObject.name": "M Rana     22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Rana     22  Hk1",
     "@cim:Names.name": [
-        "NO-RANA22",
+        "NO-RANAHK1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

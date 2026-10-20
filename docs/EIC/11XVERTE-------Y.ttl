@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVERTE-------Y" ;
     cim:IdentifiedObject.name "L`Energie verte, a.s." ;
-    cim:Names.name "Balance Group",
-        "SK2020223865",
-        "VERTE" ;
+    cim:Names.name "SK2020223865",
+        "VERTE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVERTE-------Y" ;
     schema1:vatID "SK2020223865" ;
     skos:altLabel "VERTE" ;

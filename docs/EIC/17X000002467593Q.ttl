@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000002467593Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X000002467593Q" ;
+    cim:IdentifiedObject.name "ATHIES SAMOUSSY SOLAR PV2" ;
+    cim:Names.name "A0018660D.FR",
+        "FR59539591842",
+        "FR_SAMOUSSY_2",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X000002467593Q" ;
+    schema1:vatID "FR59539591842" ;
+    skos:altLabel "FR_SAMOUSSY_2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ATHIES SAMOUSSY SOLAR PV2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

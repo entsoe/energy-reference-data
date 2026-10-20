@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XPURENERGNSOLJ",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XPURENERGNSOLJ",
+    "@skos:prefLabel": "UAB Pure energy solutions",
+    "@skos:altLabel": "PUREENERGYSOLUTI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Rietavo BESS (UAB “Pure energy solutions”)   306989428   VERT L-7302 / 2025-11-21; LITGRID connection conditions \nNo. 25SD-2530   Artūras Jacikas    +370 686 55 314    info@pesolutions.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41XPURENERGNSOLJ",
+    "@cim:IdentifiedObject.name": "UAB Pure energy solutions",
+    "@cim:Names.name": [
+        "PUREENERGYSOLUTI",
+        "LT100017781319",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "Rietavo BESS (UAB “Pure energy solutions”)   306989428   VERT L-7302 / 2025-11-21; LITGRID connection conditions \nNo. 25SD-2530   Artūras Jacikas    +370 686 55 314    info@pesolutions.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-09-07",
+    "@schema:vatID": "LT100017781319",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

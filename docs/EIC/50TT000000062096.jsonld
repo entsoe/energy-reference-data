@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000062096",
     "@skos:prefLabel": "S EDC      TR401 Transformator",
-    "@skos:altLabel": "NO-EDC_____TR401",
+    "@skos:altLabel": "NO-EDCTR401",
     "@cim:IdentifiedObject.mRID": "50TT000000062096",
     "@cim:IdentifiedObject.name": "S EDC      TR401 Transformator",
     "@cim:Names.name": [
-        "NO-EDC_____TR401",
+        "NO-EDCTR401",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

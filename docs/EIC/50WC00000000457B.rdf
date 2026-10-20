@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC00000000457B</dcterms:identifier>
-    <skos:prefLabel>M Fiborg   66  Last TM1 Industri</skos:prefLabel>
+    <skos:prefLabel>N Fiborg   66  Industri TM1</skos:prefLabel>
     <skos:altLabel>NO-FIBORG66TM1NC</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC00000000457B</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>M Fiborg   66  Last TM1 Industri</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>N Fiborg   66  Industri TM1</cim:IdentifiedObject.name>
     <cim:Names.name>NO-FIBORG66TM1NC</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

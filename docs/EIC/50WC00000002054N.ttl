@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000002054N" ;
-    cim:IdentifiedObject.name "M Nordland 11  L2_L Forbruk" ;
+    cim:IdentifiedObject.name "N Nordland 11  L2_L" ;
     cim:Names.name "Load",
-        "NO-NORDLANDE11L2" ;
+        "NO-NORDLANDT11L2" ;
     dcterms:identifier "urn:eic:50WC00000002054N" ;
-    skos:altLabel "NO-NORDLANDE11L2" ;
+    skos:altLabel "NO-NORDLANDT11L2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Nordland 11  L2_L Forbruk" ;
+    skos:prefLabel "N Nordland 11  L2_L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

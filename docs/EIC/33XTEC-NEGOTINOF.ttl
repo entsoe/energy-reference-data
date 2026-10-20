@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Generation" ;
     cim:IdentifiedObject.mRID "33XTEC-NEGOTINOF" ;
     cim:IdentifiedObject.name "AD TEC NEgotino, vo drzavna sopstvenost" ;
-    cim:Names.name "Generation",
-        "TEC-NEGOTINO" ;
+    cim:Names.name "TEC-NEGOTINO",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:33XTEC-NEGOTINOF" ;
     skos:altLabel "TEC-NEGOTINO" ;
     skos:definition "Generation"@en ;

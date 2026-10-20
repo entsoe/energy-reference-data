@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-18" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006434L" ;
-    cim:IdentifiedObject.name "Żydowo Kierzkowo – Słupsk tor 1" ;
+    cim:IdentifiedObject.name "400kV Slupsk Wierzbiecino-Zydowo Kierzkowo 1" ;
     cim:Names.name "Internal Line",
         "N301" ;
     dcterms:identifier "urn:eic:19T110000006434L" ;
     skos:altLabel "N301" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Żydowo Kierzkowo – Słupsk tor 1" ;
+    skos:prefLabel "400kV Slupsk Wierzbiecino-Zydowo Kierzkowo 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

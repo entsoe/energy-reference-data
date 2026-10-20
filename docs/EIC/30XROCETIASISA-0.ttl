@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "30XROCETIASISA-0" ;
     cim:IdentifiedObject.name "CET IASI SA" ;
-    cim:Names.name "RO14718982",
-        "RO_IASI",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "RO14718982",
+        "RO_IASI" ;
     dcterms:identifier "urn:eic:30XROCETIASISA-0" ;
     schema1:vatID "RO14718982" ;
     skos:altLabel "RO_IASI" ;

@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-11-27" ;
+    cim:DateAndOrTime.date "2026-10-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XNOBE-123456-L" ;
-    cim:IdentifiedObject.name "NOBE SOLUCIONES Y ENERGIA S.L" ;
+    cim:IdentifiedObject.name "NOBE SOLUCIONES Y ENERGIA SL" ;
     cim:Names.name "ESB47732334",
         "NOBE",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XNOBE-123456-L" ;
     schema1:vatID "ESB47732334" ;
     skos:altLabel "NOBE" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "NOBE SOLUCIONES Y ENERGIA S.L" ;
+    skos:prefLabel "NOBE SOLUCIONES Y ENERGIA SL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

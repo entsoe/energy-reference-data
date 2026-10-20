@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/67Y-VISKOL-2003T">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:67Y-VISKOL-2003T</dcterms:identifier>
+    <skos:prefLabel>VISKOL DOO NOVI SAD SRBIJA</skos:prefLabel>
+    <skos:altLabel>VISKOL2003</skos:altLabel>
+    <skos:definition xml:lang="en">VISKOL 2003 DOO deals in energy and natural gas trade.
+
+VISKOL 2003 DOO is a member of the Central European Gas Hub &#8211; CEGH  located in Vienna, Austria.
+
+VISKOL 2003 DOO deals with international trade in natural gas and other energy products in Europe.
+</skos:definition>
+    <cim:IdentifiedObject.mRID>67Y-VISKOL-2003T</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>VISKOL DOO NOVI SAD SRBIJA</cim:IdentifiedObject.name>
+    <cim:Names.name>VISKOL2003</cim:Names.name>
+    <cim:IdentifiedObject.description>VISKOL 2003 DOO deals in energy and natural gas trade.
+
+VISKOL 2003 DOO is a member of the Central European Gas Hub &#8211; CEGH  located in Vienna, Austria.
+
+VISKOL 2003 DOO deals with international trade in natural gas and other energy products in Europe.
+</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-07-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Bidding Zone</cim:Names.name>
+    <cim:Names.name>ITC</cim:Names.name>
+    <cim:Names.name>Local Market Area</cim:Names.name>
+    <cim:Names.name>Market Area</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

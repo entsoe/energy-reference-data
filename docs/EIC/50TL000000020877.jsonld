@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000020877",
-    "@skos:prefLabel": "M 66 Rørvik-T_Rørvik",
-    "@skos:altLabel": "NO-RORVIKTRORVIK",
+    "@skos:prefLabel": "N 66 Rørvik-T_Saltbo",
+    "@skos:altLabel": "NO-66RORVIKT_SAL",
     "@cim:IdentifiedObject.mRID": "50TL000000020877",
-    "@cim:IdentifiedObject.name": "M 66 Rørvik-T_Rørvik",
+    "@cim:IdentifiedObject.name": "N 66 Rørvik-T_Saltbo",
     "@cim:Names.name": [
-        "NO-RORVIKTRORVIK",
+        "NO-66RORVIKT_SAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

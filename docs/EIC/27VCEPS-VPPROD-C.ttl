@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27VCEPS-VPPROD-C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "VP data gathering - production" ;
+    cim:IdentifiedObject.mRID "27VCEPS-VPPROD-C" ;
+    cim:IdentifiedObject.name "ČEPS VP DATA PROD." ;
+    cim:Names.name "CEPS-VPPROD",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:27VCEPS-VPPROD-C" ;
+    skos:altLabel "CEPS-VPPROD" ;
+    skos:definition "VP data gathering - production"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ČEPS VP DATA PROD." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

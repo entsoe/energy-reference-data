@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000Q152" ;
     cim:IdentifiedObject.name "BPLLANO" ;
-    cim:Names.name "ES-BPLLANO" ;
+    cim:Names.name "ES-BPLLANO",
+        "Generation Unit" ;
     dcterms:identifier "urn:eic:18W000000000Q152" ;
     skos:altLabel "ES-BPLLANO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

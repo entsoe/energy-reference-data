@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-26" ;
+    cim:DateAndOrTime.date "2025-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party, Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "12X-0000001861-Q" ;
-    cim:IdentifiedObject.name "swissgrid AG" ;
-    cim:Names.name "BGCROSSBORDER-ST",
-        "Balance Responsible Party",
-        "CHE112175457" ;
+    cim:IdentifiedObject.name "Swissgrid AG" ;
+    cim:Names.name "Balance Responsible Party",
+        "CHE112175457",
+        "SWISSGRID-TSO" ;
     dcterms:identifier "urn:eic:12X-0000001861-Q" ;
     schema1:vatID "CHE112175457" ;
-    skos:altLabel "BGCROSSBORDER-ST" ;
+    skos:altLabel "SWISSGRID-TSO" ;
     skos:definition "Balance Responsible Party, Balance Group Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "swissgrid AG" ;
+    skos:prefLabel "Swissgrid AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-07-22" ;
+    cim:DateAndOrTime.date "2024-09-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XVALDA-12345-1" ;
-    cim:IdentifiedObject.name "pizarras Valdacal SA" ;
+    cim:IdentifiedObject.name "PIZARRAS VALDACAL, SA" ;
     cim:Names.name "Consumption Responsible Party",
-        "ESA32225419",
+        "ESB32225419",
         "VALDA" ;
     dcterms:identifier "urn:eic:18XVALDA-12345-1" ;
-    schema1:vatID "ESA32225419" ;
+    schema1:vatID "ESB32225419" ;
     skos:altLabel "VALDA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "pizarras Valdacal SA" ;
+    skos:prefLabel "PIZARRAS VALDACAL, SA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

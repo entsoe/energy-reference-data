@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGED-ENERGIE-C" ;
     cim:IdentifiedObject.name "PCC Energie GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE204551957",
-        "PCC-ENERGIE" ;
+    cim:Names.name "DE204551957",
+        "PCC-ENERGIE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGED-ENERGIE-C" ;
     schema1:vatID "DE204551957" ;
     skos:altLabel "PCC-ENERGIE" ;

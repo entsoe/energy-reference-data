@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XINGAL-12345-0",
     "@skos:prefLabel": "INGALZA S.A",
     "@skos:altLabel": "INGAL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XINGAL-12345-0",
     "@cim:IdentifiedObject.name": "INGALZA S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA50044072",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-02-10",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA50044072",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

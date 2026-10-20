@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XUEWAG-UEWR--O" ;
     cim:IdentifiedObject.name "Überlandwerk Fulda Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE112404788",
-        "UEWAG-UEWR" ;
+    cim:Names.name "DE112404788",
+        "UEWAG-UEWR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XUEWAG-UEWR--O" ;
     schema1:vatID "DE112404788" ;
     skos:altLabel "UEWAG-UEWR" ;

@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Consumer - Production Of Aluminium (Sk: Vyroba Primarneho Hlinika)" ;
     cim:IdentifiedObject.mRID "24XSCO---------N" ;
     cim:IdentifiedObject.name "Slovalco, a.s." ;
-    cim:Names.name "SK2020479483",
+    cim:Names.name "Consumer",
+        "SK2020479483",
         "SLOVALCO",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XSCO---------N" ;
     schema1:vatID "SK2020479483" ;
     skos:altLabel "SLOVALCO" ;

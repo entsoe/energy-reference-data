@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001602M",
-    "@skos:prefLabel": "S 50 Vikeså-Slettebø",
-    "@skos:altLabel": "NO-VIKESASLETTEB",
+    "@skos:prefLabel": "S 15 Vikeså-Birkemoen",
+    "@skos:altLabel": "NO-15VIKESABIRKE",
     "@cim:IdentifiedObject.mRID": "50TL00000001602M",
-    "@cim:IdentifiedObject.name": "S 50 Vikeså-Slettebø",
+    "@cim:IdentifiedObject.name": "S 15 Vikeså-Birkemoen",
     "@cim:Names.name": [
-        "NO-VIKESASLETTEB",
+        "NO-15VIKESABIRKE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

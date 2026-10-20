@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:38T-L356-------A</dcterms:identifier>
-    <skos:prefLabel>L356 Paide-Viru</skos:prefLabel>
-    <skos:altLabel>L356_PAIDE_VIRU</skos:altLabel>
+    <skos:prefLabel>L356 Paide-Mustvee</skos:prefLabel>
+    <skos:altLabel>L356_PAIDE_MUSTV</skos:altLabel>
     <cim:IdentifiedObject.mRID>38T-L356-------A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>L356 Paide-Viru</cim:IdentifiedObject.name>
-    <cim:Names.name>L356_PAIDE_VIRU</cim:Names.name>
+    <cim:IdentifiedObject.name>L356 Paide-Mustvee</cim:IdentifiedObject.name>
+    <cim:Names.name>L356_PAIDE_MUSTV</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-03-17</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-03</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Tie-Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

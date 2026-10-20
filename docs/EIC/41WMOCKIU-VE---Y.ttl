@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-12" ;
+    cim:DateAndOrTime.date "2024-12-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "41WMOCKIU-VE---Y" ;
     cim:IdentifiedObject.name "Mockių vėjo elektrinių parkas, UAB Enefit Wind" ;
-    cim:Names.name "MOCKIU-VE" ;
+    cim:Names.name "Generation Unit",
+        "MOCKIU-VE" ;
     dcterms:identifier "urn:eic:41WMOCKIU-VE---Y" ;
     skos:altLabel "MOCKIU-VE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002380W",
     "@skos:prefLabel": "TVERRAA G2      HYDRO",
-    "@skos:altLabel": "NO-TVERRAA_G2___",
+    "@skos:altLabel": "NO-TVERRAAG2",
     "@cim:IdentifiedObject.mRID": "50WG00000002380W",
     "@cim:IdentifiedObject.name": "TVERRAA G2      HYDRO",
     "@cim:Names.name": [
-        "NO-TVERRAA_G2___",
+        "NO-TVERRAAG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

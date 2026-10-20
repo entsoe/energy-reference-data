@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000028150",
-    "@skos:prefLabel": "S 50 Voss-Urdland",
-    "@skos:altLabel": "NO-VOSSURDLAND",
+    "@skos:prefLabel": "S 50 Voss-Mæringen",
+    "@skos:altLabel": "NO-50VOSSMARINGE",
     "@cim:IdentifiedObject.mRID": "50TL000000028150",
-    "@cim:IdentifiedObject.name": "S 50 Voss-Urdland",
+    "@cim:IdentifiedObject.name": "S 50 Voss-Mæringen",
     "@cim:Names.name": [
-        "NO-VOSSURDLAND",
+        "NO-50VOSSMARINGE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

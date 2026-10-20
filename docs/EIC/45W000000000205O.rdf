@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45W000000000205O</dcterms:identifier>
-    <skos:prefLabel>Better Energy Vedde P/S</skos:prefLabel>
-    <skos:altLabel>DK_BE_VEDDE</skos:altLabel>
+    <skos:prefLabel>Andel Energy Vedde P/S</skos:prefLabel>
+    <skos:altLabel>DK_ANDEL_VEDDE</skos:altLabel>
     <cim:IdentifiedObject.mRID>45W000000000205O</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Better Energy Vedde P/S</cim:IdentifiedObject.name>
-    <cim:Names.name>DK_BE_VEDDE</cim:Names.name>
+    <cim:IdentifiedObject.name>Andel Energy Vedde P/S</cim:IdentifiedObject.name>
+    <cim:Names.name>DK_ANDEL_VEDDE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-12-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-29</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

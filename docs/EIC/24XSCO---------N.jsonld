@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "SLOVALCO",
         "SK2020479483",
-        "Valid EIC Function needed"
+        "Consumer",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Consumer - Production Of Aluminium (Sk: Vyroba Primarneho Hlinika)",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-14",
     "@schema:vatID": "SK2020479483",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

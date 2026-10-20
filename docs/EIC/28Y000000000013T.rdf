@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:28Y000000000013T</dcterms:identifier>
-    <skos:prefLabel>ZDS Salonit Anhovo</skos:prefLabel>
+    <skos:prefLabel>ZDS-Alpacem-Cement </skos:prefLabel>
     <skos:altLabel>ZDS_SAL_ANHOVO</skos:altLabel>
     <cim:IdentifiedObject.mRID>28Y000000000013T</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ZDS Salonit Anhovo</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ZDS-Alpacem-Cement </cim:IdentifiedObject.name>
     <cim:Names.name>ZDS_SAL_ANHOVO</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-12-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-09-16</cim:DateAndOrTime.date>
     <cim:Names.name>Distribution Network Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

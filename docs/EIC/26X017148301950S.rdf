@@ -5,18 +5,16 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X017148301950S</dcterms:identifier>
     <skos:prefLabel>GREEN ENERGY FOR STEEL S.R.L.</skos:prefLabel>
-    <skos:altLabel>IT_GREEN_ENERGY_</skos:altLabel>
-    <skos:definition xml:lang="en">OBBLIGHI ACER</skos:definition>
+    <skos:altLabel>IT-GREENENERGYFO</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X017148301950S</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GREEN ENERGY FOR STEEL S.R.L.</cim:IdentifiedObject.name>
-    <cim:Names.name>IT_GREEN_ENERGY_</cim:Names.name>
-    <cim:Names.name>01714830195</cim:Names.name>
-    <cim:IdentifiedObject.description>OBBLIGHI ACER</cim:IdentifiedObject.description>
+    <cim:Names.name>IT-GREENENERGYFO</cim:Names.name>
+    <cim:Names.name>IT01714830195</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-06-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-08-24</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>01714830195</schema:vatID>
+    <schema:vatID>IT01714830195</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

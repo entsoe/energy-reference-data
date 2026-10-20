@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-04-02" ;
+    cim:DateAndOrTime.date "2025-02-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.description "Name change for the company 6 Feb 2025 GRTgaz Deutschland GmbH.  Old Display name GRTD" ;
     cim:IdentifiedObject.mRID "21X000000001008P" ;
-    cim:IdentifiedObject.name "GRTgaz Deutschland GmbH" ;
+    cim:IdentifiedObject.name "NaTran Deutschland GmbH" ;
     cim:Names.name "Balance Responsible Party",
-        "DE813922225",
-        "GDFGT" ;
+        "DE282304925",
+        "NATRAN_D",
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X000000001008P" ;
-    schema1:vatID "DE813922225" ;
-    skos:altLabel "GDFGT" ;
-    skos:definition "Balance Responsible Party"@en ;
+    schema1:vatID "DE282304925" ;
+    skos:altLabel "NATRAN_D" ;
+    skos:definition "Name change for the company 6 Feb 2025 GRTgaz Deutschland GmbH.  Old Display name GRTD"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GRTgaz Deutschland GmbH" ;
+    skos:prefLabel "NaTran Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

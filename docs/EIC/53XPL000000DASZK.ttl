@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-07" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator" ;
     cim:IdentifiedObject.mRID "53XPL000000DASZK" ;
     cim:IdentifiedObject.name "Gmina Daszyna" ;
-    cim:Names.name "7752406085",
-        "Distribution System Operator",
-        "GMINA_DASZYNA" ;
+    cim:Names.name "Distribution System Operator",
+        "GMINA_DASZYNA",
+        "PL7752406085" ;
     dcterms:identifier "urn:eic:53XPL000000DASZK" ;
-    schema1:vatID "7752406085" ;
+    schema1:vatID "PL7752406085" ;
     skos:altLabel "GMINA_DASZYNA" ;
     skos:definition "Distribution System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000063741",
-    "@skos:prefLabel": "Łomża Systemowa-Ełk Bis 1",
+    "@skos:prefLabel": "400kV Elk Bis-Lomza Systemowa 1",
     "@skos:altLabel": "E701",
     "@cim:IdentifiedObject.mRID": "19T0000000063741",
-    "@cim:IdentifiedObject.name": "Łomża Systemowa-Ełk Bis 1",
+    "@cim:IdentifiedObject.name": "400kV Elk Bis-Lomza Systemowa 1",
     "@cim:Names.name": [
         "E701",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

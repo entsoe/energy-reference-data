@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/44W-000000000469> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "44W-000000000469" ;
+    cim:IdentifiedObject.name "Matkussaari Wind Farm" ;
+    cim:Names.name "44MATKUSSAARIWF",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:44W-000000000469" ;
+    skos:altLabel "44MATKUSSAARIWF" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Matkussaari Wind Farm" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

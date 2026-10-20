@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000565U" ;
     cim:IdentifiedObject.name "GRYTTENKG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GRYTTENKG1___" ;
+        "NO-GRYTTENKG1" ;
     dcterms:identifier "urn:eic:50WG00000000565U" ;
-    skos:altLabel "NO-GRYTTENKG1___" ;
+    skos:altLabel "NO-GRYTTENKG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GRYTTENKG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

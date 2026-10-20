@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002239A" ;
-    cim:IdentifiedObject.name "M 66 T_Rørvik-Årsandøy" ;
+    cim:IdentifiedObject.name "N 66 T_Saltbo-Årsandøy" ;
     cim:Names.name "Internal Line",
-        "NO-TRORVIKARSAND" ;
+        "NO-66T_SALTBOARS" ;
     dcterms:identifier "urn:eic:50TL00000002239A" ;
-    skos:altLabel "NO-TRORVIKARSAND" ;
+    skos:altLabel "NO-66T_SALTBOARS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 T_Rørvik-Årsandøy" ;
+    skos:prefLabel "N 66 T_Saltbo-Årsandøy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

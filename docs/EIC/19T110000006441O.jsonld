@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006441O",
-    "@skos:prefLabel": "220 kV Byczyna – Skawina t.2",
+    "@skos:prefLabel": "220kV Byczyna-Skawina 2",
     "@skos:altLabel": "3012",
     "@cim:IdentifiedObject.mRID": "19T110000006441O",
-    "@cim:IdentifiedObject.name": "220 kV Byczyna – Skawina t.2",
+    "@cim:IdentifiedObject.name": "220kV Byczyna-Skawina 2",
     "@cim:Names.name": [
         "3012",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

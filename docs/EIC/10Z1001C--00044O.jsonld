@@ -16,7 +16,10 @@
     "@skos:altLabel": "FUESSNW",
     "@cim:IdentifiedObject.mRID": "10Z1001C--00044O",
     "@cim:IdentifiedObject.name": "AMP-APG / 220kV / Kempten Au - Voehringen - Westtirol / Fuessen W 411",
-    "@cim:Names.name": "FUESSNW",
+    "@cim:Names.name": [
+        "FUESSNW",
+        "Accounting Point"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-01-25",

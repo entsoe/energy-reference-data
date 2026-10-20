@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001741P" ;
     cim:IdentifiedObject.name "Øvre Leiråga" ;
-    cim:Names.name "NO-OVRELEIRAGA",
+    cim:Names.name "NO-OVLEIRAGA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001741P" ;
-    skos:altLabel "NO-OVRELEIRAGA" ;
+    skos:altLabel "NO-OVLEIRAGA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Øvre Leiråga" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

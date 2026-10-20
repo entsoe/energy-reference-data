@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000058035" ;
-    cim:IdentifiedObject.name "M Stranda  T1 Transformator" ;
-    cim:Names.name "NO-STRANDA_T1",
+    cim:IdentifiedObject.name "N Stranda  T1 Transformator" ;
+    cim:Names.name "NO-STRANDAT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000058035" ;
-    skos:altLabel "NO-STRANDA_T1" ;
+    skos:altLabel "NO-STRANDAT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Stranda  T1 Transformator" ;
+    skos:prefLabel "N Stranda  T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

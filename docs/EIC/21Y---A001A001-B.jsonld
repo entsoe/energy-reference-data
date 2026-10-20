@@ -12,22 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Y---A001A001-B",
-    "@skos:prefLabel": "Virtual Trading Point RWE Transgas Net",
+    "@skos:prefLabel": "Virtual Trading Point OTE",
     "@skos:altLabel": "VOB-CZ",
     "@skos:definition": {
         "@language": "en",
         "@value": "Virtual Trading Point"
     },
     "@cim:IdentifiedObject.mRID": "21Y---A001A001-B",
-    "@cim:IdentifiedObject.name": "Virtual Trading Point RWE Transgas Net",
+    "@cim:IdentifiedObject.name": "Virtual Trading Point OTE",
     "@cim:Names.name": [
         "VOB-CZ",
-        "Valid EIC Function needed"
+        "Bidding Zone",
+        "Market Area",
+        "Metering Grid Area"
     ],
     "@cim:IdentifiedObject.description": "Virtual Trading Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2025-02-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

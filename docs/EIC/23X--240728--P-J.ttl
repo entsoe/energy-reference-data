@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240728--P-J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registered in UK with registration number: 10872509 
+VAT number confirmed by UK HM Revenue & Customs certificate: 342647693""" ;
+    cim:IdentifiedObject.mRID "23X--240728--P-J" ;
+    cim:IdentifiedObject.name "P3P Energy Supply Limited" ;
+    cim:Names.name "342647693",
+        "Energy Supplier",
+        "P3P_ENERGYSUPPLY" ;
+    dcterms:identifier "urn:eic:23X--240728--P-J" ;
+    schema1:vatID "342647693" ;
+    skos:altLabel "P3P_ENERGYSUPPLY" ;
+    skos:definition """Company registered in UK with registration number: 10872509 
+VAT number confirmed by UK HM Revenue & Customs certificate: 342647693"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "P3P Energy Supply Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000025445",
-    "@skos:prefLabel": "M 132 Ålfoten-Svelgen",
-    "@skos:altLabel": "NO-ALFOTENSVELGE",
+    "@skos:prefLabel": "N 132 Ålfoten-Svelgen",
+    "@skos:altLabel": "NO-132ALFOTENSVE",
     "@cim:IdentifiedObject.mRID": "50TL000000025445",
-    "@cim:IdentifiedObject.name": "M 132 Ålfoten-Svelgen",
+    "@cim:IdentifiedObject.name": "N 132 Ålfoten-Svelgen",
     "@cim:Names.name": [
-        "NO-ALFOTENSVELGE",
+        "NO-132ALFOTENSVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

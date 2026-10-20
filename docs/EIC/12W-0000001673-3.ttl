@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-08-02" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12W-0000001673-3" ;
     cim:IdentifiedObject.name "DXT Commodities SA" ;
     cim:Names.name "DXT-COMMODITI-ST",
-        "Load" ;
+        "Resource Object" ;
     dcterms:identifier "urn:eic:12W-0000001673-3" ;
     skos:altLabel "DXT-COMMODITI-ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

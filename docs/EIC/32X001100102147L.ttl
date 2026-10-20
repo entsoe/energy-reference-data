@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/32X001100102147L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Trade Responsible Party" ;
+    cim:IdentifiedObject.mRID "32X001100102147L" ;
+    cim:IdentifiedObject.name "POWERGIZE SOLUTIONS EOOD" ;
+    cim:Names.name "BG207806964",
+        "POWERGIZE_SOLTNS",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:32X001100102147L" ;
+    schema1:vatID "BG207806964" ;
+    skos:altLabel "POWERGIZE_SOLTNS" ;
+    skos:definition "Trade Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "POWERGIZE SOLUTIONS EOOD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

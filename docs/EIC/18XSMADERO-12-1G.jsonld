@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XSMADERO-12-1G",
     "@skos:prefLabel": "PARQUE EÓLICO SIERRA DEL MADERO, S.A.",
     "@skos:altLabel": "SIEM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSMADERO-12-1G",
     "@cim:IdentifiedObject.name": "PARQUE EÓLICO SIERRA DEL MADERO, S.A.",
     "@cim:Names.name": [
         "SIEM",
         "ESA42146092",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-01-20",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@schema:vatID": "ESA42146092",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

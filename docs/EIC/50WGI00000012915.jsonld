@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WGI00000012915",
-    "@skos:prefLabel": "OSTEROY G101 HYDRO",
-    "@skos:altLabel": "NO-OSTEROY_G101_",
+    "@skos:prefLabel": "HERLANDSG101 HYDRO",
+    "@skos:altLabel": "NO-HERLANDSG101",
     "@cim:IdentifiedObject.mRID": "50WGI00000012915",
-    "@cim:IdentifiedObject.name": "OSTEROY G101 HYDRO",
+    "@cim:IdentifiedObject.name": "HERLANDSG101 HYDRO",
     "@cim:Names.name": [
-        "NO-OSTEROY_G101_",
+        "NO-HERLANDSG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

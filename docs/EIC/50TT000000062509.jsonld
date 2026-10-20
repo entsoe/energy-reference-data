@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000062509",
     "@skos:prefLabel": "S Kvåle    T2 Transformator",
-    "@skos:altLabel": "NO-KVALE___T2",
+    "@skos:altLabel": "NO-KVALET2",
     "@cim:IdentifiedObject.mRID": "50TT000000062509",
     "@cim:IdentifiedObject.name": "S Kvåle    T2 Transformator",
     "@cim:Names.name": [
-        "NO-KVALE___T2",
+        "NO-KVALET2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

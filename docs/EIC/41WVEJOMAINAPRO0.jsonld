@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WVEJOMAINAPRO0",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WVEJOMAINAPRO0",
+    "@skos:prefLabel": "UAB VEJOMAINA ",
+    "@skos:altLabel": "VEJOMAINAPROD",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB „Vėjomaina“  305289501   LT100018654614   Raudondvario pl. 288C, Kaunas   Ramūnas Dumčaitis\n +370 601 31233\nvejomaina@jegaines.lt"
+    },
+    "@cim:IdentifiedObject.mRID": "41WVEJOMAINAPRO0",
+    "@cim:IdentifiedObject.name": "UAB VEJOMAINA ",
+    "@cim:Names.name": [
+        "VEJOMAINAPROD",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "UAB „Vėjomaina“  305289501   LT100018654614   Raudondvario pl. 288C, Kaunas   Ramūnas Dumčaitis\n +370 601 31233\nvejomaina@jegaines.lt",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-08-25",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

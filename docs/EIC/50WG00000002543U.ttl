@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000002543U" ;
-    cim:IdentifiedObject.name "MAR     G107 HYDRO" ;
+    cim:IdentifiedObject.name "MOFLAT  G107 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MAR_____G107_" ;
+        "NO-MOFLATG107" ;
     dcterms:identifier "urn:eic:50WG00000002543U" ;
-    skos:altLabel "NO-MAR_____G107_" ;
+    skos:altLabel "NO-MOFLATG107" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MAR     G107 HYDRO" ;
+    skos:prefLabel "MOFLAT  G107 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

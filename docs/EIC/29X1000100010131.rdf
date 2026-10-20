@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/29X1000100010131">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:29X1000100010131</dcterms:identifier>
+    <skos:prefLabel>&#921;&#926;&#921;&#937;&#925; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#922;&#919; &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</skos:prefLabel>
+    <skos:altLabel>IXION</skos:altLabel>
+    <cim:IdentifiedObject.mRID>29X1000100010131</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>&#921;&#926;&#921;&#937;&#925; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#922;&#919; &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</cim:IdentifiedObject.name>
+    <cim:Names.name>IXION</cim:Names.name>
+    <cim:Names.name>A00215386.GR</cim:Names.name>
+    <cim:Names.name>EL800980128</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-08-26</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>EL800980128</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

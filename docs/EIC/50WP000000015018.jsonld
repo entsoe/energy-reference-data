@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000015018",
     "@skos:prefLabel": "Fossane Mini-HEV",
-    "@skos:altLabel": "NO-FOSSANE_M-HEV",
+    "@skos:altLabel": "NO-FOSSANEMINI_H",
     "@cim:IdentifiedObject.mRID": "50WP000000015018",
     "@cim:IdentifiedObject.name": "Fossane Mini-HEV",
     "@cim:Names.name": [
-        "NO-FOSSANE_M-HEV",
+        "NO-FOSSANEMINI_H",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

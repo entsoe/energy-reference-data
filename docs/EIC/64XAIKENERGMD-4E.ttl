@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-11-14" ;
+    cim:DateAndOrTime.date "2026-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "According to the Solicitation Letter nr.06 / 05.11.2019 based on ANRE license nr. AC001414 from 24.10.2019." ;
     cim:IdentifiedObject.mRID "64XAIKENERGMD-4E" ;
     cim:IdentifiedObject.name "S.R.L. \"AIK Energy\"" ;
     cim:Names.name "AIKENERGY_MD",
         "Balance Responsible Party",
+        "NA33",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:64XAIKENERGMD-4E" ;
+    schema1:vatID "NA33" ;
     skos:altLabel "AIKENERGY_MD" ;
     skos:definition "According to the Solicitation Letter nr.06 / 05.11.2019 based on ANRE license nr. AC001414 from 24.10.2019."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

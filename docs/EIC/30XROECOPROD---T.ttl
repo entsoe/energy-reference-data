@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROECOPROD---T" ;
     cim:IdentifiedObject.name "SC ECOPROD ENERGY SRL" ;
-    cim:Names.name "ECOPROD",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "ECOPROD",
+        "RO17631367" ;
     dcterms:identifier "urn:eic:30XROECOPROD---T" ;
+    schema1:vatID "RO17631367" ;
     skos:altLabel "ECOPROD" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

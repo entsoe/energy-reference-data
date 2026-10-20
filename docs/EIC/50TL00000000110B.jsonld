@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000110B",
     "@skos:prefLabel": "S 132 Monehagen-Nelaug",
-    "@skos:altLabel": "NO-MONEHAGENNELA",
+    "@skos:altLabel": "NO-132MONEHAGENN",
     "@cim:IdentifiedObject.mRID": "50TL00000000110B",
     "@cim:IdentifiedObject.name": "S 132 Monehagen-Nelaug",
     "@cim:Names.name": [
-        "NO-MONEHAGENNELA",
+        "NO-132MONEHAGENN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

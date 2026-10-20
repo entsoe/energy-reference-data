@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSWGAGGENAU-V3",
-    "@skos:prefLabel": "Stadtwerke Gaggenau (Vertrieb)",
+    "@skos:prefLabel": "Stadtwerke Gaggenau",
     "@skos:altLabel": "SWGAGGENAU-V",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWGAGGENAU-V3",
-    "@cim:IdentifiedObject.name": "Stadtwerke Gaggenau (Vertrieb)",
+    "@cim:IdentifiedObject.name": "Stadtwerke Gaggenau",
     "@cim:Names.name": [
         "SWGAGGENAU-V",
         "DE144017082",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-12-18",
     "@schema:vatID": "DE144017082",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

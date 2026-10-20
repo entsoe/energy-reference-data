@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-KW-THE-KO--3" ;
     cim:IdentifiedObject.name "Theiß Kombi" ;
-    cim:Names.name "THE-KO" ;
+    cim:Names.name "Generation Unit",
+        "THE-KO" ;
     dcterms:identifier "urn:eic:14W-KW-THE-KO--3" ;
     skos:altLabel "THE-KO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

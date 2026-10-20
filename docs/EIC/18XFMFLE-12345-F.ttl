@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-21" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XFMFLE-12345-F" ;
     cim:IdentifiedObject.name "FOTOVOLTAICA MONTE FLECHA, S.L." ;
     cim:Names.name "ESB34238089",
         "FMFLE",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XFMFLE-12345-F" ;
     schema1:vatID "ESB34238089" ;
     skos:altLabel "FMFLE" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FOTOVOLTAICA MONTE FLECHA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

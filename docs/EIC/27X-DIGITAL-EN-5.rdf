@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:27X-DIGITAL-EN-5</dcterms:identifier>
-    <skos:prefLabel>Digital Energy Services s.r.o.</skos:prefLabel>
-    <skos:altLabel>DIGITALENERGY</skos:altLabel>
+    <skos:prefLabel>Nano Energies CZ s.r.o.</skos:prefLabel>
+    <skos:altLabel>CZ_NANO</skos:altLabel>
     <cim:IdentifiedObject.mRID>27X-DIGITAL-EN-5</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Digital Energy Services s.r.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>DIGITALENERGY</cim:Names.name>
+    <cim:IdentifiedObject.name>Nano Energies CZ s.r.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>CZ_NANO</cim:Names.name>
     <cim:Names.name>CZ28188861</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-12-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>CZ28188861</schema:vatID>

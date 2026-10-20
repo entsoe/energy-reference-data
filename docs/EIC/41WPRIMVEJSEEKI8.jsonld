@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPRIMVEJSEEKI8",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPRIMVEJSEEKI8",
+    "@skos:prefLabel": "Pirmas vėjas ,UAB EEKĮ",
+    "@skos:altLabel": "PIRMASVEJASEEKI",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "EEKĮ – Lyvoniškių k. 2, Kelmės r. sav., žemės sklypo kadastro Nr. 5470/0001:251, Kiaunariškių k., Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:94; energijos kaupimo įrenginys – Kiaunariškių k. 11, Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:233.\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "41WPRIMVEJSEEKI8",
+    "@cim:IdentifiedObject.name": "Pirmas vėjas ,UAB EEKĮ",
+    "@cim:Names.name": [
+        "PIRMASVEJASEEKI",
+        "BESS"
+    ],
+    "@cim:IdentifiedObject.description": "EEKĮ – Lyvoniškių k. 2, Kelmės r. sav., žemės sklypo kadastro Nr. 5470/0001:251, Kiaunariškių k., Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:94; energijos kaupimo įrenginys – Kiaunariškių k. 11, Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:233.\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-10-05",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

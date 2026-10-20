@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-01-09" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TT00000005638P" ;
-    cim:IdentifiedObject.name "S Saurdal  T8 Transformator" ;
-    cim:Names.name "NO-SAURDAL_T8",
+    cim:IdentifiedObject.name "S Saurdal  T8G Transformator" ;
+    cim:Names.name "NO-SAURDALT8G",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005638P" ;
-    skos:altLabel "NO-SAURDAL_T8" ;
+    skos:altLabel "NO-SAURDALT8G" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Saurdal  T8 Transformator" ;
+    skos:prefLabel "S Saurdal  T8G Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

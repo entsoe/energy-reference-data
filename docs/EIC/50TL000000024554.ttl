@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000024554" ;
-    cim:IdentifiedObject.name "N Melkøya 110 E04S" ;
+    cim:IdentifiedObject.name "N Melkøya  110 E04S" ;
     cim:Names.name "Internal Line",
         "NO-MELKOYA110E04" ;
     dcterms:identifier "urn:eic:50TL000000024554" ;
     skos:altLabel "NO-MELKOYA110E04" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Melkøya 110 E04S" ;
+    skos:prefLabel "N Melkøya  110 E04S" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

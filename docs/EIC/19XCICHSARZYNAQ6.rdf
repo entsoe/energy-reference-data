@@ -4,22 +4,22 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XCICHSARZYNAQ6</dcterms:identifier>
-    <skos:prefLabel>CIECH SARZYNA SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
-    <skos:altLabel>CIECH_SARZYNA</skos:altLabel>
+    <skos:prefLabel>QEMETICA AGRICULTURAL SOLUTIONS POLAND SP&#211;&#321;KA AKCYJNA</skos:prefLabel>
+    <skos:altLabel>QEMETICA_ASP_SA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XCICHSARZYNAQ6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>CIECH SARZYNA SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
-    <cim:Names.name>CIECH_SARZYNA</cim:Names.name>
+    <cim:IdentifiedObject.name>QEMETICA AGRICULTURAL SOLUTIONS POLAND SP&#211;&#321;KA AKCYJNA</cim:IdentifiedObject.name>
+    <cim:Names.name>QEMETICA_ASP_SA</cim:Names.name>
     <cim:Names.name>A00144679.PL</cim:Names.name>
     <cim:Names.name>PL8160001828</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-21</cim:DateAndOrTime.date>
-    <cim:Names.name>Metered Data Responsible</cim:Names.name>
-    <cim:Names.name>Meter Administrator</cim:Names.name>
-    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-03-24</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL8160001828</schema:vatID>
   </skos:Concept>

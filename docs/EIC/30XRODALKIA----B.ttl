@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Party" ;
     cim:IdentifiedObject.mRID "30XRODALKIA----B" ;
-    cim:IdentifiedObject.name "SC DALKIA TERMO PRAHOVA SRL" ;
-    cim:Names.name "DALKIA",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "VEOLIA ENERGIE PRAHOVA SRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "DALKIA",
+        "RO16372612" ;
     dcterms:identifier "urn:eic:30XRODALKIA----B" ;
+    schema1:vatID "RO16372612" ;
     skos:altLabel "DALKIA" ;
     skos:definition "Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SC DALKIA TERMO PRAHOVA SRL" ;
+    skos:prefLabel "VEOLIA ENERGIE PRAHOVA SRL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

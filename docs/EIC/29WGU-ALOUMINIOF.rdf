@@ -6,12 +6,14 @@
     <dcterms:identifier>urn:eic:29WGU-ALOUMINIOF</dcterms:identifier>
     <skos:prefLabel>Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA</skos:prefLabel>
     <skos:altLabel>GUALOUMINIO</skos:altLabel>
+    <skos:definition xml:lang="en">Generation Unit. Lio local update to elem corr 2026-02-18</skos:definition>
     <cim:IdentifiedObject.mRID>29WGU-ALOUMINIOF</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA</cim:IdentifiedObject.name>
     <cim:Names.name>GUALOUMINIO</cim:Names.name>
+    <cim:IdentifiedObject.description>Generation Unit. Lio local update to elem corr 2026-02-18</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-01-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-18</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

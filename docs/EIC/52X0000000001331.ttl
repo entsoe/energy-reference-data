@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/52X0000000001331> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Trade Responsible Party" ;
+    cim:IdentifiedObject.mRID "52X0000000001331" ;
+    cim:IdentifiedObject.name "SHELL HYDROGEN B.V." ;
+    cim:Names.name "860551131B01",
+        "SHELLHYDROGENBV",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:52X0000000001331" ;
+    schema1:vatID "860551131B01" ;
+    skos:altLabel "SHELLHYDROGENBV" ;
+    skos:definition "Trade Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SHELL HYDROGEN B.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

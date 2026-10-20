@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001662R",
-    "@skos:prefLabel": "MOSKOG  G160 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G160_",
+    "@skos:prefLabel": "HOLSEN  G160 HYDRO",
+    "@skos:altLabel": "NO-HOLSENG160",
     "@cim:IdentifiedObject.mRID": "50WG00000001662R",
-    "@cim:IdentifiedObject.name": "MOSKOG  G160 HYDRO",
+    "@cim:IdentifiedObject.name": "HOLSEN  G160 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G160_",
+        "NO-HOLSENG160",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:55XCHRYSAORMARK6",
-    "@skos:prefLabel": "Chrysaor Marketing Limited",
-    "@skos:altLabel": "CHRYSAORMARKETIN",
+    "@skos:prefLabel": "Harbour Energy Marketing Limited",
+    "@skos:altLabel": "HARBOURENERGY",
     "@cim:IdentifiedObject.mRID": "55XCHRYSAORMARK6",
-    "@cim:IdentifiedObject.name": "Chrysaor Marketing Limited",
+    "@cim:IdentifiedObject.name": "Harbour Energy Marketing Limited",
     "@cim:Names.name": [
-        "CHRYSAORMARKETIN",
+        "HARBOURENERGY",
         "GB918462017",
         "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-02-07",
+    "@cim:DateAndOrTime.date": "2025-11-25",
     "@schema:vatID": "GB918462017",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

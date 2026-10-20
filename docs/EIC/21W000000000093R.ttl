@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-06" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Resource Object" ;
     cim:IdentifiedObject.mRID "21W000000000093R" ;
     cim:IdentifiedObject.name "UGS Uelsen" ;
     cim:Names.name "Resource Object",
         "UGS-UELSEN" ;
     dcterms:identifier "urn:eic:21W000000000093R" ;
     skos:altLabel "UGS-UELSEN" ;
-    skos:definition "Resource Object"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "UGS Uelsen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000197K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000197K" ;
+    cim:IdentifiedObject.name "X-CMDTY ApS" ;
+    cim:Names.name "44508567",
+        "Balance Responsible Party",
+        "XC" ;
+    dcterms:identifier "urn:eic:45X000000000197K" ;
+    schema1:vatID "44508567" ;
+    skos:altLabel "XC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "X-CMDTY ApS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

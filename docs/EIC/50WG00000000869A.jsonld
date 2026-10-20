@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000869A",
     "@skos:prefLabel": "KRISTIANG103 HYDRO",
-    "@skos:altLabel": "NO-KRISTIANG103_",
+    "@skos:altLabel": "NO-KRISTIANG103",
     "@cim:IdentifiedObject.mRID": "50WG00000000869A",
     "@cim:IdentifiedObject.name": "KRISTIANG103 HYDRO",
     "@cim:Names.name": [
-        "NO-KRISTIANG103_",
+        "NO-KRISTIANG103",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

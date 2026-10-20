@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XINTELLICOM--0" ;
     cim:IdentifiedObject.name "Intellicom Management SA" ;
-    cim:Names.name "Balance Group",
-        "DE264165731",
-        "INTELLICOM" ;
+    cim:Names.name "DE264165731",
+        "INTELLICOM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XINTELLICOM--0" ;
     schema1:vatID "DE264165731" ;
     skos:altLabel "INTELLICOM" ;

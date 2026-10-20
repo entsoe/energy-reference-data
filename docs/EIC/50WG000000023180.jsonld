@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000023180",
     "@skos:prefLabel": "HEMSIL_2G101 HYDRO",
-    "@skos:altLabel": "NO-HEMSIL_2G101_",
+    "@skos:altLabel": "NO-HEMSIL_2G101",
     "@cim:IdentifiedObject.mRID": "50WG000000023180",
     "@cim:IdentifiedObject.name": "HEMSIL_2G101 HYDRO",
     "@cim:Names.name": [
-        "NO-HEMSIL_2G101_",
+        "NO-HEMSIL_2G101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001155L" ;
     cim:IdentifiedObject.name "N 33Narvik-Frydenlund1" ;
     cim:Names.name "Internal Line",
-        "NO-NARVIKFRYDEN1" ;
+        "NO-33NARVIKLUND1" ;
     dcterms:identifier "urn:eic:50TL00000001155L" ;
-    skos:altLabel "NO-NARVIKFRYDEN1" ;
+    skos:altLabel "NO-33NARVIKLUND1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 33Narvik-Frydenlund1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

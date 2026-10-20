@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000028118" ;
     cim:IdentifiedObject.name "S 47 Ørje-Marker Vindpark" ;
     cim:Names.name "Internal Line",
-        "NO-XORJEMARKER" ;
+        "NO-47XORJEMARKER" ;
     dcterms:identifier "urn:eic:50TL000000028118" ;
-    skos:altLabel "NO-XORJEMARKER" ;
+    skos:altLabel "NO-47XORJEMARKER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Ørje-Marker Vindpark" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

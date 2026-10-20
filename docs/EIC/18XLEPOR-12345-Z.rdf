@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XLEPOR-12345-Z</dcterms:identifier>
     <skos:prefLabel>LE PORC GOURMET S.A.</skos:prefLabel>
     <skos:altLabel>LEPOR</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XLEPOR-12345-Z</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>LE PORC GOURMET S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>LEPOR</cim:Names.name>
     <cim:Names.name>ESA50596642</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-08-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA50596642</schema:vatID>

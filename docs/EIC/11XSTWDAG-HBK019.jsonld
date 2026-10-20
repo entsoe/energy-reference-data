@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSTWDAG-HBK019",
     "@skos:prefLabel": "Stadtwerke Düsseldorf AG",
     "@skos:altLabel": "SWDUESSELDORF",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTWDAG-HBK019",
     "@cim:IdentifiedObject.name": "Stadtwerke Düsseldorf AG",
     "@cim:Names.name": [
         "SWDUESSELDORF",
         "DE811365006",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-10-16",
     "@schema:vatID": "DE811365006",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

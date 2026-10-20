@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "10Z1001C--00044O" ;
     cim:IdentifiedObject.name "AMP-APG / 220kV / Kempten Au - Voehringen - Westtirol / Fuessen W 411" ;
-    cim:Names.name "FUESSNW" ;
+    cim:Names.name "Accounting Point",
+        "FUESSNW" ;
     dcterms:identifier "urn:eic:10Z1001C--00044O" ;
     skos:altLabel "FUESSNW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

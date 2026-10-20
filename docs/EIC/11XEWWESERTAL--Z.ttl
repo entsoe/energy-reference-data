@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEWWESERTAL--Z" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Wesertal GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE115443898",
-        "EWWESERTAL" ;
+    cim:Names.name "DE115443898",
+        "EWWESERTAL",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEWWESERTAL--Z" ;
     schema1:vatID "DE115443898" ;
     skos:altLabel "EWWESERTAL" ;

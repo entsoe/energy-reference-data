@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-07-11" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregated Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000468" ;
     cim:IdentifiedObject.name "Final consumers (BE) (Fluxys) Industrial clients H-zone" ;
     cim:Names.name "FLXBEHINDUST",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21Y0000000000468" ;
     skos:altLabel "FLXBEHINDUST" ;
-    skos:definition "Aggregated Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Final consumers (BE) (Fluxys) Industrial clients H-zone" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

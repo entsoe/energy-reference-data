@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-AREGATSSES1K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-AREGATSSES1K" ;
+    cim:IdentifiedObject.name "Agregāts Smiltene/Sigulda/Bruņulejas" ;
+    cim:Names.name "AREGATSSES1K",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:43W-AREGATSSES1K" ;
+    skos:altLabel "AREGATSSES1K" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Agregāts Smiltene/Sigulda/Bruņulejas" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

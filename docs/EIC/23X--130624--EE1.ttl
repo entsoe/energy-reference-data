@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-06-24" ;
+    cim:DateAndOrTime.date "2024-12-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Market Area" ;
     cim:IdentifiedObject.mRID "23X--130624--EE1" ;
     cim:IdentifiedObject.name "ENDESA ENERGÍA S.A.U. Succursale France" ;
     cim:Names.name "ENDESA_E_SF",
         "FR30499590552",
-        "Market Area" ;
+        "Market Area Operator" ;
     dcterms:identifier "urn:eic:23X--130624--EE1" ;
     schema1:vatID "FR30499590552" ;
     skos:altLabel "ENDESA_E_SF" ;

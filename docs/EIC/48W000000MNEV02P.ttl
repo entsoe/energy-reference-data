@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W000000MNEV02P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48W000000MNEV02P" ;
+    cim:IdentifiedObject.name "SELBY NEVA" ;
+    cim:Names.name "Generation Unit",
+        "MNEV02" ;
+    dcterms:identifier "urn:eic:48W000000MNEV02P" ;
+    skos:altLabel "MNEV02" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SELBY NEVA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

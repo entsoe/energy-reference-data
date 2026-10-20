@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000010933",
     "@skos:prefLabel": "MAR     G5      HYDRO",
-    "@skos:altLabel": "NO-MAR_____G5___",
+    "@skos:altLabel": "NO-MARG5",
     "@cim:IdentifiedObject.mRID": "50WG000000010933",
     "@cim:IdentifiedObject.name": "MAR     G5      HYDRO",
     "@cim:Names.name": [
-        "NO-MAR_____G5___",
+        "NO-MARG5",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

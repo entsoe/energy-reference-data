@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2026-08-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001708N" ;
     cim:IdentifiedObject.name "Skogn" ;
-    cim:Names.name "NO-SKOGN_PL",
+    cim:Names.name "NO-SKOGN",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001708N" ;
-    skos:altLabel "NO-SKOGN_PL" ;
+    skos:altLabel "NO-SKOGN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Skogn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

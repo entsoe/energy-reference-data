@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50A000000001590O</dcterms:identifier>
     <skos:prefLabel>Vafos</skos:prefLabel>
-    <skos:altLabel>NO-VAFOS</skos:altLabel>
+    <skos:altLabel>NO-VAFOSS</skos:altLabel>
     <cim:IdentifiedObject.mRID>50A000000001590O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Vafos</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-VAFOS</cim:Names.name>
+    <cim:Names.name>NO-VAFOSS</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-04</cim:DateAndOrTime.date>
     <cim:Names.name>Substation</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

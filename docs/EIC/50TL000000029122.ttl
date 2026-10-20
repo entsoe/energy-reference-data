@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000029122" ;
-    cim:IdentifiedObject.name "S 66 Sævareid-Tveitaskar" ;
+    cim:IdentifiedObject.name "S 66 Eikelandsosen-Tveitaskar" ;
     cim:Names.name "Internal Line",
-        "NO-SEVAREIDTVEIT" ;
+        "NO-22EIKELANDTVE" ;
     dcterms:identifier "urn:eic:50TL000000029122" ;
-    skos:altLabel "NO-SEVAREIDTVEIT" ;
+    skos:altLabel "NO-22EIKELANDTVE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Sævareid-Tveitaskar" ;
+    skos:prefLabel "S 66 Eikelandsosen-Tveitaskar" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

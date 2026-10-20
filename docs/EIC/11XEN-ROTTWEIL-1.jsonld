@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XEN-ROTTWEIL-1",
     "@skos:prefLabel": "ENRW Energieversorgung Rottweil GmbH & Co. KG",
     "@skos:altLabel": "EN_ROTTWEIL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEN-ROTTWEIL-1",
     "@cim:IdentifiedObject.name": "ENRW Energieversorgung Rottweil GmbH & Co. KG",
     "@cim:Names.name": [
         "EN_ROTTWEIL",
-        "DE117570536",
-        "Balance Group"
+        "DE200387156",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
-    "@schema:vatID": "DE117570536",
+    "@cim:DateAndOrTime.date": "2024-12-10",
+    "@schema:vatID": "DE200387156",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

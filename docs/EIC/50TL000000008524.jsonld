@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000008524",
-    "@skos:prefLabel": "M 22 Grytten-Verma",
-    "@skos:altLabel": "NO-GRYTTENVERMA",
+    "@skos:prefLabel": "N 22 Grytten-Verma",
+    "@skos:altLabel": "NO-22GRYTTENVERM",
     "@cim:IdentifiedObject.mRID": "50TL000000008524",
-    "@cim:IdentifiedObject.name": "M 22 Grytten-Verma",
+    "@cim:IdentifiedObject.name": "N 22 Grytten-Verma",
     "@cim:Names.name": [
-        "NO-GRYTTENVERMA",
+        "NO-22GRYTTENVERM",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

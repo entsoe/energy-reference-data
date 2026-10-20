@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/20X-LU25-LFDEI-O",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:20X-LU25-LFDEI-O",
+    "@skos:prefLabel": "LFDE INTERNATIONAL S.A. ",
+    "@skos:altLabel": "LFDE",
+    "@cim:IdentifiedObject.mRID": "20X-LU25-LFDEI-O",
+    "@cim:IdentifiedObject.name": "LFDE INTERNATIONAL S.A. ",
+    "@cim:Names.name": [
+        "LFDE",
+        "A0021925T.LU",
+        "LU34231824",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-04-15",
+    "@schema:vatID": "LU34231824",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

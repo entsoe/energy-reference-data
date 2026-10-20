@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006820G",
-    "@skos:prefLabel": "400 kV Krajnik-Baczyna 1",
+    "@skos:prefLabel": "400kV Krajnik-Baczyna Systemowa 1",
     "@skos:altLabel": "H009",
     "@cim:IdentifiedObject.mRID": "19T110000006820G",
-    "@cim:IdentifiedObject.name": "400 kV Krajnik-Baczyna 1",
+    "@cim:IdentifiedObject.name": "400kV Krajnik-Baczyna Systemowa 1",
     "@cim:Names.name": [
         "H009",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-15",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

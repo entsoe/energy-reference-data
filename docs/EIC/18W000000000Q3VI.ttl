@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000Q3VI" ;
     cim:IdentifiedObject.name "ISEOCDC01" ;
-    cim:Names.name "ES-ISEOCDC01" ;
+    cim:Names.name "ES-ISEOCDC01",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18W000000000Q3VI" ;
     skos:altLabel "ES-ISEOCDC01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

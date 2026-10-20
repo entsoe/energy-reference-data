@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50AI00000001452O" ;
-    cim:IdentifiedObject.name "T_Rørvik" ;
-    cim:Names.name "NO-T_RORVIK",
+    cim:IdentifiedObject.name "T_Saltbotn" ;
+    cim:Names.name "NO-T_SALTBO",
         "Substation" ;
     dcterms:identifier "urn:eic:50AI00000001452O" ;
-    skos:altLabel "NO-T_RORVIK" ;
+    skos:altLabel "NO-T_SALTBO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "T_Rørvik" ;
+    skos:prefLabel "T_Saltbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

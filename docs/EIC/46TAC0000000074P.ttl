@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-01" ;
+    cim:DateAndOrTime.date "2025-08-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Internal Line" ;
     cim:IdentifiedObject.mRID "46TAC0000000074P" ;
-    cim:IdentifiedObject.name "Harsprånget-Porjus" ;
-    cim:Names.name "HARSPR-PORJUS",
+    cim:IdentifiedObject.name "Harsprånget-Porjusberget" ;
+    cim:Names.name "HARSPR-PORJUSBER",
         "Internal Line" ;
     dcterms:identifier "urn:eic:46TAC0000000074P" ;
-    skos:altLabel "HARSPR-PORJUS" ;
+    skos:altLabel "HARSPR-PORJUSBER" ;
     skos:definition "Internal Line"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Harsprånget-Porjus" ;
+    skos:prefLabel "Harsprånget-Porjusberget" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

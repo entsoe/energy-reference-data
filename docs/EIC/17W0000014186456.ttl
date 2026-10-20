@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-07" ;
+    cim:DateAndOrTime.date "2026-09-21" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "17W0000014186456" ;
     cim:IdentifiedObject.name "CPCU StOuen - GP" ;
     cim:Names.name "FR_CPCUSO_GP",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W0000014186456" ;
     skos:altLabel "FR_CPCUSO_GP" ;
+    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "CPCU StOuen - GP" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001139K",
-    "@skos:prefLabel": "S Vatne    50  Forbruk",
-    "@skos:altLabel": "NO-VATNE50",
+    "@skos:prefLabel": "S Vatne    22  L1 Forbruk",
+    "@skos:altLabel": "NO-VATNE22L1",
     "@cim:IdentifiedObject.mRID": "50WC00000001139K",
-    "@cim:IdentifiedObject.name": "S Vatne    50  Forbruk",
+    "@cim:IdentifiedObject.name": "S Vatne    22  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-VATNE50",
+        "NO-VATNE22L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

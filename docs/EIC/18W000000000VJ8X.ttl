@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18W000000000VJ8X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18W000000000VJ8X" ;
+    cim:IdentifiedObject.name "GALPT24" ;
+    cim:Names.name "ES-GALPT24",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:18W000000000VJ8X" ;
+    skos:altLabel "ES-GALPT24" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GALPT24" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

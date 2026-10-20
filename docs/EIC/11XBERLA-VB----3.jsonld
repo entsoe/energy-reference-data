@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XBERLA-VB----3",
     "@skos:prefLabel": "BerLa GmbH",
     "@skos:altLabel": "BERLA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XBERLA-VB----3",
     "@cim:IdentifiedObject.name": "BerLa GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE270253964",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-03-25",
+    "@cim:DateAndOrTime.date": "2023-12-15",
     "@schema:vatID": "DE270253964",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

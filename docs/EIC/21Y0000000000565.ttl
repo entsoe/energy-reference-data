@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Aggregate Entry Point" ;
     cim:IdentifiedObject.mRID "21Y0000000000565" ;
     cim:IdentifiedObject.name "National Production Italy" ;
-    cim:Names.name "NAT_PROD_IT",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "NAT_PROD_IT" ;
     dcterms:identifier "urn:eic:21Y0000000000565" ;
     skos:altLabel "NAT_PROD_IT" ;
-    skos:definition "Aggregate Entry Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "National Production Italy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

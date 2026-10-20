@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WLAUKSARGIUVE7> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """41XVEJO-VATAS--E
+""" ;
+    cim:IdentifiedObject.mRID "41WLAUKSARGIUVE7" ;
+    cim:IdentifiedObject.name "Lauksargių VE UAB Vėjo vatas" ;
+    cim:Names.name "LAUKSARGIUVE",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:41WLAUKSARGIUVE7" ;
+    skos:altLabel "LAUKSARGIUVE" ;
+    skos:definition """41XVEJO-VATAS--E
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Lauksargių VE UAB Vėjo vatas" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

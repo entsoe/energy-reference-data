@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/36X-DTRADINGBH-Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "36X-DTRADINGBH-Z" ;
+    cim:IdentifiedObject.name "D.o.o. D. Trading BH" ;
+    cim:Names.name "4272036120007",
+        "Balance Responsible Party",
+        "DTRADBH" ;
+    dcterms:identifier "urn:eic:36X-DTRADINGBH-Z" ;
+    schema1:vatID "4272036120007" ;
+    skos:altLabel "DTRADBH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "D.o.o. D. Trading BH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

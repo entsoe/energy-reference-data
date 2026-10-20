@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002837R",
-    "@skos:prefLabel": "M 66 Kaldåga-Drevvatn",
-    "@skos:altLabel": "NO-KALDAGADREVVA",
+    "@skos:prefLabel": "N 66 Kaldåga-Drevvatn",
+    "@skos:altLabel": "NO-66KALDAGADREV",
     "@cim:IdentifiedObject.mRID": "50TL00000002837R",
-    "@cim:IdentifiedObject.name": "M 66 Kaldåga-Drevvatn",
+    "@cim:IdentifiedObject.name": "N 66 Kaldåga-Drevvatn",
     "@cim:Names.name": [
-        "NO-KALDAGADREVVA",
+        "NO-66KALDAGADREV",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

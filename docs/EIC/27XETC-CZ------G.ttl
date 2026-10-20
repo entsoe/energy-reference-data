@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-02-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Electricity Trading" ;
     cim:IdentifiedObject.mRID "27XETC-CZ------G" ;
-    cim:IdentifiedObject.name "ETC-Energy Trading, s.r.o." ;
+    cim:IdentifiedObject.name "EIFlexi, s. r. o." ;
     cim:Names.name "Balance Responsible Party",
         "CZ27678849",
-        "ETC-CZ------" ;
+        "EIFLEXI_ETC" ;
     dcterms:identifier "urn:eic:27XETC-CZ------G" ;
     schema1:vatID "CZ27678849" ;
-    skos:altLabel "ETC-CZ------" ;
+    skos:altLabel "EIFLEXI_ETC" ;
     skos:definition "Electricity Trading"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ETC-Energy Trading, s.r.o." ;
+    skos:prefLabel "EIFlexi, s. r. o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

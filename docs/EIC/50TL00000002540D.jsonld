@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002540D",
-    "@skos:prefLabel": "S Vinje 300 G3 Kabel",
-    "@skos:altLabel": "NO-VINJE300G3K",
+    "@skos:prefLabel": "S Vinje    300 G3 Kabel",
+    "@skos:altLabel": "NO-VINJE300G3_K",
     "@cim:IdentifiedObject.mRID": "50TL00000002540D",
-    "@cim:IdentifiedObject.name": "S Vinje 300 G3 Kabel",
+    "@cim:IdentifiedObject.name": "S Vinje    300 G3 Kabel",
     "@cim:Names.name": [
-        "NO-VINJE300G3K",
+        "NO-VINJE300G3_K",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

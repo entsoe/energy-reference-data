@@ -16,7 +16,10 @@
     "@skos:altLabel": "1101",
     "@cim:IdentifiedObject.mRID": "19T110000006703K",
     "@cim:IdentifiedObject.name": "Miłosna-Mory",
-    "@cim:Names.name": "1101",
+    "@cim:Names.name": [
+        "1101",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-07-25",

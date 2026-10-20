@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000026700" ;
-    cim:IdentifiedObject.name "M Bodin 66 TJ2 X" ;
+    cim:IdentifiedObject.name "N Bodin    66  TJ2 X" ;
     cim:Names.name "Internal Line",
-        "NO-BODIN66TJ2X" ;
+        "NO-BODIN66TJ2_X" ;
     dcterms:identifier "urn:eic:50TL000000026700" ;
-    skos:altLabel "NO-BODIN66TJ2X" ;
+    skos:altLabel "NO-BODIN66TJ2_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Bodin 66 TJ2 X" ;
+    skos:prefLabel "N Bodin    66  TJ2 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

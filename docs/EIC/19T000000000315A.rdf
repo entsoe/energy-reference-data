@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19T000000000315A</dcterms:identifier>
-    <skos:prefLabel>Z&#261;bkowice-&#346;wiebodzice</skos:prefLabel>
+    <skos:prefLabel>220kV Zabkowice-Swiebodzice</skos:prefLabel>
     <skos:altLabel>4631</skos:altLabel>
     <cim:IdentifiedObject.mRID>19T000000000315A</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Z&#261;bkowice-&#346;wiebodzice</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>220kV Zabkowice-Swiebodzice</cim:IdentifiedObject.name>
     <cim:Names.name>4631</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-17</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

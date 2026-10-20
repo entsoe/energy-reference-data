@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/12Y-000000104Q-M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "12Y-000000104Q-M" ;
+    cim:IdentifiedObject.name "Respect Energy Fuels Sp. z o.o" ;
+    cim:Names.name "Balance Group",
+        "RESPECTNRJ-FU-BG" ;
+    dcterms:identifier "urn:eic:12Y-000000104Q-M" ;
+    skos:altLabel "RESPECTNRJ-FU-BG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Respect Energy Fuels Sp. z o.o" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

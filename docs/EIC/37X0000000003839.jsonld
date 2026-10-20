@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/37X0000000003839",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:37X0000000003839",
+    "@skos:prefLabel": "Biogas Reichardtswerben GmbH",
+    "@skos:altLabel": "BIOGAS_REICHARDT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Testing for tax number versus VAT-Number"
+    },
+    "@cim:IdentifiedObject.mRID": "37X0000000003839",
+    "@cim:IdentifiedObject.name": "Biogas Reichardtswerben GmbH",
+    "@cim:Names.name": [
+        "BIOGAS_REICHARDT",
+        "11911803080",
+        "Energy Supplier"
+    ],
+    "@cim:IdentifiedObject.description": "Testing for tax number versus VAT-Number",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-08-17",
+    "@schema:vatID": "11911803080",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

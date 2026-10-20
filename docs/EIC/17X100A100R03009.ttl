@@ -12,9 +12,10 @@
     cim:IdentifiedObject.description "Balance Responsible Party, Trade Responsible Party, contrat RE fermé, code désactivé" ;
     cim:IdentifiedObject.mRID "17X100A100R03009" ;
     cim:IdentifiedObject.name "Lehman Brothers Commodity Services Europe" ;
-    cim:Names.name "FR_LEHMANBROTHER",
+    cim:Names.name "Balance Responsible Party",
+        "FR_LEHMANBROTHER",
         "GB446931528",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:17X100A100R03009" ;
     schema1:vatID "GB446931528" ;
     skos:altLabel "FR_LEHMANBROTHER" ;

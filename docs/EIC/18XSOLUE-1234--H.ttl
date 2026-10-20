@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-26" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XSOLUE-1234--H" ;
     cim:IdentifiedObject.name "SOCIEDAD LUCENSE DE ENERGIA HIDRÁULICA Y EÓLICA, S.L." ;
     cim:Names.name "ESB15976707",
-        "Production Responsible party",
+        "Production Responsible Party",
         "SOLUE" ;
     dcterms:identifier "urn:eic:18XSOLUE-1234--H" ;
     schema1:vatID "ESB15976707" ;

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "45T000000000172I" ;
     cim:IdentifiedObject.name "150kV Veter Hassing Aalborg" ;
-    cim:Names.name "VHA_150I_AABOE" ;
+    cim:Names.name "Internal Line",
+        "VHA_150I_AABOE" ;
     dcterms:identifier "urn:eic:45T000000000172I" ;
     skos:altLabel "VHA_150I_AABOE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000009326",
-    "@skos:prefLabel": "S 22 RødbergNore_1",
-    "@skos:altLabel": "NO-RODBERGNORE1",
+    "@skos:prefLabel": "S 22 RødbergNore1",
+    "@skos:altLabel": "NO-22RODBERGNORE",
     "@cim:IdentifiedObject.mRID": "50TL000000009326",
-    "@cim:IdentifiedObject.name": "S 22 RødbergNore_1",
+    "@cim:IdentifiedObject.name": "S 22 RødbergNore1",
     "@cim:Names.name": [
-        "NO-RODBERGNORE1",
+        "NO-22RODBERGNORE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000713I" ;
-    cim:IdentifiedObject.name "M 132 T_Grøa-Driva" ;
+    cim:IdentifiedObject.name "N 132 T_Grøa-Driva" ;
     cim:Names.name "Internal Line",
-        "NO-TGROADRIVA" ;
+        "NO-132T_GROADRIV" ;
     dcterms:identifier "urn:eic:50TL00000000713I" ;
-    skos:altLabel "NO-TGROADRIVA" ;
+    skos:altLabel "NO-132T_GROADRIV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 T_Grøa-Driva" ;
+    skos:prefLabel "N 132 T_Grøa-Driva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

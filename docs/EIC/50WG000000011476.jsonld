@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000011476",
     "@skos:prefLabel": "NEDREFISG1      HYDRO",
-    "@skos:altLabel": "NO-NEDREFISG1___",
+    "@skos:altLabel": "NO-NEDREFISG1",
     "@cim:IdentifiedObject.mRID": "50WG000000011476",
     "@cim:IdentifiedObject.name": "NEDREFISG1      HYDRO",
     "@cim:Names.name": [
-        "NO-NEDREFISG1___",
+        "NO-NEDREFISG1",
         "Generation Unit"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-05-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

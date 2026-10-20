@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26W115980315710U",
-    "@skos:prefLabel": "UP_115980_31571",
+    "@skos:prefLabel": "UP_TAVAZZANO_1",
     "@skos:altLabel": "IT-UP-115980-571",
     "@cim:IdentifiedObject.mRID": "26W115980315710U",
-    "@cim:IdentifiedObject.name": "UP_115980_31571",
+    "@cim:IdentifiedObject.name": "UP_TAVAZZANO_1",
     "@cim:Names.name": [
         "IT-UP-115980-571",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-12",
+    "@cim:DateAndOrTime.date": "2026-05-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

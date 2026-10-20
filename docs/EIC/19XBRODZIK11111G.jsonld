@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XBRODZIK11111G",
-    "@skos:prefLabel": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SP.JAWNA",
+    "@skos:prefLabel": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SPÓŁKA KOMANDYTOWA",
     "@skos:altLabel": "PHU_BRODZIK",
     "@cim:IdentifiedObject.mRID": "19XBRODZIK11111G",
-    "@cim:IdentifiedObject.name": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SP.JAWNA",
+    "@cim:IdentifiedObject.name": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SPÓŁKA KOMANDYTOWA",
     "@cim:Names.name": [
         "PHU_BRODZIK",
         "A0011743G.PL",
         "PL6492037525",
-        "Meter Administrator",
-        "Metered Data Responsible",
-        "System Operator",
-        "Producer",
         "Energy Supplier",
-        "Grid Access Provider"
+        "Meter Administrator",
+        "Producer",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-14",
+    "@cim:DateAndOrTime.date": "2025-04-14",
     "@schema:vatID": "PL6492037525",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

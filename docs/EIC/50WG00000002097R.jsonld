@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000002097R",
     "@skos:prefLabel": "VAGAMO  G106 HYDRO",
-    "@skos:altLabel": "NO-VAGAMO__G106_",
+    "@skos:altLabel": "NO-VAGAMOG106",
     "@cim:IdentifiedObject.mRID": "50WG00000002097R",
     "@cim:IdentifiedObject.name": "VAGAMO  G106 HYDRO",
     "@cim:Names.name": [
-        "NO-VAGAMO__G106_",
+        "NO-VAGAMOG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

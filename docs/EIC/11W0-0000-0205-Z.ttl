@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11W0-0000-0205-Z" ;
     cim:IdentifiedObject.name "TSRENVP3" ;
-    cim:Names.name "TSRENVP3" ;
+    cim:Names.name "Production Unit",
+        "TSRENVP3" ;
     dcterms:identifier "urn:eic:11W0-0000-0205-Z" ;
     skos:altLabel "TSRENVP3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

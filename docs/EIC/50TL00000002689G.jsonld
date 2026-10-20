@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002689G",
-    "@skos:prefLabel": "M 22 Reinåga-Korgen",
-    "@skos:altLabel": "NO-REINAGAKORGEN",
+    "@skos:prefLabel": "N 22 Reinåga-Korgen",
+    "@skos:altLabel": "NO-22REINAGAKORG",
     "@cim:IdentifiedObject.mRID": "50TL00000002689G",
-    "@cim:IdentifiedObject.name": "M 22 Reinåga-Korgen",
+    "@cim:IdentifiedObject.name": "N 22 Reinåga-Korgen",
     "@cim:Names.name": [
-        "NO-REINAGAKORGEN",
+        "NO-22REINAGAKORG",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

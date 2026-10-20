@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEGUSSAGOLD-V" ;
     cim:IdentifiedObject.name "Evonik Degussa GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE114138241",
-        "EVONIK-DEGUSSA" ;
+    cim:Names.name "DE114138241",
+        "EVONIK-DEGUSSA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDEGUSSAGOLD-V" ;
     schema1:vatID "DE114138241" ;
     skos:altLabel "EVONIK-DEGUSSA" ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000850P" ;
     cim:IdentifiedObject.name "Øvre Svultingen" ;
-    cim:Names.name "NO-OVRE_SV",
+    cim:Names.name "NO-OVRE_SVU",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000850P" ;
-    skos:altLabel "NO-OVRE_SV" ;
+    skos:altLabel "NO-OVRE_SVU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Øvre Svultingen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

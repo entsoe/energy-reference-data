@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001862Y",
-    "@skos:prefLabel": "M Marka    2   LARM Last",
+    "@skos:prefLabel": "N Marka    2   L2  Forbruk",
     "@skos:altLabel": "NO-MARKA2",
     "@cim:IdentifiedObject.mRID": "50WC00000001862Y",
-    "@cim:IdentifiedObject.name": "M Marka    2   LARM Last",
+    "@cim:IdentifiedObject.name": "N Marka    2   L2  Forbruk",
     "@cim:Names.name": [
         "NO-MARKA2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

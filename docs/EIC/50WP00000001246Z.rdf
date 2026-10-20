@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001246Z</dcterms:identifier>
-    <skos:prefLabel>Nibbedal</skos:prefLabel>
-    <skos:altLabel>NO-NIBBEDAL_PL</skos:altLabel>
+    <skos:prefLabel>Nibbedalen</skos:prefLabel>
+    <skos:altLabel>NO-NIBBEDALEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001246Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Nibbedal</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-NIBBEDAL_PL</cim:Names.name>
+    <cim:IdentifiedObject.name>Nibbedalen</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-NIBBEDALEN</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-08-22</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

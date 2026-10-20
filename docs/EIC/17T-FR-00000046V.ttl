@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-12-12" ;
+    cim:DateAndOrTime.date "2024-12-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Internal Tie-Line" ;
     cim:IdentifiedObject.mRID "17T-FR-00000046V" ;
-    cim:IdentifiedObject.name "L 400kV N0 1 PRAZ ST ANDRE 1-PRAZ ST ANDRE 2-VILLARODIN" ;
+    cim:IdentifiedObject.name "L 400kV N0 1 PRAZ ST AND 1-PRAZ ST AND 2-VILLARO" ;
     cim:Names.name "FR_P-ANDZ71VLARO",
         "Internal Tie-Line" ;
     dcterms:identifier "urn:eic:17T-FR-00000046V" ;
     skos:altLabel "FR_P-ANDZ71VLARO" ;
     skos:definition "Internal Tie-Line"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "L 400kV N0 1 PRAZ ST ANDRE 1-PRAZ ST ANDRE 2-VILLARODIN" ;
+    skos:prefLabel "L 400kV N0 1 PRAZ ST AND 1-PRAZ ST AND 2-VILLARO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

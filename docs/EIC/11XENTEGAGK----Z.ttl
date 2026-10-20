@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XENTEGAGK----Z" ;
     cim:IdentifiedObject.name "ENTEGA Energie GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813810149",
-        "ENTGK" ;
+    cim:Names.name "DE813810149",
+        "ENTGK",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENTEGAGK----Z" ;
     schema1:vatID "DE813810149" ;
     skos:altLabel "ENTGK" ;

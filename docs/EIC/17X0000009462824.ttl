@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-04-16" ;
+    cim:DateAndOrTime.date "2024-12-06" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "17X0000009462824" ;
     cim:IdentifiedObject.name "Goldman Sachs Paris Inc. et Cie" ;
     cim:Names.name "A00167661.FR",
+        "Balance Responsible Party",
         "FR17342131547",
-        "FR_GSPC",
-        "Trade Responsible Party" ;
+        "FR_GSPC" ;
     dcterms:identifier "urn:eic:17X0000009462824" ;
     schema1:vatID "FR17342131547" ;
     skos:altLabel "FR_GSPC" ;

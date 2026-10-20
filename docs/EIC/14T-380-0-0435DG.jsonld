@@ -16,7 +16,10 @@
     "@skos:altLabel": "435D",
     "@cim:IdentifiedObject.mRID": "14T-380-0-0435DG",
     "@cim:IdentifiedObject.name": "380kV line Wien Suedost-Sarasdorf",
-    "@cim:Names.name": "435D",
+    "@cim:Names.name": [
+        "435D",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-11-26",

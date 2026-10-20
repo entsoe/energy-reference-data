@@ -7,17 +7,21 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-06" ;
+    cim:DateAndOrTime.date "2024-10-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X142538610000W" ;
-    cim:IdentifiedObject.name "E-GAP SRL" ;
-    cim:Names.name "E-GAP",
+    cim:IdentifiedObject.name "E-GAP SRL SOCIETA' BENEFIT" ;
+    cim:Names.name "Balancing Service Provider",
+        "Energy Supplier",
+        "IT-E-GAPSRLSOCIE",
         "IT14253861000",
+        "Market Operator",
+        "Producer",
         "Storage System Operator" ;
     dcterms:identifier "urn:eic:26X142538610000W" ;
     schema1:vatID "IT14253861000" ;
-    skos:altLabel "E-GAP" ;
+    skos:altLabel "IT-E-GAPSRLSOCIE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "E-GAP SRL" ;
+    skos:prefLabel "E-GAP SRL SOCIETA' BENEFIT" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

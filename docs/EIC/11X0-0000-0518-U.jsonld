@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X0-0000-0518-U",
-    "@skos:prefLabel": "TrailStone Renewables GmbH",
+    "@skos:prefLabel": "Engelhart CTP Renewables GmbH",
     "@skos:altLabel": "TSR",
     "@cim:IdentifiedObject.mRID": "11X0-0000-0518-U",
-    "@cim:IdentifiedObject.name": "TrailStone Renewables GmbH",
+    "@cim:IdentifiedObject.name": "Engelhart CTP Renewables GmbH",
     "@cim:Names.name": [
         "TSR",
         "DE815824732",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-22",
+    "@cim:DateAndOrTime.date": "2025-02-14",
     "@schema:vatID": "DE815824732",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

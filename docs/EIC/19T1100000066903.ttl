@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000066903" ;
-    cim:IdentifiedObject.name "Ostrów-Rogowiec" ;
+    cim:IdentifiedObject.name "400kV Ostrow-Rogowiec" ;
     cim:Names.name "416",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000066903" ;
     skos:altLabel "416" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ostrów-Rogowiec" ;
+    skos:prefLabel "400kV Ostrow-Rogowiec" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XFORINI-SPA--M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XFORINI-SPA--M" ;
+    cim:IdentifiedObject.name "FORINI SPA" ;
+    cim:Names.name "FORINISPA",
+        "IT00148360548",
+        "Market Operator" ;
+    dcterms:identifier "urn:eic:59XFORINI-SPA--M" ;
+    schema1:vatID "IT00148360548" ;
+    skos:altLabel "FORINISPA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FORINI SPA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

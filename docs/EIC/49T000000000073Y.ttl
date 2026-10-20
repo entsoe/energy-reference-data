@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-07-01" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000073Y" ;
     cim:IdentifiedObject.name "Eemshaven-Eemshaven Converterstation 380kV zwart" ;
-    cim:Names.name "Internal Line",
-        "MVL-MDC380-Z" ;
+    cim:Names.name "EEM-EDC380-Z",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000073Y" ;
-    skos:altLabel "MVL-MDC380-Z" ;
+    skos:altLabel "EEM-EDC380-Z" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Eemshaven-Eemshaven Converterstation 380kV zwart" ;

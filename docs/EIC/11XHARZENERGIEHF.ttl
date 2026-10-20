@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XHARZENERGIEHF" ;
     cim:IdentifiedObject.name "Harz Energie GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE215885046",
-        "HEGH" ;
+    cim:Names.name "DE215885046",
+        "HEGH",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XHARZENERGIEHF" ;
     schema1:vatID "DE215885046" ;
     skos:altLabel "HEGH" ;

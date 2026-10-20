@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001278S" ;
-    cim:IdentifiedObject.name "ORKDAL  G142 HYDRO" ;
+    cim:IdentifiedObject.name "MELDAL  G142 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ORKDAL__G142_" ;
+        "NO-MELDALG142" ;
     dcterms:identifier "urn:eic:50WG00000001278S" ;
-    skos:altLabel "NO-ORKDAL__G142_" ;
+    skos:altLabel "NO-MELDALG142" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ORKDAL  G142 HYDRO" ;
+    skos:prefLabel "MELDAL  G142 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

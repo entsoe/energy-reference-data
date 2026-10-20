@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004894C",
-    "@skos:prefLabel": "M Grytåga  T1 Transformator",
-    "@skos:altLabel": "NO-GRYTAGA_T1",
+    "@skos:prefLabel": "N Grytåga  T1 Transformator",
+    "@skos:altLabel": "NO-GRYTAGAT1",
     "@cim:IdentifiedObject.mRID": "50TT00000004894C",
-    "@cim:IdentifiedObject.name": "M Grytåga  T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Grytåga  T1 Transformator",
     "@cim:Names.name": [
-        "NO-GRYTAGA_T1",
+        "NO-GRYTAGAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

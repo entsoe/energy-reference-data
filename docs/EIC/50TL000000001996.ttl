@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000001996" ;
-    cim:IdentifiedObject.name "M 132 Driva-Lønset" ;
+    cim:IdentifiedObject.name "N 132 Driva-Lønset" ;
     cim:Names.name "Internal Line",
-        "NO-DRIVALONSET" ;
+        "NO-132DRIVALONSE" ;
     dcterms:identifier "urn:eic:50TL000000001996" ;
-    skos:altLabel "NO-DRIVALONSET" ;
+    skos:altLabel "NO-132DRIVALONSE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Driva-Lønset" ;
+    skos:prefLabel "N 132 Driva-Lønset" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

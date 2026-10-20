@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Schneeren",
     "@cim:Names.name": [
         "SCHNEEREN",
-        "Valid EIC Function needed"
+        "Market Area"
     ],
     "@cim:IdentifiedObject.description": "Connection Point To Production",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

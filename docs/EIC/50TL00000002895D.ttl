@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002895D" ;
     cim:IdentifiedObject.name "S 66 Tysingvatn-Hjorteland" ;
     cim:Names.name "Internal Line",
-        "NO-TYSINGVATNHJO" ;
+        "NO-66TYSINGVATNH" ;
     dcterms:identifier "urn:eic:50TL00000002895D" ;
-    skos:altLabel "NO-TYSINGVATNHJO" ;
+    skos:altLabel "NO-66TYSINGVATNH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Tysingvatn-Hjorteland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

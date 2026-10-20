@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-08-04" ;
+    cim:DateAndOrTime.date "2025-07-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "16TLRRFRA------Z" ;
-    cim:IdentifiedObject.name "Recarei-Feira" ;
+    cim:IdentifiedObject.name "Recarei-Feira 1" ;
     cim:Names.name "Internal Line",
-        "LRR_FRA" ;
+        "LRR_FRA1" ;
     dcterms:identifier "urn:eic:16TLRRFRA------Z" ;
-    skos:altLabel "LRR_FRA" ;
+    skos:altLabel "LRR_FRA1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Recarei-Feira" ;
+    skos:prefLabel "Recarei-Feira 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

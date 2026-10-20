@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002175B",
-    "@skos:prefLabel": "S Klovning 66  T1 Forbruk",
-    "@skos:altLabel": "NO-KLOVNING66T1",
+    "@skos:prefLabel": "S Klovning 22  K1 Forbruk",
+    "@skos:altLabel": "NO-KLOVNING22K1",
     "@cim:IdentifiedObject.mRID": "50WC00000002175B",
-    "@cim:IdentifiedObject.name": "S Klovning 66  T1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Klovning 22  K1 Forbruk",
     "@cim:Names.name": [
-        "NO-KLOVNING66T1",
+        "NO-KLOVNING22K1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

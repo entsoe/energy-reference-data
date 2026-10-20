@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XEXPLO-12345-T</dcterms:identifier>
     <skos:prefLabel>EMPRESA EXPLOTADORA DEL JUEGO DEL BINGO, S.A.</skos:prefLabel>
     <skos:altLabel>EXPLO</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XEXPLO-12345-T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EMPRESA EXPLOTADORA DEL JUEGO DEL BINGO, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>EXPLO</cim:Names.name>
     <cim:Names.name>ES78481488</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-05-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ES78481488</schema:vatID>

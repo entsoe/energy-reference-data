@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000001785Q",
     "@skos:prefLabel": "S Forus    11  L1 Forbruk",
-    "@skos:altLabel": "NO-FORUS11",
+    "@skos:altLabel": "NO-FORUS11A",
     "@cim:IdentifiedObject.mRID": "50WC00000001785Q",
     "@cim:IdentifiedObject.name": "S Forus    11  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-FORUS11",
+        "NO-FORUS11A",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-06-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

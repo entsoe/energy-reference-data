@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:33X26WATTVOLT04W</dcterms:identifier>
-    <skos:prefLabel>WATTANDVOLT DOOEL Skopje</skos:prefLabel>
-    <skos:altLabel>WATTANDVOLT</skos:altLabel>
+    <skos:prefLabel>ENERJEKS DOOEL Skopje</skos:prefLabel>
+    <skos:altLabel>ENERJEKS</skos:altLabel>
     <cim:IdentifiedObject.mRID>33X26WATTVOLT04W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>WATTANDVOLT DOOEL Skopje</cim:IdentifiedObject.name>
-    <cim:Names.name>WATTANDVOLT</cim:Names.name>
+    <cim:IdentifiedObject.name>ENERJEKS DOOEL Skopje</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERJEKS</cim:Names.name>
     <cim:Names.name>4080018577559</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-07-08</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-13</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>4080018577559</schema:vatID>

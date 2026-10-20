@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-KIH-SK-OZ--N" ;
     cim:IdentifiedObject.name "KIH Energy Slovensko, s.r.o. organizacna zlozka" ;
     cim:Names.name "KIHENERGYSK",
-        "Trade Responsible Party" ;
+        "Trade Responsible Party",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-KIH-SK-OZ--N" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "KIHENERGYSK" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

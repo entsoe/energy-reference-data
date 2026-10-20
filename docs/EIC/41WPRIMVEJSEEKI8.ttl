@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WPRIMVEJSEEKI8> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """EEKĮ – Lyvoniškių k. 2, Kelmės r. sav., žemės sklypo kadastro Nr. 5470/0001:251, Kiaunariškių k., Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:94; energijos kaupimo įrenginys – Kiaunariškių k. 11, Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:233.
+
+""" ;
+    cim:IdentifiedObject.mRID "41WPRIMVEJSEEKI8" ;
+    cim:IdentifiedObject.name "Pirmas vėjas ,UAB EEKĮ" ;
+    cim:Names.name "BESS",
+        "PIRMASVEJASEEKI" ;
+    dcterms:identifier "urn:eic:41WPRIMVEJSEEKI8" ;
+    skos:altLabel "PIRMASVEJASEEKI" ;
+    skos:definition """EEKĮ – Lyvoniškių k. 2, Kelmės r. sav., žemės sklypo kadastro Nr. 5470/0001:251, Kiaunariškių k., Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:94; energijos kaupimo įrenginys – Kiaunariškių k. 11, Kelmės r. sav., žemės sklypo kadastro Nr. 5407/0001:233.
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Pirmas vėjas ,UAB EEKĮ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

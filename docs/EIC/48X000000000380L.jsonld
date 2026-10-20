@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000380L",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000380L",
+    "@skos:prefLabel": "BayWa r.e. Energy Trading UK Limited",
+    "@skos:altLabel": "BAYWA_UK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "22 Chancery Lane\nLondon\nWC2A 1LS\nUnited Kingdom\nMichael Flath\nmichael.flath@baywa-re.com\n+49 341 33967 510\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000380L",
+    "@cim:IdentifiedObject.name": "BayWa r.e. Energy Trading UK Limited",
+    "@cim:Names.name": [
+        "BAYWA_UK",
+        "GB463096678",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "22 Chancery Lane\nLondon\nWC2A 1LS\nUnited Kingdom\nMichael Flath\nmichael.flath@baywa-re.com\n+49 341 33967 510\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-05-21",
+    "@schema:vatID": "GB463096678",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

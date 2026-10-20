@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005661U" ;
-    cim:IdentifiedObject.name "M Siso     T2 Transformator" ;
-    cim:Names.name "NO-SISO____T2",
+    cim:IdentifiedObject.name "N Siso     T2 Transformator" ;
+    cim:Names.name "NO-SISOT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005661U" ;
-    skos:altLabel "NO-SISO____T2" ;
+    skos:altLabel "NO-SISOT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Siso     T2 Transformator" ;
+    skos:prefLabel "N Siso     T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

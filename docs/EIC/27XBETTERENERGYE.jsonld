@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Better energy s.r.o.",
     "@cim:Names.name": [
         "BETTERENERGY",
-        "CZ06377505",
+        "cz06377505",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-11-01",
-    "@schema:vatID": "CZ06377505",
+    "@schema:vatID": "cz06377505",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2321-R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2321-R" ;
+    cim:IdentifiedObject.name "TTG/380-220/KREMPERMARSCH PA/ERREGERTRAFO T442A" ;
+    cim:Names.name "T-D2-D2-14400639",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:11T0-0000-2321-R" ;
+    skos:altLabel "T-D2-D2-14400639" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TTG/380-220/KREMPERMARSCH PA/ERREGERTRAFO T442A" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

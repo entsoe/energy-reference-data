@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "28T-0000000213-Q" ;
     cim:IdentifiedObject.name "DV 400 kV Maribor-Krško" ;
-    cim:Names.name "DV-400-MAR-KRS-1" ;
+    cim:Names.name "DV-400-MAR-KRS-1",
+        "Tieline" ;
     dcterms:identifier "urn:eic:28T-0000000213-Q" ;
     skos:altLabel "DV-400-MAR-KRS-1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

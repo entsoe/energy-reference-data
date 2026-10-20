@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006412J",
-    "@skos:prefLabel": "Dobrzeń-Wrocław",
+    "@skos:prefLabel": "400kV Dobrzen-Wroclaw",
     "@skos:altLabel": "423",
     "@cim:IdentifiedObject.mRID": "19T000000006412J",
-    "@cim:IdentifiedObject.name": "Dobrzeń-Wrocław",
+    "@cim:IdentifiedObject.name": "400kV Dobrzen-Wroclaw",
     "@cim:Names.name": [
         "423",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2011-05-26" ;
+    cim:DateAndOrTime.date "2024-12-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "21X000000001102X" ;
-    cim:IdentifiedObject.name "OAO GAZPROM" ;
-    cim:Names.name "GAZPROM-MOSCOW",
-        "System Operator" ;
+    cim:IdentifiedObject.name "GAZPROM" ;
+    cim:Names.name "7736050003",
+        "GAZPROM-MOSCOW",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001102X" ;
+    schema1:vatID "7736050003" ;
     skos:altLabel "GAZPROM-MOSCOW" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "OAO GAZPROM" ;
+    skos:prefLabel "GAZPROM" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

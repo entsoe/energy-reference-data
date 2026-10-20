@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49X000000000092B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49X000000000092B" ;
+    cim:IdentifiedObject.name "Cooperatieve Duurzame Energie Unie U.A." ;
+    cim:Names.name "Balance Responsible Party",
+        "NL852262152B01",
+        "OM" ;
+    dcterms:identifier "urn:eic:49X000000000092B" ;
+    schema1:vatID "NL852262152B01" ;
+    skos:altLabel "OM" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Cooperatieve Duurzame Energie Unie U.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,21 +12,21 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000GELL1",
-    "@skos:prefLabel": "Respect Energy Fuels Sp. z o.o.",
-    "@skos:altLabel": "RESPECTFUELS",
+    "@skos:prefLabel": "Somosierra Commodities Sp. z o.o.",
+    "@skos:altLabel": "SOMOSIERRA",
     "@cim:IdentifiedObject.mRID": "53XPL000000GELL1",
-    "@cim:IdentifiedObject.name": "Respect Energy Fuels Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "Somosierra Commodities Sp. z o.o.",
     "@cim:Names.name": [
-        "RESPECTFUELS",
+        "SOMOSIERRA",
         "A0014512M.PL",
         "PL1070001436",
-        "Energy Supplier",
         "Balance Responsible Party",
+        "Energy Supplier",
         "Network User"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-09-27",
+    "@cim:DateAndOrTime.date": "2026-09-15",
     "@schema:vatID": "PL1070001436",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

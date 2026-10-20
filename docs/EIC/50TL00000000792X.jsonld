@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000792X",
-    "@skos:prefLabel": "S 17 Rød K_Lab1",
-    "@skos:altLabel": "NO-RODKLAB1",
+    "@skos:prefLabel": "S 17 Rød  K_Lab1",
+    "@skos:altLabel": "NO-17RODK_LAB1",
     "@cim:IdentifiedObject.mRID": "50TL00000000792X",
-    "@cim:IdentifiedObject.name": "S 17 Rød K_Lab1",
+    "@cim:IdentifiedObject.name": "S 17 Rød  K_Lab1",
     "@cim:Names.name": [
-        "NO-RODKLAB1",
+        "NO-17RODK_LAB1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

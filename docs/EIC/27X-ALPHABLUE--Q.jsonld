@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27X-ALPHABLUE--Q",
-    "@skos:prefLabel": "AlphaBlue s.r.o.",
-    "@skos:altLabel": "ALPHABLUE",
+    "@skos:prefLabel": "Utylis Energie s.r.o.",
+    "@skos:altLabel": "UTYLIS-EN",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "27X-ALPHABLUE--Q",
-    "@cim:IdentifiedObject.name": "AlphaBlue s.r.o.",
+    "@cim:IdentifiedObject.name": "Utylis Energie s.r.o.",
     "@cim:Names.name": [
-        "ALPHABLUE",
+        "UTYLIS-EN",
         "CZ24121975",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-10-29",
+    "@cim:DateAndOrTime.date": "2024-04-18",
     "@schema:vatID": "CZ24121975",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

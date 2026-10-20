@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48WSTN00000SHETJ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48WSTN00000SHETJ" ;
+    cim:IdentifiedObject.name "ZENOBE SHETLAND" ;
+    cim:Names.name "BESS",
+        "SHET" ;
+    dcterms:identifier "urn:eic:48WSTN00000SHETJ" ;
+    skos:altLabel "SHET" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ZENOBE SHETLAND" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

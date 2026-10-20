@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004646V" ;
     cim:IdentifiedObject.name "S Brokke   T2 Transformator" ;
-    cim:Names.name "NO-BROKKE__T2",
+    cim:Names.name "NO-BROKKET2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004646V" ;
-    skos:altLabel "NO-BROKKE__T2" ;
+    skos:altLabel "NO-BROKKET2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Brokke   T2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000028401",
-    "@skos:prefLabel": "S 66 Njøs-Hove",
-    "@skos:altLabel": "NO-NJOSHOVE",
+    "@skos:prefLabel": "S 66 Dagshovden-Hove",
+    "@skos:altLabel": "NO-66DAGHOVDENHO",
     "@cim:IdentifiedObject.mRID": "50TL000000028401",
-    "@cim:IdentifiedObject.name": "S 66 Njøs-Hove",
+    "@cim:IdentifiedObject.name": "S 66 Dagshovden-Hove",
     "@cim:Names.name": [
-        "NO-NJOSHOVE",
+        "NO-66DAGHOVDENHO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-08-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

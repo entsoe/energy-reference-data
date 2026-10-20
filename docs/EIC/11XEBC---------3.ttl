@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEBC---------3" ;
     cim:IdentifiedObject.name "Energiebedrijf.Com" ;
-    cim:Names.name "Balance Group",
-        "EBC",
-        "NL808883884B01" ;
+    cim:Names.name "EBC",
+        "NL808883884B01",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEBC---------3" ;
     schema1:vatID "NL808883884B01" ;
     skos:altLabel "EBC" ;

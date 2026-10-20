@@ -7,23 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-10-31" ;
+    cim:DateAndOrTime.date "2026-05-15" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumer, electricity production, supply and trading" ;
     cim:IdentifiedObject.mRID "29XMYTILINEOSSA2" ;
-    cim:IdentifiedObject.name "MYTILINEOS GROUP OF COMPANIES SOCIETE ANONYME" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:IdentifiedObject.name "Metlen Energy & Metals ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε." ;
+    cim:Names.name "29XMYTILINEOSSA2",
+        "A00139156.GR",
+        "Balance Responsible Party",
         "Consumer",
         "EL094316669",
-        "MYTILINEOS_SA",
         "Producer",
-        "Production Responsible party",
+        "Production Responsible Party",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:29XMYTILINEOSSA2" ;
     schema1:vatID "EL094316669" ;
-    skos:altLabel "MYTILINEOS_SA" ;
-    skos:definition "Consumer, electricity production, supply and trading"@en ;
+    skos:altLabel "29XMYTILINEOSSA2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MYTILINEOS GROUP OF COMPANIES SOCIETE ANONYME" ;
+    skos:prefLabel "Metlen Energy & Metals ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

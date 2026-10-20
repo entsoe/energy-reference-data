@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-08-26" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSTWBUEHL-2--2" ;
     cim:IdentifiedObject.name "Stadtwerke Bühl GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE143755295",
-        "STWBUEHL-2" ;
+    cim:Names.name "DE143755295",
+        "STWBUEHL-2",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSTWBUEHL-2--2" ;
     schema1:vatID "DE143755295" ;
     skos:altLabel "STWBUEHL-2" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Bühl GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGLUECKAUFBLPA" ;
     cim:IdentifiedObject.name "Evonik Steag GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE119821534",
-        "STEAG-BLP" ;
+    cim:Names.name "DE119821534",
+        "STEAG-BLP",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGLUECKAUFBLPA" ;
     schema1:vatID "DE119821534" ;
     skos:altLabel "STEAG-BLP" ;

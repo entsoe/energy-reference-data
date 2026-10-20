@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-21" ;
+    cim:DateAndOrTime.date "2026-05-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000069P" ;
-    cim:IdentifiedObject.name "Westerlee - Maasvlakte wit 380 kV" ;
+    cim:IdentifiedObject.name "Westerlee - Maasvlakte 380 kV Wit" ;
     cim:Names.name "Internal Line",
         "WL-MVL380-W" ;
     dcterms:identifier "urn:eic:49T000000000069P" ;
     skos:altLabel "WL-MVL380-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Westerlee - Maasvlakte wit 380 kV" ;
+    skos:prefLabel "Westerlee - Maasvlakte 380 kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

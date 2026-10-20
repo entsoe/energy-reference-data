@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-08-19" ;
+    cim:DateAndOrTime.date "2024-11-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRWEINTRADAY-O" ;
     cim:IdentifiedObject.name "RWE Supply & Trading GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE813022070",
         "RWEINTRADAY" ;
     dcterms:identifier "urn:eic:11XRWEINTRADAY-O" ;
     schema1:vatID "DE813022070" ;
     skos:altLabel "RWEINTRADAY" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "RWE Supply & Trading GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

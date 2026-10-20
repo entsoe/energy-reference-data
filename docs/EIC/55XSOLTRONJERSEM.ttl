@@ -7,13 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-01-17" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "55XSOLTRONJERSEM" ;
     cim:IdentifiedObject.name "Soltron Jersey Limited" ;
     cim:Names.name "Balance Responsible Party",
+        "NA29",
         "SOLTRONJERSEY" ;
     dcterms:identifier "urn:eic:55XSOLTRONJERSEM" ;
+    schema1:vatID "NA29" ;
     skos:altLabel "SOLTRONJERSEY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Soltron Jersey Limited" ;

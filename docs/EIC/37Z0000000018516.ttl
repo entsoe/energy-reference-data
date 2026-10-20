@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000018516" ;
     cim:IdentifiedObject.name "ONTRAS-SWRAG Bartenshagen" ;
-    cim:Names.name "37Z0000000018516" ;
+    cim:Names.name "37Z0000000018516",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000018516" ;
     skos:altLabel "37Z0000000018516" ;
     skos:definition "Connection Point"@en ;

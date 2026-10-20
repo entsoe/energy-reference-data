@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-02-18" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "- No VAT available - Sub-fund of a Audentia Capital Sicav II Plc. - Tax Identification Number: 997650821" ;
     cim:IdentifiedObject.mRID "23X--190218EF--3" ;
     cim:IdentifiedObject.name "Eurener Fund of Audentia Capital Sicav II Plc." ;
     cim:Names.name "EURENER_FUND",
+        "NA12",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--190218EF--3" ;
+    schema1:vatID "NA12" ;
     skos:altLabel "EURENER_FUND" ;
     skos:definition "- No VAT available - Sub-fund of a Audentia Capital Sicav II Plc. - Tax Identification Number: 997650821"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

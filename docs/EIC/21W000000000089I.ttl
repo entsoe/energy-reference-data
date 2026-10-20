@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-06" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "21W000000000089I" ;
     cim:IdentifiedObject.name "UGS Schmidthausen" ;
-    cim:Names.name "System Operator",
+    cim:Names.name "Resource Object",
         "UGS-SCHMIDHAUSEN" ;
     dcterms:identifier "urn:eic:21W000000000089I" ;
     skos:altLabel "UGS-SCHMIDHAUSEN" ;
-    skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "UGS Schmidthausen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

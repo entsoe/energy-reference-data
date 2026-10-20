@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XVE-DSO-H----V",
-    "@skos:prefLabel": "Stromnetz Hamburg GmbH",
+    "@skos:prefLabel": "Hamburger Energienetze GmbH",
     "@skos:altLabel": "VE-DSO-H",
     "@cim:IdentifiedObject.mRID": "11XVE-DSO-H----V",
-    "@cim:IdentifiedObject.name": "Stromnetz Hamburg GmbH",
+    "@cim:IdentifiedObject.name": "Hamburger Energienetze GmbH",
     "@cim:Names.name": [
         "VE-DSO-H",
         "DE814588308",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-11-05",
+    "@cim:DateAndOrTime.date": "2025-07-23",
     "@schema:vatID": "DE814588308",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

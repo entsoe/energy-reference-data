@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001888F" ;
-    cim:IdentifiedObject.name "M 66 Kåsen-Oppdal" ;
+    cim:IdentifiedObject.name "N 66 Kåsen-Oppdal" ;
     cim:Names.name "Internal Line",
-        "NO-KASENOPPDAL" ;
+        "NO-66KASENOPPDAL" ;
     dcterms:identifier "urn:eic:50TL00000001888F" ;
-    skos:altLabel "NO-KASENOPPDAL" ;
+    skos:altLabel "NO-66KASENOPPDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Kåsen-Oppdal" ;
+    skos:prefLabel "N 66 Kåsen-Oppdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

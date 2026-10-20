@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065664",
-    "@skos:prefLabel": "Miłosna-T4",
+    "@skos:prefLabel": "400/110kV Milosna TR4",
     "@skos:altLabel": "MIL-T4",
     "@cim:IdentifiedObject.mRID": "19T1100000065664",
-    "@cim:IdentifiedObject.name": "Miłosna-T4",
+    "@cim:IdentifiedObject.name": "400/110kV Milosna TR4",
     "@cim:Names.name": [
         "MIL-T4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WC000000021599</dcterms:identifier>
-    <skos:prefLabel>S H. H&#248;yan 132 LA6 Industri</skos:prefLabel>
-    <skos:altLabel>NO-HOYANGER132NC</skos:altLabel>
+    <skos:prefLabel>N H. H&#248;yan 132 LA6 Industri</skos:prefLabel>
+    <skos:altLabel>NO-H_HOYANGER132</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WC000000021599</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>S H. H&#248;yan 132 LA6 Industri</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-HOYANGER132NC</cim:Names.name>
+    <cim:IdentifiedObject.name>N H. H&#248;yan 132 LA6 Industri</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-H_HOYANGER132</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-10-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Load</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

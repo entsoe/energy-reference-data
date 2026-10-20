@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001880V",
-    "@skos:prefLabel": "S 66 Begsle-Åheim",
-    "@skos:altLabel": "NO-BEGSLEAHEIM",
+    "@skos:prefLabel": "N 66 Begsle-Åheim",
+    "@skos:altLabel": "NO-66BEGSLEAHEIM",
     "@cim:IdentifiedObject.mRID": "50TL00000001880V",
-    "@cim:IdentifiedObject.name": "S 66 Begsle-Åheim",
+    "@cim:IdentifiedObject.name": "N 66 Begsle-Åheim",
     "@cim:Names.name": [
-        "NO-BEGSLEAHEIM",
+        "NO-66BEGSLEAHEIM",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

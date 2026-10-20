@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000014521",
-    "@skos:prefLabel": "SAURDAL G117 HYDRO",
-    "@skos:altLabel": "NO-SAURDAL_G117_",
+    "@skos:prefLabel": "STRAPA  G1      HYDRO",
+    "@skos:altLabel": "NO-STRAPAG1",
     "@cim:IdentifiedObject.mRID": "50WG000000014521",
-    "@cim:IdentifiedObject.name": "SAURDAL G117 HYDRO",
+    "@cim:IdentifiedObject.name": "STRAPA  G1      HYDRO",
     "@cim:Names.name": [
-        "NO-SAURDAL_G117_",
+        "NO-STRAPAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-04-11",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

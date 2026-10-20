@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-25" ;
+    cim:DateAndOrTime.date "2026-09-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XPADRESSTARGAP" ;
-    cim:IdentifiedObject.name "PAD RES STARGARD DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "STARGARD DYSTRYBUCJA ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     cim:Names.name "Grid Access Provider",
         "Meter Administrator",
         "Metered Data Responsible",
-        "PAD_RES_STARGARD",
+        "OSDN_STARGARD",
         "PL8542411287",
         "System Operator" ;
     dcterms:identifier "urn:eic:19XPADRESSTARGAP" ;
     schema1:vatID "PL8542411287" ;
-    skos:altLabel "PAD_RES_STARGARD" ;
+    skos:altLabel "OSDN_STARGARD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PAD RES STARGARD DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "STARGARD DYSTRYBUCJA ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

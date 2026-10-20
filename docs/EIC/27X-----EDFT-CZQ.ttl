@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-04-25" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "27X-----EDFT-CZQ" ;
     cim:IdentifiedObject.name "EDF Trading Limited" ;
-    cim:Names.name "EDFT-CZ",
-        "GB735547907",
-        "Transmission Capacity Allocator" ;
+    cim:Names.name "Balance Responsible Party",
+        "EDFT-CZ",
+        "GB735547907" ;
     dcterms:identifier "urn:eic:27X-----EDFT-CZQ" ;
     schema1:vatID "GB735547907" ;
     skos:altLabel "EDFT-CZ" ;

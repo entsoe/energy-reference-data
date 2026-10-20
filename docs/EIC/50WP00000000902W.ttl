@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000902W" ;
     cim:IdentifiedObject.name "Østre-Neset" ;
-    cim:Names.name "NO-OSTRE-NESET_P",
+    cim:Names.name "NO-OESTRE_NESET",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000902W" ;
-    skos:altLabel "NO-OSTRE-NESET_P" ;
+    skos:altLabel "NO-OESTRE_NESET" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Østre-Neset" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

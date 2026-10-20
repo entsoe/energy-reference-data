@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-10-12" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001072G" ;
     cim:IdentifiedObject.name "Storengy Deutschland GmbH" ;
     cim:Names.name "DE256603999",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:21X000000001072G" ;
     schema1:vatID "DE256603999" ;
     skos:altLabel "STORENGY-DE" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Storengy Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38X-----FTE072-M",
-    "@skos:prefLabel": "Fortum Eesti AS",
-    "@skos:altLabel": "EE_FORTUMEESTI",
+    "@skos:prefLabel": "Gren Eesti AS",
+    "@skos:altLabel": "EE_GREN_EESTI",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "38X-----FTE072-M",
-    "@cim:IdentifiedObject.name": "Fortum Eesti AS",
+    "@cim:IdentifiedObject.name": "Gren Eesti AS",
     "@cim:Names.name": [
-        "EE_FORTUMEESTI",
-        "EE101453611",
+        "EE_GREN_EESTI",
+        "12114252",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-02",
-    "@schema:vatID": "EE101453611",
+    "@cim:DateAndOrTime.date": "2025-12-04",
+    "@schema:vatID": "12114252",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

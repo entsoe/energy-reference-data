@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25X-BOREALISAGRX",
-    "@skos:prefLabel": "Borealis Agrolinz Melamine GmbH",
+    "@skos:prefLabel": "LAT Nitrogen Linz GmbH",
     "@skos:altLabel": "BOREALIS-LZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumer"
-    },
     "@cim:IdentifiedObject.mRID": "25X-BOREALISAGRX",
-    "@cim:IdentifiedObject.name": "Borealis Agrolinz Melamine GmbH",
+    "@cim:IdentifiedObject.name": "LAT Nitrogen Linz GmbH",
     "@cim:Names.name": [
         "BOREALIS-LZ",
         "ATU23057607",
         "Consumer"
     ],
-    "@cim:IdentifiedObject.description": "Consumer",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-07-07",
+    "@cim:DateAndOrTime.date": "2025-05-20",
     "@schema:vatID": "ATU23057607",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

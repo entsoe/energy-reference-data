@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMETTF-1234--H",
     "@skos:prefLabel": "METROPOLITANO DE TENERIFE S.A.",
     "@skos:altLabel": "METTF",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMETTF-1234--H",
     "@cim:IdentifiedObject.name": "METROPOLITANO DE TENERIFE S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA38620209",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-25",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA38620209",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

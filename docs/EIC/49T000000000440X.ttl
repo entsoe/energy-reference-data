@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-25" ;
+    cim:DateAndOrTime.date "2026-08-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T000000000440X" ;
-    cim:IdentifiedObject.name "Hoogeveen - Hardenberg blauw 110 kV" ;
+    cim:IdentifiedObject.name "Hoogezand-Kropswolde - Slochteren  Kooipolder 110 kV Wit" ;
     cim:Names.name "HGZK-STRK110-W",
         "Internal Line" ;
     dcterms:identifier "urn:eic:49T000000000440X" ;
     skos:altLabel "HGZK-STRK110-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Hoogeveen - Hardenberg blauw 110 kV" ;
+    skos:prefLabel "Hoogezand-Kropswolde - Slochteren  Kooipolder 110 kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

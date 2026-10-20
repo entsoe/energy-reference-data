@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-06" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Resource Object" ;
     cim:IdentifiedObject.mRID "21W000000000091V" ;
     cim:IdentifiedObject.name "UGS Fronhofen-Trigonodus" ;
     cim:Names.name "Resource Object",
         "UGS-FRONHOFEN" ;
     dcterms:identifier "urn:eic:21W000000000091V" ;
     skos:altLabel "UGS-FRONHOFEN" ;
-    skos:definition "Resource Object"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "UGS Fronhofen-Trigonodus" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

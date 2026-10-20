@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000000580B</dcterms:identifier>
     <skos:prefLabel>S 132 T_Raudalen-Beitost&#248;len</skos:prefLabel>
-    <skos:altLabel>NO-TRAUDALENBEIT</skos:altLabel>
+    <skos:altLabel>NO-132T_RAUTOLEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000000580B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S 132 T_Raudalen-Beitost&#248;len</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-TRAUDALENBEIT</cim:Names.name>
+    <cim:Names.name>NO-132T_RAUTOLEN</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

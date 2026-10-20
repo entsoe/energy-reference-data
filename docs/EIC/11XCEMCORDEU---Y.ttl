@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCEMCORDEU---Y" ;
     cim:IdentifiedObject.name "Cemcor Energy Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "CEMCOR",
-        "DE263467511" ;
+    cim:Names.name "CEMCOR",
+        "DE263467511",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCEMCORDEU---Y" ;
     schema1:vatID "DE263467511" ;
     skos:altLabel "CEMCOR" ;

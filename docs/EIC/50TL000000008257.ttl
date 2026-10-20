@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008257" ;
     cim:IdentifiedObject.name "S 22Dale-Fossmark" ;
     cim:Names.name "Internal Line",
-        "NO-DALEFOSSMARK" ;
+        "NO-22DALEFOSSMAR" ;
     dcterms:identifier "urn:eic:50TL000000008257" ;
-    skos:altLabel "NO-DALEFOSSMARK" ;
+    skos:altLabel "NO-22DALEFOSSMAR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 22Dale-Fossmark" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

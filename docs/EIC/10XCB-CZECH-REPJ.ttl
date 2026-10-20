@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-05-12" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Control Block" ;
     cim:IdentifiedObject.mRID "10XCB-CZECH-REPJ" ;
     cim:IdentifiedObject.name "CEPS, a. s." ;
     cim:Names.name "CB-CZECH-REP-OP",
         "CZ25702556",
-        "Control Block" ;
+        "System Operator" ;
     dcterms:identifier "urn:eic:10XCB-CZECH-REPJ" ;
     schema1:vatID "CZ25702556" ;
     skos:altLabel "CB-CZECH-REP-OP" ;
