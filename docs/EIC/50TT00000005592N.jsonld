@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005592N",
     "@skos:prefLabel": "S Røldal   T2 Transformator",
-    "@skos:altLabel": "NO-ROLDAL__T2",
+    "@skos:altLabel": "NO-ROLDALT2",
     "@cim:IdentifiedObject.mRID": "50TT00000005592N",
     "@cim:IdentifiedObject.name": "S Røldal   T2 Transformator",
     "@cim:Names.name": [
-        "NO-ROLDAL__T2",
+        "NO-ROLDALT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

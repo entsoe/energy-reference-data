@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/63X442532685529M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "63X442532685529M" ;
+    cim:IdentifiedObject.name "CALEO" ;
+    cim:Names.name "Distribution System Operator",
+        "FR90483591780",
+        "FRG_CALEO" ;
+    dcterms:identifier "urn:eic:63X442532685529M" ;
+    schema1:vatID "FR90483591780" ;
+    skos:altLabel "FRG_CALEO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CALEO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

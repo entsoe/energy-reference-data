@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEW-SCHWEIGERG" ;
     cim:IdentifiedObject.name "E-Werk Schweiger GmbH" ;
-    cim:Names.name "DE128025277",
-        "EWS",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE128025277",
+        "EWS" ;
     dcterms:identifier "urn:eic:11XEW-SCHWEIGERG" ;
     schema1:vatID "DE128025277" ;
     skos:altLabel "EWS" ;

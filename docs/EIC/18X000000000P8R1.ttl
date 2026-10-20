@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P8R1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P8R1" ;
+    cim:IdentifiedObject.name "VERDE ENERGÍA Y GAS SL" ;
+    cim:Names.name "ES-VERDENERGIA",
+        "ESB70679857",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P8R1" ;
+    schema1:vatID "ESB70679857" ;
+    skos:altLabel "ES-VERDENERGIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VERDE ENERGÍA Y GAS SL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

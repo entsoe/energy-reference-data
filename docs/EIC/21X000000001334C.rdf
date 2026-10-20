@@ -12,10 +12,10 @@
     <cim:Names.name>CAS-GAZ</cim:Names.name>
     <cim:Names.name>IT07990510963</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-02-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT07990510963</schema:vatID>
   </skos:Concept>

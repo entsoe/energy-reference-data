@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAGR-1234567-O",
     "@skos:prefLabel": "AGUAS GARCIA ROMERA S.L.",
     "@skos:altLabel": "AGR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAGR-1234567-O",
     "@cim:IdentifiedObject.name": "AGUAS GARCIA ROMERA S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB73064347",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-05-27",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB73064347",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

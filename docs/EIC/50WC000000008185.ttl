@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000008185" ;
-    cim:IdentifiedObject.name "M Tunnsjø  66  T2 Forbruk" ;
+    cim:IdentifiedObject.name "N Tunnsjø  66  T2 Forbruk" ;
     cim:Names.name "Load",
         "NO-TUNNSJO66" ;
     dcterms:identifier "urn:eic:50WC000000008185" ;
     skos:altLabel "NO-TUNNSJO66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Tunnsjø  66  T2 Forbruk" ;
+    skos:prefLabel "N Tunnsjø  66  T2 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

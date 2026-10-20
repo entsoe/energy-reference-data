@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000022443" ;
-    cim:IdentifiedObject.name "T_OIE   G101 HYDRO" ;
+    cim:IdentifiedObject.name "AUSTERDAG124 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-T_OIE___G101_" ;
+        "NO-AUSTERDAG124" ;
     dcterms:identifier "urn:eic:50WG000000022443" ;
-    skos:altLabel "NO-T_OIE___G101_" ;
+    skos:altLabel "NO-AUSTERDAG124" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "T_OIE   G101 HYDRO" ;
+    skos:prefLabel "AUSTERDAG124 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

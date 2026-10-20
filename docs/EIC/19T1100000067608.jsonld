@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067608",
-    "@skos:prefLabel": "Łośnice-Siersza",
+    "@skos:prefLabel": "220kV Siersza-Losnice",
     "@skos:altLabel": "3402",
     "@cim:IdentifiedObject.mRID": "19T1100000067608",
-    "@cim:IdentifiedObject.name": "Łośnice-Siersza",
+    "@cim:IdentifiedObject.name": "220kV Siersza-Losnice",
     "@cim:Names.name": [
         "3402",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

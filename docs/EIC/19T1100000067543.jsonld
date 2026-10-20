@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067543",
-    "@skos:prefLabel": "Joachimów-Huta Częstochowa",
+    "@skos:prefLabel": "220kV Huta Czestochowa-Joachimow",
     "@skos:altLabel": "3102",
     "@cim:IdentifiedObject.mRID": "19T1100000067543",
-    "@cim:IdentifiedObject.name": "Joachimów-Huta Częstochowa",
+    "@cim:IdentifiedObject.name": "220kV Huta Czestochowa-Joachimow",
     "@cim:Names.name": [
         "3102",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

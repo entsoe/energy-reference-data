@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-07-04" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X930000008091Y" ;
-    cim:IdentifiedObject.name "Limited Liability Company ERU Management Services" ;
+    cim:IdentifiedObject.name "ERU Management Services Limited Liability Company " ;
     cim:Names.name "364815186",
         "ERU_MANAGEMENT",
         "Network User",
@@ -19,6 +19,6 @@
     schema1:vatID "364815186" ;
     skos:altLabel "ERU_MANAGEMENT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Limited Liability Company ERU Management Services" ;
+    skos:prefLabel "ERU Management Services Limited Liability Company " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

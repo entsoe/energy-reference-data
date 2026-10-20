@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002492L",
-    "@skos:prefLabel": "NORE_1  G103 HYDRO",
-    "@skos:altLabel": "NO-NORE_1__G103_",
+    "@skos:prefLabel": "UVDAL_2 G103 HYDRO",
+    "@skos:altLabel": "NO-UVDAL_2G103",
     "@cim:IdentifiedObject.mRID": "50WG00000002492L",
-    "@cim:IdentifiedObject.name": "NORE_1  G103 HYDRO",
+    "@cim:IdentifiedObject.name": "UVDAL_2 G103 HYDRO",
     "@cim:Names.name": [
-        "NO-NORE_1__G103_",
+        "NO-UVDAL_2G103",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

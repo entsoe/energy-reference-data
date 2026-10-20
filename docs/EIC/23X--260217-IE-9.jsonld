@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--260217-IE-9",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--260217-IE-9",
+    "@skos:prefLabel": "Intertrading Energy S.A.",
+    "@skos:altLabel": "INTERTRADING",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company Registration number: 174626401000 "
+    },
+    "@cim:IdentifiedObject.mRID": "23X--260217-IE-9",
+    "@cim:IdentifiedObject.name": "Intertrading Energy S.A.",
+    "@cim:Names.name": [
+        "INTERTRADING",
+        "EL802340110",
+        "Capacity Trader",
+        "Balancing Service Provider"
+    ],
+    "@cim:IdentifiedObject.description": "Company Registration number: 174626401000 ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-02-18",
+    "@schema:vatID": "EL802340110",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

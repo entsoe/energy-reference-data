@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2006-03-08" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWHUSUM-N---5" ;
     cim:IdentifiedObject.name "Stadtwerke Husum GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE203291323",
-        "SWHUSUM-N" ;
+    cim:Names.name "DE203291323",
+        "SWHUSUM-N",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSWHUSUM-N---5" ;
     schema1:vatID "DE203291323" ;
     skos:altLabel "SWHUSUM-N" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Husum GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

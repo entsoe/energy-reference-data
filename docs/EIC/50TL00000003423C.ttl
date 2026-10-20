@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50TL00000003423C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50TL00000003423C" ;
+    cim:IdentifiedObject.name "S 47 XKAM3-Mosseporten" ;
+    cim:Names.name "Internal Line",
+        "NO-4XKAM3MOSSEPO" ;
+    dcterms:identifier "urn:eic:50TL00000003423C" ;
+    skos:altLabel "NO-4XKAM3MOSSEPO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S 47 XKAM3-Mosseporten" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

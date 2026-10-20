@@ -1,0 +1,43 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/67X-00000000009Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.
+Company Name: Astra Enerco International d.o.o. Belgrade
+Registered Address:
+Vojvode Stepe 32, Apartment 1, 
+11000 Belgrade, Serbia
+Contact person name: Mladen Vekic
+Contact person email: mladen.vekic@astraei.com
+Contact person telephone: +381658778879
+
+""" ;
+    cim:IdentifiedObject.mRID "67X-00000000009Z" ;
+    cim:IdentifiedObject.name "ASTRA ENERCO INTERNATIONAL DOO BEOGRAD" ;
+    cim:Names.name "ASTRAENERCO",
+        "RS115630088",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:67X-00000000009Z" ;
+    schema1:vatID "RS115630088" ;
+    skos:altLabel "ASTRAENERCO" ;
+    skos:definition """Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.
+Company Name: Astra Enerco International d.o.o. Belgrade
+Registered Address:
+Vojvode Stepe 32, Apartment 1, 
+11000 Belgrade, Serbia
+Contact person name: Mladen Vekic
+Contact person email: mladen.vekic@astraei.com
+Contact person telephone: +381658778879
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ASTRA ENERCO INTERNATIONAL DOO BEOGRAD" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

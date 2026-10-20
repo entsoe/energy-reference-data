@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--260129--A-C",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--260129--A-C",
+    "@skos:prefLabel": "ATLANTIC-SEE LNG TRADE S.A.",
+    "@skos:altLabel": "AS_LNG_TRADE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "VAT ID confirmed through documentation as well as VIES database. Company registration number confirmed through the Greek General Business Registry (G.E.MI)"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--260129--A-C",
+    "@cim:IdentifiedObject.name": "ATLANTIC-SEE LNG TRADE S.A.",
+    "@cim:Names.name": [
+        "AS_LNG_TRADE",
+        "EL803058856",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "VAT ID confirmed through documentation as well as VIES database. Company registration number confirmed through the Greek General Business Registry (G.E.MI)",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-02-02",
+    "@schema:vatID": "EL803058856",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

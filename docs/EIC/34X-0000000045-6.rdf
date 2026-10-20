@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:34X-0000000045-6</dcterms:identifier>
-    <skos:prefLabel>ENEKO ENERGY d.o.o.</skos:prefLabel>
+    <skos:prefLabel>FORTIS Power Commodities  d.o.o.</skos:prefLabel>
     <skos:altLabel>ENKO</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsibleparty</skos:definition>
     <cim:IdentifiedObject.mRID>34X-0000000045-6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENEKO ENERGY d.o.o.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>FORTIS Power Commodities  d.o.o.</cim:IdentifiedObject.name>
     <cim:Names.name>ENKO</cim:Names.name>
     <cim:Names.name>106888231</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsibleparty</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-07-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-03-01</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>106888231</schema:vatID>

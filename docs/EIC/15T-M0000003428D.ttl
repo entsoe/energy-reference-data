@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-25" ;
+    cim:DateAndOrTime.date "2026-09-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000003428D" ;
     cim:IdentifiedObject.name "Szabolcsbáka I. sz. 750/400 kV" ;
     cim:Names.name "MBAKA-MBAKA",
-        "Tieline" ;
+        "Transformer" ;
     dcterms:identifier "urn:eic:15T-M0000003428D" ;
     skos:altLabel "MBAKA-MBAKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

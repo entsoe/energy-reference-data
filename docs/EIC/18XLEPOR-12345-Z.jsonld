@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLEPOR-12345-Z",
     "@skos:prefLabel": "LE PORC GOURMET S.A.",
     "@skos:altLabel": "LEPOR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLEPOR-12345-Z",
     "@cim:IdentifiedObject.name": "LE PORC GOURMET S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA50596642",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA50596642",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

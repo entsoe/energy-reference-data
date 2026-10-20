@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:17W000001468589Y</dcterms:identifier>
-    <skos:prefLabel>TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN / TRAIN 14</skos:prefLabel>
-    <skos:altLabel>FR_TERF_CGRN_T14</skos:altLabel>
-    <skos:definition xml:lang="en">Nouveau code EIC demand&#233; pour GU1 pour le train 1 (14) de la cog&#233;n&#233;ration de la raffinerie de Normandie</skos:definition>
+    <skos:prefLabel>COGENERATION NORMANDIE (AMFARD) TRAIN 14</skos:prefLabel>
+    <skos:altLabel>FR_T-AMFAR14-G</skos:altLabel>
+    <skos:definition xml:lang="en">Nouveau code EIC demand&#233; pour GU1 pour le train 1 (14) de la cog&#233;n&#233;ration de la raffinerie de Normandie. Name change</skos:definition>
     <cim:IdentifiedObject.mRID>17W000001468589Y</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>TOTALENERGIES RAFFINAGE FRANCE / COGENERATION RN / TRAIN 14</cim:IdentifiedObject.name>
-    <cim:Names.name>FR_TERF_CGRN_T14</cim:Names.name>
-    <cim:IdentifiedObject.description>Nouveau code EIC demand&#233; pour GU1 pour le train 1 (14) de la cog&#233;n&#233;ration de la raffinerie de Normandie</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>COGENERATION NORMANDIE (AMFARD) TRAIN 14</cim:IdentifiedObject.name>
+    <cim:Names.name>FR_T-AMFAR14-G</cim:Names.name>
+    <cim:IdentifiedObject.description>Nouveau code EIC demand&#233; pour GU1 pour le train 1 (14) de la cog&#233;n&#233;ration de la raffinerie de Normandie. Name change</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-01-19</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-11" ;
+    cim:DateAndOrTime.date "2024-04-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "39XVGTH------117" ;
     cim:IdentifiedObject.name "Veolia Gas Trade Hungary Zrt" ;
-    cim:Names.name "HU13132446",
-        "Trade Responsible Party",
+    cim:Names.name "Balance Responsible Party",
+        "HU13132446",
         "VGTH" ;
     dcterms:identifier "urn:eic:39XVGTH------117" ;
     schema1:vatID "HU13132446" ;

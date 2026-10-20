@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-10-29" ;
+    cim:DateAndOrTime.date "2024-04-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "27X-ALPHABLUE--Q" ;
-    cim:IdentifiedObject.name "AlphaBlue s.r.o." ;
-    cim:Names.name "ALPHABLUE",
-        "Balance Responsible Party",
-        "CZ24121975" ;
+    cim:IdentifiedObject.name "Utylis Energie s.r.o." ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ24121975",
+        "UTYLIS-EN" ;
     dcterms:identifier "urn:eic:27X-ALPHABLUE--Q" ;
     schema1:vatID "CZ24121975" ;
-    skos:altLabel "ALPHABLUE" ;
+    skos:altLabel "UTYLIS-EN" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AlphaBlue s.r.o." ;
+    skos:prefLabel "Utylis Energie s.r.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

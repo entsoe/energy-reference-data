@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001600C",
-    "@skos:prefLabel": "MOSKOG  G134 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G134_",
+    "@skos:prefLabel": "HOLSEN  G134 HYDRO",
+    "@skos:altLabel": "NO-HOLSENG134",
     "@cim:IdentifiedObject.mRID": "50WG00000001600C",
-    "@cim:IdentifiedObject.name": "MOSKOG  G134 HYDRO",
+    "@cim:IdentifiedObject.name": "HOLSEN  G134 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G134_",
+        "NO-HOLSENG134",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

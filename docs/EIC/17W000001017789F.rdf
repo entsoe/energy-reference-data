@@ -6,12 +6,14 @@
     <dcterms:identifier>urn:eic:17W000001017789F</dcterms:identifier>
     <skos:prefLabel>CHAUTAGNE</skos:prefLabel>
     <skos:altLabel>FR_HY-CXTAG-P</skos:altLabel>
+    <skos:definition xml:lang="en">UPDATE</skos:definition>
     <cim:IdentifiedObject.mRID>17W000001017789F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CHAUTAGNE</cim:IdentifiedObject.name>
     <cim:Names.name>FR_HY-CXTAG-P</cim:Names.name>
+    <cim:IdentifiedObject.description>UPDATE</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-05-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-15</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

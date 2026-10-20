@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000971D" ;
     cim:IdentifiedObject.name "Oksarelva" ;
-    cim:Names.name "NO-OKSARELVA_PL",
+    cim:Names.name "NO-OKSARELVA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000971D" ;
-    skos:altLabel "NO-OKSARELVA_PL" ;
+    skos:altLabel "NO-OKSARELVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Oksarelva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

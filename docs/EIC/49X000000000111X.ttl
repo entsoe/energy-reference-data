@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49X000000000111X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-06-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49X000000000111X" ;
+    cim:IdentifiedObject.name "Eddy Technologies B.V." ;
+    cim:Names.name "Balance Responsible Party",
+        "EDDY_GRID",
+        "Energy Trader",
+        "NL865099881B01" ;
+    dcterms:identifier "urn:eic:49X000000000111X" ;
+    schema1:vatID "NL865099881B01" ;
+    skos:altLabel "EDDY_GRID" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Eddy Technologies B.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000012955",
-    "@skos:prefLabel": "S 47 Dyrløkke-Ås",
-    "@skos:altLabel": "NO-DYRLOKKEAAS",
+    "@skos:prefLabel": "S 47 Dyrløkke-Ås1",
+    "@skos:altLabel": "NO-47DYRLOKAAS_1",
     "@cim:IdentifiedObject.mRID": "50TL000000012955",
-    "@cim:IdentifiedObject.name": "S 47 Dyrløkke-Ås",
+    "@cim:IdentifiedObject.name": "S 47 Dyrløkke-Ås1",
     "@cim:Names.name": [
-        "NO-DYRLOKKEAAS",
+        "NO-47DYRLOKAAS_1",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

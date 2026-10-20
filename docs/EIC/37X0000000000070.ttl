@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X0000000000070" ;
     cim:IdentifiedObject.name "Danske Commodities Deutschland GmbH" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Balance Group Responsible Party",
+        "Balance Responsible Party",
         "DANSKECOMDE",
         "DE279460130" ;
     dcterms:identifier "urn:eic:37X0000000000070" ;

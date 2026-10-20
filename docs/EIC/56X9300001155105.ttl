@@ -7,17 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-02-06" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X9300001155105" ;
-    cim:IdentifiedObject.name "LLC \"AB ENERGO\"" ;
+    cim:IdentifiedObject.name "“ENERGODEV” Limited Liability Company" ;
     cim:Names.name "414895426569",
-        "AB_ENERGO",
-        "Network User" ;
+        "ENERGODEV_LLC",
+        "Network User",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:56X9300001155105" ;
     schema1:vatID "414895426569" ;
-    skos:altLabel "AB_ENERGO" ;
+    skos:altLabel "ENERGODEV_LLC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LLC \"AB ENERGO\"" ;
+    skos:prefLabel "“ENERGODEV” Limited Liability Company" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

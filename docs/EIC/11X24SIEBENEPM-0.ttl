@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-10-05" ;
+    cim:DateAndOrTime.date "2024-12-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X24SIEBENEPM-0" ;
-    cim:IdentifiedObject.name "Stadtwerke Kiel AG" ;
+    cim:IdentifiedObject.name "Stadtwerke Kiel Aktiengesellschaft" ;
     cim:Names.name "24SIEBEN-EPM",
-        "Balance Group",
-        "DE811195284" ;
+        "DE811195284",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11X24SIEBENEPM-0" ;
     schema1:vatID "DE811195284" ;
     skos:altLabel "24SIEBEN-EPM" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stadtwerke Kiel AG" ;
+    skos:prefLabel "Stadtwerke Kiel Aktiengesellschaft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

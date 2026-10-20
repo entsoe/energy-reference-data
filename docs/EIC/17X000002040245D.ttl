@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000002040245D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "La société NEM Europe SAS souhaite exercer des activités de Responsable D'Equilibre pour des centrales de production d'énergie renouvelable du groupe Neoen." ;
+    cim:IdentifiedObject.mRID "17X000002040245D" ;
+    cim:IdentifiedObject.name "NEM Europe SAS" ;
+    cim:Names.name "Balance Responsible Party",
+        "FR01931544217",
+        "FR_NEM_EUROPE",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:17X000002040245D" ;
+    schema1:vatID "FR01931544217" ;
+    skos:altLabel "FR_NEM_EUROPE" ;
+    skos:definition "La société NEM Europe SAS souhaite exercer des activités de Responsable D'Equilibre pour des centrales de production d'énergie renouvelable du groupe Neoen."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NEM Europe SAS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

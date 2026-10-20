@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-08-23" ;
+    cim:DateAndOrTime.date "2024-01-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party,Capacity Trader,Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X0000000012744" ;
     cim:IdentifiedObject.name "Bayerngas Energy GmbH" ;
     cim:Names.name "BEG",
@@ -20,7 +19,6 @@
     dcterms:identifier "urn:eic:21X0000000012744" ;
     schema1:vatID "DE250114062" ;
     skos:altLabel "BEG" ;
-    skos:definition "Balance Responsible Party,Capacity Trader,Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Bayerngas Energy GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

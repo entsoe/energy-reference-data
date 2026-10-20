@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-10-19" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18X18XALUMAESTRA" ;
     cim:IdentifiedObject.name "ALUMINIOS DEL MAESTRE, S.A." ;
     cim:Names.name "ALMAE",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18X18XALUMAESTRA" ;
     schema1:vatID "ESA06293112" ;
     skos:altLabel "ALMAE" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ALUMINIOS DEL MAESTRE, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

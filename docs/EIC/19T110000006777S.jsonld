@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006777S",
-    "@skos:prefLabel": "Jasiniec-Grudziądz Węgrowo 1",
+    "@skos:prefLabel": "220kV Grudziadz-Jasiniec 1",
     "@skos:altLabel": "6004",
     "@cim:IdentifiedObject.mRID": "19T110000006777S",
-    "@cim:IdentifiedObject.name": "Jasiniec-Grudziądz Węgrowo 1",
+    "@cim:IdentifiedObject.name": "220kV Grudziadz-Jasiniec 1",
     "@cim:Names.name": [
         "6004",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

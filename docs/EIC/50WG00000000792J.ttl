@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000792J" ;
-    cim:IdentifiedObject.name "JATTA   G1      HYDRO" ;
+    cim:IdentifiedObject.name "JATTA   G1      THERM" ;
     cim:Names.name "Generation Unit",
-        "NO-JATTA___G1___" ;
+        "NO-JATTAG1" ;
     dcterms:identifier "urn:eic:50WG00000000792J" ;
-    skos:altLabel "NO-JATTA___G1___" ;
+    skos:altLabel "NO-JATTAG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "JATTA   G1      HYDRO" ;
+    skos:prefLabel "JATTA   G1      THERM" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

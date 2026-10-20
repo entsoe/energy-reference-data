@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-08-01" ;
+    cim:DateAndOrTime.date "2026-10-14" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "18XIENOV-12345-N" ;
-    cim:IdentifiedObject.name "Iniciativa E.Nova SL" ;
+    cim:IdentifiedObject.name "INICIATIVA E.NOVA S.L.U," ;
     cim:Names.name "ESB70412473",
         "IENOV",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XIENOV-12345-N" ;
     schema1:vatID "ESB70412473" ;
     skos:altLabel "IENOV" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Iniciativa E.Nova SL" ;
+    skos:prefLabel "INICIATIVA E.NOVA S.L.U," ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

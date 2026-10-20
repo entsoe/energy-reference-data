@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/16TLPRLPNL22---M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "16TLPRLPNL22---M" ;
+    cim:IdentifiedObject.name "Pereiros - Penela 220" ;
+    cim:Names.name "LPRLPNL",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:16TLPRLPNL22---M" ;
+    skos:altLabel "LPRLPNL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Pereiros - Penela 220" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

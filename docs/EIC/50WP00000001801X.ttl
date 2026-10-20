@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001801X" ;
     cim:IdentifiedObject.name "Flaen Mølle" ;
-    cim:Names.name "NO-FLAEN_MOELLE",
+    cim:Names.name "NO-FLAENMOELLE",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001801X" ;
-    skos:altLabel "NO-FLAEN_MOELLE" ;
+    skos:altLabel "NO-FLAENMOELLE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Flaen Mølle" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

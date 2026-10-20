@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006407C",
-    "@skos:prefLabel": "Rokitnica-Wielopole",
+    "@skos:prefLabel": "400kV Rokitnica-Wielopole",
     "@skos:altLabel": "G302",
     "@cim:IdentifiedObject.mRID": "19T000000006407C",
-    "@cim:IdentifiedObject.name": "Rokitnica-Wielopole",
+    "@cim:IdentifiedObject.name": "400kV Rokitnica-Wielopole",
     "@cim:Names.name": [
         "G302",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

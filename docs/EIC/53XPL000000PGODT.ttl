@@ -7,19 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-02-26" ;
+    cim:DateAndOrTime.date "2026-03-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000PGODT" ;
-    cim:IdentifiedObject.name "PGNiG Obrót Detaliczny Spółka z ograniczoną odpowiedzialnością" ;
-    cim:Names.name "Network User",
-        "PGNIG-OD",
+    cim:IdentifiedObject.name "myORLEN spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "A0001891F.PL",
+        "MYORLEN",
+        "Network User",
         "PL5272706082",
         "Party Connected To Grid",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000PGODT" ;
     schema1:vatID "PL5272706082" ;
-    skos:altLabel "PGNIG-OD" ;
+    skos:altLabel "MYORLEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PGNiG Obrót Detaliczny Spółka z ograniczoną odpowiedzialnością" ;
+    skos:prefLabel "myORLEN spółka z ograniczoną odpowiedzialnością" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

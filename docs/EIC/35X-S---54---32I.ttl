@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35X-S---54---32I> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "35X-S---54---32I" ;
+    cim:IdentifiedObject.name "Solar sign d.o.o." ;
+    cim:Names.name "03453316",
+        "Balance Responsible Party",
+        "Producer",
+        "Production Responsible Party",
+        "SOLAR_SIGN" ;
+    dcterms:identifier "urn:eic:35X-S---54---32I" ;
+    schema1:vatID "03453316" ;
+    skos:altLabel "SOLAR_SIGN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Solar sign d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

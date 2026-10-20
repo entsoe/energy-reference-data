@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002992F" ;
-    cim:IdentifiedObject.name "M 132 Eidum-Øireina" ;
+    cim:IdentifiedObject.name "N 132 Eidum-Øireina" ;
     cim:Names.name "Internal Line",
-        "NO-EIDUMOREINA13" ;
+        "NO-132EIDUMOIREI" ;
     dcterms:identifier "urn:eic:50TL00000002992F" ;
-    skos:altLabel "NO-EIDUMOREINA13" ;
+    skos:altLabel "NO-132EIDUMOIREI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Eidum-Øireina" ;
+    skos:prefLabel "N 132 Eidum-Øireina" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

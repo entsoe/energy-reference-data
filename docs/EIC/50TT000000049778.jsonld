@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000049778",
     "@skos:prefLabel": "N Heggen   T1 Transformator",
-    "@skos:altLabel": "NO-HEGGEN__T1",
+    "@skos:altLabel": "NO-HEGGENT1",
     "@cim:IdentifiedObject.mRID": "50TT000000049778",
     "@cim:IdentifiedObject.name": "N Heggen   T1 Transformator",
     "@cim:Names.name": [
-        "NO-HEGGEN__T1",
+        "NO-HEGGENT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPIENSOSDARUZV",
     "@skos:prefLabel": "PIENSOS DARUZ SL",
     "@skos:altLabel": "DARUZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPIENSOSDARUZV",
     "@cim:IdentifiedObject.name": "PIENSOS DARUZ SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB06195820",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-07-20",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB06195820",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

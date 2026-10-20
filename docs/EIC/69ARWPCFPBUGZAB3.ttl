@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69ARWPCFPBUGZAB3> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Busbar" ;
+    cim:IdentifiedObject.mRID "69ARWPCFPBUGZAB3" ;
+    cim:IdentifiedObject.name "ATHALASA_132BBSEG_M2" ;
+    cim:Names.name "ATHALASSA_BB_M2",
+        "Busbar" ;
+    dcterms:identifier "urn:eic:69ARWPCFPBUGZAB3" ;
+    skos:altLabel "ATHALASSA_BB_M2" ;
+    skos:definition "Busbar"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ATHALASA_132BBSEG_M2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

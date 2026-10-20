@@ -20,7 +20,10 @@
     },
     "@cim:IdentifiedObject.mRID": "65WTBILSRESGEN12",
     "@cim:IdentifiedObject.name": "TBILSRESGEN1",
-    "@cim:Names.name": "TBILSRESGEN1",
+    "@cim:Names.name": [
+        "TBILSRESGEN1",
+        "Generation Unit"
+    ],
     "@cim:IdentifiedObject.description": "GENERATION OBJECT",
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",

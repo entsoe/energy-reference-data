@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XINFRACKWSEDE1" ;
     cim:IdentifiedObject.name "Infracor GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE187430162",
-        "INFRACOR_KWSEDE" ;
+    cim:Names.name "DE187430162",
+        "INFRACOR_KWSEDE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XINFRACKWSEDE1" ;
     schema1:vatID "DE187430162" ;
     skos:altLabel "INFRACOR_KWSEDE" ;

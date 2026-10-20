@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XLARRO-12345-L",
     "@skos:prefLabel": "MONTOLAR LARRODE C.B",
     "@skos:altLabel": "LARRO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XLARRO-12345-L",
     "@cim:IdentifiedObject.name": "MONTOLAR LARRODE C.B",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESE50525856",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESE50525856",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

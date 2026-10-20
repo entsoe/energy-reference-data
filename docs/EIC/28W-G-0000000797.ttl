@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "28W-G-0000000797" ;
     cim:IdentifiedObject.name "Termoelektrarna Trbovlje" ;
-    cim:Names.name "TET-PU" ;
+    cim:Names.name "Production Unit",
+        "TET-PU" ;
     dcterms:identifier "urn:eic:28W-G-0000000797" ;
     skos:altLabel "TET-PU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

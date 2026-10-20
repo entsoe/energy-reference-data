@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-11-02" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "27XEDF-TRADING-G" ;
     cim:IdentifiedObject.name "EDF Trading- organizacni slozka" ;
-    cim:Names.name "CZ26736934",
-        "EDFTRADING-OS",
-        "Transmission Capacity Allocator" ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ26736934",
+        "EDFTRADING-OS" ;
     dcterms:identifier "urn:eic:27XEDF-TRADING-G" ;
     schema1:vatID "CZ26736934" ;
     skos:altLabel "EDFTRADING-OS" ;

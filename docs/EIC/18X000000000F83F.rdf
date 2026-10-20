@@ -4,15 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18X000000000F83F</dcterms:identifier>
-    <skos:prefLabel>INTERXION ESPA&#209;A, SAU</skos:prefLabel>
-    <skos:altLabel>PRU_AC</skos:altLabel>
+    <skos:prefLabel>VIAJES EL CORTE INGLES S.A.</skos:prefLabel>
+    <skos:altLabel>ES-VIAJECORTE</skos:altLabel>
     <cim:IdentifiedObject.mRID>18X000000000F83F</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>INTERXION ESPA&#209;A, SAU</cim:IdentifiedObject.name>
-    <cim:Names.name>PRU_AC</cim:Names.name>
+    <cim:IdentifiedObject.name>VIAJES EL CORTE INGLES S.A.</cim:IdentifiedObject.name>
+    <cim:Names.name>ES-VIAJECORTE</cim:Names.name>
     <cim:Names.name>ESA28229813</cim:Names.name>
-    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-08-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-25</cim:DateAndOrTime.date>
+    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA28229813</schema:vatID>
   </skos:Concept>

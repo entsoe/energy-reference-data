@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001210U",
-    "@skos:prefLabel": "PZEM Energy BV",
-    "@skos:altLabel": "PZEM_ENERGY_BV",
+    "@skos:prefLabel": "ZEH Energy BV",
+    "@skos:altLabel": "ZEH_ENERGY_BV",
     "@cim:IdentifiedObject.mRID": "21X000000001210U",
-    "@cim:IdentifiedObject.name": "PZEM Energy BV",
+    "@cim:IdentifiedObject.name": "ZEH Energy BV",
     "@cim:Names.name": [
-        "PZEM_ENERGY_BV",
+        "ZEH_ENERGY_BV",
         "NL812290793B01",
-        "Balance Responsible Party"
+        "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-12-01",
+    "@cim:DateAndOrTime.date": "2024-01-15",
     "@schema:vatID": "NL812290793B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

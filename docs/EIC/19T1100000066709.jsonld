@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000066709",
-    "@skos:prefLabel": "Ząbkowice-A3",
+    "@skos:prefLabel": "220/110kV Zabkowice AT3",
     "@skos:altLabel": "ZBK-A3",
     "@cim:IdentifiedObject.mRID": "19T1100000066709",
-    "@cim:IdentifiedObject.name": "Ząbkowice-A3",
+    "@cim:IdentifiedObject.name": "220/110kV Zabkowice AT3",
     "@cim:Names.name": [
         "ZBK-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

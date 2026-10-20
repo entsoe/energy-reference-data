@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWS-LK-SIMBAE" ;
     cim:IdentifiedObject.name "Südwestdeutsche Stromhandels GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE199210376",
-        "SUEDWESTSTROM-35" ;
+    cim:Names.name "DE199210376",
+        "SUEDWESTSTROM-35",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWS-LK-SIMBAE" ;
     schema1:vatID "DE199210376" ;
     skos:altLabel "SUEDWESTSTROM-35" ;

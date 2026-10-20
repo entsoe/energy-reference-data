@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006497Y" ;
-    cim:IdentifiedObject.name "Ełk-A1" ;
+    cim:IdentifiedObject.name "220/110kV Elk AT1" ;
     cim:Names.name "ELK-A1",
         "Transformer" ;
     dcterms:identifier "urn:eic:19T110000006497Y" ;
     skos:altLabel "ELK-A1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ełk-A1" ;
+    skos:prefLabel "220/110kV Elk AT1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

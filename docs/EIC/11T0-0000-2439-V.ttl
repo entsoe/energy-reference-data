@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2439-V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2439-V" ;
+    cim:IdentifiedObject.name "AMP / 220kV / Mutterstadt / Trafo 212" ;
+    cim:Names.name "MUTTERSTADT-212",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:11T0-0000-2439-V" ;
+    skos:altLabel "MUTTERSTADT-212" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AMP / 220kV / Mutterstadt / Trafo 212" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

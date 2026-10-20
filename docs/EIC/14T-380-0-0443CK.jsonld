@@ -16,7 +16,10 @@
     "@skos:altLabel": "443C",
     "@cim:IdentifiedObject.mRID": "14T-380-0-0443CK",
     "@cim:IdentifiedObject.name": "380kV line Bisam.-Sarasdorf",
-    "@cim:Names.name": "443C",
+    "@cim:Names.name": [
+        "443C",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-11-26",

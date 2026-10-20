@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-STELPESES023> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43W-STELPESES023" ;
+    cim:IdentifiedObject.name "Stelpe 2 solar farm" ;
+    cim:Names.name "Generation Unit",
+        "STELPESES023" ;
+    dcterms:identifier "urn:eic:43W-STELPESES023" ;
+    skos:altLabel "STELPESES023" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Stelpe 2 solar farm" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

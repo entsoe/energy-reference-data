@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/63X635628893161A> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "63X635628893161A" ;
+    cim:IdentifiedObject.name "Trois Frontières Distribution Gaz" ;
+    cim:Names.name "Distribution System Operator",
+        "FR29901104042",
+        "FRG_3F-DG" ;
+    dcterms:identifier "urn:eic:63X635628893161A" ;
+    schema1:vatID "FR29901104042" ;
+    skos:altLabel "FRG_3F-DG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Trois Frontières Distribution Gaz" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

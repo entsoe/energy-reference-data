@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XECOSWITCHSWRP" ;
     cim:IdentifiedObject.name "ecoSWITCH AG" ;
-    cim:Names.name "Balance Group",
-        "DE205866487",
-        "ECOSWITCH_1" ;
+    cim:Names.name "DE205866487",
+        "ECOSWITCH_1",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XECOSWITCHSWRP" ;
     schema1:vatID "DE205866487" ;
     skos:altLabel "ECOSWITCH_1" ;

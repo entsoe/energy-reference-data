@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XULTR-123456-8",
     "@skos:prefLabel": "Ultransa SL",
     "@skos:altLabel": "ULTR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XULTR-123456-8",
     "@cim:IdentifiedObject.name": "Ultransa SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB32027294",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-07-24",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB32027294",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

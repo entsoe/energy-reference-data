@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X000000000153Q</dcterms:identifier>
-    <skos:prefLabel>MAN Energy Solutions SE</skos:prefLabel>
-    <skos:altLabel>MAN_ENERGY_SOLUT</skos:altLabel>
+    <skos:prefLabel>EVERLLENCE SE</skos:prefLabel>
+    <skos:altLabel>EVERLLENCE_SE</skos:altLabel>
     <skos:definition xml:lang="en">Consumer</skos:definition>
     <cim:IdentifiedObject.mRID>37X000000000153Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>MAN Energy Solutions SE</cim:IdentifiedObject.name>
-    <cim:Names.name>MAN_ENERGY_SOLUT</cim:Names.name>
+    <cim:IdentifiedObject.name>EVERLLENCE SE</cim:IdentifiedObject.name>
+    <cim:Names.name>EVERLLENCE_SE</cim:Names.name>
     <cim:Names.name>DE811136900</cim:Names.name>
     <cim:IdentifiedObject.description>Consumer</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-01-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-09</cim:DateAndOrTime.date>
     <cim:Names.name>Consumer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811136900</schema:vatID>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38T-L356-------A",
-    "@skos:prefLabel": "L356 Paide-Viru",
-    "@skos:altLabel": "L356_PAIDE_VIRU",
+    "@skos:prefLabel": "L356 Paide-Mustvee",
+    "@skos:altLabel": "L356_PAIDE_MUSTV",
     "@cim:IdentifiedObject.mRID": "38T-L356-------A",
-    "@cim:IdentifiedObject.name": "L356 Paide-Viru",
+    "@cim:IdentifiedObject.name": "L356 Paide-Mustvee",
     "@cim:Names.name": [
-        "L356_PAIDE_VIRU",
+        "L356_PAIDE_MUSTV",
         "Internal Tie-Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-17",
+    "@cim:DateAndOrTime.date": "2026-03-03",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

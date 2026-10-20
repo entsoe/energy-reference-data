@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-23" ;
+    cim:DateAndOrTime.date "2025-06-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31X-0170-P-000-P" ;
-    cim:IdentifiedObject.name "MODERATOR d.o.o." ;
+    cim:IdentifiedObject.name "RST-Pellet Udbina d.o.o." ;
     cim:Names.name "10160841858",
-        "HR-MODERATOR",
+        "HR-RST-PE-UDBINA",
         "Producer" ;
     dcterms:identifier "urn:eic:31X-0170-P-000-P" ;
     schema1:vatID "10160841858" ;
-    skos:altLabel "HR-MODERATOR" ;
+    skos:altLabel "HR-RST-PE-UDBINA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MODERATOR d.o.o." ;
+    skos:prefLabel "RST-Pellet Udbina d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

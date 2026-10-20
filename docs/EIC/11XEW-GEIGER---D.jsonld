@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XEW-GEIGER---D",
     "@skos:prefLabel": "EW Geiger GmbH",
     "@skos:altLabel": "EW-GEIGER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEW-GEIGER---D",
     "@cim:IdentifiedObject.name": "EW Geiger GmbH",
     "@cim:Names.name": [
         "EW-GEIGER",
-        "DE187195046",
-        "balance group"
+        "DE274278655",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-18",
-    "@schema:vatID": "DE187195046",
+    "@cim:DateAndOrTime.date": "2024-11-07",
+    "@schema:vatID": "DE274278655",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

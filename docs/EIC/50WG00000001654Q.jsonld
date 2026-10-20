@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001654Q",
-    "@skos:prefLabel": "MOSKOG  G128 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G128_",
+    "@skos:prefLabel": "SENNESETG128 HYDRO",
+    "@skos:altLabel": "NO-SENNESETG128",
     "@cim:IdentifiedObject.mRID": "50WG00000001654Q",
-    "@cim:IdentifiedObject.name": "MOSKOG  G128 HYDRO",
+    "@cim:IdentifiedObject.name": "SENNESETG128 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G128_",
+        "NO-SENNESETG128",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

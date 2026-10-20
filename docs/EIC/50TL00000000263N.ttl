@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000263N" ;
-    cim:IdentifiedObject.name "M 132 Giskemo-Alvestad" ;
+    cim:IdentifiedObject.name "N 132 Giskemo-Alvestad" ;
     cim:Names.name "Internal Line",
-        "NO-GISKEMOALVEST" ;
+        "NO-132GISKEMOALV" ;
     dcterms:identifier "urn:eic:50TL00000000263N" ;
-    skos:altLabel "NO-GISKEMOALVEST" ;
+    skos:altLabel "NO-132GISKEMOALV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Giskemo-Alvestad" ;
+    skos:prefLabel "N 132 Giskemo-Alvestad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

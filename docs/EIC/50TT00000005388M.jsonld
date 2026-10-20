@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005388M",
-    "@skos:prefLabel": "M Nedre Rø T10 Transformator",
+    "@skos:prefLabel": "N Nedre Rø T10 Transformator",
     "@skos:altLabel": "NO-NEDREROST10",
     "@cim:IdentifiedObject.mRID": "50TT00000005388M",
-    "@cim:IdentifiedObject.name": "M Nedre Rø T10 Transformator",
+    "@cim:IdentifiedObject.name": "N Nedre Rø T10 Transformator",
     "@cim:Names.name": [
         "NO-NEDREROST10",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

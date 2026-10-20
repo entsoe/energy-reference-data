@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-08-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000028401" ;
-    cim:IdentifiedObject.name "S 66 Njøs-Hove" ;
+    cim:IdentifiedObject.name "S 66 Dagshovden-Hove" ;
     cim:Names.name "Internal Line",
-        "NO-NJOSHOVE" ;
+        "NO-66DAGHOVDENHO" ;
     dcterms:identifier "urn:eic:50TL000000028401" ;
-    skos:altLabel "NO-NJOSHOVE" ;
+    skos:altLabel "NO-66DAGHOVDENHO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Njøs-Hove" ;
+    skos:prefLabel "S 66 Dagshovden-Hove" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

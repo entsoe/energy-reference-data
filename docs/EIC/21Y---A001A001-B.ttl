@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-02-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Virtual Trading Point" ;
     cim:IdentifiedObject.mRID "21Y---A001A001-B" ;
-    cim:IdentifiedObject.name "Virtual Trading Point RWE Transgas Net" ;
-    cim:Names.name "VOB-CZ",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "Virtual Trading Point OTE" ;
+    cim:Names.name "Bidding Zone",
+        "Market Area",
+        "Metering Grid Area",
+        "VOB-CZ" ;
     dcterms:identifier "urn:eic:21Y---A001A001-B" ;
     skos:altLabel "VOB-CZ" ;
     skos:definition "Virtual Trading Point"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Virtual Trading Point RWE Transgas Net" ;
+    skos:prefLabel "Virtual Trading Point OTE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

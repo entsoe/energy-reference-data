@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGERI-123456-G",
     "@skos:prefLabel": "Geriatros S.A.",
     "@skos:altLabel": "GERI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGERI-123456-G",
     "@cim:IdentifiedObject.name": "Geriatros S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA36780245",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-03-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA36780245",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

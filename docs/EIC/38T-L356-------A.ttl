@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-17" ;
+    cim:DateAndOrTime.date "2026-03-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "38T-L356-------A" ;
-    cim:IdentifiedObject.name "L356 Paide-Viru" ;
+    cim:IdentifiedObject.name "L356 Paide-Mustvee" ;
     cim:Names.name "Internal Tie-Line",
-        "L356_PAIDE_VIRU" ;
+        "L356_PAIDE_MUSTV" ;
     dcterms:identifier "urn:eic:38T-L356-------A" ;
-    skos:altLabel "L356_PAIDE_VIRU" ;
+    skos:altLabel "L356_PAIDE_MUSTV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "L356 Paide-Viru" ;
+    skos:prefLabel "L356 Paide-Mustvee" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XSADEJ-12345-0",
     "@skos:prefLabel": "SADEJU SL",
     "@skos:altLabel": "SADEJ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XSADEJ-12345-0",
     "@cim:IdentifiedObject.name": "SADEJU SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB11066784",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB11066784",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

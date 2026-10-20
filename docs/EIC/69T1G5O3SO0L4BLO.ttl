@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69T1G5O3SO0L4BLO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Busbar Coupler" ;
+    cim:IdentifiedObject.mRID "69T1G5O3SO0L4BLO" ;
+    cim:IdentifiedObject.name "DHEK-GIS 132 B-COUPLER BREAKER 1485" ;
+    cim:Names.name "Busbar Coupler",
+        "DHEK-GIS_BC_1485" ;
+    dcterms:identifier "urn:eic:69T1G5O3SO0L4BLO" ;
+    skos:altLabel "DHEK-GIS_BC_1485" ;
+    skos:definition "Busbar Coupler"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DHEK-GIS 132 B-COUPLER BREAKER 1485" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Connection Point" ;
     cim:IdentifiedObject.mRID "37Z0000000018443" ;
     cim:IdentifiedObject.name "ONTRAS-SWRAG Barnstorfer Wald" ;
-    cim:Names.name "37Z0000000018443" ;
+    cim:Names.name "37Z0000000018443",
+        "Connection Point" ;
     dcterms:identifier "urn:eic:37Z0000000018443" ;
     skos:altLabel "37Z0000000018443" ;
     skos:definition "Connection Point"@en ;

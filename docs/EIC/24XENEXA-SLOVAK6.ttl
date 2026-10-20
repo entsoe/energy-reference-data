@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/24XENEXA-SLOVAK6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "24XENEXA-SLOVAK6" ;
+    cim:IdentifiedObject.name "ENEXA SLOVAKIA s.r.o." ;
+    cim:Names.name "ENEXA-SK",
+        "SK2122145916",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:24XENEXA-SLOVAK6" ;
+    schema1:vatID "SK2122145916" ;
+    skos:altLabel "ENEXA-SK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENEXA SLOVAKIA s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

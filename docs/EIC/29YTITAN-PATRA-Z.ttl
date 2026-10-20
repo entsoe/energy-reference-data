@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Importer Of Electricity And Industrial Consumer" ;
     cim:IdentifiedObject.mRID "29YTITAN-PATRA-Z" ;
     cim:IdentifiedObject.name "TITAN CEMENT COMPANY S.A. - PATRA ACHAIAS" ;
-    cim:Names.name "TITAN-PATRA",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Group",
+        "TITAN-PATRA" ;
     dcterms:identifier "urn:eic:29YTITAN-PATRA-Z" ;
     skos:altLabel "TITAN-PATRA" ;
     skos:definition "Importer Of Electricity And Industrial Consumer"@en ;

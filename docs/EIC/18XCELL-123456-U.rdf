@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCELL-123456-U</dcterms:identifier>
     <skos:prefLabel>CELLTECH S.L.U</skos:prefLabel>
     <skos:altLabel>CELL</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCELL-123456-U</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CELLTECH S.L.U</cim:IdentifiedObject.name>
     <cim:Names.name>CELL</cim:Names.name>
     <cim:Names.name>ESB82634197</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-03-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB82634197</schema:vatID>

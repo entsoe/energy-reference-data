@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000999B",
     "@skos:prefLabel": "S 300 Bærheim-Stokkeland1",
-    "@skos:altLabel": "NO-BARHSTOKKELA1",
+    "@skos:altLabel": "NO-300BARHELAND1",
     "@cim:IdentifiedObject.mRID": "50TL00000000999B",
     "@cim:IdentifiedObject.name": "S 300 Bærheim-Stokkeland1",
     "@cim:Names.name": [
-        "NO-BARHSTOKKELA1",
+        "NO-300BARHELAND1",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-06-27",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

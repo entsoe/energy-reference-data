@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11X-EWERK-SW---W</dcterms:identifier>
     <skos:prefLabel>e-werk Sachsenwald GmbH</skos:prefLabel>
     <skos:altLabel>E-WERK-SW</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11X-EWERK-SW---W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>e-werk Sachsenwald GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>E-WERK-SW</cim:Names.name>
     <cim:Names.name>DE135095897</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-08-24</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE135095897</schema:vatID>
   </skos:Concept>

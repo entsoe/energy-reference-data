@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSTW-CRAI----0",
     "@skos:prefLabel": "Stadtwerke Crailsheim GmbH",
     "@skos:altLabel": "STW-CRAILSHEIM_1",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTW-CRAI----0",
     "@cim:IdentifiedObject.name": "Stadtwerke Crailsheim GmbH",
     "@cim:Names.name": [
         "STW-CRAILSHEIM_1",
         "DE145206528",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-10-26",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "DE145206528",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

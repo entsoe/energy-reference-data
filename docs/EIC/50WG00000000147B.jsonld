@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000147B",
-    "@skos:prefLabel": "BLAFALLIG116 HYDRO",
-    "@skos:altLabel": "NO-BLAFALLIG116_",
+    "@skos:prefLabel": "ILAGET  G116 HYDRO",
+    "@skos:altLabel": "NO-ILAGETG116",
     "@cim:IdentifiedObject.mRID": "50WG00000000147B",
-    "@cim:IdentifiedObject.name": "BLAFALLIG116 HYDRO",
+    "@cim:IdentifiedObject.name": "ILAGET  G116 HYDRO",
     "@cim:Names.name": [
-        "NO-BLAFALLIG116_",
+        "NO-ILAGETG116",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-09-10",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

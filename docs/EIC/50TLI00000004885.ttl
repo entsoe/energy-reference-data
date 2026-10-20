@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000004885" ;
     cim:IdentifiedObject.name "N 132 Melkefoss-T-Melkefoss" ;
     cim:Names.name "Internal Line",
-        "NO-MELKEFOSSTMEL" ;
+        "NO-132MELKEFOSST" ;
     dcterms:identifier "urn:eic:50TLI00000004885" ;
-    skos:altLabel "NO-MELKEFOSSTMEL" ;
+    skos:altLabel "NO-132MELKEFOSST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Melkefoss-T-Melkefoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:59X000000000007C",
-    "@skos:prefLabel": "SIMP GAS SRL",
-    "@skos:altLabel": "SIMP_GA",
+    "@skos:prefLabel": "SG ENERGIA SOCIETA' PER AZIONI",
+    "@skos:altLabel": "SGENERGIASOCIETA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "59X000000000007C",
-    "@cim:IdentifiedObject.name": "SIMP GAS SRL",
+    "@cim:IdentifiedObject.name": "SG ENERGIA SOCIETA' PER AZIONI",
     "@cim:Names.name": [
-        "SIMP_GA",
+        "SGENERGIASOCIETA",
         "IT01504440197",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-11-15",
+    "@cim:DateAndOrTime.date": "2024-12-17",
     "@schema:vatID": "IT01504440197",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

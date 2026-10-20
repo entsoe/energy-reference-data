@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:44X-00000000057R",
-    "@skos:prefLabel": "Tampereen Sähköverkko Oy",
+    "@skos:prefLabel": "Tampereen Energia Sähköverkko Oy",
     "@skos:altLabel": "44TSVOY",
     "@cim:IdentifiedObject.mRID": "44X-00000000057R",
-    "@cim:IdentifiedObject.name": "Tampereen Sähköverkko Oy",
+    "@cim:IdentifiedObject.name": "Tampereen Energia Sähköverkko Oy",
     "@cim:Names.name": [
         "44TSVOY",
         "FI19506810",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-04-09",
+    "@cim:DateAndOrTime.date": "2023-12-21",
     "@schema:vatID": "FI19506810",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

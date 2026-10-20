@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X000000001250I</dcterms:identifier>
-    <skos:prefLabel>Stogit Spa</skos:prefLabel>
-    <skos:altLabel>STOGIT</skos:altLabel>
+    <skos:prefLabel>Snam Stoccaggio SpA</skos:prefLabel>
+    <skos:altLabel>SNAM-STOCCAGGIO</skos:altLabel>
     <skos:definition xml:lang="en">System Operator</skos:definition>
     <cim:IdentifiedObject.mRID>21X000000001250I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stogit Spa</cim:IdentifiedObject.name>
-    <cim:Names.name>STOGIT</cim:Names.name>
+    <cim:IdentifiedObject.name>Snam Stoccaggio SpA</cim:IdentifiedObject.name>
+    <cim:Names.name>SNAM-STOCCAGGIO</cim:Names.name>
     <cim:Names.name>IT13271380159</cim:Names.name>
     <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-08-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-05-19</cim:DateAndOrTime.date>
     <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT13271380159</schema:vatID>

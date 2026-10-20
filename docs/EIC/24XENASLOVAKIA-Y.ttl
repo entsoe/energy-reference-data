@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-05-13" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Electricity Trader (Sk: Obchod S Elektrickou Energiou)" ;
     cim:IdentifiedObject.mRID "24XENASLOVAKIA-Y" ;
     cim:IdentifiedObject.name "Energy Alliance Slovakia s.r.o." ;
     cim:Names.name "ENASLOVAKIA",
         "SK2021826642",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XENASLOVAKIA-Y" ;
     schema1:vatID "SK2021826642" ;
     skos:altLabel "ENASLOVAKIA" ;

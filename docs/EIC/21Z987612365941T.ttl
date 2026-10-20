@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-14" ;
+    cim:DateAndOrTime.date "2024-07-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z987612365941T" ;
     cim:IdentifiedObject.name "ALOYMINION IV" ;
-    cim:Names.name "ALOYMINIONIV",
+    cim:Names.name "ALOYMINION-IV-GR",
         "Metering Point" ;
     dcterms:identifier "urn:eic:21Z987612365941T" ;
-    skos:altLabel "ALOYMINIONIV" ;
+    skos:altLabel "ALOYMINION-IV-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ALOYMINION IV" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

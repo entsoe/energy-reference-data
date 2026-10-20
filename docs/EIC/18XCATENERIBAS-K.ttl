@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-05" ;
+    cim:DateAndOrTime.date "2024-04-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XCATENERIBAS-K" ;
     cim:IdentifiedObject.name "CATENERIBAS S.L." ;
     cim:Names.name "ESB64376395",
-        "RIBAS",
-        "Trade Responsible Party" ;
+        "Grid Access Provider",
+        "RIBAS" ;
     dcterms:identifier "urn:eic:18XCATENERIBAS-K" ;
     schema1:vatID "ESB64376395" ;
     skos:altLabel "RIBAS" ;

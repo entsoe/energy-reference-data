@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XCESOLARKRETIQ",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XCESOLARKRETIQ",
+    "@skos:prefLabel": "UAB CE SOLAR KRETINGALE",
+    "@skos:altLabel": "CESOLARKRETINGAL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "305934820  arvydas.jonaitis@envolve.capital   +370 687 43208\n\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "41XCESOLARKRETIQ",
+    "@cim:IdentifiedObject.name": "UAB CE SOLAR KRETINGALE",
+    "@cim:Names.name": [
+        "CESOLARKRETINGAL",
+        "LT100016376211",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "305934820  arvydas.jonaitis@envolve.capital   +370 687 43208\n\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-27",
+    "@schema:vatID": "LT100016376211",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

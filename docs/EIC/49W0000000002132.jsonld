@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/49W0000000002132",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:49W0000000002132",
+    "@skos:prefLabel": "Zonnewei de Raak",
+    "@skos:altLabel": "ZONNEWEI_DE_RAAK",
+    "@cim:IdentifiedObject.mRID": "49W0000000002132",
+    "@cim:IdentifiedObject.name": "Zonnewei de Raak",
+    "@cim:Names.name": [
+        "ZONNEWEI_DE_RAAK",
+        "Production Unit"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-07",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

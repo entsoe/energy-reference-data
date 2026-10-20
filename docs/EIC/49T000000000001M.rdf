@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:49T000000000001M</dcterms:identifier>
-    <skos:prefLabel>Meeden-Zwolle White</skos:prefLabel>
-    <skos:altLabel>MEE-ZWO-W</skos:altLabel>
+    <skos:prefLabel>Zwolle-Meeden 380 Wit</skos:prefLabel>
+    <skos:altLabel>ZL-MEE380-W</skos:altLabel>
     <cim:IdentifiedObject.mRID>49T000000000001M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Meeden-Zwolle White</cim:IdentifiedObject.name>
-    <cim:Names.name>MEE-ZWO-W</cim:Names.name>
+    <cim:IdentifiedObject.name>Zwolle-Meeden 380 Wit</cim:IdentifiedObject.name>
+    <cim:Names.name>ZL-MEE380-W</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-01-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-19</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

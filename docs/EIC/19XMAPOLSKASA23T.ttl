@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XMAPOLSKASA23T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XMAPOLSKASA23T" ;
+    cim:IdentifiedObject.name "MA POLSKA SPÓŁKA AKCYJNA" ;
+    cim:Names.name "A0020409D.PL",
+        "Consumer",
+        "Grid Access Provider",
+        "MA_POLSKA",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL6462336513",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19XMAPOLSKASA23T" ;
+    schema1:vatID "PL6462336513" ;
+    skos:altLabel "MA_POLSKA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MA POLSKA SPÓŁKA AKCYJNA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

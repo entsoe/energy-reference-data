@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XPVU---------E</dcterms:identifier>
-    <skos:prefLabel>PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft </skos:prefLabel>
+    <skos:prefLabel>PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft mit beschr&#228;nkter Haftung</skos:prefLabel>
     <skos:altLabel>PVU</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XPVU---------E</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft </cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>PVU Prignitzer Energie- und Wasserversorgungsunternehmen Gesellschaft mit beschr&#228;nkter Haftung</cim:IdentifiedObject.name>
     <cim:Names.name>PVU</cim:Names.name>
     <cim:Names.name>DE138975004</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-06-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-05</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE138975004</schema:vatID>

@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Trading Point" ;
+    cim:DateAndOrTime.date "2024-12-06" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "Virtual Trading Point, Y code deactivation requested  as the CEGH has created a Z code to replace the Y code.  VTP function was required." ;
     cim:IdentifiedObject.mRID "21Y000000000009E" ;
     cim:IdentifiedObject.name "VTP-CEGH" ;
-    cim:Names.name "VTP-CEGH",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "VTP-CEGH" ;
     dcterms:identifier "urn:eic:21Y000000000009E" ;
     skos:altLabel "VTP-CEGH" ;
-    skos:definition "Virtual Trading Point"@en ;
+    skos:definition "Virtual Trading Point, Y code deactivation requested  as the CEGH has created a Z code to replace the Y code.  VTP function was required."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VTP-CEGH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

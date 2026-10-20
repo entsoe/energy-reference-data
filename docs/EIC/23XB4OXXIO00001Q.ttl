@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Local Service Company" ;
     cim:IdentifiedObject.mRID "23XB4OXXIO00001Q" ;
     cim:IdentifiedObject.name "Oxxio Nederlands BV" ;
-    cim:Names.name "NL808883884B01",
-        "OXXIO_NL",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Information Provider",
+        "NL808883884B01",
+        "OXXIO_NL" ;
     dcterms:identifier "urn:eic:23XB4OXXIO00001Q" ;
     schema1:vatID "NL808883884B01" ;
     skos:altLabel "OXXIO_NL" ;

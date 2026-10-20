@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001002A" ;
     cim:IdentifiedObject.name "S Holmlia  47  2-92 Forbruk" ;
     cim:Names.name "Load",
-        "NO-HOLMLIA472-92" ;
+        "NO-HOLMLIA472_92" ;
     dcterms:identifier "urn:eic:50WC00000001002A" ;
-    skos:altLabel "NO-HOLMLIA472-92" ;
+    skos:altLabel "NO-HOLMLIA472_92" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Holmlia  47  2-92 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-01-21" ;
+    cim:DateAndOrTime.date "2026-02-16" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Production Responsible Party" ;
     cim:IdentifiedObject.mRID "18XIHSAN-12345-X" ;
     cim:IdentifiedObject.name "INSTALACIONES HIDRÁULICAS SAN ANTONIO S.L." ;
     cim:Names.name "ESB81690554",
         "IHSAN",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XIHSAN-12345-X" ;
     schema1:vatID "ESB81690554" ;
     skos:altLabel "IHSAN" ;
-    skos:definition "Production Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "INSTALACIONES HIDRÁULICAS SAN ANTONIO S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

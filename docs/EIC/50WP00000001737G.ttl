@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001737G" ;
-    cim:IdentifiedObject.name "Støls.Krv" ;
-    cim:Names.name "NO-STOLS_KR",
+    cim:IdentifiedObject.name "Stølsdalselva" ;
+    cim:Names.name "NO-STOELSDALSEL",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001737G" ;
-    skos:altLabel "NO-STOLS_KR" ;
+    skos:altLabel "NO-STOELSDALSEL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Støls.Krv" ;
+    skos:prefLabel "Stølsdalselva" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

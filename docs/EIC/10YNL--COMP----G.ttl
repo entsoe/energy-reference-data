@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10YNL--COMP----G" ;
     cim:IdentifiedObject.name "fictitious comp. control area Netherlands" ;
-    cim:Names.name "NL_COMP_TENNET",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Market Area",
+        "NL_COMP_TENNET" ;
     dcterms:identifier "urn:eic:10YNL--COMP----G" ;
     skos:altLabel "NL_COMP_TENNET" ;
     skos:definition "Fictitious Area"@en ;

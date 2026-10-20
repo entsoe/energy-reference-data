@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006667Z" ;
-    cim:IdentifiedObject.name "Wrzosowa-A3" ;
+    cim:IdentifiedObject.name "220/110kV Wrzosowa AT3" ;
     cim:Names.name "Transformer",
         "WRZ-A3" ;
     dcterms:identifier "urn:eic:19T110000006667Z" ;
     skos:altLabel "WRZ-A3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Wrzosowa-A3" ;
+    skos:prefLabel "220/110kV Wrzosowa AT3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

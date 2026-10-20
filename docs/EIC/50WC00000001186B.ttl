@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001186B" ;
-    cim:IdentifiedObject.name "S Kjos     50  Forbruk" ;
+    cim:IdentifiedObject.name "S Kjos     50  T1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-KJOS50" ;
+        "NO-KJOS50T1" ;
     dcterms:identifier "urn:eic:50WC00000001186B" ;
-    skos:altLabel "NO-KJOS50" ;
+    skos:altLabel "NO-KJOS50T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Kjos     50  Forbruk" ;
+    skos:prefLabel "S Kjos     50  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

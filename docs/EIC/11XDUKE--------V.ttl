@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDUKE--------V" ;
     cim:IdentifiedObject.name "Duke Energy" ;
-    cim:Names.name "Balance Group",
-        "DUKE" ;
+    cim:Names.name "DUKE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDUKE--------V" ;
     skos:altLabel "DUKE" ;
     skos:definition "Balance Group"@en ;

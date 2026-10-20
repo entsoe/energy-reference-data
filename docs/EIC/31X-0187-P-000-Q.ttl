@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-09-09" ;
+    cim:DateAndOrTime.date "2025-07-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31X-0187-P-000-Q" ;
-    cim:IdentifiedObject.name "LIKA ENERGO EKO d.o.o." ;
-    cim:Names.name "HR-LIKA-ENER-EKO",
+    cim:IdentifiedObject.name "RST Energy d.o.o." ;
+    cim:Names.name "HR-RST-ENERGY",
         "HR84637584071",
         "Producer" ;
     dcterms:identifier "urn:eic:31X-0187-P-000-Q" ;
     schema1:vatID "HR84637584071" ;
-    skos:altLabel "HR-LIKA-ENER-EKO" ;
+    skos:altLabel "HR-RST-ENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LIKA ENERGO EKO d.o.o." ;
+    skos:prefLabel "RST Energy d.o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

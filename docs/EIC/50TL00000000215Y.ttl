@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000215Y" ;
     cim:IdentifiedObject.name "S 132 Evanger-Voss" ;
     cim:Names.name "Internal Line",
-        "NO-EVANGERVOSS" ;
+        "NO-132EVANGERVOS" ;
     dcterms:identifier "urn:eic:50TL00000000215Y" ;
-    skos:altLabel "NO-EVANGERVOSS" ;
+    skos:altLabel "NO-132EVANGERVOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Evanger-Voss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

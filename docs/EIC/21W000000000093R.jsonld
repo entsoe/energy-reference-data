@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21W000000000093R",
     "@skos:prefLabel": "UGS Uelsen",
     "@skos:altLabel": "UGS-UELSEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Resource Object"
-    },
     "@cim:IdentifiedObject.mRID": "21W000000000093R",
     "@cim:IdentifiedObject.name": "UGS Uelsen",
     "@cim:Names.name": [
         "UGS-UELSEN",
         "Resource Object"
     ],
-    "@cim:IdentifiedObject.description": "Resource Object",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-06",
+    "@cim:DateAndOrTime.date": "2024-06-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

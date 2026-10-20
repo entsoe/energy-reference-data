@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000007037",
-    "@skos:prefLabel": "HOLTAN  G107 HYDRO",
-    "@skos:altLabel": "NO-HOLTAN__G107_",
+    "@skos:prefLabel": "HOLTANE G107 HYDRO",
+    "@skos:altLabel": "NO-HOLTANEG107",
     "@cim:IdentifiedObject.mRID": "50WG000000007037",
-    "@cim:IdentifiedObject.name": "HOLTAN  G107 HYDRO",
+    "@cim:IdentifiedObject.name": "HOLTANE G107 HYDRO",
     "@cim:Names.name": [
-        "NO-HOLTAN__G107_",
+        "NO-HOLTANEG107",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

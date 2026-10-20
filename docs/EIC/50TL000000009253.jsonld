@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000009253",
-    "@skos:prefLabel": "M 22 Øvre Fiskumfoss-Aunfoss",
-    "@skos:altLabel": "NO-OVREFISKUMFOS",
+    "@skos:prefLabel": "N 22 Øvre Fiskumfoss-Aunfoss",
+    "@skos:altLabel": "NO-22OVREFISKUMF",
     "@cim:IdentifiedObject.mRID": "50TL000000009253",
-    "@cim:IdentifiedObject.name": "M 22 Øvre Fiskumfoss-Aunfoss",
+    "@cim:IdentifiedObject.name": "N 22 Øvre Fiskumfoss-Aunfoss",
     "@cim:Names.name": [
-        "NO-OVREFISKUMFOS",
+        "NO-22OVREFISKUMF",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48WSTN0000ARBRBM> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Uk House, 5th Floor, 164-182 Oxford Street, London, United Kingdom, W1D 1NN
+Francesca Corby
+francesca.corby@octoenergy.com
+""" ;
+    cim:IdentifiedObject.mRID "48WSTN0000ARBRBM" ;
+    cim:IdentifiedObject.name "ARBROATH" ;
+    cim:Names.name "ARBRB",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:48WSTN0000ARBRBM" ;
+    skos:altLabel "ARBRB" ;
+    skos:definition """Uk House, 5th Floor, 164-182 Oxford Street, London, United Kingdom, W1D 1NN
+Francesca Corby
+francesca.corby@octoenergy.com
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ARBROATH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000022V" ;
-    cim:IdentifiedObject.name "MONEHAGEG106 HYDRO" ;
+    cim:IdentifiedObject.name "JORUNDLAG106 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MONEHAGEG106_" ;
+        "NO-JORUNDLAG106" ;
     dcterms:identifier "urn:eic:50WG00000000022V" ;
-    skos:altLabel "NO-MONEHAGEG106_" ;
+    skos:altLabel "NO-JORUNDLAG106" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MONEHAGEG106 HYDRO" ;
+    skos:prefLabel "JORUNDLAG106 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

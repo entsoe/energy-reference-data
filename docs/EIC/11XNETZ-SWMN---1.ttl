@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNETZ-SWMN---1" ;
     cim:IdentifiedObject.name "Stadtwerke Mainz Netze GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE243365202",
-        "SWMN-NETZ" ;
+    cim:Names.name "DE243365202",
+        "SWMN-NETZ",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNETZ-SWMN---1" ;
     schema1:vatID "DE243365202" ;
     skos:altLabel "SWMN-NETZ" ;

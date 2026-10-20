@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000003702",
-    "@skos:prefLabel": "Polkowice-Mikułowa 2",
+    "@skos:prefLabel": "220kV Mikulowa-Polkowice 2",
     "@skos:altLabel": "4002",
     "@cim:IdentifiedObject.mRID": "19T0000000003702",
-    "@cim:IdentifiedObject.name": "Polkowice-Mikułowa 2",
+    "@cim:IdentifiedObject.name": "220kV Mikulowa-Polkowice 2",
     "@cim:Names.name": [
         "4002",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,30 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--251118-ED-V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """VAT number confirmed by the Certificate VAT Filer of the Tax Administration of Kosovo: 330609878
+Company Registration Number confirmed by the Certificate of Registration: 810862179
+""" ;
+    cim:IdentifiedObject.mRID "23X--251118-ED-V" ;
+    cim:IdentifiedObject.name "Energy Development Group Kosova LLC" ;
+    cim:Names.name "330609878",
+        "Capacity Trader",
+        "ENERGY_DEV_XK",
+        "Producer" ;
+    dcterms:identifier "urn:eic:23X--251118-ED-V" ;
+    schema1:vatID "330609878" ;
+    skos:altLabel "ENERGY_DEV_XK" ;
+    skos:definition """VAT number confirmed by the Certificate VAT Filer of the Tax Administration of Kosovo: 330609878
+Company Registration Number confirmed by the Certificate of Registration: 810862179
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energy Development Group Kosova LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

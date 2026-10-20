@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDE-TSO-MOL-YE" ;
     cim:IdentifiedObject.name "Amprion GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813761356",
-        "MOL-SERVER" ;
+    cim:Names.name "DE813761356",
+        "MOL-SERVER",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDE-TSO-MOL-YE" ;
     schema1:vatID "DE813761356" ;
     skos:altLabel "MOL-SERVER" ;

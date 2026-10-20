@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000701P",
     "@skos:prefLabel": "S 132 T_Engene-Rygene",
-    "@skos:altLabel": "NO-TENGENERYGENE",
+    "@skos:altLabel": "NO-132T_ENGENERY",
     "@cim:IdentifiedObject.mRID": "50TL00000000701P",
     "@cim:IdentifiedObject.name": "S 132 T_Engene-Rygene",
     "@cim:Names.name": [
-        "NO-TENGENERYGENE",
+        "NO-132T_ENGENERY",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

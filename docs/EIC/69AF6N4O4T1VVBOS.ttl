@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69AF6N4O4T1VVBOS> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Busbar" ;
+    cim:IdentifiedObject.mRID "69AF6N4O4T1VVBOS" ;
+    cim:IdentifiedObject.name "DHEK-GIS_132BBSEGM_M1" ;
+    cim:Names.name "Busbar",
+        "DHEK-GIS_BB_M1" ;
+    dcterms:identifier "urn:eic:69AF6N4O4T1VVBOS" ;
+    skos:altLabel "DHEK-GIS_BB_M1" ;
+    skos:definition "Busbar"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DHEK-GIS_132BBSEGM_M1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001703X",
     "@skos:prefLabel": "Hasselelva",
-    "@skos:altLabel": "NO-HASSELELVA_PL",
+    "@skos:altLabel": "NO-HASSELELVA",
     "@cim:IdentifiedObject.mRID": "50WP00000001703X",
     "@cim:IdentifiedObject.name": "Hasselelva",
     "@cim:Names.name": [
-        "NO-HASSELELVA_PL",
+        "NO-HASSELELVA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

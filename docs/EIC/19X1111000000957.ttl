@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X1111000000957> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X1111000000957" ;
+    cim:IdentifiedObject.name "EKOVOLTIS DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "EKOVOLTIS-DYSTR",
+        "Grid Access Provider",
+        "Metered Data Responsible",
+        "PL5214167177",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19X1111000000957" ;
+    schema1:vatID "PL5214167177" ;
+    skos:altLabel "EKOVOLTIS-DYSTR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EKOVOLTIS DYSTRYBUCJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

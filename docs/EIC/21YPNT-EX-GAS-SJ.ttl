@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Identification Of The Peg Sud Subterminal In France, Managed By Gaz De France" ;
     cim:IdentifiedObject.mRID "21YPNT-EX-GAS-SJ" ;
     cim:IdentifiedObject.name "Point Exchange Gas - SUD" ;
-    cim:Names.name "PEGSUD",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Bidding Zone",
+        "PEGSUD" ;
     dcterms:identifier "urn:eic:21YPNT-EX-GAS-SJ" ;
     skos:altLabel "PEGSUD" ;
     skos:definition "Identification Of The Peg Sud Subterminal In France, Managed By Gaz De France"@en ;

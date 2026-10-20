@@ -1,0 +1,46 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19XDCACCHOCIWELJ",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19XDCACCHOCIWELJ",
+    "@skos:prefLabel": "DCAC CHOCIWEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "DCAC_CHOCIWEL",
+    "@cim:IdentifiedObject.mRID": "19XDCACCHOCIWELJ",
+    "@cim:IdentifiedObject.name": "DCAC CHOCIWEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@cim:Names.name": [
+        "DCAC_CHOCIWEL",
+        "PL5361973152",
+        "Balance Responsible Party",
+        "Consumer",
+        "Energy Supplier",
+        "Market Operator",
+        "Meter Administrator",
+        "Producer",
+        "Resource Aggregator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-10-17",
+    "@schema:vatID": "PL5361973152",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCARGILL-PLC-L" ;
     cim:IdentifiedObject.name "Cargill PLC" ;
-    cim:Names.name "Balance Group",
-        "CARGILL-PLC",
-        "GB340592075" ;
+    cim:Names.name "CARGILL-PLC",
+        "GB340592075",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCARGILL-PLC-L" ;
     schema1:vatID "GB340592075" ;
     skos:altLabel "CARGILL-PLC" ;

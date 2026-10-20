@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000021881",
-    "@skos:prefLabel": "N 66 Svanelvmo-Lysbotn",
-    "@skos:altLabel": "NO-SVANELVMOLYSB",
+    "@skos:prefLabel": "N 22 Svanelvmo-Lysbotn",
+    "@skos:altLabel": "NO-22SVANELVMOLY",
     "@cim:IdentifiedObject.mRID": "50TL000000021881",
-    "@cim:IdentifiedObject.name": "N 66 Svanelvmo-Lysbotn",
+    "@cim:IdentifiedObject.name": "N 22 Svanelvmo-Lysbotn",
     "@cim:Names.name": [
-        "NO-SVANELVMOLYSB",
+        "NO-22SVANELVMOLY",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-09-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

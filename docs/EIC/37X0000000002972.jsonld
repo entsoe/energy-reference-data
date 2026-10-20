@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/37X0000000002972",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:37X0000000002972",
+    "@skos:prefLabel": "Stadtwerke Buchholz i.d.N.",
+    "@skos:altLabel": "STADTWERKE_BUCHH",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party"
+    },
+    "@cim:IdentifiedObject.mRID": "37X0000000002972",
+    "@cim:IdentifiedObject.name": "Stadtwerke Buchholz i.d.N.",
+    "@cim:Names.name": [
+        "STADTWERKE_BUCHH",
+        "DE151919593",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-07-19",
+    "@schema:vatID": "DE151919593",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFC-PROD-H---Z" ;
     cim:IdentifiedObject.name "Bilanzkreis für Erzeugungsprognose-Fahrpläne (Netzgebiet HH)" ;
-    cim:Names.name "Balance Group",
-        "DE813473551",
-        "FC_PROD_H" ;
+    cim:Names.name "DE813473551",
+        "FC_PROD_H",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFC-PROD-H---Z" ;
     schema1:vatID "DE813473551" ;
     skos:altLabel "FC_PROD_H" ;

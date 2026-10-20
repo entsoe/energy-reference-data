@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:16XG9TEL-------K</dcterms:identifier>
-    <skos:prefLabel>G9Telecom, SA</skos:prefLabel>
-    <skos:altLabel>G9TELECOM</skos:altLabel>
+    <skos:prefLabel>G9, SA</skos:prefLabel>
+    <skos:altLabel>G9</skos:altLabel>
     <cim:IdentifiedObject.mRID>16XG9TEL-------K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>G9Telecom, SA</cim:IdentifiedObject.name>
-    <cim:Names.name>G9TELECOM</cim:Names.name>
+    <cim:IdentifiedObject.name>G9, SA</cim:IdentifiedObject.name>
+    <cim:Names.name>G9</cim:Names.name>
     <cim:Names.name>PT504435302</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-06-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-19</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PT504435302</schema:vatID>

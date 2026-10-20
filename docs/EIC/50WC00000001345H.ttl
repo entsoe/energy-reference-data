@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001345H" ;
-    cim:IdentifiedObject.name "S Håvik    22  T123 Industri" ;
+    cim:IdentifiedObject.name "S Håvik    22  T13 Industri" ;
     cim:Names.name "Load",
-        "NO-HAVIK22T123NC" ;
+        "NO-HAVIK22T13" ;
     dcterms:identifier "urn:eic:50WC00000001345H" ;
-    skos:altLabel "NO-HAVIK22T123NC" ;
+    skos:altLabel "NO-HAVIK22T13" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Håvik    22  T123 Industri" ;
+    skos:prefLabel "S Håvik    22  T13 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

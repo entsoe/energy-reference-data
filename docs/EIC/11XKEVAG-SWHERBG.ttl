@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XKEVAG-SWHERBG" ;
     cim:IdentifiedObject.name "Energieversorgung Mittelrhein AG" ;
-    cim:Names.name "Balance Group",
-        "DE148720917",
-        "EVM_SWHERB" ;
+    cim:Names.name "DE148720917",
+        "EVM_SWHERB",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKEVAG-SWHERBG" ;
     schema1:vatID "DE148720917" ;
     skos:altLabel "EVM_SWHERB" ;

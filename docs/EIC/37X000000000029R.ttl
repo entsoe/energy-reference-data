@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-12-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-04-11" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Consumer" ;
     cim:IdentifiedObject.mRID "37X000000000029R" ;
     cim:IdentifiedObject.name "Vallourec Deutschland GmbH" ;
     cim:Names.name "Consumer",
         "DE811790604",
-        "VALLOURECGERMANY" ;
+        "VALLOUREC_D" ;
     dcterms:identifier "urn:eic:37X000000000029R" ;
     schema1:vatID "DE811790604" ;
-    skos:altLabel "VALLOURECGERMANY" ;
+    skos:altLabel "VALLOUREC_D" ;
     skos:definition "Consumer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Vallourec Deutschland GmbH" ;

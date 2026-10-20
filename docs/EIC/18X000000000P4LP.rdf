@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18X000000000P4LP</dcterms:identifier>
-    <skos:prefLabel>RENU ENERGY, S.L.</skos:prefLabel>
+    <skos:prefLabel>ENERSA ELECTRICIDAD, S.A.</skos:prefLabel>
     <skos:altLabel>ES-RENUE</skos:altLabel>
     <cim:IdentifiedObject.mRID>18X000000000P4LP</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>RENU ENERGY, S.L.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENERSA ELECTRICIDAD, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>ES-RENUE</cim:Names.name>
-    <cim:Names.name>ESB56430010</cim:Names.name>
+    <cim:Names.name>ESA56430010</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-11-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-27</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>ESB56430010</schema:vatID>
+    <schema:vatID>ESA56430010</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

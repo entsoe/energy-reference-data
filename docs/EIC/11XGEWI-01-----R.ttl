@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-10-18" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XGEWI-01-----R" ;
-    cim:IdentifiedObject.name "GEWI AG" ;
-    cim:Names.name "Balance Group",
-        "DE267752484",
-        "GEWI-01" ;
+    cim:IdentifiedObject.name "GEWI GmbH" ;
+    cim:Names.name "DE267752484",
+        "GEWI-01",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XGEWI-01-----R" ;
     schema1:vatID "DE267752484" ;
     skos:altLabel "GEWI-01" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GEWI AG" ;
+    skos:prefLabel "GEWI GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

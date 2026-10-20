@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006140G" ;
-    cim:IdentifiedObject.name "M Tosbotn  RT1 Transformator" ;
-    cim:Names.name "NO-TOSBOTN_RT1",
+    cim:IdentifiedObject.name "N Tosbotn  RT1 Transformator" ;
+    cim:Names.name "NO-TOSBOTNRT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006140G" ;
-    skos:altLabel "NO-TOSBOTN_RT1" ;
+    skos:altLabel "NO-TOSBOTNRT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Tosbotn  RT1 Transformator" ;
+    skos:prefLabel "N Tosbotn  RT1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002866K",
-    "@skos:prefLabel": "M 66 Rensvik-Øydegard",
-    "@skos:altLabel": "NO-RENSVIKOYDEGA",
+    "@skos:prefLabel": "N 66 Rensvik-Øydegard",
+    "@skos:altLabel": "NO-66RENSVIKOYDE",
     "@cim:IdentifiedObject.mRID": "50TL00000002866K",
-    "@cim:IdentifiedObject.name": "M 66 Rensvik-Øydegard",
+    "@cim:IdentifiedObject.name": "N 66 Rensvik-Øydegard",
     "@cim:Names.name": [
-        "NO-RENSVIKOYDEGA",
+        "NO-66RENSVIKOYDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

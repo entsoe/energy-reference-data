@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFUNRA-12345-T",
     "@skos:prefLabel": "UTE FUNDACION RAMON REY ARDID-FERMIN ALEGRE-IMPULSO",
     "@skos:altLabel": "FUNRA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFUNRA-12345-T",
     "@cim:IdentifiedObject.name": "UTE FUNDACION RAMON REY ARDID-FERMIN ALEGRE-IMPULSO",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESU44238574",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-02-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESU44238574",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

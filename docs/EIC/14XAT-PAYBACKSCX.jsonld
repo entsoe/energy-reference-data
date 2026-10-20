@@ -22,12 +22,14 @@
     "@cim:IdentifiedObject.name": "APCS Power Clearing and Settlement AG",
     "@cim:Names.name": [
         "KOMP-UA",
-        "Balance Group"
+        "ATU50904909",
+        "Imbalance Settlement Responsible"
     ],
     "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-02",
+    "@cim:DateAndOrTime.date": "2024-11-14",
+    "@schema:vatID": "ATU50904909",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

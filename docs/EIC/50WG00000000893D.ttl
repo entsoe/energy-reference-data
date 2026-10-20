@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000893D" ;
-    cim:IdentifiedObject.name "KROSSEN G102 HYDRO" ;
+    cim:IdentifiedObject.name "SORANI  G102 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KROSSEN_G102_" ;
+        "NO-SORANIG102" ;
     dcterms:identifier "urn:eic:50WG00000000893D" ;
-    skos:altLabel "NO-KROSSEN_G102_" ;
+    skos:altLabel "NO-SORANIG102" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KROSSEN G102 HYDRO" ;
+    skos:prefLabel "SORANI  G102 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

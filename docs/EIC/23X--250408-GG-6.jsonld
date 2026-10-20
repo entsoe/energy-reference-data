@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--250408-GG-6",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--250408-GG-6",
+    "@skos:prefLabel": "GG Biogas LTU, UAB",
+    "@skos:altLabel": "GG_BIOGAS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company Registration number: 302854664 confirmed by a document of company registry"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--250408-GG-6",
+    "@cim:IdentifiedObject.name": "GG Biogas LTU, UAB",
+    "@cim:Names.name": [
+        "GG_BIOGAS",
+        "LT100009939913",
+        "Party Connected To Grid",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Company Registration number: 302854664 confirmed by a document of company registry",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-04-09",
+    "@schema:vatID": "LT100009939913",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

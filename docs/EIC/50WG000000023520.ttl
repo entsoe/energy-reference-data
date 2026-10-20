@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000023520" ;
-    cim:IdentifiedObject.name "HOLTAN  G112 HYDRO" ;
+    cim:IdentifiedObject.name "NYE_SUVDG112 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HOLTAN__G112_" ;
+        "NO-NYE_SUVDG112" ;
     dcterms:identifier "urn:eic:50WG000000023520" ;
-    skos:altLabel "NO-HOLTAN__G112_" ;
+    skos:altLabel "NO-NYE_SUVDG112" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HOLTAN  G112 HYDRO" ;
+    skos:prefLabel "NYE_SUVDG112 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

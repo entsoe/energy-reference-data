@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:45X000000000168R",
-    "@skos:prefLabel": "Arosource ApS",
-    "@skos:altLabel": "AROSOURCE",
+    "@skos:prefLabel": "Aro.inc ApS",
+    "@skos:altLabel": "AROINC",
     "@cim:IdentifiedObject.mRID": "45X000000000168R",
-    "@cim:IdentifiedObject.name": "Arosource ApS",
+    "@cim:IdentifiedObject.name": "Aro.inc ApS",
     "@cim:Names.name": [
-        "AROSOURCE",
+        "AROINC",
         "44372487",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-18",
+    "@cim:DateAndOrTime.date": "2025-11-10",
     "@schema:vatID": "44372487",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

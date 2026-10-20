@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P866> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P866" ;
+    cim:IdentifiedObject.name "CEPSA QUMICA S.A." ;
+    cim:Names.name "Consumption Responsible Party",
+        "ES-CEPSB",
+        "ESA81861122" ;
+    dcterms:identifier "urn:eic:18X000000000P866" ;
+    schema1:vatID "ESA81861122" ;
+    skos:altLabel "ES-CEPSB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CEPSA QUMICA S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

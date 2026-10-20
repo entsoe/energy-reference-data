@@ -17,9 +17,9 @@
     <cim:DateAndOrTime.date>2017-07-19</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Distribution System Operator</cim:Names.name>
-    <cim:Names.name>System Operator</cim:Names.name>
-    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
     <cim:Names.name>Market Operator</cim:Names.name>
+    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FR88809190192</schema:vatID>
   </skos:Concept>

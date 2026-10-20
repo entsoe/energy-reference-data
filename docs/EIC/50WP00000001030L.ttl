@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2026-06-26" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50WP00000001030L" ;
     cim:IdentifiedObject.name "Ulvik IHK" ;
-    cim:Names.name "NO-ULVIK-IHK_PL",
+    cim:Names.name "NO-ULVIKIHK",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001030L" ;
-    skos:altLabel "NO-ULVIK-IHK_PL" ;
+    skos:altLabel "NO-ULVIKIHK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Ulvik IHK" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

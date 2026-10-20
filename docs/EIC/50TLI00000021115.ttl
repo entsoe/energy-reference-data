@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000021115" ;
     cim:IdentifiedObject.name "S 66 Semb-Veggbakken" ;
     cim:Names.name "Internal Line",
-        "NO-SEMBVEGGBAKKE" ;
+        "NO-66SEMBVEGGBAK" ;
     dcterms:identifier "urn:eic:50TLI00000021115" ;
-    skos:altLabel "NO-SEMBVEGGBAKKE" ;
+    skos:altLabel "NO-66SEMBVEGGBAK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Semb-Veggbakken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

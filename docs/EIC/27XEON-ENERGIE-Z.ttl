@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-11-12" ;
+    cim:DateAndOrTime.date "2024-10-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission Capacity Allocator" ;
     cim:IdentifiedObject.mRID "27XEON-ENERGIE-Z" ;
     cim:IdentifiedObject.name "E.ON Energie, a.s." ;
-    cim:Names.name "CZ26078201",
-        "EON-EN-CZ",
-        "Transmission Capacity Allocator" ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ26078201",
+        "EON-EN-CZ" ;
     dcterms:identifier "urn:eic:27XEON-ENERGIE-Z" ;
     schema1:vatID "CZ26078201" ;
     skos:altLabel "EON-EN-CZ" ;

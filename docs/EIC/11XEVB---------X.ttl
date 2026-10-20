@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEVB---------X" ;
     cim:IdentifiedObject.name "Energietechnische Vertriebs- und Beratungsgesellschaft mbH" ;
-    cim:Names.name "Balance Group",
-        "DE811893101",
-        "EVB" ;
+    cim:Names.name "DE811893101",
+        "EVB",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEVB---------X" ;
     schema1:vatID "DE811893101" ;
     skos:altLabel "EVB" ;

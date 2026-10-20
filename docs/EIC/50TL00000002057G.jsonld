@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002057G",
-    "@skos:prefLabel": "S 66 Ramfos-Horga",
-    "@skos:altLabel": "NO-RAMFOSSHORGA",
+    "@skos:prefLabel": "S 22 Sundbakken-Horga",
+    "@skos:altLabel": "NO-22SUNDBAKKHOR",
     "@cim:IdentifiedObject.mRID": "50TL00000002057G",
-    "@cim:IdentifiedObject.name": "S 66 Ramfos-Horga",
+    "@cim:IdentifiedObject.name": "S 22 Sundbakken-Horga",
     "@cim:Names.name": [
-        "NO-RAMFOSSHORGA",
+        "NO-22SUNDBAKKHOR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

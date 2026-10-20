@@ -22,15 +22,14 @@
     "@cim:IdentifiedObject.name": "AOT Energy Switzerland AG",
     "@cim:Names.name": [
         "AOT-ENERGY-ST",
-        "CHE116300543",
-        "Network User",
-        "Transmission Capacity Allocator"
+        "CHE102285624",
+        "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Network User, Transmission Capacity Allocator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-11",
-    "@schema:vatID": "CHE116300543",
+    "@cim:DateAndOrTime.date": "2026-10-15",
+    "@schema:vatID": "CHE102285624",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

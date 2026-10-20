@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000001M",
-    "@skos:prefLabel": "Meeden-Zwolle White",
-    "@skos:altLabel": "MEE-ZWO-W",
+    "@skos:prefLabel": "Zwolle-Meeden 380 Wit",
+    "@skos:altLabel": "ZL-MEE380-W",
     "@cim:IdentifiedObject.mRID": "49T000000000001M",
-    "@cim:IdentifiedObject.name": "Meeden-Zwolle White",
+    "@cim:IdentifiedObject.name": "Zwolle-Meeden 380 Wit",
     "@cim:Names.name": [
-        "MEE-ZWO-W",
+        "ZL-MEE380-W",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-01-23",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

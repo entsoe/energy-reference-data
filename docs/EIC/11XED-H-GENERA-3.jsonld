@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XED-H-GENERA-3",
-    "@skos:prefLabel": "Energiedienst Holding AG",
+    "@skos:prefLabel": "naturenergie holding AG",
     "@skos:altLabel": "ED_H",
     "@cim:IdentifiedObject.mRID": "11XED-H-GENERA-3",
-    "@cim:IdentifiedObject.name": "Energiedienst Holding AG",
+    "@cim:IdentifiedObject.name": "naturenergie holding AG",
     "@cim:Names.name": [
         "ED_H",
         "DE142693600",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-30",
+    "@cim:DateAndOrTime.date": "2025-02-04",
     "@schema:vatID": "DE142693600",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

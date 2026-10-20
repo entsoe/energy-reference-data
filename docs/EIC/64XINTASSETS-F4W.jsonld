@@ -22,13 +22,15 @@
     "@cim:IdentifiedObject.name": "S.R.L. \"Intra Assets\"",
     "@cim:Names.name": [
         "INTASSETS_F",
+        "NA35",
         "Balance Responsible Party",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "S.R.L. ''Intra Assets'' has no EU VAT code. Registration number (IDNO) - 1011600028241 Licence - AC nr. 001495; issued by ANRE on 03/12/2020.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-09",
+    "@cim:DateAndOrTime.date": "2026-10-16",
+    "@schema:vatID": "NA35",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,5 +1,5 @@
 {
-    "@id": "http://energy.referencedata.eu/EIC/11XMAINOVADELLMK",
+    "@id": "http://energy.referencedata.eu/EIC/11XMAINOVADELlMK",
     "@type": [
         "@skos:Concept",
         "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
@@ -11,19 +11,19 @@
     "@skos:topConceptOf": {
         "@id": "http://energy.referencedata.eu/EIC"
     },
-    "@dcterms:identifier": "urn:eic:11XMAINOVADELLMK",
+    "@dcterms:identifier": "urn:eic:11XMAINOVADELlMK",
     "@skos:prefLabel": "Mainova Aktiengesellschaft",
     "@skos:altLabel": "MAINOVA-DELTA",
     "@skos:definition": {
         "@language": "en",
         "@value": "VAT was wrong"
     },
-    "@cim:IdentifiedObject.mRID": "11XMAINOVADELLMK",
+    "@cim:IdentifiedObject.mRID": "11XMAINOVADELlMK",
     "@cim:IdentifiedObject.name": "Mainova Aktiengesellschaft",
     "@cim:Names.name": [
         "MAINOVA-DELTA",
         "DE114184034",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "VAT was wrong",
     "@cim:Document.docStatus": "A03",

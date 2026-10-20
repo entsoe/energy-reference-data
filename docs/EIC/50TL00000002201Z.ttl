@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002201Z" ;
-    cim:IdentifiedObject.name "S 66 T_Bråten-Bråten" ;
+    cim:IdentifiedObject.name "S 66 T_Vafoss-Bråten" ;
     cim:Names.name "Internal Line",
-        "NO-TBRATENBRATEN" ;
+        "NO-66T_VAFOSSBRA" ;
     dcterms:identifier "urn:eic:50TL00000002201Z" ;
-    skos:altLabel "NO-TBRATENBRATEN" ;
+    skos:altLabel "NO-66T_VAFOSSBRA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 T_Bråten-Bråten" ;
+    skos:prefLabel "S 66 T_Vafoss-Bråten" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

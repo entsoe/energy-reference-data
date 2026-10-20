@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XNEW-ENERGIE-8",
     "@skos:prefLabel": "NEW Niederrhein Energie und Wasser GmbH",
     "@skos:altLabel": "NEW-ENERGIE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XNEW-ENERGIE-8",
     "@cim:IdentifiedObject.name": "NEW Niederrhein Energie und Wasser GmbH",
     "@cim:Names.name": [
         "NEW-ENERGIE",
         "DE814134204",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-06-25",
+    "@cim:DateAndOrTime.date": "2024-09-16",
     "@schema:vatID": "DE814134204",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

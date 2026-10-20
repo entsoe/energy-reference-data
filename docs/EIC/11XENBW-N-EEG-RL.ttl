@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENBW-N-EEG-RL" ;
     cim:IdentifiedObject.name "EnBW (EEG-Bilanzkreis Rücklieferungen)" ;
-    cim:Names.name "Balance Group",
-        "DE191008872",
-        "ENBW_N_EEG_R" ;
+    cim:Names.name "DE191008872",
+        "ENBW_N_EEG_R",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENBW-N-EEG-RL" ;
     schema1:vatID "DE191008872" ;
     skos:altLabel "ENBW_N_EEG_R" ;

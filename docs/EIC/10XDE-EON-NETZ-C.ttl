@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator, Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "10XDE-EON-NETZ-C" ;
     cim:IdentifiedObject.name "TenneT TSO GmbH" ;
-    cim:Names.name "Balance Responsible Party",
-        "DE191460805",
+    cim:Names.name "DE815073514",
+        "System Operator",
         "TTG_DE" ;
     dcterms:identifier "urn:eic:10XDE-EON-NETZ-C" ;
-    schema1:vatID "DE191460805" ;
+    schema1:vatID "DE815073514" ;
     skos:altLabel "TTG_DE" ;
     skos:definition "Transmission System Operator, Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22X20131122----9",
-    "@skos:prefLabel": "ENERFLEXY",
-    "@skos:altLabel": "BE_ENERFLEXY",
+    "@skos:prefLabel": "FLEXCITY BELGIUM",
+    "@skos:altLabel": "BE_FLEXCITYBE",
     "@cim:IdentifiedObject.mRID": "22X20131122----9",
-    "@cim:IdentifiedObject.name": "ENERFLEXY",
+    "@cim:IdentifiedObject.name": "FLEXCITY BELGIUM",
     "@cim:Names.name": [
-        "BE_ENERFLEXY",
+        "BE_FLEXCITYBE",
         "BE0880270050",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-04-27",
+    "@cim:DateAndOrTime.date": "2025-04-02",
     "@schema:vatID": "BE0880270050",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006513P",
-    "@skos:prefLabel": "Grudziądz Węgrowo-A5",
+    "@skos:prefLabel": "400/110kV Grudziadz AT5",
     "@skos:altLabel": "GRU-A5",
     "@cim:IdentifiedObject.mRID": "19T110000006513P",
-    "@cim:IdentifiedObject.name": "Grudziądz Węgrowo-A5",
+    "@cim:IdentifiedObject.name": "400/110kV Grudziadz AT5",
     "@cim:Names.name": [
         "GRU-A5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

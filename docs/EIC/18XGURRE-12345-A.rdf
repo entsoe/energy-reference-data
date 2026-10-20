@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XGURRE-12345-A</dcterms:identifier>
     <skos:prefLabel>FUNDACION RESIDENCIA ANCIANOS GURREA DE GALLEGO</skos:prefLabel>
     <skos:altLabel>GURRE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XGURRE-12345-A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FUNDACION RESIDENCIA ANCIANOS GURREA DE GALLEGO</cim:IdentifiedObject.name>
     <cim:Names.name>GURRE</cim:Names.name>
     <cim:Names.name>ESG99255945</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-02-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG99255945</schema:vatID>

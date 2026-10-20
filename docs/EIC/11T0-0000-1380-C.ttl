@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11T0-0000-1380-C" ;
     cim:IdentifiedObject.name "TTG / 380kV / Niederlange - Y-Niederlange / Emsland Ost-Weiss" ;
-    cim:Names.name "EMSLDOW-NIEDERLA" ;
+    cim:Names.name "EMSLDOW-NIEDERLA",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:11T0-0000-1380-C" ;
     skos:altLabel "EMSLDOW-NIEDERLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

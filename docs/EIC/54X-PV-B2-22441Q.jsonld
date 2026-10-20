@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/54X-PV-B2-22441Q",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:54X-PV-B2-22441Q",
+    "@skos:prefLabel": "SPV BLUE 2",
+    "@skos:altLabel": "SPV_BLUE_2",
+    "@cim:IdentifiedObject.mRID": "54X-PV-B2-22441Q",
+    "@cim:IdentifiedObject.name": "SPV BLUE 2",
+    "@cim:Names.name": [
+        "SPV_BLUE_2",
+        "M11517017R",
+        "Balance Responsible Party",
+        "Producer"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-05-20",
+    "@schema:vatID": "M11517017R",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

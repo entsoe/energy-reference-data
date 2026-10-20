@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGEPIS-12345-3",
     "@skos:prefLabel": "GENERAL DE PIENSOS DE SORIA S.A.",
     "@skos:altLabel": "GEPIS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGEPIS-12345-3",
     "@cim:IdentifiedObject.name": "GENERAL DE PIENSOS DE SORIA S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA42001222",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA42001222",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

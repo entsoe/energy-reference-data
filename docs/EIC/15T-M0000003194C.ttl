@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-16" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000003194C" ;
     cim:IdentifiedObject.name "Perkáta-Paks" ;
-    cim:Names.name "MPERK-MPAKS",
-        "Tieline" ;
+    cim:Names.name "Internal Line",
+        "MPERK-MPAKS" ;
     dcterms:identifier "urn:eic:15T-M0000003194C" ;
     skos:altLabel "MPERK-MPAKS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

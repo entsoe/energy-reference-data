@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002748Q" ;
-    cim:IdentifiedObject.name "M 22 Ålfoten-Sigdestad" ;
+    cim:IdentifiedObject.name "N 22 Ålfoten-Sigdestad" ;
     cim:Names.name "Internal Line",
-        "NO-ALFOTENSIGDES" ;
+        "NO-22ALFOTENSIGD" ;
     dcterms:identifier "urn:eic:50TL00000002748Q" ;
-    skos:altLabel "NO-ALFOTENSIGDES" ;
+    skos:altLabel "NO-22ALFOTENSIGD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Ålfoten-Sigdestad" ;
+    skos:prefLabel "N 22 Ålfoten-Sigdestad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

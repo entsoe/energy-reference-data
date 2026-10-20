@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000023493" ;
-    cim:IdentifiedObject.name "S Dagali 22 T1 B X" ;
+    cim:IdentifiedObject.name "S Dagali   22  T1 B X" ;
     cim:Names.name "Internal Line",
-        "NO-DAGALI22T1BX" ;
+        "NO-DAGALI22T1B_X" ;
     dcterms:identifier "urn:eic:50TL000000023493" ;
-    skos:altLabel "NO-DAGALI22T1BX" ;
+    skos:altLabel "NO-DAGALI22T1B_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Dagali 22 T1 B X" ;
+    skos:prefLabel "S Dagali   22  T1 B X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

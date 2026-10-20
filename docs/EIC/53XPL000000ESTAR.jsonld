@@ -22,13 +22,24 @@
     "@cim:IdentifiedObject.name": "ENESTA Sp. z o.o.",
     "@cim:Names.name": [
         "ENESTA",
+        "A0012004V.PL",
         "PL8652135842",
-        "Trade Responsible Party"
+        "Consumer",
+        "Consumption Responsible Party",
+        "Distribution System Operator",
+        "Energy Supplier",
+        "Grid Operator",
+        "Information Provider",
+        "Meter Administrator",
+        "Metering Point Operator",
+        "Network User",
+        "Trade Responsible Party",
+        "Grid Access Provider"
     ],
     "@cim:IdentifiedObject.description": "Distribution System Operator, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-08",
+    "@cim:DateAndOrTime.date": "2026-02-27",
     "@schema:vatID": "PL8652135842",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

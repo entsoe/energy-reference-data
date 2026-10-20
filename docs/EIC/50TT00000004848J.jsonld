@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004848J",
     "@skos:prefLabel": "S Furuset  T4 Transformator",
-    "@skos:altLabel": "NO-FURUSET_T4",
+    "@skos:altLabel": "NO-FURUSETT4",
     "@cim:IdentifiedObject.mRID": "50TT00000004848J",
     "@cim:IdentifiedObject.name": "S Furuset  T4 Transformator",
     "@cim:Names.name": [
-        "NO-FURUSET_T4",
+        "NO-FURUSETT4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

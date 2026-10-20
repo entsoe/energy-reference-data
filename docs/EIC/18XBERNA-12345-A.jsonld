@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XBERNA-12345-A",
     "@skos:prefLabel": "BERNA TEXTIL S.L.",
     "@skos:altLabel": "BERNA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XBERNA-12345-A",
     "@cim:IdentifiedObject.name": "BERNA TEXTIL S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB58888223",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-14",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB58888223",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

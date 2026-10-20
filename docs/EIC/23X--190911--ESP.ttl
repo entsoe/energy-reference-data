@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-09-11" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Company is incorporated in Singapore. There is no EU VAT available. Company registration number: 201907856R Registration number confirmed through an official document by ACRA." ;
     cim:IdentifiedObject.mRID "23X--190911--ESP" ;
     cim:IdentifiedObject.name "Engie Energy Marketing Singapore Pte Ltd" ;
     cim:Names.name "ENGIE_SINGAPORE",
-        "LNG System Operator" ;
+        "LNG System Operator",
+        "NA15" ;
     dcterms:identifier "urn:eic:23X--190911--ESP" ;
+    schema1:vatID "NA15" ;
     skos:altLabel "ENGIE_SINGAPORE" ;
     skos:definition "Company is incorporated in Singapore. There is no EU VAT available. Company registration number: 201907856R Registration number confirmed through an official document by ACRA."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

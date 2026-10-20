@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Lng Terminal-Transmission System Ip" ;
     cim:IdentifiedObject.mRID "21Y---A001A006-X" ;
     cim:IdentifiedObject.name "Fos (Cavaou &  Tonkin)" ;
-    cim:Names.name "FOS-FR",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Border Area",
+        "FOS-FR" ;
     dcterms:identifier "urn:eic:21Y---A001A006-X" ;
     skos:altLabel "FOS-FR" ;
     skos:definition "Lng Terminal-Transmission System Ip"@en ;

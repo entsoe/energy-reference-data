@@ -12,10 +12,10 @@
     <cim:Names.name>SCHILLHORN</cim:Names.name>
     <cim:Names.name>DE815215682</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-07-25</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE815215682</schema:vatID>
   </skos:Concept>

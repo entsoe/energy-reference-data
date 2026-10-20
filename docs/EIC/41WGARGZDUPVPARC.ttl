@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WGARGZDUPVPARC> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Gargždų PV parkas 13,0MW   Tolupio g. 1D, Birbinčių k., Dovilų sen., Klaipėdos raj.   ESO objekto Nr. 50263652" ;
+    cim:IdentifiedObject.mRID "41WGARGZDUPVPARC" ;
+    cim:IdentifiedObject.name "Gargždų PV parkas" ;
+    cim:Names.name "GARGZDUPVPARKAS",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:41WGARGZDUPVPARC" ;
+    skos:altLabel "GARGZDUPVPARKAS" ;
+    skos:definition "Gargždų PV parkas 13,0MW   Tolupio g. 1D, Birbinčių k., Dovilų sen., Klaipėdos raj.   ESO objekto Nr. 50263652"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Gargždų PV parkas" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

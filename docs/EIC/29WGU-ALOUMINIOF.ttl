@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-01-01" ;
+    cim:DateAndOrTime.date "2026-02-18" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Generation Unit. Lio local update to elem corr 2026-02-18" ;
     cim:IdentifiedObject.mRID "29WGU-ALOUMINIOF" ;
     cim:IdentifiedObject.name "Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA" ;
     cim:Names.name "GUALOUMINIO",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:29WGU-ALOUMINIOF" ;
     skos:altLabel "GUALOUMINIO" ;
+    skos:definition "Generation Unit. Lio local update to elem corr 2026-02-18"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Gen Unit ALOUMINION AE - KATANEMOMENI MONADA SITHYA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

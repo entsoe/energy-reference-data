@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/63X6558973444315> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "63X6558973444315" ;
+    cim:IdentifiedObject.name "RESEAU GDS" ;
+    cim:Names.name "Distribution System Operator",
+        "FR07548501113",
+        "FRG_R-GDS" ;
+    dcterms:identifier "urn:eic:63X6558973444315" ;
+    schema1:vatID "FR07548501113" ;
+    skos:altLabel "FRG_R-GDS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RESEAU GDS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250409-AE-U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company Registration number: 181258001000 confirmed by the official document of IAPR
+""" ;
+    cim:IdentifiedObject.mRID "23X--250409-AE-U" ;
+    cim:IdentifiedObject.name "AMACO ENERGY SINGLE MEMBER S.A." ;
+    cim:Names.name "AMACO_ENERGY",
+        "EL802704850",
+        "Energy Supplier",
+        "Network User",
+        "Transmission Capacity Allocator" ;
+    dcterms:identifier "urn:eic:23X--250409-AE-U" ;
+    schema1:vatID "EL802704850" ;
+    skos:altLabel "AMACO_ENERGY" ;
+    skos:definition """Company Registration number: 181258001000 confirmed by the official document of IAPR
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AMACO ENERGY SINGLE MEMBER S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/17X000001657146E",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:17X000001657146E",
+    "@skos:prefLabel": "Eclipse",
+    "@skos:altLabel": "FR_ECLIPSE",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "L'approvisionnement, l'achat, la revente, le négoce et le stockage d'électricité et l'équilibrage du réseau; le stockage d'électricité (notamment dans des batteries); la réalisation du négoce d'électricité sur tous les segments du marché; la réalisation et/ou la participation à des activités de recherche et de développement, de publication et/ou de partage des connaissances, notamment dans le domaine du stockage électrique."
+    },
+    "@cim:IdentifiedObject.mRID": "17X000001657146E",
+    "@cim:IdentifiedObject.name": "Eclipse",
+    "@cim:Names.name": [
+        "FR_ECLIPSE",
+        "FR33981729635",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "L'approvisionnement, l'achat, la revente, le négoce et le stockage d'électricité et l'équilibrage du réseau; le stockage d'électricité (notamment dans des batteries); la réalisation du négoce d'électricité sur tous les segments du marché; la réalisation et/ou la participation à des activités de recherche et de développement, de publication et/ou de partage des connaissances, notamment dans le domaine du stockage électrique.",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-01-23",
+    "@schema:vatID": "FR33981729635",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

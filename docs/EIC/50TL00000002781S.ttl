@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002781S" ;
-    cim:IdentifiedObject.name "M 22 Ugulsvik-Holen Luster" ;
+    cim:IdentifiedObject.name "S 22 Ugulsvik-Holen Luster" ;
     cim:Names.name "Internal Line",
-        "NO-UGULSVIKHOLEN" ;
+        "NO-22UGULSVIKHOL" ;
     dcterms:identifier "urn:eic:50TL00000002781S" ;
-    skos:altLabel "NO-UGULSVIKHOLEN" ;
+    skos:altLabel "NO-22UGULSVIKHOL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Ugulsvik-Holen Luster" ;
+    skos:prefLabel "S 22 Ugulsvik-Holen Luster" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

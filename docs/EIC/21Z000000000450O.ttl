@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-11-07" ;
+    cim:DateAndOrTime.date "2024-07-06" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point" ;
+    cim:IdentifiedObject.description "Connection with the Final Consumer" ;
     cim:IdentifiedObject.mRID "21Z000000000450O" ;
-    cim:IdentifiedObject.name "ELPE HAR" ;
-    cim:Names.name "Connection Point",
-        "ELPE-HAR-GR" ;
+    cim:IdentifiedObject.name "ELPE-HAR" ;
+    cim:Names.name "ELPE-HAR-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000450O" ;
     skos:altLabel "ELPE-HAR-GR" ;
-    skos:definition "Connection Point"@en ;
+    skos:definition "Connection with the Final Consumer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ELPE HAR" ;
+    skos:prefLabel "ELPE-HAR" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

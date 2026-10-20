@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000050845",
-    "@skos:prefLabel": "N Kanstadb T1 Transformator",
-    "@skos:altLabel": "NO-KANSTADBT1",
+    "@skos:prefLabel": "N Kanstadb T1G Transformator",
+    "@skos:altLabel": "NO-KANSTADBT1G",
     "@cim:IdentifiedObject.mRID": "50TT000000050845",
-    "@cim:IdentifiedObject.name": "N Kanstadb T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Kanstadb T1G Transformator",
     "@cim:Names.name": [
-        "NO-KANSTADBT1",
+        "NO-KANSTADBT1G",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-03-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

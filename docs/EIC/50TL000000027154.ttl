@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000027154" ;
-    cim:IdentifiedObject.name "M 22 Sess-Kjelbotn" ;
+    cim:IdentifiedObject.name "N 22 Sesselva-Kjelbotn" ;
     cim:Names.name "Internal Line",
-        "NO-SESSKJELBOTN" ;
+        "NO-22SESSELVAKJE" ;
     dcterms:identifier "urn:eic:50TL000000027154" ;
-    skos:altLabel "NO-SESSKJELBOTN" ;
+    skos:altLabel "NO-22SESSELVAKJE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Sess-Kjelbotn" ;
+    skos:prefLabel "N 22 Sesselva-Kjelbotn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

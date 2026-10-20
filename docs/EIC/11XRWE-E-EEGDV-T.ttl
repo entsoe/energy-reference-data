@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XRWE-E-EEGDV-T" ;
     cim:IdentifiedObject.name "RWE Power AG" ;
-    cim:Names.name "Balance Group",
-        "DE811223345",
-        "RWE_E_EEGDV" ;
+    cim:Names.name "DE811223345",
+        "RWE_E_EEGDV",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XRWE-E-EEGDV-T" ;
     schema1:vatID "DE811223345" ;
     skos:altLabel "RWE_E_EEGDV" ;

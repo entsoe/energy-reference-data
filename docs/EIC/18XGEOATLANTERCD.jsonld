@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XGEOATLANTERCD",
-    "@skos:prefLabel": "GeoAtlanter, S.L.",
+    "@skos:prefLabel": "GEOATLANTER, S.L.",
     "@skos:altLabel": "GAC",
     "@cim:IdentifiedObject.mRID": "18XGEOATLANTERCD",
-    "@cim:IdentifiedObject.name": "GeoAtlanter, S.L.",
+    "@cim:IdentifiedObject.name": "GEOATLANTER, S.L.",
     "@cim:Names.name": [
         "GAC",
         "ESB85021426",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-16",
+    "@cim:DateAndOrTime.date": "2026-06-29",
     "@schema:vatID": "ESB85021426",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

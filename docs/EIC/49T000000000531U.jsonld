@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000531U",
-    "@skos:prefLabel": "Steenwijk 110kV-Steenwijk 10kV (TR2)",
+    "@skos:prefLabel": "Swentibold - Neerbeek 150kV",
     "@skos:altLabel": "SWB-NRB150",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000531U",
-    "@cim:IdentifiedObject.name": "Steenwijk 110kV-Steenwijk 10kV (TR2)",
+    "@cim:IdentifiedObject.name": "Swentibold - Neerbeek 150kV",
     "@cim:Names.name": [
         "SWB-NRB150",
         "Internal Line"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-08-05",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

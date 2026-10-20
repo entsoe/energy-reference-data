@@ -12,10 +12,10 @@
     <cim:Names.name>WVAG-BK002</cim:Names.name>
     <cim:Names.name>DE114230598</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-05-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE114230598</schema:vatID>
   </skos:Concept>

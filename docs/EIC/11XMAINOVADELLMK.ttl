@@ -3,19 +3,19 @@
 @prefix schema1: <http://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<http://energy.referencedata.eu/EIC/11XMAINOVADELLMK> a schema1:Thing,
+<http://energy.referencedata.eu/EIC/11XMAINOVADELlMK> a schema1:Thing,
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
     cim:DateAndOrTime.date "2022-05-19" ;
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "VAT was wrong" ;
-    cim:IdentifiedObject.mRID "11XMAINOVADELLMK" ;
+    cim:IdentifiedObject.mRID "11XMAINOVADELlMK" ;
     cim:IdentifiedObject.name "Mainova Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE114184034",
         "MAINOVA-DELTA" ;
-    dcterms:identifier "urn:eic:11XMAINOVADELLMK" ;
+    dcterms:identifier "urn:eic:11XMAINOVADELlMK" ;
     schema1:vatID "DE114184034" ;
     skos:altLabel "MAINOVA-DELTA" ;
     skos:definition "VAT was wrong"@en ;

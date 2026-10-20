@@ -4,17 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XENERGYTRADERK</dcterms:identifier>
-    <skos:prefLabel>Energy Trader Solutions</skos:prefLabel>
+    <skos:prefLabel>ENERGY TRADER SOLUTIONS SL</skos:prefLabel>
     <skos:altLabel>ETSOL</skos:altLabel>
-    <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XENERGYTRADERK</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Energy Trader Solutions</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENERGY TRADER SOLUTIONS SL</cim:IdentifiedObject.name>
     <cim:Names.name>ETSOL</cim:Names.name>
     <cim:Names.name>ESB54744073</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-12-17</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB54744073</schema:vatID>

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCAMON-12345-A</dcterms:identifier>
     <skos:prefLabel>COMUNIDAD GENERAL DE USUARIOS DEL CANAL DE MONTIJO</skos:prefLabel>
     <skos:altLabel>CAMON</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCAMON-12345-A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>COMUNIDAD GENERAL DE USUARIOS DEL CANAL DE MONTIJO</cim:IdentifiedObject.name>
     <cim:Names.name>CAMON</cim:Names.name>
     <cim:Names.name>ESG06525141</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-04-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG06525141</schema:vatID>

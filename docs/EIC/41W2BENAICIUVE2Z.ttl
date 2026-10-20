@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41W2BENAICIUVE2Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "41XLAUKZEME--01O" ;
+    cim:IdentifiedObject.mRID "41W2BENAICIUVE2Z" ;
+    cim:IdentifiedObject.name "Benaiciu_VE_II" ;
+    cim:Names.name "BENAICIU_VE_II",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:41W2BENAICIUVE2Z" ;
+    skos:altLabel "BENAICIU_VE_II" ;
+    skos:definition "41XLAUKZEME--01O"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Benaiciu_VE_II" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

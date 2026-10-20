@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XDGASBV------I" ;
     cim:IdentifiedObject.name "D-Gas BV" ;
     cim:Names.name "DGASBV",
         "NL808936049B01",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XDGASBV------I" ;
     schema1:vatID "NL808936049B01" ;
     skos:altLabel "DGASBV" ;

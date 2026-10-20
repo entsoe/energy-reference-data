@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-04-08" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000K4EM" ;
-    cim:IdentifiedObject.name "ALQUILER SEGURO ENERGIA SA" ;
+    cim:IdentifiedObject.name "AS ENERGY ELECTRICIDAD Y GAS S.A." ;
     cim:Names.name "ES-ALSEG",
         "ESA42785949",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESA42785949" ;
     skos:altLabel "ES-ALSEG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ALQUILER SEGURO ENERGIA SA" ;
+    skos:prefLabel "AS ENERGY ELECTRICIDAD Y GAS S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

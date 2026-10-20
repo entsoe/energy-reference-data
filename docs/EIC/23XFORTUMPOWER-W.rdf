@@ -6,15 +6,19 @@
     <dcterms:identifier>urn:eic:23XFORTUMPOWER-W</dcterms:identifier>
     <skos:prefLabel>Fortum Power &amp; Heat OY</skos:prefLabel>
     <skos:altLabel>FORTUMPOWER</skos:altLabel>
-    <skos:definition xml:lang="en">Trader</skos:definition>
+    <skos:definition xml:lang="en">Company registration number: 0109160-2 confirmed by the extract from the trade register</skos:definition>
     <cim:IdentifiedObject.mRID>23XFORTUMPOWER-W</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Fortum Power &amp; Heat OY</cim:IdentifiedObject.name>
     <cim:Names.name>FORTUMPOWER</cim:Names.name>
-    <cim:IdentifiedObject.description>Trader</cim:IdentifiedObject.description>
+    <cim:Names.name>A0001899F.FI</cim:Names.name>
+    <cim:Names.name>FI01091602</cim:Names.name>
+    <cim:IdentifiedObject.description>Company registration number: 0109160-2 confirmed by the extract from the trade register</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-04-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>FI01091602</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

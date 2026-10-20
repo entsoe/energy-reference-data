@@ -13,7 +13,8 @@
     cim:IdentifiedObject.mRID "37X000000000076I" ;
     cim:IdentifiedObject.name "IGB Nawaro Bioenergie GmbH & Co. KG" ;
     cim:Names.name "DE258185778",
-        "IGBNAWARO" ;
+        "IGBNAWARO",
+        "Producer" ;
     dcterms:identifier "urn:eic:37X000000000076I" ;
     schema1:vatID "DE258185778" ;
     skos:altLabel "IGBNAWARO" ;

@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-01-06" ;
+    cim:DateAndOrTime.date "2025-11-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XKARSTADT-W--9" ;
-    cim:IdentifiedObject.name "GALERIA Karstadt Kaufhof GmbH" ;
+    cim:IdentifiedObject.name "GALERIA S.à r.l. & Co. KG" ;
     cim:Names.name "Balance Responsible Party",
-        "DE811167998",
+        "DE450492886",
         "KARSTADT_W" ;
     dcterms:identifier "urn:eic:11XKARSTADT-W--9" ;
-    schema1:vatID "DE811167998" ;
+    schema1:vatID "DE450492886" ;
     skos:altLabel "KARSTADT_W" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GALERIA Karstadt Kaufhof GmbH" ;
+    skos:prefLabel "GALERIA S.à r.l. & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000005271",
-    "@skos:prefLabel": "GLOMFJORG101 HYDRO",
-    "@skos:altLabel": "NO-GLOMFJORG101_",
+    "@skos:prefLabel": "GLOMFJORG102 HYDRO",
+    "@skos:altLabel": "NO-GLOMFJORG102",
     "@cim:IdentifiedObject.mRID": "50WG000000005271",
-    "@cim:IdentifiedObject.name": "GLOMFJORG101 HYDRO",
+    "@cim:IdentifiedObject.name": "GLOMFJORG102 HYDRO",
     "@cim:Names.name": [
-        "NO-GLOMFJORG101_",
+        "NO-GLOMFJORG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

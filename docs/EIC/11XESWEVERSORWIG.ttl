@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-10-07" ;
+    cim:DateAndOrTime.date "2024-12-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XESWEVERSORWIG" ;
     cim:IdentifiedObject.name "ESWE Versorgungs AG" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE113822541",
         "ESWE" ;
     dcterms:identifier "urn:eic:11XESWEVERSORWIG" ;
     schema1:vatID "DE113822541" ;
     skos:altLabel "ESWE" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "ESWE Versorgungs AG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

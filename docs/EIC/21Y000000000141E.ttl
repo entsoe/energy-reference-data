@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/21Y000000000141E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "21Y000000000141E" ;
+    cim:IdentifiedObject.name "Wilhelmshaven, LNG-Zone" ;
+    cim:Names.name "Border Area",
+        "WHV_LNG-ZONE" ;
+    dcterms:identifier "urn:eic:21Y000000000141E" ;
+    skos:altLabel "WHV_LNG-ZONE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Wilhelmshaven, LNG-Zone" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

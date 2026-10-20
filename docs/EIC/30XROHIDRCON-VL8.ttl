@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROHIDRCON-VL8" ;
     cim:IdentifiedObject.name "SC HIDROCONSTRUCTIA SA -suc. Olt superior" ;
-    cim:Names.name "HICOVL",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "HICOVL",
+        "RO1556820" ;
     dcterms:identifier "urn:eic:30XROHIDRCON-VL8" ;
+    schema1:vatID "RO1556820" ;
     skos:altLabel "HICOVL" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004611D" ;
-    cim:IdentifiedObject.name "M Bondal   T1 Transformator" ;
-    cim:Names.name "NO-BONDAL__T1",
+    cim:IdentifiedObject.name "N Bondal   T1 Transformator" ;
+    cim:Names.name "NO-BONDALT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004611D" ;
-    skos:altLabel "NO-BONDAL__T1" ;
+    skos:altLabel "NO-BONDALT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Bondal   T1 Transformator" ;
+    skos:prefLabel "N Bondal   T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

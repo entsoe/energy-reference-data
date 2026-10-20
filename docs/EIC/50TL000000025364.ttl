@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000025364" ;
-    cim:IdentifiedObject.name "S Usta 300 U Kabel" ;
+    cim:IdentifiedObject.name "S Usta     300 U  Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-USTA300UK" ;
+        "NO-USTA300U_K" ;
     dcterms:identifier "urn:eic:50TL000000025364" ;
-    skos:altLabel "NO-USTA300UK" ;
+    skos:altLabel "NO-USTA300U_K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Usta 300 U Kabel" ;
+    skos:prefLabel "S Usta     300 U  Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROTERMICA---S" ;
     cim:IdentifiedObject.name "SC TERMICA SA" ;
-    cim:Names.name "TERMICA",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Capacity Trader",
+        "RO14682110",
+        "TERMICA" ;
     dcterms:identifier "urn:eic:30XROTERMICA---S" ;
+    schema1:vatID "RO14682110" ;
     skos:altLabel "TERMICA" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

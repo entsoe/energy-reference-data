@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-12-06" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000068280" ;
-    cim:IdentifiedObject.name "220 kV Wyszków-Ostrołęka" ;
+    cim:IdentifiedObject.name "220kV Ostroleka-Wyszkow" ;
     cim:Names.name "1203",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000068280" ;
     skos:altLabel "1203" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "220 kV Wyszków-Ostrołęka" ;
+    skos:prefLabel "220kV Ostroleka-Wyszkow" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

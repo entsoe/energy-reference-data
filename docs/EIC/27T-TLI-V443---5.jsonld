@@ -14,15 +14,20 @@
     "@dcterms:identifier": "urn:eic:27T-TLI-V443---5",
     "@skos:prefLabel": "V443 - Detmarovice-Dobrzen",
     "@skos:altLabel": "V443",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated."
+    },
     "@cim:IdentifiedObject.mRID": "27T-TLI-V443---5",
     "@cim:IdentifiedObject.name": "V443 - Detmarovice-Dobrzen",
     "@cim:Names.name": [
         "V443",
         "Tieline"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Crossborder Tieline - EIC requested on CIO admin (10T EIC creation), so this EIC must be deactivated.",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-08",
+    "@cim:DateAndOrTime.date": "2024-01-31",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPRINC-12345-C",
     "@skos:prefLabel": "PRINCESA 31, S.A.",
     "@skos:altLabel": "PRINC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPRINC-12345-C",
     "@cim:IdentifiedObject.name": "PRINCESA 31, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA78157617",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA78157617",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

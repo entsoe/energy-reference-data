@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000006807",
-    "@skos:prefLabel": "M 132 Storforshei-Svabo",
-    "@skos:altLabel": "NO-STORFORSHEISV",
+    "@skos:prefLabel": "N 132 Svabo-Plurheia",
+    "@skos:altLabel": "NO-132SVABOPLURH",
     "@cim:IdentifiedObject.mRID": "50TL000000006807",
-    "@cim:IdentifiedObject.name": "M 132 Storforshei-Svabo",
+    "@cim:IdentifiedObject.name": "N 132 Svabo-Plurheia",
     "@cim:Names.name": [
-        "NO-STORFORSHEISV",
+        "NO-132SVABOPLURH",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X421278181327B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X421278181327B" ;
+    cim:IdentifiedObject.name "TOV KYIVSTRUM 24" ;
+    cim:Names.name "Consumption Responsible Party",
+        "KYIVSTRUM_24",
+        "UA454460326550" ;
+    dcterms:identifier "urn:eic:62X421278181327B" ;
+    schema1:vatID "UA454460326550" ;
+    skos:altLabel "KYIVSTRUM_24" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TOV KYIVSTRUM 24" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

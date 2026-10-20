@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/62X8535700161169> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "62X8535700161169" ;
+    cim:IdentifiedObject.name "NEW STREAM ENERGY TRADING LIMITED LIABILITY COMPANY" ;
+    cim:Names.name "448835026554",
+        "Consumption Responsible Party",
+        "NSETRADING" ;
+    dcterms:identifier "urn:eic:62X8535700161169" ;
+    schema1:vatID "448835026554" ;
+    skos:altLabel "NSETRADING" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NEW STREAM ENERGY TRADING LIMITED LIABILITY COMPANY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

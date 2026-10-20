@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP000000021352",
-    "@skos:prefLabel": "Oyfjellet Vindpark",
-    "@skos:altLabel": "NO-OYFJELLET-VIN",
+    "@skos:prefLabel": "Øyfjellet Vindkraftverk",
+    "@skos:altLabel": "NO-OYFJELLET_VIN",
     "@cim:IdentifiedObject.mRID": "50WP000000021352",
-    "@cim:IdentifiedObject.name": "Oyfjellet Vindpark",
+    "@cim:IdentifiedObject.name": "Øyfjellet Vindkraftverk",
     "@cim:Names.name": [
-        "NO-OYFJELLET-VIN",
+        "NO-OYFJELLET_VIN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-08-28",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

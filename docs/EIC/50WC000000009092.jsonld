@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000009092",
-    "@skos:prefLabel": "S Sundland 50  Forbruk",
-    "@skos:altLabel": "NO-SUNDLANB50",
+    "@skos:prefLabel": "S Sundland 50  T1 Forbruk",
+    "@skos:altLabel": "NO-SUNDLAND50T1",
     "@cim:IdentifiedObject.mRID": "50WC000000009092",
-    "@cim:IdentifiedObject.name": "S Sundland 50  Forbruk",
+    "@cim:IdentifiedObject.name": "S Sundland 50  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-SUNDLANB50",
+        "NO-SUNDLAND50T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

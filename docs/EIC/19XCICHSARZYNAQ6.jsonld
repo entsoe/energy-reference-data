@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XCICHSARZYNAQ6",
-    "@skos:prefLabel": "CIECH SARZYNA SPÓŁKA AKCYJNA",
-    "@skos:altLabel": "CIECH_SARZYNA",
+    "@skos:prefLabel": "QEMETICA AGRICULTURAL SOLUTIONS POLAND SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "QEMETICA_ASP_SA",
     "@cim:IdentifiedObject.mRID": "19XCICHSARZYNAQ6",
-    "@cim:IdentifiedObject.name": "CIECH SARZYNA SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "QEMETICA AGRICULTURAL SOLUTIONS POLAND SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
-        "CIECH_SARZYNA",
+        "QEMETICA_ASP_SA",
         "A00144679.PL",
         "PL8160001828",
-        "Metered Data Responsible",
-        "Meter Administrator",
-        "Grid Access Provider",
         "Consumer",
         "Energy Supplier",
-        "System Operator"
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-21",
+    "@cim:DateAndOrTime.date": "2025-03-24",
     "@schema:vatID": "PL8160001828",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

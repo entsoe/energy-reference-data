@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000005HJ</dcterms:identifier>
     <skos:prefLabel>PANIFICADORA INDUSTRIAL DE FUENLABRADA S.A</skos:prefLabel>
     <skos:altLabel>PANIF</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000005HJ</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>PANIFICADORA INDUSTRIAL DE FUENLABRADA S.A</cim:IdentifiedObject.name>
     <cim:Names.name>PANIF</cim:Names.name>
     <cim:Names.name>ESA28369056</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA28369056</schema:vatID>

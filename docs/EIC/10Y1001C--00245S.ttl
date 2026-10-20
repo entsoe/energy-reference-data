@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10Y1001C--00245S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Desctiption (optional)	Technical Profile between DK1 and adjacent areas of DK, DE, NO, SE and NL" ;
+    cim:IdentifiedObject.mRID "10Y1001C--00245S" ;
+    cim:IdentifiedObject.name "Technical Profile btwn DK1 and adjacent areas of DK, GE, NO, SE and NL" ;
+    cim:Names.name "Border Area",
+        "DK1-ADJ-AREA" ;
+    dcterms:identifier "urn:eic:10Y1001C--00245S" ;
+    skos:altLabel "DK1-ADJ-AREA" ;
+    skos:definition "Desctiption (optional)	Technical Profile between DK1 and adjacent areas of DK, DE, NO, SE and NL"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Technical Profile btwn DK1 and adjacent areas of DK, GE, NO, SE and NL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

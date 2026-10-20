@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PFX5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PFX5" ;
+    cim:IdentifiedObject.name "DAVID HERNÁNDEZ ALVAREZ" ;
+    cim:Names.name "ES-DHAINSTALACIO",
+        "ES06249802N",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PFX5" ;
+    schema1:vatID "ES06249802N" ;
+    skos:altLabel "ES-DHAINSTALACIO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DAVID HERNÁNDEZ ALVAREZ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001801G",
-    "@skos:prefLabel": "S 66 Grunnåi-Seljord",
-    "@skos:altLabel": "NO-GRUNNAISELJOR",
+    "@skos:prefLabel": "S 22 Grunnåi-Seljord",
+    "@skos:altLabel": "NO-22GRUNNAISELJ",
     "@cim:IdentifiedObject.mRID": "50TL00000001801G",
-    "@cim:IdentifiedObject.name": "S 66 Grunnåi-Seljord",
+    "@cim:IdentifiedObject.name": "S 22 Grunnåi-Seljord",
     "@cim:Names.name": [
-        "NO-GRUNNAISELJOR",
+        "NO-22GRUNNAISELJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

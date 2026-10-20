@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-04" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "update" ;
     cim:IdentifiedObject.mRID "17W000001521205J" ;
     cim:IdentifiedObject.name "FERME EOLIENNE DE BAIE-DE-ST-BRIEUC" ;
     cim:Names.name "FR_OFFSHORE_STB",
         "Production Unit" ;
     dcterms:identifier "urn:eic:17W000001521205J" ;
     skos:altLabel "FR_OFFSHORE_STB" ;
+    skos:definition "update"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FERME EOLIENNE DE BAIE-DE-ST-BRIEUC" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

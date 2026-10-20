@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:38X-AVP-9VD000EP</dcterms:identifier>
-    <skos:prefLabel>AS Eesti Gaas</skos:prefLabel>
-    <skos:altLabel>EE_EESTIGAAS</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
+    <skos:prefLabel>AS Elenger Grupp</skos:prefLabel>
+    <skos:altLabel>EE_ELENGER</skos:altLabel>
     <cim:IdentifiedObject.mRID>38X-AVP-9VD000EP</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>AS Eesti Gaas</cim:IdentifiedObject.name>
-    <cim:Names.name>EE_EESTIGAAS</cim:Names.name>
+    <cim:IdentifiedObject.name>AS Elenger Grupp</cim:IdentifiedObject.name>
+    <cim:Names.name>EE_ELENGER</cim:Names.name>
     <cim:Names.name>EE100072174</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-09-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-01-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>EE100072174</schema:vatID>
   </skos:Concept>

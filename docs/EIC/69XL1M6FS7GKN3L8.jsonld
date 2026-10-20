@@ -18,14 +18,14 @@
     "@cim:IdentifiedObject.name": "METKA POWER INVESTMENTS LTD",
     "@cim:Names.name": [
         "METKA_POWER",
-        "10362559T",
-        "Trade Responsible Party",
-        "Balance Responsible Party"
+        "10362559t",
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-30",
-    "@schema:vatID": "10362559T",
+    "@schema:vatID": "10362559t",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,8 +12,10 @@
     cim:IdentifiedObject.mRID "11X-GRUNDGRUEN-J" ;
     cim:IdentifiedObject.name "Grundgrün Energie GmbH" ;
     cim:Names.name "Balance Responsible Party",
+        "Consumer",
         "DE275340354",
-        "GRUNDGRUEN" ;
+        "GRUNDGRUEN",
+        "Producer" ;
     dcterms:identifier "urn:eic:11X-GRUNDGRUEN-J" ;
     schema1:vatID "DE275340354" ;
     skos:altLabel "GRUNDGRUEN" ;

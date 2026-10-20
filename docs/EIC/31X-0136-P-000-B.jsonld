@@ -19,11 +19,12 @@
     "@cim:Names.name": [
         "HR-SOLARIS-PONS",
         "HR28260438524",
-        "Trade Responsible Party"
+        "Balance Responsible Party",
+        "Producer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-05",
+    "@cim:DateAndOrTime.date": "2025-03-14",
     "@schema:vatID": "HR28260438524",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

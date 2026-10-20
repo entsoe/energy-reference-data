@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006778Q",
-    "@skos:prefLabel": "Bydgoszcz Zachód-Jasiniec",
+    "@skos:prefLabel": "220kV Bydgoszcz Zachod-Jasiniec",
     "@skos:altLabel": "6101",
     "@cim:IdentifiedObject.mRID": "19T110000006778Q",
-    "@cim:IdentifiedObject.name": "Bydgoszcz Zachód-Jasiniec",
+    "@cim:IdentifiedObject.name": "220kV Bydgoszcz Zachod-Jasiniec",
     "@cim:Names.name": [
         "6101",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

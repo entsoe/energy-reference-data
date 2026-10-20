@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMSA-1234567-M</dcterms:identifier>
     <skos:prefLabel>MINERA DEL SANTO ANGEL S.L.</skos:prefLabel>
     <skos:altLabel>MSA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMSA-1234567-M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MINERA DEL SANTO ANGEL S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>MSA</cim:Names.name>
     <cim:Names.name>ESB41390386</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-02-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB41390386</schema:vatID>

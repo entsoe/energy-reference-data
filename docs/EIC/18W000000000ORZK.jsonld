@@ -16,7 +16,10 @@
     "@skos:altLabel": "ELTES",
     "@cim:IdentifiedObject.mRID": "18W000000000ORZK",
     "@cim:IdentifiedObject.name": "ELTEC01",
-    "@cim:Names.name": "ELTES",
+    "@cim:Names.name": [
+        "ELTES",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-04-21",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003141M" ;
-    cim:IdentifiedObject.name "M 420 Klæbu-Surna" ;
+    cim:IdentifiedObject.name "N 420 Klæbu-Surna" ;
     cim:Names.name "Internal Line",
-        "NO-KLABUSURNA" ;
+        "NO-420KLABUSURNA" ;
     dcterms:identifier "urn:eic:50TL00000003141M" ;
-    skos:altLabel "NO-KLABUSURNA" ;
+    skos:altLabel "NO-420KLABUSURNA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Klæbu-Surna" ;
+    skos:prefLabel "N 420 Klæbu-Surna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

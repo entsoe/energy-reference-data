@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45X000000000274S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45X000000000274S" ;
+    cim:IdentifiedObject.name "Quantator" ;
+    cim:Names.name "46099109",
+        "Balance Responsible Party",
+        "QUANTATOR" ;
+    dcterms:identifier "urn:eic:45X000000000274S" ;
+    schema1:vatID "46099109" ;
+    skos:altLabel "QUANTATOR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Quantator" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

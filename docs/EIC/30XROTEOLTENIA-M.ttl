@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XROTEOLTENIA-M" ;
     cim:IdentifiedObject.name "S.C.TOTAL ELECTRIC OLTENIA SA" ;
     cim:Names.name "TEO",
-        "Valid EIC Function needed" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:30XROTEOLTENIA-M" ;
     skos:altLabel "TEO" ;
     skos:definition "Trader"@en ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-17" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-11-03" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEGTF--------3" ;
     cim:IdentifiedObject.name "Elektrizitäts - Genossenschaft Tacherting - Feichten eG" ;
-    cim:Names.name "DE131565653",
-        "EGTACHERTINGFE",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE131565653",
+        "EGTACHERTINGFE" ;
     dcterms:identifier "urn:eic:11XEGTF--------3" ;
     schema1:vatID "DE131565653" ;
     skos:altLabel "EGTACHERTINGFE" ;

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMARUX-12345-8</dcterms:identifier>
     <skos:prefLabel>CASIMIRO HERNANDEZ E HIJOS LA MARUXI&#209;A, S.A.</skos:prefLabel>
     <skos:altLabel>MARUX</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMARUX-12345-8</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CASIMIRO HERNANDEZ E HIJOS LA MARUXI&#209;A, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>MARUX</cim:Names.name>
     <cim:Names.name>ESA28646735</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2009-09-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA28646735</schema:vatID>

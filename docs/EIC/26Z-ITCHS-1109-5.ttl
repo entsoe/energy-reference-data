@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26Z-ITCHS-1109-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26Z-ITCHS-1109-5" ;
+    cim:IdentifiedObject.name "MISURATORE RISERVA AVISE-RIDDES" ;
+    cim:Names.name "MIS_AVI_RID_2",
+        "Metering Point" ;
+    dcterms:identifier "urn:eic:26Z-ITCHS-1109-5" ;
+    skos:altLabel "MIS_AVI_RID_2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MISURATORE RISERVA AVISE-RIDDES" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

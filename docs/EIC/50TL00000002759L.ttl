@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002759L" ;
-    cim:IdentifiedObject.name "M 22 Eidum-Julfoss" ;
+    cim:IdentifiedObject.name "N 22 Eidum-Julfoss" ;
     cim:Names.name "Internal Line",
-        "NO-EIDUMJULFOSS" ;
+        "NO-22EIDUMJULFOS" ;
     dcterms:identifier "urn:eic:50TL00000002759L" ;
-    skos:altLabel "NO-EIDUMJULFOSS" ;
+    skos:altLabel "NO-22EIDUMJULFOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Eidum-Julfoss" ;
+    skos:prefLabel "N 22 Eidum-Julfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

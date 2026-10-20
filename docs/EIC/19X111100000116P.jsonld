@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19X111100000116P",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19X111100000116P",
+    "@skos:prefLabel": "Q96 ENERGY SPÓŁKA Z OGRANICZONA ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "Q96_ENERGY_SPZOO",
+    "@cim:IdentifiedObject.mRID": "19X111100000116P",
+    "@cim:IdentifiedObject.name": "Q96 ENERGY SPÓŁKA Z OGRANICZONA ODPOWIEDZIALNOŚCIĄ",
+    "@cim:Names.name": [
+        "Q96_ENERGY_SPZOO",
+        "PL5253083125",
+        "Balance Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-08-19",
+    "@schema:vatID": "PL5253083125",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

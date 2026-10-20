@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENEXION-15--Y" ;
     cim:IdentifiedObject.name "enexion GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE260459436",
-        "ENEXION-15" ;
+    cim:Names.name "DE260459436",
+        "ENEXION-15",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENEXION-15--Y" ;
     schema1:vatID "DE260459436" ;
     skos:altLabel "ENEXION-15" ;

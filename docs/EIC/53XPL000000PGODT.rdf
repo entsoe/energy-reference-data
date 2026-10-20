@@ -4,15 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000PGODT</dcterms:identifier>
-    <skos:prefLabel>PGNiG Obr&#243;t Detaliczny Sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</skos:prefLabel>
-    <skos:altLabel>PGNIG-OD</skos:altLabel>
+    <skos:prefLabel>myORLEN sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</skos:prefLabel>
+    <skos:altLabel>MYORLEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000PGODT</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PGNiG Obr&#243;t Detaliczny Sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</cim:IdentifiedObject.name>
-    <cim:Names.name>PGNIG-OD</cim:Names.name>
+    <cim:IdentifiedObject.name>myORLEN sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</cim:IdentifiedObject.name>
+    <cim:Names.name>MYORLEN</cim:Names.name>
+    <cim:Names.name>A0001891F.PL</cim:Names.name>
     <cim:Names.name>PL5272706082</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-02-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-03-26</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Party Connected To Grid</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>

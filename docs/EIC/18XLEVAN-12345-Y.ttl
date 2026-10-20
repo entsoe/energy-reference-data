@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-09-07" ;
+    cim:DateAndOrTime.date "2026-03-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XLEVAN-12345-Y" ;
-    cim:IdentifiedObject.name "ACCIONA EÓLICA DEL LEVANTE, S.L." ;
+    cim:IdentifiedObject.name "OPDENERGY EÓLICA DEL LEVANTE, S.L." ;
     cim:Names.name "ESB97873905",
         "LEVAN",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XLEVAN-12345-Y" ;
     schema1:vatID "ESB97873905" ;
     skos:altLabel "LEVAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ACCIONA EÓLICA DEL LEVANTE, S.L." ;
+    skos:prefLabel "OPDENERGY EÓLICA DEL LEVANTE, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

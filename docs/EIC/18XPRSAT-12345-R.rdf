@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XPRSAT-12345-R</dcterms:identifier>
     <skos:prefLabel>S.A.T. n&#186; 9855 PRIMAFLOR</skos:prefLabel>
     <skos:altLabel>PRSAT</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XPRSAT-12345-R</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S.A.T. n&#186; 9855 PRIMAFLOR</cim:IdentifiedObject.name>
     <cim:Names.name>PRSAT</cim:Names.name>
     <cim:Names.name>ESV04256954</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-05-29</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESV04256954</schema:vatID>

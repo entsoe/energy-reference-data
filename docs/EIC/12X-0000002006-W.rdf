@@ -4,20 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:12X-0000002006-W</dcterms:identifier>
-    <skos:prefLabel>Sev.en Commodities AG</skos:prefLabel>
+    <skos:prefLabel>Powertica Commodities AG</skos:prefLabel>
     <skos:altLabel>SEVENCOMMO-AG-ST</skos:altLabel>
     <skos:definition xml:lang="en">2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein</skos:definition>
     <cim:IdentifiedObject.mRID>12X-0000002006-W</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Sev.en Commodities AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Powertica Commodities AG</cim:IdentifiedObject.name>
     <cim:Names.name>SEVENCOMMO-AG-ST</cim:Names.name>
-    <cim:Names.name>60481</cim:Names.name>
+    <cim:Names.name>LI60481</cim:Names.name>
     <cim:IdentifiedObject.description>2018-06-19: Added BRP Function 2021-03-31: Corrected VAT Number. Since this is not a Swiss Company, they have ''60481'' withot a country prefix which seems to be general notation in Lichtenstein</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-03-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-03</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>60481</schema:vatID>
+    <schema:vatID>LI60481</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

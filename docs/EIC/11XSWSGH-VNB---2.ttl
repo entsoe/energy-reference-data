@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-07-01" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWSGH-VNB---2" ;
     cim:IdentifiedObject.name "Stadtwerke Sangerhausen GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE239041211",
-        "SWSGH-VNB" ;
+    cim:Names.name "DE239041211",
+        "SWSGH-VNB",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSWSGH-VNB---2" ;
     schema1:vatID "DE239041211" ;
     skos:altLabel "SWSGH-VNB" ;

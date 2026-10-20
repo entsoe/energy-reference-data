@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-13" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point To Storage" ;
     cim:IdentifiedObject.mRID "21Z000000000383D" ;
     cim:IdentifiedObject.name "GIM Kawerna" ;
-    cim:Names.name "GIM_KAWERNA",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "GIM_KAWERNA" ;
     dcterms:identifier "urn:eic:21Z000000000383D" ;
     skos:altLabel "GIM_KAWERNA" ;
-    skos:definition "Connection Point To Storage"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GIM Kawerna" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XJJML-12345-4R",
     "@skos:prefLabel": "JUAN JOSÉ MARTÍNEZ LÓPEZ, S.A.",
     "@skos:altLabel": "JJML",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XJJML-12345-4R",
     "@cim:IdentifiedObject.name": "JUAN JOSÉ MARTÍNEZ LÓPEZ, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA14341325",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA14341325",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

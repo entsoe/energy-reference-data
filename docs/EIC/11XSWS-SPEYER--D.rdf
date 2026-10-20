@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWS-SPEYER--D</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Speyer GmbH</skos:prefLabel>
     <skos:altLabel>SWS</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWS-SPEYER--D</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Speyer GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWS</cim:Names.name>
     <cim:Names.name>DE149689905</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-09-19</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-27</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE149689905</schema:vatID>
   </skos:Concept>

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMEDHESA-013-N</dcterms:identifier>
     <skos:prefLabel>MEDHESA</skos:prefLabel>
     <skos:altLabel>MEDHE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMEDHESA-013-N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MEDHESA</cim:IdentifiedObject.name>
     <cim:Names.name>MEDHE</cim:Names.name>
     <cim:Names.name>ESB28811362</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-07-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB28811362</schema:vatID>

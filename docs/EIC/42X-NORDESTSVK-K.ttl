@@ -7,8 +7,9 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-05-24" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-05" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "This code has been granted for EU VAT code without prefix SK and the system therefore allowed me to create new code for this company with valid EU VAT code. The old code is not used anywhere by the company." ;
     cim:IdentifiedObject.mRID "42X-NORDESTSVK-K" ;
     cim:IdentifiedObject.name "Nordest Slovensko, s.r.o." ;
     cim:Names.name "2120733747",
@@ -17,6 +18,7 @@
     dcterms:identifier "urn:eic:42X-NORDESTSVK-K" ;
     schema1:vatID "2120733747" ;
     skos:altLabel "NORDEST-SLOVAKIA" ;
+    skos:definition "This code has been granted for EU VAT code without prefix SK and the system therefore allowed me to create new code for this company with valid EU VAT code. The old code is not used anywhere by the company."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Nordest Slovensko, s.r.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

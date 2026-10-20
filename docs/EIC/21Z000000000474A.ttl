@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Interconnection Point" ;
+    cim:IdentifiedObject.description "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO" ;
     cim:IdentifiedObject.mRID "21Z000000000474A" ;
     cim:IdentifiedObject.name "Melendugno" ;
-    cim:Names.name "MELEND-TAP-SRG",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Connection Point",
+        "MELEND-TAP-SRG" ;
     dcterms:identifier "urn:eic:21Z000000000474A" ;
     skos:altLabel "MELEND-TAP-SRG" ;
-    skos:definition "Interconnection Point"@en ;
+    skos:definition "Interconnection Point.  Connection point function manually updated from the ENTSOG LIO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Melendugno" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

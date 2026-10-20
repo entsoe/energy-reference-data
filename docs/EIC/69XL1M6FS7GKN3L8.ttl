@@ -11,12 +11,12 @@
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "69XL1M6FS7GKN3L8" ;
     cim:IdentifiedObject.name "METKA POWER INVESTMENTS LTD" ;
-    cim:Names.name "10362559T",
+    cim:Names.name "10362559t",
         "Balance Responsible Party",
         "METKA_POWER",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:69XL1M6FS7GKN3L8" ;
-    schema1:vatID "10362559T" ;
+    schema1:vatID "10362559t" ;
     skos:altLabel "METKA_POWER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "METKA POWER INVESTMENTS LTD" ;

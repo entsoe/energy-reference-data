@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006520S",
-    "@skos:prefLabel": "Janów-A3",
+    "@skos:prefLabel": "220/110kV Janow AT3",
     "@skos:altLabel": "JAN-A3",
     "@cim:IdentifiedObject.mRID": "19T110000006520S",
-    "@cim:IdentifiedObject.name": "Janów-A3",
+    "@cim:IdentifiedObject.name": "220/110kV Janow AT3",
     "@cim:Names.name": [
         "JAN-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

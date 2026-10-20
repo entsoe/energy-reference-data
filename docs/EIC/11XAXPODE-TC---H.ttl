@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-03-24" ;
+    cim:DateAndOrTime.date "2025-08-21" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XAXPODE-TC---H" ;
     cim:IdentifiedObject.name "Axpo Deutschland GmbH" ;
     cim:Names.name "AXPODE_TC",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:11XAXPODE-TC---H" ;
     schema1:vatID "DE142394844" ;
     skos:altLabel "AXPODE_TC" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Axpo Deutschland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

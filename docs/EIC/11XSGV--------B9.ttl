@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-11-12" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSGV--------B9" ;
-    cim:IdentifiedObject.name "Strom- und Gasversorgung Versmold GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE126956958",
-        "SGV-B" ;
+    cim:IdentifiedObject.name "Stadtwerke Versmold GmbH" ;
+    cim:Names.name "DE277883596",
+        "SGV-B",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSGV--------B9" ;
-    schema1:vatID "DE126956958" ;
+    schema1:vatID "DE277883596" ;
     skos:altLabel "SGV-B" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Strom- und Gasversorgung Versmold GmbH" ;
+    skos:prefLabel "Stadtwerke Versmold GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53XPL000000AMOSD> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53XPL000000AMOSD" ;
+    cim:IdentifiedObject.name "AVRIO MEDIA OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "AMO",
+        "Network User",
+        "PL7773438682",
+        "Party Connected To Grid",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:53XPL000000AMOSD" ;
+    schema1:vatID "PL7773438682" ;
+    skos:altLabel "AMO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AVRIO MEDIA OBRÓT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

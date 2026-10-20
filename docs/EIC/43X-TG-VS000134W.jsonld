@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "Vats SIA",
     "@cim:Names.name": [
         "LV-TGVS20",
-        "41203008173",
+        "LV41203008173",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-10-28",
-    "@schema:vatID": "41203008173",
+    "@cim:DateAndOrTime.date": "2024-05-08",
+    "@schema:vatID": "LV41203008173",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22X20131022----H> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22X20131022----H" ;
+    cim:IdentifiedObject.name "VLAAMS ENERGIEBEDRIJF N.V." ;
+    cim:Names.name "BE0843383425",
+        "BE_VL-ENERGIE",
+        "Balance Responsible Party" ;
+    dcterms:identifier "urn:eic:22X20131022----H" ;
+    schema1:vatID "BE0843383425" ;
+    skos:altLabel "BE_VL-ENERGIE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VLAAMS ENERGIEBEDRIJF N.V." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

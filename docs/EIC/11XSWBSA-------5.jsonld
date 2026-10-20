@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWBSA-------5",
     "@skos:prefLabel": "Stadtwerke Bad Sooden-Allendorf",
     "@skos:altLabel": "BSA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWBSA-------5",
     "@cim:IdentifiedObject.name": "Stadtwerke Bad Sooden-Allendorf",
     "@cim:Names.name": [
         "BSA",
         "DE113056468",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-11-20",
     "@schema:vatID": "DE113056468",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002133Q",
-    "@skos:prefLabel": "M 66 Skorovatn-Tunnsjø",
-    "@skos:altLabel": "NO-SKOROVTUNNSJO",
+    "@skos:prefLabel": "N 66 Skorovatn-Tunnsjø",
+    "@skos:altLabel": "NO-66SKOROVATNTU",
     "@cim:IdentifiedObject.mRID": "50TL00000002133Q",
-    "@cim:IdentifiedObject.name": "M 66 Skorovatn-Tunnsjø",
+    "@cim:IdentifiedObject.name": "N 66 Skorovatn-Tunnsjø",
     "@cim:Names.name": [
-        "NO-SKOROVTUNNSJO",
+        "NO-66SKOROVATNTU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

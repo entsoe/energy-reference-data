@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-09-26" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "System Operator" ;
     cim:IdentifiedObject.mRID "49T0000000005792" ;
-    cim:IdentifiedObject.name "Wijk aan Zee - Beverwijk 380kV Wit" ;
-    cim:Names.name "Internal Line",
-        "WAZ-BVW380-W" ;
+    cim:IdentifiedObject.name "Beverwijk-Wijk aan Zee 380kV Wit" ;
+    cim:Names.name "BVW-WAZ380-W",
+        "Internal Line" ;
     dcterms:identifier "urn:eic:49T0000000005792" ;
-    skos:altLabel "WAZ-BVW380-W" ;
+    skos:altLabel "BVW-WAZ380-W" ;
     skos:definition "System Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Wijk aan Zee - Beverwijk 380kV Wit" ;
+    skos:prefLabel "Beverwijk-Wijk aan Zee 380kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

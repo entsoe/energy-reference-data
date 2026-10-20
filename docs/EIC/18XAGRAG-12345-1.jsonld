@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:18XAGRAG-12345-1",
     "@skos:prefLabel": "AGRAGUA, S.A.",
     "@skos:altLabel": "AGRAG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAGRAG-12345-1",
     "@cim:IdentifiedObject.name": "AGRAGUA, S.A.",
     "@cim:Names.name": [
         "AGRAG",
         "ESA35233600",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-03",
+    "@cim:DateAndOrTime.date": "2025-09-12",
     "@schema:vatID": "ESA35233600",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

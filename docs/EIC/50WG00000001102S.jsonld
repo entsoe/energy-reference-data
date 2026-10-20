@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000001102S",
     "@skos:prefLabel": "NAMSOS  G113 HYDRO",
-    "@skos:altLabel": "NO-NAMSOS__G113_",
+    "@skos:altLabel": "NO-NAMSOSG113",
     "@cim:IdentifiedObject.mRID": "50WG00000001102S",
     "@cim:IdentifiedObject.name": "NAMSOS  G113 HYDRO",
     "@cim:Names.name": [
-        "NO-NAMSOS__G113_",
+        "NO-NAMSOSG113",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

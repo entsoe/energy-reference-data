@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TLI00000027435</dcterms:identifier>
-    <skos:prefLabel>M 22 Skravl&#229;ga-Kvasstein&#229;ga</skos:prefLabel>
-    <skos:altLabel>NO-SKRAVLAGAKVAS</skos:altLabel>
+    <skos:prefLabel>N 22 Holandsvika-Kvasstein&#229;ga</skos:prefLabel>
+    <skos:altLabel>NO-22HOLANDSVIKA</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TLI00000027435</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>M 22 Skravl&#229;ga-Kvasstein&#229;ga</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SKRAVLAGAKVAS</cim:Names.name>
+    <cim:IdentifiedObject.name>N 22 Holandsvika-Kvasstein&#229;ga</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-22HOLANDSVIKA</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

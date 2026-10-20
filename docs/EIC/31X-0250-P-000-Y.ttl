@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0250-P-000-Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0250-P-000-Y" ;
+    cim:IdentifiedObject.name "Energija Poreč d.o.o." ;
+    cim:Names.name "HR-EN-POREC",
+        "HR91464123877",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0250-P-000-Y" ;
+    schema1:vatID "HR91464123877" ;
+    skos:altLabel "HR-EN-POREC" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energija Poreč d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPREFI-12345-8",
     "@skos:prefLabel": "PREPARACION DE FIBRAS, S.A.",
     "@skos:altLabel": "PREFI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPREFI-12345-8",
     "@cim:IdentifiedObject.name": "PREPARACION DE FIBRAS, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA46053161",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-09-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA46053161",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

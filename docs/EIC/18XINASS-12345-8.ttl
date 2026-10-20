@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-07-09" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XINASS-12345-8" ;
     cim:IdentifiedObject.name "inAsset Networks SL" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XINASS-12345-8" ;
     schema1:vatID "ESB54403621" ;
     skos:altLabel "INASS" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "inAsset Networks SL" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

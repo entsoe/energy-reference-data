@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-07-06" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-SAK-E------4" ;
     cim:IdentifiedObject.name "St. Gallisch-Appenzellische Kraftwerke AG" ;
-    cim:Names.name "Balance Group",
-        "CH168539",
+    cim:Names.name "CH168539",
+        "Capacity Trader",
         "SAK-ENERGIE" ;
     dcterms:identifier "urn:eic:12X-SAK-E------4" ;
     schema1:vatID "CH168539" ;

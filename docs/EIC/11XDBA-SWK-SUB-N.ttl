@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDBA-SWK-SUB-N" ;
     cim:IdentifiedObject.name "STADTWERKE KELHEIM GmbH & Co KG" ;
-    cim:Names.name "Balance Group",
-        "DE214431698",
-        "SWK-DBA" ;
+    cim:Names.name "DE214431698",
+        "SWK-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDBA-SWK-SUB-N" ;
     schema1:vatID "DE214431698" ;
     skos:altLabel "SWK-DBA" ;

@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-14" ;
+    cim:DateAndOrTime.date "2025-04-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XBRODZIK11111G" ;
-    cim:IdentifiedObject.name "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SP.JAWNA" ;
+    cim:IdentifiedObject.name "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SPÓŁKA KOMANDYTOWA" ;
     cim:Names.name "A0011743G.PL",
         "Energy Supplier",
         "Grid Access Provider",
@@ -24,6 +24,6 @@
     schema1:vatID "PL6492037525" ;
     skos:altLabel "PHU_BRODZIK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SP.JAWNA" ;
+    skos:prefLabel "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE BRODZIK SPÓŁKA KOMANDYTOWA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

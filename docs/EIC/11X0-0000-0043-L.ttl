@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0043-L" ;
     cim:IdentifiedObject.name "Türk Energy Europe Sales GmbH" ;
-    cim:Names.name "DE295295297",
+    cim:Names.name "Balance Responsible Party",
+        "DE295295297",
         "TURK_ENERGY" ;
     dcterms:identifier "urn:eic:11X0-0000-0043-L" ;
     schema1:vatID "DE295295297" ;

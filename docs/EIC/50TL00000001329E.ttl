@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001329E" ;
     cim:IdentifiedObject.name "S 47 Grålum-Greåker" ;
     cim:Names.name "Internal Line",
-        "NO-GRALUMGREAKER" ;
+        "NO-47GRALUMGREAK" ;
     dcterms:identifier "urn:eic:50TL00000001329E" ;
-    skos:altLabel "NO-GRALUMGREAKER" ;
+    skos:altLabel "NO-47GRALUMGREAK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Grålum-Greåker" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

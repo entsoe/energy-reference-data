@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>14XNATURSTROM00B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CENTRICA ENERGY LIMITED</cim:IdentifiedObject.name>
     <cim:Names.name>NATURSTROMEUROPA</cim:Names.name>
+    <cim:Names.name>GB684966762</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-08-02</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-14</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>GB684966762</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

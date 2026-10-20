@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XJCN---------R" ;
     cim:IdentifiedObject.name "J.C. Neckermann GmbH & Co.KG" ;
-    cim:Names.name "Balance Group",
-        "DE134157829",
-        "JCN" ;
+    cim:Names.name "DE134157829",
+        "JCN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XJCN---------R" ;
     schema1:vatID "DE134157829" ;
     skos:altLabel "JCN" ;

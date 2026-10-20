@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:39XLANDWARME0003",
-    "@skos:prefLabel": "Landwarme CE Trading Kft",
-    "@skos:altLabel": "LW_CE",
+    "@skos:prefLabel": "Biomethane CE Trading Kft",
+    "@skos:altLabel": "BMCET",
     "@cim:IdentifiedObject.mRID": "39XLANDWARME0003",
-    "@cim:IdentifiedObject.name": "Landwarme CE Trading Kft",
+    "@cim:IdentifiedObject.name": "Biomethane CE Trading Kft",
     "@cim:Names.name": [
-        "LW_CE",
+        "BMCET",
         "HU26240134",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-10-21",
+    "@cim:DateAndOrTime.date": "2025-07-04",
     "@schema:vatID": "HU26240134",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

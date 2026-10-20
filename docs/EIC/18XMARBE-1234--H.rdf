@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMARBE-1234--H</dcterms:identifier>
     <skos:prefLabel>CASINO NUEVA ANDALUCIA MARBELLA, S.A.</skos:prefLabel>
     <skos:altLabel>MARBE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMARBE-1234--H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>CASINO NUEVA ANDALUCIA MARBELLA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>MARBE</cim:Names.name>
     <cim:Names.name>ESA29043064</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA29043064</schema:vatID>

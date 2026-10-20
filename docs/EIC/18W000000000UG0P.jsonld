@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/18W000000000UG0P",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:18W000000000UG0P",
+    "@skos:prefLabel": "UP La Campana",
+    "@skos:altLabel": "ES-S_CAMP",
+    "@cim:IdentifiedObject.mRID": "18W000000000UG0P",
+    "@cim:IdentifiedObject.name": "UP La Campana",
+    "@cim:Names.name": [
+        "ES-S_CAMP",
+        "Production Unit"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-02-23",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

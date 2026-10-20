@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "19XENTPL-1-2004A" ;
     cim:IdentifiedObject.name "ENTRADE Sp.z o.o." ;
-    cim:Names.name "ENTRADE_POLAND",
-        "PL5252237997",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "ENTRADE_POLAND",
+        "PL5252237997" ;
     dcterms:identifier "urn:eic:19XENTPL-1-2004A" ;
     schema1:vatID "PL5252237997" ;
     skos:altLabel "ENTRADE_POLAND" ;

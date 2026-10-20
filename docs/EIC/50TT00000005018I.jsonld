@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005018I",
-    "@skos:prefLabel": "M Holla    RT2 Transformator",
-    "@skos:altLabel": "NO-HOLLA___RT2",
+    "@skos:prefLabel": "N Holla    RT2 Transformator",
+    "@skos:altLabel": "NO-HOLLART2",
     "@cim:IdentifiedObject.mRID": "50TT00000005018I",
-    "@cim:IdentifiedObject.name": "M Holla    RT2 Transformator",
+    "@cim:IdentifiedObject.name": "N Holla    RT2 Transformator",
     "@cim:Names.name": [
-        "NO-HOLLA___RT2",
+        "NO-HOLLART2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

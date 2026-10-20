@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250728-M--W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Details confirmed with certificates: Certificate of Registration number: 810491952 
+VAT Filer: 330077439 Licence Number from Energy Regulatory Office in Kosovo: ZRRE/Li_103/25""" ;
+    cim:IdentifiedObject.mRID "23X--250728-M--W" ;
+    cim:IdentifiedObject.name "Management & Development Associates LLC" ;
+    cim:Names.name "330077439",
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "MDA_XK" ;
+    dcterms:identifier "urn:eic:23X--250728-M--W" ;
+    schema1:vatID "330077439" ;
+    skos:altLabel "MDA_XK" ;
+    skos:definition """Details confirmed with certificates: Certificate of Registration number: 810491952 
+VAT Filer: 330077439 Licence Number from Energy Regulatory Office in Kosovo: ZRRE/Li_103/25"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Management & Development Associates LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

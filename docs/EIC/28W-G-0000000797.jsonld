@@ -16,7 +16,10 @@
     "@skos:altLabel": "TET-PU",
     "@cim:IdentifiedObject.mRID": "28W-G-0000000797",
     "@cim:IdentifiedObject.name": "Termoelektrarna Trbovlje",
-    "@cim:Names.name": "TET-PU",
+    "@cim:Names.name": [
+        "TET-PU",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-05-13",

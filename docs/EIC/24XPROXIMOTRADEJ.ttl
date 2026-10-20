@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/24XPROXIMOTRADEJ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "24XPROXIMOTRADEJ" ;
+    cim:IdentifiedObject.name "Proximo Trade s.r.o." ;
+    cim:Names.name "PROXIMOTRADE-SK",
+        "SK2122106767",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:24XPROXIMOTRADEJ" ;
+    schema1:vatID "SK2122106767" ;
+    skos:altLabel "PROXIMOTRADE-SK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Proximo Trade s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

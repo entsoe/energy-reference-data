@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000053348" ;
-    cim:IdentifiedObject.name "M Alcoa    V Transformator" ;
+    cim:IdentifiedObject.name "N Alcoa    V Transformator" ;
     cim:Names.name "NO-MOSJ_ALVV",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000053348" ;
     skos:altLabel "NO-MOSJ_ALVV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Alcoa    V Transformator" ;
+    skos:prefLabel "N Alcoa    V Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

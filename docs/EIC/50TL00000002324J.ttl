@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002324J" ;
-    cim:IdentifiedObject.name "M 8 Nedalsfoss-Sylsjø" ;
+    cim:IdentifiedObject.name "N 8 Nedalsfoss-Sylsjø" ;
     cim:Names.name "Internal Line",
-        "NO-NEDALSFOSSSYL" ;
+        "NO-8NEDALSFOSSSY" ;
     dcterms:identifier "urn:eic:50TL00000002324J" ;
-    skos:altLabel "NO-NEDALSFOSSSYL" ;
+    skos:altLabel "NO-8NEDALSFOSSSY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 8 Nedalsfoss-Sylsjø" ;
+    skos:prefLabel "N 8 Nedalsfoss-Sylsjø" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

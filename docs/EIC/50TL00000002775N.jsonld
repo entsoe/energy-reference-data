@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002775N",
-    "@skos:prefLabel": "M 22 Langfjord-Trongsundet",
-    "@skos:altLabel": "NO-LANGFJORD-TRO",
+    "@skos:prefLabel": "N 22  Langfjord-Trongsundet",
+    "@skos:altLabel": "NO-22LANGFJORD_T",
     "@cim:IdentifiedObject.mRID": "50TL00000002775N",
-    "@cim:IdentifiedObject.name": "M 22 Langfjord-Trongsundet",
+    "@cim:IdentifiedObject.name": "N 22  Langfjord-Trongsundet",
     "@cim:Names.name": [
-        "NO-LANGFJORD-TRO",
+        "NO-22LANGFJORD_T",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

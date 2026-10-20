@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X000000000145P</dcterms:identifier>
-    <skos:prefLabel>WELTEC Energie GmbH</skos:prefLabel>
-    <skos:altLabel>WELTEC_ENERGIE_G</skos:altLabel>
+    <skos:prefLabel>NEXOGAS Energie GmbH </skos:prefLabel>
+    <skos:altLabel>NEXOGAS_ENERGIE_</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>37X000000000145P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>WELTEC Energie GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>WELTEC_ENERGIE_G</cim:Names.name>
+    <cim:IdentifiedObject.name>NEXOGAS Energie GmbH </cim:IdentifiedObject.name>
+    <cim:Names.name>NEXOGAS_ENERGIE_</cim:Names.name>
     <cim:Names.name>DE272994352</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-11-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-12-05</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE272994352</schema:vatID>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002420N" ;
-    cim:IdentifiedObject.name "N Kobbelv 420 T1 Kabel" ;
+    cim:IdentifiedObject.name "N Kobbelv  420 T1 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-KOBBELV420T1K" ;
+        "NO-KOBBELV420T1" ;
     dcterms:identifier "urn:eic:50TL00000002420N" ;
-    skos:altLabel "NO-KOBBELV420T1K" ;
+    skos:altLabel "NO-KOBBELV420T1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Kobbelv 420 T1 Kabel" ;
+    skos:prefLabel "N Kobbelv  420 T1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

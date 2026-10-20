@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVALEN-12345-M",
     "@skos:prefLabel": "CASINO CIRSA VALENCIA, S.A.",
     "@skos:altLabel": "VALEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVALEN-12345-M",
     "@cim:IdentifiedObject.name": "CASINO CIRSA VALENCIA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA46114336",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA46114336",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

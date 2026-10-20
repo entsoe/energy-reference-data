@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XELANA-OSDNXXJ",
-    "@skos:prefLabel": "ELANA-ENERGETYKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:prefLabel": "BORYSZEW GREEN ENERGY&GAS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@skos:altLabel": "ELANA-ENERGETYKA",
     "@cim:IdentifiedObject.mRID": "19XELANA-OSDNXXJ",
-    "@cim:IdentifiedObject.name": "ELANA-ENERGETYKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@cim:IdentifiedObject.name": "BORYSZEW GREEN ENERGY&GAS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
         "ELANA-ENERGETYKA",
         "PL8792104155",
-        "Metered Data Responsible",
+        "Energy Supplier",
         "Meter Administrator",
-        "Grid Access Provider",
         "System Operator",
-        "Energy Supplier"
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-12-04",
+    "@cim:DateAndOrTime.date": "2025-03-24",
     "@schema:vatID": "PL8792104155",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

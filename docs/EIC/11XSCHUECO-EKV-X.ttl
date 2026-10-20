@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XSCHUECO-EKV-X" ;
     cim:IdentifiedObject.name "Quadra Energy GmbH" ;
-    cim:Names.name "DE279414078",
-        "SCHUECO-EKV",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE279414078",
+        "SCHUECO-EKV" ;
     dcterms:identifier "urn:eic:11XSCHUECO-EKV-X" ;
     schema1:vatID "DE279414078" ;
     skos:altLabel "SCHUECO-EKV" ;

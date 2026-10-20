@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-01-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000636X" ;
-    cim:IdentifiedObject.name "HAUGEN  G107 HYDRO" ;
+    cim:IdentifiedObject.name "SKINVIK G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HAUGEN__G107_" ;
+        "NO-SKINVIKG1" ;
     dcterms:identifier "urn:eic:50WG00000000636X" ;
-    skos:altLabel "NO-HAUGEN__G107_" ;
+    skos:altLabel "NO-SKINVIKG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HAUGEN  G107 HYDRO" ;
+    skos:prefLabel "SKINVIK G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

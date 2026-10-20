@@ -4,19 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XFWG-STROM---R</dcterms:identifier>
-    <skos:prefLabel>Fernw&#228;rme Greifswald GmbH</skos:prefLabel>
+    <skos:prefLabel>Stadtwerke Greifswald Gesellschaft mit beschr&#228;nkter Haftung</skos:prefLabel>
     <skos:altLabel>FW_GREIFSWALD</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XFWG-STROM---R</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Fernw&#228;rme Greifswald GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Stadtwerke Greifswald Gesellschaft mit beschr&#228;nkter Haftung</cim:IdentifiedObject.name>
     <cim:Names.name>FW_GREIFSWALD</cim:Names.name>
-    <cim:Names.name>8412002211</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE137582842</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-09-30</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-10</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>8412002211</schema:vatID>
+    <schema:vatID>DE137582842</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

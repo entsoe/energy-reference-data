@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XKBG-HOMBERG-A",
-    "@skos:prefLabel": "KBG Homberg eG-Energiehandel",
+    "@skos:prefLabel": "KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G.",
     "@skos:altLabel": "KBG-HOMBERG_HAND",
     "@cim:IdentifiedObject.mRID": "11XKBG-HOMBERG-A",
-    "@cim:IdentifiedObject.name": "KBG Homberg eG-Energiehandel",
+    "@cim:IdentifiedObject.name": "KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G.",
     "@cim:Names.name": [
         "KBG-HOMBERG_HAND",
         "DE113058332",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-16",
+    "@cim:DateAndOrTime.date": "2023-12-15",
     "@schema:vatID": "DE113058332",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005673N" ;
     cim:IdentifiedObject.name "S Skjerka  T1 Transformator" ;
-    cim:Names.name "NO-SKJERKA_T1",
+    cim:Names.name "NO-SKJERKAT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005673N" ;
-    skos:altLabel "NO-SKJERKA_T1" ;
+    skos:altLabel "NO-SKJERKAT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Skjerka  T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

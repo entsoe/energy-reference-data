@@ -4,15 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:26X148743310030Q</dcterms:identifier>
-    <skos:prefLabel>SINERGIA SRL</skos:prefLabel>
-    <skos:altLabel>IT-SINERGIASRLSR</skos:altLabel>
+    <skos:prefLabel>MOOREN</skos:prefLabel>
+    <skos:altLabel>IT-MOORENSRL</skos:altLabel>
     <cim:IdentifiedObject.mRID>26X148743310030Q</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SINERGIA SRL</cim:IdentifiedObject.name>
-    <cim:Names.name>IT-SINERGIASRLSR</cim:Names.name>
+    <cim:IdentifiedObject.name>MOOREN</cim:IdentifiedObject.name>
+    <cim:Names.name>IT-MOORENSRL</cim:Names.name>
+    <cim:Names.name>A0015164A.IT</cim:Names.name>
     <cim:Names.name>IT14874331003</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-03-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-14</cim:DateAndOrTime.date>
     <cim:Names.name>Market Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>IT14874331003</schema:vatID>

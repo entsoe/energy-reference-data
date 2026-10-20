@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001812B" ;
-    cim:IdentifiedObject.name "S 66 Hålandsfossen-Rivedal" ;
+    cim:IdentifiedObject.name "N 22 Ringstad-Rivedal" ;
     cim:Names.name "Internal Line",
-        "NO-HALANDSFRIVED" ;
+        "NO-22RINGSTADRIV" ;
     dcterms:identifier "urn:eic:50TL00000001812B" ;
-    skos:altLabel "NO-HALANDSFRIVED" ;
+    skos:altLabel "NO-22RINGSTADRIV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Hålandsfossen-Rivedal" ;
+    skos:prefLabel "N 22 Ringstad-Rivedal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

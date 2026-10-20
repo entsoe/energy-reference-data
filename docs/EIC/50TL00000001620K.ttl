@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001620K" ;
     cim:IdentifiedObject.name "S 66 Åmdal-Lio_trafo" ;
     cim:Names.name "Internal Line",
-        "NO-AMDALLIOTR" ;
+        "NO-66AMDALLIO_TR" ;
     dcterms:identifier "urn:eic:50TL00000001620K" ;
-    skos:altLabel "NO-AMDALLIOTR" ;
+    skos:altLabel "NO-66AMDALLIO_TR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Åmdal-Lio_trafo" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

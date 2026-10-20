@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL00000002058E</dcterms:identifier>
     <skos:prefLabel>S 66 R&#229;n&#229;sfoss 1-R&#229;n&#229;sfoss 2</skos:prefLabel>
-    <skos:altLabel>NO-RANASFOSS1RAN</skos:altLabel>
+    <skos:altLabel>NO-66RANASFOSS_1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL00000002058E</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>S 66 R&#229;n&#229;sfoss 1-R&#229;n&#229;sfoss 2</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-RANASFOSS1RAN</cim:Names.name>
+    <cim:Names.name>NO-66RANASFOSS_1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

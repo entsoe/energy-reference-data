@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-06-23" ;
+    cim:DateAndOrTime.date "2024-12-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "23X--160624-A--2" ;
     cim:IdentifiedObject.name "Azerbaijan Gas Supply Company Limited" ;
-    cim:Names.name "AGSC_LTD",
+    cim:Names.name "8223214537327206",
+        "AGSC_LTD",
         "Network User" ;
     dcterms:identifier "urn:eic:23X--160624-A--2" ;
+    schema1:vatID "8223214537327206" ;
     skos:altLabel "AGSC_LTD" ;
     skos:definition "Network User"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

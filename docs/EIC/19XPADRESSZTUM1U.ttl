@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-27" ;
+    cim:DateAndOrTime.date "2026-10-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XPADRESSZTUM1U" ;
-    cim:IdentifiedObject.name "PAD RES SZTUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "SZTUM ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     cim:Names.name "Grid Access Provider",
         "Meter Administrator",
         "Metered Data Responsible",
-        "PAD_RES_SZTUM",
         "PL5771990813",
+        "SZTUM_ENERGIA",
         "System Operator" ;
     dcterms:identifier "urn:eic:19XPADRESSZTUM1U" ;
     schema1:vatID "PL5771990813" ;
-    skos:altLabel "PAD_RES_SZTUM" ;
+    skos:altLabel "SZTUM_ENERGIA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PAD RES SZTUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "SZTUM ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

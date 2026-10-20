@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006345Z" ;
     cim:IdentifiedObject.name "S Åna-Sira T3 Transformator" ;
-    cim:Names.name "NO-ANA-SIRAT3",
+    cim:Names.name "NO-ANA_SIRAT3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006345Z" ;
-    skos:altLabel "NO-ANA-SIRAT3" ;
+    skos:altLabel "NO-ANA_SIRAT3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Åna-Sira T3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

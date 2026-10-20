@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-04" ;
+    cim:DateAndOrTime.date "2025-03-24" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XELANA-OSDNXXJ" ;
-    cim:IdentifiedObject.name "ELANA-ENERGETYKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:IdentifiedObject.name "BORYSZEW GREEN ENERGY&GAS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     cim:Names.name "ELANA-ENERGETYKA",
         "Energy Supplier",
         "Grid Access Provider",
@@ -22,6 +22,6 @@
     schema1:vatID "PL8792104155" ;
     skos:altLabel "ELANA-ENERGETYKA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ELANA-ENERGETYKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:prefLabel "BORYSZEW GREEN ENERGY&GAS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

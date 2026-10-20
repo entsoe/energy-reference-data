@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000006121K",
-    "@skos:prefLabel": "M Ryste    T1 Transformator",
-    "@skos:altLabel": "NO-RYSTE___T1",
+    "@skos:prefLabel": "N Ryste    T1 Transformator",
+    "@skos:altLabel": "NO-RYSTET1",
     "@cim:IdentifiedObject.mRID": "50TT00000006121K",
-    "@cim:IdentifiedObject.name": "M Ryste    T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Ryste    T1 Transformator",
     "@cim:Names.name": [
-        "NO-RYSTE___T1",
+        "NO-RYSTET1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

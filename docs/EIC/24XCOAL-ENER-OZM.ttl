@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Electricity Trader (Sk: Obchodnă­Â­K S Elektrickou Energiou)" ;
     cim:IdentifiedObject.mRID "24XCOAL-ENER-OZM" ;
     cim:IdentifiedObject.name "Coal Energy, a.s. organizacna zlozka" ;
     cim:Names.name "COAL-ENER-OZ",
         "SK2021900023",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XCOAL-ENER-OZM" ;
     schema1:vatID "SK2021900023" ;
     skos:altLabel "COAL-ENER-OZ" ;

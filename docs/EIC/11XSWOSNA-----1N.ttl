@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XSWOSNA-----1N" ;
     cim:IdentifiedObject.name "Stadtwerke Osnabrück AG" ;
-    cim:Names.name "Balance Group",
-        "DE117644618",
-        "SWOSNA-----1" ;
+    cim:Names.name "DE117644618",
+        "SWOSNA-----1",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWOSNA-----1N" ;
     schema1:vatID "DE117644618" ;
     skos:altLabel "SWOSNA-----1" ;

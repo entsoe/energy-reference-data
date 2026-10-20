@@ -4,19 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XRE-SUBBKBONN7</dcterms:identifier>
-    <skos:prefLabel>RheinEnergie - Bonn</skos:prefLabel>
+    <skos:prefLabel>RheinEnergie AG</skos:prefLabel>
     <skos:altLabel>RHEINENERGIE-BN</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XRE-SUBBKBONN7</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>RheinEnergie - Bonn</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>RheinEnergie AG</cim:IdentifiedObject.name>
     <cim:Names.name>RHEINENERGIE-BN</cim:Names.name>
-    <cim:Names.name>DE813798535</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
+    <cim:Names.name>DE215409591</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2006-01-20</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE813798535</schema:vatID>
+    <schema:vatID>DE215409591</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

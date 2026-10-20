@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X110000000290U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X110000000290U" ;
+    cim:IdentifiedObject.name "PV SUN-G Spółka z ograniczoną odpowiedzialnością" ;
+    cim:Names.name "PL7010811028",
+        "PV_SUN-G",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19X110000000290U" ;
+    schema1:vatID "PL7010811028" ;
+    skos:altLabel "PV_SUN-G" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PV SUN-G Spółka z ograniczoną odpowiedzialnością" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

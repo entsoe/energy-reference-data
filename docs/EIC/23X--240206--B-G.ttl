@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240206--B-G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "23X--240206--B-G" ;
+    cim:IdentifiedObject.name "Biolac-MTS GmbH" ;
+    cim:Names.name "BIOLAC_MTS",
+        "Consumer",
+        "DE349821865" ;
+    dcterms:identifier "urn:eic:23X--240206--B-G" ;
+    schema1:vatID "DE349821865" ;
+    skos:altLabel "BIOLAC_MTS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Biolac-MTS GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

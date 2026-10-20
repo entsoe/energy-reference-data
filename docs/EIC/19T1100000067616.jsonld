@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067616",
-    "@skos:prefLabel": "Koksochemia-Łośnice",
+    "@skos:prefLabel": "220kV Koksochemia-Losnice",
     "@skos:altLabel": "3403",
     "@cim:IdentifiedObject.mRID": "19T1100000067616",
-    "@cim:IdentifiedObject.name": "Koksochemia-Łośnice",
+    "@cim:IdentifiedObject.name": "220kV Koksochemia-Losnice",
     "@cim:Names.name": [
         "3403",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

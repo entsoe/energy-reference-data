@@ -7,19 +7,18 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-01-19" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "25X-MFGKAUSTRI-L" ;
-    cim:IdentifiedObject.name "MFGK Austria GmbH" ;
+    cim:IdentifiedObject.name "MVM ONEnergy Austria GmbH" ;
     cim:Names.name "ATU69204327",
+        "Energy Supplier",
         "MFGKAUSTRIA",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:25X-MFGKAUSTRI-L" ;
     schema1:vatID "ATU69204327" ;
     skos:altLabel "MFGKAUSTRIA" ;
-    skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MFGK Austria GmbH" ;
+    skos:prefLabel "MVM ONEnergy Austria GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

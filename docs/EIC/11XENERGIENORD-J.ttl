@@ -13,8 +13,8 @@
     cim:IdentifiedObject.mRID "11XENERGIENORD-J" ;
     cim:IdentifiedObject.name "EAN Energieagentur Nord GmbH" ;
     cim:Names.name "5486103827",
-        "Balance Group",
-        "ENERGIE-NORD" ;
+        "ENERGIE-NORD",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENERGIENORD-J" ;
     schema1:vatID "5486103827" ;
     skos:altLabel "ENERGIE-NORD" ;

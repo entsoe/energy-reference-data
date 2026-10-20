@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XROMGA-12345-T",
     "@skos:prefLabel": "ROMGAR, S.L.",
     "@skos:altLabel": "ROMGA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XROMGA-12345-T",
     "@cim:IdentifiedObject.name": "ROMGAR, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB11020161",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB11020161",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

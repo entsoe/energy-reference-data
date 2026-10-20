@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002692R" ;
-    cim:IdentifiedObject.name "M 22 Mørre-Åfjord" ;
+    cim:IdentifiedObject.name "N 22 Mørre-Åfjord" ;
     cim:Names.name "Internal Line",
-        "NO-MORREAFJORD" ;
+        "NO-22MORREAFJORD" ;
     dcterms:identifier "urn:eic:50TL00000002692R" ;
-    skos:altLabel "NO-MORREAFJORD" ;
+    skos:altLabel "NO-22MORREAFJORD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Mørre-Åfjord" ;
+    skos:prefLabel "N 22 Mørre-Åfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

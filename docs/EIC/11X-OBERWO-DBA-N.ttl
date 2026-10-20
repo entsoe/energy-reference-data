@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-OBERWO-DBA-N" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Oberwössen eG" ;
-    cim:Names.name "Balance Group",
-        "DE131565688",
-        "OBERWO-DBA" ;
+    cim:Names.name "DE131565688",
+        "OBERWO-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-OBERWO-DBA-N" ;
     schema1:vatID "DE131565688" ;
     skos:altLabel "OBERWO-DBA" ;

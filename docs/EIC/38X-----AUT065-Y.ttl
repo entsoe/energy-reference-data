@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-02-09" ;
+    cim:DateAndOrTime.date "2025-04-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Producer" ;
     cim:IdentifiedObject.mRID "38X-----AUT065-Y" ;
     cim:IdentifiedObject.name "Enefit Green AS" ;
-    cim:Names.name "EE100366327",
+    cim:Names.name "EE101007892",
         "EE_ENEFIT_TE",
         "Producer" ;
     dcterms:identifier "urn:eic:38X-----AUT065-Y" ;
-    schema1:vatID "EE100366327" ;
+    schema1:vatID "EE101007892" ;
     skos:altLabel "EE_ENEFIT_TE" ;
     skos:definition "Producer"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

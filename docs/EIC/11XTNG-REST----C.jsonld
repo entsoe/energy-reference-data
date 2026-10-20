@@ -13,17 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:11XTNG-REST----C",
     "@skos:prefLabel": "TransnetBW GmbH",
-    "@skos:altLabel": "TNG-REST-EEG",
+    "@skos:altLabel": "TNG_N_EEG-REST",
     "@cim:IdentifiedObject.mRID": "11XTNG-REST----C",
     "@cim:IdentifiedObject.name": "TransnetBW GmbH",
     "@cim:Names.name": [
-        "TNG-REST-EEG",
+        "TNG_N_EEG-REST",
         "DE191008872",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-20",
+    "@cim:DateAndOrTime.date": "2024-12-02",
     "@schema:vatID": "DE191008872",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22XELIA-ID-MKT-P",
-    "@skos:prefLabel": "ELIA INTRADAY MARKET",
-    "@skos:altLabel": "BE_ELIA_ID_MKT",
+    "@skos:prefLabel": "ELIA MARKET",
+    "@skos:altLabel": "BE_ELIA_MKT",
     "@cim:IdentifiedObject.mRID": "22XELIA-ID-MKT-P",
-    "@cim:IdentifiedObject.name": "ELIA INTRADAY MARKET",
+    "@cim:IdentifiedObject.name": "ELIA MARKET",
     "@cim:Names.name": [
-        "BE_ELIA_ID_MKT",
+        "BE_ELIA_MKT",
         "BE0731852231",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-09",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "BE0731852231",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

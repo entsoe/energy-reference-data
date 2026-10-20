@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Consumer - Steel Making (Sk: Vyroba Ocele)" ;
     cim:IdentifiedObject.mRID "24XUSK---------Y" ;
     cim:IdentifiedObject.name "U. S. Steel Kosice, s.r.o." ;
-    cim:Names.name "SK2020052837",
-        "USSKE",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Consumer",
+        "Producer",
+        "SK2020052837",
+        "Trade Responsible Party",
+        "USSKE" ;
     dcterms:identifier "urn:eic:24XUSK---------Y" ;
     schema1:vatID "SK2020052837" ;
     skos:altLabel "USSKE" ;

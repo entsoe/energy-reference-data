@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2007-02-06" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XBTT-WO------U" ;
     cim:IdentifiedObject.name "BTT Bauteam Tretzel GmbH" ;
     cim:Names.name "BTT-WO",
-        "Balance Group",
+        "Balance Responsible Party",
         "DE133698212" ;
     dcterms:identifier "urn:eic:11XBTT-WO------U" ;
     schema1:vatID "DE133698212" ;
     skos:altLabel "BTT-WO" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "BTT Bauteam Tretzel GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

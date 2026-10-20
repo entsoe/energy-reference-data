@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000002149C",
     "@skos:prefLabel": "S Gilja    22  L1 Forbruk",
-    "@skos:altLabel": "NO-GILJA22",
+    "@skos:altLabel": "NO-GILJA22L1",
     "@cim:IdentifiedObject.mRID": "50WC00000002149C",
     "@cim:IdentifiedObject.name": "S Gilja    22  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-GILJA22",
+        "NO-GILJA22L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

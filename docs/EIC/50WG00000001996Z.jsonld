@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001996Z",
-    "@skos:prefLabel": "USTA    G105 HYDRO",
-    "@skos:altLabel": "NO-USTA____G105_",
+    "@skos:prefLabel": "ORTEREN G105 HYDRO",
+    "@skos:altLabel": "NO-ORTERENG105",
     "@cim:IdentifiedObject.mRID": "50WG00000001996Z",
-    "@cim:IdentifiedObject.name": "USTA    G105 HYDRO",
+    "@cim:IdentifiedObject.name": "ORTEREN G105 HYDRO",
     "@cim:Names.name": [
-        "NO-USTA____G105_",
+        "NO-ORTERENG105",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

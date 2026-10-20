@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XEVA---------7</dcterms:identifier>
     <skos:prefLabel>Elektrizit&#228;tsgenossenschaft Vogling &amp; Angrenzer eG</skos:prefLabel>
     <skos:altLabel>EVA</skos:altLabel>
-    <skos:definition xml:lang="en">balance group</skos:definition>
     <cim:IdentifiedObject.mRID>11XEVA---------7</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Elektrizit&#228;tsgenossenschaft Vogling &amp; Angrenzer eG</cim:IdentifiedObject.name>
     <cim:Names.name>EVA</cim:Names.name>
     <cim:Names.name>DE131565637</cim:Names.name>
-    <cim:IdentifiedObject.description>balance group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-09-09</cim:DateAndOrTime.date>
-    <cim:Names.name>balance group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-27</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE131565637</schema:vatID>
   </skos:Concept>

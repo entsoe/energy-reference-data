@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001790C",
     "@skos:prefLabel": "Hellandsfoss MK",
-    "@skos:altLabel": "NO-HELLANDSFOSS_",
+    "@skos:altLabel": "NO-HELLANDSFOSSM",
     "@cim:IdentifiedObject.mRID": "50WP00000001790C",
     "@cim:IdentifiedObject.name": "Hellandsfoss MK",
     "@cim:Names.name": [
-        "NO-HELLANDSFOSS_",
+        "NO-HELLANDSFOSSM",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

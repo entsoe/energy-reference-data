@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/45X000000000198I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:45X000000000198I",
+    "@skos:prefLabel": "Grid Commodities ApS",
+    "@skos:altLabel": "GRID",
+    "@cim:IdentifiedObject.mRID": "45X000000000198I",
+    "@cim:IdentifiedObject.name": "Grid Commodities ApS",
+    "@cim:Names.name": [
+        "GRID",
+        "44737949",
+        "Balance Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-04-05",
+    "@schema:vatID": "44737949",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

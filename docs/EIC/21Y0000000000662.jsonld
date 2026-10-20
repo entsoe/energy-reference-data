@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000662",
     "@skos:prefLabel": "Final Consumers (PL)",
     "@skos:altLabel": "END_USERS_PL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregated"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000662",
     "@cim:IdentifiedObject.name": "Final Consumers (PL)",
     "@cim:Names.name": [
         "END_USERS_PL",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregated",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

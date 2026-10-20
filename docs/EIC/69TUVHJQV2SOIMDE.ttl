@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69TUVHJQV2SOIMDE> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Transformer" ;
+    cim:IdentifiedObject.mRID "69TUVHJQV2SOIMDE" ;
+    cim:IdentifiedObject.name "DHEKELIA 132ST.TRAFO1" ;
+    cim:Names.name "DHEKELIA_ST1",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:69TUVHJQV2SOIMDE" ;
+    skos:altLabel "DHEKELIA_ST1" ;
+    skos:definition "Transformer"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "DHEKELIA 132ST.TRAFO1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

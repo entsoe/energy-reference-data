@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000010F",
-    "@skos:prefLabel": "S 110 Bjelland-T_Bjelland",
-    "@skos:altLabel": "NO-BJELLANDTBJEL",
+    "@skos:prefLabel": "S 110 T_Håverstad-Bjelland",
+    "@skos:altLabel": "NO-110T_HAVERSBJ",
     "@cim:IdentifiedObject.mRID": "50TL00000000010F",
-    "@cim:IdentifiedObject.name": "S 110 Bjelland-T_Bjelland",
+    "@cim:IdentifiedObject.name": "S 110 T_Håverstad-Bjelland",
     "@cim:Names.name": [
-        "NO-BJELLANDTBJEL",
+        "NO-110T_HAVERSBJ",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-16",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XENTEGASTEAG-N</dcterms:identifier>
-    <skos:prefLabel>ENTEGA STEAG W&#228;rme GmbH</skos:prefLabel>
+    <skos:prefLabel>Entega Iqony W&#228;rme GmbH</skos:prefLabel>
     <skos:altLabel>ENTEGA-STEAG</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XENTEGASTEAG-N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENTEGA STEAG W&#228;rme GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Entega Iqony W&#228;rme GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>ENTEGA-STEAG</cim:Names.name>
     <cim:Names.name>DE301519190</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-03-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-07-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE301519190</schema:vatID>

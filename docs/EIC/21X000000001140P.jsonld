@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001140P",
-    "@skos:prefLabel": "KGE mbH & Co. KG",
-    "@skos:altLabel": "KGESSO",
+    "@skos:prefLabel": "MET Epe Speicher GmbH & Co. KG",
+    "@skos:altLabel": "MET_EPE_SPEICHER",
     "@skos:definition": {
         "@language": "en",
         "@value": "Storage System Operator"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001140P",
-    "@cim:IdentifiedObject.name": "KGE mbH & Co. KG",
+    "@cim:IdentifiedObject.name": "MET Epe Speicher GmbH & Co. KG",
     "@cim:Names.name": [
-        "KGESSO",
+        "MET_EPE_SPEICHER",
         "DE257484432",
         "Storage System Operator"
     ],
     "@cim:IdentifiedObject.description": "Storage System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-24",
+    "@cim:DateAndOrTime.date": "2025-09-03",
     "@schema:vatID": "DE257484432",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000006675" ;
     cim:IdentifiedObject.name "S 132 Solbergfoss-F.K.F." ;
     cim:Names.name "Internal Line",
-        "NO-SOLBERGFOSSF_" ;
+        "NO-132SOLBERGFOS" ;
     dcterms:identifier "urn:eic:50TLI00000006675" ;
-    skos:altLabel "NO-SOLBERGFOSSF_" ;
+    skos:altLabel "NO-132SOLBERGFOS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Solbergfoss-F.K.F." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

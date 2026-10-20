@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000018827",
     "@skos:prefLabel": "Eidsfoss-Skagerak",
-    "@skos:altLabel": "NO-EIDSFOSS-SKAG",
+    "@skos:altLabel": "NO-EIDSFOSS_SKAG",
     "@cim:IdentifiedObject.mRID": "50WP000000018827",
     "@cim:IdentifiedObject.name": "Eidsfoss-Skagerak",
     "@cim:Names.name": [
-        "NO-EIDSFOSS-SKAG",
+        "NO-EIDSFOSS_SKAG",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

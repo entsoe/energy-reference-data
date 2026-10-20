@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000011098",
     "@skos:prefLabel": "Kvangreelva",
-    "@skos:altLabel": "NO-KVANGREELVA_P",
+    "@skos:altLabel": "NO-KVANGREELVA",
     "@cim:IdentifiedObject.mRID": "50WP000000011098",
     "@cim:IdentifiedObject.name": "Kvangreelva",
     "@cim:Names.name": [
-        "NO-KVANGREELVA_P",
+        "NO-KVANGREELVA",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

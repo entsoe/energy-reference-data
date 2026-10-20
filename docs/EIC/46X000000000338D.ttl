@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000338D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000338D" ;
+    cim:IdentifiedObject.name "Växjö Energi Elnät AB" ;
+    cim:Names.name "Grid Operator",
+        "SE556526851201",
+        "VAXSJO_ELNAT" ;
+    dcterms:identifier "urn:eic:46X000000000338D" ;
+    schema1:vatID "SE556526851201" ;
+    skos:altLabel "VAXSJO_ELNAT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Växjö Energi Elnät AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

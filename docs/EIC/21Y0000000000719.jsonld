@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000719",
     "@skos:prefLabel": "Aggregated total exits North Zone",
     "@skos:altLabel": "POOL_N",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregated Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000719",
     "@cim:IdentifiedObject.name": "Aggregated total exits North Zone",
     "@cim:Names.name": [
         "POOL_N",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregated Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-07-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

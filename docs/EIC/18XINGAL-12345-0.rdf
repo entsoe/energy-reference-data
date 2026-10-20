@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XINGAL-12345-0</dcterms:identifier>
     <skos:prefLabel>INGALZA S.A</skos:prefLabel>
     <skos:altLabel>INGAL</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XINGAL-12345-0</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>INGALZA S.A</cim:IdentifiedObject.name>
     <cim:Names.name>INGAL</cim:Names.name>
     <cim:Names.name>ESA50044072</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-02-10</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA50044072</schema:vatID>

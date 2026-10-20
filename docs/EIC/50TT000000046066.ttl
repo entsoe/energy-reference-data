@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000046066" ;
-    cim:IdentifiedObject.name "M Bø Rauma T1 Transformator" ;
+    cim:IdentifiedObject.name "N Bø Rauma T1 Transformator" ;
     cim:Names.name "NO-BO_RAUMAT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000046066" ;
     skos:altLabel "NO-BO_RAUMAT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Bø Rauma T1 Transformator" ;
+    skos:prefLabel "N Bø Rauma T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

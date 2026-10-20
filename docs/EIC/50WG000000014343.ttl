@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000014343" ;
     cim:IdentifiedObject.name "SAURDAL G130 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SAURDAL_G130_" ;
+        "NO-SAURDALG130" ;
     dcterms:identifier "urn:eic:50WG000000014343" ;
-    skos:altLabel "NO-SAURDAL_G130_" ;
+    skos:altLabel "NO-SAURDALG130" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SAURDAL G130 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

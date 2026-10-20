@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-18" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XSWMDSWPOOLC-N" ;
     cim:IdentifiedObject.name "Städtische Werke Magdeburg GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE139235261",
-        "SWMDSWPOOLC" ;
+    cim:Names.name "DE139235261",
+        "SWMDSWPOOLC",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSWMDSWPOOLC-N" ;
     schema1:vatID "DE139235261" ;
     skos:altLabel "SWMDSWPOOLC" ;

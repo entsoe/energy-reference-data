@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001332B",
-    "@skos:prefLabel": "RENDALENG101 HYDRO",
-    "@skos:altLabel": "NO-RENDALENG101_",
+    "@skos:prefLabel": "SOKKUNDAG101 HYDRO",
+    "@skos:altLabel": "NO-SOKKUNDAG101",
     "@cim:IdentifiedObject.mRID": "50WG00000001332B",
-    "@cim:IdentifiedObject.name": "RENDALENG101 HYDRO",
+    "@cim:IdentifiedObject.name": "SOKKUNDAG101 HYDRO",
     "@cim:Names.name": [
-        "NO-RENDALENG101_",
+        "NO-SOKKUNDAG101",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

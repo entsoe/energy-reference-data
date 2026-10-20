@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/39XPETROBOTICHU5">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:39XPETROBOTICHU5</dcterms:identifier>
+    <skos:prefLabel>PETROBOTIC KFT</skos:prefLabel>
+    <skos:altLabel>PETROBOTICKFT</skos:altLabel>
+    <cim:IdentifiedObject.mRID>39XPETROBOTICHU5</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>PETROBOTIC KFT</cim:IdentifiedObject.name>
+    <cim:Names.name>PETROBOTICKFT</cim:Names.name>
+    <cim:Names.name>HU32557491</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-07-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>HU32557491</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

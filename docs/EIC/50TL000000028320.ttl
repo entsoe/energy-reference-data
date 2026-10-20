@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000028320" ;
-    cim:IdentifiedObject.name "M 66 Klæbu-Gimse" ;
+    cim:IdentifiedObject.name "N 66 Klæbu-Gimse" ;
     cim:Names.name "Internal Line",
-        "NO-KLABUGIMSE" ;
+        "NO-66KLABUGIMSE" ;
     dcterms:identifier "urn:eic:50TL000000028320" ;
-    skos:altLabel "NO-KLABUGIMSE" ;
+    skos:altLabel "NO-66KLABUGIMSE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Klæbu-Gimse" ;
+    skos:prefLabel "N 66 Klæbu-Gimse" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

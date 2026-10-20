@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:56X930000115790A",
-    "@skos:prefLabel": "Limited Lability Company OPERATOR ENERHII",
+    "@skos:prefLabel": "OPERATOR ENERHII Limited Lability Company ",
     "@skos:altLabel": "OPERATOR_ENERHII",
     "@cim:IdentifiedObject.mRID": "56X930000115790A",
-    "@cim:IdentifiedObject.name": "Limited Lability Company OPERATOR ENERHII",
+    "@cim:IdentifiedObject.name": "OPERATOR ENERHII Limited Lability Company ",
     "@cim:Names.name": [
         "OPERATOR_ENERHII",
         "434187826552",
-        "Trade Responsible Party",
-        "Network User"
+        "Network User",
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-21",
+    "@cim:DateAndOrTime.date": "2024-10-02",
     "@schema:vatID": "434187826552",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43WRAZOTNE2SES1Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43WRAZOTNE2SES1Q" ;
+    cim:IdentifiedObject.name "RAŽOTNE 2 SES01" ;
+    cim:Names.name "Generation Unit",
+        "RAZOTNE2SES1Q" ;
+    dcterms:identifier "urn:eic:43WRAZOTNE2SES1Q" ;
+    skos:altLabel "RAZOTNE2SES1Q" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RAŽOTNE 2 SES01" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

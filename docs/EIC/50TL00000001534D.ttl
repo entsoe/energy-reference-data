@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001534D" ;
     cim:IdentifiedObject.name "S 50 Bærheim-Forus" ;
     cim:Names.name "Internal Line",
-        "NO-BARHEIMFORUS" ;
+        "NO-50BARHEIMFORU" ;
     dcterms:identifier "urn:eic:50TL00000001534D" ;
-    skos:altLabel "NO-BARHEIMFORUS" ;
+    skos:altLabel "NO-50BARHEIMFORU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 50 Bærheim-Forus" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

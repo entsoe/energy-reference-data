@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001466R",
-    "@skos:prefLabel": "SAVALEN G105 HYDRO",
-    "@skos:altLabel": "NO-SAVALEN_G105_",
+    "@skos:prefLabel": "RENDALENG105 HYDRO",
+    "@skos:altLabel": "NO-RENDALENG105",
     "@cim:IdentifiedObject.mRID": "50WG00000001466R",
-    "@cim:IdentifiedObject.name": "SAVALEN G105 HYDRO",
+    "@cim:IdentifiedObject.name": "RENDALENG105 HYDRO",
     "@cim:Names.name": [
-        "NO-SAVALEN_G105_",
+        "NO-RENDALENG105",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

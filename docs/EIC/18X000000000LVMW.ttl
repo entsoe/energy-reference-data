@@ -7,12 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-09-20" ;
+    cim:DateAndOrTime.date "2024-02-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000LVMW" ;
     cim:IdentifiedObject.name "LIGHTNING ENERGY S.L." ;
-    cim:Names.name "Capacity Trader",
-        "ES-XLE",
+    cim:Names.name "ES-XLE",
         "ESB16821449",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000LVMW" ;

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-06-09" ;
+    cim:DateAndOrTime.date "2026-08-24" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "OBBLIGHI ACER" ;
     cim:IdentifiedObject.mRID "26X017148301950S" ;
     cim:IdentifiedObject.name "GREEN ENERGY FOR STEEL S.R.L." ;
-    cim:Names.name "01714830195",
-        "Balance Responsible Party",
-        "IT_GREEN_ENERGY_" ;
+    cim:Names.name "Balance Responsible Party",
+        "IT-GREENENERGYFO",
+        "IT01714830195" ;
     dcterms:identifier "urn:eic:26X017148301950S" ;
-    schema1:vatID "01714830195" ;
-    skos:altLabel "IT_GREEN_ENERGY_" ;
-    skos:definition "OBBLIGHI ACER"@en ;
+    schema1:vatID "IT01714830195" ;
+    skos:altLabel "IT-GREENENERGYFO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GREEN ENERGY FOR STEEL S.R.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

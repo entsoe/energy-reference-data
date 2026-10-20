@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XZAMBROW2025-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XZAMBROW2025-P" ;
+    cim:IdentifiedObject.name "ZAMBROWSKIE CIEPŁOWNICTWO I WODOCIĄGI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "Energy Supplier",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL7231147416",
+        "Producer",
+        "ZCIW_SP_Z_OO" ;
+    dcterms:identifier "urn:eic:19XZAMBROW2025-P" ;
+    schema1:vatID "PL7231147416" ;
+    skos:altLabel "ZCIW_SP_Z_OO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ZAMBROWSKIE CIEPŁOWNICTWO I WODOCIĄGI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

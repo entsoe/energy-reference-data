@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALCOACORUNA14",
     "@skos:prefLabel": "ALCOA INESPAL CORUÑA SL",
     "@skos:altLabel": "ALCCO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALCOACORUNA14",
     "@cim:IdentifiedObject.name": "ALCOA INESPAL CORUÑA SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB86848058",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB86848058",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

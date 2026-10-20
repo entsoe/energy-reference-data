@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XP-POWER73---3" ;
     cim:IdentifiedObject.name "P - Power ENERGY AG" ;
-    cim:Names.name "DE280036677",
-        "P-POWER",
-        "balance responsible party" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE280036677",
+        "P-POWER" ;
     dcterms:identifier "urn:eic:11XP-POWER73---3" ;
     schema1:vatID "DE280036677" ;
     skos:altLabel "P-POWER" ;

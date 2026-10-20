@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006721I",
-    "@skos:prefLabel": "Połaniec-Chmielów",
+    "@skos:prefLabel": "220kV Chmielow-Polaniec 2",
     "@skos:altLabel": "2300",
     "@cim:IdentifiedObject.mRID": "19T110000006721I",
-    "@cim:IdentifiedObject.name": "Połaniec-Chmielów",
+    "@cim:IdentifiedObject.name": "220kV Chmielow-Polaniec 2",
     "@cim:Names.name": [
         "2300",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

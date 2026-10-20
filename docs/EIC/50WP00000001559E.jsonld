@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001559E",
-    "@skos:prefLabel": "Rognkleiv",
-    "@skos:altLabel": "NO-ROGNKLEIV_PL",
+    "@skos:prefLabel": "Rongkleiv",
+    "@skos:altLabel": "NO-RONGKLEIV",
     "@cim:IdentifiedObject.mRID": "50WP00000001559E",
-    "@cim:IdentifiedObject.name": "Rognkleiv",
+    "@cim:IdentifiedObject.name": "Rongkleiv",
     "@cim:Names.name": [
-        "NO-ROGNKLEIV_PL",
+        "NO-RONGKLEIV",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

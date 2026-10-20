@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XEUROENERGIE-Y" ;
     cim:IdentifiedObject.name "EUROENERGIE AG" ;
-    cim:Names.name "Balance Group",
-        "DE814667215",
-        "EUROENERGIE" ;
+    cim:Names.name "DE814667215",
+        "EUROENERGIE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XEUROENERGIE-Y" ;
     schema1:vatID "DE814667215" ;
     skos:altLabel "EUROENERGIE" ;

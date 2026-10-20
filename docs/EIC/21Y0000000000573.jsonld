@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y0000000000573",
     "@skos:prefLabel": "Industrial customers Italy",
     "@skos:altLabel": "IND_CONSUMERS_IT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Aggregate Exit Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Y0000000000573",
     "@cim:IdentifiedObject.name": "Industrial customers Italy",
     "@cim:Names.name": [
         "IND_CONSUMERS_IT",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Aggregate Exit Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

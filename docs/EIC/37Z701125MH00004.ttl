@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-01-01" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Virtual Trading Point" ;
     cim:IdentifiedObject.mRID "37Z701125MH00004" ;
     cim:IdentifiedObject.name "Marktgebiet HGas NetConnect" ;
     cim:Names.name "DVGW-MH00004",
-        "Valid EIC Function needed" ;
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:37Z701125MH00004" ;
     skos:altLabel "DVGW-MH00004" ;
     skos:definition "Virtual Trading Point"@en ;

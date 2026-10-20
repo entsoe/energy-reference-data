@@ -16,8 +16,8 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2014-08-26</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <cim:Names.name>Interconnection Trade Responsible</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>RO31532229</schema:vatID>
   </skos:Concept>

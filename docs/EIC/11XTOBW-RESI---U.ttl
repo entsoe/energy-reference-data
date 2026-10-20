@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-04-16" ;
-    cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
+    cim:DateAndOrTime.date "2024-09-18" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XTOBW-RESI---U" ;
     cim:IdentifiedObject.name "TenneT Offshore 1. Beteiligungsgesellschaft mbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE279322736",
         "TOBW-RESI" ;
     dcterms:identifier "urn:eic:11XTOBW-RESI---U" ;
     schema1:vatID "DE279322736" ;
     skos:altLabel "TOBW-RESI" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TenneT Offshore 1. Beteiligungsgesellschaft mbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

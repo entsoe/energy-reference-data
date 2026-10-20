@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-05" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Virtual Trading Point Finland" ;
     cim:IdentifiedObject.mRID "21Y000000000078W" ;
     cim:IdentifiedObject.name "Virtual Trading Point Finland" ;
-    cim:Names.name "VTP-FI",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Market Area",
+        "VTP-FI" ;
     dcterms:identifier "urn:eic:21Y000000000078W" ;
     skos:altLabel "VTP-FI" ;
-    skos:definition "Virtual Trading Point Finland"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Virtual Trading Point Finland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

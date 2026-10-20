@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250501--J-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registration number confirmed by registry of Lithuanian companies: 302850299
+VAT ID checked and confirmed through VIES website: LT100009583314
+""" ;
+    cim:IdentifiedObject.mRID "23X--250501--J-P" ;
+    cim:IdentifiedObject.name "UAB \"Jenergija\"" ;
+    cim:Names.name "JENERGIJA",
+        "LT100009583314",
+        "Producer" ;
+    dcterms:identifier "urn:eic:23X--250501--J-P" ;
+    schema1:vatID "LT100009583314" ;
+    skos:altLabel "JENERGIJA" ;
+    skos:definition """Company registration number confirmed by registry of Lithuanian companies: 302850299
+VAT ID checked and confirmed through VIES website: LT100009583314
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UAB \"Jenergija\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

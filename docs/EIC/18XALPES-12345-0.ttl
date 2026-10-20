@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-08-21" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XALPES-12345-0" ;
     cim:IdentifiedObject.name "MANDRILADORA ALPESA, S.L." ;
     cim:Names.name "ALPES",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XALPES-12345-0" ;
     schema1:vatID "ESB96011283" ;
     skos:altLabel "ALPES" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "MANDRILADORA ALPESA, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

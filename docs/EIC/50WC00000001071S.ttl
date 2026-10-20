@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001071S" ;
-    cim:IdentifiedObject.name "N Leirpoll 22  Forbruk" ;
+    cim:IdentifiedObject.name "N Leirpoll 22  VT Forbruk" ;
     cim:Names.name "Load",
-        "NO-LEIRPOLL22" ;
+        "NO-LEIRPOLL22VT" ;
     dcterms:identifier "urn:eic:50WC00000001071S" ;
-    skos:altLabel "NO-LEIRPOLL22" ;
+    skos:altLabel "NO-LEIRPOLL22VT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Leirpoll 22  Forbruk" ;
+    skos:prefLabel "N Leirpoll 22  VT Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006465A",
-    "@skos:prefLabel": "Grudziądz - Pelplin tor 1",
+    "@skos:prefLabel": "400kV Grudziadz-Pelplin 1",
     "@skos:altLabel": "N007",
     "@cim:IdentifiedObject.mRID": "19T110000006465A",
-    "@cim:IdentifiedObject.name": "Grudziądz - Pelplin tor 1",
+    "@cim:IdentifiedObject.name": "400kV Grudziadz-Pelplin 1",
     "@cim:Names.name": [
         "N007",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-09",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

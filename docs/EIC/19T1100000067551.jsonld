@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000067551",
-    "@skos:prefLabel": "Huta Częstochowa-Wrzosowa",
+    "@skos:prefLabel": "220kV Huta Czestochowa-Wrzosowa",
     "@skos:altLabel": "3103",
     "@cim:IdentifiedObject.mRID": "19T1100000067551",
-    "@cim:IdentifiedObject.name": "Huta Częstochowa-Wrzosowa",
+    "@cim:IdentifiedObject.name": "220kV Huta Czestochowa-Wrzosowa",
     "@cim:Names.name": [
         "3103",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

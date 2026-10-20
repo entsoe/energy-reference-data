@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/23X--260704-HP-2">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:23X--260704-HP-2</dcterms:identifier>
+    <skos:prefLabel>Heygaz &#928;&#949;&#957;&#964;&#940;&#955;&#959;&#966;&#959;&#962; &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</skos:prefLabel>
+    <skos:altLabel>HEYGAZPENTALOFOS</skos:altLabel>
+    <skos:definition xml:lang="en">VAT code confirmed through VIES: EL800382466 Company registration number confirmed through Certificate of Representation: 119324304000</skos:definition>
+    <cim:IdentifiedObject.mRID>23X--260704-HP-2</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Heygaz &#928;&#949;&#957;&#964;&#940;&#955;&#959;&#966;&#959;&#962; &#924;&#927;&#925;&#927;&#928;&#929;&#927;&#931;&#937;&#928;&#919; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</cim:IdentifiedObject.name>
+    <cim:Names.name>HEYGAZPENTALOFOS</cim:Names.name>
+    <cim:Names.name>EL800382466</cim:Names.name>
+    <cim:IdentifiedObject.description>VAT code confirmed through VIES: EL800382466 Company registration number confirmed through Certificate of Representation: 119324304000</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-09-02</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>EL800382466</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

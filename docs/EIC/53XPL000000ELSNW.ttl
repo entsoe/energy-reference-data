@@ -7,20 +7,33 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-11-05" ;
+    cim:DateAndOrTime.date "2026-03-24" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumer, Distribution System Operator, Network User, Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "53XPL000000ELSNW" ;
-    cim:IdentifiedObject.name "ELSEN S.A." ;
-    cim:Names.name "Consumer",
+    cim:IdentifiedObject.name "ELSEN S.A. w upadłości" ;
+    cim:Names.name "A00039664.PL",
+        "Consumer",
+        "Consumption Responsible Party",
+        "Distribution System Operator",
         "ELSEN",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Grid Operator",
+        "Information Provider",
+        "Measurement Service Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "Metering Point Administrator",
+        "Network User",
         "PL9491729613",
+        "Producer",
+        "Production Responsible Party",
+        "System Operator",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:53XPL000000ELSNW" ;
     schema1:vatID "PL9491729613" ;
     skos:altLabel "ELSEN" ;
-    skos:definition "Consumer, Distribution System Operator, Network User, Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ELSEN S.A." ;
+    skos:prefLabel "ELSEN S.A. w upadłości" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

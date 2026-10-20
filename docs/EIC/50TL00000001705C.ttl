@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001705C" ;
     cim:IdentifiedObject.name "N 66 Charlottenlund-Sentrum" ;
     cim:Names.name "Internal Line",
-        "NO-HARLOTTENLUND" ;
+        "NO-66CHARLOTTENL" ;
     dcterms:identifier "urn:eic:50TL00000001705C" ;
-    skos:altLabel "NO-HARLOTTENLUND" ;
+    skos:altLabel "NO-66CHARLOTTENL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 66 Charlottenlund-Sentrum" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

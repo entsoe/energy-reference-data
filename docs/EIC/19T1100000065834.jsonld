@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000065834",
-    "@skos:prefLabel": "Olsztyn I-A2",
+    "@skos:prefLabel": "220/110kV Olsztyn AT2",
     "@skos:altLabel": "OLS-A2",
     "@cim:IdentifiedObject.mRID": "19T1100000065834",
-    "@cim:IdentifiedObject.name": "Olsztyn I-A2",
+    "@cim:IdentifiedObject.name": "220/110kV Olsztyn AT2",
     "@cim:Names.name": [
         "OLS-A2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

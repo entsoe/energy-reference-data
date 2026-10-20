@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>30XROHIDRCON-VL8</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SC HIDROCONSTRUCTIA SA -suc. Olt superior</cim:IdentifiedObject.name>
     <cim:Names.name>HICOVL</cim:Names.name>
+    <cim:Names.name>RO1556820</cim:Names.name>
     <cim:IdentifiedObject.description>Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RO1556820</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

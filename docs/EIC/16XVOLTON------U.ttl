@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/16XVOLTON------U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "16XVOLTON------U" ;
+    cim:IdentifiedObject.name "VOLTON – ENERGIA E SOLUÇÕES LDA" ;
+    cim:Names.name "PT517639920",
+        "Trade Responsible Party",
+        "VOLTONES" ;
+    dcterms:identifier "urn:eic:16XVOLTON------U" ;
+    schema1:vatID "PT517639920" ;
+    skos:altLabel "VOLTONES" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VOLTON – ENERGIA E SOLUÇÕES LDA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

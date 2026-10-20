@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-02" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "The Point At Which Gas Can Flow Out Of The Gni (Uk)" ;
     cim:IdentifiedObject.mRID "21Z0000000003956" ;
-    cim:IdentifiedObject.name "Lisburn Exit Point" ;
+    cim:IdentifiedObject.name "Lisburn Offtake Point" ;
     cim:Names.name "LISBURN-NI",
-        "Valid EIC Function needed" ;
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z0000000003956" ;
     skos:altLabel "LISBURN-NI" ;
-    skos:definition "The Point At Which Gas Can Flow Out Of The Gni (Uk)"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Lisburn Exit Point" ;
+    skos:prefLabel "Lisburn Offtake Point" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

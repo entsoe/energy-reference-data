@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-02" ;
+    cim:DateAndOrTime.date "2024-07-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21Z000000000428H" ;
     cim:IdentifiedObject.name "ENERGIAKI THESS. (ELPE)" ;
-    cim:Names.name "Connection Point",
-        "EN-THES-ELPE-GR" ;
+    cim:Names.name "EN-THES-ELPE-GR",
+        "Metering Point" ;
     dcterms:identifier "urn:eic:21Z000000000428H" ;
     skos:altLabel "EN-THES-ELPE-GR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

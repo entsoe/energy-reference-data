@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001651Q",
     "@skos:prefLabel": "Hakavik",
-    "@skos:altLabel": "NO-HAKAVIK_PL",
+    "@skos:altLabel": "NO-HAKAVIK",
     "@cim:IdentifiedObject.mRID": "50WP00000001651Q",
     "@cim:IdentifiedObject.name": "Hakavik",
     "@cim:Names.name": [
-        "NO-HAKAVIK_PL",
+        "NO-HAKAVIK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

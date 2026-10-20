@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000001484N",
-    "@skos:prefLabel": "Tafjord",
-    "@skos:altLabel": "NO-TAFJORD",
+    "@skos:prefLabel": "Tafjord4",
+    "@skos:altLabel": "NO-TAFJORD4",
     "@cim:IdentifiedObject.mRID": "50A000000001484N",
-    "@cim:IdentifiedObject.name": "Tafjord",
+    "@cim:IdentifiedObject.name": "Tafjord4",
     "@cim:Names.name": [
-        "NO-TAFJORD",
+        "NO-TAFJORD4",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

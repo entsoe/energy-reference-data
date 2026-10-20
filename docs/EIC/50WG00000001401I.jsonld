@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001401I",
-    "@skos:prefLabel": "ROYKAS  G106 HYDRO",
-    "@skos:altLabel": "NO-ROYKAS__G106_",
+    "@skos:prefLabel": "HAMMERSTG106 HYDRO",
+    "@skos:altLabel": "NO-HAMMERSTG106",
     "@cim:IdentifiedObject.mRID": "50WG00000001401I",
-    "@cim:IdentifiedObject.name": "ROYKAS  G106 HYDRO",
+    "@cim:IdentifiedObject.name": "HAMMERSTG106 HYDRO",
     "@cim:Names.name": [
-        "NO-ROYKAS__G106_",
+        "NO-HAMMERSTG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

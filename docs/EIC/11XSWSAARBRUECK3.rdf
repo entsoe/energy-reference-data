@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XSWSAARBRUECK3</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Saarbr&#252;cken Netz AG</skos:prefLabel>
     <skos:altLabel>SWSAARBRUECKEN</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWSAARBRUECK3</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Saarbr&#252;cken Netz AG</cim:IdentifiedObject.name>
     <cim:Names.name>SWSAARBRUECKEN</cim:Names.name>
     <cim:Names.name>DE811186441</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-19</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE811186441</schema:vatID>

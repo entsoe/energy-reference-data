@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000012005" ;
     cim:IdentifiedObject.name "N 420 Ofoten-Kvandal" ;
     cim:Names.name "Internal Line",
-        "NO-OFOTENKVANDAL" ;
+        "NO-420OFOTEANDAL" ;
     dcterms:identifier "urn:eic:50TL000000012005" ;
-    skos:altLabel "NO-OFOTENKVANDAL" ;
+    skos:altLabel "NO-420OFOTEANDAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 420 Ofoten-Kvandal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

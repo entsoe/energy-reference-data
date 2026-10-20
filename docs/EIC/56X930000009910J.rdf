@@ -14,8 +14,8 @@
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2018-12-21</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>UA400420824102</schema:vatID>
   </skos:Concept>

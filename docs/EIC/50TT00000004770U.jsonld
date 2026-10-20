@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000004770U",
-    "@skos:prefLabel": "M Fjæremsf T2 Transformator",
+    "@skos:prefLabel": "N Fjæremsf T2 Transformator",
     "@skos:altLabel": "NO-FJAREMSFT2",
     "@cim:IdentifiedObject.mRID": "50TT00000004770U",
-    "@cim:IdentifiedObject.name": "M Fjæremsf T2 Transformator",
+    "@cim:IdentifiedObject.name": "N Fjæremsf T2 Transformator",
     "@cim:Names.name": [
         "NO-FJAREMSFT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

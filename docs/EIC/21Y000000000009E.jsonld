@@ -16,18 +16,18 @@
     "@skos:altLabel": "VTP-CEGH",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Virtual Trading Point"
+        "@value": "Virtual Trading Point, Y code deactivation requested  as the CEGH has created a Z code to replace the Y code.  VTP function was required."
     },
     "@cim:IdentifiedObject.mRID": "21Y000000000009E",
     "@cim:IdentifiedObject.name": "VTP-CEGH",
     "@cim:Names.name": [
         "VTP-CEGH",
-        "Valid EIC Function needed"
+        "Local Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Virtual Trading Point",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Virtual Trading Point, Y code deactivation requested  as the CEGH has created a Z code to replace the Y code.  VTP function was required.",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-12-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

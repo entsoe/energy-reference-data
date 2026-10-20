@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-07-29" ;
+    cim:DateAndOrTime.date "2026-03-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Supplier" ;
     cim:IdentifiedObject.mRID "37X000000000150W" ;
-    cim:IdentifiedObject.name "SEFE Mobility GmbH" ;
-    cim:Names.name "DE307562356",
-        "Energy Supplier",
-        "SEFE_MOBILITY_GM" ;
+    cim:IdentifiedObject.name "biogeen Mobility GmbH" ;
+    cim:Names.name "BIOGEEN_MOBILITY",
+        "DE307562356",
+        "Energy Supplier" ;
     dcterms:identifier "urn:eic:37X000000000150W" ;
     schema1:vatID "DE307562356" ;
-    skos:altLabel "SEFE_MOBILITY_GM" ;
+    skos:altLabel "BIOGEEN_MOBILITY" ;
     skos:definition "Energy Supplier"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SEFE Mobility GmbH" ;
+    skos:prefLabel "biogeen Mobility GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

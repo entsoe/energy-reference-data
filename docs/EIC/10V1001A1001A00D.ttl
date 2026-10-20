@@ -1,0 +1,31 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10V1001A1001A00D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """In the context of the implementation of the Long Term
+capacity calculation within Core CCR, , a new location
+EIC code is required for the test environnement. This
+code will be used for Receiver/Sender identification
+fields in input/output XMLs. """ ;
+    cim:IdentifiedObject.mRID "10V1001A1001A00D" ;
+    cim:IdentifiedObject.name "Core CC tool LT test environment" ;
+    cim:Names.name "CORE_LTCC_TEST",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:10V1001A1001A00D" ;
+    skos:altLabel "CORE_LTCC_TEST" ;
+    skos:definition """In the context of the implementation of the Long Term
+capacity calculation within Core CCR, , a new location
+EIC code is required for the test environnement. This
+code will be used for Receiver/Sender identification
+fields in input/output XMLs. """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Core CC tool LT test environment" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

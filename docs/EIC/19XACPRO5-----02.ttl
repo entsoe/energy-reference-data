@@ -1,0 +1,28 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XACPRO5-----02> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XACPRO5-----02" ;
+    cim:IdentifiedObject.name "ACPRO 5 SP. ZOO" ;
+    cim:Names.name "A0025344G.PL",
+        "ACPRO5",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL8952217917",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19XACPRO5-----02" ;
+    schema1:vatID "PL8952217917" ;
+    skos:altLabel "ACPRO5" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ACPRO 5 SP. ZOO" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

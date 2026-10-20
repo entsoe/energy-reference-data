@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000020831",
     "@skos:prefLabel": "VOLDSETEG2      HYDRO",
-    "@skos:altLabel": "NO-VOLDSETEG2___",
+    "@skos:altLabel": "NO-VOLDSETEG2",
     "@cim:IdentifiedObject.mRID": "50WG000000020831",
     "@cim:IdentifiedObject.name": "VOLDSETEG2      HYDRO",
     "@cim:Names.name": [
-        "NO-VOLDSETEG2___",
+        "NO-VOLDSETEG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

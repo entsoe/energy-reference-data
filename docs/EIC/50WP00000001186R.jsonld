@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001186R",
     "@skos:prefLabel": "Valvatn",
-    "@skos:altLabel": "NO-VALVATN_PL",
+    "@skos:altLabel": "NO-VALVATN",
     "@cim:IdentifiedObject.mRID": "50WP00000001186R",
     "@cim:IdentifiedObject.name": "Valvatn",
     "@cim:Names.name": [
-        "NO-VALVATN_PL",
+        "NO-VALVATN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

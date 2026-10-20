@@ -16,10 +16,13 @@
     "@skos:altLabel": "ESCANDE",
     "@cim:IdentifiedObject.mRID": "18WESCANDE-12--V",
     "@cim:IdentifiedObject.name": "ESCANDELLA COGEN",
-    "@cim:Names.name": "ESCANDE",
+    "@cim:Names.name": [
+        "ESCANDE",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-07-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

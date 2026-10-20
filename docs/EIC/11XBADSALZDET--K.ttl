@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XBADSALZDET--K" ;
     cim:IdentifiedObject.name "EVI Energieversorgung Hildesheim GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE198714141",
-        "EVI-HI-BADSALZ" ;
+    cim:Names.name "DE198714141",
+        "EVI-HI-BADSALZ",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XBADSALZDET--K" ;
     schema1:vatID "DE198714141" ;
     skos:altLabel "EVI-HI-BADSALZ" ;

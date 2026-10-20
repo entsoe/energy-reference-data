@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-27" ;
+    cim:DateAndOrTime.date "2026-10-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XAGRIE-12345-D" ;
-    cim:IdentifiedObject.name "AGRI ENERGÍA ELÉCTRICA, S.A." ;
+    cim:IdentifiedObject.name "AGRI-ENERGIA ELECTRICA, S.A." ;
     cim:Names.name "AGRIE",
         "ESA17448358",
         "Grid Access Provider" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESA17448358" ;
     skos:altLabel "AGRIE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AGRI ENERGÍA ELÉCTRICA, S.A." ;
+    skos:prefLabel "AGRI-ENERGIA ELECTRICA, S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

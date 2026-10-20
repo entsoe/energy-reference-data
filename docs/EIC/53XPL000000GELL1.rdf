@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000GELL1</dcterms:identifier>
-    <skos:prefLabel>Respect Energy Fuels Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>RESPECTFUELS</skos:altLabel>
+    <skos:prefLabel>Somosierra Commodities Sp. z o.o.</skos:prefLabel>
+    <skos:altLabel>SOMOSIERRA</skos:altLabel>
     <cim:IdentifiedObject.mRID>53XPL000000GELL1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Respect Energy Fuels Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>RESPECTFUELS</cim:Names.name>
+    <cim:IdentifiedObject.name>Somosierra Commodities Sp. z o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>SOMOSIERRA</cim:Names.name>
     <cim:Names.name>A0014512M.PL</cim:Names.name>
     <cim:Names.name>PL1070001436</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-09-27</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-09-15</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL1070001436</schema:vatID>

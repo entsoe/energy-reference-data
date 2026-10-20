@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X000001995225K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Branche de la société étatique de production d’électricité national chinoise (China General Nuclear), la branche CGN EE est présente en Europe en tant que producteur d’électricité verte via ses parcs éoliens principalement." ;
+    cim:IdentifiedObject.mRID "17X000001995225K" ;
+    cim:IdentifiedObject.name "CGN Europe Energy" ;
+    cim:Names.name "FR30803353424",
+        "FR_CGN_EE",
+        "Producer" ;
+    dcterms:identifier "urn:eic:17X000001995225K" ;
+    schema1:vatID "FR30803353424" ;
+    skos:altLabel "FR_CGN_EE" ;
+    skos:definition "Branche de la société étatique de production d’électricité national chinoise (China General Nuclear), la branche CGN EE est présente en Europe en tant que producteur d’électricité verte via ses parcs éoliens principalement."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "CGN Europe Energy" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

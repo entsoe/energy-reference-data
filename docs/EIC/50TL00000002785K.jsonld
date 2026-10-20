@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002785K",
-    "@skos:prefLabel": "M 22 Juvfossen-Embla",
-    "@skos:altLabel": "NO-JUVFOSSENEMBL",
+    "@skos:prefLabel": "N 22 Juvfossen-Embla",
+    "@skos:altLabel": "NO-22JUVFOSSENEM",
     "@cim:IdentifiedObject.mRID": "50TL00000002785K",
-    "@cim:IdentifiedObject.name": "M 22 Juvfossen-Embla",
+    "@cim:IdentifiedObject.name": "N 22 Juvfossen-Embla",
     "@cim:Names.name": [
-        "NO-JUVFOSSENEMBL",
+        "NO-22JUVFOSSENEM",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005609W" ;
     cim:IdentifiedObject.name "S Sagene   T3 Transformator" ;
-    cim:Names.name "NO-SAGENE__T3",
+    cim:Names.name "NO-SAGENET3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005609W" ;
-    skos:altLabel "NO-SAGENE__T3" ;
+    skos:altLabel "NO-SAGENET3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Sagene   T3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

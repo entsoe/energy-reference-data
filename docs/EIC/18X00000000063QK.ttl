@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-09-14" ;
+    cim:DateAndOrTime.date "2026-05-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X00000000063QK" ;
-    cim:IdentifiedObject.name "AVANGREEN ENERGY SOLUTION SA" ;
+    cim:IdentifiedObject.name "AVANGREEN ENERGY SOLUTIONS SAU" ;
     cim:Names.name "AVAN",
         "ESA19240621",
         "Trade Responsible Party" ;
@@ -18,6 +18,6 @@
     schema1:vatID "ESA19240621" ;
     skos:altLabel "AVAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AVANGREEN ENERGY SOLUTION SA" ;
+    skos:prefLabel "AVANGREEN ENERGY SOLUTIONS SAU" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

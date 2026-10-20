@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000306R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "37X000000000306R" ;
+    cim:IdentifiedObject.name "ARPZ GmbH" ;
+    cim:Names.name "ARPZ_GMBH",
+        "DE287877051",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:37X000000000306R" ;
+    schema1:vatID "DE287877051" ;
+    skos:altLabel "ARPZ_GMBH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ARPZ GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

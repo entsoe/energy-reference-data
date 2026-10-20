@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-12-17" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XKKW-BEZNAU--0" ;
     cim:IdentifiedObject.name "Nordostschweizerische Kraftwerke AG" ;
-    cim:Names.name "Balance Group",
-        "CH102471",
+    cim:Names.name "CH102471",
+        "Capacity Trader",
         "KKW-BEZNAU-ST" ;
     dcterms:identifier "urn:eic:12XKKW-BEZNAU--0" ;
     schema1:vatID "CH102471" ;

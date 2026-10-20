@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XSAVANGARD---M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XSAVANGARD---M" ;
+    cim:IdentifiedObject.name "SAVANGARD SP. Z O.O." ;
+    cim:Names.name "PL5732522479",
+        "SAVANGARD",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19XSAVANGARD---M" ;
+    schema1:vatID "PL5732522479" ;
+    skos:altLabel "SAVANGARD" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SAVANGARD SP. Z O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

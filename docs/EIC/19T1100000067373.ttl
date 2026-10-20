@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000067373" ;
-    cim:IdentifiedObject.name "Kielce-Kielce Piaski" ;
+    cim:IdentifiedObject.name "220kV Kielce-Kielce Piaski" ;
     cim:Names.name "2407",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000067373" ;
     skos:altLabel "2407" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kielce-Kielce Piaski" ;
+    skos:prefLabel "220kV Kielce-Kielce Piaski" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

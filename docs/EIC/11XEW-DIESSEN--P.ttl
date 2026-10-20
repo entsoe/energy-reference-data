@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-14" ;
+    cim:DateAndOrTime.date "2024-11-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEW-DIESSEN--P" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Diessen Stadler GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE813237468",
         "EW-DIESSEN" ;
     dcterms:identifier "urn:eic:11XEW-DIESSEN--P" ;

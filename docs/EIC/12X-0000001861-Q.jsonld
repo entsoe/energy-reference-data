@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:12X-0000001861-Q",
-    "@skos:prefLabel": "swissgrid AG",
-    "@skos:altLabel": "BGCROSSBORDER-ST",
+    "@skos:prefLabel": "Swissgrid AG",
+    "@skos:altLabel": "SWISSGRID-TSO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party, Balance Group Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "12X-0000001861-Q",
-    "@cim:IdentifiedObject.name": "swissgrid AG",
+    "@cim:IdentifiedObject.name": "Swissgrid AG",
     "@cim:Names.name": [
-        "BGCROSSBORDER-ST",
+        "SWISSGRID-TSO",
         "CHE112175457",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party, Balance Group Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-09-26",
+    "@cim:DateAndOrTime.date": "2025-11-14",
     "@schema:vatID": "CHE112175457",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

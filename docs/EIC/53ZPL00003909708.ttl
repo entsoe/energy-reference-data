@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53ZPL00003909708> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53ZPL00003909708" ;
+    cim:IdentifiedObject.name "Elektrownia Rybnik CCGT" ;
+    cim:Names.name "390970_EL_RYBNIK",
+        "Connection Point" ;
+    dcterms:identifier "urn:eic:53ZPL00003909708" ;
+    skos:altLabel "390970_EL_RYBNIK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Elektrownia Rybnik CCGT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006793U" ;
-    cim:IdentifiedObject.name "Kozienice-Lublin Systemowa" ;
+    cim:IdentifiedObject.name "400kV Kozienice-Lublin" ;
     cim:Names.name "F001",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006793U" ;
     skos:altLabel "F001" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kozienice-Lublin Systemowa" ;
+    skos:prefLabel "400kV Kozienice-Lublin" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

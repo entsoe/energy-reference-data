@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001978V" ;
     cim:IdentifiedObject.name "Frevar-Hafslund" ;
-    cim:Names.name "NO-FREVAR-HAFSLU",
+    cim:Names.name "NO-FREVAR_HAFSLU",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001978V" ;
-    skos:altLabel "NO-FREVAR-HAFSLU" ;
+    skos:altLabel "NO-FREVAR_HAFSLU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Frevar-Hafslund" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

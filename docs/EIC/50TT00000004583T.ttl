@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2025-05-12" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "50TT00000004583T" ;
-    cim:IdentifiedObject.name "S Berger   TS Transformator" ;
-    cim:Names.name "NO-BERGER__TS",
+    cim:IdentifiedObject.name "S Berger   T3 Transformator" ;
+    cim:Names.name "NO-BERGERT3",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004583T" ;
-    skos:altLabel "NO-BERGER__TS" ;
+    skos:altLabel "NO-BERGERT3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Berger   TS Transformator" ;
+    skos:prefLabel "S Berger   T3 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

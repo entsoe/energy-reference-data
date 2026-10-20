@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000393A",
     "@skos:prefLabel": "SERENE NORD/NORD_EST (FR)",
     "@skos:altLabel": "SERENE_NORD",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000393A",
     "@cim:IdentifiedObject.name": "SERENE NORD/NORD_EST (FR)",
     "@cim:Names.name": [
         "SERENE_NORD",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Entry/Exit Point From A Storage Between Storengy And  Grtgaz",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-08-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

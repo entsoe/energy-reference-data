@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48XCENTRICALNG6U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-14" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "48XCENTRICALNG6U" ;
+    cim:IdentifiedObject.name "Centrica LNG Company Limited" ;
+    cim:Names.name "Balance Responsible Party",
+        "CLNGCOMPANY",
+        "GB684966762" ;
+    dcterms:identifier "urn:eic:48XCENTRICALNG6U" ;
+    schema1:vatID "GB684966762" ;
+    skos:altLabel "CLNGCOMPANY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Centrica LNG Company Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

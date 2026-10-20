@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XINTER-12345-M",
-    "@skos:prefLabel": "Internaica, S.L.",
+    "@skos:prefLabel": "INTERNAICA, S.L.",
     "@skos:altLabel": "INTER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XINTER-12345-M",
-    "@cim:IdentifiedObject.name": "Internaica, S.L.",
+    "@cim:IdentifiedObject.name": "INTERNAICA, S.L.",
     "@cim:Names.name": [
         "INTER",
         "ESB60356102",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2026-08-31",
     "@schema:vatID": "ESB60356102",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

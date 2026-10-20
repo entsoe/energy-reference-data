@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001338D" ;
     cim:IdentifiedObject.name "S 47 Haslum-Blommenholm" ;
     cim:Names.name "Internal Line",
-        "NO-HASLUMBLOMMEN" ;
+        "NO-47HASLUMBLOMM" ;
     dcterms:identifier "urn:eic:50TL00000001338D" ;
-    skos:altLabel "NO-HASLUMBLOMMEN" ;
+    skos:altLabel "NO-47HASLUMBLOMM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Haslum-Blommenholm" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

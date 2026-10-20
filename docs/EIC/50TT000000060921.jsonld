@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000060921",
-    "@skos:prefLabel": "L HVDC Tys PT2 Transformator",
-    "@skos:altLabel": "NO-HVDC_DE_PT2",
+    "@skos:prefLabel": "S HVDC Tys PT2 Transformator",
+    "@skos:altLabel": "NO-HVDC_DEPT2",
     "@cim:IdentifiedObject.mRID": "50TT000000060921",
-    "@cim:IdentifiedObject.name": "L HVDC Tys PT2 Transformator",
+    "@cim:IdentifiedObject.name": "S HVDC Tys PT2 Transformator",
     "@cim:Names.name": [
-        "NO-HVDC_DE_PT2",
+        "NO-HVDC_DEPT2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFLAMI-1234--H",
     "@skos:prefLabel": "FLAMINGO EUROMATIC 100. S.L.",
     "@skos:altLabel": "FLAMI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFLAMI-1234--H",
     "@cim:IdentifiedObject.name": "FLAMINGO EUROMATIC 100. S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB04386454",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-09",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB04386454",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

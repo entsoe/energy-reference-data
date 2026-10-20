@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/35X-ENER-FIN-PGE",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:35X-ENER-FIN-PGE",
+    "@skos:prefLabel": "Energo Finanzza d.o.o. Podgorica",
+    "@skos:altLabel": "ENERGO_FINANZZA",
+    "@cim:IdentifiedObject.mRID": "35X-ENER-FIN-PGE",
+    "@cim:IdentifiedObject.name": "Energo Finanzza d.o.o. Podgorica",
+    "@cim:Names.name": [
+        "ENERGO_FINANZZA",
+        "03565858",
+        "Balance Responsible Party",
+        "Producer"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-01-23",
+    "@schema:vatID": "03565858",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

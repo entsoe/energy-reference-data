@@ -1,0 +1,35 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/22T20240110----Z",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:22T20240110----Z",
+    "@skos:prefLabel": "DI 150 152 ANS BRESS LI",
+    "@skos:altLabel": "BE152_ANS_BRESS",
+    "@cim:IdentifiedObject.mRID": "22T20240110----Z",
+    "@cim:IdentifiedObject.name": "DI 150 152 ANS BRESS LI",
+    "@cim:Names.name": [
+        "BE152_ANS_BRESS",
+        "Internal Line"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-01-09",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

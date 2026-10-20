@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X0000000000KWI</dcterms:identifier>
     <skos:prefLabel>HERMANOS MARISTAS PROVINCIA IBERICA</skos:prefLabel>
     <skos:altLabel>MARPI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X0000000000KWI</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>HERMANOS MARISTAS PROVINCIA IBERICA</cim:IdentifiedObject.name>
     <cim:Names.name>MARPI</cim:Names.name>
     <cim:Names.name>ESR2600408E</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-07-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESR2600408E</schema:vatID>

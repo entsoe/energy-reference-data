@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TLI00000022875",
     "@skos:prefLabel": "S 66 Våg-Spanne",
-    "@skos:altLabel": "NO-VAGSPANNE",
+    "@skos:altLabel": "NO-66VAGSPANNE",
     "@cim:IdentifiedObject.mRID": "50TLI00000022875",
     "@cim:IdentifiedObject.name": "S 66 Våg-Spanne",
     "@cim:Names.name": [
-        "NO-VAGSPANNE",
+        "NO-66VAGSPANNE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/63X286298152297L",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:63X286298152297L",
+    "@skos:prefLabel": "Tumbleweed Partners",
+    "@skos:altLabel": "FRG_POOL_GRTGAZ",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Tumbleweed Partners offre un soutien aux compagnies souhaitant mener des opérations de trading physique gazier en France et en Europe. Ce soutien est autant sur les aspects legaux / réglementaires, que sur les aspects opérationnels / techniques, y compris l'accès aux réseaux de transport gazier."
+    },
+    "@cim:IdentifiedObject.mRID": "63X286298152297L",
+    "@cim:IdentifiedObject.name": "Tumbleweed Partners",
+    "@cim:Names.name": [
+        "FRG_POOL_GRTGAZ",
+        "FR96814739694",
+        "Information Provider"
+    ],
+    "@cim:IdentifiedObject.description": "Tumbleweed Partners offre un soutien aux compagnies souhaitant mener des opérations de trading physique gazier en France et en Europe. Ce soutien est autant sur les aspects legaux / réglementaires, que sur les aspects opérationnels / techniques, y compris l'accès aux réseaux de transport gazier.",
+    "@cim:Document.docStatus": "A03",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-11-04",
+    "@schema:vatID": "FR96814739694",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

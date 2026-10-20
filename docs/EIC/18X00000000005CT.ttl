@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-06-15" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18X00000000005CT" ;
     cim:IdentifiedObject.name "EL RINCON DE CONVENIENCIA S.L" ;
     cim:Names.name "CONVE",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18X00000000005CT" ;
     schema1:vatID "ESB99344087" ;
     skos:altLabel "CONVE" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EL RINCON DE CONVENIENCIA S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

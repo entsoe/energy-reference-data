@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVINCO-12345-Q",
     "@skos:prefLabel": "VIZCAINA DE INDUSTRIA Y COMERCIO S.A.",
     "@skos:altLabel": "VINCO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVINCO-12345-Q",
     "@cim:IdentifiedObject.name": "VIZCAINA DE INDUSTRIA Y COMERCIO S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA48108021",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-10",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA48108021",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

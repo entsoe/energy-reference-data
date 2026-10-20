@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSWS-V-------U",
-    "@skos:prefLabel": "Stadtwerke Staßfurt GmbH (Vertrieb)",
+    "@skos:prefLabel": "Stadtwerke Staßfurt GmbH",
     "@skos:altLabel": "SWSTASSFURT_V",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWS-V-------U",
-    "@cim:IdentifiedObject.name": "Stadtwerke Staßfurt GmbH (Vertrieb)",
+    "@cim:IdentifiedObject.name": "Stadtwerke Staßfurt GmbH",
     "@cim:Names.name": [
         "SWSTASSFURT_V",
         "DE139489230",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2006-01-19",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "DE139489230",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

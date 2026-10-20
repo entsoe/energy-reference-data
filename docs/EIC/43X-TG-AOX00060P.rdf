@@ -4,18 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:43X-TG-AOX00060P</dcterms:identifier>
-    <skos:prefLabel>SIA AOX Trade </skos:prefLabel>
+    <skos:prefLabel>AOX Trade SIA</skos:prefLabel>
     <skos:altLabel>LV-AOXT45</skos:altLabel>
     <cim:IdentifiedObject.mRID>43X-TG-AOX00060P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SIA AOX Trade </cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>AOX Trade SIA</cim:IdentifiedObject.name>
     <cim:Names.name>LV-AOXT45</cim:Names.name>
-    <cim:Names.name>40203343967</cim:Names.name>
+    <cim:Names.name>LV40203343967</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-09-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-05-08</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Balance Group Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>40203343967</schema:vatID>
+    <schema:vatID>LV40203343967</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

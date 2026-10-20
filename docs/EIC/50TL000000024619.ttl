@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000024619" ;
-    cim:IdentifiedObject.name "M Mosjøen 132 A2 X" ;
+    cim:IdentifiedObject.name "N Mosjøen  132 A2 X" ;
     cim:Names.name "Internal Line",
-        "NO-MOSJOEN132A2X" ;
+        "NO-MOSJOEN132A2" ;
     dcterms:identifier "urn:eic:50TL000000024619" ;
-    skos:altLabel "NO-MOSJOEN132A2X" ;
+    skos:altLabel "NO-MOSJOEN132A2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Mosjøen 132 A2 X" ;
+    skos:prefLabel "N Mosjøen  132 A2 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

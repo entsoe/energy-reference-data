@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000021439",
-    "@skos:prefLabel": "OV_TESSAG5      HYDRO",
-    "@skos:altLabel": "NO-OV_TESSAG5___",
+    "@skos:prefLabel": "OV_TESSAG1      HYDRO",
+    "@skos:altLabel": "NO-OV_TESSAG1",
     "@cim:IdentifiedObject.mRID": "50WG000000021439",
-    "@cim:IdentifiedObject.name": "OV_TESSAG5      HYDRO",
+    "@cim:IdentifiedObject.name": "OV_TESSAG1      HYDRO",
     "@cim:Names.name": [
-        "NO-OV_TESSAG5___",
+        "NO-OV_TESSAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

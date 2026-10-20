@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2014-08-28" ;
+    cim:DateAndOrTime.date "2024-03-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "34X-0000000042-F" ;
-    cim:IdentifiedObject.name "Kurum Energija D.O.O. Veternik" ;
+    cim:IdentifiedObject.name "ELECTRON TRADE 021 DOO" ;
     cim:Names.name "108525493",
         "KUEN",
         "Trade Responsible Party" ;
@@ -20,6 +20,6 @@
     skos:altLabel "KUEN" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Kurum Energija D.O.O. Veternik" ;
+    skos:prefLabel "ELECTRON TRADE 021 DOO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

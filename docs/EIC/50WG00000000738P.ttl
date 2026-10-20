@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000738P" ;
-    cim:IdentifiedObject.name "HOGEFOSSG6      HYDRO" ;
+    cim:IdentifiedObject.name "EINANGSMG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-HOGEFOSSG6___" ;
+        "NO-EINANGSMG101" ;
     dcterms:identifier "urn:eic:50WG00000000738P" ;
-    skos:altLabel "NO-HOGEFOSSG6___" ;
+    skos:altLabel "NO-EINANGSMG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "HOGEFOSSG6      HYDRO" ;
+    skos:prefLabel "EINANGSMG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/14XQUANTWEAVE--M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "14XQUANTWEAVE--M" ;
+    cim:IdentifiedObject.name "Quant Weave Capital GmbH" ;
+    cim:Names.name "ATU82452659",
+        "Energy Trader",
+        "QUANTWEAVE" ;
+    dcterms:identifier "urn:eic:14XQUANTWEAVE--M" ;
+    schema1:vatID "ATU82452659" ;
+    skos:altLabel "QUANTWEAVE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Quant Weave Capital GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

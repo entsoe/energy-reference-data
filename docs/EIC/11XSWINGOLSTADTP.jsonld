@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XSWINGOLSTADTP",
     "@skos:prefLabel": "Stadtwerke Ingolstadt Energie GmbH",
     "@skos:altLabel": "SWINGOLSTADT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWINGOLSTADTP",
     "@cim:IdentifiedObject.name": "Stadtwerke Ingolstadt Energie GmbH",
     "@cim:Names.name": [
         "SWINGOLSTADT",
-        "DE813578833",
-        "Balance Group"
+        "DE256219032",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
-    "@schema:vatID": "DE813578833",
+    "@cim:DateAndOrTime.date": "2024-09-23",
+    "@schema:vatID": "DE256219032",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

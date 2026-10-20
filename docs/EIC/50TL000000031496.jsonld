@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000031496",
     "@skos:prefLabel": "S 300 Mjåsundet-Lindås",
-    "@skos:altLabel": "NO-MJASUNDETLIND",
+    "@skos:altLabel": "NO-300MJASUNDETL",
     "@cim:IdentifiedObject.mRID": "50TL000000031496",
     "@cim:IdentifiedObject.name": "S 300 Mjåsundet-Lindås",
     "@cim:Names.name": [
-        "NO-MJASUNDETLIND",
+        "NO-300MJASUNDETL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

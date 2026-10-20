@@ -16,7 +16,10 @@
     "@skos:altLabel": "L-D4-D4-HO-RB_RT",
     "@cim:IdentifiedObject.mRID": "11TD400000546-1D",
     "@cim:IdentifiedObject.name": "Hoheneck-Pkt_Rommelsbach_rt",
-    "@cim:Names.name": "L-D4-D4-HO-RB_RT",
+    "@cim:Names.name": [
+        "L-D4-D4-HO-RB_RT",
+        "Tieline"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

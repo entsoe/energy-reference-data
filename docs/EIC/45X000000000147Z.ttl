@@ -7,8 +7,30 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-27" ;
+    cim:DateAndOrTime.date "2026-10-02" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Hi ENTSO-E
+
+We have received the following message from Sympower.
+Please inactivate their EIC code: 45X000000000147Z.
+
+Best regards,
+Maria Heuer, Energinet DK (45)
+
+................................................................................
+
+We would like to inform you that our Danish legal entity has been
+liquidated. Could you please remove us from the list of EIC approved code ?
+https://www.entsoe.eu/data/energy-identification-codes-eic/eic-approved-codes/
+
+I believe the EIC code is 45X000000000147Z
+
+Best regards,
+
+Sympower 
+*Mathilde Chareyron*
+Head of Public & Regulatory Affairs
+mathilde.chareyron@sympower.net """ ;
     cim:IdentifiedObject.mRID "45X000000000147Z" ;
     cim:IdentifiedObject.name "Sympower Denmark " ;
     cim:Names.name "85618260B01",
@@ -18,6 +40,28 @@
     dcterms:identifier "urn:eic:45X000000000147Z" ;
     schema1:vatID "85618260B01" ;
     skos:altLabel "SYMPOWERDK" ;
+    skos:definition """Hi ENTSO-E
+
+We have received the following message from Sympower.
+Please inactivate their EIC code: 45X000000000147Z.
+
+Best regards,
+Maria Heuer, Energinet DK (45)
+
+................................................................................
+
+We would like to inform you that our Danish legal entity has been
+liquidated. Could you please remove us from the list of EIC approved code ?
+https://www.entsoe.eu/data/energy-identification-codes-eic/eic-approved-codes/
+
+I believe the EIC code is 45X000000000147Z
+
+Best regards,
+
+Sympower 
+*Mathilde Chareyron*
+Head of Public & Regulatory Affairs
+mathilde.chareyron@sympower.net """@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Sympower Denmark " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

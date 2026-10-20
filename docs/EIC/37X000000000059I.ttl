@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000059I" ;
     cim:IdentifiedObject.name "GELSENWASSER AG" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Balance Group Responsible Party",
+        "Balance Responsible Party",
         "DE124978719",
         "GELSENWASSER" ;
     dcterms:identifier "urn:eic:37X000000000059I" ;

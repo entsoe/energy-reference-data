@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XCLLUT-12345-Y</dcterms:identifier>
     <skos:prefLabel>COOPERATIVA DEL CAMP DE LLUTXENT OTOS</skos:prefLabel>
     <skos:altLabel>CLLUT</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XCLLUT-12345-Y</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>COOPERATIVA DEL CAMP DE LLUTXENT OTOS</cim:IdentifiedObject.name>
     <cim:Names.name>CLLUT</cim:Names.name>
     <cim:Names.name>ESF46026084</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-11-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESF46026084</schema:vatID>

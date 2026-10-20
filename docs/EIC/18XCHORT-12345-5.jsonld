@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCHORT-12345-5",
     "@skos:prefLabel": "FINCA EL CHORTAL S.A.",
     "@skos:altLabel": "CHORT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCHORT-12345-5",
     "@cim:IdentifiedObject.name": "FINCA EL CHORTAL S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA61080511",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA61080511",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

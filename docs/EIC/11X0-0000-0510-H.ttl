@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0510-H" ;
     cim:IdentifiedObject.name "envitra Energie GmbH" ;
-    cim:Names.name "DE319559197",
+    cim:Names.name "Balance Responsible Party",
+        "DE319559197",
         "ENVITRA" ;
     dcterms:identifier "urn:eic:11X0-0000-0510-H" ;
     schema1:vatID "DE319559197" ;

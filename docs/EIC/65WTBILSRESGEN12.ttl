@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "GENERATION OBJECT" ;
     cim:IdentifiedObject.mRID "65WTBILSRESGEN12" ;
     cim:IdentifiedObject.name "TBILSRESGEN1" ;
-    cim:Names.name "TBILSRESGEN1" ;
+    cim:Names.name "Generation Unit",
+        "TBILSRESGEN1" ;
     dcterms:identifier "urn:eic:65WTBILSRESGEN12" ;
     skos:altLabel "TBILSRESGEN1" ;
     skos:definition "GENERATION OBJECT"@en ;

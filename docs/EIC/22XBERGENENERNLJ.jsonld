@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22XBERGENENERNLJ",
-    "@skos:prefLabel": "Bergen Energi Nederland BV",
+    "@skos:prefLabel": "Kinect Energy Netherlands B.V.",
     "@skos:altLabel": "BE_BERGENENERNED",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "22XBERGENENERNLJ",
-    "@cim:IdentifiedObject.name": "Bergen Energi Nederland BV",
+    "@cim:IdentifiedObject.name": "Kinect Energy Netherlands B.V.",
     "@cim:Names.name": [
         "BE_BERGENENERNED",
         "NL807889684B01",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-08-31",
+    "@cim:DateAndOrTime.date": "2026-04-24",
     "@schema:vatID": "NL807889684B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

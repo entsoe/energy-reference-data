@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XEESIERVIRGENF</dcterms:identifier>
-    <skos:prefLabel>EXPLOTACIONES E&#211;LICAS SIERRA LA VIRGEN, S.A.</skos:prefLabel>
+    <skos:prefLabel>EXPLOTACIONES EOLICAS SIERRA LA VIRGEN, S.A.</skos:prefLabel>
     <skos:altLabel>ESVIR</skos:altLabel>
-    <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XEESIERVIRGENF</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EXPLOTACIONES E&#211;LICAS SIERRA LA VIRGEN, S.A.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>EXPLOTACIONES EOLICAS SIERRA LA VIRGEN, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>ESVIR</cim:Names.name>
     <cim:Names.name>ESA50979269</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-11-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-10-07</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA50979269</schema:vatID>
   </skos:Concept>

@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T0000000000703",
-    "@skos:prefLabel": "Westerlee - Maasvlakte zwart 380 kV",
+    "@skos:prefLabel": "Westerlee - Maasvlakte 380 kV Zwart",
     "@skos:altLabel": "WL-MVL380-Z",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T0000000000703",
-    "@cim:IdentifiedObject.name": "Westerlee - Maasvlakte zwart 380 kV",
+    "@cim:IdentifiedObject.name": "Westerlee - Maasvlakte 380 kV Zwart",
     "@cim:Names.name": [
         "WL-MVL380-Z",
         "Internal Line"
@@ -27,7 +27,7 @@
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-21",
+    "@cim:DateAndOrTime.date": "2026-05-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

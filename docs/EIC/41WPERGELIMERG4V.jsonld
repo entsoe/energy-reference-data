@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPERGELIMERG4V",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPERGELIMERG4V",
+    "@skos:prefLabel": "Pergelių VE 4",
+    "@skos:altLabel": "PERGELIUVE4",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": " UAB „Geniva“, juridinio asmens kodas 305699767    Mergeluičių k. 1C, Akmenės\nr. sav., žemės sklypo kadastro Nr. 3245/0004:101.   mindaugas.malonis@elektrum.lt\n   "
+    },
+    "@cim:IdentifiedObject.mRID": "41WPERGELIMERG4V",
+    "@cim:IdentifiedObject.name": "Pergelių VE 4",
+    "@cim:Names.name": [
+        "PERGELIUVE4",
+        "Generation Unit"
+    ],
+    "@cim:IdentifiedObject.description": " UAB „Geniva“, juridinio asmens kodas 305699767    Mergeluičių k. 1C, Akmenės\nr. sav., žemės sklypo kadastro Nr. 3245/0004:101.   mindaugas.malonis@elektrum.lt\n   ",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-11-26",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001559K" ;
-    cim:IdentifiedObject.name "SORTLANDG101 HYDRO" ;
+    cim:IdentifiedObject.name "KVITFOSSG105 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SORTLANDG101_" ;
+        "NO-KVITFOSSG105" ;
     dcterms:identifier "urn:eic:50WG00000001559K" ;
-    skos:altLabel "NO-SORTLANDG101_" ;
+    skos:altLabel "NO-KVITFOSSG105" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SORTLANDG101 HYDRO" ;
+    skos:prefLabel "KVITFOSSG105 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

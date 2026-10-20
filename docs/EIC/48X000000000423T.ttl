@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000423T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48X000000000423T" ;
+    cim:IdentifiedObject.name "Power on Technologies Ltd t/a Joulen" ;
+    cim:Names.name "Balance Responsible Party",
+        "GB287463559",
+        "JL0001",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000423T" ;
+    schema1:vatID "GB287463559" ;
+    skos:altLabel "JL0001" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Power on Technologies Ltd t/a Joulen" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

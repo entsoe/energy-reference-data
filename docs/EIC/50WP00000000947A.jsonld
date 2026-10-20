@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000947A",
     "@skos:prefLabel": "Bergselva",
-    "@skos:altLabel": "NO-BERGSELV_PL",
+    "@skos:altLabel": "NO-BERGSELV",
     "@cim:IdentifiedObject.mRID": "50WP00000000947A",
     "@cim:IdentifiedObject.name": "Bergselva",
     "@cim:Names.name": [
-        "NO-BERGSELV_PL",
+        "NO-BERGSELV",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

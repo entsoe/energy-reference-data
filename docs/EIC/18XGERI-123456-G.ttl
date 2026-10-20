@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-03-19" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XGERI-123456-G" ;
     cim:IdentifiedObject.name "Geriatros S.A." ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XGERI-123456-G" ;
     schema1:vatID "ESA36780245" ;
     skos:altLabel "GERI" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Geriatros S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

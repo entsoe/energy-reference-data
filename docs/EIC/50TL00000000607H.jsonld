@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000607H",
-    "@skos:prefLabel": "M 132 SaltenVerk-Valljord1",
-    "@skos:altLabel": "NO-SALTENVVALJO1",
+    "@skos:prefLabel": "N 132 SaltenVerk-Valljord1",
+    "@skos:altLabel": "NO-132SAORD1_D01",
     "@cim:IdentifiedObject.mRID": "50TL00000000607H",
-    "@cim:IdentifiedObject.name": "M 132 SaltenVerk-Valljord1",
+    "@cim:IdentifiedObject.name": "N 132 SaltenVerk-Valljord1",
     "@cim:Names.name": [
-        "NO-SALTENVVALJO1",
+        "NO-132SAORD1_D01",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WANTKALNKBESSF",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WANTKALNKBESSF",
+    "@skos:prefLabel": "ANTKALNIŠKIŲ BESS EKO SRAUTAS",
+    "@skos:altLabel": "ANTKALNISKIUBESS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "UAB „EKO Srautas“ \n   302828541    LT100013271016    +370 655 45 222    mantas.kasperavicius@greengenius.com"
+    },
+    "@cim:IdentifiedObject.mRID": "41WANTKALNKBESSF",
+    "@cim:IdentifiedObject.name": "ANTKALNIŠKIŲ BESS EKO SRAUTAS",
+    "@cim:Names.name": [
+        "ANTKALNISKIUBESS",
+        "BESS"
+    ],
+    "@cim:IdentifiedObject.description": "UAB „EKO Srautas“ \n   302828541    LT100013271016    +370 655 45 222    mantas.kasperavicius@greengenius.com",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-05-27",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

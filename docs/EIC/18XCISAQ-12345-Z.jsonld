@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCISAQ-12345-Z",
     "@skos:prefLabel": "CIRO SANCHEZ",
     "@skos:altLabel": "CISAQ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCISAQ-12345-Z",
     "@cim:IdentifiedObject.name": "CIRO SANCHEZ",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ES26030631J",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-08-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ES26030631J",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

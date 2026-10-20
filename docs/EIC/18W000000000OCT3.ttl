@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000OCT3" ;
     cim:IdentifiedObject.name "UFI Compra Inter" ;
-    cim:Names.name "EENERCP3" ;
+    cim:Names.name "EENERCP3",
+        "Generation Unit" ;
     dcterms:identifier "urn:eic:18W000000000OCT3" ;
     skos:altLabel "EENERCP3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

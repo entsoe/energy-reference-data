@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-07" ;
+    cim:DateAndOrTime.date "2025-04-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Party Connected To Grid" ;
     cim:IdentifiedObject.mRID "49X000000000005W" ;
-    cim:IdentifiedObject.name "Energy Trading Company B.V." ;
-    cim:Names.name "ETC_BV",
+    cim:IdentifiedObject.name "Greenchoice Trading Company B.V." ;
+    cim:Names.name "GTC_BV",
         "NL854768592B01",
         "Party Connected To Grid" ;
     dcterms:identifier "urn:eic:49X000000000005W" ;
     schema1:vatID "NL854768592B01" ;
-    skos:altLabel "ETC_BV" ;
+    skos:altLabel "GTC_BV" ;
     skos:definition "Party Connected To Grid"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Energy Trading Company B.V." ;
+    skos:prefLabel "Greenchoice Trading Company B.V." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

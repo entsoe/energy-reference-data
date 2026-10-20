@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X18XALUMAESTRA",
     "@skos:prefLabel": "ALUMINIOS DEL MAESTRE, S.A.",
     "@skos:altLabel": "ALMAE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X18XALUMAESTRA",
     "@cim:IdentifiedObject.name": "ALUMINIOS DEL MAESTRE, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA06293112",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA06293112",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

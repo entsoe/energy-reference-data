@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002264Y",
-    "@skos:prefLabel": "SYKKYLVEG103 HYDRO",
-    "@skos:altLabel": "NO-SYKKYLVEG103_",
+    "@skos:prefLabel": "STRANDA G103 HYDRO",
+    "@skos:altLabel": "NO-STRANDAG103",
     "@cim:IdentifiedObject.mRID": "50WG00000002264Y",
-    "@cim:IdentifiedObject.name": "SYKKYLVEG103 HYDRO",
+    "@cim:IdentifiedObject.name": "STRANDA G103 HYDRO",
     "@cim:Names.name": [
-        "NO-SYKKYLVEG103_",
+        "NO-STRANDAG103",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

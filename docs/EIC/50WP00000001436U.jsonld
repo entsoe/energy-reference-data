@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001436U",
-    "@skos:prefLabel": "Sagbekken I",
-    "@skos:altLabel": "NO-SAGBEKKEN-I_P",
+    "@skos:prefLabel": "Sagabekken I",
+    "@skos:altLabel": "NO-SAGABEKKENI",
     "@cim:IdentifiedObject.mRID": "50WP00000001436U",
-    "@cim:IdentifiedObject.name": "Sagbekken I",
+    "@cim:IdentifiedObject.name": "Sagabekken I",
     "@cim:Names.name": [
-        "NO-SAGBEKKEN-I_P",
+        "NO-SAGABEKKENI",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-03-07",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

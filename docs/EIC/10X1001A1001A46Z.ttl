@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy Association" ;
     cim:IdentifiedObject.mRID "10X1001A1001A46Z" ;
     cim:IdentifiedObject.name "BDEW Bundesverband der Energie- und Wasserwirtschaft e.V." ;
     cim:Names.name "BDEW-GERMANY",
         "DE814902527",
-        "Valid EIC Function needed" ;
+        "Information Provider" ;
     dcterms:identifier "urn:eic:10X1001A1001A46Z" ;
     schema1:vatID "DE814902527" ;
     skos:altLabel "BDEW-GERMANY" ;

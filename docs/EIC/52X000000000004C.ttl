@@ -7,14 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-02-05" ;
+    cim:DateAndOrTime.date "2024-06-25" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator" ;
     cim:IdentifiedObject.mRID "52X000000000004C" ;
     cim:IdentifiedObject.name "ENEXIS B.V." ;
     cim:Names.name "Distribution System Operator",
         "ENEXIS",
-        "NL809561074B01" ;
+        "NL809561074B01",
+        "System Operator" ;
     dcterms:identifier "urn:eic:52X000000000004C" ;
     schema1:vatID "NL809561074B01" ;
     skos:altLabel "ENEXIS" ;

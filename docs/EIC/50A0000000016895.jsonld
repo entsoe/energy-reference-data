@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A0000000016895",
-    "@skos:prefLabel": "Buvik",
-    "@skos:altLabel": "NO-BUVIK",
+    "@skos:prefLabel": "Buvika",
+    "@skos:altLabel": "NO-BUVIKA",
     "@cim:IdentifiedObject.mRID": "50A0000000016895",
-    "@cim:IdentifiedObject.name": "Buvik",
+    "@cim:IdentifiedObject.name": "Buvika",
     "@cim:Names.name": [
-        "NO-BUVIK",
+        "NO-BUVIKA",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

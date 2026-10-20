@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000OZEN5",
-    "@skos:prefLabel": "OZE ENERGY Sp. z o.o.",
-    "@skos:altLabel": "OZE-ENERGY",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Update of contact person details, CER code was added."
-    },
+    "@skos:prefLabel": "ABACUS ENERGY SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "ABACUS-ENERGY",
     "@cim:IdentifiedObject.mRID": "53XPL000000OZEN5",
-    "@cim:IdentifiedObject.name": "OZE ENERGY Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "ABACUS ENERGY SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
-        "OZE-ENERGY",
+        "ABACUS-ENERGY",
         "A0012988X.PL",
         "PL6772397696",
         "Network User"
     ],
-    "@cim:IdentifiedObject.description": "Update of contact person details, CER code was added.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-11",
+    "@cim:DateAndOrTime.date": "2025-04-01",
     "@schema:vatID": "PL6772397696",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

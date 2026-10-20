@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WGGS5IZAPBLBS8",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WGGS5IZAPBLBS8",
+    "@skos:prefLabel": "GG LTU S5   IZABELINES SE",
+    "@skos:altLabel": "GGLTUS5IZAB",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "302854721 Izabelinė PV, Izabelinė BESS Ozo g. 10A-10, Vilnius Mantas Kasperavičius +37065283444 mantas.kasperavicius@greengenius.com"
+    },
+    "@cim:IdentifiedObject.mRID": "41WGGS5IZAPBLBS8",
+    "@cim:IdentifiedObject.name": "GG LTU S5   IZABELINES SE",
+    "@cim:Names.name": [
+        "GGLTUS5IZAB",
+        "Generation"
+    ],
+    "@cim:IdentifiedObject.description": "302854721 Izabelinė PV, Izabelinė BESS Ozo g. 10A-10, Vilnius Mantas Kasperavičius +37065283444 mantas.kasperavicius@greengenius.com",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-10-14",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005302L",
     "@skos:prefLabel": "N Melkøya  TX Transformator",
-    "@skos:altLabel": "NO-MELKOYA_TX",
+    "@skos:altLabel": "NO-MELKOYATX",
     "@cim:IdentifiedObject.mRID": "50TT00000005302L",
     "@cim:IdentifiedObject.name": "N Melkøya  TX Transformator",
     "@cim:Names.name": [
-        "NO-MELKOYA_TX",
+        "NO-MELKOYATX",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

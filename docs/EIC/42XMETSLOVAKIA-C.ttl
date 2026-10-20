@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2015-10-06" ;
+    cim:DateAndOrTime.date "2024-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Network User" ;
     cim:IdentifiedObject.mRID "42XMETSLOVAKIA-C" ;
     cim:IdentifiedObject.name "MET Slovakia a.s." ;
     cim:Names.name "MET_SLOVAKIA",
-        "Network User",
-        "SK2023117107" ;
+        "SK2023117107",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:42XMETSLOVAKIA-C" ;
     schema1:vatID "SK2023117107" ;
     skos:altLabel "MET_SLOVAKIA" ;

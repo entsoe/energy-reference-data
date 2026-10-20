@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:10Y1001C--00152Z</dcterms:identifier>
-    <skos:prefLabel>DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)</skos:prefLabel>
+    <skos:prefLabel>TTG&#8211;NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)</skos:prefLabel>
     <skos:altLabel>TTG-VBZ-NO2A</skos:altLabel>
     <skos:definition xml:lang="en">EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core</skos:definition>
     <cim:IdentifiedObject.mRID>10Y1001C--00152Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>TTG&#8211;NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)</cim:IdentifiedObject.name>
     <cim:Names.name>TTG-VBZ-NO2A</cim:Names.name>
     <cim:IdentifiedObject.description>EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-12-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-28</cim:DateAndOrTime.date>
     <cim:Names.name>Border Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

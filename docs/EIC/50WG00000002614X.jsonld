@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002614X",
-    "@skos:prefLabel": "MOSKOG  G140 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G140_",
+    "@skos:prefLabel": "SELSELVAG1      HYDRO",
+    "@skos:altLabel": "NO-SELSELVAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000002614X",
-    "@cim:IdentifiedObject.name": "MOSKOG  G140 HYDRO",
+    "@cim:IdentifiedObject.name": "SELSELVAG1      HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G140_",
+        "NO-SELSELVAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2008-09-11" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12X-0000001671-W" ;
     cim:IdentifiedObject.name "Louis Dreyfus Energy Services L.P." ;
-    cim:Names.name "Balance Group",
-        "CH653791",
+    cim:Names.name "CH653791",
+        "Capacity Trader",
         "LDH_ENERGY-ST" ;
     dcterms:identifier "urn:eic:12X-0000001671-W" ;
     schema1:vatID "CH653791" ;

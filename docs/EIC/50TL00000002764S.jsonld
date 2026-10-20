@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002764S",
-    "@skos:prefLabel": "M 22 Tosbotn-Storelva",
-    "@skos:altLabel": "NO-TOSBOTNSTOREL",
+    "@skos:prefLabel": "N 22 Tosbotn-Storelva",
+    "@skos:altLabel": "NO-22TOSBOTNSTOR",
     "@cim:IdentifiedObject.mRID": "50TL00000002764S",
-    "@cim:IdentifiedObject.name": "M 22 Tosbotn-Storelva",
+    "@cim:IdentifiedObject.name": "N 22 Tosbotn-Storelva",
     "@cim:Names.name": [
-        "NO-TOSBOTNSTOREL",
+        "NO-22TOSBOTNSTOR",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,10 +12,10 @@
     <cim:Names.name>VOE0000000001</cim:Names.name>
     <cim:Names.name>10160145</cim:Names.name>
     <cim:IdentifiedObject.description>Balancing Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Valid EIC function needed</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>10160145</schema:vatID>
   </skos:Concept>

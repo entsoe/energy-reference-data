@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGREV-DELTA--A" ;
     cim:IdentifiedObject.name "Stadtwerke Greven GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE811467224",
-        "SWGREVENDELTA" ;
+    cim:Names.name "DE811467224",
+        "SWGREVENDELTA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGREV-DELTA--A" ;
     schema1:vatID "DE811467224" ;
     skos:altLabel "SWGREVENDELTA" ;

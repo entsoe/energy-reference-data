@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL000000015482",
     "@skos:prefLabel": "S 50 Granvin-Ulvik",
-    "@skos:altLabel": "NO-GRANVINULVIK",
+    "@skos:altLabel": "NO-50GRANVINULVI",
     "@cim:IdentifiedObject.mRID": "50TL000000015482",
     "@cim:IdentifiedObject.name": "S 50 Granvin-Ulvik",
     "@cim:Names.name": [
-        "NO-GRANVINULVIK",
+        "NO-50GRANVINULVI",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

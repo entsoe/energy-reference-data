@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005597D",
-    "@skos:prefLabel": "M Røros    TN Transformator",
-    "@skos:altLabel": "NO-ROROS___TN",
+    "@skos:prefLabel": "N Røros    TN Transformator",
+    "@skos:altLabel": "NO-ROROSTN",
     "@cim:IdentifiedObject.mRID": "50TT00000005597D",
-    "@cim:IdentifiedObject.name": "M Røros    TN Transformator",
+    "@cim:IdentifiedObject.name": "N Røros    TN Transformator",
     "@cim:Names.name": [
-        "NO-ROROS___TN",
+        "NO-ROROSTN",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

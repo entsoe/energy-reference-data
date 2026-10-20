@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XFFEW--------Y",
-    "@skos:prefLabel": "Fürstlich Fugger v. Glött´sche E-Werks GmbH & Co. KG",
+    "@skos:prefLabel": "Fürstlich Fugger v. Glött'sche E-Werks GmbH & Co. KG",
     "@skos:altLabel": "FFEW",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XFFEW--------Y",
-    "@cim:IdentifiedObject.name": "Fürstlich Fugger v. Glött´sche E-Werks GmbH & Co. KG",
+    "@cim:IdentifiedObject.name": "Fürstlich Fugger v. Glött'sche E-Werks GmbH & Co. KG",
     "@cim:Names.name": [
         "FFEW",
-        "14015953900",
-        "Balance Group"
+        "DE283220124",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-10-07",
-    "@schema:vatID": "14015953900",
+    "@cim:DateAndOrTime.date": "2024-11-29",
+    "@schema:vatID": "DE283220124",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

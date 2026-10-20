@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Energy, Fuel And Metal Trader (Sk: Predaj Pevnych, Tekutych A Plynnych Pală­V,El. Energie, Kovov, Hutnă­Ckych Materiylov A Ferozliatin.)" ;
     cim:IdentifiedObject.mRID "24X-SLOVENERGO-4" ;
     cim:IdentifiedObject.name "SLOVENERGO spol. s.r.o." ;
     cim:Names.name "SK2020314912",
         "SLOVENERGO",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-SLOVENERGO-4" ;
     schema1:vatID "SK2020314912" ;
     skos:altLabel "SLOVENERGO" ;

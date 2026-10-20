@@ -12,22 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21Z000000000020C",
-    "@skos:prefLabel": "Kulata (BG)/Sidirokastron (GR)",
+    "@skos:prefLabel": "SIDIROKASTRO",
     "@skos:altLabel": "KULA-BG-GR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000020C",
-    "@cim:IdentifiedObject.name": "Kulata (BG)/Sidirokastron (GR)",
+    "@cim:IdentifiedObject.name": "SIDIROKASTRO",
     "@cim:Names.name": [
         "KULA-BG-GR",
         "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-05-28",
+    "@cim:DateAndOrTime.date": "2024-07-06",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

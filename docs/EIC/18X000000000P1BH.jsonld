@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000P1BH",
-    "@skos:prefLabel": "YOU ARE ENERGU, S.L.",
+    "@skos:prefLabel": "YOU ARE ENERGY, S.L.",
     "@skos:altLabel": "ES-YOUAREENERGY",
     "@cim:IdentifiedObject.mRID": "18X000000000P1BH",
-    "@cim:IdentifiedObject.name": "YOU ARE ENERGU, S.L.",
+    "@cim:IdentifiedObject.name": "YOU ARE ENERGY, S.L.",
     "@cim:Names.name": [
         "ES-YOUAREENERGY",
         "ESB10938785",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-01-16",
+    "@cim:DateAndOrTime.date": "2025-03-25",
     "@schema:vatID": "ESB10938785",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

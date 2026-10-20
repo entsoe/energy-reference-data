@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-23" ;
+    cim:DateAndOrTime.date "2025-07-10" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Change of company address , function and contact person" ;
     cim:IdentifiedObject.mRID "53XPL000000ENGSD" ;
     cim:IdentifiedObject.name "Unimot Energia i Gaz Sp. z o.o." ;
-    cim:Names.name "PL9730421440",
-        "Trade Responsible Party",
+    cim:Names.name "Balance Responsible Party",
+        "PL9730421440",
         "UNIMOT_EIG" ;
     dcterms:identifier "urn:eic:53XPL000000ENGSD" ;
     schema1:vatID "PL9730421440" ;

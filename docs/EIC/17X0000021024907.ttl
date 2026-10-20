@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17X0000021024907> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "17X0000021024907" ;
+    cim:IdentifiedObject.name "GAS GLOBE SAS" ;
+    cim:Names.name "Balance Responsible Party",
+        "FR15932751613",
+        "FR_GAS_GLOBE" ;
+    dcterms:identifier "urn:eic:17X0000021024907" ;
+    schema1:vatID "FR15932751613" ;
+    skos:altLabel "FR_GAS_GLOBE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GAS GLOBE SAS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

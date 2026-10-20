@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2009-12-18" ;
+    cim:DateAndOrTime.date "2024-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "12XICD---------O" ;
     cim:IdentifiedObject.name "ICD-Inter Commercial Dialogue Ltd." ;
-    cim:Names.name "Balance Group",
-        "CH538740",
+    cim:Names.name "CH538740",
+        "Capacity Trader",
         "ICD-ST" ;
     dcterms:identifier "urn:eic:12XICD---------O" ;
     schema1:vatID "CH538740" ;

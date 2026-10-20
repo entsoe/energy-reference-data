@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:30XROENELENERG-7",
-    "@skos:prefLabel": "ENEL ENERGIE",
+    "@skos:prefLabel": "PPC ENERGIE",
     "@skos:altLabel": "RO_ENELENERGIE",
     "@cim:IdentifiedObject.mRID": "30XROENELENERG-7",
-    "@cim:IdentifiedObject.name": "ENEL ENERGIE",
+    "@cim:IdentifiedObject.name": "PPC ENERGIE",
     "@cim:Names.name": [
         "RO_ENELENERGIE",
         "RO22000460",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-30",
+    "@cim:DateAndOrTime.date": "2024-04-02",
     "@schema:vatID": "RO22000460",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

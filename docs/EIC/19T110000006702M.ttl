@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006702M" ;
-    cim:IdentifiedObject.name "Sochaczew-Ołtarzew" ;
+    cim:IdentifiedObject.name "220kV Oltarzew-Sochaczew" ;
     cim:Names.name "1013",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006702M" ;
     skos:altLabel "1013" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Sochaczew-Ołtarzew" ;
+    skos:prefLabel "220kV Oltarzew-Sochaczew" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMPB-1234567-A",
     "@skos:prefLabel": "ASOCIACION MERCADO PUERTA BONITA",
     "@skos:altLabel": "MPB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMPB-1234567-A",
     "@cim:IdentifiedObject.name": "ASOCIACION MERCADO PUERTA BONITA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG78414463",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG78414463",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

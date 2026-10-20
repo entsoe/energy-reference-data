@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XEVRVERTRIEB-F",
     "@skos:prefLabel": "Energieversorgung Rüsselsheim GmbH",
     "@skos:altLabel": "EVR_VERTRIEB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XEVRVERTRIEB-F",
     "@cim:IdentifiedObject.name": "Energieversorgung Rüsselsheim GmbH",
     "@cim:Names.name": [
         "EVR_VERTRIEB",
-        "DE220280597",
-        "Balance Group"
+        "DE220280572",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-01-06",
-    "@schema:vatID": "DE220280597",
+    "@cim:DateAndOrTime.date": "2025-04-07",
+    "@schema:vatID": "DE220280572",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

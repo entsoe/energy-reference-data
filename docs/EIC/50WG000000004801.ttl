@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000004801" ;
     cim:IdentifiedObject.name "FROGNER G108 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-FROGNER_G108_" ;
+        "NO-FROGNERG108" ;
     dcterms:identifier "urn:eic:50WG000000004801" ;
-    skos:altLabel "NO-FROGNER_G108_" ;
+    skos:altLabel "NO-FROGNERG108" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FROGNER G108 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

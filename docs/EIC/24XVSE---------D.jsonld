@@ -12,23 +12,28 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:24XVSE---------D",
-    "@skos:prefLabel": "Vychodoslovenska energetika a.s.",
-    "@skos:altLabel": "VSE-SK",
+    "@skos:prefLabel": "Energetika Slovensko, a.s.",
+    "@skos:altLabel": "ENERGETIKA_SK",
     "@skos:definition": {
         "@language": "en",
         "@value": "Distribution Company"
     },
     "@cim:IdentifiedObject.mRID": "24XVSE---------D",
-    "@cim:IdentifiedObject.name": "Vychodoslovenska energetika a.s.",
+    "@cim:IdentifiedObject.name": "Energetika Slovensko, a.s.",
     "@cim:Names.name": [
-        "VSE-SK",
+        "ENERGETIKA_SK",
         "SK2022730457",
-        "Trade Responsible Party"
+        "Balance Responsible Party",
+        "Capacity Trader",
+        "Energy Supplier",
+        "Production Responsible Party",
+        "Trade Responsible Party",
+        "Balancing Service Provider"
     ],
     "@cim:IdentifiedObject.description": "Distribution Company",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-02-05",
+    "@cim:DateAndOrTime.date": "2025-07-01",
     "@schema:vatID": "SK2022730457",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

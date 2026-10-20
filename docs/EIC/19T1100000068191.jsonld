@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000068191",
-    "@skos:prefLabel": "220 kV Nysa-Groszowice",
+    "@skos:prefLabel": "220kV Groszowice-Nysa",
     "@skos:altLabel": "3504",
     "@cim:IdentifiedObject.mRID": "19T1100000068191",
-    "@cim:IdentifiedObject.name": "220 kV Nysa-Groszowice",
+    "@cim:IdentifiedObject.name": "220kV Groszowice-Nysa",
     "@cim:Names.name": [
         "3504",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-11-15",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002993D",
-    "@skos:prefLabel": "M 132 Trongsundet-Tilrem",
-    "@skos:altLabel": "NO-TRONGSUNDETTI",
+    "@skos:prefLabel": "N 132 Trongsundet-Tilrem",
+    "@skos:altLabel": "NO-132TRONGSUNDE",
     "@cim:IdentifiedObject.mRID": "50TL00000002993D",
-    "@cim:IdentifiedObject.name": "M 132 Trongsundet-Tilrem",
+    "@cim:IdentifiedObject.name": "N 132 Trongsundet-Tilrem",
     "@cim:Names.name": [
-        "NO-TRONGSUNDETTI",
+        "NO-132TRONGSUNDE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

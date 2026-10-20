@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/67X-00000000009Z",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:67X-00000000009Z",
+    "@skos:prefLabel": "ASTRA ENERCO INTERNATIONAL DOO BEOGRAD",
+    "@skos:altLabel": "ASTRAENERCO",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.\nCompany Name: Astra Enerco International d.o.o. Belgrade\nRegistered Address:\nVojvode Stepe 32, Apartment 1, \n11000 Belgrade, Serbia\nContact person name: Mladen Vekic\nContact person email: mladen.vekic@astraei.com\nContact person telephone: +381658778879\n\n"
+    },
+    "@cim:IdentifiedObject.mRID": "67X-00000000009Z",
+    "@cim:IdentifiedObject.name": "ASTRA ENERCO INTERNATIONAL DOO BEOGRAD",
+    "@cim:Names.name": [
+        "ASTRAENERCO",
+        "RS115630088",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Astra Enerco International d.o.o. Beograd is an energy company established under the laws of the Republic of Serbia. The company performs activities related to natural gas trading and supply through the natural gas transmission system.\nCompany Name: Astra Enerco International d.o.o. Belgrade\nRegistered Address:\nVojvode Stepe 32, Apartment 1, \n11000 Belgrade, Serbia\nContact person name: Mladen Vekic\nContact person email: mladen.vekic@astraei.com\nContact person telephone: +381658778879\n\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-07-23",
+    "@schema:vatID": "RS115630088",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

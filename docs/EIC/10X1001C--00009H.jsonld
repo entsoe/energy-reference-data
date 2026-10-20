@@ -18,11 +18,13 @@
     "@cim:IdentifiedObject.name": "Common platform for mFRR",
     "@cim:Names.name": [
         "MFRR_PLATFORM",
+        "NA1",
         "Platform Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-03-31",
+    "@cim:DateAndOrTime.date": "2026-10-15",
+    "@schema:vatID": "NA1",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

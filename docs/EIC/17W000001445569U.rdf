@@ -6,14 +6,16 @@
     <dcterms:identifier>urn:eic:17W000001445569U</dcterms:identifier>
     <skos:prefLabel>Eoliennes Offshore des Hautes Falaises 1</skos:prefLabel>
     <skos:altLabel>FR_HAUTESFAL_GU1</skos:altLabel>
-    <skos:definition xml:lang="en">Ajout code EIC parent + changement de nom + modification du responsible party</skos:definition>
+    <skos:definition xml:lang="en">Ajout code EIC parent + changement de nom + modification du responsible party
+update</skos:definition>
     <cim:IdentifiedObject.mRID>17W000001445569U</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Eoliennes Offshore des Hautes Falaises 1</cim:IdentifiedObject.name>
     <cim:Names.name>FR_HAUTESFAL_GU1</cim:Names.name>
-    <cim:IdentifiedObject.description>Ajout code EIC parent + changement de nom + modification du responsible party</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Ajout code EIC parent + changement de nom + modification du responsible party
+update</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-10-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-15</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002915X" ;
-    cim:IdentifiedObject.name "M 66 Nedre Leirfoss-Øvre Leirfoss" ;
+    cim:IdentifiedObject.name "N 66 Nedre Leirfoss-Øvre Leirfoss" ;
     cim:Names.name "Internal Line",
-        "NO-NEDRELEIRFOSS" ;
+        "NO-66NEDRELEIRFO" ;
     dcterms:identifier "urn:eic:50TL00000002915X" ;
-    skos:altLabel "NO-NEDRELEIRFOSS" ;
+    skos:altLabel "NO-66NEDRELEIRFO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Nedre Leirfoss-Øvre Leirfoss" ;
+    skos:prefLabel "N 66 Nedre Leirfoss-Øvre Leirfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

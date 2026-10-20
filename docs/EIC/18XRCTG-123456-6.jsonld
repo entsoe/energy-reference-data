@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XRCTG-123456-6",
     "@skos:prefLabel": "R Cable y Telecomunicaciones Galicia, S.A.",
     "@skos:altLabel": "RCTG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XRCTG-123456-6",
     "@cim:IdentifiedObject.name": "R Cable y Telecomunicaciones Galicia, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA15474281",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-07-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA15474281",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000004649P",
     "@skos:prefLabel": "S Brokke   T5 Transformator",
-    "@skos:altLabel": "NO-BROKKE__T5",
+    "@skos:altLabel": "NO-BROKKET5",
     "@cim:IdentifiedObject.mRID": "50TT00000004649P",
     "@cim:IdentifiedObject.name": "S Brokke   T5 Transformator",
     "@cim:Names.name": [
-        "NO-BROKKE__T5",
+        "NO-BROKKET5",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

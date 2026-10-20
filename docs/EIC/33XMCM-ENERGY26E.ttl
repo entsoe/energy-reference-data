@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/33XMCM-ENERGY26E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "33XMCM-ENERGY26E" ;
+    cim:IdentifiedObject.name "MCM ENERGY DOOEL Skopje" ;
+    cim:Names.name "4080019581002",
+        "MCM_ENERGY_MK",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:33XMCM-ENERGY26E" ;
+    schema1:vatID "4080019581002" ;
+    skos:altLabel "MCM_ENERGY_MK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MCM ENERGY DOOEL Skopje" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

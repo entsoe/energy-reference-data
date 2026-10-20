@@ -14,6 +14,10 @@
     "@dcterms:identifier": "urn:eic:45X000000000147Z",
     "@skos:prefLabel": "Sympower Denmark ",
     "@skos:altLabel": "SYMPOWERDK",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Hi ENTSO-E\n\nWe have received the following message from Sympower.\nPlease inactivate their EIC code: 45X000000000147Z.\n\nBest regards,\nMaria Heuer, Energinet DK (45)\n\n................................................................................\n\nWe would like to inform you that our Danish legal entity has been\nliquidated. Could you please remove us from the list of EIC approved code ?\nhttps://www.entsoe.eu/data/energy-identification-codes-eic/eic-approved-codes/\n\nI believe the EIC code is 45X000000000147Z\n\nBest regards,\n\nSympower \n*Mathilde Chareyron*\nHead of Public & Regulatory Affairs\nmathilde.chareyron@sympower.net "
+    },
     "@cim:IdentifiedObject.mRID": "45X000000000147Z",
     "@cim:IdentifiedObject.name": "Sympower Denmark ",
     "@cim:Names.name": [
@@ -22,9 +26,10 @@
         "Balance Responsible Party",
         "Energy Supplier"
     ],
+    "@cim:IdentifiedObject.description": "Hi ENTSO-E\n\nWe have received the following message from Sympower.\nPlease inactivate their EIC code: 45X000000000147Z.\n\nBest regards,\nMaria Heuer, Energinet DK (45)\n\n................................................................................\n\nWe would like to inform you that our Danish legal entity has been\nliquidated. Could you please remove us from the list of EIC approved code ?\nhttps://www.entsoe.eu/data/energy-identification-codes-eic/eic-approved-codes/\n\nI believe the EIC code is 45X000000000147Z\n\nBest regards,\n\nSympower \n*Mathilde Chareyron*\nHead of Public & Regulatory Affairs\nmathilde.chareyron@sympower.net ",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-27",
+    "@cim:DateAndOrTime.date": "2026-10-02",
     "@schema:vatID": "85618260B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

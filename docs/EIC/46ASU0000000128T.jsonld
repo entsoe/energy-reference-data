@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:46ASU0000000128T",
-    "@skos:prefLabel": "Porjus",
-    "@skos:altLabel": "PORJUS",
+    "@skos:prefLabel": "Porjusberget",
+    "@skos:altLabel": "PORJUSBERGET",
     "@skos:definition": {
         "@language": "en",
         "@value": "Substation"
     },
     "@cim:IdentifiedObject.mRID": "46ASU0000000128T",
-    "@cim:IdentifiedObject.name": "Porjus",
+    "@cim:IdentifiedObject.name": "Porjusberget",
     "@cim:Names.name": [
-        "PORJUS",
+        "PORJUSBERGET",
         "Substation"
     ],
     "@cim:IdentifiedObject.description": "Substation",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-01",
+    "@cim:DateAndOrTime.date": "2025-08-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "De-activate please - customer reason being 'Duplicate T Code set up by RTE'" ;
     cim:IdentifiedObject.mRID "48T000000000163B" ;
     cim:IdentifiedObject.name "Daedulus - Tourbe" ;
-    cim:Names.name "L_DAEDAL_TOURBE" ;
+    cim:Names.name "L_DAEDAL_TOURBE",
+        "Tieline" ;
     dcterms:identifier "urn:eic:48T000000000163B" ;
     skos:altLabel "L_DAEDAL_TOURBE" ;
     skos:definition "De-activate please - customer reason being 'Duplicate T Code set up by RTE'"@en ;

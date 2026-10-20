@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-11-29" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWGLAUCHAU--N" ;
     cim:IdentifiedObject.name "Stadtwerke Glauchau Dienstleistungsgesellschaft mbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE141171315",
         "SWGLAUCHAU" ;
     dcterms:identifier "urn:eic:11XSWGLAUCHAU--N" ;
     schema1:vatID "DE141171315" ;
     skos:altLabel "SWGLAUCHAU" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Glauchau Dienstleistungsgesellschaft mbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

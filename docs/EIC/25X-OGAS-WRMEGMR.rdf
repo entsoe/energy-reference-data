@@ -15,9 +15,9 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2019-06-27</cim:DateAndOrTime.date>
-    <cim:Names.name>Transmission Capacity Allocator</cim:Names.name>
-    <cim:Names.name>Producer</cim:Names.name>
     <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Transmission Capacity Allocator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ATU73917719</schema:vatID>
   </skos:Concept>

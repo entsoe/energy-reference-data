@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XPL00000GONAR9> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-19" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XPL00000GONAR9" ;
+    cim:IdentifiedObject.name "GONAR - BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "A0023026M.PL",
+        "Consumer",
+        "Energy Supplier",
+        "GONAR-BIS",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
+        "PL6342620329",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19XPL00000GONAR9" ;
+    schema1:vatID "PL6342620329" ;
+    skos:altLabel "GONAR-BIS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GONAR - BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

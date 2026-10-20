@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/17X000002455448E">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:17X000002455448E</dcterms:identifier>
+    <skos:prefLabel>ICARE AUTOMATION</skos:prefLabel>
+    <skos:altLabel>FR_ICARE_AUTOMAT</skos:altLabel>
+    <cim:IdentifiedObject.mRID>17X000002455448E</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>ICARE AUTOMATION</cim:IdentifiedObject.name>
+    <cim:Names.name>FR_ICARE_AUTOMAT</cim:Names.name>
+    <cim:Names.name>FR65450313044</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-05-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Metered Data Responsible</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>FR65450313044</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

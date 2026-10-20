@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000732E" ;
-    cim:IdentifiedObject.name "S 132 T_Rod-T_Frogner" ;
+    cim:IdentifiedObject.name "S 132 Rød-T_Frogner" ;
     cim:Names.name "Internal Line",
-        "NO-TRODTFROGNER" ;
+        "NO-132RODT_FROGN" ;
     dcterms:identifier "urn:eic:50TL00000000732E" ;
-    skos:altLabel "NO-TRODTFROGNER" ;
+    skos:altLabel "NO-132RODT_FROGN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 T_Rod-T_Frogner" ;
+    skos:prefLabel "S 132 Rød-T_Frogner" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

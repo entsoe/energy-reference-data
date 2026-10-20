@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006803G",
-    "@skos:prefLabel": "Mory-Praga",
+    "@skos:prefLabel": "220kV Mory-Praga",
     "@skos:altLabel": "1106",
     "@cim:IdentifiedObject.mRID": "19T110000006803G",
-    "@cim:IdentifiedObject.name": "Mory-Praga",
+    "@cim:IdentifiedObject.name": "220kV Mory-Praga",
     "@cim:Names.name": [
         "1106",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-25",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

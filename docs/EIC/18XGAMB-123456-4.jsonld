@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGAMB-123456-4",
     "@skos:prefLabel": "GAMBASTAR S.L",
     "@skos:altLabel": "GAMB",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGAMB-123456-4",
     "@cim:IdentifiedObject.name": "GAMBASTAR S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB09417932",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-08",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB09417932",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

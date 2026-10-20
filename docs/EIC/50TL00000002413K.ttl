@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002413K" ;
-    cim:IdentifiedObject.name "M Hopen 132 T3 X" ;
+    cim:IdentifiedObject.name "N Hopen    132 T3 X" ;
     cim:Names.name "Internal Line",
-        "NO-HOPEN132T3X" ;
+        "NO-HOPEN132T3_X" ;
     dcterms:identifier "urn:eic:50TL00000002413K" ;
-    skos:altLabel "NO-HOPEN132T3X" ;
+    skos:altLabel "NO-HOPEN132T3_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Hopen 132 T3 X" ;
+    skos:prefLabel "N Hopen    132 T3 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

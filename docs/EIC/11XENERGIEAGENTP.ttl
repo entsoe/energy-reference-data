@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENERGIEAGENTP" ;
     cim:IdentifiedObject.name "Energieagentur Deutschland GmbH" ;
-    cim:Names.name "Balance Group",
-        "ENERGIEAGENTUR" ;
+    cim:Names.name "ENERGIEAGENTUR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENERGIEAGENTP" ;
     skos:altLabel "ENERGIEAGENTUR" ;
     skos:definition "Balance Group"@en ;

@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Fictive CA in UCTE South for Mngt of compensation UCTE Noth/South",
     "@cim:Names.name": [
         "FICT_CA_SOUTH",
-        "Valid EIC Function needed"
+        "Control Area"
     ],
     "@cim:IdentifiedObject.description": "Fictitious Area",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-09-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

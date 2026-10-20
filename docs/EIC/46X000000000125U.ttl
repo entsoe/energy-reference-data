@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000125U> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000125U" ;
+    cim:IdentifiedObject.name "LRF Samköp AB" ;
+    cim:Names.name "Energy Supplier",
+        "LRF_SAMKOP",
+        "SE556043877101" ;
+    dcterms:identifier "urn:eic:46X000000000125U" ;
+    schema1:vatID "SE556043877101" ;
+    skos:altLabel "LRF_SAMKOP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "LRF Samköp AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

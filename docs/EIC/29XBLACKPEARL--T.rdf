@@ -6,16 +6,22 @@
     <dcterms:identifier>urn:eic:29XBLACKPEARL--T</dcterms:identifier>
     <skos:prefLabel>WATT AND VOLT EXPLOITATION OF ALTERNATIVE FORMS OF ENERGY SINGLE MEMBE</skos:prefLabel>
     <skos:altLabel>WATT_AND_VOLT</skos:altLabel>
-    <skos:definition xml:lang="en">Trade of Electricity  Transmission of electricity  Distribution of electricity  Retail sale of electrical household appliances </skos:definition>
+    <skos:definition xml:lang="en">Trade of Electricity 
+Transmission of electricity 
+Distribution of electricity 
+Retail sale of electrical household appliances </skos:definition>
     <cim:IdentifiedObject.mRID>29XBLACKPEARL--T</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>WATT AND VOLT EXPLOITATION OF ALTERNATIVE FORMS OF ENERGY SINGLE MEMBE</cim:IdentifiedObject.name>
     <cim:Names.name>WATT_AND_VOLT</cim:Names.name>
     <cim:Names.name>A0003997W.GR</cim:Names.name>
     <cim:Names.name>EL998283692</cim:Names.name>
-    <cim:IdentifiedObject.description>Trade of Electricity  Transmission of electricity  Distribution of electricity  Retail sale of electrical household appliances </cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:IdentifiedObject.description>Trade of Electricity 
+Transmission of electricity 
+Distribution of electricity 
+Retail sale of electrical household appliances </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-04-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-11</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>

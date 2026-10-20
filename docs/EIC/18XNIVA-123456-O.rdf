@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XNIVA-123456-O</dcterms:identifier>
     <skos:prefLabel>NIVAPLAST RECICLADOS</skos:prefLabel>
     <skos:altLabel>NIVA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XNIVA-123456-O</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>NIVAPLAST RECICLADOS</cim:IdentifiedObject.name>
     <cim:Names.name>NIVA</cim:Names.name>
     <cim:Names.name>ESB19560408</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-08-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB19560408</schema:vatID>

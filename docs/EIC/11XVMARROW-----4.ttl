@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XVMARROW-----4" ;
     cim:IdentifiedObject.name "Vmarrow Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE281915830",
-        "VMR" ;
+    cim:Names.name "DE281915830",
+        "VMR",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XVMARROW-----4" ;
     schema1:vatID "DE281915830" ;
     skos:altLabel "VMR" ;

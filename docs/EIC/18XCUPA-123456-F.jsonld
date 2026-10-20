@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCUPA-123456-F",
     "@skos:prefLabel": "Cupire Padesa SL",
     "@skos:altLabel": "CUPA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCUPA-123456-F",
     "@cim:IdentifiedObject.name": "Cupire Padesa SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB32001588",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-03-06",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB32001588",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

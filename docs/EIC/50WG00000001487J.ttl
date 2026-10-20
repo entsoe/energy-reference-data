@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001487J" ;
     cim:IdentifiedObject.name "SKARJE  P2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SKARJE__P2___" ;
+        "NO-SKARJEP2" ;
     dcterms:identifier "urn:eic:50WG00000001487J" ;
-    skos:altLabel "NO-SKARJE__P2___" ;
+    skos:altLabel "NO-SKARJEP2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SKARJE  P2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

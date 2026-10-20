@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLEWAG-MPM---Y" ;
     cim:IdentifiedObject.name "Lechwerke AG" ;
-    cim:Names.name "Balance Group",
-        "DE127470129",
-        "LEWAG_MPM" ;
+    cim:Names.name "DE127470129",
+        "LEWAG_MPM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLEWAG-MPM---Y" ;
     schema1:vatID "DE127470129" ;
     skos:altLabel "LEWAG_MPM" ;

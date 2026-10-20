@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000025275" ;
-    cim:IdentifiedObject.name "N Tana 22 CB X" ;
+    cim:IdentifiedObject.name "N Tana     22  CB X" ;
     cim:Names.name "Internal Line",
-        "NO-TANA22CBX" ;
+        "NO-TANA22CB_X" ;
     dcterms:identifier "urn:eic:50TL000000025275" ;
-    skos:altLabel "NO-TANA22CBX" ;
+    skos:altLabel "NO-TANA22CB_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Tana 22 CB X" ;
+    skos:prefLabel "N Tana     22  CB X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

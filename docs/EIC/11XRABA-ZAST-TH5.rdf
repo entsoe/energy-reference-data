@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XRABA-ZAST-TH5</dcterms:identifier>
-    <skos:prefLabel>Zweckverband f&#252;r Abfallwirtschaft S&#252;dwestth&#252;ringen (ZASt)</skos:prefLabel>
+    <skos:prefLabel>Zweckverband f&#252;r Abfallzweckwirtschaft S&#252;dwestth&#252;ringen (ZASt)</skos:prefLabel>
     <skos:altLabel>ZAST</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XRABA-ZAST-TH5</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Zweckverband f&#252;r Abfallwirtschaft S&#252;dwestth&#252;ringen (ZASt)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Zweckverband f&#252;r Abfallzweckwirtschaft S&#252;dwestth&#252;ringen (ZASt)</cim:IdentifiedObject.name>
     <cim:Names.name>ZAST</cim:Names.name>
     <cim:Names.name>DE257970968</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-11-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-01-10</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE257970968</schema:vatID>

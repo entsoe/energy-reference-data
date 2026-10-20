@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSWGLAUCHAU--N",
     "@skos:prefLabel": "Stadtwerke Glauchau Dienstleistungsgesellschaft mbH",
     "@skos:altLabel": "SWGLAUCHAU",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWGLAUCHAU--N",
     "@cim:IdentifiedObject.name": "Stadtwerke Glauchau Dienstleistungsgesellschaft mbH",
     "@cim:Names.name": [
         "SWGLAUCHAU",
         "DE141171315",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2024-11-29",
     "@schema:vatID": "DE141171315",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

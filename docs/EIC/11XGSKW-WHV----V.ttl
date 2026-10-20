@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-16" ;
+    cim:DateAndOrTime.date "2026-10-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XGSKW-WHV----V" ;
-    cim:IdentifiedObject.name "ENGIE Kraftwerk Wilhelmshaven GmbH & Co. KG" ;
+    cim:IdentifiedObject.name "Onyx Kraftwerk Wilhelmshaven GmbH & Co. KG" ;
     cim:Names.name "Balance Responsible Party",
         "DE257536814",
         "GSKW-WHV" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE257536814" ;
     skos:altLabel "GSKW-WHV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENGIE Kraftwerk Wilhelmshaven GmbH & Co. KG" ;
+    skos:prefLabel "Onyx Kraftwerk Wilhelmshaven GmbH & Co. KG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

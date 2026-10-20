@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/10Y1001C--00245S",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:10Y1001C--00245S",
+    "@skos:prefLabel": "Technical Profile btwn DK1 and adjacent areas of DK, GE, NO, SE and NL",
+    "@skos:altLabel": "DK1-ADJ-AREA",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Desctiption (optional)\tTechnical Profile between DK1 and adjacent areas of DK, DE, NO, SE and NL"
+    },
+    "@cim:IdentifiedObject.mRID": "10Y1001C--00245S",
+    "@cim:IdentifiedObject.name": "Technical Profile btwn DK1 and adjacent areas of DK, GE, NO, SE and NL",
+    "@cim:Names.name": [
+        "DK1-ADJ-AREA",
+        "Border Area"
+    ],
+    "@cim:IdentifiedObject.description": "Desctiption (optional)\tTechnical Profile between DK1 and adjacent areas of DK, DE, NO, SE and NL",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-05-29",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

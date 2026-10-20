@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSTW-WT------W",
-    "@skos:prefLabel": "Stadtwerke Waldshut-Tiengen GmBH",
+    "@skos:prefLabel": "Stadtwerke Waldshut-Tiengen GmbH",
     "@skos:altLabel": "STW_WT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTW-WT------W",
-    "@cim:IdentifiedObject.name": "Stadtwerke Waldshut-Tiengen GmBH",
+    "@cim:IdentifiedObject.name": "Stadtwerke Waldshut-Tiengen GmbH",
     "@cim:Names.name": [
         "STW_WT",
         "DE204444191",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2005-12-06",
+    "@cim:DateAndOrTime.date": "2025-05-19",
     "@schema:vatID": "DE204444191",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

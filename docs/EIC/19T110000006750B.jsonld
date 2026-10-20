@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006750B",
-    "@skos:prefLabel": "Siersza-Lubocza 1",
+    "@skos:prefLabel": "220kV Lubocza-Siersza 1",
     "@skos:altLabel": "3017",
     "@cim:IdentifiedObject.mRID": "19T110000006750B",
-    "@cim:IdentifiedObject.name": "Siersza-Lubocza 1",
+    "@cim:IdentifiedObject.name": "220kV Lubocza-Siersza 1",
     "@cim:Names.name": [
         "3017",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19XACPRO3-----0I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19XACPRO3-----0I",
+    "@skos:prefLabel": "ACPRO SP.ZOO 3 SP.K.",
+    "@skos:altLabel": "ACPRO3",
+    "@cim:IdentifiedObject.mRID": "19XACPRO3-----0I",
+    "@cim:IdentifiedObject.name": "ACPRO SP.ZOO 3 SP.K.",
+    "@cim:Names.name": [
+        "ACPRO3",
+        "A00207758.PL",
+        "PL8992910369",
+        "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
+        "Grid Access Provider",
+        "Metered Data Responsible"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-07",
+    "@schema:vatID": "PL8992910369",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

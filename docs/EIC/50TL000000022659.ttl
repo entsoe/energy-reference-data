@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000022659" ;
-    cim:IdentifiedObject.name "M 66 Tunnsjødal-Skorovatn" ;
+    cim:IdentifiedObject.name "N 66 Tunnsjødal-Skorovatn" ;
     cim:Names.name "Internal Line",
-        "NO-TUNNSJODALSKO" ;
+        "NO-66TUNNSJODALS" ;
     dcterms:identifier "urn:eic:50TL000000022659" ;
-    skos:altLabel "NO-TUNNSJODALSKO" ;
+    skos:altLabel "NO-66TUNNSJODALS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Tunnsjødal-Skorovatn" ;
+    skos:prefLabel "N 66 Tunnsjødal-Skorovatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

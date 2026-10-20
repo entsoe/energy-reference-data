@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000679U",
-    "@skos:prefLabel": "L F7  Forbruk",
-    "@skos:altLabel": "NO-DUMMYF7",
+    "@skos:prefLabel": "N Osbu     22  N1 Forbruk",
+    "@skos:altLabel": "NO-OSBU22N1",
     "@cim:IdentifiedObject.mRID": "50WC00000000679U",
-    "@cim:IdentifiedObject.name": "L F7  Forbruk",
+    "@cim:IdentifiedObject.name": "N Osbu     22  N1 Forbruk",
     "@cim:Names.name": [
-        "NO-DUMMYF7",
+        "NO-OSBU22N1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

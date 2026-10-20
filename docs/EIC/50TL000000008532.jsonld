@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000008532",
-    "@skos:prefLabel": "M 22 Gursken-Sørbrandal",
-    "@skos:altLabel": "NO-GURSKENSORBRA",
+    "@skos:prefLabel": "N 22 Gursken-Sørbrandal",
+    "@skos:altLabel": "NO-22GURSKENSORB",
     "@cim:IdentifiedObject.mRID": "50TL000000008532",
-    "@cim:IdentifiedObject.name": "M 22 Gursken-Sørbrandal",
+    "@cim:IdentifiedObject.name": "N 22 Gursken-Sørbrandal",
     "@cim:Names.name": [
-        "NO-GURSKENSORBRA",
+        "NO-22GURSKENSORB",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

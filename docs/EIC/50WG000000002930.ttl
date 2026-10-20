@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000002930" ;
     cim:IdentifiedObject.name "EID     G2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-EID_____G2___" ;
+        "NO-EIDG2" ;
     dcterms:identifier "urn:eic:50WG000000002930" ;
-    skos:altLabel "NO-EID_____G2___" ;
+    skos:altLabel "NO-EIDG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "EID     G2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/33XGBGMK0000077B",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:33XGBGMK0000077B",
+    "@skos:prefLabel": "TD Green Balancuing Group DOOEL Skopje",
+    "@skos:altLabel": "GBGMK",
+    "@cim:IdentifiedObject.mRID": "33XGBGMK0000077B",
+    "@cim:IdentifiedObject.name": "TD Green Balancuing Group DOOEL Skopje",
+    "@cim:Names.name": [
+        "GBGMK",
+        "4032023560694",
+        "Energy Supplier",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-06-13",
+    "@schema:vatID": "4032023560694",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

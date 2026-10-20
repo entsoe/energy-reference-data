@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFEIS-123456-S",
     "@skos:prefLabel": "FABRICACION DE ENVASES INDUSTRIALES",
     "@skos:altLabel": "FEIS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFEIS-123456-S",
     "@cim:IdentifiedObject.name": "FABRICACION DE ENVASES INDUSTRIALES",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28204527",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-19",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28204527",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

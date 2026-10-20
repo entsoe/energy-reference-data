@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000P9YL> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-20" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000P9YL" ;
+    cim:IdentifiedObject.name "IGNIS ELECTRICIDAD Y GAS, S.L.U." ;
+    cim:Names.name "ES-MORT",
+        "ESB56989304",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000P9YL" ;
+    schema1:vatID "ESB56989304" ;
+    skos:altLabel "ES-MORT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "IGNIS ELECTRICIDAD Y GAS, S.L.U." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

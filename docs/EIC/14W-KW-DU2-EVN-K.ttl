@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-KW-DU2-EVN-K" ;
     cim:IdentifiedObject.name "Kraftwerk Dürnrohr" ;
-    cim:Names.name "DU2-KW" ;
+    cim:Names.name "DU2-KW",
+        "Generation Unit" ;
     dcterms:identifier "urn:eic:14W-KW-DU2-EVN-K" ;
     skos:altLabel "DU2-KW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

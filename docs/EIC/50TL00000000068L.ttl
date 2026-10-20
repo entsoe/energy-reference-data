@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000068L" ;
-    cim:IdentifiedObject.name "S 12 Hydro Høyanger-Høyanger kr.st. 5B" ;
+    cim:IdentifiedObject.name "N 12 Hydro Høyanger-Høyanger kr.st. 5B" ;
     cim:Names.name "Internal Line",
-        "NO-HYDROHOYHOY5B" ;
+        "NO-12HYDRO_KR5B" ;
     dcterms:identifier "urn:eic:50TL00000000068L" ;
-    skos:altLabel "NO-HYDROHOYHOY5B" ;
+    skos:altLabel "NO-12HYDRO_KR5B" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 12 Hydro Høyanger-Høyanger kr.st. 5B" ;
+    skos:prefLabel "N 12 Hydro Høyanger-Høyanger kr.st. 5B" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

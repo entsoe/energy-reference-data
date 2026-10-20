@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XSISE-123456-Q</dcterms:identifier>
     <skos:prefLabel>Sider&#250;rgica Sevillana, S.A.</skos:prefLabel>
     <skos:altLabel>SISE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XSISE-123456-Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Sider&#250;rgica Sevillana, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>SISE</cim:Names.name>
     <cim:Names.name>ESA41014200</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-05-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA41014200</schema:vatID>

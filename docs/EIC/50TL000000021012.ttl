@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000021012" ;
-    cim:IdentifiedObject.name "S 66 Sandane-Øksenelvane" ;
+    cim:IdentifiedObject.name "N 66 Sandane-Øksenelvane" ;
     cim:Names.name "Internal Line",
-        "NO-SANDANEOKSENE" ;
+        "NO-66SANDANEOKSE" ;
     dcterms:identifier "urn:eic:50TL000000021012" ;
-    skos:altLabel "NO-SANDANEOKSENE" ;
+    skos:altLabel "NO-66SANDANEOKSE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Sandane-Øksenelvane" ;
+    skos:prefLabel "N 66 Sandane-Øksenelvane" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

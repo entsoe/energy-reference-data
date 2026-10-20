@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T0000000064284",
-    "@skos:prefLabel": "Dobrzeń-Wielopole",
+    "@skos:prefLabel": "400kV Dobrzen-Wielopole",
     "@skos:altLabel": "G002",
     "@cim:IdentifiedObject.mRID": "19T0000000064284",
-    "@cim:IdentifiedObject.name": "Dobrzeń-Wielopole",
+    "@cim:IdentifiedObject.name": "400kV Dobrzen-Wielopole",
     "@cim:Names.name": [
         "G002",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-07-24",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

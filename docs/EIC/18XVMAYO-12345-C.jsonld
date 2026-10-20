@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XVMAYO-12345-C",
-    "@skos:prefLabel": "P. E. VILLAMAYOR, S.L.",
+    "@skos:prefLabel": "PARQUE EOLICO VILLAMAYOR, S.L.",
     "@skos:altLabel": "VMAYO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVMAYO-12345-C",
-    "@cim:IdentifiedObject.name": "P. E. VILLAMAYOR, S.L.",
+    "@cim:IdentifiedObject.name": "PARQUE EOLICO VILLAMAYOR, S.L.",
     "@cim:Names.name": [
         "VMAYO",
         "ESB85654283",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2009-12-15",
+    "@cim:DateAndOrTime.date": "2026-08-18",
     "@schema:vatID": "ESB85654283",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

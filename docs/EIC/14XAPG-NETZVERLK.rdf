@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>14XAPG-NETZVERLK</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Austrian Power Grid AG</cim:IdentifiedObject.name>
     <cim:Names.name>APG-NETZVERLUSTE</cim:Names.name>
+    <cim:Names.name>ATU46061602</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group; Grid Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-05-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Grid Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>ATU46061602</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

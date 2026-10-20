@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Lng Terminal-Transmission System Ip" ;
     cim:IdentifiedObject.mRID "21Y---A001A011-7" ;
     cim:IdentifiedObject.name "Milford Haven (Terminal Entry Cap)" ;
-    cim:Names.name "MH-EC-UK",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Local Market Area",
+        "MH-EC-UK" ;
     dcterms:identifier "urn:eic:21Y---A001A011-7" ;
     skos:altLabel "MH-EC-UK" ;
     skos:definition "Lng Terminal-Transmission System Ip"@en ;

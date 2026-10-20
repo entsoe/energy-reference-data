@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XKOM-SOLUTIONQ" ;
     cim:IdentifiedObject.name "KoM-SOLUTION GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE254523767",
-        "KOM-SOLUTION" ;
+    cim:Names.name "DE254523767",
+        "KOM-SOLUTION",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XKOM-SOLUTIONQ" ;
     schema1:vatID "DE254523767" ;
     skos:altLabel "KOM-SOLUTION" ;

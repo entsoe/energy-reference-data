@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:11XNORDFROST---1</dcterms:identifier>
     <skos:prefLabel>Nordfrost GmbH &amp; Co. KG</skos:prefLabel>
     <skos:altLabel>NORDFROST</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XNORDFROST---1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Nordfrost GmbH &amp; Co. KG</cim:IdentifiedObject.name>
     <cim:Names.name>NORDFROST</cim:Names.name>
     <cim:Names.name>DE117897977</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-02-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-31</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE117897977</schema:vatID>

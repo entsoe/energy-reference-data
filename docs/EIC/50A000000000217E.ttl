@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-19" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50A000000000217E" ;
-    cim:IdentifiedObject.name "Degnepollen" ;
-    cim:Names.name "NO-DEGNEPOL",
+    cim:IdentifiedObject.name "Deknepollen" ;
+    cim:Names.name "NO-DEKNEPOL",
         "Substation" ;
     dcterms:identifier "urn:eic:50A000000000217E" ;
-    skos:altLabel "NO-DEGNEPOL" ;
+    skos:altLabel "NO-DEKNEPOL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Degnepollen" ;
+    skos:prefLabel "Deknepollen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

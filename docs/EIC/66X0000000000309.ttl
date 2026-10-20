@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/66X0000000000309> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "market role in Finnish gas market will be trader. In Finnish gas market Network User role is divided into 2 subcategories: 1) shipper, who trades gas energy in wholesale market and also books capacity 2) trader, who trades gas energy in wholesale market but doesn't book capacity (doesn't ship gas, only trades it)" ;
+    cim:IdentifiedObject.mRID "66X0000000000309" ;
+    cim:IdentifiedObject.name "Lahti Energia Oy" ;
+    cim:Names.name "FI08048471",
+        "LAHTIENERGIAOY",
+        "Network User" ;
+    dcterms:identifier "urn:eic:66X0000000000309" ;
+    schema1:vatID "FI08048471" ;
+    skos:altLabel "LAHTIENERGIAOY" ;
+    skos:definition "market role in Finnish gas market will be trader. In Finnish gas market Network User role is divided into 2 subcategories: 1) shipper, who trades gas energy in wholesale market and also books capacity 2) trader, who trades gas energy in wholesale market but doesn't book capacity (doesn't ship gas, only trades it)"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Lahti Energia Oy" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

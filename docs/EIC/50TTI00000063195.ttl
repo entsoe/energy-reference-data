@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-05-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000063195" ;
-    cim:IdentifiedObject.name "S Tjele    PT12 Transformator" ;
-    cim:Names.name "NO-TJELE___PT12",
+    cim:IdentifiedObject.name "L HVDC Dan PT12 Transformator" ;
+    cim:Names.name "NO-HVDC_DKNPT12",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000063195" ;
-    skos:altLabel "NO-TJELE___PT12" ;
+    skos:altLabel "NO-HVDC_DKNPT12" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Tjele    PT12 Transformator" ;
+    skos:prefLabel "L HVDC Dan PT12 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

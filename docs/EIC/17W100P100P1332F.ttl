@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-06-01" ;
+    cim:DateAndOrTime.date "2024-12-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "17W100P100P1332F" ;
-    cim:IdentifiedObject.name "GROUPE 03 DE LA CENTRALE HYDRAULIQUE DE BEAUCAIRE" ;
+    cim:IdentifiedObject.name "BEAUCAIRE G3" ;
     cim:Names.name "FR_HY-BXCAI-G3",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W100P100P1332F" ;
     skos:altLabel "FR_HY-BXCAI-G3" ;
     skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROUPE 03 DE LA CENTRALE HYDRAULIQUE DE BEAUCAIRE" ;
+    skos:prefLabel "BEAUCAIRE G3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

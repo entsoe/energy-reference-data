@@ -9,7 +9,7 @@
     cim:AttributeInstanceComponent.attribute "International" ;
     cim:DateAndOrTime.date "2020-01-14" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Nepriklausomas energijos tiekėjas. L1-123 Nepriklausomas dujų tiekėjas. L2-60   " ;
+    cim:IdentifiedObject.description "Nepriklausomas energijos tiekėjas. L1-123 Nepriklausomas dujų tiekėjas. L2-60 		" ;
     cim:IdentifiedObject.mRID "41XINREGNUM--01W" ;
     cim:IdentifiedObject.name "UAB Inregnum" ;
     cim:Names.name "Balance Responsible Party",
@@ -19,7 +19,7 @@
     dcterms:identifier "urn:eic:41XINREGNUM--01W" ;
     schema1:vatID "LT100012332712" ;
     skos:altLabel "INREGNUM" ;
-    skos:definition "Nepriklausomas energijos tiekėjas. L1-123 Nepriklausomas dujų tiekėjas. L2-60   "@en ;
+    skos:definition "Nepriklausomas energijos tiekėjas. L1-123 Nepriklausomas dujų tiekėjas. L2-60 		"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "UAB Inregnum" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

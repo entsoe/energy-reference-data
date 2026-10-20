@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005708U" ;
     cim:IdentifiedObject.name "S Smestad  T5 Transformator" ;
-    cim:Names.name "NO-SMESTAD_T5",
+    cim:Names.name "NO-SMESTADT5",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005708U" ;
-    skos:altLabel "NO-SMESTAD_T5" ;
+    skos:altLabel "NO-SMESTADT5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Smestad  T5 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45X0000000000545</dcterms:identifier>
-    <skos:prefLabel>Vis Algorithmics ApS</skos:prefLabel>
+    <skos:prefLabel>Vis Commodities ApS</skos:prefLabel>
     <skos:altLabel>VISALGO</skos:altLabel>
     <cim:IdentifiedObject.mRID>45X0000000000545</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Vis Algorithmics ApS</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Vis Commodities ApS</cim:IdentifiedObject.name>
     <cim:Names.name>VISALGO</cim:Names.name>
     <cim:Names.name>DK40343407</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-07-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-27</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DK40343407</schema:vatID>

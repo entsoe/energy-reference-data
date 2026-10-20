@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000COALB-5Z> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "W unit code " ;
+    cim:IdentifiedObject.mRID "48W00000COALB-5Z" ;
+    cim:IdentifiedObject.name "COALBURN5BESS" ;
+    cim:Names.name "COALB-5",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:48W00000COALB-5Z" ;
+    skos:altLabel "COALB-5" ;
+    skos:definition "W unit code "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "COALBURN5BESS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-01" ;
+    cim:DateAndOrTime.date "2024-10-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "31W-0108-P-000-0" ;
-    cim:IdentifiedObject.name "SE DRAVA 1 110 kV" ;
-    cim:Names.name "HR-SE-DRAVA1",
+    cim:IdentifiedObject.name "SE DRAVA  110 kV" ;
+    cim:Names.name "HR-SE-DRAVA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:31W-0108-P-000-0" ;
-    skos:altLabel "HR-SE-DRAVA1" ;
+    skos:altLabel "HR-SE-DRAVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SE DRAVA 1 110 kV" ;
+    skos:prefLabel "SE DRAVA  110 kV" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

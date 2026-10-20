@@ -12,18 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL00000ECNS0X",
-    "@skos:prefLabel": "Polenergia Elektrociepłownia Nowa Sarzyna Sp. z o.o.",
-    "@skos:altLabel": "ENS",
+    "@skos:prefLabel": "Axpo Elektrociepłownia Nowa Sarzyna Sp. z o.o.",
+    "@skos:altLabel": "EC_NOWA_SARZYNA",
     "@cim:IdentifiedObject.mRID": "53XPL00000ECNS0X",
-    "@cim:IdentifiedObject.name": "Polenergia Elektrociepłownia Nowa Sarzyna Sp. z o.o.",
+    "@cim:IdentifiedObject.name": "Axpo Elektrociepłownia Nowa Sarzyna Sp. z o.o.",
     "@cim:Names.name": [
-        "ENS",
+        "EC_NOWA_SARZYNA",
+        "A0005282M.PL",
         "PL8161033894",
         "Consumer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-12-13",
+    "@cim:DateAndOrTime.date": "2026-03-17",
     "@schema:vatID": "PL8161033894",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

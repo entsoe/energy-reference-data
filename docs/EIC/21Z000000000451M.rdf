@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:21Z000000000451M</dcterms:identifier>
     <skos:prefLabel>MS Brodske</skos:prefLabel>
     <skos:altLabel>DBOJ-BRODSKE_SK</skos:altLabel>
-    <skos:definition xml:lang="en">Entry/Exit Point</skos:definition>
     <cim:IdentifiedObject.mRID>21Z000000000451M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MS Brodske</cim:IdentifiedObject.name>
     <cim:Names.name>DBOJ-BRODSKE_SK</cim:Names.name>
-    <cim:IdentifiedObject.description>Entry/Exit Point</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-07-29</cim:DateAndOrTime.date>
+    <cim:Names.name>Metering Point</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

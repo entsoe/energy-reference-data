@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002555N",
-    "@skos:prefLabel": "HOLMEN_VG1      HYDRO",
-    "@skos:altLabel": "NO-HOLMEN_VG1___",
+    "@skos:prefLabel": "HOLMEN_VG2      HYDRO",
+    "@skos:altLabel": "NO-HOLMEN_VG2",
     "@cim:IdentifiedObject.mRID": "50WG00000002555N",
-    "@cim:IdentifiedObject.name": "HOLMEN_VG1      HYDRO",
+    "@cim:IdentifiedObject.name": "HOLMEN_VG2      HYDRO",
     "@cim:Names.name": [
-        "NO-HOLMEN_VG1___",
+        "NO-HOLMEN_VG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-08-08",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

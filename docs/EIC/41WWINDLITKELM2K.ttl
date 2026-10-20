@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WWINDLITKELM2K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """WINDLIT, UAB
+303002760
+LT100010610911
+L-6845, Kelmė II WF""" ;
+    cim:IdentifiedObject.mRID "41WWINDLITKELM2K" ;
+    cim:IdentifiedObject.name "Kelmė II WF   WINDLIT" ;
+    cim:Names.name "KELME2WINDLIT",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:41WWINDLITKELM2K" ;
+    skos:altLabel "KELME2WINDLIT" ;
+    skos:definition """WINDLIT, UAB
+303002760
+LT100010610911
+L-6845, Kelmė II WF"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Kelmė II WF   WINDLIT" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

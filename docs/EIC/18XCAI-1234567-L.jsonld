@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCAI-1234567-L",
     "@skos:prefLabel": "Coren Agroindustrial",
     "@skos:altLabel": "CAI",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCAI-1234567-L",
     "@cim:IdentifiedObject.name": "Coren Agroindustrial",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA32242588",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA32242588",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_GA-SAMBRT_1-P",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Production Unit"
+        "@value": "Production Unit Validation CIO"
     },
     "@cim:IdentifiedObject.mRID": "17W100P100P0341J",
     "@cim:IdentifiedObject.name": "PONT SUR SAMBRE",
@@ -24,10 +24,10 @@
         "FR_GA-SAMBRT_1-P",
         "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Production Unit",
+    "@cim:IdentifiedObject.description": "Production Unit Validation CIO",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-12",
+    "@cim:DateAndOrTime.date": "2026-03-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

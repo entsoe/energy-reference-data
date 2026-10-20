@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XESWEVERSORWIG</dcterms:identifier>
     <skos:prefLabel>ESWE Versorgungs AG</skos:prefLabel>
     <skos:altLabel>ESWE</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XESWEVERSORWIG</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ESWE Versorgungs AG</cim:IdentifiedObject.name>
     <cim:Names.name>ESWE</cim:Names.name>
     <cim:Names.name>DE113822541</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-10-07</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE113822541</schema:vatID>
   </skos:Concept>

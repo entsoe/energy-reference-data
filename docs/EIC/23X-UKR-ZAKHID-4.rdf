@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23X-UKR-ZAKHID-4</dcterms:identifier>
-    <skos:prefLabel>OJSC &#226;&#8364;&#382;Zakhidenergo&#226;&#8364;&#339;</skos:prefLabel>
-    <skos:altLabel>UKR_ZAKHID</skos:altLabel>
+    <skos:prefLabel>DTEK WESTENERGY JSC</skos:prefLabel>
+    <skos:altLabel>DTEK_WESTENERGY</skos:altLabel>
     <skos:definition xml:lang="en">Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>23X-UKR-ZAKHID-4</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>OJSC &#226;&#8364;&#382;Zakhidenergo&#226;&#8364;&#339;</cim:IdentifiedObject.name>
-    <cim:Names.name>UKR_ZAKHID</cim:Names.name>
+    <cim:IdentifiedObject.name>DTEK WESTENERGY JSC</cim:IdentifiedObject.name>
+    <cim:Names.name>DTEK_WESTENERGY</cim:Names.name>
     <cim:Names.name>23269555</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-01-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-02-01</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>23269555</schema:vatID>

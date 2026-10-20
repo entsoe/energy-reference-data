@@ -1,0 +1,26 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000409N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Party Code " ;
+    cim:IdentifiedObject.mRID "48X000000000409N" ;
+    cim:IdentifiedObject.name "Powertica Commodities UK Ltd." ;
+    cim:Names.name "Balance Responsible Party",
+        "GB481676948",
+        "POWERTICA_UK",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:48X000000000409N" ;
+    schema1:vatID "GB481676948" ;
+    skos:altLabel "POWERTICA_UK" ;
+    skos:definition "Party Code "@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Powertica Commodities UK Ltd." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

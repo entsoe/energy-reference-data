@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Underground Storage In Germany Allmenhausen" ;
     cim:IdentifiedObject.mRID "21W000000000030E" ;
     cim:IdentifiedObject.name "UGS Allmenhausen" ;
-    cim:Names.name "UGS_ALLMENHAUSEN",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Gas Storage Facility",
+        "UGS_ALLMENHAUSEN" ;
     dcterms:identifier "urn:eic:21W000000000030E" ;
     skos:altLabel "UGS_ALLMENHAUSEN" ;
     skos:definition "Underground Storage In Germany Allmenhausen"@en ;

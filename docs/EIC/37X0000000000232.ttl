@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-05-12" ;
+    cim:DateAndOrTime.date "2026-04-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X0000000000232" ;
-    cim:IdentifiedObject.name "Bioenergie Wiesenburg GmbH" ;
-    cim:Names.name "BIO_WIESENBURG",
+    cim:IdentifiedObject.name "Balance BMM" ;
+    cim:Names.name "BALANCE_BMM",
         "Balance Responsible Party",
-        "DE275390683" ;
+        "DE451246288" ;
     dcterms:identifier "urn:eic:37X0000000000232" ;
-    schema1:vatID "DE275390683" ;
-    skos:altLabel "BIO_WIESENBURG" ;
+    schema1:vatID "DE451246288" ;
+    skos:altLabel "BALANCE_BMM" ;
     skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bioenergie Wiesenburg GmbH" ;
+    skos:prefLabel "Balance BMM" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

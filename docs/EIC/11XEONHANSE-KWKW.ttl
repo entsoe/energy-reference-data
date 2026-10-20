@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-28" ;
+    cim:DateAndOrTime.date "2024-12-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XEONHANSE-KWKW" ;
     cim:IdentifiedObject.name "Schleswig-Holstein Netz AG" ;
-    cim:Names.name "Balance Group",
-        "DE267393355",
-        "EONHANSE-KWK" ;
+    cim:Names.name "DE267393355",
+        "EONHANSE-KWK",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XEONHANSE-KWKW" ;
     schema1:vatID "DE267393355" ;
     skos:altLabel "EONHANSE-KWK" ;

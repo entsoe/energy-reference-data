@@ -12,14 +12,14 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X00000106838-1",
-    "@skos:prefLabel": "TRASTEEL SA",
+    "@skos:prefLabel": "Trasteel International SA",
     "@skos:altLabel": "IT-TRASTEEL_SASO",
     "@skos:definition": {
         "@language": "en",
         "@value": "Market Operator"
     },
     "@cim:IdentifiedObject.mRID": "26X00000106838-1",
-    "@cim:IdentifiedObject.name": "TRASTEEL SA",
+    "@cim:IdentifiedObject.name": "Trasteel International SA",
     "@cim:Names.name": [
         "IT-TRASTEEL_SASO",
         "CHE114985697",
@@ -28,7 +28,7 @@
     "@cim:IdentifiedObject.description": "Market Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-08-29",
+    "@cim:DateAndOrTime.date": "2026-03-20",
     "@schema:vatID": "CHE114985697",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

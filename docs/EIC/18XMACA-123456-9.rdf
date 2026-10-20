@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMACA-123456-9</dcterms:identifier>
     <skos:prefLabel>Lacteos Casa Macan SLU</skos:prefLabel>
     <skos:altLabel>MACA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMACA-123456-9</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Lacteos Casa Macan SLU</cim:IdentifiedObject.name>
     <cim:Names.name>MACA</cim:Names.name>
     <cim:Names.name>ESB27387349</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-03-31</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB27387349</schema:vatID>

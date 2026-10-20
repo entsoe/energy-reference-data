@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002881O" ;
-    cim:IdentifiedObject.name "M 66 Buran-Midtbyen" ;
+    cim:IdentifiedObject.name "N 66 Buran-Midtbyen" ;
     cim:Names.name "Internal Line",
-        "NO-BURANMIDTBYEN" ;
+        "NO-66BURANMIDTBY" ;
     dcterms:identifier "urn:eic:50TL00000002881O" ;
-    skos:altLabel "NO-BURANMIDTBYEN" ;
+    skos:altLabel "NO-66BURANMIDTBY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Buran-Midtbyen" ;
+    skos:prefLabel "N 66 Buran-Midtbyen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

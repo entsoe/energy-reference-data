@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000413P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000413P" ;
+    cim:IdentifiedObject.name "Sunstreet Energy AB" ;
+    cim:Names.name "Energy Service Company",
+        "SE559363702701",
+        "SUNSTREET_EAB" ;
+    dcterms:identifier "urn:eic:46X000000000413P" ;
+    schema1:vatID "SE559363702701" ;
+    skos:altLabel "SUNSTREET_EAB" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sunstreet Energy AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

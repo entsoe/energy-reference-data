@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-08-17" ;
+    cim:DateAndOrTime.date "2026-04-08" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21W0000000000532" ;
-    cim:IdentifiedObject.name "UGS Epe-L-RWEGSW" ;
-    cim:Names.name "EPE-L-RWEGSW",
-        "Gas Storage Facility",
-        "Resource Object",
-        "Storage Plant" ;
+    cim:IdentifiedObject.name "UGS Epe DE RWEGSW" ;
+    cim:Names.name "EPE-DE-RWEGSW",
+        "Gas Storage Facility" ;
     dcterms:identifier "urn:eic:21W0000000000532" ;
-    skos:altLabel "EPE-L-RWEGSW" ;
+    skos:altLabel "EPE-DE-RWEGSW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "UGS Epe-L-RWEGSW" ;
+    skos:prefLabel "UGS Epe DE RWEGSW" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

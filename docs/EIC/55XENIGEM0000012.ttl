@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-15" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Fiscal code 11076280962 VIES not approved as VAT number" ;
     cim:IdentifiedObject.mRID "55XENIGEM0000012" ;
     cim:IdentifiedObject.name "Eni Global Energy Markets S.p.A." ;
     cim:Names.name "ENIGEM",
+        "NA30",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:55XENIGEM0000012" ;
+    schema1:vatID "NA30" ;
     skos:altLabel "ENIGEM" ;
     skos:definition "Fiscal code 11076280962 VIES not approved as VAT number"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19T000000003959P</dcterms:identifier>
-    <skos:prefLabel>Wielopole-AT-3</skos:prefLabel>
+    <skos:prefLabel>400/220kV Wielopole AT3</skos:prefLabel>
     <skos:altLabel>WIE-A3</skos:altLabel>
     <cim:IdentifiedObject.mRID>19T000000003959P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Wielopole-AT-3</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>400/220kV Wielopole AT3</cim:IdentifiedObject.name>
     <cim:Names.name>WIE-A3</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-04-20</cim:DateAndOrTime.date>
     <cim:Names.name>Transformer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

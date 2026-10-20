@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-10-04" ;
+    cim:DateAndOrTime.date "2026-05-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "26X00000001263-Z" ;
-    cim:IdentifiedObject.name "AGSM AIM ENERGIA SPA" ;
+    cim:IdentifiedObject.name "MAGIS ENERGIA" ;
     cim:Names.name "Balance Responsible Party",
-        "IT-AGSMAIMENERGI",
+        "IT-MAGISENERGIAS",
         "IT02968430237" ;
     dcterms:identifier "urn:eic:26X00000001263-Z" ;
     schema1:vatID "IT02968430237" ;
-    skos:altLabel "IT-AGSMAIMENERGI" ;
+    skos:altLabel "IT-MAGISENERGIAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "AGSM AIM ENERGIA SPA" ;
+    skos:prefLabel "MAGIS ENERGIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

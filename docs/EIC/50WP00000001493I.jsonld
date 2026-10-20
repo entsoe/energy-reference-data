@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001493I",
-    "@skos:prefLabel": "Sørfjord",
-    "@skos:altLabel": "NO-SORFJORD_PL",
+    "@skos:prefLabel": "Sørfjord3",
+    "@skos:altLabel": "NO-SORFJORD3",
     "@cim:IdentifiedObject.mRID": "50WP00000001493I",
-    "@cim:IdentifiedObject.name": "Sørfjord",
+    "@cim:IdentifiedObject.name": "Sørfjord3",
     "@cim:Names.name": [
-        "NO-SORFJORD_PL",
+        "NO-SORFJORD3",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

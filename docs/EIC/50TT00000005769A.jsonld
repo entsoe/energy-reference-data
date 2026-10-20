@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005769A",
     "@skos:prefLabel": "S Spanne   T4 Transformator",
-    "@skos:altLabel": "NO-SPANNE__T4",
+    "@skos:altLabel": "NO-SPANNET4",
     "@cim:IdentifiedObject.mRID": "50TT00000005769A",
     "@cim:IdentifiedObject.name": "S Spanne   T4 Transformator",
     "@cim:Names.name": [
-        "NO-SPANNE__T4",
+        "NO-SPANNET4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

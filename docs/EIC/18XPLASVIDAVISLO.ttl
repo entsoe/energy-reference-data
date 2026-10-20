@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-09-26" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XPLASVIDAVISLO" ;
     cim:IdentifiedObject.name "PLASVIDAVI, S.L." ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XPLASVIDAVISLO" ;
     schema1:vatID "ESB96222831" ;
     skos:altLabel "PVDV" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PLASVIDAVI, S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

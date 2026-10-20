@@ -23,13 +23,12 @@
     "@cim:Names.name": [
         "GAS-DIREKT-AG-ST",
         "CHE202342033",
-        "Network User",
-        "Transmission Capacity Allocator"
+        "Capacity Trader"
     ],
     "@cim:IdentifiedObject.description": "Network User, Transmission Capacity Allocator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-05-04",
+    "@cim:DateAndOrTime.date": "2024-05-16",
     "@schema:vatID": "CHE202342033",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-05-26" ;
+    cim:DateAndOrTime.date "2024-09-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49X000000000060O" ;
     cim:IdentifiedObject.name "Mitsui Bussan Gas and Power Solutions B.V." ;
-    cim:Names.name "Capacity Trader",
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
         "MBGP",
         "NL863162642B01" ;
     dcterms:identifier "urn:eic:49X000000000060O" ;

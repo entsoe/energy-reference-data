@@ -12,10 +12,10 @@
     <cim:Names.name>EDFE_CUST_PLC</cim:Names.name>
     <cim:Names.name>GB523041202</cim:Names.name>
     <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-12-10</cim:DateAndOrTime.date>
-    <cim:Names.name>Consumption Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-01</cim:DateAndOrTime.date>
+    <cim:Names.name>Valid EIC function needed</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>GB523041202</schema:vatID>
   </skos:Concept>

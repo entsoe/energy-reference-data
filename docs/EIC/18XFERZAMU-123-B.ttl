@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-26" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XFERZAMU-123-B" ;
     cim:IdentifiedObject.name "FERNANDO ZAMUDIO" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XFERZAMU-123-B" ;
     schema1:vatID "ES53491037Y" ;
     skos:altLabel "FERZA" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "FERNANDO ZAMUDIO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

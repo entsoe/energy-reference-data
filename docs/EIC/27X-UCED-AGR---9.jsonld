@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/27X-UCED-AGR---9",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:27X-UCED-AGR---9",
+    "@skos:prefLabel": "UCED Agregace s.r.o.",
+    "@skos:altLabel": "UCED-AGR",
+    "@cim:IdentifiedObject.mRID": "27X-UCED-AGR---9",
+    "@cim:IdentifiedObject.name": "UCED Agregace s.r.o.",
+    "@cim:Names.name": [
+        "UCED-AGR",
+        "CZ09906274",
+        "Balance Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-06-23",
+    "@schema:vatID": "CZ09906274",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

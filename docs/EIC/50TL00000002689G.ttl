@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002689G" ;
-    cim:IdentifiedObject.name "M 22 Reinåga-Korgen" ;
+    cim:IdentifiedObject.name "N 22 Reinåga-Korgen" ;
     cim:Names.name "Internal Line",
-        "NO-REINAGAKORGEN" ;
+        "NO-22REINAGAKORG" ;
     dcterms:identifier "urn:eic:50TL00000002689G" ;
-    skos:altLabel "NO-REINAGAKORGEN" ;
+    skos:altLabel "NO-22REINAGAKORG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Reinåga-Korgen" ;
+    skos:prefLabel "N 22 Reinåga-Korgen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000443L",
-    "@skos:prefLabel": "N 132 Lakselv-Altakrv",
-    "@skos:altLabel": "NO-LAKSELVALTAKR",
+    "@skos:prefLabel": "N 132  Lakselv-Altakrv",
+    "@skos:altLabel": "NO-132LAKSELVALT",
     "@cim:IdentifiedObject.mRID": "50TL00000000443L",
-    "@cim:IdentifiedObject.name": "N 132 Lakselv-Altakrv",
+    "@cim:IdentifiedObject.name": "N 132  Lakselv-Altakrv",
     "@cim:Names.name": [
-        "NO-LAKSELVALTAKR",
+        "NO-132LAKSELVALT",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

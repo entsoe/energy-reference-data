@@ -16,20 +16,21 @@
     "@skos:altLabel": "JPMORGAN",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Trade Responsible Party"
+        "@value": "Tax number confirmed through Department of Taxation and Finance: 134994650C\nCompany registered in the United States of America"
     },
     "@cim:IdentifiedObject.mRID": "23XJPMCBNA-----W",
     "@cim:IdentifiedObject.name": "JP Morgan Chase Bank National Association",
     "@cim:Names.name": [
         "JPMORGAN",
-        "GB397249893",
-        "Trade Responsible Party"
+        "A00243661.DE",
+        "134994650C",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
+    "@cim:IdentifiedObject.description": "Tax number confirmed through Department of Taxation and Finance: 134994650C\nCompany registered in the United States of America",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-08-10",
-    "@schema:vatID": "GB397249893",
+    "@cim:DateAndOrTime.date": "2025-07-28",
+    "@schema:vatID": "134994650C",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

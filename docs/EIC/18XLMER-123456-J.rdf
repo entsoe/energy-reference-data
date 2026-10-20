@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XLMER-123456-J</dcterms:identifier>
-    <skos:prefLabel>LONJAS Y MERCADOS S.A.</skos:prefLabel>
+    <skos:prefLabel>LONJAS TECNOLOGIA S.A</skos:prefLabel>
     <skos:altLabel>LMER</skos:altLabel>
     <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XLMER-123456-J</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>LONJAS Y MERCADOS S.A.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>LONJAS TECNOLOGIA S.A</cim:IdentifiedObject.name>
     <cim:Names.name>LMER</cim:Names.name>
     <cim:Names.name>ESA28039469</cim:Names.name>
     <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-11-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2025-01-30</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA28039469</schema:vatID>
   </skos:Concept>

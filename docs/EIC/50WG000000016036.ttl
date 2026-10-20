@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000016036" ;
-    cim:IdentifiedObject.name "MOSKOG  G162 HYDRO" ;
+    cim:IdentifiedObject.name "HOLSEN  G162 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G162_" ;
+        "NO-HOLSENG162" ;
     dcterms:identifier "urn:eic:50WG000000016036" ;
-    skos:altLabel "NO-MOSKOG__G162_" ;
+    skos:altLabel "NO-HOLSENG162" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G162 HYDRO" ;
+    skos:prefLabel "HOLSEN  G162 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-16" ;
+    cim:DateAndOrTime.date "2025-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XALMADOENERGYG" ;
-    cim:IdentifiedObject.name "365 AG" ;
+    cim:IdentifiedObject.name "Rheinische Elektrizitäts- und Gasversorgungsgesellschaft mbH" ;
     cim:Names.name "ALMADO",
         "Balance Responsible Party",
         "DE212755674" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE212755674" ;
     skos:altLabel "ALMADO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "365 AG" ;
+    skos:prefLabel "Rheinische Elektrizitäts- und Gasversorgungsgesellschaft mbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

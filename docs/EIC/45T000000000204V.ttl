@@ -1,0 +1,35 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45T000000000204V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-10" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description """
+The following two codes should be deactivated/deleted, as they were created by mistake.
+45T000000000204V
+45T000000000205T
+The correct codes must be created as 10T codes, and the forms have already been submitted by email.
+Kind regards,
+Maria Heuer, 45 – Energinet""" ;
+    cim:IdentifiedObject.mRID "45T000000000204V" ;
+    cim:IdentifiedObject.name "Endrup-Klixbüll1" ;
+    cim:Names.name "L_380-EDR-KLIX_1",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:45T000000000204V" ;
+    skos:altLabel "L_380-EDR-KLIX_1" ;
+    skos:definition """
+The following two codes should be deactivated/deleted, as they were created by mistake.
+45T000000000204V
+45T000000000205T
+The correct codes must be created as 10T codes, and the forms have already been submitted by email.
+Kind regards,
+Maria Heuer, 45 – Energinet"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Endrup-Klixbüll1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

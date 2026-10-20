@@ -16,7 +16,10 @@
     "@skos:altLabel": "GRP_150I_RYT",
     "@cim:IdentifiedObject.mRID": "45T000000000174E",
     "@cim:IdentifiedObject.name": "150kV Graderup Ryttergård",
-    "@cim:Names.name": "GRP_150I_RYT",
+    "@cim:Names.name": [
+        "GRP_150I_RYT",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2022-03-22",

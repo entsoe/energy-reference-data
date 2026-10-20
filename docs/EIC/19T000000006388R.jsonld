@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000006388R",
-    "@skos:prefLabel": "Wielopole-Joachimów",
+    "@skos:prefLabel": "400kV Joachimow-Wielopole",
     "@skos:altLabel": "G001",
     "@cim:IdentifiedObject.mRID": "19T000000006388R",
-    "@cim:IdentifiedObject.name": "Wielopole-Joachimów",
+    "@cim:IdentifiedObject.name": "400kV Joachimow-Wielopole",
     "@cim:Names.name": [
         "G001",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

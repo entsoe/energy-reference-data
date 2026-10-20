@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:49X0000000000110</dcterms:identifier>
-    <skos:prefLabel>Scholt Energy Trading B.V.</skos:prefLabel>
+    <skos:prefLabel>Scholt Energy Sourcing B.V.</skos:prefLabel>
     <skos:altLabel>SCHOLT_BV</skos:altLabel>
     <skos:definition xml:lang="en">Party Connected To Grid</skos:definition>
     <cim:IdentifiedObject.mRID>49X0000000000110</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Scholt Energy Trading B.V.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Scholt Energy Sourcing B.V.</cim:IdentifiedObject.name>
     <cim:Names.name>SCHOLT_BV</cim:Names.name>
     <cim:Names.name>NL822579200B01</cim:Names.name>
     <cim:IdentifiedObject.description>Party Connected To Grid</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-07-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-10-16</cim:DateAndOrTime.date>
     <cim:Names.name>Party Connected To Grid</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>NL822579200B01</schema:vatID>

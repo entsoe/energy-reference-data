@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000455E" ;
-    cim:IdentifiedObject.name "S 132 Lille Sotra-Ågotnes" ;
+    cim:IdentifiedObject.name "S 132 Litle Sotra-Bildøybakken2" ;
     cim:Names.name "Internal Line",
-        "NO-LILLESOTRAAGO" ;
+        "NO-132LILLEKKEN2" ;
     dcterms:identifier "urn:eic:50TL00000000455E" ;
-    skos:altLabel "NO-LILLESOTRAAGO" ;
+    skos:altLabel "NO-132LILLEKKEN2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Lille Sotra-Ågotnes" ;
+    skos:prefLabel "S 132 Litle Sotra-Bildøybakken2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

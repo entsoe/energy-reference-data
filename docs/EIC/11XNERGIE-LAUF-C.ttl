@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XNERGIE-LAUF-C" ;
     cim:IdentifiedObject.name "N-ERGIE Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE209536298",
-        "N-ERGIE_LAUF" ;
+    cim:Names.name "DE209536298",
+        "N-ERGIE_LAUF",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNERGIE-LAUF-C" ;
     schema1:vatID "DE209536298" ;
     skos:altLabel "N-ERGIE_LAUF" ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001124I",
-    "@skos:prefLabel": "NEA     G104 HYDRO",
-    "@skos:altLabel": "NO-NEA_____G104_",
+    "@skos:prefLabel": "GAULA   G2      HYDRO",
+    "@skos:altLabel": "NO-GAULAG2",
     "@cim:IdentifiedObject.mRID": "50WG00000001124I",
-    "@cim:IdentifiedObject.name": "NEA     G104 HYDRO",
+    "@cim:IdentifiedObject.name": "GAULA   G2      HYDRO",
     "@cim:Names.name": [
-        "NO-NEA_____G104_",
+        "NO-GAULAG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XENERGYTRADERK",
-    "@skos:prefLabel": "Energy Trader Solutions",
+    "@skos:prefLabel": "ENERGY TRADER SOLUTIONS SL",
     "@skos:altLabel": "ETSOL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XENERGYTRADERK",
-    "@cim:IdentifiedObject.name": "Energy Trader Solutions",
+    "@cim:IdentifiedObject.name": "ENERGY TRADER SOLUTIONS SL",
     "@cim:Names.name": [
         "ETSOL",
         "ESB54744073",
+        "Production Responsible Party",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-12-17",
+    "@cim:DateAndOrTime.date": "2025-02-13",
     "@schema:vatID": "ESB54744073",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

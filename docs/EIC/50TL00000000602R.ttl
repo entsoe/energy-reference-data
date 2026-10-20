@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000602R" ;
-    cim:IdentifiedObject.name "S 132 SageneTorshov" ;
+    cim:IdentifiedObject.name "S 132 Sagene-Torshov" ;
     cim:Names.name "Internal Line",
-        "NO-SAGENETORSHOV" ;
+        "NO-132SAGENETORS" ;
     dcterms:identifier "urn:eic:50TL00000000602R" ;
-    skos:altLabel "NO-SAGENETORSHOV" ;
+    skos:altLabel "NO-132SAGENETORS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 SageneTorshov" ;
+    skos:prefLabel "S 132 Sagene-Torshov" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

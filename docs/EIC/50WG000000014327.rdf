@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000014327</dcterms:identifier>
-    <skos:prefLabel>SAURDAL G114 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-SAURDAL_G114_</skos:altLabel>
+    <skos:prefLabel>VEKA    G1      HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-VEKAG1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000014327</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SAURDAL G114 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SAURDAL_G114_</cim:Names.name>
+    <cim:IdentifiedObject.name>VEKA    G1      HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-VEKAG1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-28</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

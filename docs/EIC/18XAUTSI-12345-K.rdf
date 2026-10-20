@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XAUTSI-12345-K</dcterms:identifier>
     <skos:prefLabel>AUTOMATICOS SIGLO XXI, S.L.</skos:prefLabel>
     <skos:altLabel>AUTSI</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XAUTSI-12345-K</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AUTOMATICOS SIGLO XXI, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>AUTSI</cim:Names.name>
     <cim:Names.name>ESB41581125</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-10-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB41581125</schema:vatID>

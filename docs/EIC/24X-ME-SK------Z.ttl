@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Electricity Trading (Obchod S Elektrinou)" ;
     cim:IdentifiedObject.mRID "24X-ME-SK------Z" ;
     cim:IdentifiedObject.name "MORAVIA ENERGO SK, s.r.o" ;
     cim:Names.name "ME-SK",
         "SK2022112576",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24X-ME-SK------Z" ;
     schema1:vatID "SK2022112576" ;
     skos:altLabel "ME-SK" ;

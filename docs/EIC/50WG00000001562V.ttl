@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001562V" ;
     cim:IdentifiedObject.name "SPANNE  G134 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SPANNE__G134_" ;
+        "NO-SPANNEG134" ;
     dcterms:identifier "urn:eic:50WG00000001562V" ;
-    skos:altLabel "NO-SPANNE__G134_" ;
+    skos:altLabel "NO-SPANNEG134" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SPANNE  G134 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

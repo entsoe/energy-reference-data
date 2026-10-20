@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48WSTN000FERRB26",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48WSTN000FERRB26",
+    "@skos:prefLabel": "Ferrybridge BESS BMU 2",
+    "@skos:altLabel": "FERRB-2",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "W Station Code\nContact \nVicky Birrell\nNo.1 Forbury Place, 43 Forbury Road, Reading, United Kingdom, RG1 3JH\nVicky.Birrell@sse.com\ngb.registration@sse.com\n"
+    },
+    "@cim:IdentifiedObject.mRID": "48WSTN000FERRB26",
+    "@cim:IdentifiedObject.name": "Ferrybridge BESS BMU 2",
+    "@cim:Names.name": [
+        "FERRB-2",
+        "Production Unit"
+    ],
+    "@cim:IdentifiedObject.description": "W Station Code\nContact \nVicky Birrell\nNo.1 Forbury Place, 43 Forbury Road, Reading, United Kingdom, RG1 3JH\nVicky.Birrell@sse.com\ngb.registration@sse.com\n",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-08-12",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/26X046967501670G",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:26X046967501670G",
+    "@skos:prefLabel": "GRID SOCIETY S.R.L.",
+    "@skos:altLabel": "IT-GRIDSOCIETYSR",
+    "@cim:IdentifiedObject.mRID": "26X046967501670G",
+    "@cim:IdentifiedObject.name": "GRID SOCIETY S.R.L.",
+    "@cim:Names.name": [
+        "IT-GRIDSOCIETYSR",
+        "A00256812.IT",
+        "IT04696750167",
+        "Balance Responsible Party",
+        "Consumer",
+        "Consumption Responsible Party",
+        "Market Operator",
+        "Storage System Operator",
+        "Balancing Service Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-02-12",
+    "@schema:vatID": "IT04696750167",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

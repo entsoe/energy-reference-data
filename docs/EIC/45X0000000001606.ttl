@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-09-12" ;
+    cim:DateAndOrTime.date "2025-03-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "45X0000000001606" ;
-    cim:IdentifiedObject.name "WinBel Energy ApS" ;
+    cim:IdentifiedObject.name "Arcane Energy ApS" ;
     cim:Names.name "44283042",
         "Balance Responsible Party",
         "WINBEL" ;
@@ -18,6 +18,6 @@
     schema1:vatID "44283042" ;
     skos:altLabel "WINBEL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "WinBel Energy ApS" ;
+    skos:prefLabel "Arcane Energy ApS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

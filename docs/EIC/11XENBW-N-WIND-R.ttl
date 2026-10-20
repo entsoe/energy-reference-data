@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XENBW-N-WIND-R" ;
     cim:IdentifiedObject.name "EnBW (EEG-Bilanzkreis Wind)" ;
-    cim:Names.name "Balance Group",
-        "DE191008872",
-        "ENBW_N_WIND" ;
+    cim:Names.name "DE191008872",
+        "ENBW_N_WIND",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XENBW-N-WIND-R" ;
     schema1:vatID "DE191008872" ;
     skos:altLabel "ENBW_N_WIND" ;

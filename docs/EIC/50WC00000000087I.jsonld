@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000087I",
-    "@skos:prefLabel": "S Frikstad 110 Forbruk",
-    "@skos:altLabel": "NO-FRIKSTAD110",
+    "@skos:prefLabel": "S Frikstad 110 T2 Forbruk",
+    "@skos:altLabel": "NO-FRIKSTAD110T2",
     "@cim:IdentifiedObject.mRID": "50WC00000000087I",
-    "@cim:IdentifiedObject.name": "S Frikstad 110 Forbruk",
+    "@cim:IdentifiedObject.name": "S Frikstad 110 T2 Forbruk",
     "@cim:Names.name": [
-        "NO-FRIKSTAD110",
+        "NO-FRIKSTAD110T2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

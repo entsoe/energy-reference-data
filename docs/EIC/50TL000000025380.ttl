@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000025380" ;
-    cim:IdentifiedObject.name "S Vinje 300 G1 Kabel" ;
+    cim:IdentifiedObject.name "S Vinje    300 G1 Kabel" ;
     cim:Names.name "Internal Line",
-        "NO-VINJE300G1K" ;
+        "NO-VINJE300G1_K" ;
     dcterms:identifier "urn:eic:50TL000000025380" ;
-    skos:altLabel "NO-VINJE300G1K" ;
+    skos:altLabel "NO-VINJE300G1_K" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Vinje 300 G1 Kabel" ;
+    skos:prefLabel "S Vinje    300 G1 Kabel" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

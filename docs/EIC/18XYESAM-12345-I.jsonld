@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XYESAM-12345-I",
     "@skos:prefLabel": "YESOS SAN MARTIN, S.A.",
     "@skos:altLabel": "YESAM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XYESAM-12345-I",
     "@cim:IdentifiedObject.name": "YESOS SAN MARTIN, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA28449221",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-11-03",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA28449221",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

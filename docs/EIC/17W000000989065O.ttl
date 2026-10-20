@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-01-20" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "update" ;
     cim:IdentifiedObject.mRID "17W000000989065O" ;
     cim:IdentifiedObject.name "Compagnie Parisienne de Chauffage Urbain St Ouen" ;
     cim:Names.name "FR_CPCUSO",
         "Production Unit" ;
     dcterms:identifier "urn:eic:17W000000989065O" ;
     skos:altLabel "FR_CPCUSO" ;
+    skos:definition "update"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Compagnie Parisienne de Chauffage Urbain St Ouen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

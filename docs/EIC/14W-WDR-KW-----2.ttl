@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-WDR-KW-----2" ;
     cim:IdentifiedObject.name "DKW Dürnrohr-KW" ;
-    cim:Names.name "WDR-KW" ;
+    cim:Names.name "Generation Unit",
+        "WDR-KW" ;
     dcterms:identifier "urn:eic:14W-WDR-KW-----2" ;
     skos:altLabel "WDR-KW" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

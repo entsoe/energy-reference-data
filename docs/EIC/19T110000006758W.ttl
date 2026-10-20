@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006758W" ;
-    cim:IdentifiedObject.name "Bujaków-Porąbka Żar 2" ;
+    cim:IdentifiedObject.name "220kV Bujakow-Porabka Zar 2" ;
     cim:Names.name "3202",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006758W" ;
     skos:altLabel "3202" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bujaków-Porąbka Żar 2" ;
+    skos:prefLabel "220kV Bujakow-Porabka Zar 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

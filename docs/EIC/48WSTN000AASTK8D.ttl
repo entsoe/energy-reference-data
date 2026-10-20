@@ -1,0 +1,41 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48WSTN000AASTK8D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-10-29" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Statkraft Markets GmBH
+Derendorfer Alle 2A
+40547
+Duesseldorf 
+Germany
+Lenka Vesela
+Lenka.vesela@statkraft.com
+flexuk@statkraft.com
+Generation & Load
+""" ;
+    cim:IdentifiedObject.mRID "48WSTN000AASTK8D" ;
+    cim:IdentifiedObject.name "AG-ASTK08" ;
+    cim:Names.name "AASTK8",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:48WSTN000AASTK8D" ;
+    skos:altLabel "AASTK8" ;
+    skos:definition """Statkraft Markets GmBH
+Derendorfer Alle 2A
+40547
+Duesseldorf 
+Germany
+Lenka Vesela
+Lenka.vesela@statkraft.com
+flexuk@statkraft.com
+Generation & Load
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "AG-ASTK08" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

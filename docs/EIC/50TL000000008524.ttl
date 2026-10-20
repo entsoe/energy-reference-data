@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008524" ;
-    cim:IdentifiedObject.name "M 22 Grytten-Verma" ;
+    cim:IdentifiedObject.name "N 22 Grytten-Verma" ;
     cim:Names.name "Internal Line",
-        "NO-GRYTTENVERMA" ;
+        "NO-22GRYTTENVERM" ;
     dcterms:identifier "urn:eic:50TL000000008524" ;
-    skos:altLabel "NO-GRYTTENVERMA" ;
+    skos:altLabel "NO-22GRYTTENVERM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Grytten-Verma" ;
+    skos:prefLabel "N 22 Grytten-Verma" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

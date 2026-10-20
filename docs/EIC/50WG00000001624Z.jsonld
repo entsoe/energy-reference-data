@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001624Z",
-    "@skos:prefLabel": "MOSKOG  G159 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G159_",
+    "@skos:prefLabel": "SKEI    G159 HYDRO",
+    "@skos:altLabel": "NO-SKEIG159",
     "@cim:IdentifiedObject.mRID": "50WG00000001624Z",
-    "@cim:IdentifiedObject.name": "MOSKOG  G159 HYDRO",
+    "@cim:IdentifiedObject.name": "SKEI    G159 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G159_",
+        "NO-SKEIG159",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

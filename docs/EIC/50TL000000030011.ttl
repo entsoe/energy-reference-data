@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000030011" ;
     cim:IdentifiedObject.name "S 132Åbjøra K-Skrautval" ;
     cim:Names.name "Internal Line",
-        "NO-ABJORAKSKRAUT" ;
+        "NO-132ABJORA_KSK" ;
     dcterms:identifier "urn:eic:50TL000000030011" ;
-    skos:altLabel "NO-ABJORAKSKRAUT" ;
+    skos:altLabel "NO-132ABJORA_KSK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132Åbjøra K-Skrautval" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

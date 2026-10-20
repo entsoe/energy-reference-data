@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000030872" ;
     cim:IdentifiedObject.name "N 132Sørfjord Vindkraft-Sørfjord" ;
     cim:Names.name "Internal Line",
-        "NO-SORFJVKSORFJO" ;
+        "NO-132SORFJ_VKSO" ;
     dcterms:identifier "urn:eic:50TL000000030872" ;
-    skos:altLabel "NO-SORFJVKSORFJO" ;
+    skos:altLabel "NO-132SORFJ_VKSO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132Sørfjord Vindkraft-Sørfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000144R" ;
     cim:IdentifiedObject.name "enwi-digital GmbH" ;
-    cim:Names.name "DE344368841",
+    cim:Names.name "Balance Responsible Party",
+        "DE344368841",
         "ENWIDIGITAL_GMBH" ;
     dcterms:identifier "urn:eic:37X000000000144R" ;
     schema1:vatID "DE344368841" ;

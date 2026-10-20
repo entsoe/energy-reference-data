@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-08-26" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Entry/Exit Point From A Storage Between Storengy And  Grtgaz" ;
     cim:IdentifiedObject.mRID "21Z000000000448B" ;
-    cim:IdentifiedObject.name "SALINE/SUD_EST (FR)" ;
-    cim:Names.name "SALINE",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "	SALINE/SUD_EST (FR)" ;
+    cim:Names.name "Connection Point",
+        "SALINE" ;
     dcterms:identifier "urn:eic:21Z000000000448B" ;
     skos:altLabel "SALINE" ;
-    skos:definition "Entry/Exit Point From A Storage Between Storengy And  Grtgaz"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SALINE/SUD_EST (FR)" ;
+    skos:prefLabel "	SALINE/SUD_EST (FR)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

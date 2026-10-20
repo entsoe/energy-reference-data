@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XPOTE-MASHAV1L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XPOTE-MASHAV1L" ;
+    cim:IdentifiedObject.name "POTEGOWO MASHAV SP. Z O.O." ;
+    cim:Names.name "A00184477.PL",
+        "PL6912368342",
+        "POTEGOWO-MASHAV",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19XPOTE-MASHAV1L" ;
+    schema1:vatID "PL6912368342" ;
+    skos:altLabel "POTEGOWO-MASHAV" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "POTEGOWO MASHAV SP. Z O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

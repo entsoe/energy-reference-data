@@ -7,16 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-20" ;
+    cim:DateAndOrTime.date "2024-12-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XENBW-WIND-IMA" ;
     cim:IdentifiedObject.name "TransnetBW GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE191008872",
-        "ENBW_WIND_IM" ;
+    cim:Names.name "DE191008872",
+        "Production Responsible Party",
+        "TNG_WIND_IM" ;
     dcterms:identifier "urn:eic:11XENBW-WIND-IMA" ;
     schema1:vatID "DE191008872" ;
-    skos:altLabel "ENBW_WIND_IM" ;
+    skos:altLabel "TNG_WIND_IM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TransnetBW GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

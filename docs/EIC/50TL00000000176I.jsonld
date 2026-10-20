@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000176I",
-    "@skos:prefLabel": "S 132 Breivik-Lille Sotra",
-    "@skos:altLabel": "NO-BREIVIKLILLES",
+    "@skos:prefLabel": "S 132 Breivik-Litle Sotra",
+    "@skos:altLabel": "NO-132BREIVIKLIL",
     "@cim:IdentifiedObject.mRID": "50TL00000000176I",
-    "@cim:IdentifiedObject.name": "S 132 Breivik-Lille Sotra",
+    "@cim:IdentifiedObject.name": "S 132 Breivik-Litle Sotra",
     "@cim:Names.name": [
-        "NO-BREIVIKLILLES",
+        "NO-132BREIVIKLIL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XENDANET-----6</dcterms:identifier>
-    <skos:prefLabel>En/Da/Net GmbH</skos:prefLabel>
+    <skos:prefLabel>endanet GmbH</skos:prefLabel>
     <skos:altLabel>ENDANET</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XENDANET-----6</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>En/Da/Net GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>endanet GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>ENDANET</cim:Names.name>
     <cim:Names.name>DE209329836</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-03</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE209329836</schema:vatID>

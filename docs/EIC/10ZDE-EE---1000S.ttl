@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10ZDE-EE---1000S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "MARI project" ;
+    cim:IdentifiedObject.mRID "10ZDE-EE---1000S" ;
+    cim:IdentifiedObject.name "VTL MARI Amprion - Elering" ;
+    cim:Names.name "Accounting Point",
+        "MARIAMP-ELERI" ;
+    dcterms:identifier "urn:eic:10ZDE-EE---1000S" ;
+    skos:altLabel "MARIAMP-ELERI" ;
+    skos:definition "MARI project"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VTL MARI Amprion - Elering" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

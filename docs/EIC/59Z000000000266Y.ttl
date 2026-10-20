@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-14" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Metering Point" ;
     cim:IdentifiedObject.mRID "59Z000000000266Y" ;
     cim:IdentifiedObject.name "CERVERE" ;
-    cim:Names.name "IT_34262101",
-        "Metering Point" ;
+    cim:Names.name "Accounting Point",
+        "IT_34262101" ;
     dcterms:identifier "urn:eic:59Z000000000266Y" ;
     skos:altLabel "IT_34262101" ;
     skos:definition "Metering Point"@en ;

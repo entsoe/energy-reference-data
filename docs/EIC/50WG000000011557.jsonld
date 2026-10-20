@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000011557",
-    "@skos:prefLabel": "NES_OEK G104 HYDRO",
-    "@skos:altLabel": "NO-NES_OEK_G104_",
+    "@skos:prefLabel": "GROSLANDG104 HYDRO",
+    "@skos:altLabel": "NO-GROSLANDG104",
     "@cim:IdentifiedObject.mRID": "50WG000000011557",
-    "@cim:IdentifiedObject.name": "NES_OEK G104 HYDRO",
+    "@cim:IdentifiedObject.name": "GROSLANDG104 HYDRO",
     "@cim:Names.name": [
-        "NO-NES_OEK_G104_",
+        "NO-GROSLANDG104",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

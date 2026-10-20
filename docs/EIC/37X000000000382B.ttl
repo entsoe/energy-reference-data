@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000382B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Energy Supplier" ;
+    cim:IdentifiedObject.mRID "37X000000000382B" ;
+    cim:IdentifiedObject.name "Bioerdgas Bibburg GbR" ;
+    cim:Names.name "BIOERDGAS_BIBBUR",
+        "DE367409343",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:37X000000000382B" ;
+    schema1:vatID "DE367409343" ;
+    skos:altLabel "BIOERDGAS_BIBBUR" ;
+    skos:definition "Energy Supplier"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bioerdgas Bibburg GbR" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

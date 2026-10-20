@@ -16,7 +16,10 @@
     "@skos:altLabel": "EMEXVTP",
     "@cim:IdentifiedObject.mRID": "25Z-EMEXTR----1E",
     "@cim:IdentifiedObject.name": "EMEX Trade GmbH",
-    "@cim:Names.name": "EMEXVTP",
+    "@cim:Names.name": [
+        "EMEXVTP",
+        "Virtual Trading Points"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-05-14",

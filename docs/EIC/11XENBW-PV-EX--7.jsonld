@@ -13,17 +13,17 @@
     },
     "@dcterms:identifier": "urn:eic:11XENBW-PV-EX--7",
     "@skos:prefLabel": "TransnetBW GmbH",
-    "@skos:altLabel": "ENBW_TNG-PV",
+    "@skos:altLabel": "TNG_PV_EX",
     "@cim:IdentifiedObject.mRID": "11XENBW-PV-EX--7",
     "@cim:IdentifiedObject.name": "TransnetBW GmbH",
     "@cim:Names.name": [
-        "ENBW_TNG-PV",
+        "TNG_PV_EX",
         "DE191008872",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-04-20",
+    "@cim:DateAndOrTime.date": "2024-12-02",
     "@schema:vatID": "DE191008872",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

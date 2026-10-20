@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000138Q",
     "@skos:prefLabel": "N 132 Ballangen-Kanstadbotn",
-    "@skos:altLabel": "NO-BALLANGENKANS",
+    "@skos:altLabel": "NO-132BALLADBOTN",
     "@cim:IdentifiedObject.mRID": "50TL00000000138Q",
     "@cim:IdentifiedObject.name": "N 132 Ballangen-Kanstadbotn",
     "@cim:Names.name": [
-        "NO-BALLANGENKANS",
+        "NO-132BALLADBOTN",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-09-26",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

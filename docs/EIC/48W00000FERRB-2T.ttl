@@ -1,0 +1,39 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48W00000FERRB-2T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-08-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Unit W Code 
+Contact
+No.1 Forbury Place, 43 Forbury Road, Reading, United Kingdom, RG1 3JH
+Vicky Birrell
+Vicky.Birrell@sse.com
+gb.registration@sse.com
+
+
+""" ;
+    cim:IdentifiedObject.mRID "48W00000FERRB-2T" ;
+    cim:IdentifiedObject.name "Ferrybridge BESS BMU 2" ;
+    cim:Names.name "Generation Unit",
+        "T_FERRB-2" ;
+    dcterms:identifier "urn:eic:48W00000FERRB-2T" ;
+    skos:altLabel "T_FERRB-2" ;
+    skos:definition """Unit W Code 
+Contact
+No.1 Forbury Place, 43 Forbury Road, Reading, United Kingdom, RG1 3JH
+Vicky Birrell
+Vicky.Birrell@sse.com
+gb.registration@sse.com
+
+
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Ferrybridge BESS BMU 2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000010660" ;
     cim:IdentifiedObject.name "Kongsfoss-MKB" ;
-    cim:Names.name "NO-KONGSFOSS-MKB",
+    cim:Names.name "NO-KONGSFOSS_MKB",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000010660" ;
-    skos:altLabel "NO-KONGSFOSS-MKB" ;
+    skos:altLabel "NO-KONGSFOSS_MKB" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kongsfoss-MKB" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

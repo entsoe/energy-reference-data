@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT000000049030",
-    "@skos:prefLabel": "M Gursken  T1 Transformator",
-    "@skos:altLabel": "NO-GURSKEN_T1",
+    "@skos:prefLabel": "N Gursken  T1 Transformator",
+    "@skos:altLabel": "NO-GURSKENT1",
     "@cim:IdentifiedObject.mRID": "50TT000000049030",
-    "@cim:IdentifiedObject.name": "M Gursken  T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Gursken  T1 Transformator",
     "@cim:Names.name": [
-        "NO-GURSKEN_T1",
+        "NO-GURSKENT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

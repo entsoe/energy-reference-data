@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGURRE-12345-A",
     "@skos:prefLabel": "FUNDACION RESIDENCIA ANCIANOS GURREA DE GALLEGO",
     "@skos:altLabel": "GURRE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGURRE-12345-A",
     "@cim:IdentifiedObject.name": "FUNDACION RESIDENCIA ANCIANOS GURREA DE GALLEGO",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG99255945",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-02-04",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG99255945",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

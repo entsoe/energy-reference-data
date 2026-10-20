@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCOPO-123456-L",
     "@skos:prefLabel": "COPO ZARAGOZA S.A",
     "@skos:altLabel": "COPO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCOPO-123456-L",
     "@cim:IdentifiedObject.name": "COPO ZARAGOZA S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA50529320",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-04-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA50529320",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

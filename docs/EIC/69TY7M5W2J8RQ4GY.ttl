@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69TY7M5W2J8RQ4GY> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Transformer" ;
+    cim:IdentifiedObject.mRID "69TY7M5W2J8RQ4GY" ;
+    cim:IdentifiedObject.name "NEW MARI TRANSFORMER 1 (IEC)" ;
+    cim:Names.name "MARI_T1",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:69TY7M5W2J8RQ4GY" ;
+    skos:altLabel "MARI_T1" ;
+    skos:definition "Transformer"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NEW MARI TRANSFORMER 1 (IEC)" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

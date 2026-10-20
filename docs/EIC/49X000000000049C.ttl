@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-09" ;
+    cim:DateAndOrTime.date "2024-08-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49X000000000049C" ;
     cim:IdentifiedObject.name "OTC FLOW B.V." ;
-    cim:Names.name "Capacity Trader",
+    cim:Names.name "Balance Responsible Party",
+        "Capacity Trader",
         "NL859140544B01",
         "OTC_FLOW" ;
     dcterms:identifier "urn:eic:49X000000000049C" ;

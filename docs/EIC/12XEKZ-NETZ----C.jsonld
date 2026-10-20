@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:12XEKZ-NETZ----C",
     "@skos:prefLabel": "ElektrizitÃ¤tswerke des Kantons ZÃ¼rich",
     "@skos:altLabel": "EKZ-NETZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Verteilnetzbetreiber Im Kanton Zã¼Rich Und Angrenzender Gebiete"
-    },
     "@cim:IdentifiedObject.mRID": "12XEKZ-NETZ----C",
     "@cim:IdentifiedObject.name": "ElektrizitÃ¤tswerke des Kantons ZÃ¼rich",
     "@cim:Names.name": [
@@ -25,7 +21,6 @@
         "CH231013",
         "Grid Operator"
     ],
-    "@cim:IdentifiedObject.description": "Verteilnetzbetreiber Im Kanton Zã¼Rich Und Angrenzender Gebiete",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-10-27",

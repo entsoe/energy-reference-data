@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XBTT-WO------U",
     "@skos:prefLabel": "BTT Bauteam Tretzel GmbH",
     "@skos:altLabel": "BTT-WO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XBTT-WO------U",
     "@cim:IdentifiedObject.name": "BTT Bauteam Tretzel GmbH",
     "@cim:Names.name": [
         "BTT-WO",
         "DE133698212",
-        "Balance Group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-02-06",
+    "@cim:DateAndOrTime.date": "2024-12-20",
     "@schema:vatID": "DE133698212",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

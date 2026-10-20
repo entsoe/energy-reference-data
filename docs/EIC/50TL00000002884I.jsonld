@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002884I",
-    "@skos:prefLabel": "M 66 Flatåsen-Huseby",
-    "@skos:altLabel": "NO-FLATASENHUSEB",
+    "@skos:prefLabel": "N 66 Flatåsen-Huseby",
+    "@skos:altLabel": "NO-66FLATASENHUS",
     "@cim:IdentifiedObject.mRID": "50TL00000002884I",
-    "@cim:IdentifiedObject.name": "M 66 Flatåsen-Huseby",
+    "@cim:IdentifiedObject.name": "N 66 Flatåsen-Huseby",
     "@cim:Names.name": [
-        "NO-FLATASENHUSEB",
+        "NO-66FLATASENHUS",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

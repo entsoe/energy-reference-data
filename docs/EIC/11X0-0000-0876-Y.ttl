@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0876-Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0876-Y" ;
+    cim:IdentifiedObject.name "Vetra Energie GmbH" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE454399594",
+        "VETRA" ;
+    dcterms:identifier "urn:eic:11X0-0000-0876-Y" ;
+    schema1:vatID "DE454399594" ;
+    skos:altLabel "VETRA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Vetra Energie GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

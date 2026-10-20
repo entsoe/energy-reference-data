@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-04-30" ;
+    cim:DateAndOrTime.date "2026-06-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18X000000000F3Z3" ;
-    cim:IdentifiedObject.name "PROMOSOLAR JUWI 17 SL" ;
+    cim:IdentifiedObject.name "PROMOSOLAR JUWI 17 S.L." ;
     cim:Names.name "ESB98382229",
         "PSJ17",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18X000000000F3Z3" ;
     schema1:vatID "ESB98382229" ;
     skos:altLabel "PSJ17" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "PROMOSOLAR JUWI 17 SL" ;
+    skos:prefLabel "PROMOSOLAR JUWI 17 S.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

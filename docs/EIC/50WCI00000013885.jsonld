@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WCI00000013885",
-    "@skos:prefLabel": "M Alcoa    22  AL1 Industri",
-    "@skos:altLabel": "NO-MOSJ_AL22K1NC",
+    "@skos:prefLabel": "N Alcoa    22  AL1 Industri",
+    "@skos:altLabel": "NO-MOSJ_ALV22K1N",
     "@cim:IdentifiedObject.mRID": "50WCI00000013885",
-    "@cim:IdentifiedObject.name": "M Alcoa    22  AL1 Industri",
+    "@cim:IdentifiedObject.name": "N Alcoa    22  AL1 Industri",
     "@cim:Names.name": [
-        "NO-MOSJ_AL22K1NC",
+        "NO-MOSJ_ALV22K1N",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

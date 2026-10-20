@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/33XTONIZEROALIU3> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "33XTONIZEROALIU3" ;
+    cim:IdentifiedObject.name "A-ZERO DOOEL eksport-import Gostivar" ;
+    cim:Names.name "400701251377",
+        "A_ZERO_MK",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:33XTONIZEROALIU3" ;
+    schema1:vatID "400701251377" ;
+    skos:altLabel "A_ZERO_MK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "A-ZERO DOOEL eksport-import Gostivar" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

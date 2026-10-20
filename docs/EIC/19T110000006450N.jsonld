@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006450N",
-    "@skos:prefLabel": "400\\220 kV Morzyczyn AT 3",
+    "@skos:prefLabel": "400/220kV Morzyczyn AT3",
     "@skos:altLabel": "MON-A3",
     "@cim:IdentifiedObject.mRID": "19T110000006450N",
-    "@cim:IdentifiedObject.name": "400\\220 kV Morzyczyn AT 3",
+    "@cim:IdentifiedObject.name": "400/220kV Morzyczyn AT3",
     "@cim:Names.name": [
         "MON-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

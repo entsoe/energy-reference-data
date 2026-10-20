@@ -15,9 +15,10 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2016-11-14</cim:DateAndOrTime.date>
-    <cim:Names.name>Distribution System Operator</cim:Names.name>
-    <cim:Names.name>Network User</cim:Names.name>
     <cim:Names.name>Consumer</cim:Names.name>
+    <cim:Names.name>Distribution System Operator</cim:Names.name>
+    <cim:Names.name>LNG System Operator</cim:Names.name>
+    <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL7792130301</schema:vatID>
   </skos:Concept>

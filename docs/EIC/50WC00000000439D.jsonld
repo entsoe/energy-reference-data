@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000439D",
-    "@skos:prefLabel": "M Huseby   66  Forbruk",
-    "@skos:altLabel": "NO-HUSEBY66",
+    "@skos:prefLabel": "N Huseby   12  T1 Forbruk",
+    "@skos:altLabel": "NO-HUSEBY12T1",
     "@cim:IdentifiedObject.mRID": "50WC00000000439D",
-    "@cim:IdentifiedObject.name": "M Huseby   66  Forbruk",
+    "@cim:IdentifiedObject.name": "N Huseby   12  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-HUSEBY66",
+        "NO-HUSEBY12T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18W000000000OB5H" ;
     cim:IdentifiedObject.name "UP Venta Inter" ;
-    cim:Names.name "1087VP3" ;
+    cim:Names.name "1087VP3",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18W000000000OB5H" ;
     skos:altLabel "1087VP3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

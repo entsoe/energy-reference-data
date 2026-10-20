@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000001616-I",
     "@skos:prefLabel": "KW Waeggitalk",
     "@skos:altLabel": "KW-WAEGI-TP03-GE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000001616-I",
     "@cim:IdentifiedObject.name": "KW Waeggitalk",
     "@cim:Names.name": [
         "KW-WAEGI-TP03-GE",
-        "Generation"
+        "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-26",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/35V-PROD-ENDP--1> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-03-12" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "PROD Endpoint VP/S CGES" ;
+    cim:IdentifiedObject.mRID "35V-PROD-ENDP--1" ;
+    cim:IdentifiedObject.name "PROD Endpoint VP CGES" ;
+    cim:Names.name "Endpoint",
+        "IT-system",
+        "Location",
+        "PROD_EP_VP_CGES" ;
+    dcterms:identifier "urn:eic:35V-PROD-ENDP--1" ;
+    skos:altLabel "PROD_EP_VP_CGES" ;
+    skos:definition "PROD Endpoint VP/S CGES"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "PROD Endpoint VP CGES" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001618O",
     "@skos:prefLabel": "Vika-Forsand",
-    "@skos:altLabel": "NO-VIKA-FORSAND_",
+    "@skos:altLabel": "NO-VIKA_FORSAND",
     "@cim:IdentifiedObject.mRID": "50WP00000001618O",
     "@cim:IdentifiedObject.name": "Vika-Forsand",
     "@cim:Names.name": [
-        "NO-VIKA-FORSAND_",
+        "NO-VIKA_FORSAND",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

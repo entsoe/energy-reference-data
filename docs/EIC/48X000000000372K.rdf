@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/48X000000000372K">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:48X000000000372K</dcterms:identifier>
+    <skos:prefLabel>Dare Power Limited Norway Branch</skos:prefLabel>
+    <skos:altLabel>DPL-NO</skos:altLabel>
+    <skos:definition xml:lang="en">10/06/24 - The Party have requested that the code be deleted/de-activated 
+
+Postboks 2051 Vika, 0125, Oslo, Norway
+Mr Luke Pattison
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+</skos:definition>
+    <cim:IdentifiedObject.mRID>48X000000000372K</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Dare Power Limited Norway Branch</cim:IdentifiedObject.name>
+    <cim:Names.name>DPL-NO</cim:Names.name>
+    <cim:Names.name>GB363646480</cim:Names.name>
+    <cim:IdentifiedObject.description>10/06/24 - The Party have requested that the code be deleted/de-activated 
+
+Postboks 2051 Vika, 0125, Oslo, Norway
+Mr Luke Pattison
+poweroperations@dare.global
++44 (0) 20 3848 2372
+lpattison@dare.global
+</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-06-11</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>GB363646480</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

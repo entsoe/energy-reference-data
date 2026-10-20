@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000003198",
-    "@skos:prefLabel": "EINUNNA G2      HYDRO",
-    "@skos:altLabel": "NO-EINUNNA_G2___",
+    "@skos:prefLabel": "DVERGFOSG2      HYDRO",
+    "@skos:altLabel": "NO-DVERGFOSG2",
     "@cim:IdentifiedObject.mRID": "50WG000000003198",
-    "@cim:IdentifiedObject.name": "EINUNNA G2      HYDRO",
+    "@cim:IdentifiedObject.name": "DVERGFOSG2      HYDRO",
     "@cim:Names.name": [
-        "NO-EINUNNA_G2___",
+        "NO-DVERGFOSG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002306L",
-    "@skos:prefLabel": "M 66 Verdal-Vuku",
-    "@skos:altLabel": "NO-VERDALVUKU",
+    "@skos:prefLabel": "N 66 Verdal-Vuku",
+    "@skos:altLabel": "NO-66VERDALVUKU",
     "@cim:IdentifiedObject.mRID": "50TL00000002306L",
-    "@cim:IdentifiedObject.name": "M 66 Verdal-Vuku",
+    "@cim:IdentifiedObject.name": "N 66 Verdal-Vuku",
     "@cim:Names.name": [
-        "NO-VERDALVUKU",
+        "NO-66VERDALVUKU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

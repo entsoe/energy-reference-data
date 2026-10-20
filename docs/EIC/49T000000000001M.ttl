@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-01-23" ;
+    cim:DateAndOrTime.date "2026-10-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49T000000000001M" ;
-    cim:IdentifiedObject.name "Meeden-Zwolle White" ;
+    cim:IdentifiedObject.name "Zwolle-Meeden 380 Wit" ;
     cim:Names.name "Internal Line",
-        "MEE-ZWO-W" ;
+        "ZL-MEE380-W" ;
     dcterms:identifier "urn:eic:49T000000000001M" ;
-    skos:altLabel "MEE-ZWO-W" ;
+    skos:altLabel "ZL-MEE380-W" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Meeden-Zwolle White" ;
+    skos:prefLabel "Zwolle-Meeden 380 Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

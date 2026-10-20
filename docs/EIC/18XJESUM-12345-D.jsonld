@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XJESUM-12345-D",
     "@skos:prefLabel": "COMERCIAL JESUMAN, S.A.",
     "@skos:altLabel": "JESUM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XJESUM-12345-D",
     "@cim:IdentifiedObject.name": "COMERCIAL JESUMAN, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA38015459",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-05-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA38015459",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,13 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-22" ;
+    cim:DateAndOrTime.date "2024-11-13" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "W Unit Code " ;
     cim:IdentifiedObject.mRID "48WSTN000AASTK1R" ;
     cim:IdentifiedObject.name "AG-ASTK01" ;
-    cim:Names.name "AG-ASTK01" ;
+    cim:Names.name "ASTK01",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:48WSTN000AASTK1R" ;
-    skos:altLabel "AG-ASTK01" ;
+    skos:altLabel "ASTK01" ;
+    skos:definition "W Unit Code "@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "AG-ASTK01" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

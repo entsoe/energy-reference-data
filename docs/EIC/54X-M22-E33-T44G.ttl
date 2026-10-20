@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/54X-M22-E33-T44G> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "54X-M22-E33-T44G" ;
+    cim:IdentifiedObject.name "MET Albania sha" ;
+    cim:Names.name "Balance Responsible Party",
+        "M41826037T",
+        "MET_ALBANIA",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:54X-M22-E33-T44G" ;
+    schema1:vatID "M41826037T" ;
+    skos:altLabel "MET_ALBANIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MET Albania sha" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

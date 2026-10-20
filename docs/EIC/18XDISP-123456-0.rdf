@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XDISP-123456-0</dcterms:identifier>
     <skos:prefLabel>Distribuciones Pedro Vives</skos:prefLabel>
     <skos:altLabel>DISP</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XDISP-123456-0</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Distribuciones Pedro Vives</cim:IdentifiedObject.name>
     <cim:Names.name>DISP</cim:Names.name>
     <cim:Names.name>ESB03065646</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-01-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB03065646</schema:vatID>

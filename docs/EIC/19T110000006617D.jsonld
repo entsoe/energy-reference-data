@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006617D",
-    "@skos:prefLabel": "Polkowice-A4",
+    "@skos:prefLabel": "400/110kV Polkowice AT4",
     "@skos:altLabel": "POL-A4",
     "@cim:IdentifiedObject.mRID": "19T110000006617D",
-    "@cim:IdentifiedObject.name": "Polkowice-A4",
+    "@cim:IdentifiedObject.name": "400/110kV Polkowice AT4",
     "@cim:Names.name": [
         "POL-A4",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

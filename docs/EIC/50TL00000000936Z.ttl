@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000936Z" ;
-    cim:IdentifiedObject.name "S 22 Sandane-Eidsfossen SFE" ;
+    cim:IdentifiedObject.name "N 22 Sandane-Eidsfossen SFE" ;
     cim:Names.name "Internal Line",
-        "NO-SANDANEEIDSFS" ;
+        "NO-22SANDANEEIDS" ;
     dcterms:identifier "urn:eic:50TL00000000936Z" ;
-    skos:altLabel "NO-SANDANEEIDSFS" ;
+    skos:altLabel "NO-22SANDANEEIDS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 22 Sandane-Eidsfossen SFE" ;
+    skos:prefLabel "N 22 Sandane-Eidsfossen SFE" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/24XSKYQUANTSK101> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "24XSKYQUANTSK101" ;
+    cim:IdentifiedObject.name "Exp Algo s. r. o." ;
+    cim:Names.name "EXP_ALGO-SK",
+        "SK2122273725",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:24XSKYQUANTSK101" ;
+    schema1:vatID "SK2122273725" ;
+    skos:altLabel "EXP_ALGO-SK" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Exp Algo s. r. o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

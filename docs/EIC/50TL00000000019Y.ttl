@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000019Y" ;
     cim:IdentifiedObject.name "N 110 Hyggevatn-Goliat" ;
     cim:Names.name "Internal Line",
-        "NO-HYGGEVATNGOLI" ;
+        "NO-110HYGGEVATNG" ;
     dcterms:identifier "urn:eic:50TL00000000019Y" ;
-    skos:altLabel "NO-HYGGEVATNGOLI" ;
+    skos:altLabel "NO-110HYGGEVATNG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 110 Hyggevatn-Goliat" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

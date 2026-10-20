@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLET---------M" ;
     cim:IdentifiedObject.name "Liberal Energy Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE215726363",
-        "LET" ;
+    cim:Names.name "DE215726363",
+        "LET",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLET---------M" ;
     schema1:vatID "DE215726363" ;
     skos:altLabel "LET" ;

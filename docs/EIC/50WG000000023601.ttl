@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000023601" ;
-    cim:IdentifiedObject.name "STRANDA G103 HYDRO" ;
+    cim:IdentifiedObject.name "FURSET  G103 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STRANDA_G103_" ;
+        "NO-FURSETG103" ;
     dcterms:identifier "urn:eic:50WG000000023601" ;
-    skos:altLabel "NO-STRANDA_G103_" ;
+    skos:altLabel "NO-FURSETG103" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STRANDA G103 HYDRO" ;
+    skos:prefLabel "FURSET  G103 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

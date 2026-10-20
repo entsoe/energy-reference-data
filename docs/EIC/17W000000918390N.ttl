@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-09-06" ;
+    cim:DateAndOrTime.date "2026-04-07" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Validation CIO" ;
     cim:IdentifiedObject.mRID "17W000000918390N" ;
-    cim:IdentifiedObject.name "BAYET MORANT 1" ;
+    cim:IdentifiedObject.name "BAYET MORANDES (LES)" ;
     cim:Names.name "FR_GA-MORANT1-G",
         "Generation Unit" ;
     dcterms:identifier "urn:eic:17W000000918390N" ;
     skos:altLabel "FR_GA-MORANT1-G" ;
+    skos:definition "Validation CIO"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "BAYET MORANT 1" ;
+    skos:prefLabel "BAYET MORANDES (LES)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

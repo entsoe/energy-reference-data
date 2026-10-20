@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCENTROPOL01-0" ;
     cim:IdentifiedObject.name "CENTROPOL ENERGY, A.S." ;
-    cim:Names.name "Balance Group",
-        "CENTROPOL" ;
+    cim:Names.name "CENTROPOL",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCENTROPOL01-0" ;
     skos:altLabel "CENTROPOL" ;
     skos:definition "Balance Group"@en ;

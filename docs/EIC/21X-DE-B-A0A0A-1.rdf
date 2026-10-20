@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>21X-DE-B-A0A0A-1</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Eni Gas Transport Deutschland</cim:IdentifiedObject.name>
     <cim:Names.name>ENI-D</cim:Names.name>
+    <cim:Names.name>NOT KNOWN</cim:Names.name>
     <cim:IdentifiedObject.description>Transmission System Operator For Gas</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-15</cim:DateAndOrTime.date>
+    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>NOT KNOWN</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

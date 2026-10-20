@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000000163" ;
     cim:IdentifiedObject.name "S 110 Håverstad-T_Håverstad" ;
     cim:Names.name "Internal Line",
-        "NO-HAVERSTADTHAV" ;
+        "NO-110HAVERSTADT" ;
     dcterms:identifier "urn:eic:50TL000000000163" ;
-    skos:altLabel "NO-HAVERSTADTHAV" ;
+    skos:altLabel "NO-110HAVERSTADT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 110 Håverstad-T_Håverstad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

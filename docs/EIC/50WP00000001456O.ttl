@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001456O" ;
     cim:IdentifiedObject.name "Fossekallen-NEAS" ;
-    cim:Names.name "NO-FOSSEKALLEN-N",
+    cim:Names.name "NO-FOSSEKALLEN_N",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001456O" ;
-    skos:altLabel "NO-FOSSEKALLEN-N" ;
+    skos:altLabel "NO-FOSSEKALLEN_N" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Fossekallen-NEAS" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

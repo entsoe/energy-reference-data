@@ -16,18 +16,20 @@
     "@skos:altLabel": "CB-RO-OP",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Control Block Operator"
+        "@value": "Control Block Operator. EIC code can be deactivated. Approval by EIC Participant."
     },
     "@cim:IdentifiedObject.mRID": "10XCB-ROMANIA--Q",
     "@cim:IdentifiedObject.name": "Control Block Romania Operator",
     "@cim:Names.name": [
         "CB-RO-OP",
-        "Valid EIC Function needed"
+        "NOVAT",
+        "Coordination Center Operator"
     ],
-    "@cim:IdentifiedObject.description": "Control Block Operator",
-    "@cim:Document.docStatus": "A05",
+    "@cim:IdentifiedObject.description": "Control Block Operator. EIC code can be deactivated. Approval by EIC Participant.",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-11-05",
+    "@schema:vatID": "NOVAT",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

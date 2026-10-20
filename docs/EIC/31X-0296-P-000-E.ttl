@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0296-P-000-E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0296-P-000-E" ;
+    cim:IdentifiedObject.name "Male hidre d.o.o." ;
+    cim:Names.name "HR-MALE-HIDRE",
+        "HR78231778116",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0296-P-000-E" ;
+    schema1:vatID "HR78231778116" ;
+    skos:altLabel "HR-MALE-HIDRE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Male hidre d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

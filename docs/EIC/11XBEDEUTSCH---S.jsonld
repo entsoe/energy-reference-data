@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XBEDEUTSCH---S",
-    "@skos:prefLabel": "Bergen Energi Deutschland GmbH",
+    "@skos:prefLabel": "Kinect Energy Germany GmbH",
     "@skos:altLabel": "BERGENENERGI-DE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XBEDEUTSCH---S",
-    "@cim:IdentifiedObject.name": "Bergen Energi Deutschland GmbH",
+    "@cim:IdentifiedObject.name": "Kinect Energy Germany GmbH",
     "@cim:Names.name": [
         "BERGENENERGI-DE",
         "DE211206773",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-26",
+    "@cim:DateAndOrTime.date": "2024-05-24",
     "@schema:vatID": "DE211206773",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

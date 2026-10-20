@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2013-07-25" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-10-16" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDEESA-40----9" ;
     cim:IdentifiedObject.name "DeESA GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE815215682",
         "SCHILLHORN" ;
     dcterms:identifier "urn:eic:11XDEESA-40----9" ;

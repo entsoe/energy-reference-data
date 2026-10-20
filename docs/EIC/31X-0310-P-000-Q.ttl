@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0310-P-000-Q> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0310-P-000-Q" ;
+    cim:IdentifiedObject.name "BERKO SOLAR d.o.o." ;
+    cim:Names.name "HR-BERKO-SOLAR",
+        "HR13663409623",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0310-P-000-Q" ;
+    schema1:vatID "HR13663409623" ;
+    skos:altLabel "HR-BERKO-SOLAR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BERKO SOLAR d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

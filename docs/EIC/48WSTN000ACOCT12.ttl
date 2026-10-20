@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48WSTN000ACOCT12> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "48WSTN000ACOCT12" ;
+    cim:IdentifiedObject.name "OCTOPUS AG-COCT01" ;
+    cim:Names.name "ACOCT1",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:48WSTN000ACOCT12" ;
+    skos:altLabel "ACOCT1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "OCTOPUS AG-COCT01" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19XPSTTRADE0000O",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19XPSTTRADE0000O",
+    "@skos:prefLabel": "PST TRADE SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "PST_TRADE_SA",
+    "@cim:IdentifiedObject.mRID": "19XPSTTRADE0000O",
+    "@cim:IdentifiedObject.name": "PST TRADE SPÓŁKA AKCYJNA",
+    "@cim:Names.name": [
+        "PST_TRADE_SA",
+        "A0021652H.PL",
+        "PL5842837416",
+        "Energy Supplier"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-02-07",
+    "@schema:vatID": "PL5842837416",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

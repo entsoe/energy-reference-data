@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000014402" ;
     cim:IdentifiedObject.name "Tveitenkraft" ;
-    cim:Names.name "NO-TVEITENKRAFT_",
+    cim:Names.name "NO-TVEITENKRAFT",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000014402" ;
-    skos:altLabel "NO-TVEITENKRAFT_" ;
+    skos:altLabel "NO-TVEITENKRAFT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Tveitenkraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

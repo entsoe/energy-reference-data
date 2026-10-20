@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000066903",
-    "@skos:prefLabel": "Ostrów-Rogowiec",
+    "@skos:prefLabel": "400kV Ostrow-Rogowiec",
     "@skos:altLabel": "416",
     "@cim:IdentifiedObject.mRID": "19T1100000066903",
-    "@cim:IdentifiedObject.name": "Ostrów-Rogowiec",
+    "@cim:IdentifiedObject.name": "400kV Ostrow-Rogowiec",
     "@cim:Names.name": [
         "416",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

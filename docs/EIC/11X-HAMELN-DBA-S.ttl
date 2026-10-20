@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-HAMELN-DBA-S" ;
     cim:IdentifiedObject.name "GWS Stadtwerke Hameln GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE115443839",
-        "HAMELN-DBA" ;
+    cim:Names.name "DE115443839",
+        "HAMELN-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-HAMELN-DBA-S" ;
     schema1:vatID "DE115443839" ;
     skos:altLabel "HAMELN-DBA" ;

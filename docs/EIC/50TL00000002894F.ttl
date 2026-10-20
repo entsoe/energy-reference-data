@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002894F" ;
-    cim:IdentifiedObject.name "M 66 Tjøndalen-Bodin-3" ;
+    cim:IdentifiedObject.name "N 66 Tjøndalen-Bodin-3" ;
     cim:Names.name "Internal Line",
-        "NO-TJONDALBODIN3" ;
+        "NO-66TJONNDODIN3" ;
     dcterms:identifier "urn:eic:50TL00000002894F" ;
-    skos:altLabel "NO-TJONDALBODIN3" ;
+    skos:altLabel "NO-66TJONNDODIN3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Tjøndalen-Bodin-3" ;
+    skos:prefLabel "N 66 Tjøndalen-Bodin-3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

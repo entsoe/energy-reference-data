@@ -4,18 +4,22 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:45X0000000000723</dcterms:identifier>
-    <skos:prefLabel>Biogas Express AS</skos:prefLabel>
+    <skos:prefLabel>Biogem A/S</skos:prefLabel>
     <skos:altLabel>BIOGASEXPRESS</skos:altLabel>
     <skos:definition xml:lang="en">Biomethane Trader</skos:definition>
     <cim:IdentifiedObject.mRID>45X0000000000723</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Biogas Express AS</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Biogem A/S</cim:IdentifiedObject.name>
     <cim:Names.name>BIOGASEXPRESS</cim:Names.name>
     <cim:Names.name>DK38636685</cim:Names.name>
     <cim:IdentifiedObject.description>Biomethane Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-08-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Consumer</cim:Names.name>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Producer</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DK38636685</schema:vatID>
   </skos:Concept>

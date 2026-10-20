@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001496I" ;
     cim:IdentifiedObject.name "SKJEFST1G3      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-SKJEFST1G3___" ;
+        "NO-SKJEFST1G3" ;
     dcterms:identifier "urn:eic:50WG00000001496I" ;
-    skos:altLabel "NO-SKJEFST1G3___" ;
+    skos:altLabel "NO-SKJEFST1G3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "SKJEFST1G3      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

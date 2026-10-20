@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSWSAARBRUECK3",
     "@skos:prefLabel": "Stadtwerke Saarbrücken Netz AG",
     "@skos:altLabel": "SWSAARBRUECKEN",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWSAARBRUECK3",
     "@cim:IdentifiedObject.name": "Stadtwerke Saarbrücken Netz AG",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE811186441",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-15",
+    "@cim:DateAndOrTime.date": "2025-05-19",
     "@schema:vatID": "DE811186441",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

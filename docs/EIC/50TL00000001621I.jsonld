@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001621I",
-    "@skos:prefLabel": "S 66 Åmela-Eid",
-    "@skos:altLabel": "NO-AMELAEID",
+    "@skos:prefLabel": "N 66 Åmela-Eid",
+    "@skos:altLabel": "NO-66AMELAEID",
     "@cim:IdentifiedObject.mRID": "50TL00000001621I",
-    "@cim:IdentifiedObject.name": "S 66 Åmela-Eid",
+    "@cim:IdentifiedObject.name": "N 66 Åmela-Eid",
     "@cim:Names.name": [
-        "NO-AMELAEID",
+        "NO-66AMELAEID",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

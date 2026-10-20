@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XECADZ-1234-3U",
-    "@skos:prefLabel": "SUMINISTRADORA ELÉCTRICA DE CÁDIZ S.A.",
+    "@skos:prefLabel": "COMERCIALIZADORA ELECTRICA DE CADIZ S.A.",
     "@skos:altLabel": "ECADZ",
     "@cim:IdentifiedObject.mRID": "18XECADZ-1234-3U",
-    "@cim:IdentifiedObject.name": "SUMINISTRADORA ELÉCTRICA DE CÁDIZ S.A.",
+    "@cim:IdentifiedObject.name": "COMERCIALIZADORA ELECTRICA DE CADIZ S.A.",
     "@cim:Names.name": [
         "ECADZ",
-        "ESA11355526",
+        "ESA11507357",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-21",
-    "@schema:vatID": "ESA11355526",
+    "@cim:DateAndOrTime.date": "2026-10-14",
+    "@schema:vatID": "ESA11507357",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

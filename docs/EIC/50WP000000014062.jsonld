@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000014062",
     "@skos:prefLabel": "Gravvold",
-    "@skos:altLabel": "NO-GRAVVOLD_PL",
+    "@skos:altLabel": "NO-GRAVVOLD",
     "@cim:IdentifiedObject.mRID": "50WP000000014062",
     "@cim:IdentifiedObject.name": "Gravvold",
     "@cim:Names.name": [
-        "NO-GRAVVOLD_PL",
+        "NO-GRAVVOLD",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

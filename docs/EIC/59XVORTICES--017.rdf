@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>59XVORTICES--017</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Vortices Energy Ltd.</cim:IdentifiedObject.name>
     <cim:Names.name>VORTICESENERGY</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>UAE Company; EU Value not inserted because non-european company.</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2017-10-03</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

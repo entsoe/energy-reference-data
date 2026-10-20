@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000325D",
     "@skos:prefLabel": "ELDREVATG1      HYDRO",
-    "@skos:altLabel": "NO-ELDREVATG1___",
+    "@skos:altLabel": "NO-ELDREVATG1",
     "@cim:IdentifiedObject.mRID": "50WG00000000325D",
     "@cim:IdentifiedObject.name": "ELDREVATG1      HYDRO",
     "@cim:Names.name": [
-        "NO-ELDREVATG1___",
+        "NO-ELDREVATG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

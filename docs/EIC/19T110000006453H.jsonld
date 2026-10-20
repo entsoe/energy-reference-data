@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006453H",
-    "@skos:prefLabel": "220 kV Morzyczyn – Police",
+    "@skos:prefLabel": "220kV Morzyczyn-Police",
     "@skos:altLabel": "4528",
     "@cim:IdentifiedObject.mRID": "19T110000006453H",
-    "@cim:IdentifiedObject.name": "220 kV Morzyczyn – Police",
+    "@cim:IdentifiedObject.name": "220kV Morzyczyn-Police",
     "@cim:Names.name": [
         "4528",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

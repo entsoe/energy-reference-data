@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001646P",
-    "@skos:prefLabel": "MOSKOG  G182 HYDRO",
-    "@skos:altLabel": "NO-MOSKOG__G182_",
+    "@skos:prefLabel": "SKEI    G182 HYDRO",
+    "@skos:altLabel": "NO-SKEIG182",
     "@cim:IdentifiedObject.mRID": "50WG00000001646P",
-    "@cim:IdentifiedObject.name": "MOSKOG  G182 HYDRO",
+    "@cim:IdentifiedObject.name": "SKEI    G182 HYDRO",
     "@cim:Names.name": [
-        "NO-MOSKOG__G182_",
+        "NO-SKEIG182",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-04-24",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

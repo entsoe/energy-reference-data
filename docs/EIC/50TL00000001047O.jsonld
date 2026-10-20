@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000001047O",
     "@skos:prefLabel": "S 300 Husnes-Børtveit",
-    "@skos:altLabel": "NO-HUSNESBORTVEI",
+    "@skos:altLabel": "NO-300HUSNESBORT",
     "@cim:IdentifiedObject.mRID": "50TL00000001047O",
     "@cim:IdentifiedObject.name": "S 300 Husnes-Børtveit",
     "@cim:Names.name": [
-        "NO-HUSNESBORTVEI",
+        "NO-300HUSNESBORT",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

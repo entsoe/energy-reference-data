@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000014157</dcterms:identifier>
     <skos:prefLabel>SAGEVIKEG1      HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-SAGEVIKEG1___</skos:altLabel>
+    <skos:altLabel>NO-SAGEVIKEG1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000014157</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SAGEVIKEG1      HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SAGEVIKEG1___</cim:Names.name>
+    <cim:Names.name>NO-SAGEVIKEG1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

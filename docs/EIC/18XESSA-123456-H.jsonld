@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XESSA-123456-H",
     "@skos:prefLabel": "E.S SAN ANTONIO",
     "@skos:altLabel": "ESSA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XESSA-123456-H",
     "@cim:IdentifiedObject.name": "E.S SAN ANTONIO",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB87322137",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB87322137",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

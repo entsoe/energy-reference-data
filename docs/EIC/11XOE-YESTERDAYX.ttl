@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11XOE-YESTERDAYX" ;
     cim:IdentifiedObject.name "OBERHESSISCHE VERSORGUNGS-BETRIEBE AKTIENGESELLSCHAFT" ;
-    cim:Names.name "Balance Group",
-        "DE112590318",
-        "OE-YESTERDAY" ;
+    cim:Names.name "DE112590318",
+        "OE-YESTERDAY",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XOE-YESTERDAYX" ;
     schema1:vatID "DE112590318" ;
     skos:altLabel "OE-YESTERDAY" ;

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WGI00000024085",
     "@skos:prefLabel": "GISKEMO G109 HYDRO",
-    "@skos:altLabel": "NO-GISKEMO_G109_",
+    "@skos:altLabel": "NO-GISKEMOG109",
     "@cim:IdentifiedObject.mRID": "50WGI00000024085",
     "@cim:IdentifiedObject.name": "GISKEMO G109 HYDRO",
     "@cim:Names.name": [
-        "NO-GISKEMO_G109_",
+        "NO-GISKEMOG109",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000052V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-27" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000052V" ;
+    cim:IdentifiedObject.name "Bergen Synergy AB" ;
+    cim:Names.name "BERGEN_SYNERGY",
+        "Energy Supplier",
+        "SE559455973301" ;
+    dcterms:identifier "urn:eic:46X000000000052V" ;
+    schema1:vatID "SE559455973301" ;
+    skos:altLabel "BERGEN_SYNERGY" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Bergen Synergy AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

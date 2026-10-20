@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001071S",
-    "@skos:prefLabel": "N Leirpoll 22  Forbruk",
-    "@skos:altLabel": "NO-LEIRPOLL22",
+    "@skos:prefLabel": "N Leirpoll 22  VT Forbruk",
+    "@skos:altLabel": "NO-LEIRPOLL22VT",
     "@cim:IdentifiedObject.mRID": "50WC00000001071S",
-    "@cim:IdentifiedObject.name": "N Leirpoll 22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Leirpoll 22  VT Forbruk",
     "@cim:Names.name": [
-        "NO-LEIRPOLL22",
+        "NO-LEIRPOLL22VT",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

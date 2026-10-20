@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002752Z",
-    "@skos:prefLabel": "S 22 Stakaldefossen-Gjesdal",
-    "@skos:altLabel": "NO-STAKALDEFGJES",
+    "@skos:prefLabel": "N 22 Stakaldefossen-Gjesdal",
+    "@skos:altLabel": "NO-22STAKALESDAL",
     "@cim:IdentifiedObject.mRID": "50TL00000002752Z",
-    "@cim:IdentifiedObject.name": "S 22 Stakaldefossen-Gjesdal",
+    "@cim:IdentifiedObject.name": "N 22 Stakaldefossen-Gjesdal",
     "@cim:Names.name": [
-        "NO-STAKALDEFGJES",
+        "NO-22STAKALESDAL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

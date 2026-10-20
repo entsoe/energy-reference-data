@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000475V",
     "@skos:prefLabel": "FROGNER G106 HYDRO",
-    "@skos:altLabel": "NO-FROGNER_G106_",
+    "@skos:altLabel": "NO-FROGNERG106",
     "@cim:IdentifiedObject.mRID": "50WG00000000475V",
     "@cim:IdentifiedObject.name": "FROGNER G106 HYDRO",
     "@cim:Names.name": [
-        "NO-FROGNER_G106_",
+        "NO-FROGNERG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -16,7 +16,10 @@
     "@skos:altLabel": "ES-BPLLANO",
     "@cim:IdentifiedObject.mRID": "18W000000000Q152",
     "@cim:IdentifiedObject.name": "BPLLANO",
-    "@cim:Names.name": "ES-BPLLANO",
+    "@cim:Names.name": [
+        "ES-BPLLANO",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-07-19",

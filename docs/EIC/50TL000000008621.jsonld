@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000008621",
-    "@skos:prefLabel": "S 22 Jardøla-Skjerdal",
-    "@skos:altLabel": "NO-JARDOLASKJERD",
+    "@skos:prefLabel": "N 22 Jardøla-Skjerdal",
+    "@skos:altLabel": "NO-22JARDOLASKJE",
     "@cim:IdentifiedObject.mRID": "50TL000000008621",
-    "@cim:IdentifiedObject.name": "S 22 Jardøla-Skjerdal",
+    "@cim:IdentifiedObject.name": "N 22 Jardøla-Skjerdal",
     "@cim:Names.name": [
-        "NO-JARDOLASKJERD",
+        "NO-22JARDOLASKJE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

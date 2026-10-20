@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002406H" ;
-    cim:IdentifiedObject.name "S Hemsil 2 300 T X" ;
+    cim:IdentifiedObject.name "S Hemsil 2 300 T  X" ;
     cim:Names.name "Internal Line",
-        "NO-HEMSIL2300TX" ;
+        "NO-HEMSIL_2300T" ;
     dcterms:identifier "urn:eic:50TL00000002406H" ;
-    skos:altLabel "NO-HEMSIL2300TX" ;
+    skos:altLabel "NO-HEMSIL_2300T" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hemsil 2 300 T X" ;
+    skos:prefLabel "S Hemsil 2 300 T  X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XIPERZEUGUNG-7",
     "@skos:prefLabel": "IntelligentPower GmbH & Co. KG",
     "@skos:altLabel": "IPERZEUGUNG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XIPERZEUGUNG-7",
     "@cim:IdentifiedObject.name": "IntelligentPower GmbH & Co. KG",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE813679886",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-02-16",
+    "@cim:DateAndOrTime.date": "2024-10-31",
     "@schema:vatID": "DE813679886",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

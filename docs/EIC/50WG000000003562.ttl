@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000003562" ;
-    cim:IdentifiedObject.name "EVANGER G108 HYDRO" ;
+    cim:IdentifiedObject.name "LEIRO   G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-EVANGER_G108_" ;
+        "NO-LEIROG1" ;
     dcterms:identifier "urn:eic:50WG000000003562" ;
-    skos:altLabel "NO-EVANGER_G108_" ;
+    skos:altLabel "NO-LEIROG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "EVANGER G108 HYDRO" ;
+    skos:prefLabel "LEIRO   G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

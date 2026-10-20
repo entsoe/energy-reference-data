@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-01-28" ;
+    cim:DateAndOrTime.date "2024-05-12" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "It-System" ;
     cim:IdentifiedObject.mRID "10V000000000007H" ;
     cim:IdentifiedObject.name "Central Clearing System for Reserves Tender Platform" ;
     cim:Names.name "CCS_RL",
-        "It-System" ;
+        "IT-system" ;
     dcterms:identifier "urn:eic:10V000000000007H" ;
     skos:altLabel "CCS_RL" ;
-    skos:definition "It-System"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Central Clearing System for Reserves Tender Platform" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000912C",
-    "@skos:prefLabel": "S 22 Nedre Svultingen-Tveit",
-    "@skos:altLabel": "NO-NEDRESVTVEIT",
+    "@skos:prefLabel": "N 22 Nedre Svultingen-Tveit",
+    "@skos:altLabel": "NO-22NEDRE_SVTVE",
     "@cim:IdentifiedObject.mRID": "50TL00000000912C",
-    "@cim:IdentifiedObject.name": "S 22 Nedre Svultingen-Tveit",
+    "@cim:IdentifiedObject.name": "N 22 Nedre Svultingen-Tveit",
     "@cim:Names.name": [
-        "NO-NEDRESVTVEIT",
+        "NO-22NEDRE_SVTVE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001386P",
-    "@skos:prefLabel": "ROD     G109 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G109_",
+    "@skos:prefLabel": "BJORDALEG109 HYDRO",
+    "@skos:altLabel": "NO-BJORDALEG109",
     "@cim:IdentifiedObject.mRID": "50WG00000001386P",
-    "@cim:IdentifiedObject.name": "ROD     G109 HYDRO",
+    "@cim:IdentifiedObject.name": "BJORDALEG109 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G109_",
+        "NO-BJORDALEG109",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

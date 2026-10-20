@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000003871> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Energy Supplier" ;
+    cim:IdentifiedObject.mRID "37X0000000003871" ;
+    cim:IdentifiedObject.name "Zeus Renewables GmbH" ;
+    cim:Names.name "DE302081117",
+        "Energy Supplier",
+        "ZEUS_RENEWABLES_" ;
+    dcterms:identifier "urn:eic:37X0000000003871" ;
+    schema1:vatID "DE302081117" ;
+    skos:altLabel "ZEUS_RENEWABLES_" ;
+    skos:definition "Energy Supplier"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Zeus Renewables GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

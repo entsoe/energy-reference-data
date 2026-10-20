@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000019402" ;
     cim:IdentifiedObject.name "S 66 Langum-Konnerud" ;
     cim:Names.name "Internal Line",
-        "NO-LANGUMKONNERU" ;
+        "NO-66LANGUMKONNE" ;
     dcterms:identifier "urn:eic:50TL000000019402" ;
-    skos:altLabel "NO-LANGUMKONNERU" ;
+    skos:altLabel "NO-66LANGUMKONNE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 Langum-Konnerud" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

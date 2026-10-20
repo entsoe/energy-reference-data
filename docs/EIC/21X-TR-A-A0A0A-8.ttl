@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Transmission System Operator For Gas" ;
     cim:IdentifiedObject.mRID "21X-TR-A-A0A0A-8" ;
     cim:IdentifiedObject.name "BOTAS" ;
-    cim:Names.name "BOTAS",
-        "Valid EIC Function needed" ;
+    cim:Names.name "1810023608",
+        "BOTAS",
+        "System Operator" ;
     dcterms:identifier "urn:eic:21X-TR-A-A0A0A-8" ;
+    schema1:vatID "1810023608" ;
     skos:altLabel "BOTAS" ;
     skos:definition "Transmission System Operator For Gas"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

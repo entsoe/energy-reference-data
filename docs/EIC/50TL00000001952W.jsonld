@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001952W",
-    "@skos:prefLabel": "M 66 Liabø-Nørdheim",
-    "@skos:altLabel": "NO-LIABONORDHEIM",
+    "@skos:prefLabel": "N 66 Liabø-Nordheim",
+    "@skos:altLabel": "NO-66LIABONORDHE",
     "@cim:IdentifiedObject.mRID": "50TL00000001952W",
-    "@cim:IdentifiedObject.name": "M 66 Liabø-Nørdheim",
+    "@cim:IdentifiedObject.name": "N 66 Liabø-Nordheim",
     "@cim:Names.name": [
-        "NO-LIABONORDHEIM",
+        "NO-66LIABONORDHE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

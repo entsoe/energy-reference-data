@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XINEOSWHV----O" ;
     cim:IdentifiedObject.name "INEOS Chlor Atlantik GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE811165082",
-        "INEOS" ;
+    cim:Names.name "DE811165082",
+        "INEOS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XINEOSWHV----O" ;
     schema1:vatID "DE811165082" ;
     skos:altLabel "INEOS" ;

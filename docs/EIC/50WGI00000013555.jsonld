@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WGI00000013555",
-    "@skos:prefLabel": "ROD     G108 HYDRO",
-    "@skos:altLabel": "NO-ROD_____G108_",
+    "@skos:prefLabel": "GRUNNAI G108 HYDRO",
+    "@skos:altLabel": "NO-GRUNNAIG108",
     "@cim:IdentifiedObject.mRID": "50WGI00000013555",
-    "@cim:IdentifiedObject.name": "ROD     G108 HYDRO",
+    "@cim:IdentifiedObject.name": "GRUNNAI G108 HYDRO",
     "@cim:Names.name": [
-        "NO-ROD_____G108_",
+        "NO-GRUNNAIG108",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

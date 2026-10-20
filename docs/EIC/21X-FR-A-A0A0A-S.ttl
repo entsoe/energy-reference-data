@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-01-25" ;
+    cim:DateAndOrTime.date "2025-02-20" ;
     cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Renamed to NATRAN from GRTgaz FR" ;
     cim:IdentifiedObject.mRID "21X-FR-A-A0A0A-S" ;
-    cim:IdentifiedObject.name "GRTgaz" ;
-    cim:Names.name "FR440117620",
-        "GRTGAZ",
+    cim:IdentifiedObject.name "NaTran" ;
+    cim:Names.name "FR27440117620",
+        "NATRAN_FR",
         "System Operator" ;
     dcterms:identifier "urn:eic:21X-FR-A-A0A0A-S" ;
-    schema1:vatID "FR440117620" ;
-    skos:altLabel "GRTGAZ" ;
+    schema1:vatID "FR27440117620" ;
+    skos:altLabel "NATRAN_FR" ;
+    skos:definition "Renamed to NATRAN from GRTgaz FR"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GRTgaz" ;
+    skos:prefLabel "NaTran" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/31X-0270-P-000-E> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-02" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "31X-0270-P-000-E" ;
+    cim:IdentifiedObject.name "ACCIONA ENERGIJA d.o.o." ;
+    cim:Names.name "HR-ACCIONA-EN",
+        "HR35155565376",
+        "Producer" ;
+    dcterms:identifier "urn:eic:31X-0270-P-000-E" ;
+    schema1:vatID "HR35155565376" ;
+    skos:altLabel "HR-ACCIONA-EN" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ACCIONA ENERGIJA d.o.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

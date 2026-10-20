@@ -13,7 +13,7 @@
     },
     "@dcterms:identifier": "urn:eic:49T000000000187J",
     "@skos:prefLabel": "Ens 380kV trafo 404",
-    "@skos:altLabel": "ENS380_TR404",
+    "@skos:altLabel": "ENS_TR404",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
@@ -21,13 +21,13 @@
     "@cim:IdentifiedObject.mRID": "49T000000000187J",
     "@cim:IdentifiedObject.name": "Ens 380kV trafo 404",
     "@cim:Names.name": [
-        "ENS380_TR404",
+        "ENS_TR404",
         "Transformer"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-06-08",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

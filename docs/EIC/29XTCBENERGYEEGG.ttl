@@ -11,9 +11,9 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "29XTCBENERGYEEGG" ;
     cim:IdentifiedObject.name "TCB ENERGY S.A. TRADE OF ELECTRICITY, ENERGY AND NATURAL GAS" ;
-    cim:Names.name "EL998924217",
-        "TCBENERGYSA",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Responsible Party",
+        "EL998924217",
+        "TCBENERGYSA" ;
     dcterms:identifier "urn:eic:29XTCBENERGYEEGG" ;
     schema1:vatID "EL998924217" ;
     skos:altLabel "TCBENERGYSA" ;

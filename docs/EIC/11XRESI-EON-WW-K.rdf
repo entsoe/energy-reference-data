@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XRESI-EON-WW-K</dcterms:identifier>
-    <skos:prefLabel>Westfalen Weser Netz AG</skos:prefLabel>
+    <skos:prefLabel>Westfalen Weser Netz GmbH</skos:prefLabel>
     <skos:altLabel>EWA-RESI</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XRESI-EON-WW-K</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Westfalen Weser Netz AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Westfalen Weser Netz GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>EWA-RESI</cim:Names.name>
     <cim:Names.name>DE126229505</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2013-11-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE126229505</schema:vatID>
   </skos:Concept>

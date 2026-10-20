@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18X000000000PHML> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18X000000000PHML" ;
+    cim:IdentifiedObject.name "RUSTICAS VEGAS ALTAS S.L.U." ;
+    cim:Names.name "ES-ORELLANA123",
+        "ESB06475131",
+        "Production Responsible Party" ;
+    dcterms:identifier "urn:eic:18X000000000PHML" ;
+    schema1:vatID "ESB06475131" ;
+    skos:altLabel "ES-ORELLANA123" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RUSTICAS VEGAS ALTAS S.L.U." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

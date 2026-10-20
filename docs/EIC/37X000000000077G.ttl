@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000077G" ;
     cim:IdentifiedObject.name "Giant Energy GmbH" ;
-    cim:Names.name "DE312266300",
+    cim:Names.name "Balance Group Responsible Party",
+        "DE312266300",
         "GIANT_ENERGY" ;
     dcterms:identifier "urn:eic:37X000000000077G" ;
     schema1:vatID "DE312266300" ;

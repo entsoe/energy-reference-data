@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XWISAGENERGIEG",
     "@skos:prefLabel": "WISAG Energieversorgungs GmbH & Co. KG",
     "@skos:altLabel": "WISAG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XWISAGENERGIEG",
     "@cim:IdentifiedObject.name": "WISAG Energieversorgungs GmbH & Co. KG",
     "@cim:Names.name": [
         "WISAG",
         "DE284634010",
-        "balance group"
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-17",
+    "@cim:DateAndOrTime.date": "2024-09-18",
     "@schema:vatID": "DE284634010",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

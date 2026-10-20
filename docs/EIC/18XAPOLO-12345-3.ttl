@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-04" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XAPOLO-12345-3" ;
     cim:IdentifiedObject.name "APOLOCUATRO S.L" ;
     cim:Names.name "APOLO",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XAPOLO-12345-3" ;
     schema1:vatID "ESB22245690" ;
     skos:altLabel "APOLO" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "APOLOCUATRO S.L" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

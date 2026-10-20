@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XMPM---------S" ;
     cim:IdentifiedObject.name "ENSO Energie Sachsen Ost AG" ;
-    cim:Names.name "Balance Group",
-        "DE140293195",
-        "ENSO-MPM" ;
+    cim:Names.name "DE140293195",
+        "ENSO-MPM",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XMPM---------S" ;
     schema1:vatID "DE140293195" ;
     skos:altLabel "ENSO-MPM" ;

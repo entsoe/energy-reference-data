@@ -16,7 +16,10 @@
     "@skos:altLabel": "M_ALEGRO",
     "@cim:IdentifiedObject.mRID": "22Z20190414----C",
     "@cim:IdentifiedObject.name": "Accounting Point ALEGRO",
-    "@cim:Names.name": "M_ALEGRO",
+    "@cim:Names.name": [
+        "M_ALEGRO",
+        "Accounting Point"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2020-09-23",

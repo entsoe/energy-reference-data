@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XVPFIL-12345-Y",
     "@skos:prefLabel": "VALLES PLASTIC FILM, S.L.",
     "@skos:altLabel": "VPFIL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XVPFIL-12345-Y",
     "@cim:IdentifiedObject.name": "VALLES PLASTIC FILM, S.L.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB96956115",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-01-22",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB96956115",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

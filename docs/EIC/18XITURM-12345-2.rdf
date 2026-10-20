@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XITURM-12345-2</dcterms:identifier>
-    <skos:prefLabel>ELECTRA ITUMAYOR S.L.</skos:prefLabel>
+    <skos:prefLabel>ELECTRA ITURMAYOR, S.L.</skos:prefLabel>
     <skos:altLabel>ITURM</skos:altLabel>
-    <skos:definition xml:lang="en">Production Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XITURM-12345-2</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELECTRA ITUMAYOR S.L.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ELECTRA ITURMAYOR, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>ITURM</cim:Names.name>
     <cim:Names.name>ESB31206436</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2008-11-03</cim:DateAndOrTime.date>
-    <cim:Names.name>Production Responsible party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-09-23</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB31206436</schema:vatID>
   </skos:Concept>

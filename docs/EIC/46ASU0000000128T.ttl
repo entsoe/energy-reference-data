@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-01" ;
+    cim:DateAndOrTime.date "2025-08-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Substation" ;
     cim:IdentifiedObject.mRID "46ASU0000000128T" ;
-    cim:IdentifiedObject.name "Porjus" ;
-    cim:Names.name "PORJUS",
+    cim:IdentifiedObject.name "Porjusberget" ;
+    cim:Names.name "PORJUSBERGET",
         "Substation" ;
     dcterms:identifier "urn:eic:46ASU0000000128T" ;
-    skos:altLabel "PORJUS" ;
+    skos:altLabel "PORJUSBERGET" ;
     skos:definition "Substation"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Porjus" ;
+    skos:prefLabel "Porjusberget" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

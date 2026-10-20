@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XHOTELRIODECCK",
     "@skos:prefLabel": "RIO HOSTERIA DECORACION, S.A",
     "@skos:altLabel": "HRIO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XHOTELRIODECCK",
     "@cim:IdentifiedObject.name": "RIO HOSTERIA DECORACION, S.A",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA06008411",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-05",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA06008411",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250415-SM-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Company registration number: 812127696 confirmed by the Ministry of Industry, Entrepreneurship and Trade in Kosovo" ;
+    cim:IdentifiedObject.mRID "23X--250415-SM-P" ;
+    cim:IdentifiedObject.name "Statkraft Markets GmbH Branch in Kosovo " ;
+    cim:Names.name "330590259",
+        "Balance Responsible Party",
+        "STATKRAFT_XK" ;
+    dcterms:identifier "urn:eic:23X--250415-SM-P" ;
+    schema1:vatID "330590259" ;
+    skos:altLabel "STATKRAFT_XK" ;
+    skos:definition "Company registration number: 812127696 confirmed by the Ministry of Industry, Entrepreneurship and Trade in Kosovo"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Statkraft Markets GmbH Branch in Kosovo " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

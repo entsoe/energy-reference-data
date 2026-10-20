@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-01-25" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Platform Operator" ;
     cim:IdentifiedObject.mRID "10X1001B1001B61Q" ;
     cim:IdentifiedObject.name "Agency for the Cooperation of Energy Regulators" ;
-    cim:Names.name "ACER",
-        "Platform Operator" ;
+    cim:Names.name "37879260",
+        "ACER",
+        "Information Provider" ;
     dcterms:identifier "urn:eic:10X1001B1001B61Q" ;
+    schema1:vatID "37879260" ;
     skos:altLabel "ACER" ;
     skos:definition "Platform Operator"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

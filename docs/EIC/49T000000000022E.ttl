@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-06-28" ;
+    cim:DateAndOrTime.date "2024-03-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49T000000000022E" ;
-    cim:IdentifiedObject.name "Ens-Lelystad 380 Wit" ;
+    cim:IdentifiedObject.name "Lelystad-Ens 380kV Wit" ;
     cim:Names.name "Internal Line",
         "LLS-ENS380-W" ;
     dcterms:identifier "urn:eic:49T000000000022E" ;
     skos:altLabel "LLS-ENS380-W" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Ens-Lelystad 380 Wit" ;
+    skos:prefLabel "Lelystad-Ens 380kV Wit" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45YDOM-1001A0942> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-18" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "45YDOM-1001A0942" ;
+    cim:IdentifiedObject.name "In Commodities A/S" ;
+    cim:Names.name "Balance Group",
+        "INCOMAS_WL" ;
+    dcterms:identifier "urn:eic:45YDOM-1001A0942" ;
+    skos:altLabel "INCOMAS_WL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "In Commodities A/S" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X0000000000GET</dcterms:identifier>
     <skos:prefLabel>GENERAL DE POLIMEROS S.L</skos:prefLabel>
     <skos:altLabel>GENEP</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X0000000000GET</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>GENERAL DE POLIMEROS S.L</cim:IdentifiedObject.name>
     <cim:Names.name>GENEP</cim:Names.name>
     <cim:Names.name>ESB70313226</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-07-12</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB70313226</schema:vatID>

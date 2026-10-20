@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003135H" ;
-    cim:IdentifiedObject.name "M 420 Hofstad-Åfjord" ;
+    cim:IdentifiedObject.name "N 420 Hofstad-Åfjord" ;
     cim:Names.name "Internal Line",
-        "NO-HOFSTADAFJORD" ;
+        "NO-420HOFSTADAFJ" ;
     dcterms:identifier "urn:eic:50TL00000003135H" ;
-    skos:altLabel "NO-HOFSTADAFJORD" ;
+    skos:altLabel "NO-420HOFSTADAFJ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Hofstad-Åfjord" ;
+    skos:prefLabel "N 420 Hofstad-Åfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

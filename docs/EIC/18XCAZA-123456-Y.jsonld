@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCAZA-123456-Y",
     "@skos:prefLabel": "DE CAZA Y CONTROL S.L",
     "@skos:altLabel": "CAZA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCAZA-123456-Y",
     "@cim:IdentifiedObject.name": "DE CAZA Y CONTROL S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB99344285",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-07-23",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB99344285",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

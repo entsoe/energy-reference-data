@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-05" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group Manager Bg System Losses" ;
     cim:IdentifiedObject.mRID "13XTIROL-NV----G" ;
     cim:IdentifiedObject.name "Tiroler Wasserkraft AG" ;
     cim:Names.name "ATU53258905",
-        "TIROL_NV",
-        "Valid EIC Function needed" ;
+        "Grid Operator",
+        "TIROL_NV" ;
     dcterms:identifier "urn:eic:13XTIROL-NV----G" ;
     schema1:vatID "ATU53258905" ;
     skos:altLabel "TIROL_NV" ;

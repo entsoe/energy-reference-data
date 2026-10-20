@@ -7,15 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-04-12" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Company is registered in Singapore. Company registration number and the national tax number is the same: 201304475C Written confirmation from ACRA (Accounting and Corporate Regulatory Authority) received." ;
     cim:IdentifiedObject.mRID "23X--180412-YT-G" ;
     cim:IdentifiedObject.name "Yamal Trade Pte. Ltd." ;
     cim:Names.name "A00136925.BE",
+        "NA11",
         "Trade Responsible Party",
         "YAMAL_TRADE" ;
     dcterms:identifier "urn:eic:23X--180412-YT-G" ;
+    schema1:vatID "NA11" ;
     skos:altLabel "YAMAL_TRADE" ;
     skos:definition "Company is registered in Singapore. Company registration number and the national tax number is the same: 201304475C Written confirmation from ACRA (Accounting and Corporate Regulatory Authority) received."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WBLIUDZIUPANEK> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-10-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Panevėžio Bliūdžių PV parkas 3,9MW   Klevečkinės k., Panevėžio raj.   ESO objekto Nr. 21090425" ;
+    cim:IdentifiedObject.mRID "41WBLIUDZIUPANEK" ;
+    cim:IdentifiedObject.name "Panevėžio Bliūdžių PV parkas" ;
+    cim:Names.name "Generation Unit",
+        "PANEVEZBLIUDZIU" ;
+    dcterms:identifier "urn:eic:41WBLIUDZIUPANEK" ;
+    skos:altLabel "PANEVEZBLIUDZIU" ;
+    skos:definition "Panevėžio Bliūdžių PV parkas 3,9MW   Klevečkinės k., Panevėžio raj.   ESO objekto Nr. 21090425"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Panevėžio Bliūdžių PV parkas" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

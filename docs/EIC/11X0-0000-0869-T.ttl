@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0869-T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-08-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0869-T" ;
+    cim:IdentifiedObject.name "TriaSoft GmbH" ;
+    cim:Names.name "DE172474175",
+        "Energy Supplier",
+        "TS_01_TENNET_INT" ;
+    dcterms:identifier "urn:eic:11X0-0000-0869-T" ;
+    schema1:vatID "DE172474175" ;
+    skos:altLabel "TS_01_TENNET_INT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TriaSoft GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

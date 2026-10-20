@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XSWBADPYRMONT4",
-    "@skos:prefLabel": "Stadtwerke Bad Pyrmont",
+    "@skos:prefLabel": "Stadtwerke Bad Pyrmont GmbH",
     "@skos:altLabel": "SWBADPYRMONT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWBADPYRMONT4",
-    "@cim:IdentifiedObject.name": "Stadtwerke Bad Pyrmont",
+    "@cim:IdentifiedObject.name": "Stadtwerke Bad Pyrmont GmbH",
     "@cim:Names.name": [
         "SWBADPYRMONT",
-        "CH182610",
-        "Balance Group"
+        "DE270460452",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-13",
-    "@schema:vatID": "CH182610",
+    "@cim:DateAndOrTime.date": "2024-11-07",
+    "@schema:vatID": "DE270460452",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

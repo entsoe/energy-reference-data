@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002665U",
-    "@skos:prefLabel": "N Goliat 110 E06A X",
+    "@skos:prefLabel": "N Goliat  110 E06A X",
     "@skos:altLabel": "NO-GOLIAT110E06A",
     "@cim:IdentifiedObject.mRID": "50TL00000002665U",
-    "@cim:IdentifiedObject.name": "N Goliat 110 E06A X",
+    "@cim:IdentifiedObject.name": "N Goliat  110 E06A X",
     "@cim:Names.name": [
         "NO-GOLIAT110E06A",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

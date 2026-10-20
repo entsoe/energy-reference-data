@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11T0-0000-0452-J" ;
     cim:IdentifiedObject.name "AMP / 220kV / Rheinau / Trafo 23" ;
-    cim:Names.name "RHEINAU-23" ;
+    cim:Names.name "RHEINAU-23",
+        "Transformer" ;
     dcterms:identifier "urn:eic:11T0-0000-0452-J" ;
     skos:altLabel "RHEINAU-23" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

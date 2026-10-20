@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XMOIA-123456-Y",
     "@skos:prefLabel": "EXCOSADOR COMARCAL DEL MOIANES S.A.",
     "@skos:altLabel": "MOIA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMOIA-123456-Y",
     "@cim:IdentifiedObject.name": "EXCOSADOR COMARCAL DEL MOIANES S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA60014651",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-07",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA60014651",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

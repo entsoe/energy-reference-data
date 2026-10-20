@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-22" ;
+    cim:DateAndOrTime.date "2025-02-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11X0-0000-0518-U" ;
-    cim:IdentifiedObject.name "TrailStone Renewables GmbH" ;
+    cim:IdentifiedObject.name "Engelhart CTP Renewables GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE815824732",
         "TSR" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE815824732" ;
     skos:altLabel "TSR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "TrailStone Renewables GmbH" ;
+    skos:prefLabel "Engelhart CTP Renewables GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

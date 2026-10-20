@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "COOPGAS_SRL",
         "IT11650030155",
-        "Market Operator Capacity Trader"
+        "Capacity Trader",
+        "Market Operator"
     ],
     "@cim:IdentifiedObject.description": "Market Operator Capacity Trader",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-01-14",
+    "@cim:DateAndOrTime.date": "2024-12-11",
     "@schema:vatID": "IT11650030155",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

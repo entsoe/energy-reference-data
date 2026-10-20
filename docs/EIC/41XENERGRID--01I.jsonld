@@ -18,11 +18,12 @@
     "@cim:IdentifiedObject.name": "UAB “ENERGRIDAS”",
     "@cim:Names.name": [
         "ENERGRID--01",
-        "LT100008484810"
+        "LT100008484810",
+        "Valid EIC function needed"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-01-09",
+    "@cim:DateAndOrTime.date": "2025-01-01",
     "@schema:vatID": "LT100008484810",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

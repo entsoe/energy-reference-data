@@ -1,0 +1,31 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/48X000000000367D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """BGI Trading Limited 
+Sam Hill
+02078704959
+245 Hammersmith Road, London, England, W6 8PW""" ;
+    cim:IdentifiedObject.mRID "48X000000000367D" ;
+    cim:IdentifiedObject.name "BGI Trading Limited" ;
+    cim:Names.name "BGITL",
+        "Balance Responsible Party",
+        "GB359679822" ;
+    dcterms:identifier "urn:eic:48X000000000367D" ;
+    schema1:vatID "GB359679822" ;
+    skos:altLabel "BGITL" ;
+    skos:definition """BGI Trading Limited 
+Sam Hill
+02078704959
+245 Hammersmith Road, London, England, W6 8PW"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BGI Trading Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

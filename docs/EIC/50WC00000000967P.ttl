@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000967P" ;
-    cim:IdentifiedObject.name "S Korsvoll 47  Forbruk" ;
+    cim:IdentifiedObject.name "S Korsvoll 11  L1 Forbruk" ;
     cim:Names.name "Load",
-        "NO-KORSVOLL47" ;
+        "NO-KORSVOLL11L1" ;
     dcterms:identifier "urn:eic:50WC00000000967P" ;
-    skos:altLabel "NO-KORSVOLL47" ;
+    skos:altLabel "NO-KORSVOLL11L1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Korsvoll 47  Forbruk" ;
+    skos:prefLabel "S Korsvoll 11  L1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

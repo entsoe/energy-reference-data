@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XECI1--------G</dcterms:identifier>
     <skos:prefLabel>Akzo Nobel Industrial Chemicals GmbH</skos:prefLabel>
     <skos:altLabel>ECI</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XECI1--------G</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Akzo Nobel Industrial Chemicals GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>ECI</cim:Names.name>
     <cim:Names.name>DE125498871</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
-    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-02-19</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE125498871</schema:vatID>
   </skos:Concept>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006707C",
-    "@skos:prefLabel": "Piotrków-Rogowiec",
+    "@skos:prefLabel": "220kV Piotrkow-Rogowiec",
     "@skos:altLabel": "1403",
     "@cim:IdentifiedObject.mRID": "19T110000006707C",
-    "@cim:IdentifiedObject.name": "Piotrków-Rogowiec",
+    "@cim:IdentifiedObject.name": "220kV Piotrkow-Rogowiec",
     "@cim:Names.name": [
         "1403",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

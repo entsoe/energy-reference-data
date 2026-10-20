@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002207O",
-    "@skos:prefLabel": "S Mågeli   66  L1 Forbruk",
+    "@skos:prefLabel": "S Mågeli   22  L1 Forbruk",
     "@skos:altLabel": "NO-MAGELI66",
     "@cim:IdentifiedObject.mRID": "50WC00000002207O",
-    "@cim:IdentifiedObject.name": "S Mågeli   66  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "S Mågeli   22  L1 Forbruk",
     "@cim:Names.name": [
         "NO-MAGELI66",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

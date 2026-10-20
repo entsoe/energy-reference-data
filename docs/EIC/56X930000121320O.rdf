@@ -10,9 +10,11 @@
     <cim:IdentifiedObject.name>ANTHRAZIT GMBH</cim:IdentifiedObject.name>
     <cim:Names.name>ANTHRAZIT_GMBH</cim:Names.name>
     <cim:Names.name>DE325582986</cim:Names.name>
-    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-09-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE325582986</schema:vatID>
   </skos:Concept>

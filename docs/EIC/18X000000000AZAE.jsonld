@@ -12,18 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000AZAE",
-    "@skos:prefLabel": "MONEGROS SOLAR SA",
+    "@skos:prefLabel": "MONEGROS SOLAR",
     "@skos:altLabel": "MONEG",
     "@cim:IdentifiedObject.mRID": "18X000000000AZAE",
-    "@cim:IdentifiedObject.name": "MONEGROS SOLAR SA",
+    "@cim:IdentifiedObject.name": "MONEGROS SOLAR",
     "@cim:Names.name": [
         "MONEG",
         "ESA99234601",
-        "Production Responsible party"
+        "Consumer",
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-08-07",
+    "@cim:DateAndOrTime.date": "2024-10-24",
     "@schema:vatID": "ESA99234601",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/18W000000000VLBL> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-15" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "18W000000000VLBL" ;
+    cim:IdentifiedObject.name "GST339" ;
+    cim:Names.name "ES-GST339",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:18W000000000VLBL" ;
+    skos:altLabel "ES-GST339" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "GST339" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000031488" ;
     cim:IdentifiedObject.name "S 300 Kuvågen-Saltvika" ;
     cim:Names.name "Internal Line",
-        "NO-KUVAGENSALTVI" ;
+        "NO-300KUVAGENSAL" ;
     dcterms:identifier "urn:eic:50TL000000031488" ;
-    skos:altLabel "NO-KUVAGENSALTVI" ;
+    skos:altLabel "NO-300KUVAGENSAL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 300 Kuvågen-Saltvika" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

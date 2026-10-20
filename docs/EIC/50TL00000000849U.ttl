@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000849U" ;
-    cim:IdentifiedObject.name "M 22 Gjerdsvik-Gursken" ;
+    cim:IdentifiedObject.name "N 22 Gjerdsvik-Gursken" ;
     cim:Names.name "Internal Line",
-        "NO-GJERDSVIKGURS" ;
+        "NO-22GJERDSVIKGU" ;
     dcterms:identifier "urn:eic:50TL00000000849U" ;
-    skos:altLabel "NO-GJERDSVIKGURS" ;
+    skos:altLabel "NO-22GJERDSVIKGU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Gjerdsvik-Gursken" ;
+    skos:prefLabel "N 22 Gjerdsvik-Gursken" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

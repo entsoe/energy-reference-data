@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000023493",
-    "@skos:prefLabel": "S Dagali 22 T1 B X",
-    "@skos:altLabel": "NO-DAGALI22T1BX",
+    "@skos:prefLabel": "S Dagali   22  T1 B X",
+    "@skos:altLabel": "NO-DAGALI22T1B_X",
     "@cim:IdentifiedObject.mRID": "50TL000000023493",
-    "@cim:IdentifiedObject.name": "S Dagali 22 T1 B X",
+    "@cim:IdentifiedObject.name": "S Dagali   22  T1 B X",
     "@cim:Names.name": [
-        "NO-DAGALI22T1BX",
+        "NO-DAGALI22T1B_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

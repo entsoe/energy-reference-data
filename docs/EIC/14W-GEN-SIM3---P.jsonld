@@ -16,7 +16,10 @@
     "@skos:altLabel": "SIM3",
     "@cim:IdentifiedObject.mRID": "14W-GEN-SIM3---P",
     "@cim:IdentifiedObject.name": "Simmering 3",
-    "@cim:Names.name": "SIM3",
+    "@cim:Names.name": [
+        "SIM3",
+        "Generation Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2021-08-26",

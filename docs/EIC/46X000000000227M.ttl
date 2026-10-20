@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46X000000000227M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46X000000000227M" ;
+    cim:IdentifiedObject.name "Linde Energi Elnät AB" ;
+    cim:Names.name "Grid Operator",
+        "LINDE_ELNAT",
+        "SE556468527801" ;
+    dcterms:identifier "urn:eic:46X000000000227M" ;
+    schema1:vatID "SE556468527801" ;
+    skos:altLabel "LINDE_ELNAT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Linde Energi Elnät AB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

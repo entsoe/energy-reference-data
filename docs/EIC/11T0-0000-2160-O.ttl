@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2160-O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2160-O" ;
+    cim:IdentifiedObject.name "50H/380/Vieselbach-Remptendorf-Großschwabhausen/415//Y-Großschwabhause" ;
+    cim:Names.name "Internal Line",
+        "L-D8-D8-415-GSH" ;
+    dcterms:identifier "urn:eic:11T0-0000-2160-O" ;
+    skos:altLabel "L-D8-D8-415-GSH" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "50H/380/Vieselbach-Remptendorf-Großschwabhausen/415//Y-Großschwabhause" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

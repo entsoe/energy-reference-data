@@ -4,18 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19XPADRESSZTUM1U</dcterms:identifier>
-    <skos:prefLabel>PAD RES SZTUM SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
-    <skos:altLabel>PAD_RES_SZTUM</skos:altLabel>
+    <skos:prefLabel>SZTUM ENERGIA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</skos:prefLabel>
+    <skos:altLabel>SZTUM_ENERGIA</skos:altLabel>
     <cim:IdentifiedObject.mRID>19XPADRESSZTUM1U</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>PAD RES SZTUM SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
-    <cim:Names.name>PAD_RES_SZTUM</cim:Names.name>
+    <cim:IdentifiedObject.name>SZTUM ENERGIA SP&#211;&#321;KA Z OGRANICZON&#260; ODPOWIEDZIALNO&#346;CI&#260;</cim:IdentifiedObject.name>
+    <cim:Names.name>SZTUM_ENERGIA</cim:Names.name>
     <cim:Names.name>PL5771990813</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-06-27</cim:DateAndOrTime.date>
-    <cim:Names.name>Grid Access Provider</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-10-13</cim:DateAndOrTime.date>
     <cim:Names.name>Meter Administrator</cim:Names.name>
     <cim:Names.name>System Operator</cim:Names.name>
+    <cim:Names.name>Grid Access Provider</cim:Names.name>
     <cim:Names.name>Metered Data Responsible</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5771990813</schema:vatID>

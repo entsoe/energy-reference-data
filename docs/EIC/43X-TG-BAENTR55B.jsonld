@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "BALTIC ENERGY TRADING SIA",
     "@cim:Names.name": [
         "LV-BAEN40",
-        "40203254279",
+        "LV40203254279",
         "Trade Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-08",
-    "@schema:vatID": "40203254279",
+    "@cim:DateAndOrTime.date": "2024-05-08",
+    "@schema:vatID": "LV40203254279",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

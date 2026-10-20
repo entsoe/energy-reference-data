@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X0000000001I7X</dcterms:identifier>
     <skos:prefLabel>AGROTECNICAS LOS ANTONIOS S.L</skos:prefLabel>
     <skos:altLabel>AGROT</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X0000000001I7X</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AGROTECNICAS LOS ANTONIOS S.L</cim:IdentifiedObject.name>
     <cim:Names.name>AGROT</cim:Names.name>
     <cim:Names.name>ESB50639210</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50639210</schema:vatID>

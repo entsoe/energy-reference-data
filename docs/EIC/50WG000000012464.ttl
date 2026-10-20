@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000012464" ;
-    cim:IdentifiedObject.name "ORKDAL  G109 HYDRO" ;
+    cim:IdentifiedObject.name "BRATTSETG109 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-ORKDAL__G109_" ;
+        "NO-BRATTSETG109" ;
     dcterms:identifier "urn:eic:50WG000000012464" ;
-    skos:altLabel "NO-ORKDAL__G109_" ;
+    skos:altLabel "NO-BRATTSETG109" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ORKDAL  G109 HYDRO" ;
+    skos:prefLabel "BRATTSETG109 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

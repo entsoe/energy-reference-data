@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000734A",
-    "@skos:prefLabel": "M 132 T_Sentrum-Sula",
-    "@skos:altLabel": "NO-TSENTRUMSULA",
+    "@skos:prefLabel": "N 132 T_Sentrum-Sula",
+    "@skos:altLabel": "NO-132T_SENMSULA",
     "@cim:IdentifiedObject.mRID": "50TL00000000734A",
-    "@cim:IdentifiedObject.name": "M 132 T_Sentrum-Sula",
+    "@cim:IdentifiedObject.name": "N 132 T_Sentrum-Sula",
     "@cim:Names.name": [
-        "NO-TSENTRUMSULA",
+        "NO-132T_SENMSULA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

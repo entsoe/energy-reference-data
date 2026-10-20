@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10VENTSOE-OPDE1R> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-03" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "ENTSO-E Project - ECCO SP Layer on TSCNET - OPDE Operator Support" ;
+    cim:IdentifiedObject.mRID "10VENTSOE-OPDE1R" ;
+    cim:IdentifiedObject.name "ENTSO-E OPDE Archive Production" ;
+    cim:Names.name "ENTSOE_OPDE_CT01",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:10VENTSOE-OPDE1R" ;
+    skos:altLabel "ENTSOE_OPDE_CT01" ;
+    skos:definition "ENTSO-E Project - ECCO SP Layer on TSCNET - OPDE Operator Support"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ENTSO-E OPDE Archive Production" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

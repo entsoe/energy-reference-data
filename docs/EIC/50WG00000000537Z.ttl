@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000537Z" ;
     cim:IdentifiedObject.name "GRESSLIFG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GRESSLIFG1___" ;
+        "NO-GRESSLIFG1" ;
     dcterms:identifier "urn:eic:50WG00000000537Z" ;
-    skos:altLabel "NO-GRESSLIFG1___" ;
+    skos:altLabel "NO-GRESSLIFG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "GRESSLIFG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

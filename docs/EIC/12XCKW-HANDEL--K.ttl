@@ -7,12 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-12-06" ;
+    cim:DateAndOrTime.date "2025-05-01" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12XCKW-HANDEL--K" ;
     cim:IdentifiedObject.name "Centralschweizerische Kraftwerke AG" ;
-    cim:Names.name "Balance Responsible Party",
-        "CHE105941235",
+    cim:Names.name "CHE105941235",
         "CKW-HANDEL",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:12XCKW-HANDEL--K" ;

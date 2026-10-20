@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006464C",
-    "@skos:prefLabel": "220 kV Byczyna – Siersza t.2",
+    "@skos:prefLabel": "220kV Byczyna-Siersza 2",
     "@skos:altLabel": "3410",
     "@cim:IdentifiedObject.mRID": "19T110000006464C",
-    "@cim:IdentifiedObject.name": "220 kV Byczyna – Siersza t.2",
+    "@cim:IdentifiedObject.name": "220kV Byczyna-Siersza 2",
     "@cim:Names.name": [
         "3410",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000000677Y" ;
-    cim:IdentifiedObject.name "M Fillan   22  Forbruk" ;
+    cim:IdentifiedObject.name "N Fillan   22  Forbruk" ;
     cim:Names.name "Load",
         "NO-FILLAN22" ;
     dcterms:identifier "urn:eic:50WC00000000677Y" ;
     skos:altLabel "NO-FILLAN22" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Fillan   22  Forbruk" ;
+    skos:prefLabel "N Fillan   22  Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

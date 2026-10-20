@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFC-CONS-----0" ;
     cim:IdentifiedObject.name "Bilanzkreis für Verbrauchsprognose-Fahrpläne" ;
-    cim:Names.name "Balance Group",
-        "DE170832356",
-        "FC_CONS" ;
+    cim:Names.name "DE170832356",
+        "FC_CONS",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFC-CONS-----0" ;
     schema1:vatID "DE170832356" ;
     skos:altLabel "FC_CONS" ;

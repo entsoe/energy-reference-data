@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XGOVYL-12345-G",
     "@skos:prefLabel": "GESTION DE BINGOS GOVYLAN, S.A.",
     "@skos:altLabel": "GOVYL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XGOVYL-12345-G",
     "@cim:IdentifiedObject.name": "GESTION DE BINGOS GOVYLAN, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA38340022",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA38340022",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

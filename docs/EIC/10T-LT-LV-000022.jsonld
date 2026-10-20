@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:10T-LT-LV-000022",
-    "@skos:prefLabel": "Grobina-Klaipeda",
-    "@skos:altLabel": "L_GROBINA-KLAIP",
+    "@skos:prefLabel": "Grobina-Darbenai",
+    "@skos:altLabel": "GROBINA-DARBENAI",
     "@skos:definition": {
         "@language": "en",
         "@value": "Tieline"
     },
     "@cim:IdentifiedObject.mRID": "10T-LT-LV-000022",
-    "@cim:IdentifiedObject.name": "Grobina-Klaipeda",
+    "@cim:IdentifiedObject.name": "Grobina-Darbenai",
     "@cim:Names.name": [
-        "L_GROBINA-KLAIP",
+        "GROBINA-DARBENAI",
         "Tieline"
     ],
     "@cim:IdentifiedObject.description": "Tieline",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-07-18",
+    "@cim:DateAndOrTime.date": "2025-05-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

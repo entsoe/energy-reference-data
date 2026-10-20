@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-12-04" ;
+    cim:DateAndOrTime.date "2024-06-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core" ;
     cim:IdentifiedObject.mRID "10Y1001C--00152Z" ;
-    cim:IdentifiedObject.name "DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)" ;
+    cim:IdentifiedObject.name "TTG–NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
     cim:Names.name "Border Area",
         "TTG-VBZ-NO2A" ;
     dcterms:identifier "urn:eic:10Y1001C--00152Z" ;
     skos:altLabel "TTG-VBZ-NO2A" ;
     skos:definition "EIC required to carry out tests in the Core Capacity Calculation Tool related to the introduction of Advanced Hybrid Coupling in Core"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "DE TenneT Nordlink Virtual Bidding Zone (BigHubNO2A)" ;
+    skos:prefLabel "TTG–NO2 Virtual Bidding Zone on TTG side (advanced hybrid coupling)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

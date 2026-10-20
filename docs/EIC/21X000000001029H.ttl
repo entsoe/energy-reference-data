@@ -12,7 +12,8 @@
     cim:IdentifiedObject.description "Trade Responsible Party" ;
     cim:IdentifiedObject.mRID "21X000000001029H" ;
     cim:IdentifiedObject.name "HANDEN Sp z o o" ;
-    cim:Names.name "GENT",
+    cim:Names.name "Balance Responsible Party",
+        "GENT",
         "PL7811839409",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:21X000000001029H" ;

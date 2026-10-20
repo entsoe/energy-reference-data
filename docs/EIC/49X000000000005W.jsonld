@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49X000000000005W",
-    "@skos:prefLabel": "Energy Trading Company B.V.",
-    "@skos:altLabel": "ETC_BV",
+    "@skos:prefLabel": "Greenchoice Trading Company B.V.",
+    "@skos:altLabel": "GTC_BV",
     "@skos:definition": {
         "@language": "en",
         "@value": "Party Connected To Grid"
     },
     "@cim:IdentifiedObject.mRID": "49X000000000005W",
-    "@cim:IdentifiedObject.name": "Energy Trading Company B.V.",
+    "@cim:IdentifiedObject.name": "Greenchoice Trading Company B.V.",
     "@cim:Names.name": [
-        "ETC_BV",
+        "GTC_BV",
         "NL854768592B01",
         "Party Connected To Grid"
     ],
     "@cim:IdentifiedObject.description": "Party Connected To Grid",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-09-07",
+    "@cim:DateAndOrTime.date": "2025-04-10",
     "@schema:vatID": "NL854768592B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

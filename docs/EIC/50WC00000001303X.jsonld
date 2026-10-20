@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001303X",
-    "@skos:prefLabel": "S Stalsber 47  LA2 Forbruk",
+    "@skos:prefLabel": "S Stalsber 47  T1 Forbruk",
     "@skos:altLabel": "NO-STALSBER47LA2",
     "@cim:IdentifiedObject.mRID": "50WC00000001303X",
-    "@cim:IdentifiedObject.name": "S Stalsber 47  LA2 Forbruk",
+    "@cim:IdentifiedObject.name": "S Stalsber 47  T1 Forbruk",
     "@cim:Names.name": [
         "NO-STALSBER47LA2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,8 +12,10 @@
     <cim:Names.name>ATU79401103</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-09-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-08-28</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ATU79401103</schema:vatID>
   </skos:Concept>

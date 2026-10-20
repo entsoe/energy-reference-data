@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18X000000000K4EM",
-    "@skos:prefLabel": "ALQUILER SEGURO ENERGIA SA",
+    "@skos:prefLabel": "AS ENERGY ELECTRICIDAD Y GAS S.A.",
     "@skos:altLabel": "ES-ALSEG",
     "@cim:IdentifiedObject.mRID": "18X000000000K4EM",
-    "@cim:IdentifiedObject.name": "ALQUILER SEGURO ENERGIA SA",
+    "@cim:IdentifiedObject.name": "AS ENERGY ELECTRICIDAD Y GAS S.A.",
     "@cim:Names.name": [
         "ES-ALSEG",
         "ESA42785949",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-04-08",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@schema:vatID": "ESA42785949",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

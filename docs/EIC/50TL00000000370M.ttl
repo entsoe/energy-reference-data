@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000370M" ;
-    cim:IdentifiedObject.name "S 132 Hydro_2-Hydro_4" ;
+    cim:IdentifiedObject.name "S 132 Herøya_2-Herøya_4" ;
     cim:Names.name "Internal Line",
-        "NO-HYDRO2HYDRO4" ;
+        "NO-132HEROYA_2HE" ;
     dcterms:identifier "urn:eic:50TL00000000370M" ;
-    skos:altLabel "NO-HYDRO2HYDRO4" ;
+    skos:altLabel "NO-132HEROYA_2HE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 132 Hydro_2-Hydro_4" ;
+    skos:prefLabel "S 132 Herøya_2-Herøya_4" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

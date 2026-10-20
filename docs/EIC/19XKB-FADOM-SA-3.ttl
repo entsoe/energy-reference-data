@@ -7,21 +7,22 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-12-14" ;
+    cim:DateAndOrTime.date "2026-08-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XKB-FADOM-SA-3" ;
-    cim:IdentifiedObject.name "KORPORACJA BUDOWLANA FADOM SPÓŁKA AKCYJNA" ;
-    cim:Names.name "Energy Supplier",
+    cim:IdentifiedObject.name "SDE FADOM SPÓŁKA AKCYJNA" ;
+    cim:Names.name "A0011473J.PL",
+        "Energy Supplier",
         "Grid Access Provider",
-        "KB-FADOM-SA",
         "Meter Administrator",
         "Metered Data Responsible",
         "PL6510003555",
+        "SDE-FADOM-SA",
         "System Operator" ;
     dcterms:identifier "urn:eic:19XKB-FADOM-SA-3" ;
     schema1:vatID "PL6510003555" ;
-    skos:altLabel "KB-FADOM-SA" ;
+    skos:altLabel "SDE-FADOM-SA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KORPORACJA BUDOWLANA FADOM SPÓŁKA AKCYJNA" ;
+    skos:prefLabel "SDE FADOM SPÓŁKA AKCYJNA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

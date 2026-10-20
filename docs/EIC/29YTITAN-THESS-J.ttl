@@ -12,8 +12,8 @@
     cim:IdentifiedObject.description "Importer Of Electricity And Industrial Consumer" ;
     cim:IdentifiedObject.mRID "29YTITAN-THESS-J" ;
     cim:IdentifiedObject.name "TITAN CEMENT COMPANY S.A. -NEA EFKARPIA THESSALONIKI" ;
-    cim:Names.name "TITAN-THES",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Balance Group",
+        "TITAN-THES" ;
     dcterms:identifier "urn:eic:29YTITAN-THESS-J" ;
     skos:altLabel "TITAN-THES" ;
     skos:definition "Importer Of Electricity And Industrial Consumer"@en ;

@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X0000000003839> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Testing for tax number versus VAT-Number" ;
+    cim:IdentifiedObject.mRID "37X0000000003839" ;
+    cim:IdentifiedObject.name "Biogas Reichardtswerben GmbH" ;
+    cim:Names.name "11911803080",
+        "BIOGAS_REICHARDT",
+        "Energy Supplier" ;
+    dcterms:identifier "urn:eic:37X0000000003839" ;
+    schema1:vatID "11911803080" ;
+    skos:altLabel "BIOGAS_REICHARDT" ;
+    skos:definition "Testing for tax number versus VAT-Number"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Biogas Reichardtswerben GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-06-24" ;
+    cim:DateAndOrTime.date "2026-08-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11X0-0000-0401-N" ;
-    cim:IdentifiedObject.name "The Mobility House GmbH" ;
+    cim:IdentifiedObject.name "The Mobility House Energy GmbH" ;
     cim:Names.name "Balance Responsible Party",
-        "DE280860814",
+        "DE454780673",
         "TMH" ;
     dcterms:identifier "urn:eic:11X0-0000-0401-N" ;
-    schema1:vatID "DE280860814" ;
+    schema1:vatID "DE454780673" ;
     skos:altLabel "TMH" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "The Mobility House GmbH" ;
+    skos:prefLabel "The Mobility House Energy GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

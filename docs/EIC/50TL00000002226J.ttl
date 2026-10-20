@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002226J" ;
-    cim:IdentifiedObject.name "M 66 T_Linnvasselv-Linnvasselv" ;
+    cim:IdentifiedObject.name "N 66 T_Linnvasselv-Linnvasselv" ;
     cim:Names.name "Internal Line",
-        "NO-TLINNVASSLINN" ;
+        "NO-66T_LINNSSELV" ;
     dcterms:identifier "urn:eic:50TL00000002226J" ;
-    skos:altLabel "NO-TLINNVASSLINN" ;
+    skos:altLabel "NO-66T_LINNSSELV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 T_Linnvasselv-Linnvasselv" ;
+    skos:prefLabel "N 66 T_Linnvasselv-Linnvasselv" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

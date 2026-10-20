@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002312Q" ;
-    cim:IdentifiedObject.name "M 66 Vikebygd-T_Volda" ;
+    cim:IdentifiedObject.name "N 66 Vikebygd-T_Volda" ;
     cim:Names.name "Internal Line",
-        "NO-VIKEBYGDTVOLD" ;
+        "NO-66VIKEBYGDT_V" ;
     dcterms:identifier "urn:eic:50TL00000002312Q" ;
-    skos:altLabel "NO-VIKEBYGDTVOLD" ;
+    skos:altLabel "NO-66VIKEBYGDT_V" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Vikebygd-T_Volda" ;
+    skos:prefLabel "N 66 Vikebygd-T_Volda" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

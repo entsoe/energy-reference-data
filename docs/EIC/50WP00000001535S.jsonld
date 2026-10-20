@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001535S",
     "@skos:prefLabel": "Grøneng",
-    "@skos:altLabel": "NO-GRONENG_PL",
+    "@skos:altLabel": "NO-GROENENG",
     "@cim:IdentifiedObject.mRID": "50WP00000001535S",
     "@cim:IdentifiedObject.name": "Grøneng",
     "@cim:Names.name": [
-        "NO-GRONENG_PL",
+        "NO-GROENENG",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

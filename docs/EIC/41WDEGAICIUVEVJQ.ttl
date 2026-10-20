@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41WDEGAICIUVEVJQ> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "41XDEGAICIU-VEJ7" ;
+    cim:IdentifiedObject.mRID "41WDEGAICIUVEVJQ" ;
+    cim:IdentifiedObject.name "Degaiciu_VE  UAB \"Degaičių vėjas\"" ;
+    cim:Names.name "DEGAICIU_VE",
+        "Resource Object" ;
+    dcterms:identifier "urn:eic:41WDEGAICIUVEVJQ" ;
+    skos:altLabel "DEGAICIU_VE" ;
+    skos:definition "41XDEGAICIU-VEJ7"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Degaiciu_VE  UAB \"Degaičių vėjas\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

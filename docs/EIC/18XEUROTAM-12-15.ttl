@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-12-21" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-03-22" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18XEUROTAM-12-15" ;
     cim:IdentifiedObject.name "EUROATOMIZADO, S.A." ;
     cim:Names.name "ESA12488672",
         "EUROTAM",
-        "Production Responsible party" ;
+        "Production Responsible Party" ;
     dcterms:identifier "urn:eic:18XEUROTAM-12-15" ;
     schema1:vatID "ESA12488672" ;
     skos:altLabel "EUROTAM" ;

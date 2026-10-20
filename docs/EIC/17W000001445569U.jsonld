@@ -16,7 +16,7 @@
     "@skos:altLabel": "FR_HAUTESFAL_GU1",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Ajout code EIC parent + changement de nom + modification du responsible party"
+        "@value": "Ajout code EIC parent + changement de nom + modification du responsible party\nupdate"
     },
     "@cim:IdentifiedObject.mRID": "17W000001445569U",
     "@cim:IdentifiedObject.name": "Eoliennes Offshore des Hautes Falaises 1",
@@ -24,10 +24,10 @@
         "FR_HAUTESFAL_GU1",
         "Generation Unit"
     ],
-    "@cim:IdentifiedObject.description": "Ajout code EIC parent + changement de nom + modification du responsible party",
+    "@cim:IdentifiedObject.description": "Ajout code EIC parent + changement de nom + modification du responsible party\nupdate",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-10-05",
+    "@cim:DateAndOrTime.date": "2026-10-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-09-02" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Fictitious Area" ;
     cim:IdentifiedObject.mRID "10YFEP-COMP----T" ;
     cim:IdentifiedObject.name "Comp. Control area France-Spain-Portugal" ;
-    cim:Names.name "FICT_COMP_FR",
-        "Valid EIC Function needed" ;
+    cim:Names.name "Control Area",
+        "FICT_COMP_FR" ;
     dcterms:identifier "urn:eic:10YFEP-COMP----T" ;
     skos:altLabel "FICT_COMP_FR" ;
     skos:definition "Fictitious Area"@en ;

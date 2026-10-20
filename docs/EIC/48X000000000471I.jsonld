@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000471I",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000471I",
+    "@skos:prefLabel": "NeuConnect_GB",
+    "@skos:altLabel": "NEUCONNECT_IC_GB",
+    "@cim:IdentifiedObject.mRID": "48X000000000471I",
+    "@cim:IdentifiedObject.name": "NeuConnect_GB",
+    "@cim:Names.name": [
+        "NEUCONNECT_IC_GB",
+        "GB290986552",
+        "Balance Responsible Party",
+        "Grid Operator"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-03-25",
+    "@schema:vatID": "GB290986552",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

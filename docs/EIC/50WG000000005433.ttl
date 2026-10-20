@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000005433" ;
-    cim:IdentifiedObject.name "GROV    G117 HYDRO" ;
+    cim:IdentifiedObject.name "SKOGHEIMG117 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-GROV____G117_" ;
+        "NO-SKOGHEIMG117" ;
     dcterms:identifier "urn:eic:50WG000000005433" ;
-    skos:altLabel "NO-GROV____G117_" ;
+    skos:altLabel "NO-SKOGHEIMG117" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "GROV    G117 HYDRO" ;
+    skos:prefLabel "SKOGHEIMG117 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

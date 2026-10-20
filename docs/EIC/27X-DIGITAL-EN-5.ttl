@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-12-01" ;
+    cim:DateAndOrTime.date "2024-10-31" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "27X-DIGITAL-EN-5" ;
-    cim:IdentifiedObject.name "Digital Energy Services s.r.o." ;
+    cim:IdentifiedObject.name "Nano Energies CZ s.r.o." ;
     cim:Names.name "Balance Responsible Party",
         "CZ28188861",
-        "DIGITALENERGY" ;
+        "CZ_NANO" ;
     dcterms:identifier "urn:eic:27X-DIGITAL-EN-5" ;
     schema1:vatID "CZ28188861" ;
-    skos:altLabel "DIGITALENERGY" ;
+    skos:altLabel "CZ_NANO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Digital Energy Services s.r.o." ;
+    skos:prefLabel "Nano Energies CZ s.r.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

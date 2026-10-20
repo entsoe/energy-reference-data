@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWWFB-H-----S</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Wolfenb&#252;ttel GmbH</skos:prefLabel>
     <skos:altLabel>SWWFB_H</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWWFB-H-----S</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Wolfenb&#252;ttel GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>SWWFB_H</cim:Names.name>
     <cim:Names.name>DE116882945</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE116882945</schema:vatID>
   </skos:Concept>

@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T0000000005792",
-    "@skos:prefLabel": "Wijk aan Zee - Beverwijk 380kV Wit",
-    "@skos:altLabel": "WAZ-BVW380-W",
+    "@skos:prefLabel": "Beverwijk-Wijk aan Zee 380kV Wit",
+    "@skos:altLabel": "BVW-WAZ380-W",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T0000000005792",
-    "@cim:IdentifiedObject.name": "Wijk aan Zee - Beverwijk 380kV Wit",
+    "@cim:IdentifiedObject.name": "Beverwijk-Wijk aan Zee 380kV Wit",
     "@cim:Names.name": [
-        "WAZ-BVW380-W",
+        "BVW-WAZ380-W",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-09-26",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XNRASO-12345-5",
     "@skos:prefLabel": "COMUNIDAD DE REGANTES  RASO DE ARGUEDAS",
     "@skos:altLabel": "NRASO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XNRASO-12345-5",
     "@cim:IdentifiedObject.name": "COMUNIDAD DE REGANTES  RASO DE ARGUEDAS",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG31203300",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-18",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG31203300",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

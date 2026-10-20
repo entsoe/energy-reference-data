@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11X-PERLES-DBA-I" ;
     cim:IdentifiedObject.name "Elektrizitäts-Versorgungs-Genossenschaft Perlesreut eG" ;
-    cim:Names.name "Balance Group",
-        "DE130962165",
-        "PERLESREUT-DBA" ;
+    cim:Names.name "DE130962165",
+        "PERLESREUT-DBA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11X-PERLES-DBA-I" ;
     schema1:vatID "DE130962165" ;
     skos:altLabel "PERLESREUT-DBA" ;

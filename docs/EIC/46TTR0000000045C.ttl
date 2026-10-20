@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/46TTR0000000045C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "46TTR0000000045C" ;
+    cim:IdentifiedObject.name "Sveg T1, T3" ;
+    cim:Names.name "SVEG_T1_T3",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:46TTR0000000045C" ;
+    skos:altLabel "SVEG_T1_T3" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sveg T1, T3" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

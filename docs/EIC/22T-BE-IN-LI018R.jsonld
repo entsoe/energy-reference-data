@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:22T-BE-IN-LI018R",
-    "@skos:prefLabel": "380.11 GRAMME-VANEYCK",
-    "@skos:altLabel": "BE11_GRAMM_VANYK",
+    "@skos:prefLabel": "380.11 GRAMME-LIXHE",
+    "@skos:altLabel": "BE11_GRAMM_LIXHE",
     "@cim:IdentifiedObject.mRID": "22T-BE-IN-LI018R",
-    "@cim:IdentifiedObject.name": "380.11 GRAMME-VANEYCK",
+    "@cim:IdentifiedObject.name": "380.11 GRAMME-LIXHE",
     "@cim:Names.name": [
-        "BE11_GRAMM_VANYK",
+        "BE11_GRAMM_LIXHE",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-12-07",
+    "@cim:DateAndOrTime.date": "2024-05-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

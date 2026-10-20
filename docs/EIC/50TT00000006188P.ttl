@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000006188P" ;
-    cim:IdentifiedObject.name "N Skillemo T3 Transformator" ;
-    cim:Names.name "NO-SKILLEMOT3",
+    cim:IdentifiedObject.name "N Sortland T5 Transformator" ;
+    cim:Names.name "NO-SORTLANDT5",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000006188P" ;
-    skos:altLabel "NO-SKILLEMOT3" ;
+    skos:altLabel "NO-SORTLANDT5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Skillemo T3 Transformator" ;
+    skos:prefLabel "N Sortland T5 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

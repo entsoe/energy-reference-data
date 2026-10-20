@@ -23,12 +23,14 @@
     "@cim:Names.name": [
         "YAMAL_TRADE",
         "A00136925.BE",
+        "NA11",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Company is registered in Singapore. Company registration number and the national tax number is the same: 201304475C Written confirmation from ACRA (Accounting and Corporate Regulatory Authority) received.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-04-12",
+    "@cim:DateAndOrTime.date": "2026-10-15",
+    "@schema:vatID": "NA11",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

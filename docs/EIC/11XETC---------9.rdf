@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XETC---------9</dcterms:identifier>
-    <skos:prefLabel>ENERGY TRADING COMPANY, s.r.o.</skos:prefLabel>
+    <skos:prefLabel>ENERGY TRADING COMPANY, j. s. a.</skos:prefLabel>
     <skos:altLabel>ETC</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XETC---------9</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENERGY TRADING COMPANY, s.r.o.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>ENERGY TRADING COMPANY, j. s. a.</cim:IdentifiedObject.name>
     <cim:Names.name>ETC</cim:Names.name>
     <cim:Names.name>SK2021589955</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-06-07</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-04-09</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SK2021589955</schema:vatID>

@@ -4,16 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:56X9300001155105</dcterms:identifier>
-    <skos:prefLabel>LLC "AB ENERGO"</skos:prefLabel>
-    <skos:altLabel>AB_ENERGO</skos:altLabel>
+    <skos:prefLabel>&#8220;ENERGODEV&#8221; Limited Liability Company</skos:prefLabel>
+    <skos:altLabel>ENERGODEV_LLC</skos:altLabel>
     <cim:IdentifiedObject.mRID>56X9300001155105</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>LLC "AB ENERGO"</cim:IdentifiedObject.name>
-    <cim:Names.name>AB_ENERGO</cim:Names.name>
+    <cim:IdentifiedObject.name>&#8220;ENERGODEV&#8221; Limited Liability Company</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERGODEV_LLC</cim:Names.name>
     <cim:Names.name>414895426569</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-02-06</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-10-02</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>414895426569</schema:vatID>
   </skos:Concept>

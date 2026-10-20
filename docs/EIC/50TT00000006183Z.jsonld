@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000006183Z",
-    "@skos:prefLabel": "N Skillemo T1 Transformator",
-    "@skos:altLabel": "NO-SKILLEMOT1",
+    "@skos:prefLabel": "N Røros    T2 Transformator",
+    "@skos:altLabel": "NO-ROROST2",
     "@cim:IdentifiedObject.mRID": "50TT00000006183Z",
-    "@cim:IdentifiedObject.name": "N Skillemo T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Røros    T2 Transformator",
     "@cim:Names.name": [
-        "NO-SKILLEMOT1",
+        "NO-ROROST2",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

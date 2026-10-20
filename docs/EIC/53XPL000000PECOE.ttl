@@ -7,17 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-04-15" ;
+    cim:DateAndOrTime.date "2026-03-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000PECOE" ;
-    cim:IdentifiedObject.name "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Olsztynie" ;
+    cim:IdentifiedObject.name "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o." ;
     cim:Names.name "Consumer",
+        "Energy Supplier",
         "MPEC_OLSZTYN",
-        "PL7390200206" ;
+        "PL7390200206",
+        "Producer" ;
     dcterms:identifier "urn:eic:53XPL000000PECOE" ;
     schema1:vatID "PL7390200206" ;
     skos:altLabel "MPEC_OLSZTYN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. w Olsztynie" ;
+    skos:prefLabel "Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

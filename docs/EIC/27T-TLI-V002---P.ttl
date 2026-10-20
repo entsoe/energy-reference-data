@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-15" ;
+    cim:DateAndOrTime.date "2025-01-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "27T-TLI-V002---P" ;
-    cim:IdentifiedObject.name "V001" ;
+    cim:IdentifiedObject.name "V002" ;
     cim:Names.name "Tieline",
-        "V001" ;
+        "V002" ;
     dcterms:identifier "urn:eic:27T-TLI-V002---P" ;
-    skos:altLabel "V001" ;
+    skos:altLabel "V002" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "V001" ;
+    skos:prefLabel "V002" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

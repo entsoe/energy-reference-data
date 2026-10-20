@@ -1,0 +1,38 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/45X0000000002610",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:45X0000000002610",
+    "@skos:prefLabel": "Twig Asset Management ApS",
+    "@skos:altLabel": "TWIGAM",
+    "@cim:IdentifiedObject.mRID": "45X0000000002610",
+    "@cim:IdentifiedObject.name": "Twig Asset Management ApS",
+    "@cim:Names.name": [
+        "TWIGAM",
+        "44834685",
+        "Balance Responsible Party",
+        "Balancing Service Provider"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-07-14",
+    "@schema:vatID": "44834685",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

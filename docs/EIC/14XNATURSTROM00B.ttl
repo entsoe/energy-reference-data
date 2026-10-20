@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-08-02" ;
+    cim:DateAndOrTime.date "2024-11-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "14XNATURSTROM00B" ;
     cim:IdentifiedObject.name "CENTRICA ENERGY LIMITED" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
+        "GB684966762",
         "NATURSTROMEUROPA" ;
     dcterms:identifier "urn:eic:14XNATURSTROM00B" ;
+    schema1:vatID "GB684966762" ;
     skos:altLabel "NATURSTROMEUROPA" ;
     skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

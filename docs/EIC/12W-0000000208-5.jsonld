@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:12W-0000000208-5",
     "@skos:prefLabel": "SBB Wassen",
     "@skos:altLabel": "SBB-WASSEN-AS",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Generation Unit"
-    },
     "@cim:IdentifiedObject.mRID": "12W-0000000208-5",
     "@cim:IdentifiedObject.name": "SBB Wassen",
     "@cim:Names.name": [
         "SBB-WASSEN-AS",
-        "Generation Unit"
+        "Production Unit"
     ],
-    "@cim:IdentifiedObject.description": "Generation Unit",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-30",
+    "@cim:DateAndOrTime.date": "2026-04-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000895O",
-    "@skos:prefLabel": "M Nyhamna  132 TF1 Industri",
-    "@skos:altLabel": "NO-NYHA132TF1NC",
+    "@skos:prefLabel": "N Nyhamna  132 TF1 Industri",
+    "@skos:altLabel": "NO-NYHAMNA132TF1",
     "@cim:IdentifiedObject.mRID": "50WC00000000895O",
-    "@cim:IdentifiedObject.name": "M Nyhamna  132 TF1 Industri",
+    "@cim:IdentifiedObject.name": "N Nyhamna  132 TF1 Industri",
     "@cim:Names.name": [
-        "NO-NYHA132TF1NC",
+        "NO-NYHAMNA132TF1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

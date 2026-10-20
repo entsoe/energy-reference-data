@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001252O" ;
-    cim:IdentifiedObject.name "M Tjeldber 22  Industri" ;
+    cim:IdentifiedObject.name "N Tjeldber 22  N1 Industri" ;
     cim:Names.name "Load",
-        "NO-TJELDBER22NC" ;
+        "NO-TJELDBER22N1" ;
     dcterms:identifier "urn:eic:50WC00000001252O" ;
-    skos:altLabel "NO-TJELDBER22NC" ;
+    skos:altLabel "NO-TJELDBER22N1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Tjeldber 22  Industri" ;
+    skos:prefLabel "N Tjeldber 22  N1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

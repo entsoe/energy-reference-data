@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWKIEL-PROD-M" ;
     cim:IdentifiedObject.name "SWKiel Erzeugung GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE813474648",
-        "SW-KIEL-ERZ" ;
+    cim:Names.name "DE813474648",
+        "SW-KIEL-ERZ",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWKIEL-PROD-M" ;
     schema1:vatID "DE813474648" ;
     skos:altLabel "SW-KIEL-ERZ" ;

@@ -7,15 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-02-26" ;
+    cim:DateAndOrTime.date "2025-06-16" ;
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group Responsible Party" ;
     cim:IdentifiedObject.mRID "37X000000000085H" ;
     cim:IdentifiedObject.name "VNG Handel & Vertrieb GmbH" ;
-    cim:Names.name "DE272548903",
+    cim:Names.name "Balance Group Responsible Party",
+        "HRB33088",
         "VNG_HANDEL_VERT" ;
     dcterms:identifier "urn:eic:37X000000000085H" ;
-    schema1:vatID "DE272548903" ;
+    schema1:vatID "HRB33088" ;
     skos:altLabel "VNG_HANDEL_VERT" ;
     skos:definition "Balance Group Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

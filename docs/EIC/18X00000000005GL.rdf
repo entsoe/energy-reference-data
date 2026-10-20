@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000005GL</dcterms:identifier>
     <skos:prefLabel>FRUTOS SECOS EL RINCON S.L</skos:prefLabel>
     <skos:altLabel>ELRIN</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000005GL</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>FRUTOS SECOS EL RINCON S.L</cim:IdentifiedObject.name>
     <cim:Names.name>ELRIN</cim:Names.name>
     <cim:Names.name>ESB50825520</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB50825520</schema:vatID>

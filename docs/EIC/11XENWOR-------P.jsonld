@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XENWOR-------P",
-    "@skos:prefLabel": "enwor energie & wasser vor ort GmbH",
+    "@skos:prefLabel": "STAWAG - Stadt- und Städteregionswerke Aachen AG",
     "@skos:altLabel": "ENWOR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XENWOR-------P",
-    "@cim:IdentifiedObject.name": "enwor energie & wasser vor ort GmbH",
+    "@cim:IdentifiedObject.name": "STAWAG - Stadt- und Städteregionswerke Aachen AG",
     "@cim:Names.name": [
         "ENWOR",
-        "DE121742832",
-        "Balance Responsible Party"
+        "DE811163786",
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-11-26",
-    "@schema:vatID": "DE121742832",
+    "@cim:DateAndOrTime.date": "2024-12-20",
+    "@schema:vatID": "DE811163786",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

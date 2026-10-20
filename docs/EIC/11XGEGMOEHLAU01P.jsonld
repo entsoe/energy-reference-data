@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XGEGMOEHLAU01P",
     "@skos:prefLabel": "Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG)",
     "@skos:altLabel": "ENERGIE-GEG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XGEGMOEHLAU01P",
     "@cim:IdentifiedObject.name": "Gas- und Energiegenossenschaft Ost- und Mitteldeutschland eG (GEG)",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE253707312",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-03-21",
+    "@cim:DateAndOrTime.date": "2025-02-26",
     "@schema:vatID": "DE253707312",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

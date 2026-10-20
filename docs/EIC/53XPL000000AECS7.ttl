@@ -7,14 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-09" ;
+    cim:DateAndOrTime.date "2026-03-26" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "53XPL000000AECS7" ;
     cim:IdentifiedObject.name "AEC Spółka z ograniczoną odpowiedzialnością" ;
-    cim:Names.name "AEC-ANDRYCHOW",
+    cim:Names.name "A0016532I.PL",
+        "AEC-ANDRYCHOW",
         "Consumer",
+        "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
         "Network User",
-        "PL5512641420" ;
+        "PL5512641420",
+        "System Operator" ;
     dcterms:identifier "urn:eic:53XPL000000AECS7" ;
     schema1:vatID "PL5512641420" ;
     skos:altLabel "AEC-ANDRYCHOW" ;

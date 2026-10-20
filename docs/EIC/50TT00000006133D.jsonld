@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000006133D",
-    "@skos:prefLabel": "M Storåsel T1 Transformator",
+    "@skos:prefLabel": "N Storåsel T1 Transformator",
     "@skos:altLabel": "NO-STORASELT1",
     "@cim:IdentifiedObject.mRID": "50TT00000006133D",
-    "@cim:IdentifiedObject.name": "M Storåsel T1 Transformator",
+    "@cim:IdentifiedObject.name": "N Storåsel T1 Transformator",
     "@cim:Names.name": [
         "NO-STORASELT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -6,16 +6,16 @@
     <dcterms:identifier>urn:eic:37X000000000065N</dcterms:identifier>
     <skos:prefLabel>Oberhessische Gasversorgung GmbH</skos:prefLabel>
     <skos:altLabel>OBERHESS_GASVERS</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Supplier</skos:definition>
+    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>37X000000000065N</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Oberhessische Gasversorgung GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>OBERHESS_GASVERS</cim:Names.name>
     <cim:Names.name>DE112590375</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Supplier</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-09</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-01-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE112590375</schema:vatID>
   </skos:Concept>

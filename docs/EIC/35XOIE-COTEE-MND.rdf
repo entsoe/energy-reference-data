@@ -4,19 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:35XOIE-COTEE-MND</dcterms:identifier>
-    <skos:prefLabel>Obnovljivi izvori COTEE d.o.o. Podgorica</skos:prefLabel>
+    <skos:prefLabel>COTEE d.o.o. Podgorica - obnovljivi izvori</skos:prefLabel>
     <skos:altLabel>OIE_COTEE</skos:altLabel>
     <skos:definition xml:lang="en">Balance Responsible Party, Trade Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>35XOIE-COTEE-MND</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Obnovljivi izvori COTEE d.o.o. Podgorica</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>COTEE d.o.o. Podgorica - obnovljivi izvori</cim:IdentifiedObject.name>
     <cim:Names.name>OIE_COTEE</cim:Names.name>
     <cim:Names.name>02849097</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Responsible Party, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-06-01</cim:DateAndOrTime.date>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>02849097</schema:vatID>
   </skos:Concept>

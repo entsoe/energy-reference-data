@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000066377",
-    "@skos:prefLabel": "Siersza-A1",
+    "@skos:prefLabel": "220/110kV Siersza AT1",
     "@skos:altLabel": "SIE-A1",
     "@cim:IdentifiedObject.mRID": "19T1100000066377",
-    "@cim:IdentifiedObject.name": "Siersza-A1",
+    "@cim:IdentifiedObject.name": "220/110kV Siersza AT1",
     "@cim:Names.name": [
         "SIE-A1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

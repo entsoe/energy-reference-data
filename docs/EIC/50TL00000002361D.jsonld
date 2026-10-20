@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002361D",
-    "@skos:prefLabel": "M Enga 132 GL1 X",
-    "@skos:altLabel": "NO-ENGA132GL1X",
+    "@skos:prefLabel": "N Enga     132 GL1 X",
+    "@skos:altLabel": "NO-ENGA132GL1_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002361D",
-    "@cim:IdentifiedObject.name": "M Enga 132 GL1 X",
+    "@cim:IdentifiedObject.name": "N Enga     132 GL1 X",
     "@cim:Names.name": [
-        "NO-ENGA132GL1X",
+        "NO-ENGA132GL1_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

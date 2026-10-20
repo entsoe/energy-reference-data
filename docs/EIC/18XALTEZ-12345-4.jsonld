@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XALTEZ-12345-4",
     "@skos:prefLabel": "2021 ALIMENTALTEZA SA",
     "@skos:altLabel": "ALTEZ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XALTEZ-12345-4",
     "@cim:IdentifiedObject.name": "2021 ALIMENTALTEZA SA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA38521894",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-11",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA38521894",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

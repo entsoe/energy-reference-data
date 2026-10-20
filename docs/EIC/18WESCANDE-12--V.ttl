@@ -7,11 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-07-22" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18WESCANDE-12--V" ;
     cim:IdentifiedObject.name "ESCANDELLA COGEN" ;
-    cim:Names.name "ESCANDE" ;
+    cim:Names.name "ESCANDE",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18WESCANDE-12--V" ;
     skos:altLabel "ESCANDE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XKWK-EON-WW--6",
     "@skos:prefLabel": "Westfalen Weser Netz GmbH",
     "@skos:altLabel": "EWA-KWK",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "balance group"
-    },
     "@cim:IdentifiedObject.mRID": "11XKWK-EON-WW--6",
     "@cim:IdentifiedObject.name": "Westfalen Weser Netz GmbH",
     "@cim:Names.name": [
         "EWA-KWK",
         "DE126229505",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "balance group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-14",
+    "@cim:DateAndOrTime.date": "2024-12-19",
     "@schema:vatID": "DE126229505",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

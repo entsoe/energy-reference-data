@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000020815" ;
     cim:IdentifiedObject.name "VIULFOSSG1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-VIULFOSSG1___" ;
+        "NO-VIULFOSSG1" ;
     dcterms:identifier "urn:eic:50WG000000020815" ;
-    skos:altLabel "NO-VIULFOSSG1___" ;
+    skos:altLabel "NO-VIULFOSSG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "VIULFOSSG1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

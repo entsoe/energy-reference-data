@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-03-10" ;
+    cim:DateAndOrTime.date "2025-07-15" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XENTEGASTEAG-N" ;
-    cim:IdentifiedObject.name "ENTEGA STEAG Wärme GmbH" ;
+    cim:IdentifiedObject.name "Entega Iqony Wärme GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "DE301519190",
         "ENTEGA-STEAG" ;
     dcterms:identifier "urn:eic:11XENTEGASTEAG-N" ;
     schema1:vatID "DE301519190" ;
     skos:altLabel "ENTEGA-STEAG" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENTEGA STEAG Wärme GmbH" ;
+    skos:prefLabel "Entega Iqony Wärme GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

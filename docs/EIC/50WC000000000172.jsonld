@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000000172",
-    "@skos:prefLabel": "S Refsdal  22  Forbruk",
-    "@skos:altLabel": "NO-REFSDAL22",
+    "@skos:prefLabel": "S Refsdal  22  Fo1 Forbruk",
+    "@skos:altLabel": "NO-REFSDAL22FO1",
     "@cim:IdentifiedObject.mRID": "50WC000000000172",
-    "@cim:IdentifiedObject.name": "S Refsdal  22  Forbruk",
+    "@cim:IdentifiedObject.name": "S Refsdal  22  Fo1 Forbruk",
     "@cim:Names.name": [
-        "NO-REFSDAL22",
+        "NO-REFSDAL22FO1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

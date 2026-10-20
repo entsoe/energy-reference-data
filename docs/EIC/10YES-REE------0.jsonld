@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "Spain",
     "@cim:Names.name": [
         "ES",
-        "Scheduling Area",
         "Bidding Zone",
         "Control Area",
+        "LFC Area",
         "LFC Block",
         "Member State",
-        "LFC Area"
+        "Scheduling Area"
     ],
     "@cim:IdentifiedObject.description": "Bidding Zone, Control Area, Market Balance Area, Scheduling Area",
     "@cim:Document.docStatus": "A05",

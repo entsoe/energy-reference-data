@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XPIGA-123456-F</dcterms:identifier>
     <skos:prefLabel>Pizarras Gallegas S.A.</skos:prefLabel>
     <skos:altLabel>PIGA</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XPIGA-123456-F</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Pizarras Gallegas S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>PIGA</cim:Names.name>
     <cim:Names.name>ESA32006579</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-05-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA32006579</schema:vatID>

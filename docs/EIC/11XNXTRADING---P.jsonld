@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XNXTRADING---P",
     "@skos:prefLabel": "Next Kraftwerke GmbH",
     "@skos:altLabel": "NEXT-TRADING",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XNXTRADING---P",
     "@cim:IdentifiedObject.name": "Next Kraftwerke GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE269673651",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-04-09",
+    "@cim:DateAndOrTime.date": "2024-11-25",
     "@schema:vatID": "DE269673651",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

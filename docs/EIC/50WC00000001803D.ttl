@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001803D" ;
     cim:IdentifiedObject.name "N Goliat   110 E07 Industri" ;
     cim:Names.name "Load",
-        "NO-GOLIAT110E07" ;
+        "NO-GOLIAT110E07N" ;
     dcterms:identifier "urn:eic:50WC00000001803D" ;
-    skos:altLabel "NO-GOLIAT110E07" ;
+    skos:altLabel "NO-GOLIAT110E07N" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Goliat   110 E07 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

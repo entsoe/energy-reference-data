@@ -12,19 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:26X024170802110G",
-    "@skos:prefLabel": "SEV DATA SOCIETA' COOPERATIVA",
-    "@skos:altLabel": "SEVDATACOOP",
+    "@skos:prefLabel": "SEV SOCIETA' COOPERATIVA",
+    "@skos:altLabel": "IT-SEVSOCIETACOO",
     "@cim:IdentifiedObject.mRID": "26X024170802110G",
-    "@cim:IdentifiedObject.name": "SEV DATA SOCIETA' COOPERATIVA",
+    "@cim:IdentifiedObject.name": "SEV SOCIETA' COOPERATIVA",
     "@cim:Names.name": [
-        "SEVDATACOOP",
-        "A00095541.IT",
+        "IT-SEVSOCIETACOO",
         "IT02417080211",
         "Market Operator"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-11",
+    "@cim:DateAndOrTime.date": "2025-11-04",
     "@schema:vatID": "IT02417080211",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

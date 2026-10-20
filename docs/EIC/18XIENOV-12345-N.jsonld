@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XIENOV-12345-N",
-    "@skos:prefLabel": "Iniciativa E.Nova SL",
+    "@skos:prefLabel": "INICIATIVA E.NOVA S.L.U,",
     "@skos:altLabel": "IENOV",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XIENOV-12345-N",
-    "@cim:IdentifiedObject.name": "Iniciativa E.Nova SL",
+    "@cim:IdentifiedObject.name": "INICIATIVA E.NOVA S.L.U,",
     "@cim:Names.name": [
         "IENOV",
         "ESB70412473",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-08-01",
+    "@cim:DateAndOrTime.date": "2026-10-14",
     "@schema:vatID": "ESB70412473",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

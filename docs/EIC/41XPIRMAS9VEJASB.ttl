@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XPIRMAS9VEJASB> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-05" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Raudondvario pl. 131B-9, Kaunas    Rolandas Šimoliūnas   +37069800822    Rolandas.simoliunas@acme.lt" ;
+    cim:IdentifiedObject.mRID "41XPIRMAS9VEJASB" ;
+    cim:IdentifiedObject.name "Pirmas vėjas ,UAB " ;
+    cim:Names.name "LT100013941019",
+        "PIRMASVEJAS",
+        "Producer" ;
+    dcterms:identifier "urn:eic:41XPIRMAS9VEJASB" ;
+    schema1:vatID "LT100013941019" ;
+    skos:altLabel "PIRMASVEJAS" ;
+    skos:definition "Raudondvario pl. 131B-9, Kaunas    Rolandas Šimoliūnas   +37069800822    Rolandas.simoliunas@acme.lt"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Pirmas vėjas ,UAB " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

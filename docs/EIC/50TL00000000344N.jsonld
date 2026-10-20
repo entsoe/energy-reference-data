@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000344N",
-    "@skos:prefLabel": "M 132 Holen-Nørve-1",
-    "@skos:altLabel": "NO-HOLENNORVE1",
+    "@skos:prefLabel": "N 132 Holen-Nørve-1",
+    "@skos:altLabel": "NO-132HOLENORVE1",
     "@cim:IdentifiedObject.mRID": "50TL00000000344N",
-    "@cim:IdentifiedObject.name": "M 132 Holen-Nørve-1",
+    "@cim:IdentifiedObject.name": "N 132 Holen-Nørve-1",
     "@cim:Names.name": [
-        "NO-HOLENNORVE1",
+        "NO-132HOLENORVE1",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

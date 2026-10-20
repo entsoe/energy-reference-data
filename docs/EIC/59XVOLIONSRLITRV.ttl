@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XVOLIONSRLITRV> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-10-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XVOLIONSRLITRV" ;
+    cim:IdentifiedObject.name "VOLION S.R.L." ;
+    cim:Names.name "Balance Responsible Party",
+        "IT18137191005",
+        "VOLIONSRL" ;
+    dcterms:identifier "urn:eic:59XVOLIONSRLITRV" ;
+    schema1:vatID "IT18137191005" ;
+    skos:altLabel "VOLIONSRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VOLION S.R.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

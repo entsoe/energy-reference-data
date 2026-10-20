@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XSTWRODGAU---J",
     "@skos:prefLabel": "Stadtwerke Rodgau",
     "@skos:altLabel": "SWRODGAU",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTWRODGAU---J",
     "@cim:IdentifiedObject.name": "Stadtwerke Rodgau",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE113525435",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-10-30",
+    "@cim:DateAndOrTime.date": "2024-02-21",
     "@schema:vatID": "DE113525435",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

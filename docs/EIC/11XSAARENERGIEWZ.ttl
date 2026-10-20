@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSAARENERGIEWZ" ;
     cim:IdentifiedObject.name "SaarEnergie GmbH (W)" ;
-    cim:Names.name "Balance Group",
-        "DE811165857",
-        "SAARENERGIE_W" ;
+    cim:Names.name "DE811165857",
+        "SAARENERGIE_W",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSAARENERGIEWZ" ;
     schema1:vatID "DE811165857" ;
     skos:altLabel "SAARENERGIE_W" ;

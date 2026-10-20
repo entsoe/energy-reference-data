@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-05-25" ;
+    cim:DateAndOrTime.date "2024-10-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator" ;
     cim:IdentifiedObject.mRID "59X0000000000713" ;
     cim:IdentifiedObject.name "Italcogim Trasporto S.r.l." ;
-    cim:Names.name "Distribution System Operator",
-        "IT06474580963",
-        "IT_TSO_1666419" ;
+    cim:Names.name "IT06474580963",
+        "IT_TSO_1666419",
+        "Market Operator" ;
     dcterms:identifier "urn:eic:59X0000000000713" ;
     schema1:vatID "IT06474580963" ;
     skos:altLabel "IT_TSO_1666419" ;

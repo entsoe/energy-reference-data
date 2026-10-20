@@ -16,7 +16,10 @@
     "@skos:altLabel": "TSRENVP3",
     "@cim:IdentifiedObject.mRID": "11W0-0000-0205-Z",
     "@cim:IdentifiedObject.name": "TSRENVP3",
-    "@cim:Names.name": "TSRENVP3",
+    "@cim:Names.name": [
+        "TSRENVP3",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-05-11",

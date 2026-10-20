@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "22T-BE-D7-X-VT1T" ;
     cim:IdentifiedObject.name "Reserve sharing AMPRION-ELIA" ;
-    cim:Names.name "VT_D7-BE" ;
+    cim:Names.name "Tieline",
+        "VT_D7-BE" ;
     dcterms:identifier "urn:eic:22T-BE-D7-X-VT1T" ;
     skos:altLabel "VT_D7-BE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

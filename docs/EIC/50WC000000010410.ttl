@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000010410" ;
-    cim:IdentifiedObject.name "S Smestad  45  1-50 Forbruk" ;
+    cim:IdentifiedObject.name "S Smestad  47  1-50 Industri" ;
     cim:Names.name "Load",
-        "NO-SMESTAD451-50" ;
+        "NO-SMESTAD451_50" ;
     dcterms:identifier "urn:eic:50WC000000010410" ;
-    skos:altLabel "NO-SMESTAD451-50" ;
+    skos:altLabel "NO-SMESTAD451_50" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Smestad  45  1-50 Forbruk" ;
+    skos:prefLabel "S Smestad  47  1-50 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

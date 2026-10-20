@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001586V",
-    "@skos:prefLabel": "S 50 T_Aukland-Aukland",
-    "@skos:altLabel": "NO-TAUKLANDAUKLA",
+    "@skos:prefLabel": "S 50 T_Augland-Augland",
+    "@skos:altLabel": "NO-50T_AUGLANDAU",
     "@cim:IdentifiedObject.mRID": "50TL00000001586V",
-    "@cim:IdentifiedObject.name": "S 50 T_Aukland-Aukland",
+    "@cim:IdentifiedObject.name": "S 50 T_Augland-Augland",
     "@cim:Names.name": [
-        "NO-TAUKLANDAUKLA",
+        "NO-50T_AUGLANDAU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

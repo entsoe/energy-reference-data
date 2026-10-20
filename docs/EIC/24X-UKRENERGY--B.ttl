@@ -13,8 +13,10 @@
     cim:IdentifiedObject.mRID "24X-UKRENERGY--B" ;
     cim:IdentifiedObject.name "UKRENERGY TRADE Zrt., organizacna zlozka" ;
     cim:Names.name "Trade Responsible Party",
-        "UKRENERGYTRADEOZ" ;
+        "UKRENERGYTRADEOZ",
+        "n / a" ;
     dcterms:identifier "urn:eic:24X-UKRENERGY--B" ;
+    schema1:vatID "n / a" ;
     skos:altLabel "UKRENERGYTRADEOZ" ;
     skos:definition "Trade Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

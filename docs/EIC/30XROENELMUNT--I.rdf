@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:30XROENELMUNT--I</dcterms:identifier>
-    <skos:prefLabel>ENEL ENERGIE MUNTENIA</skos:prefLabel>
+    <skos:prefLabel>PPC ENERGIE MUNTENIA</skos:prefLabel>
     <skos:altLabel>RO_ENELMUNTENIA</skos:altLabel>
     <cim:IdentifiedObject.mRID>30XROENELMUNT--I</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ENEL ENERGIE MUNTENIA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>PPC ENERGIE MUNTENIA</cim:IdentifiedObject.name>
     <cim:Names.name>RO_ENELMUNTENIA</cim:Names.name>
     <cim:Names.name>RO24387371</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-01-30</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-02</cim:DateAndOrTime.date>
     <cim:Names.name>Energy Supplier</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>RO24387371</schema:vatID>

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002468I",
-    "@skos:prefLabel": "LEIVDAL G104 HYDRO",
-    "@skos:altLabel": "NO-LEIVDAL_G104_",
+    "@skos:prefLabel": "STEINSVIG104 HYDRO",
+    "@skos:altLabel": "NO-STEINSVIG104",
     "@cim:IdentifiedObject.mRID": "50WG00000002468I",
-    "@cim:IdentifiedObject.name": "LEIVDAL G104 HYDRO",
+    "@cim:IdentifiedObject.name": "STEINSVIG104 HYDRO",
     "@cim:Names.name": [
-        "NO-LEIVDAL_G104_",
+        "NO-STEINSVIG104",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

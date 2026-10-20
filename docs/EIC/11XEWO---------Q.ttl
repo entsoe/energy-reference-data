@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-09-09" ;
+    cim:DateAndOrTime.date "2024-11-07" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XEWO---------Q" ;
     cim:IdentifiedObject.name "Elektrizitätswerk Oberwössen eG" ;
-    cim:Names.name "DE131565688",
-        "EWO",
-        "balance group" ;
+    cim:Names.name "Balance Responsible Party",
+        "DE131565688",
+        "EWO" ;
     dcterms:identifier "urn:eic:11XEWO---------Q" ;
     schema1:vatID "DE131565688" ;
     skos:altLabel "EWO" ;
-    skos:definition "balance group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Elektrizitätswerk Oberwössen eG" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

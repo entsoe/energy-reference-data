@@ -4,19 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XID-CAPACITY-9</dcterms:identifier>
-    <skos:prefLabel>Deutsche B&#246;rse Systems AG</skos:prefLabel>
+    <skos:prefLabel>Deutsche B&#246;rse Aktiengesellschaft</skos:prefLabel>
     <skos:altLabel>DBS</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>11XID-CAPACITY-9</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Deutsche B&#246;rse Systems AG</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Deutsche B&#246;rse Aktiengesellschaft</cim:IdentifiedObject.name>
     <cim:Names.name>DBS</cim:Names.name>
-    <cim:Names.name>DE812210046</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
+    <cim:Names.name>DE114151950</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2010-08-04</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-04-22</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE812210046</schema:vatID>
+    <schema:vatID>DE114151950</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

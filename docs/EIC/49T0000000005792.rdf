@@ -4,16 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:49T0000000005792</dcterms:identifier>
-    <skos:prefLabel>Wijk aan Zee - Beverwijk 380kV Wit</skos:prefLabel>
-    <skos:altLabel>WAZ-BVW380-W</skos:altLabel>
+    <skos:prefLabel>Beverwijk-Wijk aan Zee 380kV Wit</skos:prefLabel>
+    <skos:altLabel>BVW-WAZ380-W</skos:altLabel>
     <skos:definition xml:lang="en">System Operator</skos:definition>
     <cim:IdentifiedObject.mRID>49T0000000005792</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Wijk aan Zee - Beverwijk 380kV Wit</cim:IdentifiedObject.name>
-    <cim:Names.name>WAZ-BVW380-W</cim:Names.name>
+    <cim:IdentifiedObject.name>Beverwijk-Wijk aan Zee 380kV Wit</cim:IdentifiedObject.name>
+    <cim:Names.name>BVW-WAZ380-W</cim:Names.name>
     <cim:IdentifiedObject.description>System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-09-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-19</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

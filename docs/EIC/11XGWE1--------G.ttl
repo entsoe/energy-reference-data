@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XGWE1--------G" ;
     cim:IdentifiedObject.name "GWE Gesellschaft für wirtschaftliche Energieversorgung mbH" ;
-    cim:Names.name "Balance Group",
-        "DE218327889",
-        "GWE" ;
+    cim:Names.name "DE218327889",
+        "GWE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XGWE1--------G" ;
     schema1:vatID "DE218327889" ;
     skos:altLabel "GWE" ;

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002835V" ;
     cim:IdentifiedObject.name "N 66 Tamokdal-Dividalen" ;
     cim:Names.name "Internal Line",
-        "NO-TAMOKDALDIVID" ;
+        "NO-66TAMOKDALDIV" ;
     dcterms:identifier "urn:eic:50TL00000002835V" ;
-    skos:altLabel "NO-TAMOKDALDIVID" ;
+    skos:altLabel "NO-66TAMOKDALDIV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 66 Tamokdal-Dividalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

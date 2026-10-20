@@ -4,15 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:44X-00000000079H</dcterms:identifier>
-    <skos:prefLabel>Vatajankosken S&#228;hk&#246; Oy</skos:prefLabel>
+    <skos:prefLabel>Vatajankoski Oy</skos:prefLabel>
     <skos:altLabel>44VATAJANKOSKI</skos:altLabel>
     <cim:IdentifiedObject.mRID>44X-00000000079H</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Vatajankosken S&#228;hk&#246; Oy</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Vatajankoski Oy</cim:IdentifiedObject.name>
     <cim:Names.name>44VATAJANKOSKI</cim:Names.name>
     <cim:Names.name>FI03985802</cim:Names.name>
-    <cim:Document.docStatus>A03</cim:Document.docStatus>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-01-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-03-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Balancing Service Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FI03985802</schema:vatID>
   </skos:Concept>

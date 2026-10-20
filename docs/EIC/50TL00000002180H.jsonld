@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002180H",
-    "@skos:prefLabel": "N 66 Straumsnes-Bergsbotn",
-    "@skos:altLabel": "NO-STRAUMSNESBER",
+    "@skos:prefLabel": "N 22 Straumsnes-Bergsbotn",
+    "@skos:altLabel": "NO-22STRAUMSNESB",
     "@cim:IdentifiedObject.mRID": "50TL00000002180H",
-    "@cim:IdentifiedObject.name": "N 66 Straumsnes-Bergsbotn",
+    "@cim:IdentifiedObject.name": "N 22 Straumsnes-Bergsbotn",
     "@cim:Names.name": [
-        "NO-STRAUMSNESBER",
+        "NO-22STRAUMSNESB",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

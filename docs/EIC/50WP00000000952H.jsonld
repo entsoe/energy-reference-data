@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000952H",
-    "@skos:prefLabel": "Ask Kraftstasjon",
-    "@skos:altLabel": "NO-ASK_PL",
+    "@skos:prefLabel": "Ask",
+    "@skos:altLabel": "NO-ASK",
     "@cim:IdentifiedObject.mRID": "50WP00000000952H",
-    "@cim:IdentifiedObject.name": "Ask Kraftstasjon",
+    "@cim:IdentifiedObject.name": "Ask",
     "@cim:Names.name": [
-        "NO-ASK_PL",
+        "NO-ASK",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-17",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

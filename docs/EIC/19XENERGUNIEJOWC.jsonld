@@ -20,13 +20,13 @@
         "ENERGUNIEJOW",
         "A0019440K.PL",
         "PL8281356737",
-        "System Operator",
-        "Metered Data Responsible",
         "Energy Supplier",
+        "Meter Administrator",
+        "System Operator",
         "Grid Access Provider",
-        "Meter Administrator"
+        "Metered Data Responsible"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-10-17",
     "@schema:vatID": "PL8281356737",

@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XAGRIE-12345-D</dcterms:identifier>
-    <skos:prefLabel>AGRI ENERG&#205;A EL&#201;CTRICA, S.A.</skos:prefLabel>
+    <skos:prefLabel>AGRI-ENERGIA ELECTRICA, S.A.</skos:prefLabel>
     <skos:altLabel>AGRIE</skos:altLabel>
     <cim:IdentifiedObject.mRID>18XAGRIE-12345-D</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>AGRI ENERG&#205;A EL&#201;CTRICA, S.A.</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>AGRI-ENERGIA ELECTRICA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>AGRIE</cim:Names.name>
     <cim:Names.name>ESA17448358</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-05-27</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-14</cim:DateAndOrTime.date>
     <cim:Names.name>Grid Access Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA17448358</schema:vatID>

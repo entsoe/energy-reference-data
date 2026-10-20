@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000023520",
-    "@skos:prefLabel": "HOLTAN  G112 HYDRO",
-    "@skos:altLabel": "NO-HOLTAN__G112_",
+    "@skos:prefLabel": "NYE_SUVDG112 HYDRO",
+    "@skos:altLabel": "NO-NYE_SUVDG112",
     "@cim:IdentifiedObject.mRID": "50WG000000023520",
-    "@cim:IdentifiedObject.name": "HOLTAN  G112 HYDRO",
+    "@cim:IdentifiedObject.name": "NYE_SUVDG112 HYDRO",
     "@cim:Names.name": [
-        "NO-HOLTAN__G112_",
+        "NO-NYE_SUVDG112",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

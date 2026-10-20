@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP000000020461" ;
     cim:IdentifiedObject.name "Skagerak Enelab" ;
-    cim:Names.name "NO-SKAGERAK_ENEL",
+    cim:Names.name "NO-SKAGERAKENELA",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP000000020461" ;
-    skos:altLabel "NO-SKAGERAK_ENEL" ;
+    skos:altLabel "NO-SKAGERAKENELA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Skagerak Enelab" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

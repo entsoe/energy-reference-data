@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000181Q",
-    "@skos:prefLabel": "S Undersbo 11  Forbruk",
-    "@skos:altLabel": "NO-UNDERSBO11",
+    "@skos:prefLabel": "S Undersbo 11  T1 Forbruk",
+    "@skos:altLabel": "NO-UNDERSBO11T1",
     "@cim:IdentifiedObject.mRID": "50WC00000000181Q",
-    "@cim:IdentifiedObject.name": "S Undersbo 11  Forbruk",
+    "@cim:IdentifiedObject.name": "S Undersbo 11  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-UNDERSBO11",
+        "NO-UNDERSBO11T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19X-KDT-ENERGY-4",
-    "@skos:prefLabel": "KDT K. KAŁUŻNY, D. PAJESTKA SPÓŁKA JAWNA",
-    "@skos:altLabel": "KDT_SP_J",
+    "@skos:prefLabel": "2KTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "@skos:altLabel": "2KTRADE_SPZOO",
     "@cim:IdentifiedObject.mRID": "19X-KDT-ENERGY-4",
-    "@cim:IdentifiedObject.name": "KDT K. KAŁUŻNY, D. PAJESTKA SPÓŁKA JAWNA",
+    "@cim:IdentifiedObject.name": "2KTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "@cim:Names.name": [
-        "KDT_SP_J",
+        "2KTRADE_SPZOO",
         "PL9542794171",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-07-22",
+    "@cim:DateAndOrTime.date": "2026-05-12",
     "@schema:vatID": "PL9542794171",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

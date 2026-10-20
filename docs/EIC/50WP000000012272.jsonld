@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000012272",
     "@skos:prefLabel": "Fremstedalen",
-    "@skos:altLabel": "NO-FREMSTEDALEN_",
+    "@skos:altLabel": "NO-FREMSTEDALEN",
     "@cim:IdentifiedObject.mRID": "50WP000000012272",
     "@cim:IdentifiedObject.name": "Fremstedalen",
     "@cim:Names.name": [
-        "NO-FREMSTEDALEN_",
+        "NO-FREMSTEDALEN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

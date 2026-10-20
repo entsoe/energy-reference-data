@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004466X" ;
     cim:IdentifiedObject.name "S Abildsø  TS Transformator" ;
-    cim:Names.name "NO-ABILDSO_TS",
+    cim:Names.name "NO-ABILDSOTS",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004466X" ;
-    skos:altLabel "NO-ABILDSO_TS" ;
+    skos:altLabel "NO-ABILDSOTS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Abildsø  TS Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

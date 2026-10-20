@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/67X-RS-00000004F">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:67X-RS-00000004F</dcterms:identifier>
+    <skos:prefLabel>SK ENERGO DOO BEOGRAD</skos:prefLabel>
+    <skos:altLabel>SKENERGO</skos:altLabel>
+    <skos:definition xml:lang="en">SK ENERGO DOO BEOGRAD
+LJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA
+Tax No.: 113172592
+ID No.: 21816787
+Ind. code: 4690 
+SK ENERGO DOO deals with international trade in natural gas and other energy products. 
+RESPONSIBLE PERSON: SAVO MARKOVI&#262;
+PHONE: +381 64 8774242
+E-mail: savo@smaa.cz
+
+</skos:definition>
+    <cim:IdentifiedObject.mRID>67X-RS-00000004F</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>SK ENERGO DOO BEOGRAD</cim:IdentifiedObject.name>
+    <cim:Names.name>SKENERGO</cim:Names.name>
+    <cim:Names.name>RS113172592</cim:Names.name>
+    <cim:IdentifiedObject.description>SK ENERGO DOO BEOGRAD
+LJUBANA JEDNAKA STREET 1 , BELGRADE, SERBIA
+Tax No.: 113172592
+ID No.: 21816787
+Ind. code: 4690 
+SK ENERGO DOO deals with international trade in natural gas and other energy products. 
+RESPONSIBLE PERSON: SAVO MARKOVI&#262;
+PHONE: +381 64 8774242
+E-mail: savo@smaa.cz
+
+</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-09-18</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RS113172592</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

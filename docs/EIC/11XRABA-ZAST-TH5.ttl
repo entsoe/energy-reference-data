@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-11-22" ;
+    cim:DateAndOrTime.date "2024-01-10" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Responsible Party" ;
     cim:IdentifiedObject.mRID "11XRABA-ZAST-TH5" ;
-    cim:IdentifiedObject.name "Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt)" ;
+    cim:IdentifiedObject.name "Zweckverband für Abfallzweckwirtschaft Südwestthüringen (ZASt)" ;
     cim:Names.name "Balance Responsible Party",
         "DE257970968",
         "ZAST" ;
     dcterms:identifier "urn:eic:11XRABA-ZAST-TH5" ;
     schema1:vatID "DE257970968" ;
     skos:altLabel "ZAST" ;
-    skos:definition "Balance Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt)" ;
+    skos:prefLabel "Zweckverband für Abfallzweckwirtschaft Südwestthüringen (ZASt)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

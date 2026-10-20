@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001811D" ;
-    cim:IdentifiedObject.name "S 66 Hålandsfossen-Nedre Svultingen" ;
+    cim:IdentifiedObject.name "N 66 Hålandsfossen-Nedre Svultingen" ;
     cim:Names.name "Internal Line",
-        "NO-HALANDSFNSVUL" ;
+        "NO-66HALANDINGEN" ;
     dcterms:identifier "urn:eic:50TL00000001811D" ;
-    skos:altLabel "NO-HALANDSFNSVUL" ;
+    skos:altLabel "NO-66HALANDINGEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Hålandsfossen-Nedre Svultingen" ;
+    skos:prefLabel "N 66 Hålandsfossen-Nedre Svultingen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

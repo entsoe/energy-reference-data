@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XIBD----DE---3",
-    "@skos:prefLabel": "IBERDROLA Energie Deutschland GmbH",
+    "@skos:prefLabel": "Iberdrola Energie Deutschland GmbH",
     "@skos:altLabel": "IBD----DE",
     "@cim:IdentifiedObject.mRID": "11XIBD----DE---3",
-    "@cim:IdentifiedObject.name": "IBERDROLA Energie Deutschland GmbH",
+    "@cim:IdentifiedObject.name": "Iberdrola Energie Deutschland GmbH",
     "@cim:Names.name": [
         "IBD----DE",
         "DE815055529",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-08-21",
+    "@cim:DateAndOrTime.date": "2025-05-07",
     "@schema:vatID": "DE815055529",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -4,18 +4,16 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XSKROSTOCK-2-L</dcterms:identifier>
-    <skos:prefLabel>Stromkontor Rostock GmbH</skos:prefLabel>
-    <skos:altLabel>SKR-NETZ-GRUMPA</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
+    <skos:prefLabel>Stromkontor Rostock Port GmbH</skos:prefLabel>
+    <skos:altLabel>SKR-NETZ-KRUMPA</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XSKROSTOCK-2-L</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Stromkontor Rostock GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>SKR-NETZ-GRUMPA</cim:Names.name>
+    <cim:IdentifiedObject.name>Stromkontor Rostock Port GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>SKR-NETZ-KRUMPA</cim:Names.name>
     <cim:Names.name>DE208984155</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2011-07-07</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-19</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE208984155</schema:vatID>
   </skos:Concept>

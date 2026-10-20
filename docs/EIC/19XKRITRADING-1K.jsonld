@@ -12,23 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XKRITRADING-1K",
-    "@skos:prefLabel": "FORTUM MARKETING AND SALES POLSKA SPÓŁKA AKCYJNA",
-    "@skos:altLabel": "KRIMT",
+    "@skos:prefLabel": "FORTUM ENERGIA SPÓŁKA AKCYJNA",
+    "@skos:altLabel": "FORTUM_ENERGIA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "19XKRITRADING-1K",
-    "@cim:IdentifiedObject.name": "FORTUM MARKETING AND SALES POLSKA SPÓŁKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "FORTUM ENERGIA SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
-        "KRIMT",
+        "FORTUM_ENERGIA",
+        "A0001531R.PL",
         "PL7811861610",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-08-06",
+    "@cim:DateAndOrTime.date": "2026-01-20",
     "@schema:vatID": "PL7811861610",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

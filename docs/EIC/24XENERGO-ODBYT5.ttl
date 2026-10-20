@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-05-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Gas And Electricity Trading" ;
     cim:IdentifiedObject.mRID "24XENERGO-ODBYT5" ;
     cim:IdentifiedObject.name "ENERGO ODBYT, s.r.o." ;
     cim:Names.name "ENERGO-ODBYT",
         "SK2020411811",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:24XENERGO-ODBYT5" ;
     schema1:vatID "SK2020411811" ;
     skos:altLabel "ENERGO-ODBYT" ;

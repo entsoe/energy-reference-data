@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001861F" ;
     cim:IdentifiedObject.name "Jordalen 2" ;
-    cim:Names.name "NO-JORDALEN",
+    cim:Names.name "NO-JORDALEN2",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001861F" ;
-    skos:altLabel "NO-JORDALEN" ;
+    skos:altLabel "NO-JORDALEN2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Jordalen 2" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

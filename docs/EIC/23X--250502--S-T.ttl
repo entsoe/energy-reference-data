@@ -1,0 +1,29 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--250502--S-T> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Company registration number confirmed by registry of Lithuanian companies: 302850317
+VAT ID checked and confirmed through VIES website: LT100007988815
+""" ;
+    cim:IdentifiedObject.mRID "23X--250502--S-T" ;
+    cim:IdentifiedObject.name "UAB \"Senergita\"" ;
+    cim:Names.name "LT100007988815",
+        "Producer",
+        "SENERGITA" ;
+    dcterms:identifier "urn:eic:23X--250502--S-T" ;
+    schema1:vatID "LT100007988815" ;
+    skos:altLabel "SENERGITA" ;
+    skos:definition """Company registration number confirmed by registry of Lithuanian companies: 302850317
+VAT ID checked and confirmed through VIES website: LT100007988815
+"""@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "UAB \"Senergita\"" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

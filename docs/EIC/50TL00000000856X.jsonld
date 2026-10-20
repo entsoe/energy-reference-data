@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000856X",
-    "@skos:prefLabel": "M 22 Hegsetfoss-Usma_Selbu",
-    "@skos:altLabel": "NO-HEGSETFOSSUSM",
+    "@skos:prefLabel": "N 22 Hegsetfoss-Usma_Selbu",
+    "@skos:altLabel": "NO-22HEGSETFOSSU",
     "@cim:IdentifiedObject.mRID": "50TL00000000856X",
-    "@cim:IdentifiedObject.name": "M 22 Hegsetfoss-Usma_Selbu",
+    "@cim:IdentifiedObject.name": "N 22 Hegsetfoss-Usma_Selbu",
     "@cim:Names.name": [
-        "NO-HEGSETFOSSUSM",
+        "NO-22HEGSETFOSSU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

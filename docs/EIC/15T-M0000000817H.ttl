@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-07-25" ;
+    cim:DateAndOrTime.date "2026-09-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "15T-M0000000817H" ;
     cim:IdentifiedObject.name "Martonvásár I. sz 400/220 kV" ;
     cim:Names.name "MMART-MMART1",
-        "Tieline" ;
+        "Transformer" ;
     dcterms:identifier "urn:eic:15T-M0000000817H" ;
     skos:altLabel "MMART-MMART1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

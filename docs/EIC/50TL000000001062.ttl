@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000001062" ;
     cim:IdentifiedObject.name "S 132 Årdalstangen-Naddvik" ;
     cim:Names.name "Internal Line",
-        "NO-ARDALSTANGENN" ;
+        "NO-132ARDALSTANG" ;
     dcterms:identifier "urn:eic:50TL000000001062" ;
-    skos:altLabel "NO-ARDALSTANGENN" ;
+    skos:altLabel "NO-132ARDALSTANG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Årdalstangen-Naddvik" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

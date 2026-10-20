@@ -6,14 +6,14 @@
     <dcterms:identifier>urn:eic:17W100P100P0243J</dcterms:identifier>
     <skos:prefLabel>Blenod 5</skos:prefLabel>
     <skos:altLabel>FR_CO-BLENOT_5-P</skos:altLabel>
-    <skos:definition xml:lang="en">Production Unit</skos:definition>
+    <skos:definition xml:lang="en">Production Unit (T-BLENO)</skos:definition>
     <cim:IdentifiedObject.mRID>17W100P100P0243J</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Blenod 5</cim:IdentifiedObject.name>
     <cim:Names.name>FR_CO-BLENOT_5-P</cim:Names.name>
-    <cim:IdentifiedObject.description>Production Unit</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Production Unit (T-BLENO)</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-08-03</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

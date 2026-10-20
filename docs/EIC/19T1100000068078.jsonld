@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000068078",
-    "@skos:prefLabel": "Dunowo-Żydowo Kierzkowo",
+    "@skos:prefLabel": "220kV Dunowo-Zydowo Kierzkowo",
     "@skos:altLabel": "6007",
     "@cim:IdentifiedObject.mRID": "19T1100000068078",
-    "@cim:IdentifiedObject.name": "Dunowo-Żydowo Kierzkowo",
+    "@cim:IdentifiedObject.name": "220kV Dunowo-Zydowo Kierzkowo",
     "@cim:Names.name": [
         "6007",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-25",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

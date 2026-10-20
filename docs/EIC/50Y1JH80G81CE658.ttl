@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50Y1JH80G81CE658> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50Y1JH80G81CE658" ;
+    cim:IdentifiedObject.name "JBV7" ;
+    cim:Names.name "Metering Grid Area",
+        "NO_JBV7" ;
+    dcterms:identifier "urn:eic:50Y1JH80G81CE658" ;
+    skos:altLabel "NO_JBV7" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "JBV7" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

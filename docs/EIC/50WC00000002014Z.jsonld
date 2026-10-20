@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000002014Z",
-    "@skos:prefLabel": "HA-Sunndal SU4",
-    "@skos:altLabel": "NO-HA-SUNNDALSU4",
+    "@skos:prefLabel": "S Hemsil 2 2   L1  Forbruk",
+    "@skos:altLabel": "NO-HEMSIL_22",
     "@cim:IdentifiedObject.mRID": "50WC00000002014Z",
-    "@cim:IdentifiedObject.name": "HA-Sunndal SU4",
+    "@cim:IdentifiedObject.name": "S Hemsil 2 2   L1  Forbruk",
     "@cim:Names.name": [
-        "NO-HA-SUNNDALSU4",
+        "NO-HEMSIL_22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-24",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

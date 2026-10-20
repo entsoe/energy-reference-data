@@ -7,19 +7,19 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-26" ;
+    cim:DateAndOrTime.date "2025-11-07" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XDETI-12345-1D" ;
-    cim:IdentifiedObject.name "CEPSA GAS Y ELECTRICIDAD, S.A.U." ;
+    cim:IdentifiedObject.name "MOEVE GAS AND POWER, S.A.U" ;
     cim:Names.name "CGYE",
         "ESA28142552",
         "Interconnection Trade Responsible",
-        "Production Responsible party",
+        "Production Responsible Party",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XDETI-12345-1D" ;
     schema1:vatID "ESA28142552" ;
     skos:altLabel "CGYE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "CEPSA GAS Y ELECTRICIDAD, S.A.U." ;
+    skos:prefLabel "MOEVE GAS AND POWER, S.A.U" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

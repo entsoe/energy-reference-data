@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003091B" ;
     cim:IdentifiedObject.name "N 132 Skaidi-Hyggevatn" ;
     cim:Names.name "Internal Line",
-        "NO-SKAIDIHYGGEVA" ;
+        "NO-132SKAIDIHYGG" ;
     dcterms:identifier "urn:eic:50TL00000003091B" ;
-    skos:altLabel "NO-SKAIDIHYGGEVA" ;
+    skos:altLabel "NO-132SKAIDIHYGG" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 132 Skaidi-Hyggevatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

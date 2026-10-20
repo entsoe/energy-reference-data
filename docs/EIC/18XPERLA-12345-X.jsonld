@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPERLA-12345-X",
     "@skos:prefLabel": "LA PERLA PAMPLONA S.A.",
     "@skos:altLabel": "PERLA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPERLA-12345-X",
     "@cim:IdentifiedObject.name": "LA PERLA PAMPLONA S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB31694243",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-12-13",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB31694243",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

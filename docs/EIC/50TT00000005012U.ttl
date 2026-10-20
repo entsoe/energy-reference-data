@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005012U" ;
     cim:IdentifiedObject.name "S Holen    T1X Transformator" ;
-    cim:Names.name "NO-HOLEN___T1X",
+    cim:Names.name "NO-HOLENT1X",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005012U" ;
-    skos:altLabel "NO-HOLEN___T1X" ;
+    skos:altLabel "NO-HOLENT1X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Holen    T1X Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

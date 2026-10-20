@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000000818R" ;
-    cim:IdentifiedObject.name "KIRKENESG101 HYDRO" ;
+    cim:IdentifiedObject.name "BJORNEVAG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-KIRKENESG101_" ;
+        "NO-BJORNEVAG101" ;
     dcterms:identifier "urn:eic:50WG00000000818R" ;
-    skos:altLabel "NO-KIRKENESG101_" ;
+    skos:altLabel "NO-BJORNEVAG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KIRKENESG101 HYDRO" ;
+    skos:prefLabel "BJORNEVAG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

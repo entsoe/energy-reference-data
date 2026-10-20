@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-16" ;
+    cim:DateAndOrTime.date "2024-09-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "48X000000000361P" ;
     cim:IdentifiedObject.name "Kvasir Technologies Ltd" ;
-    cim:Names.name "316205635",
-        "Balance Responsible Party",
+    cim:Names.name "Balance Responsible Party",
+        "GB316205635",
         "KVASIR" ;
     dcterms:identifier "urn:eic:48X000000000361P" ;
-    schema1:vatID "316205635" ;
+    schema1:vatID "GB316205635" ;
     skos:altLabel "KVASIR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kvasir Technologies Ltd" ;

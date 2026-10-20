@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000552H",
-    "@skos:prefLabel": "S H. Høyan 12  Forbruk",
-    "@skos:altLabel": "NO-HOYANGER12",
+    "@skos:prefLabel": "N H. Høyan 12  HO2 Forbruk",
+    "@skos:altLabel": "NO-H_HOYAN12HO2",
     "@cim:IdentifiedObject.mRID": "50WC00000000552H",
-    "@cim:IdentifiedObject.name": "S H. Høyan 12  Forbruk",
+    "@cim:IdentifiedObject.name": "N H. Høyan 12  HO2 Forbruk",
     "@cim:Names.name": [
-        "NO-HOYANGER12",
+        "NO-H_HOYAN12HO2",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

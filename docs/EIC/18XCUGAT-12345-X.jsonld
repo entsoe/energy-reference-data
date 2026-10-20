@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XCUGAT-12345-X",
     "@skos:prefLabel": "SANT CUGAT TECHNOLOGICAL CENTRE SL",
     "@skos:altLabel": "CUGAT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XCUGAT-12345-X",
     "@cim:IdentifiedObject.name": "SANT CUGAT TECHNOLOGICAL CENTRE SL",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB65595571",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB65595571",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

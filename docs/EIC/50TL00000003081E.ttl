@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003081E" ;
     cim:IdentifiedObject.name "S 132 Tonstad Vindpark-Ertsmyra" ;
     cim:Names.name "Internal Line",
-        "NO-TONSTVKERTSMY" ;
+        "NO-132TONST_VKER" ;
     dcterms:identifier "urn:eic:50TL00000003081E" ;
-    skos:altLabel "NO-TONSTVKERTSMY" ;
+    skos:altLabel "NO-132TONST_VKER" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Tonstad Vindpark-Ertsmyra" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

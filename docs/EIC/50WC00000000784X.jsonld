@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000000784X",
     "@skos:prefLabel": "S Klyve    11  L1 Forbruk",
-    "@skos:altLabel": "NO-KLYVE11",
+    "@skos:altLabel": "NO-KLYVE11L1",
     "@cim:IdentifiedObject.mRID": "50WC00000000784X",
     "@cim:IdentifiedObject.name": "S Klyve    11  L1 Forbruk",
     "@cim:Names.name": [
-        "NO-KLYVE11",
+        "NO-KLYVE11L1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

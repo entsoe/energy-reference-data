@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT000000057300" ;
     cim:IdentifiedObject.name "S Sogn     T6 Transformator" ;
-    cim:Names.name "NO-SOGN____T6",
+    cim:Names.name "NO-SOGNT6",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT000000057300" ;
-    skos:altLabel "NO-SOGN____T6" ;
+    skos:altLabel "NO-SOGNT6" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S Sogn     T6 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

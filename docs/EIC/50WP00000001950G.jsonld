@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001950G",
     "@skos:prefLabel": "Fausa G3",
-    "@skos:altLabel": "NO-FAUSA_G3",
+    "@skos:altLabel": "NO-FAUSAG3",
     "@cim:IdentifiedObject.mRID": "50WP00000001950G",
     "@cim:IdentifiedObject.name": "Fausa G3",
     "@cim:Names.name": [
-        "NO-FAUSA_G3",
+        "NO-FAUSAG3",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

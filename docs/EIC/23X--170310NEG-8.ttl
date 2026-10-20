@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2017-03-10" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "23X--170310NEG-8" ;
     cim:IdentifiedObject.name "New Europe Gaz d.o.o." ;
     cim:Names.name "Capacity Trader",
+        "NA8",
         "NEW_EUROPE_GAZ",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23X--170310NEG-8" ;
+    schema1:vatID "NA8" ;
     skos:altLabel "NEW_EUROPE_GAZ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "New Europe Gaz d.o.o." ;

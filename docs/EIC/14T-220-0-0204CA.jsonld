@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:14T-220-0-0204CA",
     "@skos:prefLabel": "220kV line Sattledt-Ernsthofen",
-    "@skos:altLabel": "204C",
+    "@skos:altLabel": "0204D",
     "@cim:IdentifiedObject.mRID": "14T-220-0-0204CA",
     "@cim:IdentifiedObject.name": "220kV line Sattledt-Ernsthofen",
     "@cim:Names.name": [
-        "204C",
+        "0204D",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-19",
+    "@cim:DateAndOrTime.date": "2023-12-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XLECKENG-----Y" ;
     cim:IdentifiedObject.name "NordwestPower GmbH & Co. KG" ;
-    cim:Names.name "Balance Group",
-        "DE236922588",
-        "NWP-LECKENG" ;
+    cim:Names.name "DE236922588",
+        "NWP-LECKENG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XLECKENG-----Y" ;
     schema1:vatID "DE236922588" ;
     skos:altLabel "NWP-LECKENG" ;

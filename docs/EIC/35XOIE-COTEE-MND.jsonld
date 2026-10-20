@@ -12,24 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:35XOIE-COTEE-MND",
-    "@skos:prefLabel": "Obnovljivi izvori COTEE d.o.o. Podgorica",
+    "@skos:prefLabel": "COTEE d.o.o. Podgorica - obnovljivi izvori",
     "@skos:altLabel": "OIE_COTEE",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party, Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "35XOIE-COTEE-MND",
-    "@cim:IdentifiedObject.name": "Obnovljivi izvori COTEE d.o.o. Podgorica",
+    "@cim:IdentifiedObject.name": "COTEE d.o.o. Podgorica - obnovljivi izvori",
     "@cim:Names.name": [
         "OIE_COTEE",
         "02849097",
-        "Trade Responsible Party",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-01",
+    "@cim:DateAndOrTime.date": "2026-02-25",
     "@schema:vatID": "02849097",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

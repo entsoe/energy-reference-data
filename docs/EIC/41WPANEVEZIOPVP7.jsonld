@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41WPANEVEZIOPVP7",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41WPANEVEZIOPVP7",
+    "@skos:prefLabel": "Panevėžio PV parkas",
+    "@skos:altLabel": "PANEVEZIOPV",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Panevėžio PV parkas 2,0MW   Pušaloto g. 218, Bliūdžių k., Panevėžio raj.   ESO objekto Nr. 21089442"
+    },
+    "@cim:IdentifiedObject.mRID": "41WPANEVEZIOPVP7",
+    "@cim:IdentifiedObject.name": "Panevėžio PV parkas",
+    "@cim:Names.name": [
+        "PANEVEZIOPV",
+        "Generation Unit"
+    ],
+    "@cim:IdentifiedObject.description": "Panevėžio PV parkas 2,0MW   Pušaloto g. 218, Bliūdžių k., Panevėžio raj.   ESO objekto Nr. 21089442",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-10-24",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

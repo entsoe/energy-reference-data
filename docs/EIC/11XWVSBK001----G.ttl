@@ -7,12 +7,12 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2010-03-09" ;
-    cim:Document.docStatus "A05" ;
+    cim:DateAndOrTime.date "2024-10-17" ;
+    cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XWVSBK001----G" ;
     cim:IdentifiedObject.name "WV Energie AG" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE114230598",
         "WVAG-SBK" ;
     dcterms:identifier "urn:eic:11XWVSBK001----G" ;

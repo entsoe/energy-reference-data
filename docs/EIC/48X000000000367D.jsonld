@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/48X000000000367D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:48X000000000367D",
+    "@skos:prefLabel": "BGI Trading Limited",
+    "@skos:altLabel": "BGITL",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "BGI Trading Limited \nSam Hill\n02078704959\n245 Hammersmith Road, London, England, W6 8PW"
+    },
+    "@cim:IdentifiedObject.mRID": "48X000000000367D",
+    "@cim:IdentifiedObject.name": "BGI Trading Limited",
+    "@cim:Names.name": [
+        "BGITL",
+        "GB359679822",
+        "Balance Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "BGI Trading Limited \nSam Hill\n02078704959\n245 Hammersmith Road, London, England, W6 8PW",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-01-25",
+    "@schema:vatID": "GB359679822",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

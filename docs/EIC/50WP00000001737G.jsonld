@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000001737G",
-    "@skos:prefLabel": "Støls.Krv",
-    "@skos:altLabel": "NO-STOLS_KR",
+    "@skos:prefLabel": "Stølsdalselva",
+    "@skos:altLabel": "NO-STOELSDALSEL",
     "@cim:IdentifiedObject.mRID": "50WP00000001737G",
-    "@cim:IdentifiedObject.name": "Støls.Krv",
+    "@cim:IdentifiedObject.name": "Stølsdalselva",
     "@cim:Names.name": [
-        "NO-STOLS_KR",
+        "NO-STOELSDALSEL",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-24",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

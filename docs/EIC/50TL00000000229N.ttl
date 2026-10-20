@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000229N" ;
-    cim:IdentifiedObject.name "M 132 Fauske-Sjonstad" ;
+    cim:IdentifiedObject.name "N 132 Fauske-Sjønstå" ;
     cim:Names.name "Internal Line",
-        "NO-FAUSKESJONSTA" ;
+        "NO-132FAUSKESJON" ;
     dcterms:identifier "urn:eic:50TL00000000229N" ;
-    skos:altLabel "NO-FAUSKESJONSTA" ;
+    skos:altLabel "NO-132FAUSKESJON" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Fauske-Sjonstad" ;
+    skos:prefLabel "N 132 Fauske-Sjønstå" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

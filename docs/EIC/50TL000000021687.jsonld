@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000021687",
-    "@skos:prefLabel": "S 66 Storebru-Sagefossen",
-    "@skos:altLabel": "NO-STOREBRUSAGEF",
+    "@skos:prefLabel": "N 66 Storebru-Sagefossen",
+    "@skos:altLabel": "NO-66STOREBRUSAG",
     "@cim:IdentifiedObject.mRID": "50TL000000021687",
-    "@cim:IdentifiedObject.name": "S 66 Storebru-Sagefossen",
+    "@cim:IdentifiedObject.name": "N 66 Storebru-Sagefossen",
     "@cim:Names.name": [
-        "NO-STOREBRUSAGEF",
+        "NO-66STOREBRUSAG",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

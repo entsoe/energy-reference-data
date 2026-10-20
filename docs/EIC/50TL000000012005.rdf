@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50TL000000012005</dcterms:identifier>
     <skos:prefLabel>N 420 Ofoten-Kvandal</skos:prefLabel>
-    <skos:altLabel>NO-OFOTENKVANDAL</skos:altLabel>
+    <skos:altLabel>NO-420OFOTEANDAL</skos:altLabel>
     <cim:IdentifiedObject.mRID>50TL000000012005</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>N 420 Ofoten-Kvandal</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-OFOTENKVANDAL</cim:Names.name>
+    <cim:Names.name>NO-420OFOTEANDAL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-11-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

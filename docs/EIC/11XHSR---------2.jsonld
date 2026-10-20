@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XHSR---------2",
     "@skos:prefLabel": "Helmstedter Revier GmbH",
     "@skos:altLabel": "HSR",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XHSR---------2",
     "@cim:IdentifiedObject.name": "Helmstedter Revier GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE815435888",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-11-15",
+    "@cim:DateAndOrTime.date": "2024-06-12",
     "@schema:vatID": "DE815435888",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

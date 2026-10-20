@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:11XEMGMGCOKG---R",
     "@skos:prefLabel": "ExxonMobil Gas Marketing Deutschland GmbH & Co. KG",
     "@skos:altLabel": "EMGMGCOKG",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "11XEMGMGCOKG---R",
     "@cim:IdentifiedObject.name": "ExxonMobil Gas Marketing Deutschland GmbH & Co. KG",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE232838695",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-08-03",
+    "@cim:DateAndOrTime.date": "2025-01-10",
     "@schema:vatID": "DE232838695",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

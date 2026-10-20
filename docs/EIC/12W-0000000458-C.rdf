@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:12W-0000000458-C</dcterms:identifier>
     <skos:prefLabel>KSL Mapragg</skos:prefLabel>
     <skos:altLabel>KSLMAG03-GE</skos:altLabel>
-    <skos:definition xml:lang="en">Generation</skos:definition>
     <cim:IdentifiedObject.mRID>12W-0000000458-C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>KSL Mapragg</cim:IdentifiedObject.name>
     <cim:Names.name>KSLMAG03-GE</cim:Names.name>
-    <cim:IdentifiedObject.description>Generation</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-08-26</cim:DateAndOrTime.date>
-    <cim:Names.name>Generation</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-04-09</cim:DateAndOrTime.date>
+    <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

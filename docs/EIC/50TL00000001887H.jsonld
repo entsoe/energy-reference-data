@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001887H",
-    "@skos:prefLabel": "M 66 Kåsen-Lønset",
-    "@skos:altLabel": "NO-KASENLONSET",
+    "@skos:prefLabel": "N 66 Kåsen-Lønset",
+    "@skos:altLabel": "NO-66KASENLONSET",
     "@cim:IdentifiedObject.mRID": "50TL00000001887H",
-    "@cim:IdentifiedObject.name": "M 66 Kåsen-Lønset",
+    "@cim:IdentifiedObject.name": "N 66 Kåsen-Lønset",
     "@cim:Names.name": [
-        "NO-KASENLONSET",
+        "NO-66KASENLONSET",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

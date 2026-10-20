@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-06-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001686D" ;
-    cim:IdentifiedObject.name "STOKKELAG113 HYDRO" ;
+    cim:IdentifiedObject.name "VAGLE   G113 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-STOKKELAG113_" ;
+        "NO-VAGLEG113" ;
     dcterms:identifier "urn:eic:50WG00000001686D" ;
-    skos:altLabel "NO-STOKKELAG113_" ;
+    skos:altLabel "NO-VAGLEG113" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STOKKELAG113 HYDRO" ;
+    skos:prefLabel "VAGLE   G113 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000534I" ;
     cim:IdentifiedObject.name "S 132 Nes VK-Stangeby" ;
     cim:Names.name "Internal Line",
-        "NO-NESVKSTANGEBY" ;
+        "NO-132NES_VKSTAN" ;
     dcterms:identifier "urn:eic:50TL00000000534I" ;
-    skos:altLabel "NO-NESVKSTANGEBY" ;
+    skos:altLabel "NO-132NES_VKSTAN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Nes VK-Stangeby" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

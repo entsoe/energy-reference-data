@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TTI00000053815",
-    "@skos:prefLabel": "M NedreNea T1 Transformator",
+    "@skos:prefLabel": "N NedreNea T1 Transformator",
     "@skos:altLabel": "NO-NEDRENEAT1",
     "@cim:IdentifiedObject.mRID": "50TTI00000053815",
-    "@cim:IdentifiedObject.name": "M NedreNea T1 Transformator",
+    "@cim:IdentifiedObject.name": "N NedreNea T1 Transformator",
     "@cim:Names.name": [
         "NO-NEDRENEAT1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

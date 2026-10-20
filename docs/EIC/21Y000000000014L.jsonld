@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Y000000000014L",
     "@skos:prefLabel": "Virtual area for balancing gas Shipper allocation",
     "@skos:altLabel": "BVP",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Virtual Market Area"
-    },
     "@cim:IdentifiedObject.mRID": "21Y000000000014L",
     "@cim:IdentifiedObject.name": "Virtual area for balancing gas Shipper allocation",
     "@cim:Names.name": [
         "BVP",
-        "Valid EIC Function needed"
+        "Market Area"
     ],
-    "@cim:IdentifiedObject.description": "Virtual Market Area",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-25",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

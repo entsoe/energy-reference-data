@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003134J" ;
-    cim:IdentifiedObject.name "M 420 Namsos-Hofstad" ;
+    cim:IdentifiedObject.name "N 420 Namsos-Hofstad" ;
     cim:Names.name "Internal Line",
-        "NO-NAMSOSHOFSTAD" ;
+        "NO-420NAMSOSHOFS" ;
     dcterms:identifier "urn:eic:50TL00000003134J" ;
-    skos:altLabel "NO-NAMSOSHOFSTAD" ;
+    skos:altLabel "NO-420NAMSOSHOFS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 420 Namsos-Hofstad" ;
+    skos:prefLabel "N 420 Namsos-Hofstad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

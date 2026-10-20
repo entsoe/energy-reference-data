@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/44Y-00000000649P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-01-24" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "44Y-00000000649P" ;
+    cim:IdentifiedObject.name "Mertaniemi 5 sähköakku" ;
+    cim:Names.name "FI_MRT005",
+        "Metering Grid Area" ;
+    dcterms:identifier "urn:eic:44Y-00000000649P" ;
+    skos:altLabel "FI_MRT005" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Mertaniemi 5 sähköakku" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

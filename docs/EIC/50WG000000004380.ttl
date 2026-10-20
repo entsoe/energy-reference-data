@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000004380" ;
-    cim:IdentifiedObject.name "FLESAKERG115 HYDRO" ;
+    cim:IdentifiedObject.name "VRENGA  G115 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-FLESAKERG115_" ;
+        "NO-VRENGAG115" ;
     dcterms:identifier "urn:eic:50WG000000004380" ;
-    skos:altLabel "NO-FLESAKERG115_" ;
+    skos:altLabel "NO-VRENGAG115" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "FLESAKERG115 HYDRO" ;
+    skos:prefLabel "VRENGA  G115 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

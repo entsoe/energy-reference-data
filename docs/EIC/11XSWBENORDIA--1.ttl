@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWBENORDIA--1" ;
     cim:IdentifiedObject.name "swb Enordia GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE204147551",
-        "SWBENORDIA" ;
+    cim:Names.name "DE204147551",
+        "SWBENORDIA",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWBENORDIA--1" ;
     schema1:vatID "DE204147551" ;
     skos:altLabel "SWBENORDIA" ;

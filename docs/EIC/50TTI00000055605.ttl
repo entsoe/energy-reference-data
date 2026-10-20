@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000055605" ;
-    cim:IdentifiedObject.name "M Rensvik  T1 Transformator" ;
-    cim:Names.name "NO-RENSVIK_T1",
+    cim:IdentifiedObject.name "N Rensvik  T1 Transformator" ;
+    cim:Names.name "NO-RENSVIKT1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000055605" ;
-    skos:altLabel "NO-RENSVIK_T1" ;
+    skos:altLabel "NO-RENSVIKT1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Rensvik  T1 Transformator" ;
+    skos:prefLabel "N Rensvik  T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -18,13 +18,13 @@
     "@cim:IdentifiedObject.name": "ATAMIR LTD",
     "@cim:Names.name": [
         "ATAMIR-LTD",
-        "CZ27340406",
+        "cz27340406",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2017-01-30",
-    "@schema:vatID": "CZ27340406",
+    "@schema:vatID": "cz27340406",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001179Z",
-    "@skos:prefLabel": "Narturgas Fyn A/S",
-    "@skos:altLabel": "NATURGAS-FYN",
+    "@skos:prefLabel": "Energi Fyn Energihandel A/S",
+    "@skos:altLabel": "ENERGI_FYN",
     "@skos:definition": {
         "@language": "en",
         "@value": "Trade Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001179Z",
-    "@cim:IdentifiedObject.name": "Narturgas Fyn A/S",
+    "@cim:IdentifiedObject.name": "Energi Fyn Energihandel A/S",
     "@cim:Names.name": [
-        "NATURGAS-FYN",
+        "ENERGI_FYN",
         "DK27116469",
         "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-02-14",
+    "@cim:DateAndOrTime.date": "2025-03-25",
     "@schema:vatID": "DK27116469",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

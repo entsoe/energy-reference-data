@@ -6,14 +6,14 @@
     <dcterms:identifier>urn:eic:17W000001435670A</dcterms:identifier>
     <skos:prefLabel>Coche Pompage</skos:prefLabel>
     <skos:altLabel>FR_SP_COCHE-P</skos:altLabel>
-    <skos:definition xml:lang="en">Nouveau code EIC</skos:definition>
+    <skos:definition xml:lang="en">Storage Plant Parent (COCHE)</skos:definition>
     <cim:IdentifiedObject.mRID>17W000001435670A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Coche Pompage</cim:IdentifiedObject.name>
     <cim:Names.name>FR_SP_COCHE-P</cim:Names.name>
-    <cim:IdentifiedObject.description>Nouveau code EIC</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.description>Storage Plant Parent (COCHE)</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-11-23</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-09-21</cim:DateAndOrTime.date>
     <cim:Names.name>Storage Plant</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

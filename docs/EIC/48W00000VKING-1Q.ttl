@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "48W00000VKING-1Q" ;
     cim:IdentifiedObject.name "VIKING  BMU 1" ;
-    cim:Names.name "VKING-1" ;
+    cim:Names.name "Generation Unit",
+        "VKING-1" ;
     dcterms:identifier "urn:eic:48W00000VKING-1Q" ;
     skos:altLabel "VKING-1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

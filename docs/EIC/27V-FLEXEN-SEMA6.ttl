@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27V-FLEXEN-SEMA6> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-07-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27V-FLEXEN-SEMA6" ;
+    cim:IdentifiedObject.name "Flexen s.r.o. - semafor" ;
+    cim:Names.name "FLEXEN_SEMAFOR",
+        "IT-system" ;
+    dcterms:identifier "urn:eic:27V-FLEXEN-SEMA6" ;
+    skos:altLabel "FLEXEN_SEMAFOR" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Flexen s.r.o. - semafor" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

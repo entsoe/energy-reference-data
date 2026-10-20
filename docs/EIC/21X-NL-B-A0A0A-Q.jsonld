@@ -12,22 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X-NL-B-A0A0A-Q",
-    "@skos:prefLabel": "BBL Company",
-    "@skos:altLabel": "BBL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Transmission System Operator For Gas"
-    },
+    "@skos:prefLabel": "BBL Company VOF",
+    "@skos:altLabel": "BBLCOMPANY",
     "@cim:IdentifiedObject.mRID": "21X-NL-B-A0A0A-Q",
-    "@cim:IdentifiedObject.name": "BBL Company",
+    "@cim:IdentifiedObject.name": "BBL Company VOF",
     "@cim:Names.name": [
-        "BBL",
-        "Valid EIC Function needed"
+        "BBLCOMPANY",
+        "NL813552394B01",
+        "System Operator"
     ],
-    "@cim:IdentifiedObject.description": "Transmission System Operator For Gas",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-29",
+    "@schema:vatID": "NL813552394B01",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

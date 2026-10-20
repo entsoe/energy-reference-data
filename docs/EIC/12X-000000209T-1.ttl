@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-06-08" ;
+    cim:DateAndOrTime.date "2023-12-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "12X-000000209T-1" ;
-    cim:IdentifiedObject.name "STG Switzerland AG" ;
+    cim:IdentifiedObject.name "STG Switzerland GmbH" ;
     cim:Names.name "Balance Responsible Party",
         "CHE463317717",
-        "STG-CH-AG-----ST" ;
+        "STG-CH-GMBH---ST" ;
     dcterms:identifier "urn:eic:12X-000000209T-1" ;
     schema1:vatID "CHE463317717" ;
-    skos:altLabel "STG-CH-AG-----ST" ;
+    skos:altLabel "STG-CH-GMBH---ST" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "STG Switzerland AG" ;
+    skos:prefLabel "STG Switzerland GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

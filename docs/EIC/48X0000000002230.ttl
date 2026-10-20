@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-10-30" ;
+    cim:DateAndOrTime.date "2026-04-13" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "48X0000000002230" ;
-    cim:IdentifiedObject.name "Contigo" ;
-    cim:Names.name "CONTIGO",
+    cim:IdentifiedObject.name "Energy One UK " ;
+    cim:Names.name "ENERGY_ONE_UK",
         "GB02769279",
         "Information Provider" ;
     dcterms:identifier "urn:eic:48X0000000002230" ;
     schema1:vatID "GB02769279" ;
-    skos:altLabel "CONTIGO" ;
+    skos:altLabel "ENERGY_ONE_UK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Contigo" ;
+    skos:prefLabel "Energy One UK " ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

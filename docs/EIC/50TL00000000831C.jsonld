@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000831C",
-    "@skos:prefLabel": "S 22 Eikelandsosen-Eitro",
-    "@skos:altLabel": "NO-EIKELANDSOSEN",
+    "@skos:prefLabel": "S 22 Sevareid-Eitro",
+    "@skos:altLabel": "NO-22SEVAREIDEIT",
     "@cim:IdentifiedObject.mRID": "50TL00000000831C",
-    "@cim:IdentifiedObject.name": "S 22 Eikelandsosen-Eitro",
+    "@cim:IdentifiedObject.name": "S 22 Sevareid-Eitro",
     "@cim:Names.name": [
-        "NO-EIKELANDSOSEN",
+        "NO-22SEVAREIDEIT",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

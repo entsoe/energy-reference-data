@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43WA070RNR011--M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-11-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "43WA070RNR011--M" ;
+    cim:IdentifiedObject.name "A/ST70 Valmiera RNR11" ;
+    cim:Names.name "43WA070RNR011--M",
+        "Shunt Reactor" ;
+    dcterms:identifier "urn:eic:43WA070RNR011--M" ;
+    skos:altLabel "43WA070RNR011--M" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "A/ST70 Valmiera RNR11" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

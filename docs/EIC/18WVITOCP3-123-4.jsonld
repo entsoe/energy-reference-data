@@ -16,7 +16,10 @@
     "@skos:altLabel": "VITOCP3",
     "@cim:IdentifiedObject.mRID": "18WVITOCP3-123-4",
     "@cim:IdentifiedObject.name": "VITOL SA",
-    "@cim:Names.name": "VITOCP3",
+    "@cim:Names.name": [
+        "VITOCP3",
+        "Production Unit"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2023-03-16",

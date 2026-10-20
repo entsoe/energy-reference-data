@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11T0-0000-2497-D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-11-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11T0-0000-2497-D" ;
+    cim:IdentifiedObject.name "RTE-TNG/380/Eichstetten C1-Muhlbach/rt" ;
+    cim:Names.name "L-FR-D4-EIC1RTMU",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:11T0-0000-2497-D" ;
+    skos:altLabel "L-FR-D4-EIC1RTMU" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "RTE-TNG/380/Eichstetten C1-Muhlbach/rt" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

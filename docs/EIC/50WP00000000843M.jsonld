@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WP00000000843M",
-    "@skos:prefLabel": "Ørtern",
-    "@skos:altLabel": "NO-ORTERN",
+    "@skos:prefLabel": "Ørteren",
+    "@skos:altLabel": "NO-OERTEREN",
     "@cim:IdentifiedObject.mRID": "50WP00000000843M",
-    "@cim:IdentifiedObject.name": "Ørtern",
+    "@cim:IdentifiedObject.name": "Ørteren",
     "@cim:Names.name": [
-        "NO-ORTERN",
+        "NO-OERTEREN",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

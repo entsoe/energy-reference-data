@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69A5WFM9QAYSJ1CO> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-09-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Busbar" ;
+    cim:IdentifiedObject.mRID "69A5WFM9QAYSJ1CO" ;
+    cim:IdentifiedObject.name "SOTERA_132BBSEG_2" ;
+    cim:Names.name "Busbar",
+        "SOTERA_BB_2" ;
+    dcterms:identifier "urn:eic:69A5WFM9QAYSJ1CO" ;
+    skos:altLabel "SOTERA_BB_2" ;
+    skos:definition "Busbar"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SOTERA_132BBSEG_2" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

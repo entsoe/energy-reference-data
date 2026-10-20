@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TTI00000046525",
     "@skos:prefLabel": "N Bryggja  T11 Transformator",
-    "@skos:altLabel": "NO-BRYGGJA_T11",
+    "@skos:altLabel": "NO-BRYGGJAT11",
     "@cim:IdentifiedObject.mRID": "50TTI00000046525",
     "@cim:IdentifiedObject.name": "N Bryggja  T11 Transformator",
     "@cim:Names.name": [
-        "NO-BRYGGJA_T11",
+        "NO-BRYGGJAT11",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

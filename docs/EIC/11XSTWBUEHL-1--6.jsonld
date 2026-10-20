@@ -14,21 +14,16 @@
     "@dcterms:identifier": "urn:eic:11XSTWBUEHL-1--6",
     "@skos:prefLabel": "Stadtwerke Bühl GmbH",
     "@skos:altLabel": "STWBUEHL-1",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSTWBUEHL-1--6",
     "@cim:IdentifiedObject.name": "Stadtwerke Bühl GmbH",
     "@cim:Names.name": [
         "STWBUEHL-1",
         "DE143755295",
-        "Balance Group"
+        "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-08-26",
+    "@cim:DateAndOrTime.date": "2024-12-19",
     "@schema:vatID": "DE143755295",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

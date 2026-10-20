@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/55XASQUARED-RTLM">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:55XASQUARED-RTLM</dcterms:identifier>
+    <skos:prefLabel>Asquared Research &amp; Technologies Limited</skos:prefLabel>
+    <skos:altLabel>ART</skos:altLabel>
+    <cim:IdentifiedObject.mRID>55XASQUARED-RTLM</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Asquared Research &amp; Technologies Limited</cim:IdentifiedObject.name>
+    <cim:Names.name>ART</cim:Names.name>
+    <cim:Names.name>518902972</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-07-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>518902972</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/46X0000000003846">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:46X0000000003846</dcterms:identifier>
+    <skos:prefLabel>Vaggeryds Elverk</skos:prefLabel>
+    <skos:altLabel>VAGGERYDS_ELVERK</skos:altLabel>
+    <skos:definition xml:lang="en">updated VAT-code</skos:definition>
+    <cim:IdentifiedObject.mRID>46X0000000003846</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Vaggeryds Elverk</cim:IdentifiedObject.name>
+    <cim:Names.name>VAGGERYDS_ELVERK</cim:Names.name>
+    <cim:Names.name>SE559186963001</cim:Names.name>
+    <cim:IdentifiedObject.description>updated VAT-code</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2025-11-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Grid Operator</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>SE559186963001</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

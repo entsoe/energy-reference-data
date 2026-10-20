@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/45V000000000233X> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-05-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "45V000000000233X" ;
+    cim:IdentifiedObject.name "NT Energy ApS - TEST" ;
+    cim:Names.name "DK_NTENERGY_T",
+        "Endpoint" ;
+    dcterms:identifier "urn:eic:45V000000000233X" ;
+    skos:altLabel "DK_NTENERGY_T" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NT Energy ApS - TEST" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

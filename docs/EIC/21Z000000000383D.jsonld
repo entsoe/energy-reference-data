@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:21Z000000000383D",
     "@skos:prefLabel": "GIM Kawerna",
     "@skos:altLabel": "GIM_KAWERNA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Connection Point To Storage"
-    },
     "@cim:IdentifiedObject.mRID": "21Z000000000383D",
     "@cim:IdentifiedObject.name": "GIM Kawerna",
     "@cim:Names.name": [
         "GIM_KAWERNA",
-        "Valid EIC Function needed"
+        "Connection Point"
     ],
-    "@cim:IdentifiedObject.description": "Connection Point To Storage",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-06-13",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-19" ;
+    cim:DateAndOrTime.date "2023-12-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "14T-220-0-0204BC" ;
     cim:IdentifiedObject.name "220kV line Hausruck-Sattledt" ;
-    cim:Names.name "204B",
+    cim:Names.name "0204C",
         "Internal Line" ;
     dcterms:identifier "urn:eic:14T-220-0-0204BC" ;
-    skos:altLabel "204B" ;
+    skos:altLabel "0204C" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "220kV line Hausruck-Sattledt" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

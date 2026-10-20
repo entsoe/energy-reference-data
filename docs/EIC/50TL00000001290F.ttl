@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-05-22" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001290F" ;
-    cim:IdentifiedObject.name "S 47Brogata-Kråkerøy2" ;
+    cim:IdentifiedObject.name "S 47Brogata-Kråkerøy3" ;
     cim:Names.name "Internal Line",
-        "NO-BROGATAKRAKE2" ;
+        "NO-47BROGATEROY3" ;
     dcterms:identifier "urn:eic:50TL00000001290F" ;
-    skos:altLabel "NO-BROGATAKRAKE2" ;
+    skos:altLabel "NO-47BROGATEROY3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 47Brogata-Kråkerøy2" ;
+    skos:prefLabel "S 47Brogata-Kråkerøy3" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

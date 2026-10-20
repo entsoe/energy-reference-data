@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X110000000434W> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X110000000434W" ;
+    cim:IdentifiedObject.name "TARNOWSKIE WODOCIĄGI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "Consumer",
+        "PL8731000214",
+        "Producer",
+        "WODOCIAGI_TARNOW" ;
+    dcterms:identifier "urn:eic:19X110000000434W" ;
+    schema1:vatID "PL8731000214" ;
+    skos:altLabel "WODOCIAGI_TARNOW" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TARNOWSKIE WODOCIĄGI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

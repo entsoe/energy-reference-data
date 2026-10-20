@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002131U",
-    "@skos:prefLabel": "M 66 Skogn-Åsen",
-    "@skos:altLabel": "NO-SKOGNASEN",
+    "@skos:prefLabel": "N 66 Skogn-Åsen",
+    "@skos:altLabel": "NO-66SKOGNASEN",
     "@cim:IdentifiedObject.mRID": "50TL00000002131U",
-    "@cim:IdentifiedObject.name": "M 66 Skogn-Åsen",
+    "@cim:IdentifiedObject.name": "N 66 Skogn-Åsen",
     "@cim:Names.name": [
-        "NO-SKOGNASEN",
+        "NO-66SKOGNASEN",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

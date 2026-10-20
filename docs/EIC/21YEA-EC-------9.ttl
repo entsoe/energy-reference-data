@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Terminal: Identification Of The Uk Easington Terminal" ;
     cim:IdentifiedObject.mRID "21YEA-EC-------9" ;
     cim:IdentifiedObject.name "Terminal Easington Entry Cap" ;
     cim:Names.name "EA-EC",
-        "Valid EIC Function needed" ;
+        "Local Market Area" ;
     dcterms:identifier "urn:eic:21YEA-EC-------9" ;
     skos:altLabel "EA-EC" ;
     skos:definition "Terminal: Identification Of The Uk Easington Terminal"@en ;

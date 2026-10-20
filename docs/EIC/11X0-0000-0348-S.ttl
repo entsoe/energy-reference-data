@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "11X0-0000-0348-S" ;
     cim:IdentifiedObject.name "SmartVersum GmbH & Co. KG" ;
-    cim:Names.name "DE815564171",
+    cim:Names.name "Balance Responsible Party",
+        "DE815564171",
         "SMARTVERSUM" ;
     dcterms:identifier "urn:eic:11X0-0000-0348-S" ;
     schema1:vatID "DE815564171" ;

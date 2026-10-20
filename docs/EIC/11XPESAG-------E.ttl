@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XPESAG-------E" ;
     cim:IdentifiedObject.name "PESAG Aktiengesellschaft" ;
-    cim:Names.name "Balance Group",
-        "DE126229505",
-        "PESAG" ;
+    cim:Names.name "DE126229505",
+        "PESAG",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XPESAG-------E" ;
     schema1:vatID "DE126229505" ;
     skos:altLabel "PESAG" ;

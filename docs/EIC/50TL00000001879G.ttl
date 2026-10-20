@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001879G" ;
-    cim:IdentifiedObject.name "S 66 Jukla-Eidesfoss" ;
+    cim:IdentifiedObject.name "S 66 Jukla-Eidesfossen" ;
     cim:Names.name "Internal Line",
-        "NO-JUKLAEIDESFOS" ;
+        "NO-66JUKLAEIDESF" ;
     dcterms:identifier "urn:eic:50TL00000001879G" ;
-    skos:altLabel "NO-JUKLAEIDESFOS" ;
+    skos:altLabel "NO-66JUKLAEIDESF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Jukla-Eidesfoss" ;
+    skos:prefLabel "S 66 Jukla-Eidesfossen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

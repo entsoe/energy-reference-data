@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000000847E" ;
     cim:IdentifiedObject.name "Øvre Markevatn" ;
-    cim:Names.name "NO-OVRE_MA",
+    cim:Names.name "NO-OVRE_MAR",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000000847E" ;
-    skos:altLabel "NO-OVRE_MA" ;
+    skos:altLabel "NO-OVRE_MAR" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Øvre Markevatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

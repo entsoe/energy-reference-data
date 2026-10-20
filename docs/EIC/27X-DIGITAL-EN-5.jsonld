@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27X-DIGITAL-EN-5",
-    "@skos:prefLabel": "Digital Energy Services s.r.o.",
-    "@skos:altLabel": "DIGITALENERGY",
+    "@skos:prefLabel": "Nano Energies CZ s.r.o.",
+    "@skos:altLabel": "CZ_NANO",
     "@cim:IdentifiedObject.mRID": "27X-DIGITAL-EN-5",
-    "@cim:IdentifiedObject.name": "Digital Energy Services s.r.o.",
+    "@cim:IdentifiedObject.name": "Nano Energies CZ s.r.o.",
     "@cim:Names.name": [
-        "DIGITALENERGY",
+        "CZ_NANO",
         "CZ28188861",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2017-12-01",
+    "@cim:DateAndOrTime.date": "2024-10-31",
     "@schema:vatID": "CZ28188861",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

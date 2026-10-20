@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W0000000001261",
-    "@skos:prefLabel": "Virtueller Speicher NORD astora",
-    "@skos:altLabel": "VSP-NORD",
+    "@skos:prefLabel": "Speicherzone Nord SEFE Storage",
+    "@skos:altLabel": "ZONE-NORD-SEFE",
     "@cim:IdentifiedObject.mRID": "21W0000000001261",
-    "@cim:IdentifiedObject.name": "Virtueller Speicher NORD astora",
+    "@cim:IdentifiedObject.name": "Speicherzone Nord SEFE Storage",
     "@cim:Names.name": [
-        "VSP-NORD",
+        "ZONE-NORD-SEFE",
         "Gas Storage Facility"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-11-27",
+    "@cim:DateAndOrTime.date": "2024-07-11",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

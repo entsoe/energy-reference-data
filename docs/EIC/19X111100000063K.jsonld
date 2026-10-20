@@ -1,0 +1,39 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/19X111100000063K",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:19X111100000063K",
+    "@skos:prefLabel": "MAGAZYN EE TUROŚŃ KOŚCIELNA SP. Z O.O.",
+    "@skos:altLabel": "TUROSN_KOSCIELNA",
+    "@cim:IdentifiedObject.mRID": "19X111100000063K",
+    "@cim:IdentifiedObject.name": "MAGAZYN EE TUROŚŃ KOŚCIELNA SP. Z O.O.",
+    "@cim:Names.name": [
+        "TUROSN_KOSCIELNA",
+        "PL5213959019",
+        "Balance Responsible Party",
+        "Consumer",
+        "Energy Supplier"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-12-23",
+    "@schema:vatID": "PL5213959019",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

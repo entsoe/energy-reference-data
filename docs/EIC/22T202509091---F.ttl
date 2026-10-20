@@ -1,0 +1,22 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/22T202509091---F> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-09-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "22T202509091---F" ;
+    cim:IdentifiedObject.name "TFO 10  RIMIERE 380/220 TFO 10" ;
+    cim:Names.name "BE_TFO_RIMIE_10",
+        "Internal Line",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:22T202509091---F" ;
+    skos:altLabel "BE_TFO_RIMIE_10" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TFO 10  RIMIERE 380/220 TFO 10" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50A000000000033O",
     "@skos:prefLabel": "Åna-Sira",
-    "@skos:altLabel": "NO-ANA-SIRA",
+    "@skos:altLabel": "NO-ANA_SIRA",
     "@cim:IdentifiedObject.mRID": "50A000000000033O",
     "@cim:IdentifiedObject.name": "Åna-Sira",
     "@cim:Names.name": [
-        "NO-ANA-SIRA",
+        "NO-ANA_SIRA",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

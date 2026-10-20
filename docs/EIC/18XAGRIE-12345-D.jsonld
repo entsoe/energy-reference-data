@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XAGRIE-12345-D",
-    "@skos:prefLabel": "AGRI ENERGÍA ELÉCTRICA, S.A.",
+    "@skos:prefLabel": "AGRI-ENERGIA ELECTRICA, S.A.",
     "@skos:altLabel": "AGRIE",
     "@cim:IdentifiedObject.mRID": "18XAGRIE-12345-D",
-    "@cim:IdentifiedObject.name": "AGRI ENERGÍA ELÉCTRICA, S.A.",
+    "@cim:IdentifiedObject.name": "AGRI-ENERGIA ELECTRICA, S.A.",
     "@cim:Names.name": [
         "AGRIE",
         "ESA17448358",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-27",
+    "@cim:DateAndOrTime.date": "2026-10-14",
     "@schema:vatID": "ESA17448358",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

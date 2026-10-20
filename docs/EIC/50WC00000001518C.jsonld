@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001518C",
-    "@skos:prefLabel": "S Kirkenær 66  Forbruk",
-    "@skos:altLabel": "NO-KIRKENER66",
+    "@skos:prefLabel": "S Kirkenær 66  T1 Forbruk",
+    "@skos:altLabel": "NO-KIRKENAR66T1",
     "@cim:IdentifiedObject.mRID": "50WC00000001518C",
-    "@cim:IdentifiedObject.name": "S Kirkenær 66  Forbruk",
+    "@cim:IdentifiedObject.name": "S Kirkenær 66  T1 Forbruk",
     "@cim:Names.name": [
-        "NO-KIRKENER66",
+        "NO-KIRKENAR66T1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

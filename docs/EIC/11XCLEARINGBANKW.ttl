@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XCLEARINGBANKW" ;
     cim:IdentifiedObject.name "Clearing Bank Hannover AG" ;
-    cim:Names.name "Balance Group",
-        "CLEARINGBANK",
-        "DE192204923" ;
+    cim:Names.name "CLEARINGBANK",
+        "DE192204923",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XCLEARINGBANKW" ;
     schema1:vatID "DE192204923" ;
     skos:altLabel "CLEARINGBANK" ;

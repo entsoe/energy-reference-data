@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X00000000005AX",
     "@skos:prefLabel": "PASTELERIA ARAGONESA DE CALIDAD S.L",
     "@skos:altLabel": "PASTE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X00000000005AX",
     "@cim:IdentifiedObject.name": "PASTELERIA ARAGONESA DE CALIDAD S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB99430498",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-06-15",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB99430498",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

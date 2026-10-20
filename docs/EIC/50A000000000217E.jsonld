@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50A000000000217E",
-    "@skos:prefLabel": "Degnepollen",
-    "@skos:altLabel": "NO-DEGNEPOL",
+    "@skos:prefLabel": "Deknepollen",
+    "@skos:altLabel": "NO-DEKNEPOL",
     "@cim:IdentifiedObject.mRID": "50A000000000217E",
-    "@cim:IdentifiedObject.name": "Degnepollen",
+    "@cim:IdentifiedObject.name": "Deknepollen",
     "@cim:Names.name": [
-        "NO-DEGNEPOL",
+        "NO-DEKNEPOL",
         "Substation"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-19",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

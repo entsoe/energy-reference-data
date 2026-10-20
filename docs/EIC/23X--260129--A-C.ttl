@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--260129--A-C> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-02" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "VAT ID confirmed through documentation as well as VIES database. Company registration number confirmed through the Greek General Business Registry (G.E.MI)" ;
+    cim:IdentifiedObject.mRID "23X--260129--A-C" ;
+    cim:IdentifiedObject.name "ATLANTIC-SEE LNG TRADE S.A." ;
+    cim:Names.name "AS_LNG_TRADE",
+        "EL803058856",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--260129--A-C" ;
+    schema1:vatID "EL803058856" ;
+    skos:altLabel "AS_LNG_TRADE" ;
+    skos:definition "VAT ID confirmed through documentation as well as VIES database. Company registration number confirmed through the Greek General Business Registry (G.E.MI)"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "ATLANTIC-SEE LNG TRADE S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

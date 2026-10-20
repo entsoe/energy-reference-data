@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:46TAC0000000166K",
-    "@skos:prefLabel": "Porjus-Grundfors",
-    "@skos:altLabel": "PORJUS-GRUNDF",
+    "@skos:prefLabel": "Porjusberget-Grundfors",
+    "@skos:altLabel": "PORJUSBER-GRUNDF",
     "@skos:definition": {
         "@language": "en",
         "@value": "Internal Line"
     },
     "@cim:IdentifiedObject.mRID": "46TAC0000000166K",
-    "@cim:IdentifiedObject.name": "Porjus-Grundfors",
+    "@cim:IdentifiedObject.name": "Porjusberget-Grundfors",
     "@cim:Names.name": [
-        "PORJUS-GRUNDF",
+        "PORJUSBER-GRUNDF",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "Internal Line",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-01",
+    "@cim:DateAndOrTime.date": "2025-08-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

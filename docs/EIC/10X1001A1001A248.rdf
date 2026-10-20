@@ -11,13 +11,13 @@
     <cim:IdentifiedObject.name>Energinet</cim:IdentifiedObject.name>
     <cim:Names.name>ENERGINET-DK</cim:Names.name>
     <cim:Names.name>A0000003F.DK</cim:Names.name>
-    <cim:Names.name>28980671</cim:Names.name>
+    <cim:Names.name>DK28980671</cim:Names.name>
     <cim:IdentifiedObject.description>Transmission System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-02-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-02-25</cim:DateAndOrTime.date>
     <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>28980671</schema:vatID>
+    <schema:vatID>DK28980671</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

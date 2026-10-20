@@ -4,20 +4,21 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:19X-PL-GGL-GL--9</dcterms:identifier>
-    <skos:prefLabel>Green-Lights sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</skos:prefLabel>
+    <skos:prefLabel>"Green Lights" sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</skos:prefLabel>
     <skos:altLabel>GREEN-LIGHTS</skos:altLabel>
     <cim:IdentifiedObject.mRID>19X-PL-GGL-GL--9</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Green-Lights sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>"Green Lights" sp&#243;&#322;ka z ograniczon&#261; odpowiedzialno&#347;ci&#261;</cim:IdentifiedObject.name>
     <cim:Names.name>GREEN-LIGHTS</cim:Names.name>
     <cim:Names.name>PL5213256789</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-14</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-03-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:Names.name>Meter Administrator</cim:Names.name>
+    <cim:Names.name>System Operator</cim:Names.name>
     <cim:Names.name>Grid Access Provider</cim:Names.name>
     <cim:Names.name>Metered Data Responsible</cim:Names.name>
-    <cim:Names.name>Meter Administrator</cim:Names.name>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
-    <cim:Names.name>System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5213256789</schema:vatID>
   </skos:Concept>

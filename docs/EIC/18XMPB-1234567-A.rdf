@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XMPB-1234567-A</dcterms:identifier>
     <skos:prefLabel>ASOCIACION MERCADO PUERTA BONITA</skos:prefLabel>
     <skos:altLabel>MPB</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XMPB-1234567-A</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>ASOCIACION MERCADO PUERTA BONITA</cim:IdentifiedObject.name>
     <cim:Names.name>MPB</cim:Names.name>
     <cim:Names.name>ESG78414463</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2014-03-05</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESG78414463</schema:vatID>

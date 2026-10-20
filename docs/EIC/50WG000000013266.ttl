@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000013266" ;
     cim:IdentifiedObject.name "REINSKARG2      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-REINSKARG2___" ;
+        "NO-REINSKARG2" ;
     dcterms:identifier "urn:eic:50WG000000013266" ;
-    skos:altLabel "NO-REINSKARG2___" ;
+    skos:altLabel "NO-REINSKARG2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "REINSKARG2      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

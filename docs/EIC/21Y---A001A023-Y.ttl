@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-12-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Cross-Border Area" ;
     cim:IdentifiedObject.mRID "21Y---A001A023-Y" ;
     cim:IdentifiedObject.name "Baumgarten SK AT Area" ;
     cim:Names.name "BAUM-SK-AT",
-        "Valid EIC Function needed" ;
+        "Market Area" ;
     dcterms:identifier "urn:eic:21Y---A001A023-Y" ;
     skos:altLabel "BAUM-SK-AT" ;
     skos:definition "Cross-Border Area"@en ;

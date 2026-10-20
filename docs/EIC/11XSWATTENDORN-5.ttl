@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWATTENDORN-5" ;
     cim:IdentifiedObject.name "Stadtwerke Attendorn GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE126174160",
-        "SWATTENDORN" ;
+    cim:Names.name "DE126174160",
+        "SWATTENDORN",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XSWATTENDORN-5" ;
     schema1:vatID "DE126174160" ;
     skos:altLabel "SWATTENDORN" ;

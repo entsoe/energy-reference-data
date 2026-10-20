@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-24" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000002040D" ;
     cim:IdentifiedObject.name "Sandal Fossheim" ;
-    cim:Names.name "NO-SANDAL_FOSSHE",
+    cim:Names.name "NO-SANDALFOSSHEI",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000002040D" ;
-    skos:altLabel "NO-SANDAL_FOSSHE" ;
+    skos:altLabel "NO-SANDALFOSSHEI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Sandal Fossheim" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

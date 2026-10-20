@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>10X1001B1001B61Q</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Agency for the Cooperation of Energy Regulators</cim:IdentifiedObject.name>
     <cim:Names.name>ACER</cim:Names.name>
+    <cim:Names.name>37879260</cim:Names.name>
     <cim:IdentifiedObject.description>Platform Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-01-25</cim:DateAndOrTime.date>
-    <cim:Names.name>Platform Operator</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Information Provider</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>37879260</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

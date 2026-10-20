@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/43W-RSIMANTA1303> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-12-09" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.mRID "43W-RSIMANTA1303" ;
+    cim:IdentifiedObject.name "Elektrodu Ūdens Sildāmais Katls " ;
+    cim:Names.name "Generation Unit",
+        "RSIMANTA1303" ;
+    dcterms:identifier "urn:eic:43W-RSIMANTA1303" ;
+    skos:altLabel "RSIMANTA1303" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Elektrodu Ūdens Sildāmais Katls " ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

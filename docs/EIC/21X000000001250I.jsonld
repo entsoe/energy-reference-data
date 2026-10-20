@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X000000001250I",
-    "@skos:prefLabel": "Stogit Spa",
-    "@skos:altLabel": "STOGIT",
+    "@skos:prefLabel": "Snam Stoccaggio SpA",
+    "@skos:altLabel": "SNAM-STOCCAGGIO",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "21X000000001250I",
-    "@cim:IdentifiedObject.name": "Stogit Spa",
+    "@cim:IdentifiedObject.name": "Snam Stoccaggio SpA",
     "@cim:Names.name": [
-        "STOGIT",
+        "SNAM-STOCCAGGIO",
         "IT13271380159",
         "System Operator"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-08-05",
+    "@cim:DateAndOrTime.date": "2026-05-19",
     "@schema:vatID": "IT13271380159",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

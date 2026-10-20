@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53ZPL0000290562U",
-    "@skos:prefLabel": "Roben Ceramika Budowlana",
-    "@skos:altLabel": "290562_ROBEN",
+    "@skos:prefLabel": "Środa Śląska (Roben)",
+    "@skos:altLabel": "290562_SRODA_SL",
     "@cim:IdentifiedObject.mRID": "53ZPL0000290562U",
-    "@cim:IdentifiedObject.name": "Roben Ceramika Budowlana",
+    "@cim:IdentifiedObject.name": "Środa Śląska (Roben)",
     "@cim:Names.name": [
-        "290562_ROBEN",
+        "290562_SRODA_SL",
         "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-02-02",
+    "@cim:DateAndOrTime.date": "2025-03-27",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

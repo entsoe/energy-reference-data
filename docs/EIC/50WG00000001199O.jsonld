@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001199O",
-    "@skos:prefLabel": "NORHEIMSG1      HYDRO",
-    "@skos:altLabel": "NO-NORHEIMSG1___",
+    "@skos:prefLabel": "KALD_KRAG1      HYDRO",
+    "@skos:altLabel": "NO-KALD_KRAG1",
     "@cim:IdentifiedObject.mRID": "50WG00000001199O",
-    "@cim:IdentifiedObject.name": "NORHEIMSG1      HYDRO",
+    "@cim:IdentifiedObject.name": "KALD_KRAG1      HYDRO",
     "@cim:Names.name": [
-        "NO-NORHEIMSG1___",
+        "NO-KALD_KRAG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-11-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

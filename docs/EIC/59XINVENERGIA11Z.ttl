@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-06-30" ;
+    cim:DateAndOrTime.date "2024-06-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "59XINVENERGIA11Z" ;
     cim:IdentifiedObject.name "INVENERGIA SRL" ;
-    cim:Names.name "INVENERGIASRL",
-        "IT12417290967",
-        "Market Operator" ;
+    cim:Names.name "Balance Responsible Party",
+        "INVENERGIASRL",
+        "IT12417290967" ;
     dcterms:identifier "urn:eic:59XINVENERGIA11Z" ;
     schema1:vatID "IT12417290967" ;
     skos:altLabel "INVENERGIASRL" ;

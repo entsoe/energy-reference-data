@@ -7,11 +7,11 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-08-07" ;
+    cim:DateAndOrTime.date "2024-09-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "49X0000000000858" ;
     cim:IdentifiedObject.name "Enerjisa Commodities B.V." ;
-    cim:Names.name "Capacity Trader",
+    cim:Names.name "Balance Responsible Party",
         "ENERJISA",
         "NL864999343B01" ;
     dcterms:identifier "urn:eic:49X0000000000858" ;

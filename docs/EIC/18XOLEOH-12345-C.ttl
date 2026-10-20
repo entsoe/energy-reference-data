@@ -7,9 +7,8 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-04-20" ;
+    cim:DateAndOrTime.date "2024-11-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Consumption Responsible Party" ;
     cim:IdentifiedObject.mRID "18XOLEOH-12345-C" ;
     cim:IdentifiedObject.name "OLEOHIDRAULICA FERRUZ S.A" ;
     cim:Names.name "Consumption Responsible Party",
@@ -18,7 +17,6 @@
     dcterms:identifier "urn:eic:18XOLEOH-12345-C" ;
     schema1:vatID "ESA50036037" ;
     skos:altLabel "OLEOH" ;
-    skos:definition "Consumption Responsible Party"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "OLEOHIDRAULICA FERRUZ S.A" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

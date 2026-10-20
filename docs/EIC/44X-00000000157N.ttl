@@ -12,7 +12,8 @@
     cim:IdentifiedObject.mRID "44X-00000000157N" ;
     cim:IdentifiedObject.name "Kolsin Vesivoimatuotanto Oy" ;
     cim:Names.name "44KOLSI",
-        "FI10302750" ;
+        "FI10302750",
+        "Producer" ;
     dcterms:identifier "urn:eic:44X-00000000157N" ;
     schema1:vatID "FI10302750" ;
     skos:altLabel "44KOLSI" ;

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000025178" ;
-    cim:IdentifiedObject.name "M Støren 66 L1_X" ;
+    cim:IdentifiedObject.name "N Støren   66  L1_X" ;
     cim:Names.name "Internal Line",
-        "NO-STOREN66L1X" ;
+        "NO-STOREN66L1_X" ;
     dcterms:identifier "urn:eic:50TL000000025178" ;
-    skos:altLabel "NO-STOREN66L1X" ;
+    skos:altLabel "NO-STOREN66L1_X" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Støren 66 L1_X" ;
+    skos:prefLabel "N Støren   66  L1_X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

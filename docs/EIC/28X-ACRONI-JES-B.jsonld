@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:28X-ACRONI-JES-B",
-    "@skos:prefLabel": "Acroni, d.o.o.",
-    "@skos:altLabel": "ACRONI",
+    "@skos:prefLabel": "SIJ ACRONI D.O.O",
+    "@skos:altLabel": "SIJ_ACRONI",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "28X-ACRONI-JES-B",
-    "@cim:IdentifiedObject.name": "Acroni, d.o.o.",
+    "@cim:IdentifiedObject.name": "SIJ ACRONI D.O.O",
     "@cim:Names.name": [
-        "ACRONI",
+        "SIJ_ACRONI",
         "SI25840754",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-06-08",
+    "@cim:DateAndOrTime.date": "2024-11-14",
     "@schema:vatID": "SI25840754",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

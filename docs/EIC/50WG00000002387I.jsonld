@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000002387I",
-    "@skos:prefLabel": "STOKKELAG102 HYDRO",
-    "@skos:altLabel": "NO-STOKKELAG102_",
+    "@skos:prefLabel": "GILJA   G102 HYDRO",
+    "@skos:altLabel": "NO-GILJAG102",
     "@cim:IdentifiedObject.mRID": "50WG00000002387I",
-    "@cim:IdentifiedObject.name": "STOKKELAG102 HYDRO",
+    "@cim:IdentifiedObject.name": "GILJA   G102 HYDRO",
     "@cim:Names.name": [
-        "NO-STOKKELAG102_",
+        "NO-GILJAG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-08-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

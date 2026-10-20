@@ -6,16 +6,14 @@
     <dcterms:identifier>urn:eic:11XSWBSA-------5</dcterms:identifier>
     <skos:prefLabel>Stadtwerke Bad Sooden-Allendorf</skos:prefLabel>
     <skos:altLabel>BSA</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Group</skos:definition>
     <cim:IdentifiedObject.mRID>11XSWBSA-------5</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Stadtwerke Bad Sooden-Allendorf</cim:IdentifiedObject.name>
     <cim:Names.name>BSA</cim:Names.name>
     <cim:Names.name>DE113056468</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Group</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2005-12-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Balance Group</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-20</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE113056468</schema:vatID>
   </skos:Concept>

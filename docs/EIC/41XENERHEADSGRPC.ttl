@@ -1,0 +1,27 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/41XENERHEADSGRPC> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-05-04" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description """Enerheads group, UAB    306994514    Draugystės g. 17-1, LT-51229, Kaunas  +37062223610    liudas.karalius@enerheads.com
+  """ ;
+    cim:IdentifiedObject.mRID "41XENERHEADSGRPC" ;
+    cim:IdentifiedObject.name "Enerheads group, UAB" ;
+    cim:Names.name "306994514",
+        "Balance Responsible Party",
+        "ENERHEADSGROUP" ;
+    dcterms:identifier "urn:eic:41XENERHEADSGRPC" ;
+    schema1:vatID "306994514" ;
+    skos:altLabel "ENERHEADSGROUP" ;
+    skos:definition """Enerheads group, UAB    306994514    Draugystės g. 17-1, LT-51229, Kaunas  +37062223610    liudas.karalius@enerheads.com
+  """@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Enerheads group, UAB" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

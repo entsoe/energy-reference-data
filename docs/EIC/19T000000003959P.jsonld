@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T000000003959P",
-    "@skos:prefLabel": "Wielopole-AT-3",
+    "@skos:prefLabel": "400/220kV Wielopole AT3",
     "@skos:altLabel": "WIE-A3",
     "@cim:IdentifiedObject.mRID": "19T000000003959P",
-    "@cim:IdentifiedObject.name": "Wielopole-AT-3",
+    "@cim:IdentifiedObject.name": "400/220kV Wielopole AT3",
     "@cim:Names.name": [
         "WIE-A3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-30",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

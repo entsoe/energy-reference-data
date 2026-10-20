@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-15" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000064692" ;
-    cim:IdentifiedObject.name "Bujaków – Komorowice" ;
+    cim:IdentifiedObject.name "220kV Bujakow-Komorowice" ;
     cim:Names.name "3203",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000064692" ;
     skos:altLabel "3203" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Bujaków – Komorowice" ;
+    skos:prefLabel "220kV Bujakow-Komorowice" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

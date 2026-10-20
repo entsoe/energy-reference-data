@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18XOLEOH-12345-C</dcterms:identifier>
     <skos:prefLabel>OLEOHIDRAULICA FERRUZ S.A</skos:prefLabel>
     <skos:altLabel>OLEOH</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18XOLEOH-12345-C</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>OLEOHIDRAULICA FERRUZ S.A</cim:IdentifiedObject.name>
     <cim:Names.name>OLEOH</cim:Names.name>
     <cim:Names.name>ESA50036037</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-04-20</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA50036037</schema:vatID>

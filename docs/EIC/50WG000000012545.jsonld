@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG000000012545",
-    "@skos:prefLabel": "ORKDAL  G138 HYDRO",
-    "@skos:altLabel": "NO-ORKDAL__G138_",
+    "@skos:prefLabel": "GRANA   G138 HYDRO",
+    "@skos:altLabel": "NO-GRANAG138",
     "@cim:IdentifiedObject.mRID": "50WG000000012545",
-    "@cim:IdentifiedObject.name": "ORKDAL  G138 HYDRO",
+    "@cim:IdentifiedObject.name": "GRANA   G138 HYDRO",
     "@cim:Names.name": [
-        "NO-ORKDAL__G138_",
+        "NO-GRANAG138",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-08-28",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

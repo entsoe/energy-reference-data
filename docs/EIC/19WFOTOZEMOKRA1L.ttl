@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19WFOTOZEMOKRA1L> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19WFOTOZEMOKRA1L" ;
+    cim:IdentifiedObject.name "FOTOZE SPÓŁKA AKCYJNA MOKRA1" ;
+    cim:Names.name "FOTOZE_SA_MOKRA1",
+        "Generation Unit" ;
+    dcterms:identifier "urn:eic:19WFOTOZEMOKRA1L" ;
+    skos:altLabel "FOTOZE_SA_MOKRA1" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "FOTOZE SPÓŁKA AKCYJNA MOKRA1" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

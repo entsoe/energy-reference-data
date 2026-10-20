@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XGKU-OE------T",
-    "@skos:prefLabel": "gemeinsames Kommunalunternehmen Oberes Egertal",
+    "@skos:prefLabel": "Gemeinsames Kommunalunternehmen oberes Egertal",
     "@skos:altLabel": "GKU-OE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XGKU-OE------T",
-    "@cim:IdentifiedObject.name": "gemeinsames Kommunalunternehmen Oberes Egertal",
+    "@cim:IdentifiedObject.name": "Gemeinsames Kommunalunternehmen oberes Egertal",
     "@cim:Names.name": [
         "GKU-OE",
-        "22311420317",
-        "Balance Group"
+        "DE251587792",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2007-06-19",
-    "@schema:vatID": "22311420317",
+    "@cim:DateAndOrTime.date": "2026-02-25",
+    "@schema:vatID": "DE251587792",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-07" ;
+    cim:DateAndOrTime.date "2024-10-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "56X930000120211Y" ;
-    cim:IdentifiedObject.name "LIMITED LIABILITY COMPANY “DCM Energy”" ;
+    cim:IdentifiedObject.name "“DCM Energy” LIMITED LIABILITY COMPANY" ;
     cim:Names.name "448123303187",
         "DCM_ENERGY",
         "Network User",
@@ -19,6 +19,6 @@
     schema1:vatID "448123303187" ;
     skos:altLabel "DCM_ENERGY" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "LIMITED LIABILITY COMPANY “DCM Energy”" ;
+    skos:prefLabel "“DCM Energy” LIMITED LIABILITY COMPANY" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

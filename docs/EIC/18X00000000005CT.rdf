@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000005CT</dcterms:identifier>
     <skos:prefLabel>EL RINCON DE CONVENIENCIA S.L</skos:prefLabel>
     <skos:altLabel>CONVE</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000005CT</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>EL RINCON DE CONVENIENCIA S.L</cim:IdentifiedObject.name>
     <cim:Names.name>CONVE</cim:Names.name>
     <cim:Names.name>ESB99344087</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-06-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB99344087</schema:vatID>

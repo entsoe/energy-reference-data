@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002941W",
-    "@skos:prefLabel": "M 66 Fillan-Vikstrøm",
-    "@skos:altLabel": "NO-FILLANVIKSTRO",
+    "@skos:prefLabel": "N 66 Fillan-Vikstrøm",
+    "@skos:altLabel": "NO-66FILLANVIKST",
     "@cim:IdentifiedObject.mRID": "50TL00000002941W",
-    "@cim:IdentifiedObject.name": "M 66 Fillan-Vikstrøm",
+    "@cim:IdentifiedObject.name": "N 66 Fillan-Vikstrøm",
     "@cim:Names.name": [
-        "NO-FILLANVIKSTRO",
+        "NO-66FILLANVIKST",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

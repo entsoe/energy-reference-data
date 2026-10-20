@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-07-22" ;
+    cim:DateAndOrTime.date "2026-05-12" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19X-KDT-ENERGY-4" ;
-    cim:IdentifiedObject.name "KDT K. KAŁUŻNY, D. PAJESTKA SPÓŁKA JAWNA" ;
-    cim:Names.name "Balance Responsible Party",
-        "KDT_SP_J",
+    cim:IdentifiedObject.name "2KTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "2KTRADE_SPZOO",
+        "Balance Responsible Party",
         "PL9542794171" ;
     dcterms:identifier "urn:eic:19X-KDT-ENERGY-4" ;
     schema1:vatID "PL9542794171" ;
-    skos:altLabel "KDT_SP_J" ;
+    skos:altLabel "2KTRADE_SPZOO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KDT K. KAŁUŻNY, D. PAJESTKA SPÓŁKA JAWNA" ;
+    skos:prefLabel "2KTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

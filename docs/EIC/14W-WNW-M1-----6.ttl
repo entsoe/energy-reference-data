@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-WNW-M1-----6" ;
     cim:IdentifiedObject.name "FHKW Neudorf/Werndorf-M1" ;
-    cim:Names.name "WNW-M1" ;
+    cim:Names.name "Generation Unit",
+        "WNW-M1" ;
     dcterms:identifier "urn:eic:14W-WNW-M1-----6" ;
     skos:altLabel "WNW-M1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

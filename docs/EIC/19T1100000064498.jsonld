@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T1100000064498",
-    "@skos:prefLabel": "220 kV Świebodzice – Boguszów",
+    "@skos:prefLabel": "220kV Boguszow-Swiebodzice",
     "@skos:altLabel": "4606",
     "@cim:IdentifiedObject.mRID": "19T1100000064498",
-    "@cim:IdentifiedObject.name": "220 kV Świebodzice – Boguszów",
+    "@cim:IdentifiedObject.name": "220kV Boguszow-Swiebodzice",
     "@cim:Names.name": [
         "4606",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-16",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

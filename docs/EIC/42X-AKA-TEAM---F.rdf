@@ -1,0 +1,22 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/42X-AKA-TEAM---F">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:42X-AKA-TEAM---F</dcterms:identifier>
+    <skos:prefLabel>AKA team s.r.o</skos:prefLabel>
+    <skos:altLabel>AKA_TEAM</skos:altLabel>
+    <skos:definition xml:lang="en">According to the documents submitted the by applicant the VAT code for the company has been approved and will be valid from 15.6.2026.</skos:definition>
+    <cim:IdentifiedObject.mRID>42X-AKA-TEAM---F</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>AKA team s.r.o</cim:IdentifiedObject.name>
+    <cim:Names.name>AKA_TEAM</cim:Names.name>
+    <cim:Names.name>SK2122148017</cim:Names.name>
+    <cim:IdentifiedObject.description>According to the documents submitted the by applicant the VAT code for the company has been approved and will be valid from 15.6.2026.</cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-06-15</cim:DateAndOrTime.date>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>SK2122148017</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

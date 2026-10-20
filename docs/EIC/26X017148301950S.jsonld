@@ -13,23 +13,18 @@
     },
     "@dcterms:identifier": "urn:eic:26X017148301950S",
     "@skos:prefLabel": "GREEN ENERGY FOR STEEL S.R.L.",
-    "@skos:altLabel": "IT_GREEN_ENERGY_",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "OBBLIGHI ACER"
-    },
+    "@skos:altLabel": "IT-GREENENERGYFO",
     "@cim:IdentifiedObject.mRID": "26X017148301950S",
     "@cim:IdentifiedObject.name": "GREEN ENERGY FOR STEEL S.R.L.",
     "@cim:Names.name": [
-        "IT_GREEN_ENERGY_",
-        "01714830195",
+        "IT-GREENENERGYFO",
+        "IT01714830195",
         "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "OBBLIGHI ACER",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-06-09",
-    "@schema:vatID": "01714830195",
+    "@cim:DateAndOrTime.date": "2026-08-24",
+    "@schema:vatID": "IT01714830195",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

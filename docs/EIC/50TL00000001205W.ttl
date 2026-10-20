@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001205W" ;
     cim:IdentifiedObject.name "S 420 Rød-Tveiten" ;
     cim:Names.name "Internal Line",
-        "NO-RODTVEITEN420" ;
+        "NO-420RODTVEITEN" ;
     dcterms:identifier "urn:eic:50TL00000001205W" ;
-    skos:altLabel "NO-RODTVEITEN420" ;
+    skos:altLabel "NO-420RODTVEITEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 420 Rød-Tveiten" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

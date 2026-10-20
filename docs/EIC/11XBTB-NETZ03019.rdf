@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XBTB-NETZ03019</dcterms:identifier>
-    <skos:prefLabel>BTB Blockheizkraftwerks- Tr&#228;ger- und Betreibergesellschaft mbH Berlin</skos:prefLabel>
+    <skos:prefLabel>BTB Energie GmbH</skos:prefLabel>
     <skos:altLabel>BTB_BERLIN</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XBTB-NETZ03019</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>BTB Blockheizkraftwerks- Tr&#228;ger- und Betreibergesellschaft mbH Berlin</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>BTB Energie GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>BTB_BERLIN</cim:Names.name>
     <cim:Names.name>DE136561825</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-05-11</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-07-03</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE136561825</schema:vatID>

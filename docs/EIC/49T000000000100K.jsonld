@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:49T000000000100K",
-    "@skos:prefLabel": "Eemshaven Oude Schip - Eemshaven Synergieweg wit",
-    "@skos:altLabel": "EOS-EHS-W",
+    "@skos:prefLabel": "Eemshaven Synergieweg-Eemshaven Oude Schip Wit",
+    "@skos:altLabel": "EHS-EOS380-W",
     "@skos:definition": {
         "@language": "en",
         "@value": "System Operator"
     },
     "@cim:IdentifiedObject.mRID": "49T000000000100K",
-    "@cim:IdentifiedObject.name": "Eemshaven Oude Schip - Eemshaven Synergieweg wit",
+    "@cim:IdentifiedObject.name": "Eemshaven Synergieweg-Eemshaven Oude Schip Wit",
     "@cim:Names.name": [
-        "EOS-EHS-W",
+        "EHS-EOS380-W",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-04-06",
+    "@cim:DateAndOrTime.date": "2026-10-19",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

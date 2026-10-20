@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001214B</dcterms:identifier>
     <skos:prefLabel>C&#229;rrajarvit</skos:prefLabel>
-    <skos:altLabel>NO-CARRAJARVIT_P</skos:altLabel>
+    <skos:altLabel>NO-CAARRAJARVIT</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001214B</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>C&#229;rrajarvit</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-CARRAJARVIT_P</cim:Names.name>
+    <cim:Names.name>NO-CAARRAJARVIT</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT00000005004T",
     "@skos:prefLabel": "S Hol 1    T1 Transformator",
-    "@skos:altLabel": "NO-HOL_1___T1",
+    "@skos:altLabel": "NO-HOL_1T1",
     "@cim:IdentifiedObject.mRID": "50TT00000005004T",
     "@cim:IdentifiedObject.name": "S Hol 1    T1 Transformator",
     "@cim:Names.name": [
-        "NO-HOL_1___T1",
+        "NO-HOL_1T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

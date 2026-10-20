@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001316O" ;
-    cim:IdentifiedObject.name "M Fjæremsf 66  T3 Forbruk" ;
+    cim:IdentifiedObject.name "N Fjæremsf 66  T3 Forbruk" ;
     cim:Names.name "Load",
         "NO-FJAREMSF66" ;
     dcterms:identifier "urn:eic:50WC00000001316O" ;
     skos:altLabel "NO-FJAREMSF66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Fjæremsf 66  T3 Forbruk" ;
+    skos:prefLabel "N Fjæremsf 66  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "18WGVITOL1-123-F" ;
     cim:IdentifiedObject.name "VITOL SA" ;
-    cim:Names.name "GVITOL1" ;
+    cim:Names.name "GVITOL1",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:18WGVITOL1-123-F" ;
     skos:altLabel "GVITOL1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

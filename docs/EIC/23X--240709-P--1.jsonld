@@ -1,0 +1,44 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/23X--240709-P--1",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:23X--240709-P--1",
+    "@skos:prefLabel": "PROMETHAN SA METHAN DISTRIBUTION STATIONS",
+    "@skos:altLabel": "PROMETHAN_MDS",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Company registration number confirmed by the official document of Greek Chamber of Commerce: 059163004000"
+    },
+    "@cim:IdentifiedObject.mRID": "23X--240709-P--1",
+    "@cim:IdentifiedObject.name": "PROMETHAN SA METHAN DISTRIBUTION STATIONS",
+    "@cim:Names.name": [
+        "PROMETHAN_MDS",
+        "EL997993041",
+        "LNG System Operator",
+        "Network User",
+        "Trade Responsible Party"
+    ],
+    "@cim:IdentifiedObject.description": "Company registration number confirmed by the official document of Greek Chamber of Commerce: 059163004000",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2024-07-09",
+    "@schema:vatID": "EL997993041",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000005865" ;
     cim:IdentifiedObject.name "S 132 Rendalen-Savalen" ;
     cim:Names.name "Internal Line",
-        "NO-RENDALENSAVAL" ;
+        "NO-132RENDALENSA" ;
     dcterms:identifier "urn:eic:50TLI00000005865" ;
-    skos:altLabel "NO-RENDALENSAVAL" ;
+    skos:altLabel "NO-132RENDALENSA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Rendalen-Savalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

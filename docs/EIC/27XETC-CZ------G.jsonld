@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:27XETC-CZ------G",
-    "@skos:prefLabel": "ETC-Energy Trading, s.r.o.",
-    "@skos:altLabel": "ETC-CZ------",
+    "@skos:prefLabel": "EIFlexi, s. r. o.",
+    "@skos:altLabel": "EIFLEXI_ETC",
     "@skos:definition": {
         "@language": "en",
         "@value": "Electricity Trading"
     },
     "@cim:IdentifiedObject.mRID": "27XETC-CZ------G",
-    "@cim:IdentifiedObject.name": "ETC-Energy Trading, s.r.o.",
+    "@cim:IdentifiedObject.name": "EIFlexi, s. r. o.",
     "@cim:Names.name": [
-        "ETC-CZ------",
+        "EIFLEXI_ETC",
         "CZ27678849",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Electricity Trading",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-02-15",
     "@schema:vatID": "CZ27678849",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

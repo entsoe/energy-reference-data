@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000000374E",
-    "@skos:prefLabel": "S 132 Hydro_2-Knardalstrand8",
-    "@skos:altLabel": "NO-HYDRO2KNARDA8",
+    "@skos:prefLabel": "S 132 Herøya_2-Knardalstrand8",
+    "@skos:altLabel": "NO-132HEROYRAND8",
     "@cim:IdentifiedObject.mRID": "50TL00000000374E",
-    "@cim:IdentifiedObject.name": "S 132 Hydro_2-Knardalstrand8",
+    "@cim:IdentifiedObject.name": "S 132 Herøya_2-Knardalstrand8",
     "@cim:Names.name": [
-        "NO-HYDRO2KNARDA8",
+        "NO-132HEROYRAND8",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

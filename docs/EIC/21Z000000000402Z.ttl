@@ -7,17 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-06-04" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Connection Point With Gas Storage" ;
     cim:IdentifiedObject.mRID "21Z000000000402Z" ;
-    cim:IdentifiedObject.name "Fronhofen" ;
-    cim:Names.name "SP_FRONHOFEN",
-        "Valid EIC Function needed" ;
+    cim:IdentifiedObject.name "Speicher Fronhofen" ;
+    cim:Names.name "Accounting Point",
+        "SP_FRONHOFEN" ;
     dcterms:identifier "urn:eic:21Z000000000402Z" ;
     skos:altLabel "SP_FRONHOFEN" ;
-    skos:definition "Connection Point With Gas Storage"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Fronhofen" ;
+    skos:prefLabel "Speicher Fronhofen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

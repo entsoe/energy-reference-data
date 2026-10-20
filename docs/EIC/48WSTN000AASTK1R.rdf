@@ -5,13 +5,16 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:48WSTN000AASTK1R</dcterms:identifier>
     <skos:prefLabel>AG-ASTK01</skos:prefLabel>
-    <skos:altLabel>AG-ASTK01</skos:altLabel>
+    <skos:altLabel>ASTK01</skos:altLabel>
+    <skos:definition xml:lang="en">W Unit Code </skos:definition>
     <cim:IdentifiedObject.mRID>48WSTN000AASTK1R</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>AG-ASTK01</cim:IdentifiedObject.name>
-    <cim:Names.name>AG-ASTK01</cim:Names.name>
+    <cim:Names.name>ASTK01</cim:Names.name>
+    <cim:IdentifiedObject.description>W Unit Code </cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-02-22</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-13</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

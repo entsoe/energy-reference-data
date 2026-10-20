@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000001091M",
-    "@skos:prefLabel": "N Smelror  22  BX Forbruk",
-    "@skos:altLabel": "NO-SMELROR22BX",
+    "@skos:prefLabel": "N Smelror  22  Bs Forbruk",
+    "@skos:altLabel": "NO-SMELROR22BS",
     "@cim:IdentifiedObject.mRID": "50WC00000001091M",
-    "@cim:IdentifiedObject.name": "N Smelror  22  BX Forbruk",
+    "@cim:IdentifiedObject.name": "N Smelror  22  Bs Forbruk",
     "@cim:Names.name": [
-        "NO-SMELROR22BX",
+        "NO-SMELROR22BS",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-11-15" ;
+    cim:DateAndOrTime.date "2026-04-20" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T1100000068167" ;
-    cim:IdentifiedObject.name "400 kV Mikułowa-Świebodzice 1" ;
+    cim:IdentifiedObject.name "400kV Mikulowa-Swiebodzice 1" ;
     cim:Names.name "H011",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T1100000068167" ;
     skos:altLabel "H011" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "400 kV Mikułowa-Świebodzice 1" ;
+    skos:prefLabel "400kV Mikulowa-Swiebodzice 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

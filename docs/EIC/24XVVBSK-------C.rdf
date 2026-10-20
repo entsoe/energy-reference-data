@@ -14,8 +14,9 @@
     <cim:IdentifiedObject.description>Produce And Distribution (Sk: Prevydzkovanie Vodnych Diel, Vyroba, Prenos, Distrib&#259;&#351;cia A Dodyvka Elektriny, In&#382;iniersko-Investorsky &#268;innos&#314;&#261;)</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-05-14</cim:DateAndOrTime.date>
+    <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>SK2020480198</schema:vatID>
   </skos:Concept>

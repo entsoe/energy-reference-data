@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG000000024306</dcterms:identifier>
     <skos:prefLabel>SELBU   G101 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-SELBU___G101_</skos:altLabel>
+    <skos:altLabel>NO-SELBUG101</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG000000024306</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SELBU   G101 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-SELBU___G101_</cim:Names.name>
+    <cim:Names.name>NO-SELBUG101</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

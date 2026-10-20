@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/41WPIRMVJE1SILTQ">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:41WPIRMVJE1SILTQ</dcterms:identifier>
+    <skos:prefLabel>PIRMASVEJASVE E4 V&#279;jo  elektrin&#279;</skos:prefLabel>
+    <skos:altLabel>PIRMASVEJASVESIL</skos:altLabel>
+    <skos:definition xml:lang="en">Gaideli&#371; k., &#352;ilut&#279;s r. sav., &#382;em&#279;s sklyp&#371; kadastro Nr. 8840/0004:567, Nr. 8840/0004:578.    L-6971/2025-02-28   </skos:definition>
+    <cim:IdentifiedObject.mRID>41WPIRMVJE1SILTQ</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>PIRMASVEJASVE E4 V&#279;jo  elektrin&#279;</cim:IdentifiedObject.name>
+    <cim:Names.name>PIRMASVEJASVESIL</cim:Names.name>
+    <cim:IdentifiedObject.description>Gaideli&#371; k., &#352;ilut&#279;s r. sav., &#382;em&#279;s sklyp&#371; kadastro Nr. 8840/0004:567, Nr. 8840/0004:578.    L-6971/2025-02-28   </cim:IdentifiedObject.description>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2026-10-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Production Unit</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+  </skos:Concept>
+</rdf:RDF>

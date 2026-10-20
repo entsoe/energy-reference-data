@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC000000012200",
-    "@skos:prefLabel": "M Funna    22  Forbruk",
-    "@skos:altLabel": "NO-FUNNA22",
+    "@skos:prefLabel": "N Funna    22  Gu1 Forbruk",
+    "@skos:altLabel": "NO-FUNNA22GU1",
     "@cim:IdentifiedObject.mRID": "50WC000000012200",
-    "@cim:IdentifiedObject.name": "M Funna    22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Funna    22  Gu1 Forbruk",
     "@cim:Names.name": [
-        "NO-FUNNA22",
+        "NO-FUNNA22GU1",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

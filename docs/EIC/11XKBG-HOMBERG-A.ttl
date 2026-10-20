@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-02-16" ;
+    cim:DateAndOrTime.date "2023-12-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XKBG-HOMBERG-A" ;
-    cim:IdentifiedObject.name "KBG Homberg eG-Energiehandel" ;
+    cim:IdentifiedObject.name "KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G." ;
     cim:Names.name "Balance Responsible Party",
         "DE113058332",
         "KBG-HOMBERG_HAND" ;
@@ -18,6 +18,6 @@
     schema1:vatID "DE113058332" ;
     skos:altLabel "KBG-HOMBERG_HAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "KBG Homberg eG-Energiehandel" ;
+    skos:prefLabel "KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

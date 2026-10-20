@@ -12,23 +12,24 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19XGE-ENEA-SA--Q",
-    "@skos:prefLabel": "ENEA SPOLKA AKCYJNA",
+    "@skos:prefLabel": "ENEA SPÓŁKA AKCYJNA",
     "@skos:altLabel": "ENEA_SA",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Balance Responsible Party"
+        "@value": "Hasło: Ene@2024_EIC"
     },
     "@cim:IdentifiedObject.mRID": "19XGE-ENEA-SA--Q",
-    "@cim:IdentifiedObject.name": "ENEA SPOLKA AKCYJNA",
+    "@cim:IdentifiedObject.name": "ENEA SPÓŁKA AKCYJNA",
     "@cim:Names.name": [
         "ENEA_SA",
         "PL7770020640",
-        "Balance Responsible Party"
+        "Balance Responsible Party",
+        "Energy Supplier"
     ],
-    "@cim:IdentifiedObject.description": "Balance Responsible Party",
+    "@cim:IdentifiedObject.description": "Hasło: Ene@2024_EIC",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-10-01",
+    "@cim:DateAndOrTime.date": "2024-02-13",
     "@schema:vatID": "PL7770020640",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-09-23" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWOERLINGH--G" ;
     cim:IdentifiedObject.name "Stadtwerke Oerlinghausen GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE124617857",
         "SWOERLINGHAUSEN" ;
     dcterms:identifier "urn:eic:11XSWOERLINGH--G" ;
     schema1:vatID "DE124617857" ;
     skos:altLabel "SWOERLINGHAUSEN" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Stadtwerke Oerlinghausen GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

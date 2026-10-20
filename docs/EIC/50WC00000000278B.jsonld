@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000278B",
-    "@skos:prefLabel": "S Hydro_4  132 T42 Industri",
-    "@skos:altLabel": "NO-HYD_4132T42NC",
+    "@skos:prefLabel": "S Herøya 4 132 T42 Industri",
+    "@skos:altLabel": "NO-HEROYA_4T42NC",
     "@cim:IdentifiedObject.mRID": "50WC00000000278B",
-    "@cim:IdentifiedObject.name": "S Hydro_4  132 T42 Industri",
+    "@cim:IdentifiedObject.name": "S Herøya 4 132 T42 Industri",
     "@cim:Names.name": [
-        "NO-HYD_4132T42NC",
+        "NO-HEROYA_4T42NC",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

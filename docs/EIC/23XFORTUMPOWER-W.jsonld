@@ -16,18 +16,22 @@
     "@skos:altLabel": "FORTUMPOWER",
     "@skos:definition": {
         "@language": "en",
-        "@value": "Trader"
+        "@value": "Company registration number: 0109160-2 confirmed by the extract from the trade register"
     },
     "@cim:IdentifiedObject.mRID": "23XFORTUMPOWER-W",
     "@cim:IdentifiedObject.name": "Fortum Power & Heat OY",
     "@cim:Names.name": [
         "FORTUMPOWER",
-        "Valid EIC Function needed"
+        "A0001899F.FI",
+        "FI01091602",
+        "Balance Responsible Party",
+        "Balancing Service Provider"
     ],
-    "@cim:IdentifiedObject.description": "Trader",
+    "@cim:IdentifiedObject.description": "Company registration number: 0109160-2 confirmed by the extract from the trade register",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2025-04-15",
+    "@schema:vatID": "FI01091602",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

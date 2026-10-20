@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000021688" ;
-    cim:IdentifiedObject.name "S Hovinmoe 66  T2 Forbruk" ;
+    cim:IdentifiedObject.name "S Hovinmoe 66  T3 Forbruk" ;
     cim:Names.name "Load",
-        "NO-HOVINMOE66T2" ;
+        "NO-HOVINMOE66T3" ;
     dcterms:identifier "urn:eic:50WC000000021688" ;
-    skos:altLabel "NO-HOVINMOE66T2" ;
+    skos:altLabel "NO-HOVINMOE66T3" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hovinmoe 66  T2 Forbruk" ;
+    skos:prefLabel "S Hovinmoe 66  T3 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

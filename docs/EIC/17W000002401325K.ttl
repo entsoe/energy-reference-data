@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000002401325K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-08" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "BESS Enfant (C.HOU)" ;
+    cim:IdentifiedObject.mRID "17W000002401325K" ;
+    cim:IdentifiedObject.name "STOCKAGE N0 01 DE CHENE-HOUPETTE" ;
+    cim:Names.name "BESS",
+        "FR_C-HOUS01" ;
+    dcterms:identifier "urn:eic:17W000002401325K" ;
+    skos:altLabel "FR_C-HOUS01" ;
+    skos:definition "BESS Enfant (C.HOU)"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "STOCKAGE N0 01 DE CHENE-HOUPETTE" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

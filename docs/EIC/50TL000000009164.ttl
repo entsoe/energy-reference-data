@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000009164" ;
-    cim:IdentifiedObject.name "M 22 Nørve-Grautnes" ;
+    cim:IdentifiedObject.name "N 22 Holen RM-Grautnes" ;
     cim:Names.name "Internal Line",
-        "NO-NORVEGRAUTNES" ;
+        "NO-22HOLENRMGRAU" ;
     dcterms:identifier "urn:eic:50TL000000009164" ;
-    skos:altLabel "NO-NORVEGRAUTNES" ;
+    skos:altLabel "NO-22HOLENRMGRAU" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Nørve-Grautnes" ;
+    skos:prefLabel "N 22 Holen RM-Grautnes" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "balance group" ;
     cim:IdentifiedObject.mRID "11XSEMPRA-GREENC" ;
     cim:IdentifiedObject.name "Mercuria Energy Europe Trading Limited" ;
-    cim:Names.name "DE203795568",
-        "SEMPRA_GREEN",
-        "balance group" ;
+    cim:Names.name "Balance Group Responsible Party",
+        "DE203795568",
+        "SEMPRA_GREEN" ;
     dcterms:identifier "urn:eic:11XSEMPRA-GREENC" ;
     schema1:vatID "DE203795568" ;
     skos:altLabel "SEMPRA_GREEN" ;

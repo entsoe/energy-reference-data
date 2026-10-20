@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002440H" ;
-    cim:IdentifiedObject.name "M Litjfoss 132 B1 X" ;
+    cim:IdentifiedObject.name "N Litjfoss 132 B1 X" ;
     cim:Names.name "Internal Line",
         "NO-LITJFOSS132B1" ;
     dcterms:identifier "urn:eic:50TL00000002440H" ;
     skos:altLabel "NO-LITJFOSS132B1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Litjfoss 132 B1 X" ;
+    skos:prefLabel "N Litjfoss 132 B1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2023-03-13" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2025-01-08" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Consumer" ;
     cim:IdentifiedObject.mRID "37X0000000002697" ;
     cim:IdentifiedObject.name "Mercer Stendal GmbH" ;
-    cim:Names.name "DE180526341",
+    cim:Names.name "Consumer",
+        "DE180526341",
         "MERCER_STENDAL_G" ;
     dcterms:identifier "urn:eic:37X0000000002697" ;
     schema1:vatID "DE180526341" ;

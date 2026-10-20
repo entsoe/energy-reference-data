@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/26X0678506048107> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "26X0678506048107" ;
+    cim:IdentifiedObject.name "TERA SOCIETA' BENEFIT S.R.L." ;
+    cim:Names.name "IT-TERASOCIETABE",
+        "IT06785060481",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:26X0678506048107" ;
+    schema1:vatID "IT06785060481" ;
+    skos:altLabel "IT-TERASOCIETABE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "TERA SOCIETA' BENEFIT S.R.L." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

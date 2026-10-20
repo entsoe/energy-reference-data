@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-11-05" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006700Q" ;
-    cim:IdentifiedObject.name "Mory-Ołtarzew" ;
+    cim:IdentifiedObject.name "220kV Mory-Oltarzew 1" ;
     cim:Names.name "1011",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006700Q" ;
     skos:altLabel "1011" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Mory-Ołtarzew" ;
+    skos:prefLabel "220kV Mory-Oltarzew 1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

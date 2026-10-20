@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/16TLFAPNA2-----M> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-01" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "16TLFAPNA2-----M" ;
+    cim:IdentifiedObject.name "Ferreira do Alentejo-Panoias 2 400" ;
+    cim:Names.name "Internal Line",
+        "LFAPNA2" ;
+    dcterms:identifier "urn:eic:16TLFAPNA2-----M" ;
+    skos:altLabel "LFAPNA2" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Ferreira do Alentejo-Panoias 2 400" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

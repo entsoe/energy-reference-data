@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/55XBGITRADINGXXP> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-01-16" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "55XBGITRADINGXXP" ;
+    cim:IdentifiedObject.name "BGI Trading Limited" ;
+    cim:Names.name "BGIT",
+        "Balance Responsible Party",
+        "GB359679822" ;
+    dcterms:identifier "urn:eic:55XBGITRADINGXXP" ;
+    schema1:vatID "GB359679822" ;
+    skos:altLabel "BGIT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "BGI Trading Limited" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

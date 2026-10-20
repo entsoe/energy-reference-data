@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TLI00000019505" ;
-    cim:IdentifiedObject.name "M 66 Levanger-Skogn" ;
+    cim:IdentifiedObject.name "N 66 Levanger-Skogn" ;
     cim:Names.name "Internal Line",
-        "NO-LEVANGERSKOGN" ;
+        "NO-66LEVANGERSKO" ;
     dcterms:identifier "urn:eic:50TLI00000019505" ;
-    skos:altLabel "NO-LEVANGERSKOGN" ;
+    skos:altLabel "NO-66LEVANGERSKO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Levanger-Skogn" ;
+    skos:prefLabel "N 66 Levanger-Skogn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

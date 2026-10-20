@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XABRIL-12345-A",
     "@skos:prefLabel": "ABRIL, S.A.",
     "@skos:altLabel": "ABRIL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XABRIL-12345-A",
     "@cim:IdentifiedObject.name": "ABRIL, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA03020666",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2014-10-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA03020666",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

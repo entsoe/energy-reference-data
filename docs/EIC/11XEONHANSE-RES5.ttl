@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-28" ;
+    cim:DateAndOrTime.date "2024-07-16" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XEONHANSE-RES5" ;
-    cim:IdentifiedObject.name "Schleswig-Holstein Netz AG" ;
+    cim:IdentifiedObject.name "Schleswig-Holstein Netz GmbH" ;
     cim:Names.name "Balance Responsible Party",
-        "DE267393355",
+        "DE366371470",
         "EONHANSE-RES" ;
     dcterms:identifier "urn:eic:11XEONHANSE-RES5" ;
-    schema1:vatID "DE267393355" ;
+    schema1:vatID "DE366371470" ;
     skos:altLabel "EONHANSE-RES" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Schleswig-Holstein Netz AG" ;
+    skos:prefLabel "Schleswig-Holstein Netz GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

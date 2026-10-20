@@ -22,12 +22,12 @@
     "@cim:IdentifiedObject.name": "ROSIGNANO MARITTIMO",
     "@cim:Names.name": [
         "IT_34679002",
-        "Metering Point"
+        "Accounting Point"
     ],
     "@cim:IdentifiedObject.description": "Metering Point",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-14",
+    "@cim:DateAndOrTime.date": "2024-10-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

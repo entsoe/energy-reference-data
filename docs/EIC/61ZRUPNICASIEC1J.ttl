@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/61ZRUPNICASIEC1J> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-26" ;
+    cim:Document.docStatus "A03" ;
+    cim:IdentifiedObject.description "test" ;
+    cim:IdentifiedObject.mRID "61ZRUPNICASIEC1J" ;
+    cim:IdentifiedObject.name " SIA BOVO GAS" ;
+    cim:Names.name "BOVOGAS",
+        "Metering Point" ;
+    dcterms:identifier "urn:eic:61ZRUPNICASIEC1J" ;
+    skos:altLabel "BOVOGAS" ;
+    skos:definition "test"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel " SIA BOVO GAS" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:62X105879157725C",
-    "@skos:prefLabel": "TOV \"PIVDENNA ENERGOPOSTACHALNA KOMPANIIA\"",
-    "@skos:altLabel": "PIVDENNA_EK",
+    "@skos:prefLabel": "COMPANY LIMITED LIABILITY \"SOUTH ENERGY SUPPLY COMPANY\"",
+    "@skos:altLabel": "SESC_LTD",
     "@cim:IdentifiedObject.mRID": "62X105879157725C",
-    "@cim:IdentifiedObject.name": "TOV \"PIVDENNA ENERGOPOSTACHALNA KOMPANIIA\"",
+    "@cim:IdentifiedObject.name": "COMPANY LIMITED LIABILITY \"SOUTH ENERGY SUPPLY COMPANY\"",
     "@cim:Names.name": [
-        "PIVDENNA_EK",
+        "SESC_LTD",
         "423518015517",
         "Consumption Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-05-09",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@schema:vatID": "423518015517",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

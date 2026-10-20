@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000004685L" ;
     cim:IdentifiedObject.name "N Eid SFE  T1 Transformator" ;
-    cim:Names.name "NO-EID_SFE_T1",
+    cim:Names.name "NO-EID_SFET1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000004685L" ;
-    skos:altLabel "NO-EID_SFE_T1" ;
+    skos:altLabel "NO-EID_SFET1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Eid SFE  T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

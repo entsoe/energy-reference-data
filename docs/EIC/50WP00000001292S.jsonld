@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001292S",
     "@skos:prefLabel": "Morkenfoss",
-    "@skos:altLabel": "NO-MORKENFOSS_PL",
+    "@skos:altLabel": "NO-MORKENFOSS",
     "@cim:IdentifiedObject.mRID": "50WP00000001292S",
     "@cim:IdentifiedObject.name": "Morkenfoss",
     "@cim:Names.name": [
-        "NO-MORKENFOSS_PL",
+        "NO-MORKENFOSS",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

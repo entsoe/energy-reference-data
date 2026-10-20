@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:15XVPPPV-----MAU",
-    "@skos:prefLabel": "VPP Energiakereskedő Kft.",
+    "@skos:prefLabel": "VPP Energiakereskedő és Üzemeltető Kft.",
     "@skos:altLabel": "VPPE",
     "@cim:IdentifiedObject.mRID": "15XVPPPV-----MAU",
-    "@cim:IdentifiedObject.name": "VPP Energiakereskedő Kft.",
+    "@cim:IdentifiedObject.name": "VPP Energiakereskedő és Üzemeltető Kft.",
     "@cim:Names.name": [
         "VPPE",
         "HU29209741",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-06-13",
+    "@cim:DateAndOrTime.date": "2026-02-02",
     "@schema:vatID": "HU29209741",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

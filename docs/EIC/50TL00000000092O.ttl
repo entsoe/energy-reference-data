@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000092O" ;
     cim:IdentifiedObject.name "S 132 Akersmyra-Sundland" ;
     cim:Names.name "Internal Line",
-        "NO-AKERSMYRASUND" ;
+        "NO-132AKERSMYRAS" ;
     dcterms:identifier "urn:eic:50TL00000000092O" ;
-    skos:altLabel "NO-AKERSMYRASUND" ;
+    skos:altLabel "NO-132AKERSMYRAS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Akersmyra-Sundland" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

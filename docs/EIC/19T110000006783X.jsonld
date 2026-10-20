@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006783X",
-    "@skos:prefLabel": "Halemba-Punkt Rozgałęźny XHB",
+    "@skos:prefLabel": "220kV Halemba-Punkt Rozgalezny XHB",
     "@skos:altLabel": "3004B",
     "@cim:IdentifiedObject.mRID": "19T110000006783X",
-    "@cim:IdentifiedObject.name": "Halemba-Punkt Rozgałęźny XHB",
+    "@cim:IdentifiedObject.name": "220kV Halemba-Punkt Rozgalezny XHB",
     "@cim:Names.name": [
         "3004B",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

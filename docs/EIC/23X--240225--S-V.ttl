@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/23X--240225--S-V> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Sempra LNG International LLC, compny registration number: 4430993, registerd in Delaware, USA, confirmed by certificate from the state Delaware." ;
+    cim:IdentifiedObject.mRID "23X--240225--S-V" ;
+    cim:IdentifiedObject.name "Sempra LNG International LLC" ;
+    cim:Names.name "450579084",
+        "SEMPRA_LNG_INT",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:23X--240225--S-V" ;
+    schema1:vatID "450579084" ;
+    skos:altLabel "SEMPRA_LNG_INT" ;
+    skos:definition "Sempra LNG International LLC, compny registration number: 4430993, registerd in Delaware, USA, confirmed by certificate from the state Delaware."@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Sempra LNG International LLC" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

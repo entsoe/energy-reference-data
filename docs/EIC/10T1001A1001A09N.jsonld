@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/10T1001A1001A09N",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:10T1001A1001A09N",
+    "@skos:prefLabel": "Interconnector Dobrzeń-Dětmarovice",
+    "@skos:altLabel": "DBN-DET",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Crossborder Interconnector Dobrzeń-Dětmarovice"
+    },
+    "@cim:IdentifiedObject.mRID": "10T1001A1001A09N",
+    "@cim:IdentifiedObject.name": "Interconnector Dobrzeń-Dětmarovice",
+    "@cim:Names.name": [
+        "DBN-DET",
+        "Tieline"
+    ],
+    "@cim:IdentifiedObject.description": "Crossborder Interconnector Dobrzeń-Dětmarovice",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2023-12-13",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

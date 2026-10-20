@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:38T-L511-----Q-T",
-    "@skos:prefLabel": "L511 Aruküla-Balti EJ",
-    "@skos:altLabel": "L511_ARUK_BALTI",
+    "@skos:prefLabel": "L511 Balti-Koljala",
+    "@skos:altLabel": "L511_BALTI_KLJLA",
     "@cim:IdentifiedObject.mRID": "38T-L511-----Q-T",
-    "@cim:IdentifiedObject.name": "L511 Aruküla-Balti EJ",
+    "@cim:IdentifiedObject.name": "L511 Balti-Koljala",
     "@cim:Names.name": [
-        "L511_ARUK_BALTI",
+        "L511_BALTI_KLJLA",
         "Internal Tie-Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-03-17",
+    "@cim:DateAndOrTime.date": "2026-09-18",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XFENIEENERGIAX",
-    "@skos:prefLabel": "FENIE ENERGIA",
+    "@skos:prefLabel": "FENIE ENERGIA, S.A.",
     "@skos:altLabel": "FEN",
     "@cim:IdentifiedObject.mRID": "18XFENIEENERGIAX",
-    "@cim:IdentifiedObject.name": "FENIE ENERGIA",
+    "@cim:IdentifiedObject.name": "FENIE ENERGIA, S.A.",
     "@cim:Names.name": [
         "FEN",
         "ESA85908036",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-01",
+    "@cim:DateAndOrTime.date": "2026-10-14",
     "@schema:vatID": "ESA85908036",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

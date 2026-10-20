@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000001290F",
-    "@skos:prefLabel": "S 47Brogata-Kråkerøy2",
-    "@skos:altLabel": "NO-BROGATAKRAKE2",
+    "@skos:prefLabel": "S 47Brogata-Kråkerøy3",
+    "@skos:altLabel": "NO-47BROGATEROY3",
     "@cim:IdentifiedObject.mRID": "50TL00000001290F",
-    "@cim:IdentifiedObject.name": "S 47Brogata-Kråkerøy2",
+    "@cim:IdentifiedObject.name": "S 47Brogata-Kråkerøy3",
     "@cim:Names.name": [
-        "NO-BROGATAKRAKE2",
+        "NO-47BROGATEROY3",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2026-05-22",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

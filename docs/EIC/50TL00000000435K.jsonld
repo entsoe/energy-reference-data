@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000435K",
     "@skos:prefLabel": "N 132 Kvænangen-Nordreisa-2",
-    "@skos:altLabel": "NO-KVANANGENNOR2",
+    "@skos:altLabel": "NO-132KVANANGENN",
     "@cim:IdentifiedObject.mRID": "50TL00000000435K",
     "@cim:IdentifiedObject.name": "N 132 Kvænangen-Nordreisa-2",
     "@cim:Names.name": [
-        "NO-KVANANGENNOR2",
+        "NO-132KVANANGENN",
         "Internal Line"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

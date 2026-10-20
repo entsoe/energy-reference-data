@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002710E" ;
     cim:IdentifiedObject.name "N 22 Nygård-Sirkelvann" ;
     cim:Names.name "Internal Line",
-        "NO-NYGAARDSIRKEL" ;
+        "NO-22NYGAARDSIRK" ;
     dcterms:identifier "urn:eic:50TL00000002710E" ;
-    skos:altLabel "NO-NYGAARDSIRKEL" ;
+    skos:altLabel "NO-22NYGAARDSIRK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N 22 Nygård-Sirkelvann" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

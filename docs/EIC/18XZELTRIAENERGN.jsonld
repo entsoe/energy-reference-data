@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XZELTRIAENERGN",
-    "@skos:prefLabel": "ZELTRIA ENERGIA",
+    "@skos:prefLabel": "ZELTRIA ENERGIA SL",
     "@skos:altLabel": "ZELTR",
     "@cim:IdentifiedObject.mRID": "18XZELTRIAENERGN",
-    "@cim:IdentifiedObject.name": "ZELTRIA ENERGIA",
+    "@cim:IdentifiedObject.name": "ZELTRIA ENERGIA SL",
     "@cim:Names.name": [
         "ZELTR",
         "ESB73727927",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-10-14",
+    "@cim:DateAndOrTime.date": "2026-06-17",
     "@schema:vatID": "ESB73727927",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

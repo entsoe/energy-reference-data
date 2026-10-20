@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-03-17" ;
+    cim:DateAndOrTime.date "2026-09-18" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "38T-L511-----Q-T" ;
-    cim:IdentifiedObject.name "L511 Aruküla-Balti EJ" ;
+    cim:IdentifiedObject.name "L511 Balti-Koljala" ;
     cim:Names.name "Internal Tie-Line",
-        "L511_ARUK_BALTI" ;
+        "L511_BALTI_KLJLA" ;
     dcterms:identifier "urn:eic:38T-L511-----Q-T" ;
-    skos:altLabel "L511_ARUK_BALTI" ;
+    skos:altLabel "L511_BALTI_KLJLA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "L511 Aruküla-Balti EJ" ;
+    skos:prefLabel "L511 Balti-Koljala" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

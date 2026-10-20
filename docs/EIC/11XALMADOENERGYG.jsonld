@@ -12,10 +12,10 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11XALMADOENERGYG",
-    "@skos:prefLabel": "365 AG",
+    "@skos:prefLabel": "Rheinische Elektrizitäts- und Gasversorgungsgesellschaft mbH",
     "@skos:altLabel": "ALMADO",
     "@cim:IdentifiedObject.mRID": "11XALMADOENERGYG",
-    "@cim:IdentifiedObject.name": "365 AG",
+    "@cim:IdentifiedObject.name": "Rheinische Elektrizitäts- und Gasversorgungsgesellschaft mbH",
     "@cim:Names.name": [
         "ALMADO",
         "DE212755674",
@@ -23,7 +23,7 @@
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-02-16",
+    "@cim:DateAndOrTime.date": "2025-05-14",
     "@schema:vatID": "DE212755674",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

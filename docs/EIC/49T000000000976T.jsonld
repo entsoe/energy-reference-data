@@ -1,0 +1,40 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/49T000000000976T",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:49T000000000976T",
+    "@skos:prefLabel": "Hollandse Kust West Alpha 220kV ADE20",
+    "@skos:altLabel": "HWA-D1-D102",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "System Operator"
+    },
+    "@cim:IdentifiedObject.mRID": "49T000000000976T",
+    "@cim:IdentifiedObject.name": "Hollandse Kust West Alpha 220kV ADE20",
+    "@cim:Names.name": [
+        "HWA-D1-D102",
+        "Busbar Coupler"
+    ],
+    "@cim:IdentifiedObject.description": "System Operator",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-07-24",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

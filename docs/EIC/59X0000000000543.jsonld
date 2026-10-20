@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:59X0000000000543",
-    "@skos:prefLabel": "UNOGAS ENERGIA SPA",
-    "@skos:altLabel": "UNOGAS",
+    "@skos:prefLabel": "UNOENERGY SPA",
+    "@skos:altLabel": "UNOENERGYSPA",
     "@skos:definition": {
         "@language": "en",
         "@value": "Balance Responsible Party"
     },
     "@cim:IdentifiedObject.mRID": "59X0000000000543",
-    "@cim:IdentifiedObject.name": "UNOGAS ENERGIA SPA",
+    "@cim:IdentifiedObject.name": "UNOENERGY SPA",
     "@cim:Names.name": [
-        "UNOGAS",
+        "UNOENERGYSPA",
         "IT01368720080",
         "Balance Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-04-14",
+    "@cim:DateAndOrTime.date": "2025-11-17",
     "@schema:vatID": "IT01368720080",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

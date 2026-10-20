@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11W0-0000-0831-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-12-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11W0-0000-0831-5" ;
+    cim:IdentifiedObject.name "E-Kessel Karoline" ;
+    cim:Names.name "EK_KAROLINE",
+        "Load" ;
+    dcterms:identifier "urn:eic:11W0-0000-0831-5" ;
+    skos:altLabel "EK_KAROLINE" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "E-Kessel Karoline" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

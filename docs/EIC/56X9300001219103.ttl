@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/56X9300001219103> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-26" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "56X9300001219103" ;
+    cim:IdentifiedObject.name "S.TRADES LIMITED LIABILITY COMPANY" ;
+    cim:Names.name "7011151427",
+        "Network User",
+        "S_TRADES_SP",
+        "Trade Responsible Party" ;
+    dcterms:identifier "urn:eic:56X9300001219103" ;
+    schema1:vatID "7011151427" ;
+    skos:altLabel "S_TRADES_SP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "S.TRADES LIMITED LIABILITY COMPANY" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

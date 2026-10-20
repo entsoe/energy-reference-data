@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000458V",
     "@skos:prefLabel": "FORTUN  G2      HYDRO",
-    "@skos:altLabel": "NO-FORTUN__G2___",
+    "@skos:altLabel": "NO-FORTUNG2",
     "@cim:IdentifiedObject.mRID": "50WG00000000458V",
     "@cim:IdentifiedObject.name": "FORTUN  G2      HYDRO",
     "@cim:Names.name": [
-        "NO-FORTUN__G2___",
+        "NO-FORTUNG2",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

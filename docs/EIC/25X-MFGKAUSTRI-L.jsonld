@@ -12,23 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25X-MFGKAUSTRI-L",
-    "@skos:prefLabel": "MFGK Austria GmbH",
+    "@skos:prefLabel": "MVM ONEnergy Austria GmbH",
     "@skos:altLabel": "MFGKAUSTRIA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "25X-MFGKAUSTRI-L",
-    "@cim:IdentifiedObject.name": "MFGK Austria GmbH",
+    "@cim:IdentifiedObject.name": "MVM ONEnergy Austria GmbH",
     "@cim:Names.name": [
         "MFGKAUSTRIA",
         "ATU69204327",
+        "Energy Supplier",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-01-19",
+    "@cim:DateAndOrTime.date": "2026-10-08",
     "@schema:vatID": "ATU69204327",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

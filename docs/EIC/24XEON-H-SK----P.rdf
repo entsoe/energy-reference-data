@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>24XEON-H-SK----P</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>E.ON Energy Trading AG, organizacna zlozka</cim:IdentifiedObject.name>
     <cim:Names.name>EON-OZ</cim:Names.name>
+    <cim:Names.name>n / a</cim:Names.name>
     <cim:IdentifiedObject.description>Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2020-05-13</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>n / a</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

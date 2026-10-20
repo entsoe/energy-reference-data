@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-12-03" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "n/a – IN platform will not issue or receive any invoices. Implementation of EB GL articles 22 & 22.1." ;
     cim:IdentifiedObject.mRID "10X1001C--00011U" ;
     cim:IdentifiedObject.name "European platform for imbalance netting" ;
     cim:Names.name "INPLATFORM",
+        "NA37",
         "Platform Operator" ;
     dcterms:identifier "urn:eic:10X1001C--00011U" ;
+    schema1:vatID "NA37" ;
     skos:altLabel "INPLATFORM" ;
     skos:definition "n/a – IN platform will not issue or receive any invoices. Implementation of EB GL articles 22 & 22.1."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

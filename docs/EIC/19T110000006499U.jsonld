@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006499U",
-    "@skos:prefLabel": "Gdańsk-Błonie-T1",
+    "@skos:prefLabel": "400/110kV Gdansk Blonie TR1",
     "@skos:altLabel": "GBL-T1",
     "@cim:IdentifiedObject.mRID": "19T110000006499U",
-    "@cim:IdentifiedObject.name": "Gdańsk-Błonie-T1",
+    "@cim:IdentifiedObject.name": "400/110kV Gdansk Blonie TR1",
     "@cim:Names.name": [
         "GBL-T1",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-11-05",
+    "@cim:DateAndOrTime.date": "2026-04-20",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

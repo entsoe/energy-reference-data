@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC00000001857R" ;
-    cim:IdentifiedObject.name "M Giskemo  2   LARM Last" ;
+    cim:IdentifiedObject.name "N Giskemo  2   L1  Forbruk" ;
     cim:Names.name "Load",
         "NO-GISKEMO2" ;
     dcterms:identifier "urn:eic:50WC00000001857R" ;
     skos:altLabel "NO-GISKEMO2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Giskemo  2   LARM Last" ;
+    skos:prefLabel "N Giskemo  2   L1  Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

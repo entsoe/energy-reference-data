@@ -12,18 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XLEVAN-12345-Y",
-    "@skos:prefLabel": "ACCIONA EÓLICA DEL LEVANTE, S.L.",
+    "@skos:prefLabel": "OPDENERGY EÓLICA DEL LEVANTE, S.L.",
     "@skos:altLabel": "LEVAN",
     "@cim:IdentifiedObject.mRID": "18XLEVAN-12345-Y",
-    "@cim:IdentifiedObject.name": "ACCIONA EÓLICA DEL LEVANTE, S.L.",
+    "@cim:IdentifiedObject.name": "OPDENERGY EÓLICA DEL LEVANTE, S.L.",
     "@cim:Names.name": [
         "LEVAN",
         "ESB97873905",
-        "Production Responsible party"
+        "Production Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-09-07",
+    "@cim:DateAndOrTime.date": "2026-03-31",
     "@schema:vatID": "ESB97873905",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

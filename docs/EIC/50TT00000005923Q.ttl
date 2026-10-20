@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005923Q" ;
-    cim:IdentifiedObject.name "M Tjønndal RT2 Transformator" ;
+    cim:IdentifiedObject.name "N Tjønndal RT2 Transformator" ;
     cim:Names.name "NO-TJONNDALRT2",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005923Q" ;
     skos:altLabel "NO-TJONNDALRT2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M Tjønndal RT2 Transformator" ;
+    skos:prefLabel "N Tjønndal RT2 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

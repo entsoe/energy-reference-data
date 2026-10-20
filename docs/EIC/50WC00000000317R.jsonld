@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000317R",
-    "@skos:prefLabel": "M Fauske   22  Forbruk",
-    "@skos:altLabel": "NO-FAUSKE22",
+    "@skos:prefLabel": "N Fauske   22  Forbruk 2",
+    "@skos:altLabel": "NO-FAUSKE222",
     "@cim:IdentifiedObject.mRID": "50WC00000000317R",
-    "@cim:IdentifiedObject.name": "M Fauske   22  Forbruk",
+    "@cim:IdentifiedObject.name": "N Fauske   22  Forbruk 2",
     "@cim:Names.name": [
-        "NO-FAUSKE22",
+        "NO-FAUSKE222",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-03-04",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XMARTA-12345-3",
-    "@skos:prefLabel": "Hidroelectrica Santa Marta, S.L.",
+    "@skos:prefLabel": "HIDROELÉCTRICA SANTA MARTA S.L.",
     "@skos:altLabel": "MARTA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XMARTA-12345-3",
-    "@cim:IdentifiedObject.name": "Hidroelectrica Santa Marta, S.L.",
+    "@cim:IdentifiedObject.name": "HIDROELÉCTRICA SANTA MARTA S.L.",
     "@cim:Names.name": [
         "MARTA",
-        "ESB588111980",
-        "Production Responsible party"
+        "ESB58111980",
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-06-10",
-    "@schema:vatID": "ESB588111980",
+    "@cim:DateAndOrTime.date": "2026-03-23",
+    "@schema:vatID": "ESB58111980",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

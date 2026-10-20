@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XPRSAT-12345-R",
     "@skos:prefLabel": "S.A.T. nº 9855 PRIMAFLOR",
     "@skos:altLabel": "PRSAT",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XPRSAT-12345-R",
     "@cim:IdentifiedObject.name": "S.A.T. nº 9855 PRIMAFLOR",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESV04256954",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-05-29",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESV04256954",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

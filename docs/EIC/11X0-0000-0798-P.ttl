@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11X0-0000-0798-P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-06" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11X0-0000-0798-P" ;
+    cim:IdentifiedObject.name "Energie Vorpommern GmbH" ;
+    cim:Names.name "BKV-STROM-EVP",
+        "Balance Responsible Party",
+        "DE158045768" ;
+    dcterms:identifier "urn:eic:11X0-0000-0798-P" ;
+    schema1:vatID "DE158045768" ;
+    skos:altLabel "BKV-STROM-EVP" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Energie Vorpommern GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

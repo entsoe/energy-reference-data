@@ -12,22 +12,22 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:46TAC0000000167I",
-    "@skos:prefLabel": "Porjus-Vietas",
-    "@skos:altLabel": "PORJUS-VIETAS",
+    "@skos:prefLabel": "Porjusberget-Vietas",
+    "@skos:altLabel": "PORJUSBER-VIETAS",
     "@skos:definition": {
         "@language": "en",
         "@value": "Internal Line"
     },
     "@cim:IdentifiedObject.mRID": "46TAC0000000167I",
-    "@cim:IdentifiedObject.name": "Porjus-Vietas",
+    "@cim:IdentifiedObject.name": "Porjusberget-Vietas",
     "@cim:Names.name": [
-        "PORJUS-VIETAS",
+        "PORJUSBER-VIETAS",
         "Internal Line"
     ],
     "@cim:IdentifiedObject.description": "Internal Line",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-01-01",
+    "@cim:DateAndOrTime.date": "2025-08-14",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

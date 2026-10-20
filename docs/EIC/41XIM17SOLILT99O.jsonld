@@ -1,0 +1,42 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/41XIM17SOLILT99O",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:41XIM17SOLILT99O",
+    "@skos:prefLabel": "UAB SOLI LT ",
+    "@skos:altLabel": "UABSOLILT",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Molėtų g. 38D, Didžioji Riešė, LT-14261 Vilniaus r.   \ninfo@ekoparkai.lt   Paulius Venslauskas    +37061840650    305590928"
+    },
+    "@cim:IdentifiedObject.mRID": "41XIM17SOLILT99O",
+    "@cim:IdentifiedObject.name": "UAB SOLI LT ",
+    "@cim:Names.name": [
+        "UABSOLILT",
+        "LT100017619913",
+        "Producer"
+    ],
+    "@cim:IdentifiedObject.description": "Molėtų g. 38D, Didžioji Riešė, LT-14261 Vilniaus r.   \ninfo@ekoparkai.lt   Paulius Venslauskas    +37061840650    305590928",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-10-05",
+    "@schema:vatID": "LT100017619913",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

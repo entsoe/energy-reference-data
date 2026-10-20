@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2025-01-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "23XB4DEESIDEP--7" ;
     cim:IdentifiedObject.name "Deeside Power Station" ;
     cim:Names.name "GB754043960",
         "INTLPWRDEESIDE",
-        "Valid EIC Function needed" ;
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:23XB4DEESIDEP--7" ;
     schema1:vatID "GB754043960" ;
     skos:altLabel "INTLPWRDEESIDE" ;

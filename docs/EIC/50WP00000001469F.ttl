@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001469F" ;
-    cim:IdentifiedObject.name "Saurdal" ;
-    cim:Names.name "NO-SAURDAL_PL",
+    cim:IdentifiedObject.name "Saurdal Pumpe" ;
+    cim:Names.name "NO-SAURDAL_PUMP",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001469F" ;
-    skos:altLabel "NO-SAURDAL_PL" ;
+    skos:altLabel "NO-SAURDAL_PUMP" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Saurdal" ;
+    skos:prefLabel "Saurdal Pumpe" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

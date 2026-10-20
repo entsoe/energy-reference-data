@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001636S" ;
-    cim:IdentifiedObject.name "MOSKOG  G166 HYDRO" ;
+    cim:IdentifiedObject.name "OVREBO  G166 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G166_" ;
+        "NO-OVREBOG166" ;
     dcterms:identifier "urn:eic:50WG00000001636S" ;
-    skos:altLabel "NO-MOSKOG__G166_" ;
+    skos:altLabel "NO-OVREBOG166" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G166 HYDRO" ;
+    skos:prefLabel "OVREBO  G166 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

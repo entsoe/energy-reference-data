@@ -19,14 +19,14 @@
     "@cim:Names.name": [
         "MONDI_SWIECIE",
         "PL5590000505",
-        "Producer",
+        "Balance Responsible Party",
         "Consumer",
-        "Metered Data Responsible",
         "Energy Supplier",
         "Meter Administrator",
+        "Producer",
         "System Operator",
-        "Balance Responsible Party",
-        "Grid Access Provider"
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

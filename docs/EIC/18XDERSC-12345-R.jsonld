@@ -12,24 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:18XDERSC-12345-R",
-    "@skos:prefLabel": "DEERS GREEN POWER DEVELOPMENT COMPANY, S.L.",
+    "@skos:prefLabel": "DEERS GREEN POWER DEVELOPMENT COMPANY S.A",
     "@skos:altLabel": "DERSC",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Production Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XDERSC-12345-R",
-    "@cim:IdentifiedObject.name": "DEERS GREEN POWER DEVELOPMENT COMPANY, S.L.",
+    "@cim:IdentifiedObject.name": "DEERS GREEN POWER DEVELOPMENT COMPANY S.A",
     "@cim:Names.name": [
         "DERSC",
-        "ESB99168643",
-        "Production Responsible party"
+        "ESA99168643",
+        "Production Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Production Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2011-12-02",
-    "@schema:vatID": "ESB99168643",
+    "@cim:DateAndOrTime.date": "2025-10-21",
+    "@schema:vatID": "ESA99168643",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

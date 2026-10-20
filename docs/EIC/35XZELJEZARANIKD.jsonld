@@ -12,25 +12,25 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:35XZELJEZARANIKD",
-    "@skos:prefLabel": "ZELJEZARA NIKSIC",
+    "@skos:prefLabel": "EPCG-Željezara Nikšić d.o.o.",
     "@skos:altLabel": "ZELJEZARANIK",
     "@skos:definition": {
         "@language": "en",
         "@value": "Steel Factory."
     },
     "@cim:IdentifiedObject.mRID": "35XZELJEZARANIKD",
-    "@cim:IdentifiedObject.name": "ZELJEZARA NIKSIC",
+    "@cim:IdentifiedObject.name": "EPCG-Željezara Nikšić d.o.o.",
     "@cim:Names.name": [
         "ZELJEZARANIK",
-        "02880474",
-        "Consumption Responsible Party",
-        "Balance Responsible Party"
+        "03530272",
+        "Balance Responsible Party",
+        "Consumption Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Steel Factory.",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-11-02",
-    "@schema:vatID": "02880474",
+    "@cim:DateAndOrTime.date": "2026-02-25",
+    "@schema:vatID": "03530272",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

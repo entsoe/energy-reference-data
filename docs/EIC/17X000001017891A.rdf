@@ -13,16 +13,16 @@
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
     <cim:DateAndOrTime.date>2022-12-30</cim:DateAndOrTime.date>
-    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
-    <cim:Names.name>Capacity Trader</cim:Names.name>
-    <cim:Names.name>Storage System Operator</cim:Names.name>
-    <cim:Names.name>Market Operator</cim:Names.name>
-    <cim:Names.name>Consumer</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
-    <cim:Names.name>Imbalance Settlement Responsible</cim:Names.name>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Market Area Operator</cim:Names.name>
+    <cim:Names.name>Capacity Trader</cim:Names.name>
+    <cim:Names.name>Consumer</cim:Names.name>
     <cim:Names.name>Coordination Center Operator</cim:Names.name>
+    <cim:Names.name>Imbalance Settlement Responsible</cim:Names.name>
+    <cim:Names.name>Market Area Operator</cim:Names.name>
+    <cim:Names.name>Market Operator</cim:Names.name>
+    <cim:Names.name>Metered Data Aggregator</cim:Names.name>
+    <cim:Names.name>Storage System Operator</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>FR11899433502</schema:vatID>
   </skos:Concept>

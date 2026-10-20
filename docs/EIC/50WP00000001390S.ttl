@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2019-08-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WP00000001390S" ;
     cim:IdentifiedObject.name "Sya Kraft" ;
-    cim:Names.name "NO-SYA-KRAFT_PL",
+    cim:Names.name "NO-SYAKRAFT",
         "Production Unit" ;
     dcterms:identifier "urn:eic:50WP00000001390S" ;
-    skos:altLabel "NO-SYA-KRAFT_PL" ;
+    skos:altLabel "NO-SYAKRAFT" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Sya Kraft" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

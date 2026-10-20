@@ -4,19 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:37X0000000000208</dcterms:identifier>
-    <skos:prefLabel>Solvay Chemicals GmbH</skos:prefLabel>
-    <skos:altLabel>SOLVAYCHEMICALS</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Supplier</skos:definition>
+    <skos:prefLabel>Solvay GmbH</skos:prefLabel>
+    <skos:altLabel>SOLVAY_GMBH</skos:altLabel>
+    <skos:definition xml:lang="en">Balance Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>37X0000000000208</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Solvay Chemicals GmbH</cim:IdentifiedObject.name>
-    <cim:Names.name>SOLVAYCHEMICALS</cim:Names.name>
-    <cim:Names.name>DE811120809</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Supplier</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>Solvay GmbH</cim:IdentifiedObject.name>
+    <cim:Names.name>SOLVAY_GMBH</cim:Names.name>
+    <cim:Names.name>DE120955409</cim:Names.name>
+    <cim:IdentifiedObject.description>Balance Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-09-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Energy Supplier</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-11-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE811120809</schema:vatID>
+    <schema:vatID>DE120955409</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

@@ -14,22 +14,17 @@
     "@dcterms:identifier": "urn:eic:11XSWWBGEV-----R",
     "@skos:prefLabel": "Stadtwerke Wittenberge GmbH",
     "@skos:altLabel": "SWWBGEV",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Balance Group"
-    },
     "@cim:IdentifiedObject.mRID": "11XSWWBGEV-----R",
     "@cim:IdentifiedObject.name": "Stadtwerke Wittenberge GmbH",
     "@cim:Names.name": [
         "SWWBGEV",
-        "DE811461654",
-        "Balance Group"
+        "DE171549676",
+        "Balance Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Balance Group",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2008-12-01",
-    "@schema:vatID": "DE811461654",
+    "@cim:DateAndOrTime.date": "2024-11-07",
+    "@schema:vatID": "DE171549676",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000022Y> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2025-04-25" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000022Y" ;
+    cim:IdentifiedObject.name "STOLARZ-LEMPERT SPÓŁKA KOMANDYTOWA" ;
+    cim:Names.name "PL6191958147",
+        "Producer",
+        "STOLARZ-LEMPERT" ;
+    dcterms:identifier "urn:eic:19X111100000022Y" ;
+    schema1:vatID "PL6191958147" ;
+    skos:altLabel "STOLARZ-LEMPERT" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "STOLARZ-LEMPERT SPÓŁKA KOMANDYTOWA" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

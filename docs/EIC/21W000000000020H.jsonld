@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21W000000000020H",
-    "@skos:prefLabel": "Untergrundspeicher Kraak",
+    "@skos:prefLabel": "Storage Kraak",
     "@skos:altLabel": "UGSKRAAK",
     "@cim:IdentifiedObject.mRID": "21W000000000020H",
-    "@cim:IdentifiedObject.name": "Untergrundspeicher Kraak",
+    "@cim:IdentifiedObject.name": "Storage Kraak",
     "@cim:Names.name": [
         "UGSKRAAK",
-        "Storage Plant"
+        "Gas Storage Facility"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2018-03-28",
+    "@cim:DateAndOrTime.date": "2026-09-02",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -4,17 +4,17 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21X000000001140P</dcterms:identifier>
-    <skos:prefLabel>KGE mbH &amp; Co. KG</skos:prefLabel>
-    <skos:altLabel>KGESSO</skos:altLabel>
+    <skos:prefLabel>MET Epe Speicher GmbH &amp; Co. KG</skos:prefLabel>
+    <skos:altLabel>MET_EPE_SPEICHER</skos:altLabel>
     <skos:definition xml:lang="en">Storage System Operator</skos:definition>
     <cim:IdentifiedObject.mRID>21X000000001140P</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>KGE mbH &amp; Co. KG</cim:IdentifiedObject.name>
-    <cim:Names.name>KGESSO</cim:Names.name>
+    <cim:IdentifiedObject.name>MET Epe Speicher GmbH &amp; Co. KG</cim:IdentifiedObject.name>
+    <cim:Names.name>MET_EPE_SPEICHER</cim:Names.name>
     <cim:Names.name>DE257484432</cim:Names.name>
     <cim:IdentifiedObject.description>Storage System Operator</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2012-08-24</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-09-03</cim:DateAndOrTime.date>
     <cim:Names.name>Storage System Operator</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE257484432</schema:vatID>

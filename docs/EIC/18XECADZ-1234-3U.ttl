@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-07-21" ;
+    cim:DateAndOrTime.date "2026-10-14" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "18XECADZ-1234-3U" ;
-    cim:IdentifiedObject.name "SUMINISTRADORA ELÉCTRICA DE CÁDIZ S.A." ;
+    cim:IdentifiedObject.name "COMERCIALIZADORA ELECTRICA DE CADIZ S.A." ;
     cim:Names.name "ECADZ",
-        "ESA11355526",
+        "ESA11507357",
         "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:18XECADZ-1234-3U" ;
-    schema1:vatID "ESA11355526" ;
+    schema1:vatID "ESA11507357" ;
     skos:altLabel "ECADZ" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "SUMINISTRADORA ELÉCTRICA DE CÁDIZ S.A." ;
+    skos:prefLabel "COMERCIALIZADORA ELECTRICA DE CADIZ S.A." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

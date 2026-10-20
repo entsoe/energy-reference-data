@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/50WP00000002105B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-04-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "50WP00000002105B" ;
+    cim:IdentifiedObject.name "Reserveforsyning Sørøya" ;
+    cim:Names.name "NO-RESERVE_SOERO",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:50WP00000002105B" ;
+    skos:altLabel "NO-RESERVE_SOERO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Reserveforsyning Sørøya" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

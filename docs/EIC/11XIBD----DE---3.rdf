@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:11XIBD----DE---3</dcterms:identifier>
-    <skos:prefLabel>IBERDROLA Energie Deutschland GmbH</skos:prefLabel>
+    <skos:prefLabel>Iberdrola Energie Deutschland GmbH</skos:prefLabel>
     <skos:altLabel>IBD----DE</skos:altLabel>
     <cim:IdentifiedObject.mRID>11XIBD----DE---3</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>IBERDROLA Energie Deutschland GmbH</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Iberdrola Energie Deutschland GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>IBD----DE</cim:Names.name>
     <cim:Names.name>DE815055529</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2017-08-21</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-05-07</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>DE815055529</schema:vatID>

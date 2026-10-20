@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000108O> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-07-28" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000108O" ;
+    cim:IdentifiedObject.name "SURWIN ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "Metered Data Responsible",
+        "PL5381868524",
+        "SURWIN_ENERGIA",
+        "System Operator" ;
+    dcterms:identifier "urn:eic:19X111100000108O" ;
+    schema1:vatID "PL5381868524" ;
+    skos:altLabel "SURWIN_ENERGIA" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SURWIN ENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

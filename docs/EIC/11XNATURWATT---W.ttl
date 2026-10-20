@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNATURWATT---W" ;
     cim:IdentifiedObject.name "EWE NaturWatt GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE117471330",
-        "NATURWATT_V" ;
+    cim:Names.name "DE117471330",
+        "NATURWATT_V",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNATURWATT---W" ;
     schema1:vatID "DE117471330" ;
     skos:altLabel "NATURWATT_V" ;

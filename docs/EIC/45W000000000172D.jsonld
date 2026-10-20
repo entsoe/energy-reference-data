@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:45W000000000172D",
     "@skos:prefLabel": "Vesterhav Nord",
-    "@skos:altLabel": "DK_VHN",
+    "@skos:altLabel": "DK_VHN_PU",
     "@cim:IdentifiedObject.mRID": "45W000000000172D",
     "@cim:IdentifiedObject.name": "Vesterhav Nord",
     "@cim:Names.name": [
-        "DK_VHN",
+        "DK_VHN_PU",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2023-03-15",
+    "@cim:DateAndOrTime.date": "2024-01-29",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

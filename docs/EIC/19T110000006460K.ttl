@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-05-16" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006460K" ;
-    cim:IdentifiedObject.name "220 kV Byczyna – Poręba" ;
+    cim:IdentifiedObject.name "220kV Byczyna-Poreba" ;
     cim:Names.name "3015",
         "Internal Line" ;
     dcterms:identifier "urn:eic:19T110000006460K" ;
     skos:altLabel "3015" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "220 kV Byczyna – Poręba" ;
+    skos:prefLabel "220kV Byczyna-Poreba" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

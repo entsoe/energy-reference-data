@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000314W" ;
     cim:IdentifiedObject.name "S 132 Hauen-Kjorbekk1" ;
     cim:Names.name "Internal Line",
-        "NO-HAUENKJORBEK1" ;
+        "NO-132HAUENBEKK1" ;
     dcterms:identifier "urn:eic:50TL00000000314W" ;
-    skos:altLabel "NO-HAUENKJORBEK1" ;
+    skos:altLabel "NO-132HAUENBEKK1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 132 Hauen-Kjorbekk1" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

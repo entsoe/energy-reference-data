@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:44Y-00000000044M</dcterms:identifier>
-    <skos:prefLabel>Tampereen S&#228;hk&#246;verkko Oy</skos:prefLabel>
+    <skos:prefLabel>Tampereen Energia S&#228;hk&#246;verkko Oy</skos:prefLabel>
     <skos:altLabel>FI_TKS000</skos:altLabel>
     <cim:IdentifiedObject.mRID>44Y-00000000044M</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Tampereen S&#228;hk&#246;verkko Oy</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Tampereen Energia S&#228;hk&#246;verkko Oy</cim:IdentifiedObject.name>
     <cim:Names.name>FI_TKS000</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-04-09</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2023-12-21</cim:DateAndOrTime.date>
     <cim:Names.name>Metering Grid Area</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

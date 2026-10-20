@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-18" ;
+    cim:DateAndOrTime.date "2026-04-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19T110000006430T" ;
-    cim:IdentifiedObject.name "Gdańsk Przyjaźń – Gdańsk Błonia" ;
+    cim:IdentifiedObject.name "400kV Gdansk Blonia-Gdansk Przyjazn" ;
     cim:Names.name "Internal Line",
         "N405" ;
     dcterms:identifier "urn:eic:19T110000006430T" ;
     skos:altLabel "N405" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Gdańsk Przyjaźń – Gdańsk Błonia" ;
+    skos:prefLabel "400kV Gdansk Blonia-Gdansk Przyjazn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000001406M" ;
     cim:IdentifiedObject.name "S 47 Øvre Oredalen-Oredalen" ;
     cim:Names.name "Internal Line",
-        "NO-OOREDALENORED" ;
+        "NO-47OVRE_ODALEN" ;
     dcterms:identifier "urn:eic:50TL00000001406M" ;
-    skos:altLabel "NO-OOREDALENORED" ;
+    skos:altLabel "NO-47OVRE_ODALEN" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 47 Øvre Oredalen-Oredalen" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

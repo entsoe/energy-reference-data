@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WC00000000694Y",
-    "@skos:prefLabel": "M Tussa    22  L1 Forbruk",
+    "@skos:prefLabel": "N Tussa    22  L1 Forbruk",
     "@skos:altLabel": "NO-TUSSA22",
     "@cim:IdentifiedObject.mRID": "50WC00000000694Y",
-    "@cim:IdentifiedObject.name": "M Tussa    22  L1 Forbruk",
+    "@cim:IdentifiedObject.name": "N Tussa    22  L1 Forbruk",
     "@cim:Names.name": [
         "NO-TUSSA22",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

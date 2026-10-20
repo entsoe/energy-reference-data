@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG00000000213O",
     "@skos:prefLabel": "BREIVE  P8      HYDRO",
-    "@skos:altLabel": "NO-BREIVE__P8___",
+    "@skos:altLabel": "NO-BREIVEP8",
     "@cim:IdentifiedObject.mRID": "50WG00000000213O",
     "@cim:IdentifiedObject.name": "BREIVE  P8      HYDRO",
     "@cim:Names.name": [
-        "NO-BREIVE__P8___",
+        "NO-BREIVEP8",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

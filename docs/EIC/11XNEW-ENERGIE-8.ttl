@@ -7,18 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2012-06-25" ;
+    cim:DateAndOrTime.date "2024-09-16" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNEW-ENERGIE-8" ;
     cim:IdentifiedObject.name "NEW Niederrhein Energie und Wasser GmbH" ;
-    cim:Names.name "Balance Group",
+    cim:Names.name "Balance Responsible Party",
         "DE814134204",
         "NEW-ENERGIE" ;
     dcterms:identifier "urn:eic:11XNEW-ENERGIE-8" ;
     schema1:vatID "DE814134204" ;
     skos:altLabel "NEW-ENERGIE" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "NEW Niederrhein Energie und Wasser GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

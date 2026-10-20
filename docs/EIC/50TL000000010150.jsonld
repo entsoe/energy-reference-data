@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL000000010150",
-    "@skos:prefLabel": "M 300 Eidum-Verdal",
-    "@skos:altLabel": "NO-EIDUMVERDAL",
+    "@skos:prefLabel": "N 300 Eidum-Verdal",
+    "@skos:altLabel": "NO-300EIDUMVERDA",
     "@cim:IdentifiedObject.mRID": "50TL000000010150",
-    "@cim:IdentifiedObject.name": "M 300 Eidum-Verdal",
+    "@cim:IdentifiedObject.name": "N 300 Eidum-Verdal",
     "@cim:Names.name": [
-        "NO-EIDUMVERDAL",
+        "NO-300EIDUMVERDA",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000003120U" ;
-    cim:IdentifiedObject.name "M 132 Haraheia (Roan Vindpark)-Hofstad" ;
+    cim:IdentifiedObject.name "N 132 Haraheia (Roan Vindpark)-Hofstad" ;
     cim:Names.name "Internal Line",
-        "NO-HARAHEIAHOFST" ;
+        "NO-132HARAHEIAHO" ;
     dcterms:identifier "urn:eic:50TL00000003120U" ;
-    skos:altLabel "NO-HARAHEIAHOFST" ;
+    skos:altLabel "NO-132HARAHEIAHO" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Haraheia (Roan Vindpark)-Hofstad" ;
+    skos:prefLabel "N 132 Haraheia (Roan Vindpark)-Hofstad" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

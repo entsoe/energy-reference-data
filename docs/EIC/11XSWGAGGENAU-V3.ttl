@@ -7,19 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2005-12-06" ;
+    cim:DateAndOrTime.date "2024-12-18" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XSWGAGGENAU-V3" ;
-    cim:IdentifiedObject.name "Stadtwerke Gaggenau (Vertrieb)" ;
-    cim:Names.name "Balance Group",
-        "DE144017082",
-        "SWGAGGENAU-V" ;
+    cim:IdentifiedObject.name "Stadtwerke Gaggenau" ;
+    cim:Names.name "DE144017082",
+        "SWGAGGENAU-V",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSWGAGGENAU-V3" ;
     schema1:vatID "DE144017082" ;
     skos:altLabel "SWGAGGENAU-V" ;
-    skos:definition "Balance Group"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Stadtwerke Gaggenau (Vertrieb)" ;
+    skos:prefLabel "Stadtwerke Gaggenau" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

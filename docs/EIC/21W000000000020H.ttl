@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-03-28" ;
+    cim:DateAndOrTime.date "2026-09-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21W000000000020H" ;
-    cim:IdentifiedObject.name "Untergrundspeicher Kraak" ;
-    cim:Names.name "Storage Plant",
+    cim:IdentifiedObject.name "Storage Kraak" ;
+    cim:Names.name "Gas Storage Facility",
         "UGSKRAAK" ;
     dcterms:identifier "urn:eic:21W000000000020H" ;
     skos:altLabel "UGSKRAAK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Untergrundspeicher Kraak" ;
+    skos:prefLabel "Storage Kraak" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

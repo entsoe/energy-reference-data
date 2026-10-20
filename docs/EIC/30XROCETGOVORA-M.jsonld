@@ -23,12 +23,13 @@
     "@cim:Names.name": [
         "RO_GOVORA",
         "RO10102377",
-        "Valid EIC Function needed"
+        "Balance Responsible Party",
+        "Trade Responsible Party"
     ],
     "@cim:IdentifiedObject.description": "Trade Responsible Party Balance Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-10-03",
     "@schema:vatID": "RO10102377",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -7,16 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-08-26" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "Generation Unit" ;
     cim:IdentifiedObject.mRID "12W-0000000031-O" ;
     cim:IdentifiedObject.name "Kraftwerk Oberhasli (Innertkirchen)" ;
-    cim:Names.name "Generation Unit",
-        "KWO-INNERTKIR-AS" ;
+    cim:Names.name "KWO-INNERTKIR-AS",
+        "Production Unit" ;
     dcterms:identifier "urn:eic:12W-0000000031-O" ;
     skos:altLabel "KWO-INNERTKIR-AS" ;
-    skos:definition "Generation Unit"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Kraftwerk Oberhasli (Innertkirchen)" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

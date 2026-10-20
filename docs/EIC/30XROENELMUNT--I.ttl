@@ -7,10 +7,10 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-01-30" ;
+    cim:DateAndOrTime.date "2024-04-02" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "30XROENELMUNT--I" ;
-    cim:IdentifiedObject.name "ENEL ENERGIE MUNTENIA" ;
+    cim:IdentifiedObject.name "PPC ENERGIE MUNTENIA" ;
     cim:Names.name "Energy Supplier",
         "RO24387371",
         "RO_ENELMUNTENIA" ;
@@ -18,6 +18,6 @@
     schema1:vatID "RO24387371" ;
     skos:altLabel "RO_ENELMUNTENIA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "ENEL ENERGIE MUNTENIA" ;
+    skos:prefLabel "PPC ENERGIE MUNTENIA" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

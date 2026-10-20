@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002477V",
-    "@skos:prefLabel": "M Nesna 132 LO1 X",
-    "@skos:altLabel": "NO-NESNA132LO1X",
+    "@skos:prefLabel": "N Nesna    132 LO1 X",
+    "@skos:altLabel": "NO-NESNA132LO1_X",
     "@cim:IdentifiedObject.mRID": "50TL00000002477V",
-    "@cim:IdentifiedObject.name": "M Nesna 132 LO1 X",
+    "@cim:IdentifiedObject.name": "N Nesna    132 LO1 X",
     "@cim:Names.name": [
-        "NO-NESNA132LO1X",
+        "NO-NESNA132LO1_X",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

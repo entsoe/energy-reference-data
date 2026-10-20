@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/47W000000000503N> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-08-17" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "47W000000000503N" ;
+    cim:IdentifiedObject.name "SSE Generation Ireland Ltd" ;
+    cim:Names.name "Generation Unit",
+        "IE503N" ;
+    dcterms:identifier "urn:eic:47W000000000503N" ;
+    skos:altLabel "IE503N" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SSE Generation Ireland Ltd" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

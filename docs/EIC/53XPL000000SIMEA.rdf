@@ -4,17 +4,18 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:53XPL000000SIMEA</dcterms:identifier>
-    <skos:prefLabel>SIME Polska Sp. z o.o.</skos:prefLabel>
-    <skos:altLabel>SIME_POLSKA</skos:altLabel>
+    <skos:prefLabel>ENTRI Polska Sp. z o.o.</skos:prefLabel>
+    <skos:altLabel>ENTRI_POLSKA</skos:altLabel>
     <skos:definition xml:lang="en">Network User</skos:definition>
     <cim:IdentifiedObject.mRID>53XPL000000SIMEA</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>SIME Polska Sp. z o.o.</cim:IdentifiedObject.name>
-    <cim:Names.name>SIME_POLSKA</cim:Names.name>
+    <cim:IdentifiedObject.name>ENTRI Polska Sp. z o.o.</cim:IdentifiedObject.name>
+    <cim:Names.name>ENTRI_POLSKA</cim:Names.name>
+    <cim:Names.name>A00029673.PL</cim:Names.name>
     <cim:Names.name>PL5262499440</cim:Names.name>
     <cim:IdentifiedObject.description>Network User</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-09-28</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-11-19</cim:DateAndOrTime.date>
     <cim:Names.name>Network User</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>PL5262499440</schema:vatID>

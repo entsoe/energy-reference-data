@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:21X000000001072G",
     "@skos:prefLabel": "Storengy Deutschland GmbH",
     "@skos:altLabel": "STORENGY-DE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Trade Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "21X000000001072G",
     "@cim:IdentifiedObject.name": "Storengy Deutschland GmbH",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "DE256603999",
         "Trade Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2010-10-12",
+    "@cim:DateAndOrTime.date": "2024-06-07",
     "@schema:vatID": "DE256603999",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

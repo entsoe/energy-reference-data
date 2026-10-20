@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002958F" ;
     cim:IdentifiedObject.name "S 66 T_Skarg-T_Skarje" ;
     cim:Names.name "Internal Line",
-        "NO-TSKARGTSKARJE" ;
+        "NO-66T_SKARGT_SK" ;
     dcterms:identifier "urn:eic:50TL00000002958F" ;
-    skos:altLabel "NO-TSKARGTSKARJE" ;
+    skos:altLabel "NO-66T_SKARGT_SK" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "S 66 T_Skarg-T_Skarje" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

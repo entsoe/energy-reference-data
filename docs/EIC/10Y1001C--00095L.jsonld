@@ -18,10 +18,10 @@
     "@cim:IdentifiedObject.name": "Capacity Calculation Region SWE",
     "@cim:Names.name": [
         "CCR-SWE",
-        "Scheduling Area",
-        "Outage Coordination Region",
         "Capacity Calculation Region",
-        "Market Area"
+        "Market Area",
+        "Outage Coordination Region",
+        "Scheduling Area"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",

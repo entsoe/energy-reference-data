@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001637Q" ;
-    cim:IdentifiedObject.name "MOSKOG  G148 HYDRO" ;
+    cim:IdentifiedObject.name "STAKALDEG148 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-MOSKOG__G148_" ;
+        "NO-STAKALDEG148" ;
     dcterms:identifier "urn:eic:50WG00000001637Q" ;
-    skos:altLabel "NO-MOSKOG__G148_" ;
+    skos:altLabel "NO-STAKALDEG148" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "MOSKOG  G148 HYDRO" ;
+    skos:prefLabel "STAKALDEG148 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -4,20 +4,20 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:29XTHESSALPOWERA</dcterms:identifier>
-    <skos:prefLabel>ELPEDISON &#928;&#913;&#929;&#913;&#915;&#937;&#915;&#919; &#919;&#923;&#917;&#922;&#932;&#929;&#921;&#922;&#919;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</skos:prefLabel>
-    <skos:altLabel>ELPEDISON</skos:altLabel>
-    <skos:definition xml:lang="en">Balance Responsible Party, Producer, Trade Responsible Party</skos:definition>
+    <skos:prefLabel>ENERWAVE SOCIETE ANONYME</skos:prefLabel>
+    <skos:altLabel>ENERWAVE</skos:altLabel>
     <cim:IdentifiedObject.mRID>29XTHESSALPOWERA</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ELPEDISON &#928;&#913;&#929;&#913;&#915;&#937;&#915;&#919; &#919;&#923;&#917;&#922;&#932;&#929;&#921;&#922;&#919;&#931; &#917;&#925;&#917;&#929;&#915;&#917;&#921;&#913;&#931; &#913;&#925;&#937;&#925;&#933;&#924;&#919; &#917;&#932;&#913;&#921;&#929;&#917;&#921;&#913;</cim:IdentifiedObject.name>
-    <cim:Names.name>ELPEDISON</cim:Names.name>
+    <cim:IdentifiedObject.name>ENERWAVE SOCIETE ANONYME</cim:IdentifiedObject.name>
+    <cim:Names.name>ENERWAVE</cim:Names.name>
+    <cim:Names.name>A0002988W.GR</cim:Names.name>
     <cim:Names.name>EL999717970</cim:Names.name>
-    <cim:IdentifiedObject.description>Balance Responsible Party, Producer, Trade Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-09-02</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-06-08</cim:DateAndOrTime.date>
     <cim:Names.name>Balance Responsible Party</cim:Names.name>
-    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <cim:Names.name>Energy Supplier</cim:Names.name>
     <cim:Names.name>Producer</cim:Names.name>
+    <cim:Names.name>Energy Trader</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>EL999717970</schema:vatID>
   </skos:Concept>

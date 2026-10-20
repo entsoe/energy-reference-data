@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG000000019659" ;
     cim:IdentifiedObject.name "TVEIT   G1      HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-TVEIT___G1___" ;
+        "NO-TVEITG1" ;
     dcterms:identifier "urn:eic:50WG000000019659" ;
-    skos:altLabel "NO-TVEIT___G1___" ;
+    skos:altLabel "NO-TVEITG1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "TVEIT   G1      HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

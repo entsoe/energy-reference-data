@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002936P" ;
-    cim:IdentifiedObject.name "S 66 Bekkelaget-T_Opphus" ;
+    cim:IdentifiedObject.name "S 66 Ottestad-T_Opphus" ;
     cim:Names.name "Internal Line",
-        "NO-BEKKELAGETTOP" ;
+        "NO-66OTTESTADT_O" ;
     dcterms:identifier "urn:eic:50TL00000002936P" ;
-    skos:altLabel "NO-BEKKELAGETTOP" ;
+    skos:altLabel "NO-66OTTESTADT_O" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Bekkelaget-T_Opphus" ;
+    skos:prefLabel "S 66 Ottestad-T_Opphus" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

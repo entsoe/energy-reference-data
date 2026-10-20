@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-06-25" ;
+    cim:DateAndOrTime.date "2026-08-28" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WG00000001332B" ;
-    cim:IdentifiedObject.name "RENDALENG101 HYDRO" ;
+    cim:IdentifiedObject.name "SOKKUNDAG101 HYDRO" ;
     cim:Names.name "Generation Unit",
-        "NO-RENDALENG101_" ;
+        "NO-SOKKUNDAG101" ;
     dcterms:identifier "urn:eic:50WG00000001332B" ;
-    skos:altLabel "NO-RENDALENG101_" ;
+    skos:altLabel "NO-SOKKUNDAG101" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "RENDALENG101 HYDRO" ;
+    skos:prefLabel "SOKKUNDAG101 HYDRO" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

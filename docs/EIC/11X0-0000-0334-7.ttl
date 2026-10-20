@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-06-05" ;
+    cim:DateAndOrTime.date "2026-06-09" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11X0-0000-0334-7" ;
     cim:IdentifiedObject.name "PreussenElektra GmbH" ;
     cim:Names.name "11XPEL",
-        "DE192305356",
+        "DE192205356",
         "Producer" ;
     dcterms:identifier "urn:eic:11X0-0000-0334-7" ;
-    schema1:vatID "DE192305356" ;
+    schema1:vatID "DE192205356" ;
     skos:altLabel "11XPEL" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "PreussenElektra GmbH" ;

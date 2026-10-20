@@ -7,14 +7,16 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-10-18" ;
+    cim:DateAndOrTime.date "2024-10-03" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Trader" ;
     cim:IdentifiedObject.mRID "30XRONUSCO-CET-T" ;
     cim:IdentifiedObject.name "S.C.NUSCO MOBILIARA S.R.L. - CET" ;
     cim:Names.name "CETNUSCO",
-        "Valid EIC Function needed" ;
+        "Capacity Trader",
+        "RO10061498" ;
     dcterms:identifier "urn:eic:30XRONUSCO-CET-T" ;
+    schema1:vatID "RO10061498" ;
     skos:altLabel "CETNUSCO" ;
     skos:definition "Trader"@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

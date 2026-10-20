@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XDOW-STADE---D" ;
     cim:IdentifiedObject.name "Dow Deutschland GmbH & Co. OHG" ;
-    cim:Names.name "Balance Group",
-        "DE811331549",
-        "DOW_STADE" ;
+    cim:Names.name "DE811331549",
+        "DOW_STADE",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XDOW-STADE---D" ;
     schema1:vatID "DE811331549" ;
     skos:altLabel "DOW_STADE" ;

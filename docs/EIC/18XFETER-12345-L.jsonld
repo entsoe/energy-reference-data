@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XFETER-12345-L",
     "@skos:prefLabel": "FUNDACION ESCUELA TERESIANA",
     "@skos:altLabel": "FETER",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XFETER-12345-L",
     "@cim:IdentifiedObject.name": "FUNDACION ESCUELA TERESIANA",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESG85853455",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-17",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESG85853455",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:12T-000000142X-M</dcterms:identifier>
     <skos:prefLabel>220 kV Rothenbrunnen-Y/Sarelli (Prov.)</skos:prefLabel>
-    <skos:altLabel>12T-000000142X-M</skos:altLabel>
+    <skos:altLabel>2ROTH-YSAR----IL</skos:altLabel>
     <cim:IdentifiedObject.mRID>12T-000000142X-M</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>220 kV Rothenbrunnen-Y/Sarelli (Prov.)</cim:IdentifiedObject.name>
-    <cim:Names.name>12T-000000142X-M</cim:Names.name>
+    <cim:Names.name>2ROTH-YSAR----IL</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2022-12-15</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-02</cim:DateAndOrTime.date>
     <cim:Names.name>Internal Line</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

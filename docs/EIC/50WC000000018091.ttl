@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-06-23" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000018091" ;
-    cim:IdentifiedObject.name "M ØvreLeir 66  T1 Forbruk" ;
+    cim:IdentifiedObject.name "N ØvreLeir 66  T1 Forbruk" ;
     cim:Names.name "Load",
         "NO-OVRELEIR66" ;
     dcterms:identifier "urn:eic:50WC000000018091" ;
     skos:altLabel "NO-OVRELEIR66" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M ØvreLeir 66  T1 Forbruk" ;
+    skos:prefLabel "N ØvreLeir 66  T1 Forbruk" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

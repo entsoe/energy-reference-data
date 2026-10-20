@@ -7,13 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-08-11" ;
+    cim:DateAndOrTime.date "2026-03-30" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "19XWYSPAOSTROW-P" ;
     cim:IdentifiedObject.name "PSSE MEDIA OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
-    cim:Names.name "Balance Responsible Party",
+    cim:Names.name "Energy Supplier",
+        "Grid Access Provider",
+        "Meter Administrator",
+        "Metered Data Responsible",
         "PL5832992983",
-        "PSSEMO" ;
+        "PSSEMO",
+        "System Operator" ;
     dcterms:identifier "urn:eic:19XWYSPAOSTROW-P" ;
     schema1:vatID "PL5832992983" ;
     skos:altLabel "PSSEMO" ;

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002067D",
-    "@skos:prefLabel": "M 66 Reinset-Ulvund",
-    "@skos:altLabel": "NO-REINSETULVUND",
+    "@skos:prefLabel": "N 66 Reinset-Ulvund",
+    "@skos:altLabel": "NO-66REINSETULVU",
     "@cim:IdentifiedObject.mRID": "50TL00000002067D",
-    "@cim:IdentifiedObject.name": "M 66 Reinset-Ulvund",
+    "@cim:IdentifiedObject.name": "N 66 Reinset-Ulvund",
     "@cim:Names.name": [
-        "NO-REINSETULVUND",
+        "NO-66REINSETULVU",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

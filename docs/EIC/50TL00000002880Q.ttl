@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002880Q" ;
-    cim:IdentifiedObject.name "M 66 Belbuan-Lade" ;
+    cim:IdentifiedObject.name "N 66 Belbuan-Lade" ;
     cim:Names.name "Internal Line",
-        "NO-BELBUANLADE" ;
+        "NO-66BELBUANLADE" ;
     dcterms:identifier "urn:eic:50TL00000002880Q" ;
-    skos:altLabel "NO-BELBUANLADE" ;
+    skos:altLabel "NO-66BELBUANLADE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Belbuan-Lade" ;
+    skos:prefLabel "N 66 Belbuan-Lade" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

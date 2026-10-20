@@ -14,20 +14,15 @@
     "@dcterms:identifier": "urn:eic:10V000000000007H",
     "@skos:prefLabel": "Central Clearing System for Reserves Tender Platform",
     "@skos:altLabel": "CCS_RL",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "It-System"
-    },
     "@cim:IdentifiedObject.mRID": "10V000000000007H",
     "@cim:IdentifiedObject.name": "Central Clearing System for Reserves Tender Platform",
     "@cim:Names.name": [
         "CCS_RL",
-        "It-System"
+        "IT-system"
     ],
-    "@cim:IdentifiedObject.description": "It-System",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-01-28",
+    "@cim:DateAndOrTime.date": "2024-05-12",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

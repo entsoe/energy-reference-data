@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19X111100000076B> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-23" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19X111100000076B" ;
+    cim:IdentifiedObject.name "NEO SOLAR FARMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    cim:Names.name "NEO_SOLAR_FARMS",
+        "PL8393205831",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19X111100000076B" ;
+    schema1:vatID "PL8393205831" ;
+    skos:altLabel "NEO_SOLAR_FARMS" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "NEO SOLAR FARMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

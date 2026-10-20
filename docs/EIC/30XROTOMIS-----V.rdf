@@ -10,11 +10,13 @@
     <cim:IdentifiedObject.mRID>30XROTOMIS-----V</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>SC TOMIS ENERGY SRL</cim:IdentifiedObject.name>
     <cim:Names.name>ROTOMIS</cim:Names.name>
+    <cim:Names.name>RO18621965</cim:Names.name>
     <cim:IdentifiedObject.description>Brp</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-10-04</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>RO18621965</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

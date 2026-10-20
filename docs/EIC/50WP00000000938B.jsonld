@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000000938B",
     "@skos:prefLabel": "Kjosfoss",
-    "@skos:altLabel": "NO-KJOSFOSS_PL",
+    "@skos:altLabel": "NO-KJOSFOSS",
     "@cim:IdentifiedObject.mRID": "50WP00000000938B",
     "@cim:IdentifiedObject.name": "Kjosfoss",
     "@cim:Names.name": [
-        "NO-KJOSFOSS_PL",
+        "NO-KJOSFOSS",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -1,0 +1,21 @@
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/CIM100#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:schema="http://schema.org/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <skos:Concept rdf:about="http://energy.referencedata.eu/EIC/56X930000123130J">
+    <skos:inScheme rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
+    <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
+    <dcterms:identifier>urn:eic:56X930000123130J</dcterms:identifier>
+    <skos:prefLabel>PRIVATE LIMITED COMPANY "OLTALEST OU"</skos:prefLabel>
+    <skos:altLabel>PLC_OLTALEST_OU</skos:altLabel>
+    <cim:IdentifiedObject.mRID>56X930000123130J</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>PRIVATE LIMITED COMPANY "OLTALEST OU"</cim:IdentifiedObject.name>
+    <cim:Names.name>PLC_OLTALEST_OU</cim:Names.name>
+    <cim:Names.name>16928201</cim:Names.name>
+    <cim:Document.docStatus>A05</cim:Document.docStatus>
+    <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
+    <cim:DateAndOrTime.date>2024-09-03</cim:DateAndOrTime.date>
+    <cim:Names.name>Network User</cim:Names.name>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
+    <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>16928201</schema:vatID>
+  </skos:Concept>
+</rdf:RDF>

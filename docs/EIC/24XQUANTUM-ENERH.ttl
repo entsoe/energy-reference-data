@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/24XQUANTUM-ENERH> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-03-31" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "24XQUANTUM-ENERH" ;
+    cim:IdentifiedObject.name "QUANTUM ENERGY SK s.r.o." ;
+    cim:Names.name "Energy Trader",
+        "QUAN-ENER",
+        "SK2122676314" ;
+    dcterms:identifier "urn:eic:24XQUANTUM-ENERH" ;
+    schema1:vatID "SK2122676314" ;
+    skos:altLabel "QUAN-ENER" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "QUANTUM ENERGY SK s.r.o." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

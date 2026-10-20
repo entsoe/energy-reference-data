@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/10T1001A1001A110> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2023-12-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Necessary virtual tieline for the MARI project" ;
+    cim:IdentifiedObject.mRID "10T1001A1001A110" ;
+    cim:IdentifiedObject.name "VTL MARI Amprion – ENERGINET" ;
+    cim:Names.name "MARIAMP-ENERGINE",
+        "Tieline" ;
+    dcterms:identifier "urn:eic:10T1001A1001A110" ;
+    skos:altLabel "MARIAMP-ENERGINE" ;
+    skos:definition "Necessary virtual tieline for the MARI project"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VTL MARI Amprion – ENERGINET" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

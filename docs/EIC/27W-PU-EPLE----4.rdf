@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:27W-PU-EPLE----4</dcterms:identifier>
-    <skos:prefLabel>EPLE</skos:prefLabel>
-    <skos:altLabel>EPLE</skos:altLabel>
+    <skos:prefLabel>Plze&#328;sk&#225; tepl&#225;rensk&#225;, a.s. - Energetika</skos:prefLabel>
+    <skos:altLabel>PLTE</skos:altLabel>
     <cim:IdentifiedObject.mRID>27W-PU-EPLE----4</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>EPLE</cim:IdentifiedObject.name>
-    <cim:Names.name>EPLE</cim:Names.name>
+    <cim:IdentifiedObject.name>Plze&#328;sk&#225; tepl&#225;rensk&#225;, a.s. - Energetika</cim:IdentifiedObject.name>
+    <cim:Names.name>PLTE</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2021-11-16</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-06-24</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

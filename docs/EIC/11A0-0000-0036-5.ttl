@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/11A0-0000-0036-5> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-05-30" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "11A0-0000-0036-5" ;
+    cim:IdentifiedObject.name "50H/380/Weida/STC401" ;
+    cim:Names.name "A-D8-WD-STC401",
+        "Dynamic reactive power device" ;
+    dcterms:identifier "urn:eic:11A0-0000-0036-5" ;
+    skos:altLabel "A-D8-WD-STC401" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "50H/380/Weida/STC401" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

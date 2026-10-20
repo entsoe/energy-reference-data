@@ -7,17 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-07-05" ;
+    cim:DateAndOrTime.date "2024-10-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "59X--0-1-ACEL--S" ;
-    cim:IdentifiedObject.name "Acel Energie S.r.l." ;
-    cim:Names.name "ACEL_ENERGIE",
+    cim:IdentifiedObject.name "ACINQUE ENERGIA S.R.L." ;
+    cim:Names.name "ACINQUEENERGIA",
         "IT03773040138",
         "Market Operator" ;
     dcterms:identifier "urn:eic:59X--0-1-ACEL--S" ;
     schema1:vatID "IT03773040138" ;
-    skos:altLabel "ACEL_ENERGIE" ;
+    skos:altLabel "ACINQUEENERGIA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Acel Energie S.r.l." ;
+    skos:prefLabel "ACINQUE ENERGIA S.R.L." ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

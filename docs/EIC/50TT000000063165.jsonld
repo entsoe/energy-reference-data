@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TT000000063165",
     "@skos:prefLabel": "S Tegneby  T3 Transformator",
-    "@skos:altLabel": "NO-TEGNEBY_T3",
+    "@skos:altLabel": "NO-TEGNEBYT3",
     "@cim:IdentifiedObject.mRID": "50TT000000063165",
     "@cim:IdentifiedObject.name": "S Tegneby  T3 Transformator",
     "@cim:Names.name": [
-        "NO-TEGNEBY_T3",
+        "NO-TEGNEBYT3",
         "Transformer"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XTGEDM-12345-Z",
     "@skos:prefLabel": "GAS ENERGIA DISTRIBUCION MURCIA, S.A.",
     "@skos:altLabel": "TGEDM",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Transmission Capacity Allocator"
-    },
     "@cim:IdentifiedObject.mRID": "18XTGEDM-12345-Z",
     "@cim:IdentifiedObject.name": "GAS ENERGIA DISTRIBUCION MURCIA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA30595417",
         "Transmission Capacity Allocator"
     ],
-    "@cim:IdentifiedObject.description": "Transmission Capacity Allocator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2012-04-26",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA30595417",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

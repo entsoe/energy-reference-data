@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/19XMECPILA-2024K> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "19XMECPILA-2024K" ;
+    cim:IdentifiedObject.name "MIEJSKA ENERGETYKA CIEPLNA PIŁA SP. Z.O.O." ;
+    cim:Names.name "MEC_PILA_SP_ZOO",
+        "PL7640000751",
+        "Producer" ;
+    dcterms:identifier "urn:eic:19XMECPILA-2024K" ;
+    schema1:vatID "PL7640000751" ;
+    skos:altLabel "MEC_PILA_SP_ZOO" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "MIEJSKA ENERGETYKA CIEPLNA PIŁA SP. Z.O.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

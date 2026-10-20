@@ -1,0 +1,21 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/49T0000000010229> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-02-13" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "49T0000000010229" ;
+    cim:IdentifiedObject.name "Hessenweg Trafo 214" ;
+    cim:Names.name "HSW_TR214",
+        "Transformer" ;
+    dcterms:identifier "urn:eic:49T0000000010229" ;
+    skos:altLabel "HSW_TR214" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Hessenweg Trafo 214" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

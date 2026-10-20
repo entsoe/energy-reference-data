@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50TL00000000101C",
     "@skos:prefLabel": "N 132 Alta Trafo-Aronnes",
-    "@skos:altLabel": "NO-ALTATRAARONNE",
+    "@skos:altLabel": "NO-132ALTATRAARO",
     "@cim:IdentifiedObject.mRID": "50TL00000000101C",
     "@cim:IdentifiedObject.name": "N 132 Alta Trafo-Aronnes",
     "@cim:Names.name": [
-        "NO-ALTATRAARONNE",
+        "NO-132ALTATRAARO",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

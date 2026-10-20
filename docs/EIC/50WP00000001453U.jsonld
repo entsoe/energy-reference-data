@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP00000001453U",
     "@skos:prefLabel": "Sandøy Vindkraft",
-    "@skos:altLabel": "NO-SANDOY_V_PL",
+    "@skos:altLabel": "NO-SANDOY_V",
     "@cim:IdentifiedObject.mRID": "50WP00000001453U",
     "@cim:IdentifiedObject.name": "Sandøy Vindkraft",
     "@cim:Names.name": [
-        "NO-SANDOY_V_PL",
+        "NO-SANDOY_V",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

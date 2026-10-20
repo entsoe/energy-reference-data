@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/59XSOENISRL22220> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-07-11" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "59XSOENISRL22220" ;
+    cim:IdentifiedObject.name "SOENISRL" ;
+    cim:Names.name "Balance Responsible Party",
+        "IT01407190451",
+        "SOENISRL" ;
+    dcterms:identifier "urn:eic:59XSOENISRL22220" ;
+    schema1:vatID "IT01407190451" ;
+    skos:altLabel "SOENISRL" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "SOENISRL" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

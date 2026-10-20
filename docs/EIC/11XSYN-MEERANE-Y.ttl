@@ -7,13 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-04-20" ;
+    cim:DateAndOrTime.date "2024-12-19" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "11XSYN-MEERANE-Y" ;
     cim:IdentifiedObject.name "Syneco Trading GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE219741801",
-        "SWMEERANE-SYN" ;
+    cim:Names.name "DE219741801",
+        "SWMEERANE-SYN",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:11XSYN-MEERANE-Y" ;
     schema1:vatID "DE219741801" ;
     skos:altLabel "SWMEERANE-SYN" ;

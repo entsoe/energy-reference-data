@@ -1,0 +1,24 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/69W9KJ5885GZ9W74> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-22" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "69W9KJ5885GZ9W74" ;
+    cim:IdentifiedObject.name "VASILIKOS GAS TURBINE BLACK START" ;
+    cim:Names.name "Generation",
+        "Generation Unit",
+        "Production Unit",
+        "Resource Object",
+        "VAS-BLACK-START" ;
+    dcterms:identifier "urn:eic:69W9KJ5885GZ9W74" ;
+    skos:altLabel "VAS-BLACK-START" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "VASILIKOS GAS TURBINE BLACK START" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

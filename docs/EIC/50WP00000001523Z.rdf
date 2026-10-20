@@ -5,13 +5,13 @@
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WP00000001523Z</dcterms:identifier>
     <skos:prefLabel>Dvergsdal Kraftv</skos:prefLabel>
-    <skos:altLabel>NO-DVERGSDAL-KRA</skos:altLabel>
+    <skos:altLabel>NO-DVERGSDALKRAF</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WP00000001523Z</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>Dvergsdal Kraftv</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-DVERGSDAL-KRA</cim:Names.name>
+    <cim:Names.name>NO-DVERGSDALKRAF</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2019-08-13</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Production Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

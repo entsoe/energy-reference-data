@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TT00000005033M" ;
-    cim:IdentifiedObject.name "N Hungern  T5 Transformator" ;
-    cim:Names.name "NO-HUNGERN_T5",
+    cim:IdentifiedObject.name "N Hungeren T5 Transformator" ;
+    cim:Names.name "NO-HUNGERENT5",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TT00000005033M" ;
-    skos:altLabel "NO-HUNGERN_T5" ;
+    skos:altLabel "NO-HUNGERENT5" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "N Hungern  T5 Transformator" ;
+    skos:prefLabel "N Hungeren T5 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

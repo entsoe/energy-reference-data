@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TL00000002256A",
-    "@skos:prefLabel": "M 66 Tingvoll-TingvollLia",
-    "@skos:altLabel": "NO-TINGVOLLTINGV",
+    "@skos:prefLabel": "N 66 Tingvoll-Bele",
+    "@skos:altLabel": "NO-66TINGVOLLBEL",
     "@cim:IdentifiedObject.mRID": "50TL00000002256A",
-    "@cim:IdentifiedObject.name": "M 66 Tingvoll-TingvollLia",
+    "@cim:IdentifiedObject.name": "N 66 Tingvoll-Bele",
     "@cim:Names.name": [
-        "NO-TINGVOLLTINGV",
+        "NO-66TINGVOLLBEL",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-11-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

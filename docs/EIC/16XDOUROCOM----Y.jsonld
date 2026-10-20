@@ -1,0 +1,37 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/16XDOUROCOM----Y",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:16XDOUROCOM----Y",
+    "@skos:prefLabel": "Dourogás Comercial, SA.",
+    "@skos:altLabel": "DOUROCOM",
+    "@cim:IdentifiedObject.mRID": "16XDOUROCOM----Y",
+    "@cim:IdentifiedObject.name": "Dourogás Comercial, SA.",
+    "@cim:Names.name": [
+        "DOUROCOM",
+        "PT518398331",
+        "Trade Responsible Party"
+    ],
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2025-02-17",
+    "@schema:vatID": "PT518398331",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

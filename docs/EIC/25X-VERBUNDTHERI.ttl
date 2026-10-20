@@ -7,20 +7,20 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2022-07-20" ;
+    cim:DateAndOrTime.date "2026-10-08" ;
     cim:Document.docStatus "A05" ;
-    cim:IdentifiedObject.description "new EIC X - IO" ;
+    cim:IdentifiedObject.description "new UID due to the modification of the form of the legal entity." ;
     cim:IdentifiedObject.mRID "25X-VERBUNDTHERI" ;
-    cim:IdentifiedObject.name "VERBUND Thermal Power GmbH & Co KG" ;
-    cim:Names.name "ATU54006506",
+    cim:IdentifiedObject.name "VERBUND Thermal Power GmbH" ;
+    cim:Names.name "ATU60757933",
         "Consumption Responsible Party",
         "Energy Supplier",
         "VTP" ;
     dcterms:identifier "urn:eic:25X-VERBUNDTHERI" ;
-    schema1:vatID "ATU54006506" ;
+    schema1:vatID "ATU60757933" ;
     skos:altLabel "VTP" ;
-    skos:definition "new EIC X - IO"@en ;
+    skos:definition "new UID due to the modification of the form of the legal entity."@en ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "VERBUND Thermal Power GmbH & Co KG" ;
+    skos:prefLabel "VERBUND Thermal Power GmbH" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

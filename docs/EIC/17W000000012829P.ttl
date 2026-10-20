@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/17W000000012829P> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-06-10" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "HOSPIH-CENTRALE HYDRAULIQUE DE HOSPITALET (L )-6;RTE-HOSPIH6-HOSPI0000000000804;HYDLQ" ;
+    cim:IdentifiedObject.mRID "17W000000012829P" ;
+    cim:IdentifiedObject.name "Hospitalet (l')" ;
+    cim:Names.name "FR_LA_HOSPI-P",
+        "Production Unit" ;
+    dcterms:identifier "urn:eic:17W000000012829P" ;
+    skos:altLabel "FR_LA_HOSPI-P" ;
+    skos:definition "HOSPIH-CENTRALE HYDRAULIQUE DE HOSPITALET (L )-6;RTE-HOSPIH6-HOSPI0000000000804;HYDLQ"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Hospitalet (l')" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

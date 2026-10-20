@@ -12,10 +12,10 @@
     cim:IdentifiedObject.mRID "27X-EZEKTRADS--Y" ;
     cim:IdentifiedObject.name "Ezektra DS s.r.o." ;
     cim:Names.name "Balance Responsible Party",
-        "CZ28651111",
-        "EZEKTRADS" ;
+        "EZEKTRADS",
+        "cz28651111" ;
     dcterms:identifier "urn:eic:27X-EZEKTRADS--Y" ;
-    schema1:vatID "CZ28651111" ;
+    schema1:vatID "cz28651111" ;
     skos:altLabel "EZEKTRADS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Ezektra DS s.r.o." ;

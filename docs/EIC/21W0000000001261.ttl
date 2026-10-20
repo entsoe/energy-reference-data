@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2018-11-27" ;
+    cim:DateAndOrTime.date "2024-07-11" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "21W0000000001261" ;
-    cim:IdentifiedObject.name "Virtueller Speicher NORD astora" ;
+    cim:IdentifiedObject.name "Speicherzone Nord SEFE Storage" ;
     cim:Names.name "Gas Storage Facility",
-        "VSP-NORD" ;
+        "ZONE-NORD-SEFE" ;
     dcterms:identifier "urn:eic:21W0000000001261" ;
-    skos:altLabel "VSP-NORD" ;
+    skos:altLabel "ZONE-NORD-SEFE" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Virtueller Speicher NORD astora" ;
+    skos:prefLabel "Speicherzone Nord SEFE Storage" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

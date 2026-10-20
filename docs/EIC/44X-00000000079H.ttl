@@ -7,16 +7,17 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-01-21" ;
-    cim:Document.docStatus "A03" ;
+    cim:DateAndOrTime.date "2024-03-18" ;
+    cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "44X-00000000079H" ;
-    cim:IdentifiedObject.name "Vatajankosken Sähkö Oy" ;
+    cim:IdentifiedObject.name "Vatajankoski Oy" ;
     cim:Names.name "44VATAJANKOSKI",
+        "Balancing Service Provider",
         "FI03985802" ;
     dcterms:identifier "urn:eic:44X-00000000079H" ;
     schema1:vatID "FI03985802" ;
     skos:altLabel "44VATAJANKOSKI" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "Vatajankosken Sähkö Oy" ;
+    skos:prefLabel "Vatajankoski Oy" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

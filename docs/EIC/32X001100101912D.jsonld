@@ -1,0 +1,44 @@
+{
+    "@id": "http://energy.referencedata.eu/EIC/32X001100101912D",
+    "@type": [
+        "@skos:Concept",
+        "urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument",
+        "@schema:Thing"
+    ],
+    "@skos:inScheme": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@skos:topConceptOf": {
+        "@id": "http://energy.referencedata.eu/EIC"
+    },
+    "@dcterms:identifier": "urn:eic:32X001100101912D",
+    "@skos:prefLabel": "ENERY PORTFOLIO OPTIMIZATION BULGARIA EAD",
+    "@skos:altLabel": "EPO_BG",
+    "@skos:definition": {
+        "@language": "en",
+        "@value": "Balance Responsible Party, Capacity Trader"
+    },
+    "@cim:IdentifiedObject.mRID": "32X001100101912D",
+    "@cim:IdentifiedObject.name": "ENERY PORTFOLIO OPTIMIZATION BULGARIA EAD",
+    "@cim:Names.name": [
+        "EPO_BG",
+        "A00204059.BG",
+        "BG207132095",
+        "Balance Responsible Party",
+        "Capacity Trader"
+    ],
+    "@cim:IdentifiedObject.description": "Balance Responsible Party, Capacity Trader",
+    "@cim:Document.docStatus": "A05",
+    "@cim:AttributeInstanceComponent.attribute": "International",
+    "@cim:DateAndOrTime.date": "2026-06-01",
+    "@schema:vatID": "BG207132095",
+    "@context": {
+        "@cim": "http://iec.ch/TC57/CIM100#",
+        "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "@rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "@dcat": "http://www.w3.org/ns/dcat#",
+        "@skos": "http://www.w3.org/2004/02/skos/core#",
+        "@schema": "http://schema.org/",
+        "@dcterms": "http://purl.org/dc/terms/"
+    }
+}

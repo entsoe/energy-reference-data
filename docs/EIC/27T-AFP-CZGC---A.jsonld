@@ -16,7 +16,10 @@
     "@skos:altLabel": "CHBM__1_CHRD__1_",
     "@cim:IdentifiedObject.mRID": "27T-AFP-CZGC---A",
     "@cim:IdentifiedObject.name": "CEPS_V420 Hradec Východ-Mírovka",
-    "@cim:Names.name": "CHBM__1_CHRD__1_",
+    "@cim:Names.name": [
+        "CHBM__1_CHRD__1_",
+        "Internal Line"
+    ],
     "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
     "@cim:DateAndOrTime.date": "2019-09-12",

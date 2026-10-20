@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000000526H" ;
-    cim:IdentifiedObject.name "M 132 Nedalsfoss-T_Vessingfoss" ;
+    cim:IdentifiedObject.name "N 132 Nedalsfoss-T_Vessingfoss" ;
     cim:Names.name "Internal Line",
-        "NO-NEDALSFOSSTVE" ;
+        "NO-132NEDALSFOSS" ;
     dcterms:identifier "urn:eic:50TL00000000526H" ;
-    skos:altLabel "NO-NEDALSFOSSTVE" ;
+    skos:altLabel "NO-132NEDALSFOSS" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Nedalsfoss-T_Vessingfoss" ;
+    skos:prefLabel "N 132 Nedalsfoss-T_Vessingfoss" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000004518",
     "@skos:prefLabel": "FOLLUM  G102 HYDRO",
-    "@skos:altLabel": "NO-FOLLUM__G102_",
+    "@skos:altLabel": "NO-FOLLUMG102",
     "@cim:IdentifiedObject.mRID": "50WG000000004518",
     "@cim:IdentifiedObject.name": "FOLLUM  G102 HYDRO",
     "@cim:Names.name": [
-        "NO-FOLLUM__G102_",
+        "NO-FOLLUMG102",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

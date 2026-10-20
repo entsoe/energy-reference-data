@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XAGMA-123456-K",
     "@skos:prefLabel": "Aguas del Marquesado S.L",
     "@skos:altLabel": "AGMA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XAGMA-123456-K",
     "@cim:IdentifiedObject.name": "Aguas del Marquesado S.L",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB24465106",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-08-26",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB24465106",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

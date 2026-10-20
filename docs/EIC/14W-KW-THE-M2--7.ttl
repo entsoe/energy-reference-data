@@ -11,7 +11,8 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "14W-KW-THE-M2--7" ;
     cim:IdentifiedObject.name "KW Theiß M2" ;
-    cim:Names.name "THE-M2" ;
+    cim:Names.name "Generation Unit",
+        "THE-M2" ;
     dcterms:identifier "urn:eic:14W-KW-THE-M2--7" ;
     skos:altLabel "THE-M2" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;

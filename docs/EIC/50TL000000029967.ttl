@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000029967" ;
-    cim:IdentifiedObject.name "M 132 Åfjord-Storheia" ;
+    cim:IdentifiedObject.name "N 132 Storheia-Åfjord" ;
     cim:Names.name "Internal Line",
-        "NO-STORHEIAAFJOR" ;
+        "NO-132STORHEIAAF" ;
     dcterms:identifier "urn:eic:50TL000000029967" ;
-    skos:altLabel "NO-STORHEIAAFJOR" ;
+    skos:altLabel "NO-132STORHEIAAF" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 132 Åfjord-Storheia" ;
+    skos:prefLabel "N 132 Storheia-Åfjord" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

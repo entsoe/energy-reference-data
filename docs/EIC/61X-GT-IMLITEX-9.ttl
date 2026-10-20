@@ -11,8 +11,10 @@
     cim:Document.docStatus "A03" ;
     cim:IdentifiedObject.mRID "61X-GT-IMLITEX-9" ;
     cim:IdentifiedObject.name "Imlitex Latvija SIA" ;
-    cim:Names.name "IMLITEXLATVIJA",
-        "LV40003628614" ;
+    cim:Names.name "Capacity Trader",
+        "IMLITEXLATVIJA",
+        "LV40003628614",
+        "Trade Responsible Party" ;
     dcterms:identifier "urn:eic:61X-GT-IMLITEX-9" ;
     schema1:vatID "LV40003628614" ;
     skos:altLabel "IMLITEXLATVIJA" ;

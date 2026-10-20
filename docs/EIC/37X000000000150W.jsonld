@@ -12,23 +12,23 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:37X000000000150W",
-    "@skos:prefLabel": "SEFE Mobility GmbH",
-    "@skos:altLabel": "SEFE_MOBILITY_GM",
+    "@skos:prefLabel": "biogeen Mobility GmbH",
+    "@skos:altLabel": "BIOGEEN_MOBILITY",
     "@skos:definition": {
         "@language": "en",
         "@value": "Energy Supplier"
     },
     "@cim:IdentifiedObject.mRID": "37X000000000150W",
-    "@cim:IdentifiedObject.name": "SEFE Mobility GmbH",
+    "@cim:IdentifiedObject.name": "biogeen Mobility GmbH",
     "@cim:Names.name": [
-        "SEFE_MOBILITY_GM",
+        "BIOGEEN_MOBILITY",
         "DE307562356",
         "Energy Supplier"
     ],
     "@cim:IdentifiedObject.description": "Energy Supplier",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-07-29",
+    "@cim:DateAndOrTime.date": "2026-03-26",
     "@schema:vatID": "DE307562356",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

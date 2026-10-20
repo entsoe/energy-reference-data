@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/53XPL000000CEROY> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-02-14" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "53XPL000000CEROY" ;
+    cim:IdentifiedObject.name "Cersanit S.A." ;
+    cim:Names.name "CERSANIT_III",
+        "Consumer",
+        "Consumption Responsible Party",
+        "PL5640001666",
+        "Transmission Capacity Allocator" ;
+    dcterms:identifier "urn:eic:53XPL000000CEROY" ;
+    schema1:vatID "PL5640001666" ;
+    skos:altLabel "CERSANIT_III" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Cersanit S.A." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

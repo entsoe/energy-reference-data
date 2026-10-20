@@ -12,23 +12,18 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:21X0000000013740",
-    "@skos:prefLabel": "AB Klaipedos nafta",
-    "@skos:altLabel": "KLAIPEDOS-NAFTA",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "System Operator"
-    },
+    "@skos:prefLabel": "AB \"KN Energies\"",
+    "@skos:altLabel": "KN-ENERGIES",
     "@cim:IdentifiedObject.mRID": "21X0000000013740",
-    "@cim:IdentifiedObject.name": "AB Klaipedos nafta",
+    "@cim:IdentifiedObject.name": "AB \"KN Energies\"",
     "@cim:Names.name": [
-        "KLAIPEDOS-NAFTA",
+        "KN-ENERGIES",
         "LT106488917",
         "System Operator"
     ],
-    "@cim:IdentifiedObject.description": "System Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-03-16",
+    "@cim:DateAndOrTime.date": "2024-01-11",
     "@schema:vatID": "LT106488917",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

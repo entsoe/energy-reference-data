@@ -7,12 +7,13 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2016-05-13" ;
+    cim:DateAndOrTime.date "2024-05-17" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.description "Distribution System Operator, Network User" ;
     cim:IdentifiedObject.mRID "58X-CITYGAS---1I" ;
     cim:IdentifiedObject.name "CITYGAS BULGARIA" ;
-    cim:Names.name "BG131285259",
+    cim:Names.name "A0009986K.BG",
+        "BG131285259",
         "CITYGAS",
         "Distribution System Operator",
         "Network User" ;

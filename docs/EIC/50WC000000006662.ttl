@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-10-16" ;
+    cim:DateAndOrTime.date "2026-03-04" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50WC000000006662" ;
-    cim:IdentifiedObject.name "S Hunsfos  5   L1 Industri" ;
+    cim:IdentifiedObject.name "S Hunsf Ve 22  L1 Industri" ;
     cim:Names.name "Load",
-        "NO-HUNSFOS5NC" ;
+        "NO-HUNS_VES22NC" ;
     dcterms:identifier "urn:eic:50WC000000006662" ;
-    skos:altLabel "NO-HUNSFOS5NC" ;
+    skos:altLabel "NO-HUNS_VES22NC" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Hunsfos  5   L1 Industri" ;
+    skos:prefLabel "S Hunsf Ve 22  L1 Industri" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

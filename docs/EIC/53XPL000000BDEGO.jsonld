@@ -12,25 +12,26 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:53XPL000000BDEGO",
-    "@skos:prefLabel": "BD Spółka z o.o.",
-    "@skos:altLabel": "BD-SPZOO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumer, Distribution System Operator, Network User, Trade Responsible Party"
-    },
+    "@skos:prefLabel": "ESV Fabryczna Sp. z o.o.",
+    "@skos:altLabel": "ESV_FABRYCZNA",
     "@cim:IdentifiedObject.mRID": "53XPL000000BDEGO",
-    "@cim:IdentifiedObject.name": "BD Spółka z o.o.",
+    "@cim:IdentifiedObject.name": "ESV Fabryczna Sp. z o.o.",
     "@cim:Names.name": [
-        "BD-SPZOO",
-        "PL8971746522",
+        "ESV_FABRYCZNA",
+        "8971746522",
         "Consumer",
-        "Trade Responsible Party"
+        "Energy Supplier",
+        "Meter Administrator",
+        "Network User",
+        "System Operator",
+        "Trade Responsible Party",
+        "Grid Access Provider",
+        "Metered Data Responsible"
     ],
-    "@cim:IdentifiedObject.description": "Consumer, Distribution System Operator, Network User, Trade Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2015-11-20",
-    "@schema:vatID": "PL8971746522",
+    "@cim:DateAndOrTime.date": "2026-04-08",
+    "@schema:vatID": "8971746522",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50TT00000005638P",
-    "@skos:prefLabel": "S Saurdal  T8 Transformator",
-    "@skos:altLabel": "NO-SAURDAL_T8",
+    "@skos:prefLabel": "S Saurdal  T8G Transformator",
+    "@skos:altLabel": "NO-SAURDALT8G",
     "@cim:IdentifiedObject.mRID": "50TT00000005638P",
-    "@cim:IdentifiedObject.name": "S Saurdal  T8 Transformator",
+    "@cim:IdentifiedObject.name": "S Saurdal  T8G Transformator",
     "@cim:Names.name": [
-        "NO-SAURDAL_T8",
+        "NO-SAURDALT8G",
         "Transformer"
     ],
-    "@cim:Document.docStatus": "A05",
+    "@cim:Document.docStatus": "A03",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-02-23",
+    "@cim:DateAndOrTime.date": "2026-01-09",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

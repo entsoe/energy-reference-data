@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WG000000017966",
     "@skos:prefLabel": "SVEAN   G3      HYDRO",
-    "@skos:altLabel": "NO-SVEAN___G3___",
+    "@skos:altLabel": "NO-SVEANG3",
     "@cim:IdentifiedObject.mRID": "50WG000000017966",
     "@cim:IdentifiedObject.name": "SVEAN   G3      HYDRO",
     "@cim:Names.name": [
-        "NO-SVEAN___G3___",
+        "NO-SVEANG3",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

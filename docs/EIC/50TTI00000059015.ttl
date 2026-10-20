@@ -7,14 +7,14 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2021-02-23" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TTI00000059015" ;
     cim:IdentifiedObject.name "N Tefre    T1 Transformator" ;
-    cim:Names.name "NO-TEFRE___T1",
+    cim:Names.name "NO-TEFRET1",
         "Transformer" ;
     dcterms:identifier "urn:eic:50TTI00000059015" ;
-    skos:altLabel "NO-TEFRE___T1" ;
+    skos:altLabel "NO-TEFRET1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "N Tefre    T1 Transformator" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .

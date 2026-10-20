@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18X0000000000IO3",
     "@skos:prefLabel": "Indorama Ventures Quimica S.L.U.",
     "@skos:altLabel": "INVEQ",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18X0000000000IO3",
     "@cim:IdentifiedObject.name": "Indorama Ventures Quimica S.L.U.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESB87314241",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-07-18",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESB87314241",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

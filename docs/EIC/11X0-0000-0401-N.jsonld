@@ -12,19 +12,19 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:11X0-0000-0401-N",
-    "@skos:prefLabel": "The Mobility House GmbH",
+    "@skos:prefLabel": "The Mobility House Energy GmbH",
     "@skos:altLabel": "TMH",
     "@cim:IdentifiedObject.mRID": "11X0-0000-0401-N",
-    "@cim:IdentifiedObject.name": "The Mobility House GmbH",
+    "@cim:IdentifiedObject.name": "The Mobility House Energy GmbH",
     "@cim:Names.name": [
         "TMH",
-        "DE280860814",
+        "DE454780673",
         "Balance Responsible Party"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2022-06-24",
-    "@schema:vatID": "DE280860814",
+    "@cim:DateAndOrTime.date": "2026-08-21",
+    "@schema:vatID": "DE454780673",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

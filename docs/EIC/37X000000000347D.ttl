@@ -1,0 +1,25 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/37X000000000347D> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2026-04-09" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.description "Balance Responsible Party" ;
+    cim:IdentifiedObject.mRID "37X000000000347D" ;
+    cim:IdentifiedObject.name "Alternoil GmbH" ;
+    cim:Names.name "ALTERNOIL_GMBH",
+        "Balance Responsible Party",
+        "DE252193126" ;
+    dcterms:identifier "urn:eic:37X000000000347D" ;
+    schema1:vatID "DE252193126" ;
+    skos:altLabel "ALTERNOIL_GMBH" ;
+    skos:definition "Balance Responsible Party"@en ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "Alternoil GmbH" ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

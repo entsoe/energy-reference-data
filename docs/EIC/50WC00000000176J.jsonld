@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WC00000000176J",
     "@skos:prefLabel": "S K-H      47  22 Forbruk",
-    "@skos:altLabel": "NO-K-H4722",
+    "@skos:altLabel": "NO-K_H4722",
     "@cim:IdentifiedObject.mRID": "50WC00000000176J",
     "@cim:IdentifiedObject.name": "S K-H      47  22 Forbruk",
     "@cim:Names.name": [
-        "NO-K-H4722",
+        "NO-K_H4722",
         "Load"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-10-16",
+    "@cim:DateAndOrTime.date": "2026-06-23",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

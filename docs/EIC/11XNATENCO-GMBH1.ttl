@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XNATENCO-GMBH1" ;
     cim:IdentifiedObject.name "NATENCO - Natural Energy Corporation GmbH" ;
-    cim:Names.name "Balance Group",
-        "DE213422905",
-        "NATENCO" ;
+    cim:Names.name "DE213422905",
+        "NATENCO",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XNATENCO-GMBH1" ;
     schema1:vatID "DE213422905" ;
     skos:altLabel "NATENCO" ;

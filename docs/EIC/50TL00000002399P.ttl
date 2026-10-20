@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002399P" ;
-    cim:IdentifiedObject.name "S Halden 420 Lo1 X" ;
+    cim:IdentifiedObject.name "S Halden   420 Lo1 X" ;
     cim:Names.name "Internal Line",
-        "NO-HALDEN420LO1X" ;
+        "NO-HALDEN420LO1" ;
     dcterms:identifier "urn:eic:50TL00000002399P" ;
-    skos:altLabel "NO-HALDEN420LO1X" ;
+    skos:altLabel "NO-HALDEN420LO1" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S Halden 420 Lo1 X" ;
+    skos:prefLabel "S Halden   420 Lo1 X" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

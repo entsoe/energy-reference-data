@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002837R" ;
-    cim:IdentifiedObject.name "M 66 Kaldåga-Drevvatn" ;
+    cim:IdentifiedObject.name "N 66 Kaldåga-Drevvatn" ;
     cim:Names.name "Internal Line",
-        "NO-KALDAGADREVVA" ;
+        "NO-66KALDAGADREV" ;
     dcterms:identifier "urn:eic:50TL00000002837R" ;
-    skos:altLabel "NO-KALDAGADREVVA" ;
+    skos:altLabel "NO-66KALDAGADREV" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 66 Kaldåga-Drevvatn" ;
+    skos:prefLabel "N 66 Kaldåga-Drevvatn" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

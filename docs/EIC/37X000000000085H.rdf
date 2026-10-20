@@ -10,12 +10,13 @@
     <cim:IdentifiedObject.mRID>37X000000000085H</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>VNG Handel &amp; Vertrieb GmbH</cim:IdentifiedObject.name>
     <cim:Names.name>VNG_HANDEL_VERT</cim:Names.name>
-    <cim:Names.name>DE272548903</cim:Names.name>
+    <cim:Names.name>HRB33088</cim:Names.name>
     <cim:IdentifiedObject.description>Balance Group Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A03</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2018-02-26</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-06-16</cim:DateAndOrTime.date>
+    <cim:Names.name>Balance Group Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
-    <schema:vatID>DE272548903</schema:vatID>
+    <schema:vatID>HRB33088</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

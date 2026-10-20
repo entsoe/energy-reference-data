@@ -4,15 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:18XFENIEENERGIAX</dcterms:identifier>
-    <skos:prefLabel>FENIE ENERGIA</skos:prefLabel>
+    <skos:prefLabel>FENIE ENERGIA, S.A.</skos:prefLabel>
     <skos:altLabel>FEN</skos:altLabel>
     <cim:IdentifiedObject.mRID>18XFENIEENERGIAX</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>FENIE ENERGIA</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>FENIE ENERGIA, S.A.</cim:IdentifiedObject.name>
     <cim:Names.name>FEN</cim:Names.name>
     <cim:Names.name>ESA85908036</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2023-02-01</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2026-10-14</cim:DateAndOrTime.date>
     <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESA85908036</schema:vatID>

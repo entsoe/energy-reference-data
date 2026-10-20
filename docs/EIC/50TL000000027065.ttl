@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000027065" ;
-    cim:IdentifiedObject.name "M 22 Grytneselva-Syltebø" ;
+    cim:IdentifiedObject.name "N 22 Grytneselva-Syltebø" ;
     cim:Names.name "Internal Line",
-        "NO-GRYTNESELVASY" ;
+        "NO-22GRYTNESELVA" ;
     dcterms:identifier "urn:eic:50TL000000027065" ;
-    skos:altLabel "NO-GRYTNESELVASY" ;
+    skos:altLabel "NO-22GRYTNESELVA" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Grytneselva-Syltebø" ;
+    skos:prefLabel "N 22 Grytneselva-Syltebø" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

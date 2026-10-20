@@ -4,17 +4,19 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:23XUSKMOUTHPOWE1</dcterms:identifier>
-    <skos:prefLabel>Uskmouth Power Company Limited</skos:prefLabel>
+    <skos:prefLabel>SIMEC USKMOUTH POWER LIMITED</skos:prefLabel>
     <skos:altLabel>USKMOUTHPOWER</skos:altLabel>
     <skos:definition xml:lang="en">Trader</skos:definition>
     <cim:IdentifiedObject.mRID>23XUSKMOUTHPOWE1</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>Uskmouth Power Company Limited</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>SIMEC USKMOUTH POWER LIMITED</cim:IdentifiedObject.name>
     <cim:Names.name>USKMOUTHPOWER</cim:Names.name>
+    <cim:Names.name>GB209555792</cim:Names.name>
     <cim:IdentifiedObject.description>Trader</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-10-18</cim:DateAndOrTime.date>
-    <cim:Names.name>Valid EIC Function needed</cim:Names.name>
+    <cim:DateAndOrTime.date>2024-12-22</cim:DateAndOrTime.date>
+    <cim:Names.name>Trade Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
+    <schema:vatID>GB209555792</schema:vatID>
   </skos:Concept>
 </rdf:RDF>

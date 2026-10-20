@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2026-05-29" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL00000002015W" ;
-    cim:IdentifiedObject.name "S 66 Naustdal-Førde" ;
+    cim:IdentifiedObject.name "N 66 Naustdal-Erdal" ;
     cim:Names.name "Internal Line",
-        "NO-NAUSTDALFORDE" ;
+        "NO-66NAUSTDALERD" ;
     dcterms:identifier "urn:eic:50TL00000002015W" ;
-    skos:altLabel "NO-NAUSTDALFORDE" ;
+    skos:altLabel "NO-66NAUSTDALERD" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "S 66 Naustdal-Førde" ;
+    skos:prefLabel "N 66 Naustdal-Erdal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

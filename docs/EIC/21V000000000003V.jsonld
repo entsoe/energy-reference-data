@@ -13,21 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:21V000000000003V",
     "@skos:prefLabel": "GAZ-SYSTEM ISO",
-    "@skos:altLabel": "GS-ISO",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Gas Transmission Operator"
-    },
+    "@skos:altLabel": "GAZ-SYSTEM_ISO",
     "@cim:IdentifiedObject.mRID": "21V000000000003V",
     "@cim:IdentifiedObject.name": "GAZ-SYSTEM ISO",
     "@cim:Names.name": [
-        "GS-ISO",
-        "Valid EIC Function needed"
+        "GAZ-SYSTEM_ISO",
+        "Location"
     ],
-    "@cim:IdentifiedObject.description": "Gas Transmission Operator",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2016-10-18",
+    "@cim:DateAndOrTime.date": "2024-05-30",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

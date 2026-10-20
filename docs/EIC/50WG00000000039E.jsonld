@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000000039E",
-    "@skos:prefLabel": "ARNA    G106 HYDRO",
-    "@skos:altLabel": "NO-ARNA____G106_",
+    "@skos:prefLabel": "MJOLSVIKG106 HYDRO",
+    "@skos:altLabel": "NO-MJOLSVIKG106",
     "@cim:IdentifiedObject.mRID": "50WG00000000039E",
-    "@cim:IdentifiedObject.name": "ARNA    G106 HYDRO",
+    "@cim:IdentifiedObject.name": "MJOLSVIKG106 HYDRO",
     "@cim:Names.name": [
-        "NO-ARNA____G106_",
+        "NO-MJOLSVIKG106",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2026-09-10",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

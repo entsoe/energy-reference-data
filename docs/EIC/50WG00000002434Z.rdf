@@ -4,14 +4,14 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:50WG00000002434Z</dcterms:identifier>
-    <skos:prefLabel>ROD     G120 HYDRO</skos:prefLabel>
-    <skos:altLabel>NO-ROD_____G120_</skos:altLabel>
+    <skos:prefLabel>TUDDAL  A1      HYDRO</skos:prefLabel>
+    <skos:altLabel>NO-TUDDALA1</skos:altLabel>
     <cim:IdentifiedObject.mRID>50WG00000002434Z</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>ROD     G120 HYDRO</cim:IdentifiedObject.name>
-    <cim:Names.name>NO-ROD_____G120_</cim:Names.name>
+    <cim:IdentifiedObject.name>TUDDAL  A1      HYDRO</cim:IdentifiedObject.name>
+    <cim:Names.name>NO-TUDDALA1</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2020-06-25</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2025-02-21</cim:DateAndOrTime.date>
     <cim:Names.name>Generation Unit</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>

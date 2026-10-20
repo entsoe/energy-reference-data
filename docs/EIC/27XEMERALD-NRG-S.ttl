@@ -1,0 +1,23 @@
+@prefix cim: <http://iec.ch/TC57/CIM100#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema1: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://energy.referencedata.eu/EIC/27XEMERALD-NRG-S> a schema1:Thing,
+        skos:Concept,
+        <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
+    cim:AttributeInstanceComponent.attribute "International" ;
+    cim:DateAndOrTime.date "2024-03-21" ;
+    cim:Document.docStatus "A05" ;
+    cim:IdentifiedObject.mRID "27XEMERALD-NRG-S" ;
+    cim:IdentifiedObject.name "EMERALD NRG S.R.O." ;
+    cim:Names.name "Balance Responsible Party",
+        "CZ19065795",
+        "EMERALD-NRG" ;
+    dcterms:identifier "urn:eic:27XEMERALD-NRG-S" ;
+    schema1:vatID "CZ19065795" ;
+    skos:altLabel "EMERALD-NRG" ;
+    skos:inScheme <http://energy.referencedata.eu/EIC> ;
+    skos:prefLabel "EMERALD NRG S.R.O." ;
+    skos:topConceptOf <http://energy.referencedata.eu/EIC> .
+

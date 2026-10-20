@@ -4,17 +4,15 @@
     <skos:topConceptOf rdf:resource="http://energy.referencedata.eu/EIC"/>
     <rdf:type rdf:resource="urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument"/>
     <dcterms:identifier>urn:eic:21W000000000095N</dcterms:identifier>
-    <skos:prefLabel>VGS Edison Stoccaggio</skos:prefLabel>
-    <skos:altLabel>EDISON-VIRT-STOR</skos:altLabel>
-    <skos:definition xml:lang="en">Resource Object</skos:definition>
+    <skos:prefLabel>STOGIT (HUB 2)</skos:prefLabel>
+    <skos:altLabel>SSO_FACILITY</skos:altLabel>
     <cim:IdentifiedObject.mRID>21W000000000095N</cim:IdentifiedObject.mRID>
-    <cim:IdentifiedObject.name>VGS Edison Stoccaggio</cim:IdentifiedObject.name>
-    <cim:Names.name>EDISON-VIRT-STOR</cim:Names.name>
-    <cim:IdentifiedObject.description>Resource Object</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>STOGIT (HUB 2)</cim:IdentifiedObject.name>
+    <cim:Names.name>SSO_FACILITY</cim:Names.name>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2015-11-06</cim:DateAndOrTime.date>
-    <cim:Names.name>Resource Object</cim:Names.name>
+    <cim:DateAndOrTime.date>2026-01-05</cim:DateAndOrTime.date>
+    <cim:Names.name>Gas Storage Facility</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
   </skos:Concept>
 </rdf:RDF>

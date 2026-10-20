@@ -14,10 +14,6 @@
     "@dcterms:identifier": "urn:eic:18XUNIE-123456-D",
     "@skos:prefLabel": "UNIESPISA, S.A.",
     "@skos:altLabel": "UNIE",
-    "@skos:definition": {
-        "@language": "en",
-        "@value": "Consumption Responsible Party"
-    },
     "@cim:IdentifiedObject.mRID": "18XUNIE-123456-D",
     "@cim:IdentifiedObject.name": "UNIESPISA, S.A.",
     "@cim:Names.name": [
@@ -25,10 +21,9 @@
         "ESA24249294",
         "Consumption Responsible Party"
     ],
-    "@cim:IdentifiedObject.description": "Consumption Responsible Party",
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2013-05-23",
+    "@cim:DateAndOrTime.date": "2024-11-04",
     "@schema:vatID": "ESA24249294",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",

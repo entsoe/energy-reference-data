@@ -13,16 +13,16 @@
     },
     "@dcterms:identifier": "urn:eic:50WP000000009771",
     "@skos:prefLabel": "Vika Kraft",
-    "@skos:altLabel": "NO-VIKA-KRAFT_PL",
+    "@skos:altLabel": "NO-VIKAKRAFT",
     "@cim:IdentifiedObject.mRID": "50WP000000009771",
     "@cim:IdentifiedObject.name": "Vika Kraft",
     "@cim:Names.name": [
-        "NO-VIKA-KRAFT_PL",
+        "NO-VIKAKRAFT",
         "Production Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2019-08-13",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

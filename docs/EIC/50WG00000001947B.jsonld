@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:50WG00000001947B",
-    "@skos:prefLabel": "TUNNSJODG113 HYDRO",
-    "@skos:altLabel": "NO-TUNNSJODG113_",
+    "@skos:prefLabel": "LIAFOSS G1      HYDRO",
+    "@skos:altLabel": "NO-LIAFOSSG1",
     "@cim:IdentifiedObject.mRID": "50WG00000001947B",
-    "@cim:IdentifiedObject.name": "TUNNSJODG113 HYDRO",
+    "@cim:IdentifiedObject.name": "LIAFOSS G1      HYDRO",
     "@cim:Names.name": [
-        "NO-TUNNSJODG113_",
+        "NO-LIAFOSSG1",
         "Generation Unit"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2020-06-25",
+    "@cim:DateAndOrTime.date": "2025-02-21",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

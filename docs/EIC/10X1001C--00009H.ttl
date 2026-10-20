@@ -7,13 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-03-31" ;
+    cim:DateAndOrTime.date "2026-10-15" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "10X1001C--00009H" ;
     cim:IdentifiedObject.name "Common platform for mFRR" ;
     cim:Names.name "MFRR_PLATFORM",
+        "NA1",
         "Platform Operator" ;
     dcterms:identifier "urn:eic:10X1001C--00009H" ;
+    schema1:vatID "NA1" ;
     skos:altLabel "MFRR_PLATFORM" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
     skos:prefLabel "Common platform for mFRR" ;

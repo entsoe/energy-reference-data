@@ -6,15 +6,13 @@
     <dcterms:identifier>urn:eic:18X00000000014VR</dcterms:identifier>
     <skos:prefLabel>MINAS DE ALCANTARA, S.L.</skos:prefLabel>
     <skos:altLabel>MINAL</skos:altLabel>
-    <skos:definition xml:lang="en">Consumption Responsible Party</skos:definition>
     <cim:IdentifiedObject.mRID>18X00000000014VR</cim:IdentifiedObject.mRID>
     <cim:IdentifiedObject.name>MINAS DE ALCANTARA, S.L.</cim:IdentifiedObject.name>
     <cim:Names.name>MINAL</cim:Names.name>
     <cim:Names.name>ESB10399277</cim:Names.name>
-    <cim:IdentifiedObject.description>Consumption Responsible Party</cim:IdentifiedObject.description>
     <cim:Document.docStatus>A05</cim:Document.docStatus>
     <cim:AttributeInstanceComponent.attribute>International</cim:AttributeInstanceComponent.attribute>
-    <cim:DateAndOrTime.date>2016-09-19</cim:DateAndOrTime.date>
+    <cim:DateAndOrTime.date>2024-11-04</cim:DateAndOrTime.date>
     <cim:Names.name>Consumption Responsible Party</cim:Names.name>
     <rdf:type rdf:resource="http://schema.org/Thing"/>
     <schema:vatID>ESB10399277</schema:vatID>

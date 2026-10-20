@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:19T110000006438D",
-    "@skos:prefLabel": "Pątnów-Jasiniec t.1",
+    "@skos:prefLabel": "400kV Jasiniec-Patnow 1",
     "@skos:altLabel": "429",
     "@cim:IdentifiedObject.mRID": "19T110000006438D",
-    "@cim:IdentifiedObject.name": "Pątnów-Jasiniec t.1",
+    "@cim:IdentifiedObject.name": "400kV Jasiniec-Patnow 1",
     "@cim:Names.name": [
         "429",
         "Internal Line"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-05-12",
+    "@cim:DateAndOrTime.date": "2026-04-17",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",

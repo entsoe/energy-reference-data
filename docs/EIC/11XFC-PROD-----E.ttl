@@ -12,9 +12,9 @@
     cim:IdentifiedObject.description "Balance Group" ;
     cim:IdentifiedObject.mRID "11XFC-PROD-----E" ;
     cim:IdentifiedObject.name "Bilanzkreis für Erzeugungsprognose-Fahrpläne" ;
-    cim:Names.name "Balance Group",
-        "DE170832356",
-        "FC_PROD" ;
+    cim:Names.name "DE170832356",
+        "FC_PROD",
+        "Valid EIC function needed" ;
     dcterms:identifier "urn:eic:11XFC-PROD-----E" ;
     schema1:vatID "DE170832356" ;
     skos:altLabel "FC_PROD" ;

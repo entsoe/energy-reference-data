@@ -7,15 +7,15 @@
         skos:Concept,
         <urn:iec62325.351:tc57wg16:451-n:eicdocument:1:1#EICCode_MarketDocument> ;
     cim:AttributeInstanceComponent.attribute "International" ;
-    cim:DateAndOrTime.date "2020-11-13" ;
+    cim:DateAndOrTime.date "2025-02-21" ;
     cim:Document.docStatus "A05" ;
     cim:IdentifiedObject.mRID "50TL000000008192" ;
-    cim:IdentifiedObject.name "M 22 Bondal-Standal" ;
+    cim:IdentifiedObject.name "N 22 Bondal-Standal" ;
     cim:Names.name "Internal Line",
-        "NO-BONDALSTANDAL" ;
+        "NO-22BONDALSTAND" ;
     dcterms:identifier "urn:eic:50TL000000008192" ;
-    skos:altLabel "NO-BONDALSTANDAL" ;
+    skos:altLabel "NO-22BONDALSTAND" ;
     skos:inScheme <http://energy.referencedata.eu/EIC> ;
-    skos:prefLabel "M 22 Bondal-Standal" ;
+    skos:prefLabel "N 22 Bondal-Standal" ;
     skos:topConceptOf <http://energy.referencedata.eu/EIC> .
 

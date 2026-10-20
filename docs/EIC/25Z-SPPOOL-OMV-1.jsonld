@@ -12,17 +12,17 @@
         "@id": "http://energy.referencedata.eu/EIC"
     },
     "@dcterms:identifier": "urn:eic:25Z-SPPOOL-OMV-1",
-    "@skos:prefLabel": "Storage Pool OMV Gas Storage Austria",
+    "@skos:prefLabel": "OMV Gas Storage Austria",
     "@skos:altLabel": "SPPOOL-OMV",
     "@cim:IdentifiedObject.mRID": "25Z-SPPOOL-OMV-1",
-    "@cim:IdentifiedObject.name": "Storage Pool OMV Gas Storage Austria",
+    "@cim:IdentifiedObject.name": "OMV Gas Storage Austria",
     "@cim:Names.name": [
         "SPPOOL-OMV",
         "Connection Point"
     ],
     "@cim:Document.docStatus": "A05",
     "@cim:AttributeInstanceComponent.attribute": "International",
-    "@cim:DateAndOrTime.date": "2021-07-30",
+    "@cim:DateAndOrTime.date": "2025-07-15",
     "@context": {
         "@cim": "http://iec.ch/TC57/CIM100#",
         "@rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
