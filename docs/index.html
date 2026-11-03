@@ -87,14 +87,39 @@
       .publication-column a {
         font-size: smaller;
       }
+      .github-button {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background-color: #24292f;
+        color: white;
+        padding: 10px 16px;
+        border: 1px solid white;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .github-button img {
+        width: 24px;
+        height: 24px;
+        margin: 0;
+      }
+      .github-button:hover {
+        background-color: #444;
+        color: white;
+      }
     </style>
   </head>
   <body>
     <header>
       <div></div>      
       <h1>Energy Reference Data</h1>
-      <a href="https://github.com/Haigutus/Energy-Reference-Data" target="_blank">
-        <img src="github-mark-white.svg" alt="GitHub Logo">
+      <a href="https://github.com/entsoe/energy-reference-data"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="github-button">
+        <img src="github-mark-white.svg" alt="">
+        GitHub
       </a>
     </header>
     <main>
